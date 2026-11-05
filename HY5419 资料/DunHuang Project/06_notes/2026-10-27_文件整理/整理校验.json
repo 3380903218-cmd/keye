@@ -1,0 +1,438 @@
+{
+  "date": "2026-10-27",
+  "timezone": "Asia/Singapore",
+  "status": "pass",
+  "original_files": 1243,
+  "deleted_files": 78,
+  "deleted_bytes": 62907547,
+  "moved_files": 10,
+  "moved_files_byte_identical": true,
+  "protected_binary_artifacts_verified": 61,
+  "protected_binary_hashes": [
+    {
+      "path": "04_gephi/历史版本/早期试点/dunhuang_pilot_stein_qing.gephi",
+      "sha256": "9a688a4cb1017f97072aa5cf28ced6ffa0b51ae22c24e39cbc74412adec3b1b3"
+    },
+    {
+      "path": "04_gephi/历史版本/早期试点/dunhuang_pilot_stein_qing.gexf",
+      "sha256": "ceef01b32290bdfb3120ed23e55c4b00dd8d65fbe2c04abf6ed49048b613d382"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/双层传播网络.gexf",
+      "sha256": "9004aeec3f555f3fa8e1e2d029e444ddcc3c38df722ff524edddd3d0fd2f3e18"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/含待核记录/双层传播网络_含待核.gexf",
+      "sha256": "973689bf8bf86bb0804e17eabd1088e5107f62e6ae24eb4260384166d9fb40ae"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/实物流转层/实物流转层.gexf",
+      "sha256": "5ef8f25ee8ed2ac77341d893f4998e7d3dbd6257022da31fbe37a0fe3d7061ad"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/知识传播层/知识传播层.gexf",
+      "sha256": "6af067db1515a3c087ecff103b09464a5d36609bc76b590e31d1dbf520eba545"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/双层传播网络_英文标签.gexf",
+      "sha256": "7924f5e39ea350479cd473a59f2c3777f7d3e5195834bcf52f0fb13c4ff01372"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/含待核记录/双层传播网络_含待核_英文标签.gexf",
+      "sha256": "94e979f0d7448003ce43da7595e65380425a7d8118ee440332661122d80b9d48"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/实物流转层/实物流转层_英文标签.gexf",
+      "sha256": "e6bf237f7f66990384a3dc4a679aea620aa4a1a19d11d17cf02654e35c80f86c"
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/知识传播层/知识传播层_英文标签.gexf",
+      "sha256": "001e44ccfc654e01d566005010917e79ea0da17a07241ce0e6a2486897e2052e"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/method_sources/HKO_1910_公农历对照表.pdf",
+      "sha256": "1e776703801459380f27411623cf6911f673c986f3736ed03d83b0e63d666e01"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/分路线/Pelliot.gexf",
+      "sha256": "6d69ce2a03e0972047cb691b9a3618261f11e1edb3a81c91467d52bef7d8f19e"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/分路线/Qing.gexf",
+      "sha256": "e55601000ba98e4b3340b6a9d392c1b316167e873c05654335e1101a7762e027"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/分路线/Stein.gexf",
+      "sha256": "8cb5e9403fdf1d6f8a230c8bb89c274132d90e0544ef42cfdd44d854d42b4413"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/辅助_事件参与图/进展gephi数据集_事件参与图.gexf",
+      "sha256": "a34a9391f3519f8934e56491722739b0024a71be9328847e9b0b0193672a83b1"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/进展gephi数据集.gexf",
+      "sha256": "9dd2f8876eac229bd1df7317fbad07e0dc52d034178dc0f54a32f118b2887230"
+    },
+    {
+      "path": "04_gephi/历史版本/早期实物图/进展图1.gephi",
+      "sha256": "46db11e1f881418fcaf9e9ccba2d9a8625de90306b4d642225ad92165d130cc1"
+    },
+    {
+      "path": "05_presentation/HY5419_数字史进度汇报_可编辑极简模板.pptx",
+      "sha256": "ed1367456fcde079bfa7087fc4af55f1f9d81afa5bb6799374e1f443464da4be"
+    },
+    {
+      "path": "05_presentation/pre英文稿.docx",
+      "sha256": "fe1427841776edfb53aa9c24f4269049712f246454d56254cb16453fd070904b"
+    },
+    {
+      "path": "06_notes/2026-10-13_双层传播网络补采集/双层传播网络_中文记录工作簿.xlsx",
+      "sha256": "b8bb6f76177aa3a3f85e09d454d8d20caab84ca844e1fd17d6eafa1c383fba1e"
+    },
+    {
+      "path": "06_notes/2026-10-13_双层传播网络补采集/整理版_2026-10-13/双层传播网络_中文记录工作簿_整理版.xlsx",
+      "sha256": "0b3aadb52134753cc7035677dac1de8352e67e6ae73acb8629817b25e0fe308b"
+    },
+    {
+      "path": "01_项目方案与资料清单/HY5419_敦煌数字史项目_进度展示工作方案_20260915.docx",
+      "sha256": "f1b4a97fb41f9a2ce2aab53c784d9e5e83756d1d986834db8d88a669148e635c"
+    },
+    {
+      "path": "01_项目方案与资料清单/HY5419_敦煌数字史项目方案.pdf",
+      "sha256": "e9073812c59014d8aeb29f4cfe8204b7c83bd78683277301d2b8cb4666c96cb4"
+    },
+    {
+      "path": "01_项目方案与资料清单/HY5419_敦煌项目资料收集清单.xlsx",
+      "sha256": "24386bfa7ebf85cc787f0e3a3ec216dc302bcfda0e315f46f7dfe63dd69ed0b7"
+    },
+    {
+      "path": "01_项目方案与资料清单/敦煌项目资料.xlsx",
+      "sha256": "edaac09d34301fb062697efcd5535c892ac57d0a3a64da00f2d469d249b613fe"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+      "sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/full-text/S11_NLC_敦煌文献数字化.pdf",
+      "sha256": "a53d4a96d6da3b3d84c65850adab5cb7e2500845cd5410755450040ba7b83331"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/full-text/S17_Whitfield_Buddhism_and_Silk_AAM.pdf",
+      "sha256": "515805f99f4bf233ba6bf205491dae0f7bea112b3e235ff74111565e3366b205"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/full-text/S20_Stein_Handbook_2008.pdf",
+      "sha256": "ae6922d0ca2f25d5fbafc18d6a7d68320cd251fbff6ec39c41beab802c402804"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/full-text/S21_NCL_敦煌文献调查报告.pdf",
+      "sha256": "b6b3d25d0c513dd30d9189d46bded2e316d98c7fa150ea8ba028cfb14f1fa364"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b"
+    },
+    {
+      "path": "文献/Doumy_2025_Wang_Yuanlu_First_Curator_Stein_Collection_AAM.pdf",
+      "sha256": "f703389aeea01afaad1f9e5de9b565587313681e843ad5e9d82f1cd5eabc145f"
+    },
+    {
+      "path": "文献/Rong_Xinjiang_Hansen_1999_The_Nature_of_the_Dunhuang_Library_Cave.pdf",
+      "sha256": "d5989e9beff882f011d9656206bed654839c230776c2dbcf9d62c40bfffafa31"
+    },
+    {
+      "path": "文献/Terzi_Whitfield_2024_Reconstructing_a_Medieval_Library_Dunhuang.pdf",
+      "sha256": "58537191080642fd374ae7ff9314ba7ddbb5258456423bc4879a0852b7652c5c"
+    },
+    {
+      "path": "文献/Zhou_New_Wine_from_an_Old_Bottle_Dunhuang_Library_Cave.pdf",
+      "sha256": "c57112bfb3ec8a2cf03f9e85484b6972ce8983e255fcbd051b82e57ce22b1d22"
+    },
+    {
+      "path": "文献/joch-article-p4_2.pdf",
+      "sha256": "e2b2b6591ee3ebaf73f1e59869ff01278dca26e18b03aa437e72ad400c1baca7"
+    },
+    {
+      "path": "文献/wang-yuanlu-the-first-curator-of-the-stein-collections-dunhuang-corpus.pdf",
+      "sha256": "fd02bd0cf3ed0ec94bade8da6f07c8f82a4f300270e9c6173c202ef031036888"
+    },
+    {
+      "path": "文献/文献综述/2026-10-26_Gephi专题补充/full-text/G02_Ahnert_et_al_2020.pdf",
+      "sha256": "46765c0d0ec0f838fb15d3837784430d3385aa89729ee15ec3fba6d643269b83"
+    },
+    {
+      "path": "文献/文献综述/2026-10-26_Gephi专题补充/full-text/G03_Faust_1997.pdf",
+      "sha256": "199d3ca312189c6968f5ce911de3166b671e90204a73a4011b700204d308567d"
+    },
+    {
+      "path": "文献/文献综述/2026-10-26_Gephi专题补充/full-text/G04_Edelstein_et_al_2017.pdf",
+      "sha256": "8c2fe6c55e4cd6e0647d641e1f78b7c3a85db7e74140f57563c74611bda7752c"
+    },
+    {
+      "path": "文献/文献综述/2026-10-26_Gephi专题补充/full-text/G13_Wang_ed_2012.pdf",
+      "sha256": "c66affc74d268084c1d72cc5efefb59e96d2d9a6a936b906e4c14782a75a5d86"
+    },
+    {
+      "path": "文献/文献综述/2026-10-26_Gephi专题补充/full-text/G14_Wang_2020.pdf",
+      "sha256": "cee7d9be99b38885df3de882768fa736f1f640840e4c9f79f4a0a8a19b93bf1b"
+    },
+    {
+      "path": "文献/文献综述/full-text/L01_Doumy_2025.pdf",
+      "sha256": "fd02bd0cf3ed0ec94bade8da6f07c8f82a4f300270e9c6173c202ef031036888"
+    },
+    {
+      "path": "文献/文献综述/full-text/L02_Terzi_Whitfield_2024.pdf",
+      "sha256": "58537191080642fd374ae7ff9314ba7ddbb5258456423bc4879a0852b7652c5c"
+    },
+    {
+      "path": "文献/文献综述/full-text/L04_Xu_2024.pdf",
+      "sha256": "c9c8e3a5a09221917d78a7a760a3fb97affe8ed60a4a2f918ccbf9d0926bf823"
+    },
+    {
+      "path": "文献/文献综述/full-text/L05_Pan_2025.pdf",
+      "sha256": "5b50550a961120e6fd9a008da090b0accb997833a08c8d9136c9fc8aba61e47c"
+    },
+    {
+      "path": "文献/文献综述/full-text/L07_Zhou_Zhang_2023.pdf",
+      "sha256": "f10f1a1f90fee9788c4dba2f4c3852e7f2bcac8fc384b5cd8f7e9878d4156eb5"
+    },
+    {
+      "path": "文献/文献综述/full-text/L08_Wang_Wen_Whitfield_2020.pdf",
+      "sha256": "9136ba440284a1cb64060750b3433aade7b04267885a32334daea26e99e6a8f7"
+    },
+    {
+      "path": "文献/文献综述/full-text/L09_Whitfield_1996_article_excerpt.pdf",
+      "sha256": "6903b3b6f2dd49ae01538fd9a7e20d5952d867acaa318adc147d7834c7b1815b"
+    },
+    {
+      "path": "文献/文献综述/full-text/L10_Cheng_Wang_2021.pdf",
+      "sha256": "811a65e66b99750236beb61d8f93451f3d4f97bede9a380392d59637f021728e"
+    },
+    {
+      "path": "文献/文献综述/metadata/lis2021_last_page_only.pdf",
+      "sha256": "4dd57f64172f85b439f507dbc0e27209c001a338dbfe7665b6e7ab60841c1436"
+    },
+    {
+      "path": "文献/文献综述/sources/originals/Bsr13.21996_full_issue.pdf",
+      "sha256": "1c307031ee192616099001b595893d2af820cf03cd2f0c9bd360594d28dcc783"
+    },
+    {
+      "path": "文献/文献综述/sources/originals/met2020_with_front_matter.pdf",
+      "sha256": "329310fc82255448bbc36d6dfa06ff4f0ca5b920ab12bfb8952b60f85cbfd3b6"
+    },
+    {
+      "path": "文献/文献综述/敦煌-文献综述思考.docx",
+      "sha256": "7f5bc4214ad82e5fe01815150b6106d4282577f4a3361bee382102ef5f8e6d65"
+    },
+    {
+      "path": "路线地图/sources/2026-10-20_实质补采集/R04_Qin_2018.pdf",
+      "sha256": "63006696dd4ea59646437bc858276ee7c51fcc0e70588505e34f79bc60129ddb"
+    },
+    {
+      "path": "路线地图/sources/2026-10-20_实质补采集/R15_Takata.pdf",
+      "sha256": "87309c0fecb0744806b6dde073bed57079bc14479bea0305dd56188a194398ab"
+    },
+    {
+      "path": "路线地图/sources/2026-10-20_实质补采集/原始工作表_补采集前.xlsx",
+      "sha256": "65afef27a27f529e7e4b4e3a707faf19bad2ff9a38aaef315f0b00166200a62d"
+    },
+    {
+      "path": "路线地图/敦煌传播地图-区域详图.pdf",
+      "sha256": "a06b0feb90bc04f5c0d81d2d77754ee98570f1ab433b4f25b0954b9ed780d477"
+    },
+    {
+      "path": "路线地图/敦煌传播地图.qgz",
+      "sha256": "047d39009ab89aed1b4cc096b922b3a1ce3e17a8ced5efb1d11212c00f3699d2"
+    },
+    {
+      "path": "路线地图/敦煌传播地图_区域详图.qgz",
+      "sha256": "2bac8e77884332093591290206b50823d635956ea2b70af2f5f54fee79e40e7d"
+    },
+    {
+      "path": "路线地图/敦煌项目_路线地图资料与制作指南.xlsx",
+      "sha256": "78268c0cb573d4d36a0826e04579ae5c49d4f55863251ef8dca79038734af2b8"
+    }
+  ],
+  "navigation_links_checked": 64,
+  "main_gephi": {
+    "path": "04_gephi/双层传播网络_Gephi/双层传播网络.gexf",
+    "nodes": 46,
+    "edges": 57
+  },
+  "gexf_views_verified": [
+    {
+      "path": "04_gephi/双层传播网络_Gephi/双层传播网络.gexf",
+      "nodes": 46,
+      "edges": 57
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/含待核记录/双层传播网络_含待核.gexf",
+      "nodes": 52,
+      "edges": 63
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/实物流转层/实物流转层.gexf",
+      "nodes": 30,
+      "edges": 37
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/知识传播层/知识传播层.gexf",
+      "nodes": 19,
+      "edges": 20
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/双层传播网络_英文标签.gexf",
+      "nodes": 46,
+      "edges": 57
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/含待核记录/双层传播网络_含待核_英文标签.gexf",
+      "nodes": 52,
+      "edges": 63
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/实物流转层/实物流转层_英文标签.gexf",
+      "nodes": 30,
+      "edges": 37
+    },
+    {
+      "path": "04_gephi/双层传播网络_Gephi/英文标签版/知识传播层/知识传播层_英文标签.gexf",
+      "nodes": 19,
+      "edges": 20
+    }
+  ],
+  "qgis_projects": [
+    {
+      "project": "路线地图/敦煌传播地图.qgz",
+      "local_layers_resolved": [
+        "路线地图/地图导入数据/实物流转_示意线.geojson",
+        "路线地图/地图导入数据/知识传播_示意线.geojson",
+        "路线地图/地图导入数据/地点_默认参考点.geojson"
+      ]
+    },
+    {
+      "project": "路线地图/敦煌传播地图_区域详图.qgz",
+      "local_layers_resolved": [
+        "路线地图/地图导入数据/实物流转_示意线.geojson",
+        "路线地图/地图导入数据/知识传播_示意线.geojson",
+        "路线地图/地图导入数据/地点_默认参考点.geojson"
+      ]
+    }
+  ],
+  "office_archives_verified": [
+    "01_项目方案与资料清单/HY5419_敦煌数字史项目_进度展示工作方案_20260915.docx",
+    "01_项目方案与资料清单/HY5419_敦煌项目资料收集清单.xlsx",
+    "01_项目方案与资料清单/敦煌项目资料.xlsx",
+    "04_gephi/历史版本/早期试点/dunhuang_pilot_stein_qing.gephi",
+    "04_gephi/历史版本/早期实物图/进展图1.gephi"
+  ],
+  "embedded_images_exact_bytes_verified": 34,
+  "pdf_builder_byte_identical_to_existing_outputs": true,
+  "validation_results": [
+    {
+      "scope": "史料包",
+      "exit_code": 0,
+      "result": {
+        "checked_date": "2026-10-27",
+        "historical_bundle_date": "2026-09-22",
+        "status": "pass",
+        "new_works": 9,
+        "readable_files": 10,
+        "catalogue_entries": 18,
+        "evidence_rows": 26,
+        "covered_events": [
+          "E001",
+          "E002",
+          "E003",
+          "E004",
+          "E005",
+          "E006",
+          "E007",
+          "E008",
+          "E009"
+        ],
+        "original_event_count": 9,
+        "download_records_hash_verified": 64,
+        "embedded_scans_hash_verified": 34,
+        "discarded_failed_download_responses": 1,
+        "pdfs_parse_verified": 8,
+        "historical_render_spot_checks": [
+          "S07 assembled PDF page 3 = printed 825",
+          "S22 assembled PDF page 19 = printed 13"
+        ],
+        "pdf_diagnostic": "Historical PDFKit diagnostics retained; this run checks files, hashes and references without a new visual review.",
+        "local_links_checked": 21,
+        "file_inventory_rows": 80,
+        "bundle_bytes_before_manifests": 82553348,
+        "issues": []
+      }
+    },
+    {
+      "scope": "原综述包",
+      "exit_code": 0,
+      "result": {
+        "bundle": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述",
+        "error_count": 0,
+        "issues": [],
+        "status": "ok",
+        "warning_count": 0
+      }
+    },
+    {
+      "scope": "专题补充包",
+      "exit_code": 0,
+      "result": {
+        "bundle": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述/2026-10-26_Gephi专题补充",
+        "error_count": 0,
+        "issues": [],
+        "status": "ok",
+        "warning_count": 0
+      }
+    }
+  ],
+  "existing_files_changed": [
+    {
+      "path": "04_gephi/README.md",
+      "before_sha256": "6124a56f1477464ace76766679b8c2b931ca852ea820dbe611973ab8877147fc",
+      "after_sha256": "8eb948050a26a5924d496d2a838a5fb1ab95fc848594247c90c3ae7e134e5580"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/sources/build_catalogues.py",
+      "before_sha256": "6c0fc5f200e714e5d41c4276e7cfa8b6bd739fc52dfaab67a21af63fc3df3228",
+      "after_sha256": "aa284cf035aee7e9ccc68f9e89a29941576bd42dcb6772549e853ce702908934"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/sources/organize_bundle.py",
+      "before_sha256": "076917497da9c7bc3937b9f683dacd84004b5b2a72dd6febe3b90a06d6dc9852",
+      "after_sha256": "02584e40c4499ac6b828e29e599eb06865c18682800380ce5a6c09cae0921d79"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/sources/verify_bundle.py",
+      "before_sha256": "eeed1bd54735cac7e6d53de7b5030c6e3b34a384b6ce96f9a8431fe22a0c15e8",
+      "after_sha256": "faaff4545bf844df4e5a3c38ada417e65950bda8c0840ddc46b3c5ea9a71b32c"
+    },
+    {
+      "path": "文献/2026-09-22_第一周审计资料/资料目录.csv",
+      "before_sha256": "726a44f09b85c0f430a8dd41a4b75be0deba3a68af9ab2079a5e79acaa8fa15b",
+      "after_sha256": "fab95444fae43832c58c3ad1f34cd3e0010acc2f3166bc1d36888843578f0481"
+    },
+    {
+      "path": "文献/source-manifest.tsv",
+      "before_sha256": "85777879a2ba041fd69e7ab81edba677fbdfd0d760f42851df58ecd2488b7476",
+      "after_sha256": "bd6d4a5f2d7b5c55d0e5931a12109982aca27f2e06e94a03b0e2ad7c1c75e445"
+    },
+    {
+      "path": "文献/文献综述/source-manifest.tsv",
+      "before_sha256": "b38baefe988dd4dfd48ee3abb3696769390352adce1ae89185b4c58befebb8c5",
+      "after_sha256": "8dac0e8aaf8b42522212b873d30ab8b9ea9e1e985622a479e36cbfeba03b99a2"
+    }
+  ],
+  "git": "Read-only inspection only; no commit or push",
+  "issues": [],
+  "final_entry_sha256": "25d6778794c32db96447f9fae486ae4678d97f1253477a9bceb75e18a9198eeb",
+  "closure_state_sha256": "a2ed201ffe3cdbdb6b1d880d93b6759b6f71f6a3586ce1943eee60f38677c0b4",
+  "git_closure_record": "06_notes/2026-10-27_文件整理/整理后Git只读状态.txt",
+  "current_files_before_final_report_update": 1179,
+  "current_bytes_before_final_report_update": 185036977
+}

@@ -1,0 +1,16 @@
+record_id	search_id	source_id	title	year	stage	decision	decision_round	current	supersedes	reason	evidence_role	notes
+SC_G14	S006	G14	陕甘总督升允阻止斯坦因敦煌考古始末	2020	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	original_study	A：历史关系补采
+SC_G13a	S007	G13a	Aurel Stein’s Dealings with Wang Yuanlu and Chinese Officials in Dunhuang in 1907	2012	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	original_study	A：中介角色
+SC_G13b	S007	G13b	Aurel Stein’s Correspondence with Paul Pelliot and Lionel Barnett	2012	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	original_study	A：两层联动
+SC_G08	S004	G08	斯坦因在安西所获敦煌写本之外流过程研究	2015	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	original_study	A：已有路线研究，升入综述
+SC_G07	S003	G07	1909年北京学界公宴伯希和事件补考——兼论王国维与早期敦煌学	2018	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	original_study	A：已有知识层研究，升入综述
+SC_G01	S002	G01	From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources	2015	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	other	A：第一篇方法阅读
+SC_G03	S001	G03	Centrality in affiliation networks	1997	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	other	A：指标解释
+SC_G05	S003	G05	Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach	2015	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	original_study	A：可仿照的案例论证
+SC_G04	S003	G04	Historical Research in a Digital Age: Reflections from the Mapping the Republic of Letters Project	2017	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	other	B：综述与方法论证
+SC_G02	S002	G02	The Network Turn: Changing Perspectives in the Humanities	2020	full_text	include	1	true		题材、证据粒度或网络模型直接适配；已查相应正文段落	review	B：选读理论章节
+SC_G06	S005	G06	Stein’s Recording Angel—Miss F. M. G. Lorimer	1998	abstract	pending	1	true		书目/目录适配，但正文未取得，不升格为已读核心证据	other	待NUS：优先1
+SC_G10	S005	G10	1 Conserving Limitless Life	2025	abstract	pending	1	true		书目/目录适配，但正文未取得，不升格为已读核心证据	other	待手动：优先2
+SC_X01	S006	X01	Social Network Centralization Dynamics in Print Production		title	exclude	1	true		材料生产网络案例有参考价值；本轮已有更直接处理参与、通信与缺失的案例，暂不扩展核心清单。PDF站点受验证保护。	background	不属于本轮交付的核心全文
+SC_X02	S006	X02	Formal network methods in history: why and how?		title	exclude	1	true		一般史学网络方法候选，作为后续理论补读；本轮优先较短编码教程与二模论文，不重复增加同类阅读负担。	background	不属于本轮交付的核心全文
+SC_X03	S004	X03	伯希和1909年北京之行相关事件杂考		title	exclude	1	true		可继续追查，但检索记录对页码有冲突（出现167–176与89等）；须NUS原刊核验，暂不作为完整书目或历史论断依据。	background	不属于本轮交付的核心全文

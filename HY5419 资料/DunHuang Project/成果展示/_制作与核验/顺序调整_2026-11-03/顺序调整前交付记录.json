@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5419-presentation-comments-20261031",
+  "state": "final",
+  "content_authority": "User comments 0–2 in _制作与核验/批注修订_2026-10-31/批注原稿备份.docx; annotated Word controls this revision",
+  "format_authority": "Same annotated original; preserve its paragraph/run styles, fields, numbering, review parts and links",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "presentation-docx",
+      "role": "final",
+      "path": "HY5419_敦煌项目_8分钟展演稿_中英对照.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+      "performed_at": "2026-10-31T23:08:14.189022+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/批注修订_2026-10-31/内容与批注核验.json",
+        "sha256": "49db212bd6ce6bbfd5d6f9ab8f89a1a6e89e9b1aed673a5f70dbb67f6224e157",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Timing remains an estimate rather than a measured live rehearsal.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+      "performed_at": "2026-10-31T23:08:14.189022+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/批注修订_2026-10-31/文档结构核验.json",
+        "sha256": "f6ef1316e351bfffbc6503da13e85663ac1a3c4ed296dff58654fd4cb4246d3d",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+      "performed_at": "2026-10-31T23:08:14.189022+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/批注修订_2026-10-31/排版核验.json",
+        "sha256": "be62a0179f988a1aa759d1ffcc142763bb5c722c015b65053739dc77efc4c6b5",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Comments retained as resolved review history, with normal reading view hiding markup.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+      "performed_at": "2026-10-31T23:08:14.189022+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/批注修订_2026-10-31/交付目录核验.json",
+        "sha256": "dd51b16a5c6205396f4b73b6b006696103df5f44d8d4dac05501066a7f34d183",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "presentation-docx"
+  ],
+  "invalidated_checks": [
+    "Previous DOCX hash and native rendering superseded by user comments and this revision"
+  ],
+  "unresolved_risks": [],
+  "next_action": "Rehearse using the revised original Word file. All requested edits and document checks are complete.",
+  "extensions": {
+    "hy5419": {
+      "backup_sha256": "108a0739796bf5a146a2ba2d3c93c5fd256f665c930b1967ed0cd19f2d4cca85",
+      "comments_accepted": 3,
+      "comments_retained_and_resolved": 3,
+      "final_pages": 7,
+      "english_main_words": 486,
+      "source_unchanged_after_reopen": true
+    }
+  }
+}

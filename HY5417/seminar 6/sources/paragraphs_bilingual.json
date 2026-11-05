@@ -1,0 +1,2729 @@
+{
+  "source": "05_Everingham_2021_Tourism_otherwise_英文全文_作者接受稿.pdf",
+  "source_pages": 28,
+  "segments": [
+    {
+      "kind": "heading",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        1,
+        2
+      ],
+      "id": "S001",
+      "en": "THE (IM)POSSIBILITIES OF DOING TOURISM OTHERWISE: THE CASE OF SETTLER COLONIAL AUSTRALIA AND THE CLOSURE OF THE CLIMB AT ULURU",
+      "zh": "以另一种方式开展旅游的（不）可能性：定居殖民背景下的澳大利亚与乌鲁鲁攀爬关闭案例"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        3,
+        4
+      ],
+      "id": "S002",
+      "en": "Dr Phoebe Everingham, ECR, University of Newcastle Australia. Phoebe.Everingham@newcastle.edu.au",
+      "zh": "Phoebe Everingham 博士，澳大利亚纽卡斯尔大学，早期职业研究人员（ECR）。Phoebe.Everingham@newcastle.edu.au"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        5,
+        6
+      ],
+      "id": "S003",
+      "en": "Dr Andrew Peters, Senior Lecturer, Faculty of Health, Arts and Design, Swinburne University of Technology, Melbourne, Australia",
+      "zh": "Andrew Peters 博士，高级讲师，澳大利亚墨尔本斯威本科技大学健康、艺术与设计学院。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        7,
+        8
+      ],
+      "id": "S004",
+      "en": "Dr Freya Higgins-Desbiolles, Senior Lecturer, School of Management, University of South Australia, Adelaide, Australia",
+      "zh": "Freya Higgins-Desbiolles 博士，高级讲师，澳大利亚阿德莱德南澳大学管理学院。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        9
+      ],
+      "id": "S005",
+      "en": "ABSTRACT:",
+      "zh": "摘要："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "id": "S006",
+      "en": "This article analyses the recent closure of the Uluru climb in the settler colonial context of Australia and reflects on (im)possibilities for doing tourism otherwise to practices and logics of coloniality. Tourism at Uluru is embedded within settler colonial map-making, privileging supply side models of consumption at the expense of the Anangu Traditional Custodians. We contribute to the emerging body of research in tourism that argues for a dismantling of colonial logics in practice and theory and discuss the possibilities inherent in forms of tourism led by the Aboriginal custodians. In this context, tourism can promote deeper engagement to place that is ‘more-than-human’, beyond the Eurocentric dualisms of nature and culture, human/non-human/spirit. Unlearning coloniality is key for promoting transformative tourism.",
+      "zh": "本文在澳大利亚定居殖民的背景下分析近期乌鲁鲁攀爬活动的关闭，并思考以不同于殖民性的实践与逻辑来开展旅游的（不）可能性。乌鲁鲁旅游嵌入定居殖民的地图绘制过程之中，优先考虑供给侧消费模式，牺牲了阿南古传统守护者的利益。本文为旅游研究中日益发展的相关研究作出贡献：这些研究主张在实践和理论中拆解殖民逻辑；我们也讨论由澳大利亚原住民守护者主导的旅游形式所蕴含的可能性。在这一背景下，旅游可以推动人们与地方建立更深入的、超越人类中心的联系，超越欧洲中心主义关于自然与文化、人类／非人类／灵性的二元划分。去习得殖民性，是推动具有转化作用的旅游的关键。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        18
+      ],
+      "id": "S007",
+      "en": "Keywords:",
+      "zh": "关键词："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        19
+      ],
+      "id": "S008",
+      "en": "Decolonisation; Settler colonialism; Critical tourism studies; Indigenous peoples; Uluru, Australia",
+      "zh": "去殖民化；定居殖民主义；批判旅游研究；原住民族；乌鲁鲁，澳大利亚"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        20
+      ],
+      "id": "S009",
+      "en": "INTRODUCTION",
+      "zh": "引言"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2
+      ],
+      "line_ids": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "id": "S010",
+      "en": "“The land has law and culture. We welcome tourists here. Closing the climb is not something to feel upset about but a cause for celebration. Let’s come together; let’s close it together.” — Former Chairman of the Uluru-Kata Tjuta Board of Management Sammy Wilson (cited in Parks Australia, “Stories”, n.d.)",
+      "zh": "“这片土地有法律，也有文化。我们欢迎游客来到这里。关闭攀爬不应令人难过，而是值得庆祝的事情。让我们走到一起；让我们一起关闭它。”——乌鲁鲁—卡塔丘塔管理委员会前主席 Sammy Wilson（转引自 Parks Australia，“Stories”，无日期）"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        2,
+        3
+      ],
+      "line_ids": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "id": "S011",
+      "en": "Critical scholars have long argued that tourism can be a significant colonising and subjugating force, through both the actions of the industry and some tourists themselves (e.g. Enloe, 1989; McLaren, 2003; Mies, 1993). Tourism under capitalist globalisation has attempted to make the world’s places and peoples products for consumption where, “for the twentieth-century tourist, the world has become one large department store of countrysides and cities” (Schivelbusch, 1986, p. 197). Yet those who are privileged enough to have mobility for tourism purposes make up a minority of the global population and there are clear inequities and injustices at the heart of contemporary tourism (Higgins-Desbiolles, Carnicelli, Krolikowski, Wijesinghe & Boluk, 2019). These inequities are underpinned by the fact that communities in the Global South and Indigenous peoples have too often been forced into catering to tourists through the pressures of the global economy, debt and the need for capital, with the result that very few communities are off the well-worn paths of the tourism circuit (Mowforth & Munt, 2016).",
+      "zh": "批判研究学者长期以来一直指出，无论通过旅游业的行动，还是通过部分游客自身的行为，旅游都可能成为一股强大的殖民与征服力量（例如 Enloe，1989；McLaren，2003；Mies，1993）。资本主义全球化之下的旅游试图把世界上的地方和人民变成可供消费的产品；在这种情形下，“对于二十世纪的游客而言，世界已成为一座由乡村和城市构成的大百货商店”（Schivelbusch，1986，第197页）。然而，有足够特权能够为旅游而流动的人，仅占全球人口的少数；当代旅游的核心存在明显的不平等与不公正（Higgins-Desbiolles、Carnicelli、Krolikowski、Wijesinghe 与 Boluk，2019）。这些不平等的基础在于：全球南方的社区和原住民族，往往在全球经济、债务以及资本需求的压力下，被迫转而迎合游客，结果是极少有社区能够置身于旅游网络中那些人们反复踏行的路线之外（Mowforth 与 Munt，2016）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        3
+      ],
+      "line_ids": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "id": "S012",
+      "en": "Compounding this imposition of tourism dependency and the attendant vulnerabilities has been a boosterist pro-growth policy approach (e.g. Wall, 1997; Hall, 2008) privileging the supply-side model of tourism, rather than the needs and desires of local and Indigenous communities. As Mies (1993) argued more than 25 years ago, the advent of cheap mass tourism has urged tourists to “experience the challenges of early ‘discoverers’ and to commune with nature” opening up more places to ‘white civilisation’1; in other words tourism and the money economy (p. 133). Yet as Chambers and Buzinde (2015) point out, despite the claims that tourism development underpinned by neo-liberal capitalist models can ‘boost’ communities out of poverty, the global tourism industry has largely failed in their efforts to do so (see also Mowforth & Munt, 2016).The paradox of tourism consumption, as Mies (1993) argued, is that the desire to experience ‘pristine’ nature and exotic ‘Others’ destroys these places and communities in the process. The tourists’ desire to ‘consume’ Uluru in Australia, by climbing it against the wishes of the Aboriginal custodians, exemplifies these contradictions and illuminates the ways in which tourism is embedded within what Quijano (cited in Grosfoguel 2007, p. 217) coined the ‘coloniality of power’. The ‘coloniality of power is a way of understanding the intersectionality of how power operates in the current capitalist ‘world system’:",
+      "zh": "一种鼓吹增长的政策取向，进一步加重了这种被强加的旅游依赖及其伴随的脆弱性（例如 Wall，1997；Hall，2008）；它优先考虑旅游的供给侧模式，而非地方社区和原住民社区的需要与愿望。正如 Mies（1993）在二十五年多以前所指出的，廉价大众旅游的兴起鼓动游客去“体验早期‘发现者’所面对的挑战，并与自然交融”，从而把更多地方向“白人文明”开放¹；换言之，就是向旅游和货币经济开放（第133页）。然而，正如 Chambers 与 Buzinde（2015）指出的，尽管以新自由主义资本主义模式为基础的旅游发展宣称能够“推动”社区脱贫，全球旅游业在很大程度上并未实现这一目标（另见 Mowforth 与 Munt，2016）。按照 Mies（1993）的论述，旅游消费的悖论在于：人们渴望体验“原始”自然和异域“他者”，却在这一过程中摧毁了这些地方与社区。游客违背原住民守护者的意愿，通过攀爬来“消费”澳大利亚乌鲁鲁的欲望，体现了这些矛盾，也揭示了旅游如何嵌入 Quijano 所提出的“权力的殖民性”之中（转引自 Grosfoguel，2007，第217页）。“权力的殖民性”提供了一种理解方式，用以把握权力在当今资本主义“世界体系”中运作的交织性："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        3
+      ],
+      "line_ids": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "id": "S013",
+      "en": "race, gender, sexuality, spirituality, and epistemology are not additive elements to the economic and political structures of the capitalist world-system, but an integral, entangled and constitutive part of the broad entangled ‘package’ called the European modern/colonial capitalist/patriarchal world system (Grosfoguel 2007, p. 217).",
+      "zh": "种族、性别、性、灵性和认识论，并不是附加于资本主义世界体系经济与政治结构之上的要素，而是那个被称为欧洲现代／殖民资本主义／父权制世界体系的、广泛交织的“整体组合”之中不可分割、相互缠绕且具有构成作用的部分（Grosfoguel，2007，第217页）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        3
+      ],
+      "line_ids": [
+        54,
+        55,
+        56
+      ],
+      "id": "S014",
+      "en": "This concept of ‘coloniality of power’ adds conceptual layers to tourism studies expanding the scope of how the tourism academy engages with theoretical productions of knowledge in relation to the perpetuation of colonisation in places that are no longer under formal colonial administration (see Gosfoguel, 2007).",
+      "zh": "“权力的殖民性”这一概念为旅游研究增添了概念层次，拓展了旅游学界参与知识理论生产的范围，使其能够讨论殖民统治如何在已经不再处于正式殖民行政管理之下的地方延续（见 Gosfoguel，2007）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        4
+      ],
+      "line_ids": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "id": "S015",
+      "en": "Drawing on a case study of Uluru-Kata Tjuta National Park, located in the Northern Territory of Australia which receives over 250,000 visitors per year (Parks Australia, “Amazing Facts”, n.d.) we reflect on the coloniality of power embedded in tourism development at this site, raising questions around doing tourism otherwise to colonial logics. We highlight the problematic aspects of ‘coloniality’ including linguistic hierarchies and knowledge production that privileges “Western knowledge and cosmology over non-western knowledge and cosmologies, institutionalised in the global university system” (Grosfoguel, 2007, p. 217). 2",
+      "zh": "我们以位于澳大利亚北领地、每年接待超过二十五万名游客的乌鲁鲁—卡塔丘塔国家公园为案例（Parks Australia，“Amazing Facts”，无日期），思考嵌入该地旅游发展之中的权力殖民性，并提出如何以不同于殖民逻辑的方式开展旅游的问题。我们强调“殖民性”中存在问题的方面，包括语言等级，以及那种赋予“西方知识和宇宙观相对于非西方知识和宇宙观的优先地位、并在全球大学体系中被制度化”的知识生产（Grosfoguel，2007，第217页）。²"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        4
+      ],
+      "line_ids": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "id": "S016",
+      "en": "Uluru first opened to tourism in the 1950s and has since come to symbolise the Australian national identity as the ‘heart’ of the nation (James, 2007). The controversial climb itself has assumed importance in Australian settler identity, where from the top of the ‘rock’ the tourist gaze employs imperialist notions of ‘empty land’ (Paschen, 2010, p. 68). This spatial logic of the climb is particularly problematic in the context of the colonisation of Australia, which was justified through the misguided ‘legal’ principle of terra nullius (land belonging to no one) (see Connor, 2005). The British colonisers claimed that Australia was empty of humans, making Australia ‘available for settlement’, rather than “requiring acknowledgement of acquisition by force, theft or conquest” (Howitt, 2012, p. 818). Climbing Uluru emerges from this Eurocentric sense of entitlement, failing to recognise the place within the cultural landscape of the Aboriginal people3 – in this case, the Anangu4 – that Uluru holds. In the case of Uluru, an international icon of Australia and world-renowned tourism destination, the western ‘addiction’ to gazing has commodified the sacred and once peaceful place into a ‘tourism landscape’ (Paschen, 2010).",
+      "zh": "乌鲁鲁最初于二十世纪五十年代向旅游开放，此后作为国家的“心脏”，逐渐成为澳大利亚国家认同的象征（James，2007）。具有争议的攀爬活动本身，也在澳大利亚定居者身份认同中获得了重要地位：从“巨岩”顶部向外凝视的游客，运用了帝国主义关于“空地”的观念（Paschen，2010，第68页）。这种攀爬的空间逻辑，在澳大利亚殖民化的背景下尤其成问题，因为这一殖民过程曾以错误的 terra nullius，即“无主地”（不属于任何人的土地）这一“法律”原则加以正当化（见 Connor，2005）。英国殖民者宣称澳大利亚没有人类居住，因此可以“供人定居”，从而无需“承认其通过武力、窃取或征服而取得”（Howitt，2012，第818页）。攀爬乌鲁鲁源于这种欧洲中心主义的权利自居意识，没有承认乌鲁鲁在澳大利亚原住民³——在这里即阿南古人⁴——文化景观中的地位。乌鲁鲁既是澳大利亚的国际象征，也是世界知名的旅游目的地；西方对凝视的“沉迷”，把这个神圣且曾经宁静的地方商品化为了一处“旅游景观”（Paschen，2010）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        4,
+        5
+      ],
+      "line_ids": [
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104
+      ],
+      "id": "S017",
+      "en": "In settler colonial contexts such as Australia multiple oppressions of conquest and plunder have both formed the bedrock of the Australian nation and continue to shape the Australian identity and sense of nationhood. Linking ‘coloniality’ to the tensions that arose with the closure of the Uluru climb we highlight the legacies of colonial map-making to the expansion of the Australian frontier, controlling the ‘uncontrollable land’, and link this to how tourism has been conducted at the site. This mapping and labelling of the Australian landscape inscribed a Eurocentric representation of the land and all it contains within dualistic divisions of mind/body/spirit/human/nature. It is these constructions, embedded within the colonial mapmaking and conquest of Australia, that underpin much of the tourism consumption at Uluru and consequently, the tensions that arose in the Australian public in relation to the closure of the climb. While reversing these dynamics that have contributed to the commodification of Uluru as a tourist destination is not possible, we must not forget the agency of Indigenous communities offering counter-narratives of resistance that have the potential to “reclaim cultural power and political discourse in the wider domain of indigenous [sic] representation” (Amoamo & Thompson 2010, p. 36). As such, it is through the agency of the Anangu that the Board of Management of Uluru-Kata Tjuta National Park announced that climbing Uluru would be banned from 26 October 2019. This closure creates possibilities for rethinking tourism at Uluru and gives some insights into the (im)possibilities of ‘doing tourism otherwise’ to coloniality in relation to tourism more generally in other global contexts.",
+      "zh": "在澳大利亚这样的定居殖民背景中，征服与掠夺所造成的多重压迫，既构成了澳大利亚国家的基础，也持续塑造着澳大利亚身份认同与国家意识。我们把“殖民性”与乌鲁鲁关闭攀爬所引发的紧张关系联系起来，突出殖民地图绘制在澳大利亚边疆扩张、控制“无法控制的土地”方面留下的遗产，并将其与该地旅游的开展方式相联系。对澳大利亚景观进行绘图和命名，把一种欧洲中心主义的土地及其所包含一切事物的表征，铭刻进心灵／身体／灵性／人类／自然的二元划分之中。正是这些嵌入澳大利亚殖民制图与征服过程的建构，支撑着乌鲁鲁的大量旅游消费，并由此支撑着关闭攀爬在澳大利亚公众中引发的紧张关系。虽然无法逆转那些促使乌鲁鲁作为旅游目的地被商品化的力量，我们却不能忘记原住民社区的能动性：它们提出抵抗性的反叙事，有可能“在原住民［原文如此］表征的更广泛领域中，重新夺回文化权力和政治话语”（Amoamo 与 Thompson，2010，第36页）。正是通过阿南古人的能动性，乌鲁鲁—卡塔丘塔国家公园管理委员会宣布，自2019年10月26日起禁止攀爬乌鲁鲁。这一关闭为重新思考乌鲁鲁旅游创造了可能，也使我们得以理解：在全球其他背景下，就更广泛的旅游而言，以不同于殖民性的方式“另样开展旅游”具有怎样的（不）可能性。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        5
+      ],
+      "line_ids": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "id": "S018",
+      "en": "Closuring the climb gives Anangu custodians more agency in how they engage with the tourism industry (Judd et al., 2019), with a national discussion opening up towards incorporating Anangu worldviews into how tourism is conducted at the site. However for Anangu (as well as Indigenous peoples elsewhere in the world) to conduct tourism in line with cultural beliefs and worldviews, the parameters of the discussion need to move beyond the Eurocentric dualisms that separate human from the non-human, mind, body, spirit, culture, nature. This involves not only recognising the intellectual, cultural, social, physical and economic constructions of coloniality that have shaped contemporary tourism, society and the academy (Battiste, 2009; Kovach, 2015; Rigney, 2006), but also opening up tourism in both thinking and practice to doing tourism otherwise. Recent work (e.g. Aikau & Gonzales, 2019; Bawaka et al., 2016; Peters & Higgins-Desbiolles, 2012) has pointed out the potential tourism offers for producing knowledges and relationships outside of the coloniality paradigm, including through encounters which can subvert colonial stereotypes. Tourism spaces as contact zones have the potential to encourage tourists to think, feel and do tourism in ways that encourage intercultural recognition and respect for different worldviews. Indeed, tourism has the potential to contribute to the socio-cultural development of divided nations, societies and peoples, through fostering social justice and reconciliation (Higgins-Desbiolles, 2003).",
+      "zh": "关闭攀爬使阿南古守护者在与旅游业互动时获得了更多能动性（Judd 等，2019），也开启了全国性讨论，探讨如何把阿南古的世界观纳入该地旅游的开展方式。然而，要使阿南古人以及世界其他地方的原住民族能够按照自身文化信念与世界观开展旅游，讨论的框架就必须超越欧洲中心主义的二元划分，即把人类与非人类、心灵、身体、灵性、文化和自然分隔开的思维。这不仅意味着认识到殖民性在知识、文化、社会、物质和经济方面的建构如何塑造了当代旅游、社会与学界（Battiste，2009；Kovach，2015；Rigney，2006），也意味着在思想和实践上为以另一种方式开展旅游开放空间。近期研究（例如 Aikau 与 Gonzales，2019；Bawaka 等，2016；Peters 与 Higgins-Desbiolles，2012）指出，旅游能够在殖民性范式之外生成知识与关系，其中包括通过相遇颠覆殖民刻板印象。作为接触地带的旅游空间，有可能鼓励游客以能够促进跨文化承认和尊重不同世界观的方式去思考、感受与实践旅游。事实上，旅游能够通过促进社会正义与和解，为分裂的国家、社会和人群的社会文化发展作出贡献（Higgins-Desbiolles，2003）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        5
+      ],
+      "line_ids": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+      ],
+      "id": "S019",
+      "en": "This article seeks to explore these tensions and (im)possibilities of coloniality in the context of tourism consumption at Uluru. Firstly, we outline the trajectory of theorising in tourism research thus far, which calls for a radical shift away from the dominant western paradigm of knowledge production and binary anthropocentric thinking. This trajectory of research demonstrates that even the most critical tourism researchers must begin to accept the limitations of critical theory itself, embedded within western Eurocentric ways of thinking and forge alliances with those who have been marginalised and excluded from colonial structures. Such decolonising practices are regarded as vital to academia in many countries because of the anti-oppression and emancipatory powers it can unleash (Appleton, 2019; Kovach, 2015; Battiste, 2009; Rigney, 2006; Chambers & Buzinde, 2015).",
+      "zh": "本文试图在乌鲁鲁旅游消费的背景下，探讨殖民性的这些紧张关系与（不）可能性。首先，我们梳理旅游研究迄今为止的理论发展路径；这一研究路径呼吁彻底摆脱占主导地位的西方知识生产范式，以及以人类为中心的二元思维。它表明，即便是最具批判性的旅游研究者，也必须开始承认批判理论自身的局限，因为这种理论同样嵌入西方欧洲中心主义的思维方式之中；研究者还必须与那些受到殖民结构边缘化和排斥的人结成联盟。这类去殖民实践被视为许多国家学术界不可或缺的工作，因为它能够释放反压迫与解放的力量（Appleton，2019；Kovach，2015；Battiste，2009；Rigney，2006；Chambers 与 Buzinde，2015）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        6
+      ],
+      "line_ids": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "id": "S020",
+      "en": "Next, we position the case study of Uluru within the dominant settler colonial context of Australia. We consider the tensions between Aboriginal sovereignty and a national identity that is embodied within coloniality that has attempted the erasure of Aboriginal identity and being-in-the world, underpinned by ontological dualisms between nature/culture, and mind, body and spirit. These dualisms, so vital to early settler-colonial knowledge, are also linked to the colonial mapmaking expansion of Australia, underpinning conceptions of the Australian national identity. We conclude by considering how the decolonial shift in social theory calls for those in the academy to “learn to unlearn what we were taught before, to delink from the thinking programs which were imposed on us by culture, education, and environment marked by imperial reason” (Tlostanova, 2010, p. 27). The (im)possibilities of ‘doing and thinking tourism otherwise’ requires an ‘unlearning’ of the supposed neutrality of dualistic and anthropocentric ways of being in the world that underpins coloniality. One such way to ‘unlearn’ coloniality is through the idea of ‘un-mapping’, a process that peels back the layers of coloniality and presents counter-narratives of resistance. Being attentive to the pluriversal nature of reality, we take a ‘critical multilogicality’ perspective, that acknowledges non-anthropocentric ways of knowing and ways of relating (Wilson & Hollingshead, 2015). Taking a stance against ‘objective’ and ‘universal’ practises of knowing can help us face the contradictions and tensions encountered in the process of venturing beyond coloniality in both the tourism academy and tourism practice.",
+      "zh": "接下来，我们把乌鲁鲁案例置于澳大利亚占主导地位的定居殖民背景中。我们考察原住民主权与体现殖民性的国家认同之间的紧张关系：后者试图抹除原住民身份及其在世存在方式，并以自然／文化以及心灵、身体和灵性之间的本体论二元划分为基础。这些对早期定居殖民知识至关重要的二元划分，也与澳大利亚借助殖民制图实现的扩张相联系，支撑着澳大利亚国家认同的观念。最后，我们讨论社会理论的去殖民转向如何呼吁学界人士“学会去习得我们先前被教导的东西，脱离那些由带有帝国理性印记的文化、教育与环境强加给我们的思维程序”（Tlostanova，2010，第27页）。以另一种方式实践和思考旅游的（不）可能性，要求我们“去习得”那种支撑殖民性的、二元且以人类为中心的在世存在方式所自称具有的中立性。“解构地图”是去习得殖民性的一种方式：这一过程逐层揭开殖民性，并提出抵抗性的反叙事。我们关注现实的多元世界性质，采取“批判性多逻辑”视角，承认不以人类为中心的认识方式与建立关系的方式（Wilson 与 Hollingshead，2015）。对“客观”且“普遍”的认知实践采取批判立场，可以帮助我们直面旅游学界与旅游实践在尝试超越殖民性时所遭遇的矛盾与紧张。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        6
+      ],
+      "line_ids": [
+        146
+      ],
+      "id": "S021",
+      "en": "SITUATING OURSELVES IN THE RESEARCH",
+      "zh": "我们在研究中的位置"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        6,
+        7
+      ],
+      "line_ids": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164
+      ],
+      "id": "S022",
+      "en": "A critical multilogicality perspective underpins this paper. Rather than putting forward a universalist position, we point to the complexities and messiness of coloniality in the context of settler colonial Australia and tourism development at Uluru, and acknowledge that all knowledge is partial, incomplete and never fixed (Haraway, 1998) This article is a collaboration between an Aboriginal man living in Victoria (Woiwurrung country) and two non-Aboriginal Australian women (living on Awabakal country, New South Wales and Kaurna Country, South Australia) who share a desire to collaborate in an analysis of the colonial settler identity of Australian nationhood in the context of the closing of the Uluru climb. Each of us bring various subjectivities such as age, gender, race and theoretical lenses – yet the three of us are deeply committed to bringing insights to tourism studies to address settler-colonial injustices on the country we live and work on. In this sense we take on decoloniality as an option; in the words of Tlostanova, a consciously chosen “political, ethical, and epistemic positionality and an entry point into agency” (2019, p. 165). Decolonial thinking as an option is “in contrast to a paradigm or grand theory — among a plurality of options” (Icaza, 2017, p. 27). We acknowledge our own positionality in this research within intersecting oppressions and power relations and have each reflected together and alone on our own embodied positionality within the Australian nation and the ways our thinking has been shaped through our lived experiences, and the academy. In doing so we are working on ‘unlearning’ the ways in which our own subjectivities are entangled with coloniality and proposing an analysis that ‘unworlds’ conceptions of ‘objectivity’ and ‘neutrality’ (Wilson & Hollingshead, 2015).",
+      "zh": "本文以批判性多逻辑视角为基础。我们并不提出一种普遍主义立场，而是指出澳大利亚定居殖民背景与乌鲁鲁旅游发展中的殖民性具有复杂、纷杂的特征，并承认一切知识都是局部的、不完整的，而且从不固定不变（Haraway，1998）。本文由一名生活在维多利亚州 Woiwurrung 原乡的澳大利亚原住民男性，与两名非原住民澳大利亚女性合作完成；后两者分别生活在新南威尔士州 Awabakal 原乡和南澳大利亚州 Kaurna 原乡。我们共同希望，以乌鲁鲁关闭攀爬为背景，合作分析澳大利亚国家的殖民定居者身份。我们每个人都带入了年龄、性别、种族与理论视角等不同的主体位置；但我们三人都深切致力于为旅游研究提供见解，以回应我们所生活和工作的原乡上的定居殖民不公。在这一意义上，我们把去殖民性作为一种选择；用 Tlostanova 的话说，它是一种有意识选择的“政治、伦理与认识论立场，也是进入能动性的切入点”（2019，第165页）。作为一种选择的去殖民思维，是“多种选择中的一种，与范式或宏大理论相对”（Icaza，2017，第27页）。我们承认自身在本研究中处于相互交织的压迫与权力关系之中的位置，并且共同及各自反思了我们在澳大利亚国家中的具身位置，以及生活经验和学界如何塑造了我们的思维。在这一过程中，我们努力“去习得”自身主体性与殖民性相互纠缠的方式，并提出一种分析，来拆解“客观性”和“中立性”概念所建构的世界（Wilson 与 Hollingshead，2015）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        7
+      ],
+      "line_ids": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "id": "S023",
+      "en": "We wish to be transparent about the fact that no one in this collaboration is from Anangu Country and are thus are not speaking on behalf of the Anangu or from any intimate, lived experience of managing tourism at the site of Uluru. There are limitations to our research then, in the sense that we have not had the opportunity to co-construct this research agenda with the traditional custodians of Uluru. However, we act as allies, and foregrounded the voices of the Anangu from the public debates in the media that surrounded the closure of the climb.",
+      "zh": "我们希望明确说明，参与此次合作的人都不来自阿南古原乡，因此我们既不是代表阿南古人发言，也不是基于在乌鲁鲁管理旅游的亲身、深入生活经验发言。因此，本研究存在局限：我们尚未有机会与乌鲁鲁的传统守护者共同构建研究议程。不过，我们以盟友的身份开展工作，并把围绕关闭攀爬的媒体公共辩论中阿南古人的声音置于前景。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        7
+      ],
+      "line_ids": [
+        171
+      ],
+      "id": "S024",
+      "en": "DOING AND THEORISING TOURISM OTHERWISE - CHALLENGING COLONIAL LOGICS",
+      "zh": "以另一种方式实践和理论化旅游：挑战殖民逻辑"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        7
+      ],
+      "line_ids": [
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189
+      ],
+      "id": "S025",
+      "en": "The nexus between tourism and decolonisation has emerged in recent decades and become a key aspect of critical tourism studies in the 21st century. Building upon the discursive connections between tourism and postcolonialism (Hall & Tucker, 2004; Peters, 2017) scholars have recognised and challenged the assumptions of cultural superiority underpinning the colonial paradigm that is the bedrock of much of contemporary tourism. Tourism that is underpinned by coloniality risks assimilating communities such as Aboriginal Australians into the demand-driven and corporate form of tourism or face a stark choice to be completely cut off from the tourism circuit and denied recognition as legitimate authorities to govern and interpret sites (see Whyte, 2010). In this context, postcolonialism has provided the platform for critical analysis of historical interactions between Indigenous and non-Indigenous peoples; and is particularly important when discussing critical issues in contemporary tourism development. However we take the postcolonial critique further, by drawing a distinction between ‘global colonialism’ and ‘global coloniality’ (Grosfoguel 2007); the latter acknowledging the continuity of colonial forms of power that affect our being-in-the world, and the structuring of our knowledge systems. As Icaza (2017, p. 26) points out decolonial thinking takes its point of departure from post-colonial studies not only in terms of belonging to a different geo-genealogy but through the acknowledgement that “there is no modernity without coloniality”. “Coloniality as the underside of modernity constitutes an epistemic location from which reality is thought” (Icaza 2017, p. 27). Tourism development can thus not be disentangled from coloniality and in the case of Uluru, the negation of Aboriginal Australians as ‘knowers’.",
+      "zh": "近几十年来，旅游与去殖民化之间的关联逐渐显现，并成为二十一世纪批判旅游研究的重要方面。在旅游与后殖民主义之间的话语联系基础上（Hall 与 Tucker，2004；Peters，2017），学者们认识并挑战了支撑殖民范式的文化优越性假设，而该范式正是大量当代旅游的基石。以殖民性为基础的旅游，可能把澳大利亚原住民之类的社区同化进由需求驱动、由公司主导的旅游形式之中；否则，它们就必须面对严酷的另一选择：被完全隔绝于旅游网络之外，并被拒绝承认为有权管理和诠释地点的合法主体（见 Whyte，2010）。在这种背景下，后殖民主义为批判分析原住民与非原住民之间的历史互动提供了平台；在讨论当代旅游发展的关键问题时，它尤为重要。然而，我们通过区分“全球殖民主义”与“全球殖民性”（Grosfoguel，2007），进一步推进后殖民批判。后者承认，殖民权力的形式具有延续性，影响着我们的在世存在方式及知识体系的构造。正如 Icaza（2017，第26页）所指出的，去殖民思维与后殖民研究的分歧起点，不仅在于它属于不同的地理谱系，也在于承认“不存在没有殖民性的现代性”。“殖民性作为现代性的阴暗面，构成了人们据以思考现实的认识论位置”（Icaza，2017，第27页）。因此，旅游发展无法与殖民性分离；在乌鲁鲁的案例中，这也意味着无法与否定澳大利亚原住民作为‘知者’的地位相分离。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        7,
+        8
+      ],
+      "line_ids": [
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205
+      ],
+      "id": "S026",
+      "en": "In tourism research ‘becoming otherwise in theory and practice’ can be seen in Indigenous scholarship which is making its mark on critical tourism studies (e.g. McLaren, 2003; Whyte, 2010; Tebrakunna Country & Lee, 2017) and Indigenous and non-Indigenous scholars working in solidarity (e.g. Bawaka et al., 2016; Peters & Higgins-Desbiolles, 2012; Grimwood et al., 2019). For example, human geography researchers Sarah Wright, Kate Lloyd and Sandie Suchet-Pearson centre Bawaka country as author in their ongoing collaborations with Yolngu kin and Bawaka country in Arnhem land Australia. Bawaka country as author decenters the “privileging of human authors as the producers of knowledge and authorities of the written form”, as well as “recognising the ways in which place informs what humans do”, guiding human thought and action (Bawaka, 2016, p. 446). Similarly Australian Aboriginal scholar Emma Lee, has co-authored a paper with her custodial Country (Tebrakunna Country & Lee, 2017) and explores how Indigenous epistemologies can support new knowledge production in tourism through positioning herself as a “trawlwulwuy woman of tebrakunna country” (Tebrakunna Country & Lee, 2017, p. 102). A collaboration between Aboriginal and non-Aboriginal, Peters and Higgins-Desbiolles (2012) describe discourses on Indigenous tourism through their consideration of Aboriginal Australians as tourists and showed how this illuminates a very different perspective on the phenomenon of tourism that is usually understood through the Eurocentric gaze.",
+      "zh": "在旅游研究中，“在理论与实践中成为另一种样态”，体现在正对批判旅游研究产生影响的原住民学术研究之中（例如 McLaren，2003；Whyte，2010；Tebrakunna Country 与 Lee，2017），也体现在原住民与非原住民学者团结合作的研究之中（例如 Bawaka 等，2016；Peters 与 Higgins-Desbiolles，2012；Grimwood 等，2019）。例如，人文地理学研究者 Sarah Wright、Kate Lloyd 与 Sandie Suchet-Pearson 在与澳大利亚阿纳姆地的 Yolngu 亲族及 Bawaka 原乡持续合作时，把 Bawaka 原乡置于作者的核心位置。让 Bawaka 原乡成为作者，既动摇了“把人类作者优先视为知识生产者与书面形式权威”的做法，也“承认了地方如何影响人类的行动”，引导人的思想与行为（Bawaka，2016，第446页）。同样，澳大利亚原住民学者 Emma Lee 与她所守护的原乡共同署名发表论文（Tebrakunna Country 与 Lee，2017），并通过把自己定位为“tebrakunna 原乡的 trawlwulwuy 女性”，探索原住民认识论如何支持旅游领域的新知识生产（Tebrakunna Country 与 Lee，2017，第102页）。在另一项原住民与非原住民的合作中，Peters 与 Higgins-Desbiolles（2012）通过考察作为游客的澳大利亚原住民，讨论原住民旅游的话语，并表明这种考察能够揭示理解旅游现象的一种迥异视角；旅游通常是通过欧洲中心主义的凝视来理解的。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        8
+      ],
+      "line_ids": [
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219
+      ],
+      "id": "S027",
+      "en": "In the case of Uluru a decolonising lens uncovers the ways in which the rock has become aestheticized for tourism purposes within the field of coloniality - where control of the representation and experience has tended to exclude other ways of sensing and making meaning of the place, sustaining colonial difference. This aestheticization began with the Eurocentric processes of map-making. From this lens, aesthetics cannot be disconnected from a “geo-historical field for the control of representation and experience, for the control of subjectivity…” (Belle & Ehlers, 2020, p. 16). The dominance of the gaze in western aesthetics has worked to abstract “reality into an object of representation, and in turn exercising the power of representation to produce the world as artifice” (Belle & Ehlers, 2020, p. 25). Maps, as cartographic abstractions (relating to ownership) cannot be divorced from the ‘modernising gaze’ – a ‘logic of representation’ that separates subjects from the ground (and the relationalities of the body, the senses and the non-human) and negates other ways of being and relating to the landscape (Belle & Ehlers, 2020, p. 31) directing the tourist gaze. The work of Roberts (2010), for example, compares the map reader with site-seer, whose touristic gaze is mediated by these static semiotic inscriptions (embedded within coloniality and Eurocentric ways of relating to land).",
+      "zh": "在乌鲁鲁案例中，去殖民视角揭示了巨岩如何在殖民性场域内为旅游目的而被审美化：对表征和体验的控制，往往排除了感知这一地方和赋予它意义的其他方式，使殖民差异得以延续。这种审美化始于欧洲中心主义的地图绘制过程。从这一视角看，美学无法与“控制表征与经验、控制主体性的地理—历史场域……”分离（Belle 与 Ehlers，2020，第16页）。凝视在西方美学中的主导地位，使“现实被抽象为表征的对象，进而运用表征的权力，把世界生产成人工建构物”（Belle 与 Ehlers，2020，第25页）。地图作为与所有权相关的制图抽象，无法脱离“现代化凝视”：这种“表征逻辑”把主体与土地，以及身体、感官和非人类的关系性分隔开，否定了其他存在方式以及与景观建立关系的方式（Belle 与 Ehlers，2020，第31页），并引导着游客凝视。例如，Roberts（2010）的研究把读图者与观光者相比较；观光者的旅游凝视受到这些静态符号铭刻的中介，而这些铭刻嵌入了殖民性以及欧洲中心主义与土地建立关系的方式之中。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        8,
+        9
+      ],
+      "line_ids": [
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227
+      ],
+      "id": "S028",
+      "en": "Tourism development as embedded within these Eurocentric cartographies is thus problematic. However, non (or post) representational approaches to cartography have pointed to other ways of engaging with maps, challenging the privileging of the tourist gaze to focus on multisensory experiences and corporal engagements with maps and site seeing (Rosetto, 2012). We argue that these possibilities for engaging with touristic landscapes in ‘other’ ways requires an engagement with pluriversal voices in relating to landscapes. Foregrounding Indigenous and non-western voices and engaging with human and non-human ‘Others’ as ‘knowers’ is key for opening up possibilities of doing tourism otherwise (Chambers & Buzinde, 2015; Kwaymullina, 2016; tebrakunna country & Lee, 2017).",
+      "zh": "因此，嵌入这些欧洲中心主义制图方式的旅游发展是成问题的。然而，制图学中的非表征或后表征方法提出了与地图互动的其他方式，挑战游客凝视的优先地位，转而关注使用地图和观光时的多感官体验与身体参与（Rosetto，2012）。我们认为，以‘其他’方式与旅游景观互动的这些可能性，需要在与景观建立关系时接纳多元世界的声音。把原住民和非西方的声音置于前景，并把人类与非人类“他者”作为“知者”来互动，是开启另一种旅游方式之可能性的关键（Chambers 与 Buzinde，2015；Kwaymullina，2016；tebrakunna country 与 Lee，2017）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        9
+      ],
+      "line_ids": [
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236
+      ],
+      "id": "S029",
+      "en": "Engaging in a “radical project of epistemic de-linking from colonial ways of thinking” (Chambers & Buzinde, 2015, p. 3) includes advocating doing tourism in ways that respect the cultures, knowledges and spirituality of the host communities. We use the case study of Uluru to emphasise the (im)possibilities of emancipatory and reconciliatory aspects of engaging in a way that is culturally respectful and promotes the kinds of experiences and encounters that can subvert neo-colonial stereotypes and disrupt anthropocentric thinking. We argue that it is only through actively promoting “Aboriginal political and cultural agency on the management of tourist behaviour and the Uluru – Kata Tjuta National park itself” that tourism practices at the site can “disrupt habitual western ways of seeing, encouraging tourists to engage with ‘other’ ways of knowing place” (Paschen, 2010, p. 65).",
+      "zh": "参与“从殖民思维方式中进行认识论脱钩的激进计划”（Chambers 与 Buzinde，2015，第3页），包括倡导以尊重东道社区文化、知识和灵性的方式开展旅游。我们通过乌鲁鲁案例，强调这样一种互动所具有的解放与和解方面的（不）可能性：它在文化上尊重他人，促进能够颠覆新殖民刻板印象、打破人类中心主义思维的体验与相遇。我们认为，唯有积极促进“原住民在游客行为管理及乌鲁鲁—卡塔丘塔国家公园本身管理中的政治与文化能动性”，该地旅游实践才可能“打破习以为常的西方观看方式，鼓励游客接触认识地方的‘其他’方式”（Paschen，2010，第65页）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        9,
+        10
+      ],
+      "line_ids": [
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260
+      ],
+      "id": "S030",
+      "en": "A radical epistemic shift away from these Eurocentric, universalist paradigms also involves an opening up of academic theory to ‘pluriversality’; that is cognisant of the multiple cosmologies, world views and ways of being-in-the world (Chambers & Buzinde, 2015; Everingham, 2018). Opening up these decolonising visions of tourism means acknowledging pluriversality and critical multilogicality to understand knowledge construction as partial (never complete) and fluid, to contest Eurocentric logics that inhabit research settings and always being open to possibilities for how things could be otherwise (Mignolo, 2013; Wilson & Hollinshead, 2015). In relation to Uluru, the promotion of a pluriversal and critical multilogical perspective among tourists could work to deepen their touristic encounters with ‘the rock’, beyond the ‘all knowing and seeing’ monological and colonial gaze from the top of the climb (Paschen, 2010). Thus the closure of the climb presents possibilities for tourists to experience the site from the Anangu perspective, as “a living co-presence, the body of an ancestor, forming the personal and collective link to a country and with past and future generations” (Paschen, 2010, p. 70). And yet, Uluru is also more than this fixed linguistic representation (and English translation). As Paschen (2010, p. 70) points out, to be with Uluru from the Anangu perspective is to be with the “embodied presence of living culture and knowledge” where one can feel “a sense of kinship and responsibility for country and people”. Pluriversal and multilogical perspectives allow us to consider the more-than-human presences, to move beyond anthropocentric ways of engaging with a tourism site and moving beyond linguistic representations of place that fix experiences into monological and colonial frameworks of understanding and being- in- the world. As Bawaka et al. (2016, p. 450) point out, “[r]ecognition of more-than-human agencies is found within many Indigenous ontologies that understand place, people, animals and other tangible and intangible beings and co-becomings as active agents with both knowledge and Law”. There is a need to broaden our view of tourism as merely a product for consumption, and look towards the possibilities to move towards decentring the supposed neutrality of Eurocentric and anthropocentric worldviews, and to promote the possibilities of transformation and reconciliation that these experiences can provide.",
+      "zh": "从这些欧洲中心主义、普遍主义范式中进行激进的认识论转向，也涉及把学术理论向“多元世界性”开放，即认识到多种宇宙观、世界观与在世存在方式的存在（Chambers 与 Buzinde，2015；Everingham，2018）。开启这些旅游去殖民化的愿景，意味着承认多元世界性与批判性多逻辑，理解知识建构始终是局部的、从不完整且不断流动的，从而质疑研究场域中的欧洲中心主义逻辑，并始终向事物能够成为另一种样态的可能性保持开放（Mignolo，2013；Wilson 与 Hollinshead，2015）。就乌鲁鲁而言，在游客中促进多元世界与批判性多逻辑视角，可以深化他们与“巨岩”的旅游相遇，使其超越从攀爬顶点出发、‘无所不知且无所不见’的单一逻辑殖民凝视（Paschen，2010）。因此，关闭攀爬使游客有可能从阿南古视角体验这一地方：它是“有生命的共同在场，是祖先的身体，构成个人与集体同原乡以及过去和未来世代之间的纽带”（Paschen，2010，第70页）。然而，乌鲁鲁也超出这种固定的语言表征及其英语译文。正如 Paschen（2010，第70页）指出的，从阿南古视角与乌鲁鲁相处，就是与“活的文化和知识的具身存在”相处；在其中，人能够感受到“对原乡与人民的亲缘感和责任感”。多元世界与多逻辑视角使我们能够考虑超越人类的存在，超越与旅游地点互动时以人类为中心的方式，也超越那些将体验固定于单一逻辑、殖民式理解及在世存在框架之中的地方语言表征。正如 Bawaka 等（2016，第450页）指出的，“对超越人类的能动性的承认，存在于许多原住民本体论之中；这些本体论将地方、人、动物，以及其他有形和无形的存在及其共同生成，理解为同时具有知识与法则的能动主体”。我们需要拓展那种仅把旅游视为消费产品的观点，探索如何去中心化欧洲中心主义和人类中心主义世界观所自称具有的中立性，并促进这些体验能够提供的转化与和解可能性。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        10
+      ],
+      "line_ids": [
+        261,
+        262
+      ],
+      "id": "S031",
+      "en": "THE CLIMBING OF ULURU AND ITS BANNING: AN ILLUSTRATIVE CASE OF THE (IM)POSSIBILITIES OF DOING TOURISM OTHERWISE",
+      "zh": "乌鲁鲁的攀爬及其禁令：以另一种方式开展旅游之（不）可能性的说明性案例"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        10
+      ],
+      "line_ids": [
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280
+      ],
+      "id": "S032",
+      "en": "In 2017, the Board of Management of Uluru-Kata Tjuta National Park announced that climbing Uluru would be banned from 26 October 2019. This section presents the illustrative case of the closure of climbing Uluru in order to consider the tensions that arise in moving away from colonial forms of tourism consumption. We follow on from the example of Figueroa and Waitt (2011) who drew on Uluru as a case study to consider the moral terrains of tourism and the possibilities for tourism to act as a moral gateway. Like them, we transparently declare that we have not conducted fieldwork at Uluru. Instead this is a conceptual analysis that centres the coloniality of thought and being in Australian nationhood, and how this has influenced tourism development and consumption practices at Uluru. We see the closure of the climb as timely to put forward a conceptual analysis that works towards decolonising the parameters of how tourism can be otherwise to these colonial logics that led to the climb as a tourism activity at the site. Taking this soft sciences ‘critical multilogicality’ approach to the case study of the closure of the climb (Wilson & Hollingshead, 2015) we critique the “all knowing and universalising truths of ‘orthodox’ tourism research(ers) in the construction of tourism ‘knowledge” (Wilson & Hollinshead, 2015, p. 31). This perspective is a radical diversion from positivist, ‘objective’ approaches to understanding tourism ‘knowledge’, highlighting the importance of reflexive writing, underlined by messying the methodological assumptions that underline tourism research that emphasises ‘objective’, ‘neutral’ research (Wilson & Hollinshead, 2015) with fixed outcomes. As Waitt, Figueroa and McGee (2007, p. 249) declared: “our interest in Uluru is personal” and our own subjective knowledge is transparently part of the research.",
+      "zh": "2017年，乌鲁鲁—卡塔丘塔国家公园管理委员会宣布，自2019年10月26日起禁止攀爬乌鲁鲁。本节以关闭乌鲁鲁攀爬这一说明性案例，考察摆脱殖民式旅游消费时所产生的紧张关系。我们借鉴 Figueroa 与 Waitt（2011）的做法；他们以乌鲁鲁为案例，思考旅游的道德场域，以及旅游作为道德入口的可能性。与他们一样，我们明确声明，我们没有在乌鲁鲁开展田野调查。本文进行的是概念分析，关注澳大利亚国家意识中思想与存在的殖民性，以及它如何影响乌鲁鲁旅游的发展和消费实践。我们认为，关闭攀爬提供了适时的契机，使我们能够提出概念分析，推动对旅游如何成为另一种样态的讨论框架进行去殖民化，使其超越那些促使攀爬成为该地旅游活动的殖民逻辑。我们以软科学中的“批判性多逻辑”方法分析关闭攀爬的案例（Wilson 与 Hollingshead，2015），批判“‘正统’旅游研究及研究者在构建旅游‘知识’时所提出的、全知且普遍化的真理”（Wilson 与 Hollinshead，2015，第31页）。这一视角彻底偏离了以实证主义、“客观”方法理解旅游“知识”的做法，强调反思性写作的重要性；其基础是把旅游研究背后的方法论假设复杂化，而这些研究往往强调具有固定结果的“客观”“中立”研究（Wilson 与 Hollinshead，2015）。正如 Waitt、Figueroa 与 McGee（2007，第249页）所宣称的：“我们对乌鲁鲁的兴趣是个人性的”；我们也明确承认，自身的主观知识是研究的一部分。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        10
+      ],
+      "line_ids": [
+        281
+      ],
+      "id": "S033",
+      "en": "Ayers Rock to Uluru – tourism development and settler colonial expansion",
+      "zh": "从艾尔斯岩到乌鲁鲁：旅游发展与定居殖民扩张"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        10
+      ],
+      "line_ids": [
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290
+      ],
+      "id": "S034",
+      "en": "Aboriginal Australia possesses the oldest living cultures on Earth, going back at least 80,000 years. Research demonstrates that Aboriginal Australia has a history of sophisticated land management and cultivation practices (Gammage, 2011; Pascoe, 2014) that were not recognised at the time of British invasion, conquest and settlement. The region that is the focus of this case study, now described as Uluru-Kata Tjuta National Park has been under the custodianship of the Anangu people for tens of thousands of years, guided by ‘Tjukurpa’. “Tjukurpa is the foundation of Anangu culture. Just as a house needs to stand on strong foundations, so their way of life stands on Tjukurpa” (National Parks, “Culture and History, n.d.). Tjukurpa is an essential foundation for Anangu law, lives and society and it is important to understanding Anangu custodianship of Uluru, as well as being an important pillar of the park’s current joint management.",
+      "zh": "澳大利亚原住民拥有地球上延续至今最古老的文化，其历史至少可追溯至八万年前。研究表明，澳大利亚原住民历史上存在复杂成熟的土地管理与耕作实践（Gammage，2011；Pascoe，2014），但在英国入侵、征服和定居时，这些实践并未得到承认。本案例研究所关注的区域，如今被称为乌鲁鲁—卡塔丘塔国家公园，在数万年间一直由阿南古人遵循 Tjukurpa 加以守护。“Tjukurpa 是阿南古文化的基础。正如房屋需要建立在坚固的地基上，他们的生活方式也建立在 Tjukurpa 之上”（National Parks，“Culture and History”，无日期）。Tjukurpa 是阿南古法律、生活和社会不可或缺的基础，对于理解阿南古对乌鲁鲁的守护至关重要，也是公园现行共同管理制度的重要支柱。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        11
+      ],
+      "line_ids": [
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303
+      ],
+      "id": "S035",
+      "en": "Uluru is both symbolically and geographically a centre of the Australian nation. In 1873 with explorations for pastoral development and the overland telegraph, William Gosse reached Uluru and named it Ayers Rock in honour of the then Chief Secretary of South Australia (National Parks, “History of the park”, n.d.). In that same year, Ernest Giles became the first European to climb Uluru, together with Khamran, an Afghan camel driver (National Parks, “History of the park”, n.d.). ‘Ayers Rock’ became consigned in the collective knowledge of Australians as an outback monolith – ‘the Rock’. As with many of Australia’s natural features, this English labelling ascribed colonial knowledge and meaning, denying and denigrating the deep cultural history and knowledge of the Anangu people. This disconnection between knowledge systems has persisted and is at the foundation of contemporary debates about how tourism should be conducted at Uluru. To many non-Aboriginal Australians, the cultural knowledge and history of Uluru is unknown; and the concept of tourism there is based on western capitalistic notions of profit and the ‘Rock’ as a site of conquest rather than the sacred. In such circumstances, valuing alternative forms of tourist experiences (other than climbing) has remained a challenge.",
+      "zh": "无论在象征意义上还是在地理意义上，乌鲁鲁都是澳大利亚国家的中心。1873年，在为牧业发展与陆上电报线进行勘探时，William Gosse 抵达乌鲁鲁，并以当时南澳大利亚首席秘书之名，将其命名为艾尔斯岩（National Parks，“History of the park”，无日期）。同年，Ernest Giles 与阿富汗骆驼赶运人 Khamran 一同攀爬乌鲁鲁，成为首位登上乌鲁鲁的欧洲人（National Parks，“History of the park”，无日期）。“艾尔斯岩”作为澳大利亚内陆的一块独立巨岩——“那块巨岩”——被纳入澳大利亚人的集体知识。如同澳大利亚许多自然地貌一样，这一英语命名赋予了殖民知识与意义，否认并贬低了阿南古人深厚的文化历史与知识。知识体系之间的这种断裂延续至今，构成当代有关乌鲁鲁应如何开展旅游的辩论基础。对于许多非原住民澳大利亚人，乌鲁鲁的文化知识与历史是陌生的；他们对该地旅游的理解建立在西方资本主义的利润观念之上，把“巨岩”看成有待征服的场所，而非神圣之地。在这种情况下，让人们珍视攀爬之外的其他游客体验，一直是一项挑战。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        11
+      ],
+      "line_ids": [
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312
+      ],
+      "id": "S036",
+      "en": "The geography of tourism at Uluru is a product of settler-colonial mapping and labelling. In the early 20th century, mapping became a much desired and ‘necessary’ tool of colonial ‘development’, and thus colonisation. Mapping was required to address three key national ‘needs’: preparation of defense, aviation development, and resource identification and management (Honman, 1939) and allowed the settler-colonists to shape the way the land was seen, perceived, and understood (Fellowes, in Henrikson, 1999). These maps were vital to successful colonial expansion (Peters, 2017). Mapmaking also afforded control of the ‘uncontrollable’ land and went a long way to forging the reputation of the frontier colonial explorers, and thus the emergent national identity. Maps of Australia thus evolved from a subjective, Eurocentric perception of the land and all it contains to a symbol of settler-colonial objectivity and universal ‘truths’.",
+      "zh": "乌鲁鲁的旅游地理是定居殖民制图与命名的产物。二十世纪初，绘图成为殖民‘发展’——因而也是殖民化——所急切需要且被认为‘必不可少’的工具。绘图被要求满足三项关键国家‘需要’：国防准备、航空发展，以及资源识别与管理（Honman，1939）；它使定居殖民者得以塑造人们观看、感知和理解土地的方式（Fellowes，转引自 Henrikson，1999）。这些地图对殖民扩张的成功至关重要（Peters，2017）。制图还使人们得以控制‘无法控制’的土地，并在很大程度上塑造了边疆殖民探险者的声誉，进而塑造逐渐形成的国家认同。因此，澳大利亚地图从一种主观的、欧洲中心主义的土地及其所包含一切事物的认知，演变为定居殖民客观性和普遍‘真理’的象征。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        11
+      ],
+      "line_ids": [
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319
+      ],
+      "id": "S037",
+      "en": "Coupled with these colonial tools of mapping was the complete lack of identification of, or consideration for, Aboriginal knowledge and understandings. Such knowledge extends far beyond the topographic two-dimensional representations of the land, and includes cultural and historical aspects that even in the 21st century we struggle to understand because of the dualistic anthropocentric conceptions of nature as separate to human. This leads to fundamentally myopic views and perceptions of the physical environment and what it ‘means’ to Australia. It is on this basis that Uluru assumes its role as central to contemporary national identity as well.",
+      "zh": "与这些殖民制图工具相伴的，是对原住民知识与理解方式的完全不识别或不考虑。这些知识远远超出土地的二维地形表征，包含文化与历史层面；即使在二十一世纪，我们仍难以理解这些层面，因为我们以二元的、人类中心主义的观念，把自然视为与人类分离的存在。这导致人们对于物质环境及其对澳大利亚的‘意义’，形成根本上短视的看法与认识。乌鲁鲁之所以也在当代国家认同中占据核心地位，正是建立在这一基础上。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        11,
+        12
+      ],
+      "line_ids": [
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331
+      ],
+      "id": "S038",
+      "en": "British mapping and labelling therefore at once ignored the Aboriginal culture and history of an area and ascribed ‘new’ settler-colonial knowledge to it, attempting to transform it into ‘their’ place (Attwood 1992, p. v). This self-ascribed sense of ownership and entitlement is clearly evidenced in the example of Uluru. Tourism was concertedly developed from the 1930s in this context. Simultaneously, this was predicated on the Anangu’s dispossession and they were pushed out under the assimilation policy of the time which saw them moved to far away reserves and controlled. The 1950s witnessed the declaration of Ayers Rock National Park, the construction of vehicle tracks, tourism promotion and the development of tourism services. Tourism expanded in 1959 with the granting of the first motel lease and the construction of an airstrip right next to the northern side of Uluru. This duality of tourism development and Anangu dispossession is iconic of what we suggest are the (im)possibilities of doing tourism otherwise at Uluru, where the nation at once claimed inland Australia (and in particular ‘Ayer’s Rock’ and ‘The Outback’) as an inherent aspect of ‘real Australia’, while denying any other such connections to the land.",
+      "zh": "因此，英国的制图与命名一方面忽略某个地区的原住民文化与历史，另一方面赋予该地区‘新的’定居殖民知识，试图将其转变为‘他们的’地方（Attwood，1992，第v页）。这种自封的所有权与权利意识，在乌鲁鲁案例中清晰可见。在这一背景下，旅游从二十世纪三十年代起得到有组织的发展。与此同时，这种发展以阿南古人被剥夺土地为前提；在当时的同化政策下，他们被迫迁出，被送往遥远的保留地并受到控制。五十年代见证了艾尔斯岩国家公园的设立、车辆道路的修建、旅游推广以及旅游服务的发展。1959年，随着首份汽车旅馆租约获批，以及乌鲁鲁北侧紧邻地区机场跑道的建成，旅游进一步扩张。旅游发展与阿南古人遭受剥夺的这种双重过程，典型地体现了我们所说的在乌鲁鲁以另一种方式开展旅游的（不）可能性：国家一方面把澳大利亚内陆，尤其是‘艾尔斯岩’和‘内陆腹地’，宣称为‘真正的澳大利亚’不可或缺的组成部分，另一方面却否认其他人同土地的类似联系。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        12
+      ],
+      "line_ids": [
+        332,
+        333,
+        334,
+        335,
+        336,
+        337
+      ],
+      "id": "S039",
+      "en": "The dominance of these dynamics was challenged with the land rights movements of the 1970s. This resulted in Anangu returning to their country, asserting their rights as custodians and pressing for a change in the circumstances. Actions by traditional owners such as Paddy Uluru were pivotal in these developments (see National Parks, “History of the park”, n.d.). These assertions of Aboriginal sovereignty were the catalysts to the handback of the national park to the Anangu in 1985 under the Land Rights Act and saw Ayers Rock return to its original name of Uluru.",
+      "zh": "二十世纪七十年代的土地权利运动挑战了上述力量的主导地位。这促使阿南古人重返原乡，主张其作为守护者的权利，并要求改变处境。Paddy Uluru 等传统所有者的行动，在这些发展中发挥了关键作用（见 National Parks，“History of the park”，无日期）。这些原住民主权主张促成了1985年依据《土地权利法》将国家公园交还给阿南古人，也使艾尔斯岩恢复了乌鲁鲁这一原名。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        12
+      ],
+      "line_ids": [
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344
+      ],
+      "id": "S040",
+      "en": "However, this sovereignty was incomplete as the enabling legislation required the land to be jointly managed by Anangu and the Commonwealth, through a lease arrangement with the Director of National Parks; this was a 99-year lease, with Anangu to receive an annual rent and share of park revenue in return (National parks, “History of the park, n.d.). It is important to note the climb was allowed to continue when the 99-year lease was agreed. The Northern Territory government and some in the tourism industry opposed the handback and demanded that the climb be allowed to continue. A plane even flew over the handback ceremony with a banner proclaiming “Ayers Rock for all Australians” (Dunlevie & Ellen, 2015).",
+      "zh": "然而，这种主权并不完整，因为授权立法要求通过与国家公园署长签订租约的方式，由阿南古人与联邦政府共同管理土地。这是一份为期九十九年的租约，作为交换，阿南古人每年获得租金及公园收入的分成（National Parks，“History of the park”，无日期）。需要注意的是，在达成这份九十九年租约时，攀爬获准继续。北领地政府及旅游业中的一些人反对交还土地，并要求允许继续攀爬。一架飞机甚至在交还仪式上空飞过，拖着写有‘艾尔斯岩属于所有澳大利亚人’的横幅（Dunlevie 与 Ellen，2015）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        12
+      ],
+      "line_ids": [
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352
+      ],
+      "id": "S041",
+      "en": "The Uluru- Kata Tjuta National Park gained UNESCO World Heritage recognition twice – in 1987 (natural features) and 1994 (cultural) (Parks Australia, “World Heritage”, n.d.). – which underlines its complexity in terms of national recognition by emphasising dualisms inherent in creating its place. Although heritage listing has obvious benefits from a natural protection viewpoint, it is also potentially problematic as it undermines Anangu sovereignty through its designation as the heritage of humankind that requires universal access (Lutton & Williams, 2016). Heritage listing that rests on these dualistic notions of ‘nature’, ‘culture’ also erases Aboriginal notions of ‘country’ that incorporates kinship of country, humans, animals and spirits.",
+      "zh": "乌鲁鲁—卡塔丘塔国家公园两次获得联合国教科文组织世界遗产认定：1987年因自然特征，1994年因文化价值（Parks Australia，“World Heritage”，无日期）。这通过强调塑造其地方地位过程中内含的二元划分，凸显了它在国家认定方面的复杂性。尽管从自然保护角度看，列入遗产名录具有明显益处，它也可能存在问题：将该地界定为需要普遍开放的人类遗产，会削弱阿南古的主权（Lutton 与 Williams，2016）。建立在‘自然’与‘文化’这类二元概念之上的遗产认定，也抹除了原住民关于‘原乡’的观念；后者包含原乡、人类、动物与灵性存在之间的亲缘关系。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        12
+      ],
+      "line_ids": [
+        353,
+        354
+      ],
+      "id": "S042",
+      "en": "However, the recognition of the cultural significance of Uluru, does acknowledge the role of joint management, and in particular, ‘Tjukurpa’ as the key pillar:",
+      "zh": "不过，对乌鲁鲁文化意义的承认，确实肯定了共同管理的作用，尤其肯定了作为关键支柱的 Tjukurpa："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        13
+      ],
+      "line_ids": [
+        355,
+        356,
+        357,
+        358
+      ],
+      "id": "S043",
+      "en": "Tjukurpa, Anangu traditional law, knowledge and religious philosophy, guides everything that happens in the park - as it has done for thousands of years. This concept is expressed on the cover of the Plan of Management by the words:",
+      "zh": "Tjukurpa，即阿南古的传统法律、知识与宗教哲学，指导着公园内发生的一切——正如它数千年来一直发挥的作用。这个概念在《管理计划》封面上被表达为以下文字："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        13
+      ],
+      "line_ids": [
+        359,
+        360
+      ],
+      "id": "S044",
+      "en": "'Tjukurpa Katutja Ngarantja' - Tjukurpa above all else (National Parks, “Park Management”, n.d.).",
+      "zh": "‘Tjukurpa Katutja Ngarantja’——Tjukurpa 高于一切（National Parks，“Park Management”，无日期）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        13
+      ],
+      "line_ids": [
+        361,
+        362,
+        363,
+        364,
+        365
+      ],
+      "id": "S045",
+      "en": "The joint management of the park is often positioned as an exemplar of reconciliation in tourism, where “all Australians, whether Indigenous or settler, should feel they belong” (Waitt et al., 2007, p. 248). This approach aims to reconcile Anangu cultural and heritage imperatives with those of the natural landscape of the park, and the economic priorities of a tourism ‘product’ (including of course, visitor experience and enjoyment).",
+      "zh": "公园的共同管理常被视为旅游促进和解的典范；在这里，‘所有澳大利亚人，无论是原住民还是定居者，都应感到自己有所归属’（Waitt 等，2007，第248页）。这种做法旨在协调阿南古的文化与遗产要求、公园自然景观的要求，以及作为旅游‘产品’的经济优先事项，当然也包括游客的体验与享受。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        13
+      ],
+      "line_ids": [
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373
+      ],
+      "id": "S046",
+      "en": "However, in practice the possibilities that Uluru under joint management presents in disrupting settler colonial identity are undermined by the broader dynamics that underlie Australian nationhood, built upon the “erasure of Indigenous governance” and the “continuing structural and procedural racism and state hostility to Indigenous rights…” (Howitt, 2012, p. 817). Moreover, while co-management of Uluru incorporates Anangu culture and heritage, the Eurocentric assumptions inherent within resource management separate humans and nature, often ignoring “the emotional, symbolic, spiritual and other widely perceived intrinsic values of the natural world inherent in the creation of place” (Avoy, McDonald & Carlson, 2003, p. 87).",
+      "zh": "然而，在实践中，共同管理之下的乌鲁鲁虽有可能动摇定居殖民身份认同，这些可能性却受到支撑澳大利亚国家意识的更广泛力量的削弱。该国家意识建立在‘抹除原住民治理’以及‘持续存在的结构性与程序性种族主义、国家对原住民权利的敌意……’之上（Howitt，2012，第817页）。此外，虽然乌鲁鲁的共同管理纳入了阿南古文化与遗产，资源管理中内含的欧洲中心主义假设仍把人类与自然分离，往往忽略了‘地方形成过程中，自然世界所固有的情感、象征、灵性及其他被广泛感知的内在价值’（Avoy、McDonald 与 Carlson，2003，第87页）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        13
+      ],
+      "line_ids": [
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385
+      ],
+      "id": "S047",
+      "en": "Uluru then, is a site of messy, complex and competing ideologies, practices and performances of Australian nationhood, all premised on the knowledge created from and underpinned by colonial expansion. Co-management requires empowering Aboriginal people to be involved in decision-making and requires strong commitment from governments as well as Aboriginal managers to ensure an achievement of conservation and cultural goals (Ross, Grant, Robinson, Izurieta, Smyth, & Rist, 2009). However, the dominant narratives of Eurocentric Australian nationhood are characterised by “emptiness, occupation and possession” framing “Indigenous Australian’s relationships to their traditional lands, waters, territories and resources in terms of absence, erasure and denial” (Howitt, 2012, p. 817). While Uluru as a tourism site is co-managed, it is also a tourism site that embodies a moral struggle between “Indigenous performances of personhood” and “performances of colonial nationhood” (Waitt et al., 2007, p. 252). The climb itself can be seen as an act of ‘conquering’ and in the minds of some, a cultural and legal right of the settler colonial tourist (see Hendrickx, 2018; Bolt, 2018).",
+      "zh": "因此，乌鲁鲁是一个有关澳大利亚国家意识的纷杂、复杂且相互竞争的意识形态、实践与展演的场所，而这一切都以殖民扩张所生成并支撑的知识为前提。共同管理要求赋予原住民参与决策的权力，也要求政府与原住民管理者作出坚定承诺，以确保保护与文化目标得以实现（Ross、Grant、Robinson、Izurieta、Smyth 与 Rist，2009）。然而，欧洲中心主义澳大利亚国家意识中的主导叙事以‘空无、占领与占有’为特征，把‘澳大利亚原住民与其传统土地、水域、领土和资源之间的关系，框定为缺席、抹除和否认’（Howitt，2012，第817页）。虽然乌鲁鲁这一旅游地实行共同管理，它同时也是一个体现道德斗争的旅游地：这种斗争发生在‘原住民人格的展演’与‘殖民国家意识的展演’之间（Waitt 等，2007，第252页）。攀爬本身可以被视为一种‘征服’行为；在某些人看来，它也是定居殖民游客的一项文化与法律权利（见 Hendrickx，2018；Bolt，2018）。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        13
+      ],
+      "line_ids": [
+        386
+      ],
+      "id": "S048",
+      "en": "The climbing of Uluru",
+      "zh": "攀爬乌鲁鲁"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        14
+      ],
+      "line_ids": [
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395
+      ],
+      "id": "S049",
+      "en": "Since 1999, the proportion of visitors to Uluru who have climbed had gradually reduced from 71% to under 20% (Whitford & Becken, 2017; Hendrickx, 2018). Some insight has been gained into the motivations and attitudes of tourists who climb or alternatively choose not to climb through typically very small samples (e.g. Waitt et al., 2007; McKercher et al., 2008). As James (2007, p. 400) pointed out, the initial social construction of the site as ‘a natural site’ during World Heritage listing rather than an ‘Aboriginal cultural landscape’ paved the way for the National Park to become synonymous with “a ‘wild’ site for tourist activities, such as climbing, and controlled by the (settler) national government”. The national narrative surrounding Uluru as a ‘natural’ site then, continues to overwrite the cultural and spiritual significance of Uluru and the wishes of the traditional owners that people do not climb.",
+      "zh": "自1999年以来，乌鲁鲁游客中选择攀爬的比例逐渐从71%降至20%以下（Whitford 与 Becken，2017；Hendrickx，2018）。研究者通过通常规模很小的样本，对选择攀爬或选择不攀爬的游客动机与态度获得了一些认识（例如 Waitt 等，2007；McKercher 等，2008）。正如 James（2007，第400页）指出的，在列入世界遗产名录时，最初将这一地点社会性地建构为‘自然地点’，而非‘原住民文化景观’，为国家公园成为‘供游客从事攀爬等活动、并由定居者国家政府控制的“野外”地点’铺平了道路。因此，把乌鲁鲁视为‘自然’地点的国家叙事，持续覆盖着乌鲁鲁的文化与灵性意义，以及传统所有者希望人们不要攀爬的意愿。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        14
+      ],
+      "line_ids": [
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402
+      ],
+      "id": "S050",
+      "en": "Debate has long existed over whether or not Traditional Owners (TOs) and Aboriginal groups support or allow the climb. Since the hand-back in 1985, the Anangu have consistently cared for Uluru and their Tjukurpa, and while not banning the climb, have taken a cultural approach in preferring visitors not to climb, and to respect these cultural wishes. In addition, the cultural responsibilities of Anangu including caring for and protecting visitors and climbing Uluru is considered dangerous with more than 30 deaths recorded to date (Parks Australia, “Please don’t climb”, n.d.). Other concerns in climbing include environmental degradation, pollution, and hazardous weather conditions.",
+      "zh": "关于传统所有者（TOs）与原住民群体是否支持或允许攀爬，长期以来一直存在争论。自1985年交还土地以来，阿南古人始终照料着乌鲁鲁与其 Tjukurpa；虽然他们未曾禁止攀爬，却一直采取文化方式，希望游客不要攀爬，并尊重这些文化意愿。此外，阿南古人的文化责任包括照料和保护游客；而攀爬乌鲁鲁被认为十分危险，截至本文写作时已有三十余起死亡记录（Parks Australia，“Please don’t climb”，无日期）。攀爬还引发了环境退化、污染以及危险天气条件等其他方面的担忧。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        14
+      ],
+      "line_ids": [
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413
+      ],
+      "id": "S051",
+      "en": "Despite Anangu wishes, marketing and framing tourist expectations still centered on climbing, and this was perpetuated through merchandise and social media. As James (2007) noted, the role of marketing, text and images have largely constructed the ‘tourist gaze’, shaping the expectations of the visitors and the boundaries of their experience, marginalising and even co-opting the Anangu view of Uluru. Many people had thus already decided to climb Uluru before arriving at the ‘please do not climb’ sign. Yet climbing was not an automatic given, highlighting the possibilities for attracting tourists to experiencing other activities at the site. Visitors were often disciplined to temporary closures due to adverse weather conditions or cultural reasons – including the 2001 passing of a senior TO, that was received sympathetically by visitors who did not seem to object to being unable to climb (Stevenson, 2001). Despite this possibility of non-climbing tourism activities, marketing and promotion of the climb still presented it as the main “performative engagement with the site” (James 2007, p. 407).",
+      "zh": "尽管阿南古人表达了自己的意愿，旅游营销以及对游客期待的塑造仍以攀爬为中心，商品和社交媒体又延续了这一倾向。正如 James（2007）所指出的，营销、文字和图像在很大程度上构建了‘游客凝视’，塑造游客的期待及其体验边界，使阿南古对乌鲁鲁的理解被边缘化，甚至被收编。因此，许多人尚未走到‘请勿攀爬’的标识前，就已经决定要攀爬乌鲁鲁。不过，攀爬并非理所当然就能进行；这一点表明，吸引游客体验该地其他活动是可能的。游客往往会遵守因恶劣天气或文化原因而实施的临时关闭规定。其中包括2001年一位资深传统所有者去世后实施的关闭；游客对此表现出理解，似乎并不反对自己无法攀爬（Stevenson，2001）。尽管存在开展非攀爬旅游活动的可能，相关营销与推广仍将攀爬呈现为‘以行动参与这一地方’的主要方式（James，2007，第407页）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        14
+      ],
+      "line_ids": [
+        414,
+        415
+      ],
+      "id": "S052",
+      "en": "The 2010-2020 Uluru- Kata Tjuta Management Plan stated that the climbing of Uluru would stop when three conditions were met:",
+      "zh": "《2010—2020年乌鲁鲁—卡塔丘塔管理计划》指出，当三项条件得到满足时，将停止攀爬乌鲁鲁："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        14
+      ],
+      "line_ids": [
+        416
+      ],
+      "id": "S053",
+      "en": "• the proportion of visitors climbing the rock drops below 20%, or",
+      "zh": "• 攀爬巨岩的游客比例降至20%以下；或"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        14
+      ],
+      "line_ids": [
+        417
+      ],
+      "id": "S054",
+      "en": "• when the park board is satisfied adequate alternative experiences have been established, or",
+      "zh": "• 公园管理委员会确信已建立足够的替代体验；或"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        15
+      ],
+      "line_ids": [
+        418,
+        419
+      ],
+      "id": "S055",
+      "en": "• when “the cultural and natural experiences on offer are the critical factors when visitors make their decision to visit” (National Parks, 2010, p. 92).",
+      "zh": "• ‘所提供的文化与自然体验成为游客决定到访时的关键因素’（National Parks，2010，第92页）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        15
+      ],
+      "line_ids": [
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429
+      ],
+      "id": "S056",
+      "en": "This attempt to establish clear thresholds for climbing Uluru presents an apparent ideological dilemma, underlying the(im)possibilities of doing tourism otherwise in a context of coloniality. On the one hand we have the ‘coloniality’ imperative of neo-liberalism, which centres Australia’s non-Aboriginal history and objectives of capitalism; and on the other, the ‘decolonising’ imperative of privileging Aboriginal voices and history. The former seeks to oppose the ban on the basis of non-Aboriginal measures of ‘progress’, and the adherence to Uluru as a tourism product, rather than the Aboriginal connections to land, country and spirit. An indicative example of the framing of Uluru in relation to capitalist colonial forms of consumption was offered by former NT Chief Minister Adam Giles, who stated that climbing Uluru was no different to climbing the Sydney Harbour Bridge or the Eiffel Tower and that tourism income and employment were too vital to risk by banning the climb (Davidson, 2016).",
+      "zh": "试图为攀爬乌鲁鲁设定明确门槛的做法，呈现出一种明显的意识形态两难，它构成殖民性背景下以另一种方式开展旅游之（不）可能性的基础。一方面，是新自由主义的‘殖民性’要求，以澳大利亚非原住民的历史及资本主义目标为中心；另一方面，则是优先考虑原住民声音与历史的‘去殖民化’要求。前者试图按照非原住民的‘进步’标准反对禁令，坚持把乌鲁鲁视为旅游产品，而非重视原住民同土地、原乡和灵性的联系。北领地前首席部长 Adam Giles 提供了一个典型例子，说明乌鲁鲁如何被置于资本主义殖民消费形式的框架之中。他称攀爬乌鲁鲁与攀登悉尼海港大桥或埃菲尔铁塔并无不同，而且旅游收入与就业过于重要，不能因禁止攀爬而使其面临风险（Davidson，2016）。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        15
+      ],
+      "line_ids": [
+        430,
+        431
+      ],
+      "id": "S057",
+      "en": "THE CLIMB’S CLOSURE: (IM)POSSIBILITIES FOR DECOLONISING TOURISM PRACTICES?",
+      "zh": "关闭攀爬：旅游实践去殖民化的（不）可能性？"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        15
+      ],
+      "line_ids": [
+        432
+      ],
+      "id": "S058",
+      "en": "On announcing the ban in 2017, Chairman of the Board and TO Sammy Wilson stated:",
+      "zh": "2017年宣布禁令时，管理委员会主席、传统所有者 Sammy Wilson 表示："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        15
+      ],
+      "line_ids": [
+        433,
+        434,
+        435,
+        436
+      ],
+      "id": "S059",
+      "en": "Some people, in tourism and government, for example, might have been saying we need to keep it open but it’s not their law that lies in this land. It is an extremely important place, not a playground or theme park like Disneyland. We want you to come, hear us and learn. We’ve been thinking about this for a very long time (cited in Aikman, 2017)..",
+      "zh": "某些人，例如旅游业和政府中的一些人，可能一直在说我们需要继续开放它，但这片土地上的法并不是他们的法。这里是一个极其重要的地方，不是游乐场，也不是迪士尼乐园那样的主题公园。我们希望你们来到这里，聆听我们，向我们学习。我们已经为此思考了非常、非常久（转引自 Aikman，2017）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        15
+      ],
+      "line_ids": [
+        437,
+        438,
+        439,
+        440,
+        441
+      ],
+      "id": "S060",
+      "en": "On 26 October 2019, the Traditional Owners and other Aboriginal and non-Aboriginal people gathered for ceremony and celebrations at the base of Uluru. In a stark example of ‘last chance tourism’, an extra 10,000 visitors a month were recorded in the six months before the ban’s implementation (Brown, 2019) on October 25, 2019. On its last day, hundreds of climbers queued amid high tensions, high winds, and scrambles to be the ‘last person off Uluru’. Aboriginal public intellectual Celeste Liddle described it:",
+      "zh": "2019年10月26日，传统所有者与其他原住民、非原住民人士聚集在乌鲁鲁脚下，举行仪式与庆祝活动。在一个突出的‘最后机会旅游’案例中，禁令于2019年10月25日实施前的六个月，记录显示每月额外增加了一万名游客（Brown，2019）。在最后开放日，数百名攀爬者在紧张气氛与大风中排队，争抢成为‘最后一个走下乌鲁鲁的人’。原住民公共知识分子 Celeste Liddle 如此描述："
+    },
+    {
+      "kind": "body",
+      "pages": [
+        15
+      ],
+      "line_ids": [
+        442,
+        443,
+        444,
+        445,
+        446,
+        447
+      ],
+      "id": "S061",
+      "en": "This is purely about the climbers “conqueror complex”, their disrespect for Traditional Owners and their land. Most of these people have probably never bothered setting foot in the Northern Territory before now. To prove their “point”, they’re driving thousands of kilometers only to turn around and drive back without ever learning a thing about the land they’ve just desecrated… At the end of the day, perhaps all this last minute coloniser scrambling to the summit is for the best. After the ban begins, the likelihood of any of these people returning to Uluru is most certainly nil (2019).",
+      "zh": "这完全是攀爬者的‘征服者情结’，是他们对传统所有者及其土地的不尊重。这些人中的大多数，在此之前大概从来都没想过踏足北领地。为了证明自己的‘立场’，他们开车行驶数千公里，然后又掉头开回去，对于刚刚亵渎的那片土地，却什么都没有学到……说到底，也许这些殖民者在最后时刻争相登顶，反倒是最好的结果。禁令开始后，这些人中的任何一人再回到乌鲁鲁的可能性，几乎肯定为零（2019）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        16
+      ],
+      "line_ids": [
+        448,
+        449,
+        450
+      ],
+      "id": "S062",
+      "en": "Now that the climb has closed, we must wait to see what now occurs. Park visitor data has been hard to source as only six months after the closure, the COVID-19 pandemic crisis saw tourism collapse around Australia.",
+      "zh": "如今攀爬已经关闭，我们还需要等待，看看接下来会发生什么。公园游客数据难以获取，因为在关闭仅六个月之后，新冠疫情危机就导致澳大利亚各地旅游陷入崩溃。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        16
+      ],
+      "line_ids": [
+        451,
+        452,
+        453,
+        454,
+        455,
+        456
+      ],
+      "id": "S063",
+      "en": "In the face of post-COVID challenges there are calls to re-open the climb to kickstart tourism – calls that have been rejected by TO Sammy Wilson: \"No. Enough is enough. The word is no. We don't want to open a can of worms or put more logs on the fire” (Haskin, 2020). Will tourists abandon Uluru, or will they engage with ‘new’ experiences? Will they ignore laws and still climb? There are also socio-political views that still see climbing Uluru as a ‘public right’ and a “natural wonder that belongs to all of us” (Right to climb, n.d).",
+      "zh": "面对新冠疫情带来的后续挑战，有人呼吁重新开放攀爬，以重新启动旅游。这些呼吁遭到传统所有者 Sammy Wilson 的拒绝：‘不。够了就是够了。答案就是不。我们不想打开一罐麻烦，也不想再火上浇油’（Haskin，2020）。游客会放弃乌鲁鲁，还是会参与‘新的’体验？他们会无视法律，仍然攀爬吗？还有一些社会政治观点，仍把攀爬乌鲁鲁视为一项‘公众权利’，并把它称作‘属于我们所有人的自然奇观’（Right to climb，无日期）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        16
+      ],
+      "line_ids": [
+        457,
+        458,
+        459,
+        460
+      ],
+      "id": "S064",
+      "en": "Perhaps if previous tour guides and marketing had privileged the Anangu perspective of Uluru and emphasised other non-climbing aspects of the experience, more people would not have climbed (James, 2007). This is also evidenced by the fact that more and more tourists in Australia and around the world are seeking opportunities to experience Indigenous culture (DFAT, 2019).",
+      "zh": "也许，如果过去的导游和营销工作优先介绍阿南古人对乌鲁鲁的理解，强调游览体验中其他不涉及攀爬的方面，那么会有更多人选择不攀爬（James，2007）。澳大利亚及世界各地越来越多的游客正在寻求体验原住民文化的机会，这一事实也支持了上述判断（DFAT，2019）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        16
+      ],
+      "line_ids": [
+        461,
+        462,
+        463,
+        464,
+        465,
+        466
+      ],
+      "id": "S065",
+      "en": "Indeed COVID-19 has impacted the strategic directions of Tourism Australia, who in the context of COVID-19 and severe restrictions to overseas travel – as well as the impact of international visitors to Australia are now promoting localised tourism, and Aboriginal tourism: “Today’s conscious traveller is increasingly looking for a real connection to the land and sea, and a new way of experiencing it – exactly the kind of life-changing and immersive experience that Aboriginal and Torres Strait Islander tourism can provide”(Philippa Harrison quoted by Travel Weekly, 2020).",
+      "zh": "事实上，新冠疫情已经影响了澳大利亚旅游局的战略方向。在疫情、海外出行受到严格限制，以及赴澳国际游客受到影响的背景下，澳大利亚旅游局如今正推广本地旅游与原住民旅游：‘如今有意识、负责任的旅行者，越来越希望与土地和海洋建立真实联系，并寻求体验它们的新方式——这正是澳大利亚原住民与托雷斯海峡岛民旅游所能提供的、足以改变人生的沉浸式体验’（Philippa Harrison，转引自 Travel Weekly，2020）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        16,
+        17
+      ],
+      "line_ids": [
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483
+      ],
+      "id": "S066",
+      "en": "The Uluru site then, provides ample opportunity for tourists to engage with the Anangu in a range of educational eco-cultural activities including nature walks, painting workshops, bush yarns and bush food experiences (Whitford & Becken, 2017). Rather than taking a monological colonial perspective of conquest, the closure could provide opportunities for tourists to have an intimate encounter with Country that extends beyond just the visual gaze from the top of ‘the Rock’ that could work to unsettle the power of coloniality through transformative encounters that centre Anangu ontologies. The closure of the climb gives the Anangu more agency in representing their place and their living culture and represents possibilities for doing tourism otherwise, offering tourists experiences that go beyond nature/culture/human/ spirit binaries. An embodied experience with Uluru, mediated from the pluriversal, multilogical Anangu perspective gives agency to the non-human and spirit. As Bawaka et al. (2016, p. 462) point out, possibilities exist within Aboriginal led tourism for transformative tourism in “more-than-human, ongoing and incomplete” ways. Tourists have an opportunity to experience and learn in ways that are “co-constituted with Country and that Country is co-constituted with tourists” (Bawaka, et al., p. 450). However, transformation in this context is not fixed or complete, rather transformation is ‘unknowable’ folding “into the open-ended construction of reality” (Bawaka, et al., p. 462). Taking a pluriversal and multilogical perspective to decolonising tourism practice and the academy, means taking seriously the processes that lead to transformations, while acknowledging there are no universal fixed outcomes.",
+      "zh": "因此，乌鲁鲁为游客提供了充分机会，让他们通过自然步行、绘画工作坊、丛林讲谈和野生食物体验等多种具有教育意义的生态文化活动，与阿南古人互动（Whitford 与 Becken，2017）。关闭攀爬能够提供机会，使游客超越单一逻辑的殖民征服视角，与原乡发生亲密相遇，超越仅从‘巨岩’顶端进行的视觉凝视；这种以阿南古本体论为中心、具有转化作用的相遇，可能动摇殖民性的权力。关闭攀爬使阿南古人在表征自己的地方及其活态文化时获得了更多能动性，也体现了以另一种方式开展旅游的可能，为游客提供超越自然／文化／人类／灵性二元划分的体验。经由阿南古多元世界、多逻辑视角所中介的、与乌鲁鲁的具身体验，赋予了非人类与灵性存在以能动性。正如 Bawaka 等（2016，第462页）指出的，原住民主导的旅游能够以‘超越人类的、持续的且不完整的’方式，开展具有转化作用的旅游。游客有机会以‘与原乡共同构成，而原乡也与游客共同构成’的方式体验和学习（Bawaka 等，第450页）。然而，这一背景下的转化不是固定的，也不是完成了的；它是‘不可预知的’，并融入‘对现实的开放式建构’之中（Bawaka 等，第462页）。以多元世界和多逻辑视角推动旅游实践及学界的去殖民化，意味着认真对待那些带来转化的过程，同时承认并不存在普遍且固定的结果。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        17
+      ],
+      "line_ids": [
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498
+      ],
+      "id": "S067",
+      "en": "Dismantling Eurocentric logics in relation to map-making is one tool that can be used to unsettle colonial ways of relating to landscapes. Work on ‘un-mapping’ presents some exciting possibilities for reconfiguring the coloniality of tourism spaces. Goffe and Grullón (n.d.) for example have worked pedagogically with students towards ‘un-mapping’ the coloniality of global geography through mapping with the body, creating ‘counter-maps’ through memory and music. In doing so they engage a multisensorial approach to new forms of mapping the Caribbean, taking into account global diasporic communities and histories of slavery. In line with unmapping, work by McGinnis, Harvey and Young (2020) working together with the Waigman Aboriginal community demonstrates how digital mapping and knowledge sharing can be used by Indigenous communities to share cultural knowledge in tourism. They reveal how combining traditional and modern means of sharing knowledge through digital tourism products “can empower local Indigenous communities involved in tourism and educate locals and tourists to conserve such knowledges for the long term” McGinnis et al. p. 96). Detours are another example of unmapping and subverting the coloniality of the tourism gaze. Aikau & Gonzalez disrupt the tourism fantasy of Hawai'i as tropical paradise playground, and describe how detours can direct the gaze towards a multilayered engagement with the culture, history and effects of colonisation on the islands (2019).",
+      "zh": "拆解地图绘制中的欧洲中心主义逻辑，是动摇殖民式景观关系的一种工具。有关‘解构地图’的工作，为重塑旅游空间的殖民性提供了一些令人期待的可能。例如，Goffe 与 Grullón（无日期）在教学中与学生一起，通过身体绘图、借助记忆与音乐创造‘反地图’，尝试解构全球地理中的殖民性。在这一过程中，他们以多感官方法绘制加勒比地区的新型地图，把全球离散社群和奴隶制历史纳入考量。与‘解构地图’的方向一致，McGinnis、Harvey 与 Young（2020）和 Waigman 原住民社区共同开展的研究，展示了原住民社区如何通过数字绘图与知识共享，在旅游中分享文化知识。他们揭示，通过数字旅游产品结合传统与现代的知识分享方式，‘能够赋权参与旅游的地方原住民社区，并教育当地居民和游客，使这些知识得到长期保存’（McGinnis 等，第96页）。绕行路线是解构地图、颠覆旅游凝视之殖民性的另一个例子。Aikau 与 Gonzalez 挑战了将夏威夷想象为热带天堂游乐场的旅游幻想，并说明绕行路线如何把凝视引向对岛屿文化、历史及殖民影响的多层次认识与接触（2019）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        17
+      ],
+      "line_ids": [
+        499,
+        500,
+        501,
+        502,
+        503
+      ],
+      "id": "S068",
+      "en": "While the closure of the climb remains a contested issue at the heart of the tension inherent in Australia’s settler colonial national identity, possibilities for ‘un-mapping’ this tourism landscape that engage tourists with Indigenous ontologies and more-than-human encounters could also work to promote transformative possibilities for doing tourism otherwise to coloniality, promoting ways for ‘unlearning’ coloniality in relation to mapping and site-seeing.",
+      "zh": "虽然关闭攀爬仍然是一项争议议题，处于澳大利亚定居殖民国家认同内在紧张关系的核心，但对这一旅游景观进行‘解构地图’、让游客接触原住民本体论并参与超越人类的相遇，也可能推动具有转化作用的另一种旅游方式，使其超越殖民性，并促进在绘图与观光中‘去习得’殖民性的方式。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        17
+      ],
+      "line_ids": [
+        504
+      ],
+      "id": "S069",
+      "en": "CONCLUSION: BEYOND COLONIALITY AND DOING TOURISM OTHERWISE",
+      "zh": "结论：超越殖民性，以另一种方式开展旅游"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        17
+      ],
+      "line_ids": [
+        505,
+        506,
+        507,
+        508
+      ],
+      "id": "S070",
+      "en": "The mapmaking that accompanied settler colonialism in Australia is a monocultural, monological approach that allowed little space for the histories, cultures and practices of the original inhabitants. The case study presented here highlights the settler-colonial agenda that has long underpinned tourism development, and the ‘coloniality of power’ that denigrate and ignore Indigenous peoples, cultures and histories.",
+      "zh": "伴随澳大利亚定居殖民主义而来的地图绘制，是一种单一文化、单一逻辑的方法，几乎没有为原住居民的历史、文化与实践留下空间。本文的案例研究凸显了长期支撑旅游发展的定居殖民议程，以及贬低、忽略原住民族、文化和历史的‘权力的殖民性’。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        17,
+        18
+      ],
+      "line_ids": [
+        509,
+        510,
+        511,
+        512,
+        513
+      ],
+      "id": "S071",
+      "en": "Being an ally to the decolonising imperative is to consciously choose to commit to unlearning our own worldviews that have been shaped by privilege and academic theory that has prioritised western forms of knowing, embedded within coloniality. Political praxis needs to be co-created between non-western and Indigenous knowledges to “becoming otherwise in theory and practice to the dominant logics, and relationalities of patriarchal capitalist-coloniality” (Motta & Bermudez, 2019, p. 9).",
+      "zh": "成为去殖民化诉求的盟友，意味着有意识地选择并致力于去习得我们自身的世界观；这些世界观受到特权和优先重视西方认识方式的学术理论塑造，并嵌入殖民性之中。政治实践需要在非西方与原住民知识之间共同创造，从而‘在理论与实践中形成有别于父权制资本主义—殖民性之主导逻辑与关系性的另一种样态’（Motta 与 Bermudez，2019，第9页）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        18
+      ],
+      "line_ids": [
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523
+      ],
+      "id": "S072",
+      "en": "While recent focus on truth-telling has brought national awareness to the sophistication of Aboriginal culture and land management (Gammage 2011; Pascoe, 2014), the deception of terra nullius and the subsequent taking of the land from Aboriginal and Torres Strait Islander peoples still casts a shadow on the identity of the Australia nation, and relationships between Aboriginal and non-Aboriginal Australians. In the tourism context, this contributes to a societal disconnection between ‘place’ as containing continual Indigenous presence, and ‘place’ as a destination product. This creates the (im)possibilities of doing tourism otherwise at Uluru (and perhaps at all sites of Indigenous and non-western significance); the possibilities of engaging with Anangu for alternative experiences that connect with the culture and spirit beyond the physical landscapes vis a vis the impossibilities of an entrenched colonial mindset mapped onto (and into) physical landscapes.",
+      "zh": "虽然近期对讲述真相的关注，使全国公众认识到原住民文化与土地管理的复杂成熟程度（Gammage，2011；Pascoe，2014），但‘无主地’的欺骗，以及随后从澳大利亚原住民和托雷斯海峡岛民手中夺取土地的行为，仍对澳大利亚的国家认同以及原住民与非原住民澳大利亚人的关系投下阴影。在旅游背景中，这造成了一种社会层面的断裂：一边是包含原住民持续在场的‘地方’，另一边是作为目的地产品的‘地方’。这构成了在乌鲁鲁，也可能在所有对原住民和非西方群体具有重要意义的地点，以另一种方式开展旅游的（不）可能性：一方面，是通过与阿南古互动而获得替代体验的可能，这些体验联系着超越物质景观的文化与灵性；另一方面，则是牢固的殖民心态被映射到物质景观之上并嵌入其中所造成的不可能。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        18
+      ],
+      "line_ids": [
+        524,
+        525,
+        526,
+        527
+      ],
+      "id": "S073",
+      "en": "In order to ‘do otherwise’, tourism should not limit goals to (neo)colonial profit accumulation. By continuing a development model that privileges supply-side, tourism perpetuates a reality that conceals exclusions (such as Indigenous ontologies and epistemologies) while simultaneously denying (or ignoring) the existence of coloniality that underpins modernity (Vázquez, 2011).",
+      "zh": "要‘以另一种方式行动’，旅游就不应把目标局限于殖民或新殖民式的利润积累。继续采用优先考虑供给侧的发展模式，会使旅游延续一种遮蔽排斥的现实，例如遮蔽对原住民本体论和认识论的排斥，同时又否认或忽略支撑现代性的殖民性之存在（Vázquez，2011）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        18
+      ],
+      "line_ids": [
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539
+      ],
+      "id": "S074",
+      "en": "With the closure of the climb in 2019, a moment has arrived for a critical multi-vocality and multi-logicality approach to doing tourism at Uluru. This case study resonates with other tourism sites in settler colonial societies (see Lemelin et al., 2013; Mason, 2014) where, despite seemingly dominant ‘grand colonial narratives’, spaces can be diversified and opened up to show and examine “the different social realities experienced by Indigenous communities” (Lemelin et al., 2013, p. 267). In her work on the importance of Mâori perspectives in national park tourism in New Zealand, Carr (2004) found that re-inscribing Indigenous place names emphasised spiritual connection to the land and tribal identity, transforming the ways that tourists experience the landscape. The decolonial shift as ‘option’ foregrounds Indigenous agency, and in the case of tourism, possibilities for transformative encounters for tourists with Country, thus shifting the focus from the hedonistic, capitalist consumption of Uluru to a deeper engagement with a meaningful ‘place’ (tebrakunna country & Lee, 2017) that can better align the priorities of all stakeholders.",
+      "zh": "随着2019年攀爬关闭，以批判性的多声音、多逻辑方法在乌鲁鲁开展旅游的契机已经到来。这一案例与定居殖民社会中的其他旅游地点产生共鸣（见 Lemelin 等，2013；Mason，2014）：尽管看似占据主导地位的‘宏大殖民叙事’依旧存在，空间仍可以被多元化并开放，用以呈现和考察‘原住民社区所经历的不同社会现实’（Lemelin 等，2013，第267页）。Carr（2004）研究毛利视角在新西兰国家公园旅游中的重要性时发现，重新铭刻原住民地名，强调了与土地的灵性联系和部族身份，改变了游客体验景观的方式。作为‘选择’的去殖民转向，将原住民能动性置于前景；在旅游领域，它突出游客与原乡发生具有转化作用之相遇的可能，从而把重点从对乌鲁鲁的享乐主义、资本主义消费，转向与有意义的‘地方’建立更深入的联系（tebrakunna country 与 Lee，2017），进而更好地协调所有利益相关者的优先事项。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        18,
+        19
+      ],
+      "line_ids": [
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546
+      ],
+      "id": "S075",
+      "en": "However changing focus and behaviour is threatening to many, particularly those who have benefited from the legacies of settler colonialism and the individualistic, accumulative forces of capitalism that have followed and that drive contemporary tourism (Higgins-Desbiolles, 2008). The role of marketing however, (eg. social marketing and demarketing) could go some way towards changing tourist consumption practices, promoting behavioural change towards sustainable tourism development, redirecting tourist information (Medway, Warnaby & Dharni, 2010; Truong & Hall 2013). We suggest this could also be applied to educating tourists about coloniality and tourism and how to behave appropriately at Indigenous sites.",
+      "zh": "然而，改变关注重点和行为，对许多人构成威胁，尤其是那些从定居殖民主义遗产及其后续资本主义力量中获益的人；这些具有个人主义和积累导向的力量，驱动着当代旅游（Higgins-Desbiolles，2008）。不过，营销，例如社会营销与抑制营销，可以在一定程度上改变游客的消费实践，推动有助于可持续旅游发展的行为变化，并重新引导旅游信息（Medway、Warnaby 与 Dharni，2010；Truong 与 Hall，2013）。我们认为，这些方法也可以用于教育游客，让他们了解殖民性与旅游的关系，以及在原住民地点应如何恰当地行动。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        19
+      ],
+      "line_ids": [
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556
+      ],
+      "id": "S076",
+      "en": "Un-mapping is also a tool that can help facilitate the critical multilogicality and processes of ‘un-learning’, to denaturalise the coloniality of tourism spaces. As Razack explains “[t]o unmap one must historicize, a process that begins by asking about the relationship between identity and space. What is being imagined or projected onto specific places” (and bodies) (2000, pp. 95-96). Unmapping could assist in helping an unlearning of coloniality, the privileges given to the identity of whiteness and how these notions of ‘reality’ are mapped onto the Eurocentric consciousness – and consequently into and onto tourism spaces and places. In the case of Uluru unlearning requires us to unpack settler colonial power in Australia and the legacies of map-making. For the tourism academy unlearning involves disrupting the linear-thinking assumptions in critical, the privileging of western forms of governance and ideologies, anthropocentric models that separate humans from nature and a negation of the sacred as reality (Grande, 2004).",
+      "zh": "‘解构地图’也是一种能够促进批判性多逻辑与‘去习得’过程的工具，有助于打破把旅游空间的殖民性视为自然、理所当然的认识。正如 Razack 所解释的，‘要解构地图，就必须将其历史化；这一过程始于追问身份与空间之间的关系。什么被想象或投射到了特定地方’以及身体之上（2000，第95—96页）。解构地图能够帮助人们去习得殖民性、白性身份所享有的特权，以及这些‘现实’观念如何被映射到欧洲中心主义意识之中，继而被映射到旅游空间和地方之中与之上。在乌鲁鲁案例中，去习得要求我们剖析澳大利亚的定居殖民权力及制图遗产。对于旅游学界，去习得意味着打破批判研究中的线性思维假设、赋予西方治理形式与意识形态的优先地位、把人类与自然分离的人类中心主义模式，以及否认神圣作为现实的做法（Grande，2004）。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        19
+      ],
+      "line_ids": [
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563
+      ],
+      "id": "S077",
+      "en": "The issues involved in the case of Uluru cannot be fully understood in a settler colonial context using the lens of academic theory that negates Aboriginal world views and ways of being. For the Anangu people Uluru is not just a ‘rock’. Uluru has agency as a spiritual being; a non-dualistic concept that emerges from the deeply meaningful beliefs of their Tjukurpa.. As Kwaymullina (2005, p. 12) states, “it is only when this Indigenous way of knowing is accepted as being valid, and as real as the ‘ways of the west’ that the identity and nature of this continent, and the place of Aboriginal law in sustaining it, can begin to be understood”. These diverging worldviews lie at the heart of the conflict concerning Uluru.",
+      "zh": "在定居殖民背景下，若使用否定原住民世界观与存在方式的学术理论视角，就无法充分理解乌鲁鲁案例所涉及的问题。对阿南古人而言，乌鲁鲁不只是一块‘岩石’。乌鲁鲁作为灵性存在具有能动性；这一非二元概念源自其 Tjukurpa 中深具意义的信念。正如 Kwaymullina（2005，第12页）所说，‘只有当这种原住民认识方式被承认为有效，并且与“西方方式”同样真实时，我们才可能开始理解这片大陆的身份与性质，以及原住民法在维系它方面的地位’。这些相互分歧的世界观，正是围绕乌鲁鲁的冲突核心。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        19
+      ],
+      "line_ids": [
+        564,
+        565,
+        566,
+        567,
+        568,
+        569
+      ],
+      "id": "S078",
+      "en": "We acknowledge the limitations of this conceptual paper in relation to the abstracted approach to the case study of the closure of the Uluru climb. However, we see the closure of the climb as timely for recognising and connecting the coloniality of power to the legacies of mapmaking, which underpin the tensions that continue to occur in the Australian national conversation over the closure of the climb. We wish to foreground tourism that can provide transformative and subversive ways of engaging with people and places.",
+      "zh": "我们承认，这篇概念性论文对乌鲁鲁关闭攀爬案例采取抽象分析方式，因此存在局限。然而，我们认为，关闭攀爬提供了适时契机，使我们能够认识权力的殖民性，并将它与地图绘制的遗产联系起来；这些遗产支撑着澳大利亚全国性讨论中围绕关闭攀爬持续发生的紧张关系。我们希望突出那种能够提供具有转化与颠覆作用之方式、使人们与他人及地方建立联系的旅游。"
+    },
+    {
+      "kind": "body",
+      "pages": [
+        19
+      ],
+      "line_ids": [
+        570,
+        571,
+        572,
+        573
+      ],
+      "id": "S079",
+      "en": "Moving away from universal understandings of reality, future research on decolonising tourism spaces should consider pluriversal approaches that can assist in unlearning the colonial mindset of ‘whiteness’ in tourism and the academy: “It is only from an awareness of our positioned realities that we can enter in relation with each-other, that we can listen to each-other and learn each-other” (Vázquez, 2020, xix)",
+      "zh": "未来有关旅游空间去殖民化的研究，应当摆脱对现实的普遍主义理解，考虑多元世界的方法，以帮助人们在旅游与学界中去习得‘白性’的殖民心态：‘只有意识到我们各自具有位置性的现实，我们才能与彼此建立关系，才能相互聆听、相互学习’（Vázquez，2020，第xix页）。"
+    },
+    {
+      "kind": "heading",
+      "pages": [
+        19
+      ],
+      "line_ids": [
+        574
+      ],
+      "id": "S080",
+      "en": "REFERENCES",
+      "zh": "参考文献"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        575,
+        576
+      ],
+      "id": "S081",
+      "en": "Ahmed, S. (2007). A phenomenology of whiteness. Feminist Theory. 8(2): 149–168. 1464–7001 DOI: 10.1177/1464700107078139",
+      "zh": "Ahmed, S. (2007). 《白性的现象学》. Feminist Theory. 8(2): 149–168. 1464–7001 DOI: 10.1177/1464700107078139"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        577,
+        578
+      ],
+      "id": "S082",
+      "en": "Aikau, H.K. & Gonzalez, V. (eds.) (2019). Detours: A decolonial guide to Hawai’i. Durham: Duke University Press.",
+      "zh": "Aikau, H.K. & Gonzalez, V. （编） (2019). 《绕行：夏威夷去殖民旅行指南》. Durham: Duke University Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        579,
+        580,
+        581
+      ],
+      "id": "S083",
+      "en": "Aikman, A. (2017, 1 November). Climbing Uluru banned. The Australian, Online. Retrieved 3 September 2019, from https://www.theaustralian.com.au/national-affairs/indigenous/climbing-uluru-banned/news-story/53511b7f2e58f7ed03d5b0c3f66e2792.",
+      "zh": "Aikman, A. (2017年11月1日). 《禁止攀爬乌鲁鲁》. The Australian, 在线. 检索于：2019年9月3日，网址：https://www.theaustralian.com.au/national-affairs/indigenous/climbing-uluru-banned/news-story/53511b7f2e58f7ed03d5b0c3f66e2792."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        582,
+        583,
+        584
+      ],
+      "id": "S084",
+      "en": "Allam, L. & Bowers, M. (2019, 26 October). New dawn for Uluru as climb closure ends decades of disrespect. The Guardian. Retrieved 2 November 2019, from https://www.theguardian.com/australia-news/2019/oct/26/new-dawn-for-uluru-as-climb-closure-ends-decades-of-disrespect",
+      "zh": "Allam, L. & Bowers, M. (2019年10月26日). 《关闭攀爬终结数十年的不尊重，乌鲁鲁迎来新曙光》. The Guardian. 检索于：2019年11月2日，网址：https://www.theguardian.com/australia-news/2019/oct/26/new-dawn-for-uluru-as-climb-closure-ends-decades-of-disrespect"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        585,
+        586
+      ],
+      "id": "S085",
+      "en": "Amoamo, M., & Thompson, A. (2010). (Re)imaging Māori tourism: Representation and cultural hybridity in postcolonial New Zealand. Tourist Studies, 10 (1), 35-55.",
+      "zh": "Amoamo, M., & Thompson, A. (2010). 《（重新）呈现毛利旅游：后殖民新西兰的表征与文化混杂性》. Tourist Studies, 10 (1), 35-55."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        587,
+        588,
+        589,
+        590,
+        591
+      ],
+      "id": "S086",
+      "en": "Appleton, N.S. (2019). Do not “decolonize”… if you are not decolonizing: Progressive language and planning beyond a hollow academic rebranding. Critical Ethnic Studies, University of Minnesota. Retrieved 20 August 2019, from, http://www.criticalethnicstudiesjournal.org/blog/2019/1/21/do-not-decolonize-if-you-are-not-decolonizing-alternate-language-to-navigate-desires-for-progressive-academia-6y5sg",
+      "zh": "Appleton, N.S. (2019). 《如果你并未进行去殖民化，就不要说‘去殖民化’：超越空洞学术换牌的进步语言与规划》. Critical Ethnic Studies, University of Minnesota. 检索于：2019年8月20日，网址：http://www.criticalethnicstudiesjournal.org/blog/2019/1/21/do-not-decolonize-if-you-are-not-decolonizing-alternate-language-to-navigate-desires-for-progressive-academia-6y5sg"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        592,
+        593
+      ],
+      "id": "S087",
+      "en": "Attwood, B. (1992). Power, Knowledge and Aborigines: Introduction. Journal of Australian Studies, (35), i-xvi.",
+      "zh": "Attwood, B. (1992). 《权力、知识与澳大利亚原住民：导论》. Journal of Australian Studies, (35), i-xvi."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        594,
+        595,
+        596
+      ],
+      "id": "S088",
+      "en": "Avoy, L., McDonald, D., Carlson, M. (2003). American Indian/First Nation Place Attachment to Park Lands: the case of the Nuu-chah-nulth of British Columbia. Journal of Park and Recreation Administration 21,( 2), 84-104.",
+      "zh": "Avoy, L., McDonald, D., Carlson, M. (2003). 《美洲印第安人／第一民族对公园土地的地方依恋：不列颠哥伦比亚 Nuu-chah-nulth 人案例》. Journal of Park and Recreation Administration 21,( 2), 84-104."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        597,
+        598
+      ],
+      "id": "S089",
+      "en": "Battiste, M. (2009). Maintaining Aboriginal identity: Language and culture in modern society. In M. Battiste (ed.) Reclaiming Indigenous Voice and Vision (pp. 192-208). Vancouver, UBC Press.",
+      "zh": "Battiste, M. (2009). 《维系原住民身份：现代社会中的语言与文化》. 载于 M. Battiste （编） 《重获原住民的声音与愿景》 (页 192-208). Vancouver, UBC Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        599,
+        600,
+        601
+      ],
+      "id": "S090",
+      "en": "Bawaka Country, Wright, S., Lloyd K., Suchet-Pearson S., Burarrwanga, L., Ganambarr R, Ganambarr (2016). Meaningful tourist transformations with Country at Bawaka, North East Arnhem Land, northern Australia. Tourist Studies, 17 (4) 62-88.",
+      "zh": "Bawaka Country, Wright, S., Lloyd K., Suchet-Pearson S., Burarrwanga, L., Ganambarr R, Ganambarr (2016). 《在澳大利亚北部东北阿纳姆地 Bawaka 与原乡共同实现有意义的游客转化》. Tourist Studies, 17 (4) 62-88."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        20
+      ],
+      "line_ids": [
+        602,
+        603,
+        604
+      ],
+      "id": "S091",
+      "en": "Belle, L. V & Ehlers, J (2020). ‘La Tour: The Modern Gaze. The Elevator and the View from Above’ in Vázquez, R. (2020). Vistas of Modernity: decolonial aesthesis and the end of the contemporary. Mondriaan Fund. Essay 014.",
+      "zh": "Belle, L. V & Ehlers, J (2020). ‘《塔：现代凝视——电梯与俯瞰视野》’ in Vázquez, R. (2020). 《现代性的景观：去殖民感知与当代的终结》. Mondriaan Fund. 《论文014》."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        605,
+        606,
+        607
+      ],
+      "id": "S092",
+      "en": "Bolt, A. (2018). Why ban what these Aborigines once did? Daily Telegraph (Online). Retrieved 21 April 2020, from https://www.dailytelegraph.com.au/blogs/andrew-bolt/why-ban-what-these-aborigines-once-did/news-story/5e9b2135172f357ec8aa441636277b88",
+      "zh": "Bolt, A. (2018). 《为什么要禁止这些原住民曾经做过的事？》 Daily Telegraph （在线）. 检索于：2020年4月21日，网址：https://www.dailytelegraph.com.au/blogs/andrew-bolt/why-ban-what-these-aborigines-once-did/news-story/5e9b2135172f357ec8aa441636277b88"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        608,
+        609,
+        610,
+        611
+      ],
+      "id": "S093",
+      "en": "Brown, V. (2019, 25 October). Authorities warn of the hefty fine imposed on people who try to climb Uluru after the ban. Retrieved 13 June 2020, from https://www.news.com.au/travel/australian-holidays/northern-territory/video-shows-hundreds-of-tourists-line-up-before-the-climb-ban-at-uluru-is-introduced/news-story/a6a9e56223228886ddfc1332a6c7ac2f.",
+      "zh": "Brown, V. (2019年10月25日). 《当局警告：禁令生效后试图攀爬乌鲁鲁者将被处以高额罚款》. 检索于：2020年6月13日，网址：https://www.news.com.au/travel/australian-holidays/northern-territory/video-shows-hundreds-of-tourists-line-up-before-the-climb-ban-at-uluru-is-introduced/news-story/a6a9e56223228886ddfc1332a6c7ac2f."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        612,
+        613
+      ],
+      "id": "S094",
+      "en": "Carr, A. (2004). Mountain Places, Cultural Spaces: The Interpretation of Culturally Significant Landscapes. Journal of Sustainable Tourism, 12 (5), 432-459.",
+      "zh": "Carr, A. (2004). 《山地地方，文化空间：具有文化意义之景观的阐释》. Journal of Sustainable Tourism, 12 (5), 432-459."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        614,
+        615
+      ],
+      "id": "S095",
+      "en": "Chambers, D. & Buzinde, C. (2015) Tourism and decolonisation: locating research and self. Annals of Tourism Research, 5 (1), 1-16.",
+      "zh": "Chambers, D. & Buzinde, C. (2015) 《旅游与去殖民化：定位研究与自我》. Annals of Tourism Research, 5 (1), 1-16."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        616,
+        617
+      ],
+      "id": "S096",
+      "en": "Connor, M. (2005). Terra Nullius? Radio National. Retrieved 20 October 2019, from http://www.abc.net.au/radionational/programs/counterpoint/terra-nullius/3313974#transcript",
+      "zh": "Connor, M. (2005). 《无主地？》 Radio National. 检索于：2019年10月20日，网址：http://www.abc.net.au/radionational/programs/counterpoint/terra-nullius/3313974#transcript"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        618,
+        619,
+        620
+      ],
+      "id": "S097",
+      "en": "Davidson, H. (2016, 20 April). Uluru: Northern Territory chief minister opposes climbing ban. The Guardian online. Retrieved 30 December 2018, from http://www.theguardian.com/australia-news/2016/apr/20/dont-stop-tourists-climbing-uluru-says-northern-territory-chief-minister.",
+      "zh": "Davidson, H. (2016年4月20日). 《乌鲁鲁：北领地首席部长反对攀爬禁令》. The Guardian 在线. 检索于：2018年12月30日，网址：http://www.theguardian.com/australia-news/2016/apr/20/dont-stop-tourists-climbing-uluru-says-northern-territory-chief-minister."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        621,
+        622,
+        623
+      ],
+      "id": "S098",
+      "en": "Department of Foreign Affairs & State (DFAT) (2019). Indigenous tourism surge. Retrieved 20 October from, https://www.dfat.gov.au/about-us/publications/trade-investment/business-envoy/Pages/january-2019/indigenous-tourism-surge",
+      "zh": "Department of Foreign Affairs & State (DFAT) (2019). 《原住民旅游迅速增长》. 检索于：10月20日，网址：https://www.dfat.gov.au/about-us/publications/trade-investment/business-envoy/Pages/january-2019/indigenous-tourism-surge"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        624,
+        625,
+        626
+      ],
+      "id": "S099",
+      "en": "Dunlevie, J. & Ellen, R. (2015, 26 October). Opponent of Uluru handback Ian Tuxworth changes tune 30 years on. ABC New Online. Retrieved 26 October 2019, from https://www.abc.net.au/news/2015-10-26/opponent-of-uluru-hand-back-changes-tune-30-years-on/6886090.",
+      "zh": "Dunlevie, J. & Ellen, R. (2015年10月26日). 《乌鲁鲁交还的反对者 Ian Tuxworth 在三十年后改变态度》. ABC New 在线. 检索于：2019年10月26日，网址：https://www.abc.net.au/news/2015-10-26/opponent-of-uluru-hand-back-changes-tune-30-years-on/6886090."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        627,
+        628
+      ],
+      "id": "S100",
+      "en": "Eckstrand, N. (2017). The Activeness and Adaptability of Whiteness: Expanding Phenomenology’s Account of Racial Identity. Journal of Social Philosophy. 48(1), 20–37. https://doi.org/10.1111/josp.12179",
+      "zh": "Eckstrand, N. (2017). 《白性的主动性与适应性：拓展现象学对种族身份的解释》. Journal of Social Philosophy. 48(1), 20–37. https://doi.org/10.1111/josp.12179"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        629,
+        630
+      ],
+      "id": "S101",
+      "en": "Enloe, C. (1989). Bananas, beaches and bases: Making feminist sense of international politics. Berkeley, CA: University of California Press.",
+      "zh": "Enloe, C. (1989). 《香蕉、海滩与基地：以女性主义理解国际政治》. Berkeley, CA: University of California Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        21
+      ],
+      "line_ids": [
+        631,
+        632
+      ],
+      "id": "S102",
+      "en": "Everingham, P. (2018). Speaking Spanglish: Embodying linguistic (b)orderlands in Volunteer Tourism. Emotion space and Society, 27, 68-75. doi.org/10.1016/j.emospa.2018.04.001",
+      "zh": "Everingham, P. (2018). 《说西英混合语：志愿旅游中语言边界／秩序地带的具身体验》. Emotion space and Society, 27, 68-75. doi.org/10.1016/j.emospa.2018.04.001"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        633,
+        634
+      ],
+      "id": "S103",
+      "en": "Everingham, P. & Motta, S. C. (2020) Decolonising the autonomy of affect in volunteer tourism encounters. Tourism Geographies.10.1080/14616688.2020.1713879.",
+      "zh": "Everingham, P. & Motta, S. C. (2020) 《对志愿旅游相遇中情动自主性的去殖民化》. Tourism Geographies.10.1080/14616688.2020.1713879."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        635,
+        636
+      ],
+      "id": "S104",
+      "en": "Figueroa, R. & Waitt, G. (2011). The moral terrains of ecotourism and the ethics of consumption. In T. Lewis & E, Potter (eds.) Ethical consumption (pp. 260-274). New York: Routledge.",
+      "zh": "Figueroa, R. & Waitt, G. (2011). 《生态旅游的道德场域与消费伦理》. 载于 T. Lewis & E, Potter （编） 《伦理消费》 (页 260-274). New York: Routledge."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        637,
+        638
+      ],
+      "id": "S105",
+      "en": "Gammage, B. (2011). The biggest estate on earth: How Aborigines made Australia. Crows Nest: Allen and Unwin.",
+      "zh": "Gammage, B. (2011). 《地球上最大的庄园：原住民如何塑造澳大利亚》. Crows Nest: Allen and Unwin."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        639,
+        640
+      ],
+      "id": "S106",
+      "en": "Goffe, T.L. & Grullón, A. (n.d.). Mapping the Caribbean. Retrieved 13 January 2021, from https://mina-loy.com/endehorsgarde/unmapping-the-caribbean/",
+      "zh": "Goffe, T.L. & Grullón, A. （无日期）. 《绘制加勒比地区》. 检索于：2021年1月13日，网址：https://mina-loy.com/endehorsgarde/unmapping-the-caribbean/"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        641
+      ],
+      "id": "S107",
+      "en": "Grosfoguel, R. (2007). The Epistemic Decolonial Turn, Cultural Studies, 21 (2-3), 211-223.",
+      "zh": "Grosfoguel, R. (2007). 《认识论的去殖民转向》, Cultural Studies, 21 (2-3), 211-223."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        642,
+        643,
+        644
+      ],
+      "id": "S108",
+      "en": "Grimwood, B.S.R., Muldoon, M.L. & Stevens, Z.M. (2019). Settler colonialism, Indigenous cultures, and the promotional landscape of tourism in Ontario, Canada’s ‘near North’. Journal of Heritage Tourism, 14(3), 233-248, DOI:10.1080/1743873X.2018.1527845",
+      "zh": "Grimwood, B.S.R., Muldoon, M.L. & Stevens, Z.M. (2019). 《定居殖民主义、原住民文化与加拿大‘近北方’安大略省的旅游推广景观》. Journal of Heritage Tourism, 14(3), 233-248, DOI:10.1080/1743873X.2018.1527845"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        645,
+        646,
+        647
+      ],
+      "id": "S109",
+      "en": "Grande, S. (2004). Red pedagogy: The Un-Methodology. In. N.K Denzin, Y.S Lincoln & L.T Smith (eds), Handbook of Critical and Indigenous Pedagogies (233-254). Thousand Oaks, CA: SAGE Publications, Inc.",
+      "zh": "Grande, S. (2004). 《红色教育学：反方法论》. 载于 N.K Denzin, Y.S Lincoln & L.T Smith （编）, 《批判教育学与原住民教育学手册》 (233-254). Thousand Oaks, CA: SAGE Publications, Inc."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        648,
+        649
+      ],
+      "id": "S110",
+      "en": "Hall, C.M. (2008). Tourism planning: Policies, processes and relationships (2nd ed.). London: Prentice-Hall.",
+      "zh": "Hall, C.M. (2008). 《旅游规划：政策、过程与关系》 （第2版）. London: Prentice-Hall."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        650,
+        651
+      ],
+      "id": "S111",
+      "en": "Hall, C.M. & Tucker, H. (2004). Tourism and postcolonialism: Contested discourses, identities and representations. London: Routledge.",
+      "zh": "Hall, C.M. & Tucker, H. (2004). 《旅游与后殖民主义：存在争议的话语、身份与表征》. London: Routledge."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        652,
+        653
+      ],
+      "id": "S112",
+      "en": "Henrikson, A. K. (1999). The Power and Politics of Maps. In G. J. Demko &W. B. Wood (eds.) Reordering the world: geopolitical perspectives on the twenty-first century (pp. 94-116). Boulder, Westview Press.",
+      "zh": "Henrikson, A. K. (1999). 《地图的权力与政治》. 载于 G. J. Demko &W. B. Wood （编） 《重构世界秩序：二十一世纪的地缘政治视角》 (页 94-116). Boulder, Westview Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        654,
+        655
+      ],
+      "id": "S113",
+      "en": "Hendrickx, M. (2018). \"The Immoral Ayers Rock Climbing Ban.\" Quadrant Online, Retrieved 8 March 2020, from https://quadrant.org.au/magazine/2018/04/banon-climbing-ayers-rock-immoral-illegal/",
+      "zh": "Hendrickx, M. (2018). \"《不道德的艾尔斯岩攀爬禁令。》\" Quadrant 在线, 检索于：2020年3月8日，网址：https://quadrant.org.au/magazine/2018/04/banon-climbing-ayers-rock-immoral-illegal/"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        656,
+        657
+      ],
+      "id": "S114",
+      "en": "Haraway, D. (1998). Situated knowledges: the science question in feminism and the privilege of partial perspective. Feminist Studies, 14, (3), 575-599.",
+      "zh": "Haraway, D. (1998). 《情境化知识：女性主义中的科学问题与局部视角的特权》. Feminist Studies, 14, (3), 575-599."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        22
+      ],
+      "line_ids": [
+        658,
+        659,
+        660
+      ],
+      "id": "S115",
+      "en": "Haskin, E. (2020). Calls to reopen Uluru climb to kickstart Northern Territory tourism hit by Corona virus. ABS news. Retrieved from https://www.abc.net.au/news/2020-05-12/business-lobby-group-calls-for-uluru-climb-to-reopen/12234066 10.6.2010.",
+      "zh": "Haskin, E. (2020). 《有人呼吁重新开放乌鲁鲁攀爬，以重启受新冠病毒冲击的北领地旅游业》. ABS news. 检索网址：https://www.abc.net.au/news/2020-05-12/business-lobby-group-calls-for-uluru-climb-to-reopen/12234066 10.6.2010."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        661,
+        662
+      ],
+      "id": "S116",
+      "en": "Higgins-Desbiolles, F. (2003). Reconciliation tourism: Tourism healing divided societies?, Tourism Recreation Research, 28(3), 35-44.",
+      "zh": "Higgins-Desbiolles, F. (2003). 《和解旅游：旅游能疗愈分裂的社会吗？》, Tourism Recreation Research, 28(3), 35-44."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        663,
+        664
+      ],
+      "id": "S117",
+      "en": "Higgins-Desbiolles, F. (2008). Capitalist globalisation, corporatized tourism and their alternatives. New York: Nova Publishers.",
+      "zh": "Higgins-Desbiolles, F. (2008). 《资本主义全球化、公司化旅游及其替代选择》. New York: Nova Publishers."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        665,
+        666,
+        667
+      ],
+      "id": "S118",
+      "en": "Higgins-Desbiolles, F., Carnicelli, S., Krolikowski, C., Wijesinghe, G. & Boluk, K. (2019). Degrowing tourism: Rethinking tourism. Journal of Sustainable Tourism, 27(12), 1926-1944, DOI: 10.1080/09669582.2019.1601732",
+      "zh": "Higgins-Desbiolles, F., Carnicelli, S., Krolikowski, C., Wijesinghe, G. & Boluk, K. (2019). 《旅游去增长：重新思考旅游》. Journal of Sustainable Tourism, 27(12), 1926-1944, DOI: 10.1080/09669582.2019.1601732"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        668
+      ],
+      "id": "S119",
+      "en": "Honman, C. S. (1939). Mapping in Australia. Australian Surveyor, 7, 269-271.",
+      "zh": "Honman, C. S. (1939). 《澳大利亚的地图绘制》. Australian Surveyor, 7, 269-271."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        669,
+        670
+      ],
+      "id": "S120",
+      "en": "Howitt, R. (2012). Sustainable indigenous futures in remote Indigenous areas: relationships, processes and failed state approaches. GeoJournal, 77, 817-828.",
+      "zh": "Howitt, R. (2012). 《偏远原住民地区可持续的原住民未来：关系、过程与失败的国家方法》. GeoJournal, 77, 817-828."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        671,
+        672,
+        673
+      ],
+      "id": "S121",
+      "en": "Icaza Garza, R.A. (2017). Decolonial Feminism and Global Politics: Border Thinking and Vulnerability as a knowing otherwise. In Critical Epistemology of Global Politics (pp. 26–45). Retrieved from http://hdl.handle.net/1765/103270",
+      "zh": "Icaza Garza, R.A. (2017). 《去殖民女性主义与全球政治：作为另一种认识方式的边界思维与脆弱性》. 载于 《全球政治的批判认识论》 (页 26–45). 检索网址：http://hdl.handle.net/1765/103270"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        674,
+        675
+      ],
+      "id": "S122",
+      "en": "James, S. (2007). Constructing the climb: Visitor decision-making at Uluru. Geographical Research, 45(4), 398–407.",
+      "zh": "James, S. (2007). 《建构攀爬：乌鲁鲁游客的决策》. Geographical Research, 45(4), 398–407."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        676,
+        677,
+        678,
+        679
+      ],
+      "id": "S123",
+      "en": "Judd, B., Kearney, A., Hallinan, C., Schlesinger, C., Cheer, J.M., Reeves, K.J (2019, 31 October). After the climb: How new tourism opportunities can empower the traditional owners of Uluru. Retrieved 2 May, from https://theconversation.com/after-the-climb-how-new-tourism-opportunities-can-empower-the-traditional-owners-of-uluru-125929.",
+      "zh": "Judd, B., Kearney, A., Hallinan, C., Schlesinger, C., Cheer, J.M., Reeves, K.J (2019年10月31日). 《攀爬关闭之后：新的旅游机会如何赋权乌鲁鲁的传统所有者》. 检索于：5月2日，网址：https://theconversation.com/after-the-climb-how-new-tourism-opportunities-can-empower-the-traditional-owners-of-uluru-125929."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        680,
+        681,
+        682
+      ],
+      "id": "S124",
+      "en": "Kovach, M. (2015). Emerging from the Margins: Indigenous Methodologies. In S. Strega & L. Brown (eds.), Research as Resistance: Revisiting Critical, Indigenous, and Anti-Oppressive Approaches (pp. 43-64). Toronto: Canadian Scholars' Press.",
+      "zh": "Kovach, M. (2015). 《从边缘走出：原住民研究方法论》. 载于 S. Strega & L. Brown （编）, 《作为抵抗的研究：重访批判、原住民与反压迫方法》 (页 43-64). Toronto: Canadian Scholars' Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23
+      ],
+      "line_ids": [
+        683,
+        684
+      ],
+      "id": "S125",
+      "en": "Kwaymullina, A. (2016). Research Ethics and Indigenous Peoples: An Australian Indigenous perspective on three threshold considerations for respectful engagement. Alternative, 12 (4), 437-449.",
+      "zh": "Kwaymullina, A. (2016). 《研究伦理与原住民族：从澳大利亚原住民视角看尊重性交往的三项前提考虑》. Alternative, 12 (4), 437-449."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        23,
+        24
+      ],
+      "line_ids": [
+        685,
+        686,
+        687,
+        688
+      ],
+      "id": "S126",
+      "en": "Lemelin, R.H., Whyte, K.P., Johansen, K., Higgins Desbiolles, F., Wilson, C. & Hemming, S. (2013). Conflicts, Battlefields, Indigenous Peoples and Tourism: Addressing Dissonant Heritage in Warfare Tourism in Australia and North America in the 21st Century. International Journal of Culture, Tourism and Hospitality Research, 7(3), 257-271.",
+      "zh": "Lemelin, R.H., Whyte, K.P., Johansen, K., Higgins Desbiolles, F., Wilson, C. & Hemming, S. (2013). 《冲突、战场、原住民族与旅游：回应二十一世纪澳大利亚和北美战争旅游中的不协调遗产》. International Journal of Culture, Tourism and Hospitality Research, 7(3), 257-271."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        689,
+        690,
+        691
+      ],
+      "id": "S127",
+      "en": "Liddle, C. (2019, 7 October). The rush to climb Uluru reeks of White Australian entitlement. 10 Daily online. Retrieved 9 October 2019, from https://10daily.com.au/views/a191006pwevq/the-rush-to-climb-uluru-reeks-of-white-australian-entitlement-20191007.",
+      "zh": "Liddle, C. (2019年10月7日). 《争相攀爬乌鲁鲁充斥着澳大利亚白人的权利自居意识》. 10 Daily 在线. 检索于：2019年10月9日，网址：https://10daily.com.au/views/a191006pwevq/the-rush-to-climb-uluru-reeks-of-white-australian-entitlement-20191007."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        692,
+        693,
+        694
+      ],
+      "id": "S128",
+      "en": "Lutton, J.C. & Williams, G. (2016). Interrogating the ‘universal’ in St. Lucia’s Pitons Management Area. In L. Bourdeau, M. Gravari-Barbas & M. Robinson (eds), World Heritage Sites and Tourism: Global and Local Relations (ch.5). New York; Routledge.",
+      "zh": "Lutton, J.C. & Williams, G. (2016). 《质疑圣卢西亚皮通山管理区中的‘普遍性’》. 载于 L. Bourdeau, M. Gravari-Barbas & M. Robinson （编）, 《世界遗产地与旅游：全球与地方关系》 (第5章). New York; Routledge."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        695,
+        696
+      ],
+      "id": "S129",
+      "en": "Mason, C.W. (2014). Spirits of the Rockies: Reasserting an Indigenous Presence in Banff National Park. Toronto: University of Toronto Press.",
+      "zh": "Mason, C.W. (2014). 《落基山脉的灵魂：重新主张班夫国家公园中的原住民在场》. Toronto: University of Toronto Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        697,
+        698,
+        699
+      ],
+      "id": "S130",
+      "en": "McGinnis, G., Harvey, M. & Young, T. (2020) Indigenous Knowledge Sharing in Northern Australia: Engaging Digital Technology for Cultural Interpretation, Tourism Planning & Development, 17 (1), 96-125.",
+      "zh": "McGinnis, G., Harvey, M. & Young, T. (2020) 《澳大利亚北部的原住民知识共享：运用数字技术进行文化阐释》, Tourism Planning & Development, 17 (1), 96-125."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        700,
+        701
+      ],
+      "id": "S131",
+      "en": "McKercher, B., Weber, K. & du Cros, H. (2008). Rationalising inappropriate behaviour at contested sites. Journal of Sustainable Tourism, 16(4), 369-385.",
+      "zh": "McKercher, B., Weber, K. & du Cros, H. (2008). 《为争议地点中的不当行为寻找合理化解释》. Journal of Sustainable Tourism, 16(4), 369-385."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        702
+      ],
+      "id": "S132",
+      "en": "McLaren, D. (2003). Rethinking tourism and ecotravel (2nd ed.). West Hartford, CT: Kumarian Press.",
+      "zh": "McLaren, D. (2003). 《重新思考旅游与生态旅行》 （第2版）. West Hartford, CT: Kumarian Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        703,
+        704
+      ],
+      "id": "S133",
+      "en": "Medway, D., Warnaby, G., & Dharni, S. (2010). Demarketing places: Rationales and strategies, Journal of Marketing Management, 27 (1-2), 124-142.",
+      "zh": "Medway, D., Warnaby, G., & Dharni, S. (2010). 《地方的抑制营销：依据与策略》, Journal of Marketing Management, 27 (1-2), 124-142."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        705,
+        706
+      ],
+      "id": "S134",
+      "en": "Mies, M. (1993). White Man’s Dilemma: His Search for What He Has Destroyed. In M. Mies & V. Shiva (eds.) Ecofeminism (pp. 132-164). London: Zed Books.",
+      "zh": "Mies, M. (1993). 《白人的困境：寻找自己已经毁掉的东西》. 载于 M. Mies & V. Shiva （编） 《生态女性主义》 (页 132-164). London: Zed Books."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        707,
+        708
+      ],
+      "id": "S135",
+      "en": "Mignolo, W. (2013). On Pluriversality. [ONLINE] Retrieved 5 April 2018 from http://waltermignolo.com/on-pluriversality/",
+      "zh": "Mignolo, W. (2013). 《论多元世界性》. ［在线］ 检索于：2018年4月5日，网址：http://waltermignolo.com/on-pluriversality/"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        709,
+        710
+      ],
+      "id": "S136",
+      "en": "Moreton-Robinson, A., Ed. (2004). Whitening Race: Essays in social and cultural criticism. Canberra: Aboriginal Studies Press.",
+      "zh": "Moreton-Robinson, A., 编 (2004). 《使种族白化：社会与文化批评论文集》. Canberra: Aboriginal Studies Press."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        711,
+        712
+      ],
+      "id": "S137",
+      "en": "Motta, S.C. & Bermudez, N.L. (2019). Enfleshing temporal insurgencies and decolonial times. Globalizations. 16 (4). Pp. 424- 440. DOI: 10.1080/14747731.2018.1558822.",
+      "zh": "Motta, S.C. & Bermudez, N.L. (2019). 《使时间反抗与去殖民时间具身化》. Globalizations. 16 (4). 页 424- 440. DOI: 10.1080/14747731.2018.1558822."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        24
+      ],
+      "line_ids": [
+        713
+      ],
+      "id": "S138",
+      "en": "Mowforth, M. & Munt, I. (2016). Tourism and sustainability (4th ed.). London: Routledge.",
+      "zh": "Mowforth, M. & Munt, I. (2016). 《旅游与可持续性》 （第4版）. London: Routledge."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        714,
+        715
+      ],
+      "id": "S139",
+      "en": "National Parks (n.d.). Culture and history, Uluru-Kata Tjuta National Park. Retrieved 3 August 2019, from http://www.environment.gov.au/topics/national-parks/uluru-kata-tjuta-national-park/culture-and-history.",
+      "zh": "National Parks （无日期）. 《乌鲁鲁—卡塔丘塔国家公园：文化与历史》. 检索于：2019年8月3日，网址：http://www.environment.gov.au/topics/national-parks/uluru-kata-tjuta-national-park/culture-and-history."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        716,
+        717,
+        718
+      ],
+      "id": "S140",
+      "en": "National Parks (n.d.). History of the park, Uluru-Kata Tjuta National Park. Retrieved 3 August 2019, from http://www.environment.gov.au/topics/national-parks/uluru-kata-tjuta-national-park/culture-and-history/history-park.",
+      "zh": "National Parks （无日期）. 《乌鲁鲁—卡塔丘塔国家公园：公园历史》. 检索于：2019年8月3日，网址：http://www.environment.gov.au/topics/national-parks/uluru-kata-tjuta-national-park/culture-and-history/history-park."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        719,
+        720,
+        721
+      ],
+      "id": "S141",
+      "en": "National Parks (n.d.). Park Management, Uluru-Kata Tjuta National Park. Retrieved 3 August 2019, from http://www.environment.gov.au/topics/national-parks/uluru-kata-tjuta-national-park/management-and-conservation/park-management.",
+      "zh": "National Parks （无日期）. 《乌鲁鲁—卡塔丘塔国家公园：公园管理》. 检索于：2019年8月3日，网址：http://www.environment.gov.au/topics/national-parks/uluru-kata-tjuta-national-park/management-and-conservation/park-management."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        722,
+        723,
+        724
+      ],
+      "id": "S142",
+      "en": "National Parks (2010). Management Plan 2010-2020 Uluru- Kata Tjuta National Park. Retrieved 3 August 2019, from http://www.environment.gov.au/resource/management-plan-2010-2020-uluru-kata-tjuta-national-park",
+      "zh": "National Parks (2010). 《乌鲁鲁—卡塔丘塔国家公园2010—2020年管理计划》. 检索于：2019年8月3日，网址：http://www.environment.gov.au/resource/management-plan-2010-2020-uluru-kata-tjuta-national-park"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        725,
+        726
+      ],
+      "id": "S143",
+      "en": "National Parks (2017, 1 November). Uluru climb to close. Retrieved 3 August 2019, from https://www.environment.gov.au/mediarelease/uluru-climb-close.",
+      "zh": "National Parks (2017年11月1日). 《乌鲁鲁攀爬即将关闭》. 检索于：2019年8月3日，网址：https://www.environment.gov.au/mediarelease/uluru-climb-close."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        727,
+        728
+      ],
+      "id": "S144",
+      "en": "Parks Australia (n.d.) Please don’t climb Uluru. Retrieved 13 July 2019, from http://www.parksaustralia.gov.au/uluru/do/we-dont-climb.html.",
+      "zh": "Parks Australia （无日期） 《请勿攀爬乌鲁鲁》. 检索于：2019年7月13日，网址：http://www.parksaustralia.gov.au/uluru/do/we-dont-climb.html."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        729,
+        730
+      ],
+      "id": "S145",
+      "en": "Parks Australia (n.d.). Stories. Retrieved 2 September 2019, from https://parksaustralia.gov.au/uluru/discover/culture/stories/",
+      "zh": "Parks Australia （无日期）. 《故事》. 检索于：2019年9月2日，网址：https://parksaustralia.gov.au/uluru/discover/culture/stories/"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        731,
+        732
+      ],
+      "id": "S146",
+      "en": "Parks Australia (n.d.). World Heritage. Retrieved 3 August 2019, from https://parksaustralia.gov.au/uluru/people-place/heritage.html.",
+      "zh": "Parks Australia （无日期）. 《世界遗产》. 检索于：2019年8月3日，网址：https://parksaustralia.gov.au/uluru/people-place/heritage.html."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        733,
+        734
+      ],
+      "id": "S147",
+      "en": "Parks Australia (n.d). Amazing Facts, Retrieved 10 March 2020 https://parksaustralia.gov.au/uluru/discover/highlights/amazing-facts/",
+      "zh": "Parks Australia （无日期）. 《令人惊叹的事实》, 检索于：2020年3月10日 https://parksaustralia.gov.au/uluru/discover/highlights/amazing-facts/"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        735,
+        736
+      ],
+      "id": "S148",
+      "en": "Paschen, J.A. (2010). Decolonizing the Gaze at Uluru (Ayers Rock). Tourism and Visual Culture, 1, 64-75.",
+      "zh": "Paschen, J.A. (2010). 《乌鲁鲁（艾尔斯岩）凝视的去殖民化》. Tourism and Visual Culture, 1, 64-75."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        737
+      ],
+      "id": "S149",
+      "en": "Pascoe, B. (2014). Dark emu black seeds: Agriculture or accident?, Broome, WA: Magabala Books.",
+      "zh": "Pascoe, B. (2014). 《暗色鸸鹋、黑色种子：农业还是偶然？》, Broome, WA: Magabala Books."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        738,
+        739
+      ],
+      "id": "S150",
+      "en": "Peters, A. (2017). Moondani Yulenj: an examination of Aboriginal culture, identity and education. PhD thesis, Swinburne University of Technology, Melbourne",
+      "zh": "Peters, A. (2017). 《Moondani Yulenj：澳大利亚原住民文化、身份与教育研究》. 博士学位论文, Swinburne University of Technology, Melbourne"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        25
+      ],
+      "line_ids": [
+        740,
+        741
+      ],
+      "id": "S151",
+      "en": "Peters, A. & Higgins-Desbiolles, F. (2012). De-marginalising tourism research: Indigenous Australians as tourists. Journal of Hospitality and Tourism Management, 19, pp. 1-9. DOI: 10.1017/jht.2012.7",
+      "zh": "Peters, A. & Higgins-Desbiolles, F. (2012). 《使旅游研究摆脱边缘化：作为游客的澳大利亚原住民》. Journal of Hospitality and Tourism Management, 19, 页 1-9. DOI: 10.1017/jht.2012.7"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        742,
+        743
+      ],
+      "id": "S152",
+      "en": "Razack, S. (2000). Gendered racial violence and spatialized justice: The murder of Pamela George. Canadian Journal of Law and Society. 15 (2) pp.91-130.",
+      "zh": "Razack, S. (2000). 《性别化的种族暴力与空间化正义：Pamela George 被杀案》. Canadian Journal of Law and Society. 15 (2) 页 91-130."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        744,
+        745,
+        746
+      ],
+      "id": "S153",
+      "en": "Rigney, L.-I. (2006). Indigenist Research and Aboriginal Australia. In J. E. Kunnie & N. I. Goduka (eds). Indigenous Peoples' Wisdom and Power: Affirming Our Knowledge Through Narratives (pp. 32-48). Hampshire: Ashgate.",
+      "zh": "Rigney, L.-I. (2006). 《原住民本位研究与原住民澳大利亚》. 载于 J. E. Kunnie & N. I. Goduka （编）. 《原住民族的智慧与力量：通过叙事确认我们的知识》 (页 32-48). Hampshire: Ashgate."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        747,
+        748
+      ],
+      "id": "S154",
+      "en": "Right to climb (n.d.). Right to climb Ayers Rock. Retrieved 6 November 2019, from http://righttoclimb.blogspot.com.",
+      "zh": "Right to climb （无日期）. 《攀爬艾尔斯岩的权利》. 检索于：2019年11月6日，网址：http://righttoclimb.blogspot.com."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        749,
+        750
+      ],
+      "id": "S155",
+      "en": "Roberts, L. (2010). Dis/embedded Geographies of Film: Virtual Panoramas and the Touristic Consumption of Liverpool Waterfront, Space and Culture 13(1) pp. 54-74",
+      "zh": "Roberts, L. (2010). 《电影的脱嵌／嵌入地理：虚拟全景与利物浦滨水区的旅游消费》, Space and Culture 13(1) 页 54-74"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        751,
+        752,
+        753
+      ],
+      "id": "S156",
+      "en": "Ross, H., Grant, C., Robinson, C.J., Izurieta, A., Smyth. D., & Rist, P. (2009). Co-management and Indigenous protected areas in Australia: achievements and ways forward. Australasian Journal of Environmental Management, 16, 242-252.",
+      "zh": "Ross, H., Grant, C., Robinson, C.J., Izurieta, A., Smyth. D., & Rist, P. (2009). 《澳大利亚的共同管理与原住民保护区：成就及前进方向》. Australasian Journal of Environmental Management, 16, 242-252."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        754
+      ],
+      "id": "S157",
+      "en": "Rosetto, T (2012) Embodying the map: Tourism practices in Berlin. Tourist Studies, 12 (1), pp. 28-51.",
+      "zh": "Rosetto, T (2012) 《地图的具身化：柏林的旅游实践》. Tourist Studies, 12 (1), 页 28-51."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        755,
+        756
+      ],
+      "id": "S158",
+      "en": "Schivelbusch, W. (1986). The railway journey: trains and travel in the nineteenth century. Oxford: Blackwell.",
+      "zh": "Schivelbusch, W. (1986). 《铁路之旅：十九世纪的火车与旅行》. Oxford: Blackwell."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        757,
+        758
+      ],
+      "id": "S159",
+      "en": "Stevenson, A. (2001, 19 May). Tourism chiefs defend ban on climbing rock. Sydney Morning Herald, Online.",
+      "zh": "Stevenson, A. (2001年5月19日). 《旅游主管为禁止攀爬巨岩辩护》. Sydney Morning Herald, 在线."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        759,
+        760
+      ],
+      "id": "S160",
+      "en": "Tebrakunna Country & Lee, E. (2017). Performing colonisation: The manufacture of Black female bodies in tourism research. Annals of Tourism Research, 66, pp. 95-104.",
+      "zh": "Tebrakunna Country & Lee, E. (2017). 《展演殖民化：旅游研究中黑人女性身体的制造》. Annals of Tourism Research, 66, 页 95-104."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        761
+      ],
+      "id": "S161",
+      "en": "Tlostanova, M. (2010). Gender Epistemologies and Euroasian Borderlands. Palgrave Macmillan, USA.",
+      "zh": "Tlostanova, M. (2010). 《性别认识论与欧亚边界地带》. Palgrave Macmillan, USA."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        762,
+        763,
+        764
+      ],
+      "id": "S162",
+      "en": "Tlostanova, M. (2019). The postcolonial condition, the decolonial option and the postsocialist intervention, In Albrecht, M. (ed.), Postcolonialism Cross-Examined: Multidirectional Perspectives on Imperial and Colonial Pasts and the Newcolonial Present (pp. 165-178). London: Routledge.",
+      "zh": "Tlostanova, M. (2019). 《后殖民处境、去殖民选择与后社会主义介入》, 载于 Albrecht, M. （编）, 《审问后殖民主义：帝国与殖民过去及新殖民当下的多向视角》 (页 165-178). London: Routledge."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        765,
+        766,
+        767
+      ],
+      "id": "S163",
+      "en": "Travel Weekly (2020). Destinations. Retrieved 13 January 2021, from https://www.travelweekly.com.au/article/the-two-types-of-experiences-tourism-australia-is-banking-on-to-drive-the-travel-rebound/",
+      "zh": "Travel Weekly (2020). 《目的地》. 检索于：2021年1月13日，网址：https://www.travelweekly.com.au/article/the-two-types-of-experiences-tourism-australia-is-banking-on-to-drive-the-travel-rebound/"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        26
+      ],
+      "line_ids": [
+        768,
+        769
+      ],
+      "id": "S164",
+      "en": "Truong, V.D. & Hall, C.M. (2013). Social Marketing and Tourism: What Is the Evidence? Social Marketing Quarterly, 19(2) 110-135.",
+      "zh": "Truong, V.D. & Hall, C.M. (2013). 《社会营销与旅游：证据是什么？》 Social Marketing Quarterly, 19(2) 110-135."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        27
+      ],
+      "line_ids": [
+        770,
+        771
+      ],
+      "id": "S165",
+      "en": "Tuck, E. & Yang, K.W. (2012). Decolonization is not a metaphor. Decolonization: Indigeneity, Education and Society, 1(1), 1-40.",
+      "zh": "Tuck, E. & Yang, K.W. (2012). 《去殖民化不是隐喻》. Decolonization: Indigeneity, Education and Society, 1(1), 1-40."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        27
+      ],
+      "line_ids": [
+        772,
+        773
+      ],
+      "id": "S166",
+      "en": "Vázquez, R. (2011). Translation as erasure: thoughts on modernity’s epistemic violence. Journal of Historical Sociology, 24 (1), 27 – 44.",
+      "zh": "Vázquez, R. (2011). 《作为抹除的翻译：关于现代性认识论暴力的思考》. Journal of Historical Sociology, 24 (1), 27 – 44."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        27
+      ],
+      "line_ids": [
+        774,
+        775
+      ],
+      "id": "S167",
+      "en": "Waitt, G., Figueroa, R., & McGee, L. (2007). Fissures in the rock: rethinking pride and shame in the moral terrains of Uluru. Transactions of the Institute of British Geographers NS. 32, 248-63.",
+      "zh": "Waitt, G., Figueroa, R., & McGee, L. (2007). 《岩石中的裂缝：重新思考乌鲁鲁道德场域中的自豪与羞耻》. Transactions of the Institute of British Geographers NS. 32, 248-63."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        27
+      ],
+      "line_ids": [
+        776,
+        777
+      ],
+      "id": "S168",
+      "en": "Wall, G. (1997). Sustainable tourism unsustainable development. In J.J. Pigram & S. Wahab (eds). Tourism, development and growth (pp. 33-49). London: Routledge.",
+      "zh": "Wall, G. (1997). 《可持续旅游，不可持续的发展》. 载于 J.J. Pigram & S. Wahab （编）. 《旅游、发展与增长》 (页 33-49). London: Routledge."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        27
+      ],
+      "line_ids": [
+        778,
+        779,
+        780
+      ],
+      "id": "S169",
+      "en": "Whitford, M. & Becken, S. (2017). Closing Uluru to climbers is better for tourism in the long run. The Conversation. Retrieved 3 April, 2019, from https://theconversation.com/closing-uluru-to-climbers-is-better-for-tourism-in-the-long-run-86831 10.6.2010",
+      "zh": "Whitford, M. & Becken, S. (2017). 《从长远看，关闭乌鲁鲁攀爬更有利于旅游》. The Conversation. 检索于：2019年4月3日，网址：https://theconversation.com/closing-uluru-to-climbers-is-better-for-tourism-in-the-long-run-86831 10.6.2010"
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        27
+      ],
+      "line_ids": [
+        781,
+        782
+      ],
+      "id": "S170",
+      "en": "Whyte, K. (2010). An environmental justice framework for Indigenous tourism. Journal of Environmental Philosophy, 7(2), 75-92.",
+      "zh": "Whyte, K. (2010). 《原住民旅游的环境正义框架》. Journal of Environmental Philosophy, 7(2), 75-92."
+    },
+    {
+      "kind": "reference",
+      "pages": [
+        27
+      ],
+      "line_ids": [
+        783,
+        784
+      ],
+      "id": "S171",
+      "en": "Wilson, E. & Hollinshead, K. (2015). Qualitative tourism research: Opportunities in the emergent soft sciences. Annals of Tourism Research, 54, 30-47 DOI:10.1016/j.annals.2015.06.001",
+      "zh": "Wilson, E. & Hollinshead, K. (2015). 《旅游质性研究：新兴软科学中的机会》. Annals of Tourism Research, 54, 30-47 DOI:10.1016/j.annals.2015.06.001"
+    }
+  ],
+  "footnotes": [
+    {
+      "kind": "footnote",
+      "pages": [
+        3
+      ],
+      "line_ids": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "id": "F1",
+      "en": "1 We refer to white civilisation here drawing on the work of ‘whiteness’ in the sense of how race orients one in the world (Ahmed, 2007). Whiteness places certain objects in reach while keeping others out of reach - what is ‘real’’ is produced by cultural biases (Eckstrand, 2017). Similarly, Moreton-Robinson highlights the centralising hegemonic role of ‘Whiteness’ as the “representation of humanity” (2004, p. 77), negating ‘other’ realities and wworldviews.",
+      "zh": "1 这里使用‘白人文明’一词，借鉴的是关于‘白性’的研究，即种族如何使人在世界中获得特定朝向和位置（Ahmed，2007）。白性使某些对象处于可及范围，同时把另一些对象置于不可及之处；什么被视为‘真实’，是由文化偏见生产出来的（Eckstrand，2017）。同样，Moreton-Robinson 强调了‘白性’作为‘人类的代表’所具有的中心化、霸权性作用（2004，第77页），这种作用否定了‘其他’现实与世界观。"
+    },
+    {
+      "kind": "footnote",
+      "pages": [
+        4
+      ],
+      "line_ids": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "id": "F2",
+      "en": "2 While we acknowledge the problematic categories of ‘western’ , ‘non -western’, and other such categories such as Global North and Global South, particularly in the context of settler colonial societies such as Australia, we follow on from Grosfoguel (2007, p. 220), who discusses ‘non-western’ in the context of peripheral nation-states and non-European people who live under the regime of ‘coloniality’",
+      "zh": "2 我们承认‘西方’‘非西方’，以及‘全球北方’‘全球南方’等分类存在问题，特别是在澳大利亚这类定居殖民社会的背景下。不过，我们沿用 Grosfoguel（2007，第220页）的讨论：他所说的‘非西方’，指向边缘民族国家以及生活在‘殖民性’体制之下的非欧洲人。"
+    },
+    {
+      "kind": "footnote",
+      "pages": [
+        4
+      ],
+      "line_ids": [
+        92,
+        93,
+        94
+      ],
+      "id": "F3",
+      "en": "3 Throughout this article ‘Aboriginal’ will be used to refer to Australia’s native people, culture and conditions, and ‘Indigenous’ will be used when referring to an international context, or when used within referenced sources in this work.",
+      "zh": "3 本文通篇使用 Aboriginal 指澳大利亚的原住民、文化及其处境；涉及国际背景，或沿用本文所引用来源中的用语时，则使用 Indigenous。"
+    },
+    {
+      "kind": "footnote",
+      "pages": [
+        4
+      ],
+      "line_ids": [
+        95
+      ],
+      "id": "F4",
+      "en": "4 Anangu are the traditional owners of Uluru-Kata Tjuta; of the Pitjantjatjara and Yankunytjatjara language groups.",
+      "zh": "4 阿南古人是乌鲁鲁—卡塔丘塔的传统所有者，属于 Pitjantjatjara 和 Yankunytjatjara 语言群体。"
+    }
+  ],
+  "source_line_count": 784
+}

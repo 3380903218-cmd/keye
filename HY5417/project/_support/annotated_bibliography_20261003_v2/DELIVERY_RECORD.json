@@ -1,0 +1,130 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5417-annotated-bibliography-zh-reflections-20261003-v2",
+  "state": "candidate",
+  "content_authority": "../../文献综述个人思考.docx; draft_content.json; ../annotated_bibliography_20261003/source_manifest.json",
+  "format_authority": "build_docx.py; A4 editable Chinese academic draft",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "zh-word-draft",
+      "role": "draft",
+      "path": "../../HY5417_Annotated_Bibliography_个人思考修订版_20261003.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+      "performed_at": "2026-10-03T01:25:19.733261+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "content_check.json",
+        "sha256": "7abe9924f389f4313abe1f863aa6d775f5292c5367d65f7fa7777726f9ebde18",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+      "performed_at": "2026-10-03T01:25:19.733261+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "package_check.txt",
+        "sha256": "7c951dff8d4a7776f5c188dbb146f236b52ff246fb499cd2cc27db7bd6e34765",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+      "performed_at": "2026-10-03T01:25:19.733261+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "render_check.json",
+        "sha256": "52529a9670d53f8964603226d9a1f5aa2fd2e95eb2ed780c8a0590b0474d00bf",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+      "performed_at": "2026-10-03T01:25:19.733261+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "delivery_package_check.json",
+        "sha256": "c8dea54f80c049928703922229596ad5c5aa913514e0f1093f64d2b6c8fbd1bf",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "zh-word-draft"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [],
+  "next_action": "User reviews and edits the Chinese personal-reflection draft before preparing the course submission.",
+  "extensions": {
+    "length": {
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/HY5417_Annotated_Bibliography_个人思考修订版_20261003.docx",
+      "sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+      "nonspace_characters_including_bibliography": 4835,
+      "characters_with_spaces_and_newlines": 4989,
+      "chinese_characters": 3467,
+      "academic_entries": 5,
+      "synthesis_paragraphs": 1,
+      "body_han_excluding_headings_and_bibliography": 3357,
+      "body_characters_including_punctuation_and_author_names": 3879
+    },
+    "source_evidence_audit": "../annotated_bibliography_20261003/evidence_audit.json",
+    "revision_record": "revision_record.json",
+    "prior_draft_preserved": true
+  }
+}

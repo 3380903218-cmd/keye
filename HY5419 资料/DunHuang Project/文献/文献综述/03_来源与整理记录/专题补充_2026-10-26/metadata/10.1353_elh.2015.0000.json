@@ -1,0 +1,150 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2026-08-18T02:52:57Z",
+      "timestamp": 1787021577717,
+      "version": "build-2736575974"
+    },
+    "reference-count": 0,
+    "publisher": "Project MUSE",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "elh"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:p xml:lang=\"en\">Literary historians are increasingly recognizing the ways in which quantitative approaches can transform the way we interact with the archives. This essay uses mathematical and computational techniques developed by network scientists to reconstruct and analyze the social and textual organization of the underground community of Protestants living in England during the reign of Mary I, using an important body of original letters now held in the British Library and Emmanuel College Library, Cambridge, as well as early printed correspondence. These measures and algorithms reveal certain expected trends, such as the fact that many of the Marian martyrs featuring in John Foxe’s famous “Book of Martyrs” were central to the organization of this network by every measure. But they also reveal the surprising importance of letter couriers and financial supporters to the survival of this community during a time of intense persecution.</jats:p>",
+    "DOI": "10.1353/elh.2015.0000",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          15
+        ]
+      ],
+      "date-time": "2015-03-15T09:00:34Z",
+      "timestamp": 1426410034000
+    },
+    "page": "1-1",
+    "source": "Crossref",
+    "is-referenced-by-count": 58,
+    "title": [
+      "Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach"
+    ],
+    "prefix": "10.1353",
+    "volume": "82",
+    "author": [
+      {
+        "given": "Ruth",
+        "family": "Ahnert",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sebastian E.",
+        "family": "Ahnert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "147",
+    "container-title": [
+      "ELH"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2024-01-21T16:35:55Z",
+      "timestamp": 1705854955000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://muse.jhu.edu/article/576384"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            3
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1353/elh.2015.0000",
+    "relation": {},
+    "ISSN": [
+      "1080-6547"
+    ],
+    "issn-type": [
+      {
+        "value": "1080-6547",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          3
+        ]
+      ]
+    }
+  }
+}

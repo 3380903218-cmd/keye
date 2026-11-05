@@ -1,0 +1,492 @@
+[
+  {
+    "shape": "S1 — page number",
+    "line": "1 / 5",
+    "width_mm": 7.51,
+    "available_mm": 20,
+    "fits": true
+  },
+  {
+    "shape": "S1 — exhibition title",
+    "line": "PORCELAIN",
+    "width_mm": 91.3,
+    "available_mm": 165,
+    "fits": true
+  },
+  {
+    "shape": "S1 — exhibition title",
+    "line": "in translation",
+    "width_mm": 89.18,
+    "available_mm": 165,
+    "fits": true
+  },
+  {
+    "shape": "S1 — original framing",
+    "line": "One porcelain tradition.",
+    "width_mm": 88.58,
+    "available_mm": 164,
+    "fits": true
+  },
+  {
+    "shape": "S1 — original framing",
+    "line": "Three worlds.",
+    "width_mm": 51.15,
+    "available_mm": 164,
+    "fits": true
+  },
+  {
+    "shape": "S1 — research question",
+    "line": "How does one material",
+    "width_mm": 85.87,
+    "available_mm": 163,
+    "fits": true
+  },
+  {
+    "shape": "S1 — research question",
+    "line": "acquire different meanings?",
+    "width_mm": 103.85,
+    "available_mm": 163,
+    "fits": true
+  },
+  {
+    "shape": "S1 — explicit topic",
+    "line": "Qing China & global",
+    "width_mm": 70.2,
+    "available_mm": 163,
+    "fits": true
+  },
+  {
+    "shape": "S1 — explicit topic",
+    "line": "cultural exchange",
+    "width_mm": 60.85,
+    "available_mm": 163,
+    "fits": true
+  },
+  {
+    "shape": "S2 — page number",
+    "line": "2 / 5",
+    "width_mm": 7.51,
+    "available_mm": 20,
+    "fits": true
+  },
+  {
+    "shape": "S2 — world",
+    "line": "01 / THE CHINESE PAST",
+    "width_mm": 67.48,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S2 — title",
+    "line": "Reinventing",
+    "width_mm": 81.21,
+    "available_mm": 176,
+    "fits": true
+  },
+  {
+    "shape": "S2 — title",
+    "line": "tradition",
+    "width_mm": 57.89,
+    "available_mm": 176,
+    "fits": true
+  },
+  {
+    "shape": "S2 — object",
+    "line": "Langyao-red Guanyin vase",
+    "width_mm": 90.98,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S2 — reign",
+    "line": "Kangxi reign, 1662–1722",
+    "width_mm": 67.94,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S2 — technique",
+    "line": "Jingdezhen revived",
+    "width_mm": 75.77,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S2 — technique",
+    "line": "Ming copper-red glazing.",
+    "width_mm": 98.42,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S2 — meaning",
+    "line": "An inherited technique became",
+    "width_mm": 122.13,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S2 — meaning",
+    "line": "a statement of Qing identity.",
+    "width_mm": 109.61,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S2 — key argument",
+    "line": "TRADITION → IMPERIAL IDENTITY",
+    "width_mm": 94.44,
+    "available_mm": 165,
+    "fits": true
+  },
+  {
+    "shape": "S2 — context source",
+    "line": "Palace Museum",
+    "width_mm": 30.37,
+    "available_mm": 113,
+    "fits": true
+  },
+  {
+    "shape": "S3 — page number",
+    "line": "3 / 5",
+    "width_mm": 7.51,
+    "available_mm": 20,
+    "fits": true
+  },
+  {
+    "shape": "S3 — world",
+    "line": "02 / THE QING COURT",
+    "width_mm": 63.78,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S3 — title",
+    "line": "Translating",
+    "width_mm": 76.24,
+    "available_mm": 176,
+    "fits": true
+  },
+  {
+    "shape": "S3 — title",
+    "line": "technology",
+    "width_mm": 73.31,
+    "available_mm": 176,
+    "fits": true
+  },
+  {
+    "shape": "S3 — visual subject",
+    "line": "Swallows & flowering branches",
+    "width_mm": 87.24,
+    "available_mm": 122,
+    "fits": true
+  },
+  {
+    "shape": "S3 — object name",
+    "line": "Imperial falangcai",
+    "width_mm": 58.56,
+    "available_mm": 123,
+    "fits": true
+  },
+  {
+    "shape": "S3 — object name",
+    "line": "“swallows” bowl",
+    "width_mm": 54.33,
+    "available_mm": 123,
+    "fits": true
+  },
+  {
+    "shape": "S3 — reign",
+    "line": "Qianlong reign, 1736–1795",
+    "width_mm": 75.0,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S3 — combined knowledge",
+    "line": "European enamel knowledge",
+    "width_mm": 109.54,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S3 — combined knowledge",
+    "line": "+ Chinese porcelain and painting",
+    "width_mm": 123.75,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S3 — court agency",
+    "line": "Selected and adapted in",
+    "width_mm": 94.58,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S3 — court agency",
+    "line": "imperial court workshops.",
+    "width_mm": 99.91,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S3 — key argument",
+    "line": "FOREIGN KNOWLEDGE → COURT TASTE",
+    "width_mm": 114.54,
+    "available_mm": 165,
+    "fits": true
+  },
+  {
+    "shape": "S3 — context source",
+    "line": "Sotheby’s / Dr Alice Cheng bowl",
+    "width_mm": 60.07,
+    "available_mm": 115,
+    "fits": true
+  },
+  {
+    "shape": "S4 — page number",
+    "line": "4 / 5",
+    "width_mm": 7.51,
+    "available_mm": 20,
+    "fits": true
+  },
+  {
+    "shape": "S4 — world",
+    "line": "03 / EUROPEAN MARKETS",
+    "width_mm": 74.97,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S4 — title",
+    "line": "Responding to",
+    "width_mm": 97.75,
+    "available_mm": 176,
+    "fits": true
+  },
+  {
+    "shape": "S4 — title",
+    "line": "the market",
+    "width_mm": 71.9,
+    "available_mm": 176,
+    "fits": true
+  },
+  {
+    "shape": "S4 — object date",
+    "line": "China, eighteenth century",
+    "width_mm": 66.71,
+    "available_mm": 124,
+    "fits": true
+  },
+  {
+    "shape": "S4 — object name",
+    "line": "Chinese armorial export plate",
+    "width_mm": 101.99,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S4 — interpretation",
+    "line": "Chinese artisans translated",
+    "width_mm": 103.5,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S4 — interpretation",
+    "line": "European heraldry into porcelain.",
+    "width_mm": 129.46,
+    "available_mm": 175,
+    "fits": true
+  },
+  {
+    "shape": "S4 — European patrons",
+    "line": "EUROPE",
+    "width_mm": 25.58,
+    "available_mm": 46,
+    "fits": true
+  },
+  {
+    "shape": "S4 — Chinese production",
+    "line": "CHINA",
+    "width_mm": 20.32,
+    "available_mm": 52,
+    "fits": true
+  },
+  {
+    "shape": "S4 — design flow label",
+    "line": "Designs",
+    "width_mm": 19.54,
+    "available_mm": 48,
+    "fits": true
+  },
+  {
+    "shape": "S4 — return flow label",
+    "line": "Finished wares",
+    "width_mm": 35.98,
+    "available_mm": 63,
+    "fits": true
+  },
+  {
+    "shape": "S4 — key argument",
+    "line": "TRADE → STATUS AND IDENTITY",
+    "width_mm": 91.5,
+    "available_mm": 165,
+    "fits": true
+  },
+  {
+    "shape": "S4 — context source",
+    "line": "The Met / trade context",
+    "width_mm": 41.52,
+    "available_mm": 111,
+    "fits": true
+  },
+  {
+    "shape": "S5 — page number",
+    "line": "5 / 5",
+    "width_mm": 7.51,
+    "available_mm": 20,
+    "fits": true
+  },
+  {
+    "shape": "S5 — synthesis title",
+    "line": "One tradition. Three worlds.",
+    "width_mm": 182.7,
+    "available_mm": 310,
+    "fits": true
+  },
+  {
+    "shape": "S5 — causal explanation",
+    "line": "Patrons, institutions, production and use shaped meaning.",
+    "width_mm": 196.66,
+    "available_mm": 311,
+    "fits": true
+  },
+  {
+    "shape": "S5 — world 1",
+    "line": "CHINESE PAST",
+    "width_mm": 42.08,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — mechanism 1",
+    "line": "Reinventing",
+    "width_mm": 56.06,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — mechanism 1",
+    "line": "tradition",
+    "width_mm": 39.97,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — meaning 1",
+    "line": "Imperial identity",
+    "width_mm": 48.19,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — world 2",
+    "line": "QING COURT",
+    "width_mm": 38.35,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — mechanism 2",
+    "line": "Translating",
+    "width_mm": 52.63,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — mechanism 2",
+    "line": "technology",
+    "width_mm": 50.55,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — meaning 2",
+    "line": "Imperial taste",
+    "width_mm": 40.15,
+    "available_mm": 94,
+    "fits": true
+  },
+  {
+    "shape": "S5 — world 3",
+    "line": "EUROPEAN MARKETS",
+    "width_mm": 62.76,
+    "available_mm": 93,
+    "fits": true
+  },
+  {
+    "shape": "S5 — mechanism 3",
+    "line": "Responding to",
+    "width_mm": 67.49,
+    "available_mm": 93,
+    "fits": true
+  },
+  {
+    "shape": "S5 — mechanism 3",
+    "line": "the market",
+    "width_mm": 49.64,
+    "available_mm": 93,
+    "fits": true
+  },
+  {
+    "shape": "S5 — meaning 3",
+    "line": "Status & identity",
+    "width_mm": 48.12,
+    "available_mm": 93,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Jingdezhen",
+    "line": "Jingdezhen",
+    "width_mm": 29.6,
+    "available_mm": 85,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Beijing",
+    "line": "Beijing",
+    "width_mm": 17.74,
+    "available_mm": 70,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Guangzhou",
+    "line": "Guangzhou",
+    "width_mm": 29.42,
+    "available_mm": 77,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Europe",
+    "line": "Europe",
+    "width_mm": 18.45,
+    "available_mm": 36,
+    "fits": true
+  },
+  {
+    "shape": "S5 — flow qualification",
+    "line": "Conceptual flows / schematic routes",
+    "width_mm": 61.06,
+    "available_mm": 122,
+    "fits": true
+  },
+  {
+    "shape": "S5 — concluding claim",
+    "line": "Qing China actively shaped global exchange.",
+    "width_mm": 177.27,
+    "available_mm": 278,
+    "fits": true
+  }
+]

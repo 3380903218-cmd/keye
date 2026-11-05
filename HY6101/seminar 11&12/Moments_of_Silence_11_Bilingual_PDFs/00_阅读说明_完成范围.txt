@@ -1,0 +1,21 @@
+《Moments of Silence》11份英文文献 中英逐段对照译本
+作者：Thongchai Winichakul；University of Hawaiʻi Press，2020。
+
+本压缩包内有11个独立的中英逐段对照PDF，按序言、第1章至第10章排序。
+正文英中交替排列，段落连续编号，保留历史图片及其图注（如果原始章节PDF实际含有）。
+格式：A4纵向，PDF文字可选择、复制、搜索。
+注意：源文件为从JSTOR下载的章节独立PDF，原始下载页的版权与检索封面、重复页眉页脚及下载提示不作为正文翻译。
+章节 PDF 中原有的注释序号保留；原始上传文件没有单独提供书末完整注释章节，不擅自补造。
+
+文件列表及页数/编号：
+00_Prologue_序言_完整中英对照.pdf: 12页，31组编号，1幅嵌入图像
+01_The_Unforgetting_of_October_6_完整中英对照.pdf: 30页，59组编号，1幅嵌入图像
+02_The_Massacre_and_Unanswered_Questions_完整中英对照.pdf: 35页，73组编号，4幅嵌入图像
+03_The_Beginning_of_Memories_完整中英对照.pdf: 32页，60组编号，2幅嵌入图像
+04_The_Trial_and_the_Beginning_of_Silence_完整中英对照.pdf: 30页，52组编号，1幅嵌入图像
+05_Disquieting_Silence_After_1978_完整中英对照.pdf: 31页，55组编号，2幅嵌入图像
+06_The_Commemoration_in_1996_完整中英对照.pdf: 33页，62组编号，3幅嵌入图像
+07_The_Good_Silence_完整中英对照.pdf: 37页，89组编号，1幅嵌入图像
+08_Sliding_Memory_完整中英对照.pdf: 29页，50组编号，1幅嵌入图像
+09_Silence_of_the_Wolf_完整中英对照.pdf: 32页，66组编号，0幅嵌入图像
+10_Praxis_of_Memory_The_Octobrists_完整中英对照.pdf: 26页，44组编号，1幅嵌入图像

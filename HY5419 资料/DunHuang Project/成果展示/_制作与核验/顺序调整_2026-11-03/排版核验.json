@@ -1,0 +1,21 @@
+{
+  "artifact_sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+  "checked_at": "2026-11-03T16:33:13.649790+08:00",
+  "preview_pdf": "排版核验预览.pdf",
+  "preview_sha256": "9b440133ae99b51eeb95157b4fefbd545dcf7bfc625ff109f1354edd6c284af5",
+  "renderer": "Bundled LibreOffice via render_docx.py; explicit existing system font configuration",
+  "page_count": 7,
+  "all_seven_pages_visually_inspected": true,
+  "visual_result": "passed; bilingual glyphs, headings, timing table, paragraph flow and Q&A inspected; no clipping or isolated closing page",
+  "page_png_sha256": {
+    "page-1.png": "f058fda0867d581e776056ec5deb9602c74920193e17c2cac0bbe63a14e11bc7",
+    "page-2.png": "1283ea73725d51912e45dfe356dbb82dfd4b6fd00ae9d82b45bcff1e37a27353",
+    "page-3.png": "4e184de1f1d348ab8f1d2cbd50a086da49579efc7360bb4e9667e9f81eac35a9",
+    "page-4.png": "5298bfb2a38b9617daa3ba0a19fbe9f79e2e887cd73156663b982afc19d8c385",
+    "page-5.png": "49a00c2eca86d342a0f5fe67fd29fb0aa9439585309696cc23844cc11f98067f",
+    "page-6.png": "eae2384ff739a85038987cf77fed91bed5de138a3541aa8b1f4138dd80969cf8",
+    "page-7.png": "2b5bcc07cf0a2fb530db79a378970859bc9d634b6429cd07a5091ee895a52cc0"
+  },
+  "native_word_acceptance": "unverified",
+  "native_limitation": "Word open dialog could not be completed: CUA clipboard timeout and application state changed back to another user document. No further actions were sent to that document. Third-party preview does not establish native Word acceptance."
+}

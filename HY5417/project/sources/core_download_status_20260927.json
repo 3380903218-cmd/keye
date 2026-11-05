@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-27",
+  "available": [
+    "A07",
+    "A06"
+  ],
+  "manual": [
+    "A02",
+    "A03",
+    "A04"
+  ],
+  "new_pdfs": 0,
+  "local_pdf_validation": [
+    {
+      "id": "A07",
+      "path": "fulltexts/A07_Yeoh_Kong_2012_Singapore_Chinatown.pdf",
+      "pages": 44,
+      "sha256": "1db05d4f1116192d08c568aa080f3463e287574698205700a2b945a9e6dfaa89"
+    },
+    {
+      "id": "A06",
+      "path": "fulltexts/A06_Poulios_2014_Past_in_the_Present.pdf",
+      "pages": 182,
+      "sha256": "98c0001e16e398ae9789388a5eea77a1c5bb11384ca32b1931041b41b3e38876"
+    }
+  ],
+  "errors": [],
+  "status": "PASS",
+  "meaning": "Download status and package consistency verified; three requested texts remain unavailable locally."
+}

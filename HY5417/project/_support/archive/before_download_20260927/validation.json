@@ -1,0 +1,87 @@
+{
+  "sha256": "f83ffef5aa19dd8556faa8d8a97b1381120fdc21bccef777ca8718858aee5c82",
+  "deadline_scope": "文献综述／五篇学术文献注释书目；不推定研究论文及公共史作品同日截止",
+  "rendering": "No Excel application render performed; saved workbook reopened and structurally checked.",
+  "status": "PASS",
+  "errors": [],
+  "workbook": "HY5417_牛车水项目_文献与资料总表.xlsx",
+  "sheets": [
+    "使用说明",
+    "五篇核心",
+    "学术文献",
+    "一手与机构资料",
+    "综述比较矩阵",
+    "注释书目记录",
+    "论证与核验",
+    "资料库与检索",
+    "公共史路线材料",
+    "截止前安排",
+    "检索记录",
+    "筛选与缺口"
+  ],
+  "academic": 17,
+  "primary": 20,
+  "database_routes": 6,
+  "crossref_metadata_checked": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A08",
+    "A09",
+    "A10",
+    "A11",
+    "A12",
+    "A15"
+  ],
+  "pdfs": [
+    {
+      "path": "fulltexts/A06_Poulios_2014_Past_in_the_Present.pdf",
+      "pages": 182,
+      "sha256": "98c0001e16e398ae9789388a5eea77a1c5bb11384ca32b1931041b41b3e38876"
+    },
+    {
+      "path": "fulltexts/A07_Yeoh_Kong_2012_Singapore_Chinatown.pdf",
+      "pages": 44,
+      "sha256": "1db05d4f1116192d08c568aa080f3463e287574698205700a2b945a9e6dfaa89"
+    },
+    {
+      "path": "fulltexts/P06_URA_Chinatown_Historic_District_Trail.pdf",
+      "pages": 6,
+      "sha256": "8204297336366fb9f046873835c4546f1cb384da9fb41c57443587ac621dda5e"
+    }
+  ],
+  "core": [
+    "A07",
+    "A02",
+    "A03",
+    "A04",
+    "A06"
+  ],
+  "snapshot": "2026-09-26",
+  "scope": "Metadata/access levels audited, old verification dates retained. A16 author first page and full methods pending. No new PDF downloads; 3 existing PDFs rechecked. Not a full-text review of every item.",
+  "additional_checks": {
+    "status": "PASS",
+    "errors": [],
+    "sheet_data_rows": {
+      "使用说明": 14,
+      "五篇核心": 8,
+      "学术文献": 17,
+      "一手与机构资料": 20,
+      "综述比较矩阵": 5,
+      "注释书目记录": 5,
+      "论证与核验": 15,
+      "资料库与检索": 6,
+      "公共史路线材料": 5,
+      "截止前安排": 6,
+      "检索记录": 62,
+      "筛选与缺口": 10
+    },
+    "hyperlinks_checked_structurally": 104,
+    "xml_parts_parse": true,
+    "per_source_dates_and_urls_match_catalogue": true,
+    "scope": "No claim that every remote URL is accessible. Known remote failures remain labelled."
+  }
+}

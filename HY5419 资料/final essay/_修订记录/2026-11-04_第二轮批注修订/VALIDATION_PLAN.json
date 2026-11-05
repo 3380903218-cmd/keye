@@ -1,0 +1,18 @@
+{
+  "required_gates": [
+    "content",
+    "package",
+    "rendered",
+    "delivery-package"
+  ],
+  "rendering": "Bundled LibreOffice proxy render plus visual page review; native Word unavailable at initial check.",
+  "source_authority": "Current annotated Word plus eleven new comments",
+  "preserve": [
+    "All unaffected text",
+    "Both embedded data figures and captions",
+    "Existing headings except requested final-section heading",
+    "Page setup, paragraph styles, footer and page fields"
+  ],
+  "word_range": "6500–7000 Chinese text units excluding bibliography",
+  "formatting_scope": "APA author-year citations and reference-entry formatting only; preserve overall manuscript layout"
+}

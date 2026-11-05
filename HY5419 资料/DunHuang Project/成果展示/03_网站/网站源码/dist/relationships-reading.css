@@ -1,0 +1,19 @@
+.relationships-reading{margin:4rem 0 2rem;padding-top:2.5rem;border-top:1px solid var(--line,#d8d0c1)}
+.relationships-reading>h3{font-family:Georgia,'Songti SC',serif;font-size:clamp(1.8rem,3vw,2.8rem);font-weight:500;line-height:1.3;margin:.5rem 0 1.3rem}
+.relationships-intro{max-width:64ch;font-size:1.12rem;line-height:1.9;color:#515c50}
+.relationships-records{display:grid;grid-template-columns:1fr 1fr;gap:0 3rem;margin-top:1.5rem}
+.relationships-record{padding:1.8rem 0;border-top:1px solid #d8d0c1;min-width:0}
+.relationships-record h4{font-family:Georgia,'Songti SC',serif;font-weight:500;font-size:1.6rem;line-height:1.45;margin:.5rem 0 1rem}
+.relationships-record p{font-size:1.05rem;line-height:1.9;margin:.65rem 0;color:#485347}
+.relationships-record .relationships-date{font-size:.9rem;letter-spacing:.04em;color:#955738}
+.relationships-record .relationships-chain{border-left:2px solid #ac8a60;padding-left:1rem;font-size:1.02rem;color:#354635}
+.relationships-record .relationships-citation{font-size:.9rem;line-height:1.7;color:#68695e}
+.relationships-locate{background:none;border:0;border-bottom:1px solid #ab765a;color:#8b4d32;padding:.3rem 0;cursor:pointer;font:inherit;font-size:.95rem;text-align:left}
+.relationships-locate:focus-visible{outline:2px solid #8b4d32;outline-offset:5px}
+.relationships-limits{margin:1rem 0;padding:1.4rem 1.5rem;background:#eeeadf;border-radius:0 1.2rem 0 1.2rem}
+.relationships-limits h4{margin:0 0 .6rem;font-size:1.1rem}
+.relationships-limits p{margin:0;font-size:1rem;line-height:1.9;color:#586151}
+.relationships-provenance{font-size:.95rem;line-height:1.8;color:#65685b;max-width:85ch}
+.relationships-downloads{display:flex;flex-wrap:wrap;gap:.7rem 1.4rem;margin-top:1rem;font-size:.95rem}
+.network-supplement-notice{font-size:.95rem;line-height:1.8;color:#606856;margin:1rem 0}
+@media(max-width:800px){.relationships-records{grid-template-columns:1fr}.relationships-reading{margin-top:2.5rem}.relationships-record{padding:1.3rem 0}.relationships-record h4{font-size:1.45rem}.relationships-limits{padding:1.2rem}}

@@ -1,0 +1,569 @@
+{
+  "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述/Gephi完善_文献证据与数据工作表.xlsx",
+  "sha256": "4ed62bad99be74a117becbc48a4a5a60cad343915d383f8908cb658a8565c687",
+  "extension": ".xlsx",
+  "status": "passed",
+  "issues": [],
+  "warnings": [],
+  "sheets": [
+    {
+      "name": "00_开始使用",
+      "relationship_id": "rId1",
+      "state": "visible",
+      "dimension": "A1:D17"
+    },
+    {
+      "name": "01_文献核查",
+      "relationship_id": "rId2",
+      "state": "visible",
+      "dimension": "A1:L25"
+    },
+    {
+      "name": "02_文献证据",
+      "relationship_id": "rId3",
+      "state": "visible",
+      "dimension": "A1:K48"
+    },
+    {
+      "name": "03_优先修改",
+      "relationship_id": "rId4",
+      "state": "visible",
+      "dimension": "A1:I24"
+    },
+    {
+      "name": "04_事件修订",
+      "relationship_id": "rId5",
+      "state": "visible",
+      "dimension": "A1:L40"
+    },
+    {
+      "name": "05_角色补充",
+      "relationship_id": "rId6",
+      "state": "visible",
+      "dimension": "A1:K78"
+    },
+    {
+      "name": "06_Gephi_Nodes",
+      "relationship_id": "rId7",
+      "state": "visible",
+      "dimension": "A1:O97"
+    },
+    {
+      "name": "07_Gephi_Edges",
+      "relationship_id": "rId8",
+      "state": "visible",
+      "dimension": "A1:S107"
+    },
+    {
+      "name": "08_对象与载体",
+      "relationship_id": "rId9",
+      "state": "visible",
+      "dimension": "A1:J28"
+    },
+    {
+      "name": "09_缺口与争议",
+      "relationship_id": "rId10",
+      "state": "visible",
+      "dimension": "A1:G20"
+    },
+    {
+      "name": "10_分析与网页",
+      "relationship_id": "rId11",
+      "state": "visible",
+      "dimension": "A1:H16"
+    },
+    {
+      "name": "11_字段字典",
+      "relationship_id": "rId12",
+      "state": "visible",
+      "dimension": "A1:E27"
+    },
+    {
+      "name": "12_旧源ID对照",
+      "relationship_id": "rId13",
+      "state": "visible",
+      "dimension": "A1:H31"
+    }
+  ],
+  "formula_count": 0,
+  "formula_error_tokens": [],
+  "package_parts": {
+    "count": 47,
+    "tables": 13,
+    "charts": 0,
+    "drawings": 0,
+    "external_links": 0,
+    "vba_project": false,
+    "custom_xml": 0,
+    "defined_names": 26
+  },
+  "layout_review": {
+    "status": "review_required",
+    "min_font_pt": 10.0,
+    "visual_acceptance": "not_assessed",
+    "sheets": [
+      {
+        "name": "00_开始使用",
+        "state": "visible",
+        "populated_cells": 58,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A1:D1",
+          "A2:D2"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "01_文献核查",
+        "state": "visible",
+        "populated_cells": 247,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:L2",
+          "A1:L1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "02_文献证据",
+        "state": "visible",
+        "populated_cells": 497,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:K2",
+          "A1:K1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "03_优先修改",
+        "state": "visible",
+        "populated_cells": 171,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A1:I1",
+          "A2:I2"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "04_事件修订",
+        "state": "visible",
+        "populated_cells": 389,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:L2",
+          "A1:L1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "05_角色补充",
+        "state": "visible",
+        "populated_cells": 749,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:K2",
+          "A1:K1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "06_Gephi_Nodes",
+        "state": "visible",
+        "populated_cells": 1056,
+        "font_size_range_pt": [
+          11.0,
+          11.0
+        ],
+        "panes": [
+          {
+            "ySplit": "1",
+            "topLeftCell": "A2",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "07_Gephi_Edges",
+        "state": "visible",
+        "populated_cells": 2028,
+        "font_size_range_pt": [
+          11.0,
+          11.0
+        ],
+        "panes": [
+          {
+            "ySplit": "1",
+            "topLeftCell": "A2",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "08_对象与载体",
+        "state": "visible",
+        "populated_cells": 203,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A1:J1",
+          "A2:J2"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "09_缺口与争议",
+        "state": "visible",
+        "populated_cells": 118,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:G2",
+          "A1:G1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "10_分析与网页",
+        "state": "visible",
+        "populated_cells": 106,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:H2",
+          "A1:H1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "11_字段字典",
+        "state": "visible",
+        "populated_cells": 122,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:E2",
+          "A1:E1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      },
+      {
+        "name": "12_旧源ID对照",
+        "state": "visible",
+        "populated_cells": 195,
+        "font_size_range_pt": [
+          11.0,
+          16.0
+        ],
+        "panes": [
+          {
+            "ySplit": "4",
+            "topLeftCell": "A5",
+            "activePane": "bottomLeft",
+            "state": "frozen"
+          }
+        ],
+        "merged_ranges": [
+          "A2:H2",
+          "A1:H1"
+        ],
+        "page_setup": {
+          "orientation": "landscape",
+          "paperSize": "8",
+          "scale": "100"
+        },
+        "risks": [
+          {
+            "kind": "print_scaling_requires_target_size_review",
+            "page_setup": {
+              "orientation": "landscape",
+              "paperSize": "8",
+              "scale": "100"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

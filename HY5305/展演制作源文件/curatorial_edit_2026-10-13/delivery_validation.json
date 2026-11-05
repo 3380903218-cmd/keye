@@ -1,0 +1,219 @@
+{
+  "delivery_state": "limited editable candidate; current cover browser reference inspected; PowerPoint native render unavailable",
+  "client_date": "2026-10-14",
+  "timezone": "Asia/Singapore",
+  "poster": {
+    "accepted_editable_files_unchanged": true,
+    "png_size_px": [
+      7016,
+      9933
+    ],
+    "dpi": 300,
+    "colour_mode": "RGB",
+    "source": "approved SVG"
+  },
+  "presentation": {
+    "slides": 5,
+    "aspect_ratio": "16:9",
+    "first_slide_complete_approved_poster": true,
+    "poster_png_byte_identity": true,
+    "content_slides": 4,
+    "visible_language": "English",
+    "original_object_photos_byte_identity": true,
+    "media_sha256": {
+      "ppt/media/image1.png": "33d6104c2d1d66a257e924203590db5d7b5f9c60002d4b39ab5ef152ce71cc42",
+      "ppt/media/image2.png": "09b496b75f682edbfc4bec964f3cea08f99d52404c95503854bd8203412e67e6",
+      "ppt/media/image3.jpg": "b8290a3c848a68c750f9e31064c68930f530d8268a80c642154e1f8a12826d0b",
+      "ppt/media/image4.png": "2584eb7827f2626bd7ea93e966a1be8d8a5a6c7507cd2321d38f2eccb138cd50"
+    },
+    "native_text_and_vector_shapes": true,
+    "text_width_checks": 69,
+    "text_width_pass": true,
+    "shape_bounds_checks": 88,
+    "shape_bounds_pass": true,
+    "svg_text_parity": true,
+    "package": {
+      "xml_parts_parsed": 57,
+      "internal_relationships_resolved": 67,
+      "status": "pass"
+    }
+  },
+  "script": {
+    "slide_sections": 5,
+    "hard_page_breaks": 4,
+    "english_followed_by_matching_chinese": true,
+    "english_matches_presentation_notes": true,
+    "english_words": 590,
+    "paper": "A4",
+    "tracked_changes_or_comments": false,
+    "package": {
+      "xml_parts_parsed": 18,
+      "internal_relationships_resolved": 15,
+      "status": "pass"
+    }
+  },
+  "timing": {
+    "suggested_seconds": 395,
+    "estimate_at_90_wpm_plus_20_seconds": 413,
+    "estimate_at_80_wpm_plus_20_seconds": 462,
+    "note": "Estimates only; Chinese translation is not spoken; verify duration by rehearsal"
+  },
+  "browser_reference_inspection": {
+    "presentation": {
+      "pages": 5,
+      "sha256": "7ff7d964fa27f28e65615734f252d105947548b6aad6ab1e80c75ee97fe85e97",
+      "manual_visual_inspection": "pass: current cover inspected; unchanged pages retain prior visual review",
+      "native_application_render": false
+    },
+    "script": {
+      "pages": 5,
+      "sha256": "311096d0e9271609f755d1137b4cfe89b09371cd4ebcde2a14d83d28a9b7eb32",
+      "manual_visual_inspection": "pass: unchanged script retains its five-page inspection",
+      "native_application_render": false
+    }
+  },
+  "native_application_checks": {
+    "powerpoint": {
+      "status": "unavailable",
+      "source_sha256": "64e51a009d80cb05dfb188839bb7ded2ff22b2863e48cbe6772e2e121359bcab",
+      "source_unchanged": true,
+      "native_display_verified": false,
+      "reason": "/tmp/hy5305-curatorial-work/export_light_review.applescript:188:213: execution error: “Microsoft PowerPoint”遇到一个错误：The object you are trying to access does not exist (-1728)\n",
+      "evidence_status": "validation_evidence/powerpoint-native-status.json"
+    },
+    "word": {
+      "status": "pass",
+      "source_sha256": "808670c13f76939d4b0a38fe39450353d31d2477498d67e2858c0cb46b38454b",
+      "source_unchanged": true,
+      "native_display_verified": true,
+      "pages": 5,
+      "evidence_pdf": "validation_evidence/word-native.pdf",
+      "evidence_pdf_sha256": "310e7c886d04fd21e5bb4168b03f0e3426cf3f088a2e622952e087991f5426b5"
+    }
+  },
+  "content_authority": "project abstract.docx; specific plate attribution is not established; network flows are conceptual",
+  "linked_baseline": "../archive/before_curatorial_redesign_2026-10-13/baseline_hashes.json",
+  "cover_update": {
+    "background": "#FAFAF7",
+    "display_field": "#E8E6E1",
+    "title": "#3E3731",
+    "accent": "#8A5345",
+    "presenter": "Presented by Xiwen Wang",
+    "changed_parts": [
+      "ppt/slides/slide1.xml"
+    ],
+    "preserved_baseline": "archive/before_light_cover_2026-10-14",
+    "reference": "https://elements.envato.com/art-gallery-VYYQALT"
+  },
+  "accepted_feedback": "Replace repetitive slide layouts with a museum/catalogue presentation inspired by inspected online template previews",
+  "files": {
+    "HY5305_Porcelain_in_Translation_Curatorial_Edit.pptx": {
+      "bytes": 9233893,
+      "sha256": "64e51a009d80cb05dfb188839bb7ded2ff22b2863e48cbe6772e2e121359bcab"
+    },
+    "HY5305_Porcelain_in_Translation_Curatorial_Edit_Script.docx": {
+      "bytes": 43428,
+      "sha256": "808670c13f76939d4b0a38fe39450353d31d2477498d67e2858c0cb46b38454b"
+    },
+    "HY5305_海报_参考风格竖版/Porcelain_in_Translation_Flow_A1_Portrait.png": {
+      "bytes": 6843116,
+      "sha256": "33d6104c2d1d66a257e924203590db5d7b5f9c60002d4b39ab5ef152ce71cc42"
+    },
+    "HY5305_海报_参考风格竖版/Porcelain_in_Translation_Flow_A1_Portrait.pptx": {
+      "bytes": 2883557,
+      "sha256": "5da9181cf185daafb1a77fe99db1936cf57f0fcf4a16a81ada12ebc5ee5431d8"
+    },
+    "HY5305_海报_参考风格竖版/Porcelain_in_Translation_Flow_A1_Portrait.svg": {
+      "bytes": 4409100,
+      "sha256": "7c5f6b8fb95dddf52125363202d5abd21f3aebc6ea1aa3fb8ba0c9be6a663b5b"
+    },
+    "project abstract.docx": {
+      "bytes": 15663,
+      "sha256": "ba54557f85f933870dfdbdbf7e4e317242e44f1c3fa9c975a17c721d418ce54d"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/build_bilingual_script.py": {
+      "bytes": 4195,
+      "sha256": "019e68ac115cab22264c16aff8694b1e10b292a4e23fac0a868c4cce3c3445c5"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/build_curatorial_presentation.py": {
+      "bytes": 11715,
+      "sha256": "ba1a087568e312ecde377c81724013dd45c7a2f0cdaf62499c4275a9531efdfe"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/design_references.json": {
+      "bytes": 1609,
+      "sha256": "5fc336d92ae772ccc5fc9fbee67df7645aef644cd7932216e4ea7d4d79abf3c7"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/presentation_content.json": {
+      "bytes": 9616,
+      "sha256": "a964d06421dd1710ba9d77b0716dfce8005c99a11c62b8487c25f21eca757386"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/presentation_display_text.json": {
+      "bytes": 1727,
+      "sha256": "ee3bb62f1b63188624453616995c7a3019a5b27a940549adf585c5b39a0e1726"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/presentation_layout_checks.json": {
+      "bytes": 10123,
+      "sha256": "a6ad7b1900db68ef0a33370ecc2caf5f41d9e14a2af34713b9492aa576e4558a"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/presentation_timing.json": {
+      "bytes": 1007,
+      "sha256": "7232ae72931e859fec4082ced7931fec1b1c24b831cb3158dee1df1f0ffdec15"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/render_delivery_previews.py": {
+      "bytes": 3823,
+      "sha256": "8a2bbca102818764b2c7cffbf98df8a1468a6e613a06ad36eb2db8ded99db0fb"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/render_native.py": {
+      "bytes": 2949,
+      "sha256": "514b3f03b833a430719bea0574498f041616af6c864738f62b14a688a00c0645"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/slide_toolkit.py": {
+      "bytes": 12538,
+      "sha256": "7e8d2b518a1750154b6d70989ca8db2c280218ff6cc9a2b75790278da641223d"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/update_cover_2026-10-14.py": {
+      "bytes": 3071,
+      "sha256": "256c9ed7f371d1b3e3fdf05d7f9068e5a360e93d6b85938f44813de087859c24"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/update_light_cover_2026-10-14.py": {
+      "bytes": 3221,
+      "sha256": "676aafe1f27ed92e24f5432ff7e6787b4d70f602edb9c340e3cc764b8515a74e"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/validation_evidence/cover-light-browser-preview.jpg": {
+      "bytes": 122842,
+      "sha256": "3cd2ee043bb5e10089d65517493e7fbe4e41aac21df95b9d0662c821253d7d03"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/validation_evidence/powerpoint-native-status.json": {
+      "bytes": 747,
+      "sha256": "c66f9e93a70103ea9572188ec4b8071985f69123dd2c3dd9173452a869752340"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/validation_evidence/presentation_browser_reference.pdf": {
+      "bytes": 10099892,
+      "sha256": "7ff7d964fa27f28e65615734f252d105947548b6aad6ab1e80c75ee97fe85e97"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/validation_evidence/script_browser_reference.pdf": {
+      "bytes": 253003,
+      "sha256": "311096d0e9271609f755d1137b4cfe89b09371cd4ebcde2a14d83d28a9b7eb32"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/validation_evidence/word-native-status.json": {
+      "bytes": 324,
+      "sha256": "9b81c27c49dca1321f7730d3d09d8bc030879a20650d8a99268151b908a39bef"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/validation_evidence/word-native.pdf": {
+      "bytes": 208558,
+      "sha256": "310e7c886d04fd21e5bb4168b03f0e3426cf3f088a2e622952e087991f5426b5"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/verify_delivery.py": {
+      "bytes": 11419,
+      "sha256": "91a5dc3613184e7e52e06d250f5c9bb973eff20dc2e5da94ca0b496c3d2ca684"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/visual_review.md": {
+      "bytes": 3164,
+      "sha256": "939e9a36cfc19bcefe5aac6d0aa7682af8f7166f9bfdaaae0dd3cd08eeabd926"
+    },
+    "展演制作源文件/curatorial_edit_2026-10-13/改版说明.md": {
+      "bytes": 3986,
+      "sha256": "fa249435dc981cc7993a0c4150dd89f2f14c2bd8a8d4aa27f69557d01db95638"
+    }
+  }
+}

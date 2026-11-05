@@ -1,0 +1,1995 @@
+=== PDF 1 ===
+  
+ 
+ 
+ Open Access. © 2025 the author(s), published by De Gruyter. 
+ This work is licensed under the 
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+https://doi.org/10.1515/9783111569550-003 
+1 Conserving Limitless Life 
+“All the more I felt the misgivings which the very hugeness of the deposit was 
+bound to inspire as to the possibility of a thorough methodical search.” 
+– Stein, Serindia, vol. 2, 809 
+Documenting 1,492 copies of the Sutra of Limitless Life (henceforth Ap, for Apari-
+mitāyurnāma sūtra), we found ourselves wrestling with the history of their con-
+servation and cataloguing. The sutra copies kept in London are unique in that 
+curators transformed them from roll format into booklet format for ease of storage, 
+something that was not done in the case of the sutra copies kept elsewhere. The 
+methods for documenting and conserving these manuscripts were not well de-
+scribed in the accounts of Stein, nor in the catalogues and works of Louis de La 
+Vallée Poussin (1869–1938), F.W. Thomas (1867–1956), Zuihō Yamaguchi, and Sam 
+van Schaik. The most important evidence for piecing together these manuscripts’ 
+conservation history, therefore, apart from the published catalogues, are the notes 
+that curators and cataloguers wrote on the manuscripts or onto slips of paper that 
+are kept alongside them. 
+Following these clues has enabled us to more clearly understand the process of 
+documentation and conservation of these manuscripts to a degree that illuminates 
+the history of these sutra copies’ storage and use. Since these manuscripts represent 
+a significant cross section of the Stein Collection, our insights into the processes and 
+methods by which Stein and, assistants, and later curators assigned site numbers 
+are also relevant to the collection and its history more generally.  
+Our investigation has also shown how Louis de La Vallée Poussin, during his 
+cataloguing work in Cambridge from 1914 to 1918, marked and numbered the indi-
+vidual 31.5 ✕ 45 cm panels of paper of each roll of Tibetan Ap copies in order to 
+prepare them for binding. The 1,055 rolls of Tibetan Ap in the Stein Collection were 
+not among the many Dunhuang manuscripts that were bound into seventy-three 
+large leather-bound books known as “volumes” during the 1910s and 1920s. They 
+were, however, eventually bound into short paper booklets, presumably for ease of 
+storing and conservation. As a result, each of the 31.5 ✕ 45 cm panels of paper that 
+made up the rolls was separated, folded in half, stacked with two to five of its 
+neighboring panels, and bound at the spine with Kraft paper to create a thin book-
+let. This type of booklet mimicked the style of Chinese “butterfly binding,” albeit 
+with the addition of a Kraft paper spine. Whereas a roll containing one sutra might 
+be transformed into a single such booklet, longer rolls with multiple Ap copies were 
+transformed into between two and fifteen booklets. Each of these newly created 
+
+
+=== PDF 2 ===
+28  Conserving Limitless Life 
+  
+booklets was assigned a pressmark, or a sub-pressmark within one pressmark,  
+ITJ 310, which was meant to include all of the Tibetan Dunhuang Ap copies in roll 
+format. In this way, 1,055 rolls containing 1,492 sutra copies became 1,339 press-
+marks, the vast majority of which are found in the sequence of sub-pressmarks that 
+run from ITJ 310.1 to ITJ 310.1210. Documenting this process of conservation and 
+cataloguing helps us to better understand the objects that we are working with,  
+and the meanings of the various marks and numbers that different hands have left 
+upon them. 
+Most importantly, Stein and his assistants assigned site numbers to these sutra 
+copies, which allow us to see which copies belong together. It also reveals some 
+meaningful distributions of the different types of Ap sutra copies in this collection, 
+permitting us to propose a plausible reconstruction of the processes that produced 
+them in ninth-century Dunhuang. 
+1.1 Bundles of manuscripts in Dunhuang 
+The story of the discovery of Dunhuang’s Cave Seventeen – often called the “library 
+cave” – and the tale of Sir Marc Aurel Stein’s negotiating the removal to India and 
+England of many of its treasures, has been told many times. Stein himself gives an 
+initial version in his 1912 two-volume work, Ruins of Desert Cathay, and an expand-
+ed version in his 1921 five-volume work, Serindia. There is no need to recount the 
+narrative in detail here, but there are a few points within the story that are relevant 
+to the site numbers written on the Chinese and Tibetan Dunhuang Ap copies now 
+kept at the British Library, and to the different bundles of manuscripts and objects 
+in which they were initially found.  
+Stein and his “secretary” Jiang Xiaowan (see Fig. 6) had access to Cave Seven-
+teen for only a short period of time, from May 23 to May 29, 1907. They had already 
+consulted a few manuscripts shared with them by the Daoist monk, Wang Yuanlu, 
+who was looking after the Mogao caves. Among these few initial manuscripts was 
+one whose colophon mentioned the famous Tang-dynasty monk and traveler Xuan-
+zang, and this aided Stein and Jiang in their attempts to persuade Wang that Stein 
+was a sort of latter-day Xuanzang, come as a pilgrim from India to bring sacred 
+texts back to India and to England.1 Jiang’s role in supporting and positioning Stein 
+ 
+1 Stein 1921, vol. 2, 805–807, 812–813. The first manuscript that Stein and Jiang saw at Dunhuang 
+was in fact not related to the intrepid seventh-century scholar, but was rather a Chinese sutra brought 
+to them by a young monk “of Tangutan extraction” during Stein’s initial visit to the Mogao Caves 
+on March 16, 1907. This was written on a long Chinese scroll that the young monk’s Tibetan lama, 
+who was “away on a begging tour,” kept in his shrine; Stein 1912, vol. 2, 20–31; Stein 1921, vol. 2, 802. 
+
+
+=== PDF 3 ===
+ 
+Bundles of manuscripts in Dunhuang  29 
+  
+was central.2 As Stein put it in Ruins of Desert Cathay, “Chiang Ssŭ -yeh [...] loyally 
+did his best to persuade the Tao-shih that removal of the collection to a ‘temple of 
+learning in the Ta-Ying-kuo,’ or England, would in truth be an act which Buddha 
+and his Arhats might approve as pious.”3  
+Wang did not grant Stein and Jiang access to Cave Seventeen itself, but instead 
+stationed them in a makeshift “reading room” in the adjacent Cave Sixteen, away 
+from the eyes of curious pilgrims. There Stein and Jiang feverishly investigated bun-
+dles of manuscripts as Wang brought them out. This work lasted seven days. Being 
+ignorant of Chinese and Tibetan, and largely unable to apply his archeological 
+method of marking individual objects with site numbers based on their locations, 
+Stein was both astounded at Cave Seventeen’s contents and frustrated by the chal-
+lenges that lack of access to the cave posed. Wang had, after all, discovered the cave 
+seven years prior, and it was only owing to Wang’s disturbing of its contents that 
+word of the finds reached Stein in Urumchi. Stein laments the situation in Serindia:  
+That the contents of the walled-up chapel were no longer in the order in which they had been 
+deposited was clear. Any indications that the original position of the bundles might have af-
+forded at the time of discovery had necessarily become effaced when the recess was cleared 
+out in search of valuables and, later again, on the occasion of the removal of the big inscribed 
+slab from the west wall. Even the assortment of the contents in each bundle was likely to have 
+been often disturbed. Besides, it was mere chance in what order the Tao-shih would hand out 
+the bundles.4 
+Stein further writes specifically about the bundles from Cave Seventeen : “[...] the 
+first bundles which the Tao-shih brought us from it consisted of thick rolls of paper, 
+from about 9 ½ to 10 ½ inches [24 to 27 cm] in height, evidently containing Chinese 
+translations of canonical Buddhist texts of Chinese treatises on them.”5 These bun-
+dles were sometimes wrapped in “coarse canvas covers,” some with their ends 
+sewn up, but most with their ends left open.6 Stein and Jiang were soon able to 
+distinguish that there were two distinct types of bundles. “Miscellaneous bundles” 
+were of irregular shape and contained manuscripts, paintings, “ex-votos,” and paint-
+ed fabrics, whereas “library bundles” were of a more uniform size and shape and 
+generally contained “an average of more than a dozen separate manuscripts.”7 
+ 
+2 Jiang was also instrumental in keeping Stein in the good graces of local officials, who were in the 
+midst of political turmoil; Wang 2012, 4.  
+3 Stein 1912, vol. 2, 191–192. 
+4 Stein 1921, vol. 2, 813. 
+5 Stein 1921, vol. 2, 809. 
+6 Stein 1921, vol. 2, 823. 
+7 Stein 1921, vol. 2, 822; see also Stein 1912, 182–183. 
+
+
+=== PDF 4 ===
+30  Conserving Limitless Life 
+  
+Generally, the miscellaneous bundles were found on top of the piles of library bun-
+dles. The distinction between the two types of bundles is an extremely important 
+one, and comes to bear on the meanings of the different types of site numbers, 
+which we describe below. The vast majority of the Tibetan Dunhuang Ap copies 
+came from regular “library bundles” rather than the more misshapen miscellane-
+ous bundles of diverse objects. Stein’s photograph of a pile of such library bundles 
+(Fig. 4) includes a few bundles enclosed in canvas covers, most of which have their 
+ends left open, just as Stein wrote.  
+ 
+Fig. 4: Bundles of rolls from Mogao Cave Seventeen, Stein photograph 392/27(589); after Stein 1912, 
+vol. 2, figure 194. 
+This image also confirms Stein’s observation that there are more than a dozen 
+“manuscripts” in each bundle. Here, however, we must clarify that by “manuscript” 
+Stein was referring to rolls that could be very long, and that some bundles con-
+tained up to sixty rolls. Stein elsewhere refers to a stack of such rolls that were 
+placed on top of one another and then rolled up together using the now archaic-
+sounding noun “convolute”: “I soon ascertained that the solid mass of ‘library bun-
+dles’ still left in the chapel contained also a considerable proportion of packets with 
+
+
+=== PDF 5 ===
+ 
+Bundles of manuscripts in Dunhuang  31 
+  
+large convolutes of Tibetan sheets usually divided into six columns (Ch. 05, Plate 
+CLXXIII).”8 This describes the usual format of a Tibetan Ap roll, which consists of 
+six columns of text spread over three panels of paper (see Fig. 1, above). One can 
+see from the lower right image in Stein’s plate 173 that he was indeed referring to a 
+“convolute” – or bundle – of Tibetan Ap copies (Fig. 5).  
+ 
+Fig. 5: Photograph of a stack of SP2 folia (above), and one of the “convolutes” or “library bundles” 
+(lower right) from Mogao Cave Seventeen (note that the scraps in the image on the lower left, 
+“Ch.011,” bear no relation to the bundle “Ch.05” to its right). The bundle is partly unrolled to show that 
+it is a stack of Tibetan Ap copies that have been rolled up together; after Stein 1921, vol. 4, plate 173. 
+This photographic evidence of a stack of library bundles, some with canvas covers 
+(Fig. 4), each with of over a dozen sutra rolls, and of one partly unrolled bundle of 
+Tibetan Ap copies (Fig. 5) furnishes precious information that helps us to decipher 
+the meanings of the site numbers written on these manuscripts.  
+ 
+8 Stein 1921, vol. 2, 816. 
+
+
+=== PDF 6 ===
+32  Conserving Limitless Life 
+  
+Due to the circumstances in which Stein and Jiang accessed these manuscripts, 
+there was no way to mark them with site numbers in such a way as to record their 
+initial location in Cave Seventeen. Stein mentions notes that he took at the time, and 
+it appears that he wrote a few site numbers on the manuscripts during this period 
+in Dunhuang, but he states that most site numbers were added later in London.9 
+Somewhat helpless in the face of so much Chinese and Tibetan textual material, 
+Stein seems to have focused on paintings and textiles, and to have tasked Jiang with 
+cataloguing the manuscripts. 
+I set the Ssŭ-yeh to work to prepare a rough list of titles; but as by and by the devout guardian 
+of these treasures took more courage and began to drag out load after load of manuscript 
+bundles, all attempt even at the roughest cataloguing had to be abandoned. It would have 
+required a whole staff of learned scribes to deal properly with such a deluge.10 
+This attempt at the “roughest cataloguing” was probably carried out prior to Stein’s 
+purchase of the manuscripts from Wang on May 29, and it may not have involved 
+Jiang writing any numbers or notes on the manuscripts themselves. Stein acquired 
+considerably more manuscripts and objects from Wang in the second week of June, 
+after Wang returned from a begging round, such that his entire haul consisted of 
+over 300 paintings and embroideries, approximately ninety bundles of Chinese and 
+Tibetan manuscripts, and other items, all packed away into sixteen or seventeen 
+cases.11 To this Jiang added a massive additional purchase of 220 to 230 bundles of 
+Chinese and Tibetan sutras, which he acquired from Wang in October.12 
+All of these manuscripts were eventually packed together in crates from June 
+19 to July 18, 1908, and shipped to London. Prior to and during the packing of these 
+crates, while Jiang and Stein were together in Khotan, Jiang wrote numbers and 
+notes on the versos of over a thousand of these Dunhuang manuscripts, mostly Chi-
+nese sutras. Stein stated that at that time, Jiang was able to make “a first rapid 
+listing of less than a third” of the manuscripts in the “regular” or “library” bundles 
+comprising primarily textual material.13  
+ 
+ 
+9 Stein 1921, vol. 2, 828–829. See the helpful documentation in Terzi and Whitfield 2024, 62, which 
+uses Stein’s notes to specify which manuscripts and objects he consulted on each day from May 23 
+to May 28. 
+10 Stein 1912, vol. 2, 175. 
+11 Terzi and Whitfield 2024, 60 and 73, n. 25. 
+12 Terzi and Whitfield 2024, 60. 
+13 Stein 1921, vol. 2, 916. For further details about Jiang’s work during this time, see Terzi and 
+Whitfield 2024, 63. 
+
+
+=== PDF 7 ===
+ 
+Bundles of manuscripts in Dunhuang  33 
+  
+ 
+Fig. 6: Jiang Xiaowan at the end of Stein’s second expedition, Khotan, July 31, 1908. The British Library, 
+photograph 392/26(831). 
+ 
+Fig. 7: A Chinese roll from Dunhuang bearing Jiang Xiaowan’s numbering, “759,” and title, Lie guo 
+zhuan; after Stein 1921, vol. 4, plate 166. Now pressmark S.328. 
+
+
+=== PDF 8 ===
+34  Conserving Limitless Life 
+  
+The upper right of the image shows that Jiang numbered the manuscript’s verso 
+using what are known as Suzhou numerals 蘇州碼子 or Huama 花碼, a numer- 
+al system employed during the nineteenth and early twentieth centuries.14 Jiang 
+added such numbers, along with titles and brief notes, to over 1,300 Chinese Dun-
+huang manuscripts – including over a dozen copies of the Chinese Ap. Many have 
+Arabic numbers adjacent, presumably added later to translate Jiang’s numbers. The 
+first manuscript that Jiang numbered was S.823, a 472-cm roll of the Sutra of the 
+Buddhas’ Names (Fo ming jing 佛名經). Only rarely did Jiang number or annotate a 
+Tibetan manuscript.15  
+Only a few of Stein’s plates follow Jiang’s numbers, whereas his other images 
+of Dunhuang manuscripts employ a different sort of site number. Stein’s plate 173 
+(Fig. 5) captions the stack of leaves from a Tibetan pothī-format Perfection of Wis-
+dom Sutra copy scribed at Dunhuang (henceforth SP2) with “Ch. 01,” and captions 
+the large bundle (Stein’s “convolute”) of Tibetan Ap rolls with “Ch. 05.” Ch. 01 now 
+bears the pressmarks ITJ 104 and ITJ 105. The site number “Ch. 05” was replaced 
+with the site number 78.VII, as noted in the concordance at the end of La Vallée 
+Poussin’s catalogue.16 It included sixty rolls of Tibetan Ap copies. The roll at one end 
+of this bundle, transformed into its final booklet, is now assigned the pressmark ITJ 
+310.683, and its verso bears both Stein’s old site number, found inside an India 
+Office Library stamp, and a newer one, written to its left (Fig. 8). This replacement 
+of Stein’s rather less specific site number with a more precise site number would 
+have taken place in London or Cambridge in the 1910s, as described below.  
+We find useful information about the early site numbers elsewhere in Stein’s 
+Serindia. In the appendices to volume 3, Stein includes provisional cataloguers’ 
+entries for all of the texts in his plates. He asked F.W. Thomas to provide data on 
+the manuscripts in plate 173 based on the catalogue that Thomas had commissioned 
+La Vallée Poussin to produce.17 The information there agrees with Stein’s numbers, 
+ 
+14 Galambos 2020, 48. 
+15 An exception appears to be the Tibetan manuscript ITJ 1736, which includes two sets of Jiang 
+numbers and a note. Additionally, a curator’s slip kept with ITJ 130 consists of two Jiang numbers 
+and his note, along with a horizontal note in a different hand that states, by way of explanation, 
+“with CXXII.” It is unclear why this slip should be included with this manuscript, which bears the 
+site number “Ch.0010.” 
+16 La Vallée Poussin 1962, 289. 
+17 This is Appendix I, which is described as follows: “Notes on specimens of Tibetan manuscripts 
+from Ch‘ien-fo-tung, reproduced in plates CLXXIII, CLXXIV by F. W. Thomas, M.A., Ph.D. librarian 
+of the India Office from the catalogue prepared by L. de La Vallee Poussin professor at the univer-
+sity of Ghent”; Stein 1921, vol. 3, 1470. 
+
+
+=== PDF 9 ===
+ 
+Bundles of manuscripts in Dunhuang  35 
+  
+i.e. “Ch. 01” and “Ch. 05.”18 Stein clarified the meaning of his site numbers or “site 
+marks” in a footnote in the preface to Serindia.  
+ 
+Fig. 8: Verso of ITJ 310.683, showing Stein’s initial site number, “Ch.05,” and the more specific site 
+number, “78.VII.1”; photographed by Brandon Dotson, courtesy of the British Library. 
+“Site-marks” given at the time of discovery show the initial letter of the site, the number of the 
+ruin, etc., followed by plain Arabic figures, e.g. N. xxiv. viii. 35. In such cases these last figures 
+correspond to the actual sequence of “finds.” When ‘site-mark’ numbers were given by myself 
+at the site, but after the day’s work, they are preceded by a zero, e.g. L.A. vi. ii. 061. When 
+objects had been marked by me merely with the place of discovery and numbers were subse-
+quently added at the time of unpacking at the British Museum, two zeros precede the num-
+bers, e.g. M. I. iv. 003.19 
+This does not necessarily shed light on site numbers like “Ch. 01” and “Ch. 05,” 
+where “Ch.” indicates the site Ch’ien-fo tung (Pinyin: Qianfo dong 千佛洞), that is, 
+the “Cave of One Thousand Buddhas” at Mogao. Stein’s remarks acknowledge that 
+some “site marks” were not assigned when objects were discovered, but rather 
+when they were unpacked at the British Museum. Apparently the majority of the 
+ 
+18 Stein 1921, vol. 3, 1470. 
+19 Stein 1921, vol. 1, xv, n. 16. 
+
+
+=== PDF 10 ===
+36  Conserving Limitless Life 
+  
+Tibetan Dunhuang Ap copies were assigned site numbers at this later time, by 
+Stein’s assistants. Still other rolls were not given site numbers until later, when they 
+were kept at Cambridge University Library. Their situation was not unlike that of 
+Stein and Jiang trying to make sense of the contents of Cave Seventeen one bundle 
+at a time in May 1907, in the sense that Stein’s assistants were also documenting 
+manuscripts one bundle at a time as they unpacked them from crates in the base-
+ment of the British Museum or in Cambridge. Of course they did so with the benefit 
+of more time to work and to devise sound methods of documentation. 
+1.2 Site numbers in London 
+Stein’s crates of manuscripts arrived at the British Museum in January 1909, where 
+they were kept in a portion of the museum’s basement as a separate collection with 
+its own set of keys. Of the ninety or so crates that arrived there, about thirty of them 
+were full of manuscripts.20 Stein’s chief assistant, Fred Andrews (1866–1957), over-
+saw the manuscripts and objects until his departure for Kashmir in 1913. This duty 
+then fell to Florence Lorimer (1883–1967) until she also left for Kashmir in October 
+1919.21 The basement where the manuscripts and objects were kept and document-
+ed, which Stein affectionately referred to as “our old cave” or “the Beehive,” was 
+effectively “the Stein Collection” until the objects and manuscripts were divided be-
+tween the British Museum and the India Office Library, beginning in 1914.  
+Fred Andrews oversaw the unpacking of the crates and the documentation of 
+their contents. He was assisted initially by the archeologist Hugh Gerard Evelyn-
+White and by Lena Macdonald, who were tasked with producing and typing up 
+catalogue slips for each object. By October 1909, they were joined by John Percival 
+Droop (1882–1963) and by Florence Lorimer, who replaced Lena Macdonald.22 A 
+variety of other people were enlisted to catalogue and document the manuscripts 
+and objects of the Stein Collection. Lionel Giles (1845–1935) began cataloguing the 
+Chinese manuscripts in earnest in 1919.23 A.H. Francke (1870–1930) and F.W. Thomas 
+(1867–1956) were the first to catalogue and document the Tibetan manuscripts, fol-
+lowed by Caroline Mary Ridding (1862–1941) and Louis de La Vallée Poussin (1869–
+1938). Ridding commenced cataloguing by August 1910 in Cambridge, where much of 
+the Tibetan collection was sent. This was continued together with La Vallée Poussin 
+ 
+20 Mirsky 1977, 306. 
+21 Wang 1998, 216–217. 
+22 Wang 1998, 209–216.  
+23 Giles 1957, ix; Sims-Williams 2012, 6.  
+
+
+=== PDF 11 ===
+ 
+Site numbers in London  37 
+  
+from 1914 until he returned to Belgium in 1918.24 Stein also had crates of Chinese 
+and Tibetan manuscripts shipped to Paul Pelliot (1878–1945) in Paris and to Berthold 
+Laufer (1874–1934) in Chicago, respectively, but with equally unfruitful results.25  
+The slow pace of cataloguing of these manuscripts was a great disappointment 
+to Stein, and neither Giles’s catalogue of the Chinese manuscripts (1957) nor La 
+Vallée Poussin’s catalogue of the Tibetan manuscripts (1962) appeared before 
+Stein’s death in 1943. La Vallée Poussin recorded the site numbers of each of the 
+manuscripts in his catalogues of Tibetan Dunhuang manuscripts, but Giles did not 
+do so for his catalogue of Chinese Dunhuang manuscripts. Judging from their print-
+ed catalogues, the existing online catalogue, and the evidence of the site numbers 
+themselves documented below, it is clear that most – but not all – of these numbers 
+were assigned before the collections were split between the British Museum, which 
+received mostly the manuscripts in Chinese, and the India Office Library, which 
+mostly received the manuscripts in Central Asian languages. That decision to split 
+the collection was made in 1914, and it took some time to sort out and accomplish. 
+Some site numbers may have been written onto the manuscripts by Stein him-
+self while he was in Europe from January 1909 to December 1911, in part to work 
+on the collection.26 However, Stein was largely engaged with writing, lecturing, and 
+vacationing, and so most likely instructed Andrews – himself a trained arche-
+ologist whom Stein referred to affectionately as “the Baron” – about assigning site 
+numbers.27 This would have left the work of assigning site numbers to Andrews and 
+to Stein’s other assistants, notably Lorimer – whom Stein called the “recording an-
+gel.” A passage from a letter Stein sent to Andrews, dated Nov. 20, 1909, is suggestive 
+of such a delegation of labor: “As thing are, the best course is for you to guide Droop 
+and Miss L. by the light of your own experience & keenness & leave to them as much 
+of the drudgery as you possibly can, and to reserve for yourself the really novel 
+tasks, such as the silks and large frescoes.”28  
+Stein already established that the original disposition of the manuscripts and 
+bundles had been thoroughly disturbed prior to his own disarranging of Cave Sev-
+enteen’s contents in 1907. Unpacking the crates in London in 1909, Stein and his as-
+sistants would have had only the bundles to guide them, along with the numbers as-
+signed to the twenty-five crates in which the manuscripts arrived. According to 
+Stein’s packing list, the manuscripts were packed in the crates numbered sixty-seven 
+ 
+24 Wang and Perkins 2008, 37; Stein 1921, vol. 2, 919. 
+25 Sims-Williams 2012. 
+26 Wang and Perkins 2008, 48. 
+27 On Stein’s activities at this time, see Mirsky 1977, 326 and Walker 1995, 187–189. 
+28 Bodleian Stein Manuscript 37/225, quoted in Wang 1998, 209; emphasis original. 
+
+
+=== PDF 12 ===
+38  Conserving Limitless Life 
+  
+to ninety-one, and the list mentions the number of bundles in each crate. Unpacking 
+the crates in London, Fred Andrews made a note on the packing list, dated July 22, 
+1909, to say that fifty-seven crates remained unopened, and that twenty-five had 
+been repacked. A further note, dated January 7, 1910, stated that thirty-seven crates 
+were unpacked and that fifty-six crates were not unpacked. The latter are anno-
+tated on the list in red pen, and include nearly all of the crates in which the manu-
+scripts were contained.29 This could indicate that some of these crates were not un-
+packed before being sent to Cambridge. 
+ 
+ 
+Figs 9a and 9b: Final two pages of Stein’s packing list, “Contents of antique cases packed June 19th–
+July 18th, 1908,” giving the contents of each crate shipped to London; MSS Stein 37/119 and MSS Stein 
+37/120, courtesy of the Bodleian Library. 
+A comparison of Stein’s packing list with existing site numbers confirms that Stein’s 
+assistants in London employed the crate numbers for assigning site numbers to 
+the manuscripts. This is evident from the correspondence of the number of bundles 
+in Stein’s list to the number of bundles that La Vallée Poussin catalogued. To give 
+just one example, in crate eighty-six Stein lists “Tibetan mss. (15 bundles)” and the 
+concordance in La Vallée Poussin’s catalogue similarly records fifteen bundles of 
+ 
+29 Terzi and Whitfield 2024, 64. 
+
+
+=== PDF 13 ===
+ 
+Site numbers in London  39 
+  
+manuscripts that begin with the number eighty-six, e.g. site numbers 86.I to 86.XV.30 
+There are similar correspondences for the other crates. This, together with photo-
+graphic evidence and an investigation of over a thousand site numbers written on 
+the Ap copies themselves, permits us to decipher the precise points of reference of 
+certain site numbers that have up until now remained imperfectly understood.  
+There is a variety of site numbers, only some of which follow Stein’s stated 
+methods. Another of Stein’s footnotes, regarding the site numbers on Brāhmī manu-
+scripts from Dunhuang, is helpful for clarifying his general logic. 
+[Brāhmī manuscripts] in miscellaneous bundles can be distinguished from those which were 
+extracted from regular packets of Chinese rolls by the bundle number in small Roman figures 
+(ii,ii xl, etc.) prefixed to the serial numbers (003, 0019, etc.) in the ‘site marks’. Pōthī [sic] leaves 
+and rolls subsequently recovered on searching the regular packets in which they were embed-
+ded bear only serial numbers (e.g. Ch.0041, 00271, etc.). [...] I may note here that when the 
+marking with serial numbers was made at the British Museum, no classification of the differ-
+ent objects (manuscripts, paintings, decorated fabrics, etc.) found in the same mixed bundle 
+could be attempted.31 
+Summarizing Stein’s stated method for assigning these site numbers to Brāhmī man-
+uscripts more plainly, an object from a “miscellaneous bundle” might be “Ch.VI.003,” 
+where “VI” indicates the bundle and “003” the object within the bundle. This in fact 
+accurately describes the site number Ch.XXXIII.003, which belongs to the Ap copy 
+with the pressmark ITJ 310.1035. In contrast, a manuscript from a regular “library 
+bundle” would be simply given a serial number, for example “Ch.0041,” with appar-
+ently nothing to indicate the bundle from which it was extracted, and no indication 
+of how many other manuscripts there were in that regular library bundle. This cor-
+responds to a site number such as Ch.05, which, as we have seen, labeled the entire 
+bundle of sixty Ap rolls displayed in Fig. 5.  
+This stated method would create a profound asymmetry with respect to how 
+manuscripts from the regular “library bundles” of rolls and other types of manu-
+scripts were marked (e.g. “Ch.0041”) in contrast to the more detailed site numbers 
+(e.g. “Ch.VI.003”) assigned to objects from the “miscellaneous bundles” that includ-
+ed manuscripts, painted scrolls, and other objects. Considering Stein’s statement in 
+light of the evidence of the site numbers written on the manuscripts themselves, it 
+is happily the case that the situation on the ground is not so unfortunate as the one 
+Stein described. In fact, more or less the same method that Stein stated above for 
+ 
+30 See Terzi and Whitfield 2024, 64–65. The packing list in question is kept in Stein’s papers at the 
+Bodleian Library, MSS Stein 37/117–120. Frances Wood has also written about the use of crate num-
+bers for numbering the manuscripts; Wood 2012, 2. 
+31 Stein 1921, vol. 2, 814, n. 2. 
+
+
+=== PDF 14 ===
+40  Conserving Limitless Life 
+  
+numbering “miscellaneous bundles” was applied to manuscripts from “library 
+bundles.” The main difference is that in the latter case the first number given in 
+Arabic numerals is the crate number, a point we have already established above 
+with recourse to Stein’s inventory. Just as in a site number for an object from a 
+miscellaneous bundle like “Ch.XXXIII.003” where the “003” refers to the third item 
+within bundle “XXXIII,” so too in a site number for an object from a regular library 
+bundle – almost always a roll – like “Ch.73.III.5,” the “5” refers to the fifth roll within 
+bundle “III” taken from crate seventy-three.32 It is chiefly the crate number at the 
+start of these site numbers for regular library bundles that distinguishes them from 
+those used for miscellaneous bundles. The reliance on the crate number also per-
+mitted some laziness, since sometimes an entire bundle was given a number such 
+as 86.X without numbering its rolls individually, e.g. 86.X.1, etc. 
+The bundle numbers were presumably assigned according to the order in 
+which Stein’s assistants removed the bundles from a crate to document them. From 
+Fred Andrews’s tally of either unopened crates or repacked crates, one can assume 
+that bundles were returned to their crates after being assigned site numbers. This 
+explanation of such site numbers perfectly describes the state of the site numbers 
+assigned to both the Tibetan and Chinese Dunhuang Ap copies in the Stein Collec-
+tion, and constitutes a sound method for documenting the bundles such as we see 
+them in the images above (Figs 4 and 5), since one can number the dozen or so bun-
+dles that emerged from each crate without risk of confusing, for example, bundle 
+79.II with bundle 80.II, or roll 73.IX.5 with roll 75.IX.5. This demonstrates how these 
+site numbers are only made possible with the addition of the crate number. It also 
+shows how Stein and/or his assistants devised a system that in fact followed Stein’s 
+logic to add some precision to the earlier site numbers by working with relevant 
+objects at hand, namely crates, bundles, and rolls. 
+In this common type of site number that includes three numbers, e.g. “73.III.5,” 
+the prefix “Ch.,” indicating the site’s name, has often been elided. Stein’s practice 
+was to place spaces between these numbers and to use lowercase Roman numerals, 
+but Stein’s assistants, curators, and cataloguers have tended to dispense with the 
+spaces and to use uppercase Roman numerals, as we do here. 
+It is obvious that a site number like “Ch.05” is inferior to a site number like 
+“78.VII.1,” which is able to indicate crate number, bundle number, and roll number. 
+It is less obvious how curators were able to replace the former with the latter. One 
+possibility is that at some point during those seven days sorting through manu-
+scripts and objects in May 1907, Stein or Jiang handled this bundle, and assigned the 
+ 
+32 Takeuchi came close to this solution, but mistook the initial number, e.g. seventy-three, for the 
+bundle number rather than the crate number; Takeuchi 2012, 209–210. 
+
+
+=== PDF 15 ===
+ 
+Site numbers in London  41 
+  
+number Ch. 05 to it and/or to one of its rolls. Following Stein’s protocols for using 
+zeros, this might indicate that this was done at the end of a day in May 1907 in Dun-
+huang, rather than during the day itself or a year later in Khotan or two or more 
+years later in London. If this were the case, then this roll on which Stein wrote the 
+site number must have been returned to the bundle from which it came, since the 
+more detailed site numbers that identified it as bundle VII from crate seventy-eight 
+were necessarily only assigned after the crates were unpacked in London in 1909.  
+From Stein’s account of their work during these seven days, it is clear that 
+Wang first brought out only a few manuscripts and objects from Cave Seventeen, 
+and then brought manuscripts and objects in progressively larger amounts. This 
+process of “lending” out the manuscripts in ever larger units, and then collecting 
+them again at the end of each day, would disarrange those bundles and items that 
+Stein and Jiang consulted. In fact, Ch.05 is one of the few such site numbers of this 
+type (e.g. “Ch.07”) and of a similar type (e.g. “Ch. 0025”) to be replaced with more 
+detailed (e.g. “Ch.79.IX.5”) site numbers. Dozens of others, like Ch. 08 and Ch. 0066, 
+were never replaced with more detailed site numbers, perhaps because they could 
+not be reliably linked to the library bundle or miscellaneous bundle from which 
+Wang, Stein, or Jiang had separated them. While conjectural, this hypothesis offers 
+a plausible account of the meanings of the main types of site numbers, and some 
+hints about how and when they were produced.33  
+It is very helpful to know that site numbers like 73.III.5 indicate crate number, 
+bundle number, and roll number in “library bundles,” whereas a number like 
+XXXIII.003 indicates bundle number and item number in a miscellaneous bundle. 
+This allows one to fully appreciate the advantage of these site numbers, as imper-
+fect as they are, and how they offer scholars another way to navigate the Stein col-
+lection. Doing so, one can discover relationships between manuscripts and objects 
+that were and are catalogued and conserved apart from one another, and some-
+times at different institutions, e.g. the British Museum and the British Library. In 
+Appendix Two we gesture further towards this approach by pointing out the con-
+tours of each bundle in terms of its contents and how they were documented.34 
+There are many instances where different types of site numbers are found 
+alongside one another, revealing an “archeology” of documentation and conser-
+vation. The Jiang numbers – and perhaps Stein numbers such as “Ch.05” – are the 
+ 
+33 Others, such as Ch.06 and Ch.011, which both became site number Ch.86.IV, can be found in La 
+Vallée Poussin’s concordance, published at the end of his posthumous catalogue; La Vallée Poussin 
+1962, 289. For discussions of the various types of site numbers, see Takuechi 2012b, 209–212 and 
+Terzi and Whitfield 2024, 61–68. 
+34 See also the attempt to reconstruct a few bundles in Terzi and Whitfield 2024, 78–82. 
+
+
+=== PDF 16 ===
+42  Conserving Limitless Life 
+  
+earliest stratum, and they appear on many Chinese manuscripts that are catalogued 
+as having no site number. They also appear alongside site numbers assigned later. 
+In this regard they are not alone; examples of both types of site numbers that  
+Stein described occur in the upper margin of Or.8212/83, a manuscript fragment 
+with Chinese on the recto and Sogdian on the verso (Fig. 10). There one reads 
+“Ch.00334” and, in a separate hand using different ink, “82.XVI.” Presumably Stein 
+or an assistant wrote the first number, and the second number was added once the 
+practice of numbering items by crate and bundle had been settled, and when this 
+manuscript could still be reliably provenanced to bundle 82.XVI. 
+ 
+Fig. 10: Or.8212/83 recto, showing two site numbers; image captured by the authors from 
+http://idp.bl.uk/, courtesy of the British Library. 
+The same situation is found on the verso of a fragmentary Tibetan Ap copy. This 
+was apparently taken from bundle 73.XV, which also contains a few other Tibetan 
+Ap copies, among other manuscripts. It was then catalogued for the Khotanese 
+content on its verso and assigned the pressmark IOL Khot S 17 (Fig. 11). As in the 
+previous case, two separate hands in two separate inks wrote the two site numbers, 
+“Ch.0020” and “73.XV.001” (Fig. 11a, upper left corner). Later curators wrote on the 
+mounting gauze to clarify that the one number is equated with the other (Fig. 11a, 
+upper right; Fig. 11b). As before, Stein or someone else first extracted this manu-
+script from a regular bundle and gave it a number in keeping with his statement 
+quoted above, and then Stein or an assistant then apparently improved upon this 
+by specifying the number of the bundle it had originally been extracted from, and 
+the number of the crate in which it was packed. It is not surprising that this is rare, 
+
+
+=== PDF 17 ===
+ 
+Site numbers in London  43 
+  
+since such “extraction” is likely to orphan a manuscript from its bundle unless there 
+is a note attached, or unless it was carefully put back in place in its bundle. 
+ 
+ 
+Figs 11a and 11b: IOL Khot S 17 verso, showing two site numbers; image captured by the authors 
+from http://idp.bl.uk/, courtesy of the British Library. 
+Stein and his assistants typically assigned site numbers at the level of the object. In 
+the case of the manuscripts considered here, this is true whether the object was a 
+fragment of a roll, a 135 cm-long roll containing one sutra copy, or a twenty-meter-
+long roll containing fifteen sutra copies. The task of going through thousands of 
+manuscripts in these crates and bundles and writing a site number on each roll 
+proved to be impractical, however, perhaps nowhere more so than in the case of 
+the 1,055 rolls of Tibetan Ap copies that emerged from Stein’s crates. Consequently, 
+and possibly as a result of the work of various different hands – Stein’s, Andrews’s, 
+Lorimer’s, and others – a variety of methods arose by which the site numbers were 
+added. Here we describe a few of these. 
+Having removed a bundle from a crate in order to assign site numbers, Stein 
+or one of Stein’s assistants would be faced with a rather unwieldy task. The bundle 
+might be made up of single-sutra rolls, each 135 to 160 cm long, which had been 
+unrolled, stacked on top of one another and then rolled up as a bundle. To unroll 
+this bundle and to separate each roll in order to number them individually would 
+be to risk damaging the rolls. It would also be to clutter one’s workspace with fifty 
+or so rolls, since a bundle contains between seventeen and sixty-four rolls, and each 
+
+
+=== PDF 18 ===
+44  Conserving Limitless Life 
+  
+roll would naturally spring back into its rolled position if its ends were not weighted 
+down. An enlarged image of the bundle that Stein dubbed “Ch.05” is instructive. 
+Here one can see the disposition of the bundle. The sutra copy that Stein made visible 
+for the picture by partially unrolling the bundle would be on top of the stack of flat 
+sutras if the bundle were fully unrolled.35 In fact, when they fully unrolled the bun-
+dle Stein’s assistants found another sutra copy adjacent to this one, and that copy – 
+ITJ 310.683, pictured above in Fig. 8 – was assigned a site number as the first roll in 
+the bundle, 78.VII.1. There were no doubt other such discoveries and surprises 
+within these bundles once they were unrolled, and this would be one of the main 
+reasons for unrolling each bundle. 
+ 
+Fig. 12: Detail of one of the “library bundles” from Mogao Cave Seventeen; after Stein 1921, vol. 4, 
+plate 173. 
+These bundles were also quite messy. The bundle pictured above, 78.VII, contained 
+forty-eight single-sutra rolls each measuring about 135 cm, four two-sutra rolls each 
+measuring about 180 cm, three three-sutra rolls each measuring about 225 cm, one 
+four-sutra roll measuring about 270 cm, and four five-sutra rolls each measuring 
+about 315 cm. As a stack of rolls, it would have a thick, 135-cm “body,” and a long, 
+thin 315-cm “tail.” This state of affairs also explains how rolls of single-sutra copies 
+might lay adjacent to one another within a bundle, only to be discovered when the 
+bundle was fully unrolled. In this and other such bundles, the rolls of varying 
+lengths were not stacked neatly according to the length of each roll, e.g. longest to 
+ 
+35 This is ITJ 310.682, which is now the second to last booklet in the stack of booklets in Vol. 106.  
+
+
+=== PDF 19 ===
+ 
+Site numbers in London  45 
+  
+shortest or vice-versa, before being rolled up together as a bundle. Additionally, the 
+sutra copies were not necessarily all stacked on top of one another right-side up 
+when they were rolled into bundles. This is evident from at least two facts. First, 
+damage from water or another fluid affected all twenty-four of the rolls in bundle 
+86.XIII, and this is more apparent in the last few rolls than it is in the first few rolls, 
+no doubt because of how the bundle was rolled up.36 However, this damage is 
+visible in the top margins of some sutra copies, and in the bottom margins of others, 
+which means that they were not all stacked in the same direction with respect to 
+their contents. Second, the sutra copies in bundle 86.X have this site number in 
+black ink written either on the verso of the first panel or on the verso of the last 
+panel, which is to say, either on the front cover or the back cover of their booklets 
+(Fig. 15, below). This would happen were one to number a bundle of rolls without 
+arranging them such that they are all oriented the same way, that is, without attend-
+ing to the fact that some were rotated 180 degrees with respect to the others. It might 
+also suggest that this work was done by assistants and curators who treated these 
+rolls as objects without attending to the direction of writing. 
+Given that Wang, Stein, and Jiang may have disturbed these bundles of rolls 
+prior to their being documented in London, we cannot necessarily assume that this 
+order of rolls reflected the bundle’s original state as it was deposited in Cave Seven-
+teen. Nor, for that matter, can we conclude with certainty that this order reflected 
+these sutra copies’ manner of storage in the Dunhuang temple libraries of Longxing 
+si, Sanjie si and others prior to their being deposited in Cave Seventeen. However, 
+a close examination of these bundles and their rolls of sutras, as described in Chap-
+ter Three, reveals a high degree of internal coherence at the level of the bundle that 
+strongly suggests that most bundles were in fact largely untouched after they were 
+rolled up. It was apparently only during the later stages of their conservation in 
+Cambridge and London that the order of rolls became inverted or shuffled, but even 
+this, as we will see, was rare. This is important to the context of these manuscripts’ 
+use, since it suggests that they were mainly copied to be kept or “deposited” for the 
+merit that they created. It may also be the case that these manuscripts’ ubiquity, 
+and the comparatively low doxographical status of the Sutra of Limitless Life, also 
+accounts for their relatively undisturbed state prior to conservation in London. 
+If Stein or his assistants were to have separated each roll from the other rolls 
+in its bundle, then they would have faced the issue of whether to store these sepa-
+rately, as individual rolls, or whether to roll them back up as they were, in a bundle, 
+without damaging them or disturbing their sequence. The sixty rolls of bundle 
+ 
+36 This makes it less likely – though not impossible – that the damage occurred after they were bound 
+as booklets. 
+
+
+=== PDF 20 ===
+46  Conserving Limitless Life 
+  
+78.VII (pictured in Fig. 12) would have been even more unwieldy and more prone 
+to damage as separate objects than as rolls within a bundle. In this case, someone 
+wrote the site number “78.VII.1” on first, that is the top, roll in the bundle. They 
+neglected to number the rolls below this one, only numbering the bottom roll in the 
+bundle “78.VII.” The fifty-eight rolls between these two rolls have no site numbers 
+at all. This suggests a cursory “first pass,” probably in the Beehive, that did not in-
+volve separating the rolls individually from their bundle. It also implies that these 
+rolls were meant to be assigned serial site numbers based on the model of the first 
+number assigned, i.e. 78.VII.1 to 78.VII.60. In the end, nobody ever completed this 
+task, and fifty-eight of this bundle’s sixty rolls went without site numbers.  
+ 
+Fig. 13: ITJ 310.1149 on its side, rotated ninety degrees – in faded red ink one can read “Ch.73.XI.19,” 
+adjacent, in pencil, is a “3,” indicating the number of sutras in this multiple-sutra roll, and in the left of 
+the image (top right of the booklet), a reduplication of the site number is written in pencil, perpendic-
+ular to the faded red site number; photographed by Brandon Dotson, courtesy of the British Library. 
+In other bundles it is clear that someone did what was apparently intended for bun-
+dle 78.VII by assigning serial site numbers to every roll in a bundle. For example, 
+the twenty-eight rolls in bundle 73.XI have site numbers written onto their versos 
+in red ink, which has since faded to pink (Fig. 13). Duplicate site numbers in pencil, 
+perpendicular to these, were presumably added once the ink had faded to illegibil-
+ity. Both sets of site numbers proceed serially, from 73.XI.1 to 73.XI.28. The site 
+numbers are written on the verso of the beginning of each roll, which would have 
+been the available outside surface of each roll in the bundle if it were barely un-
+rolled for numbering purposes and to check it for other manuscripts or objects. 
+Thus site numbers may have been assigned to each of this bundle’s twenty-eight 
+rolls without fully unrolling them, or at least without separating the rolls individu-
+ally from one another.  
+
+
+=== PDF 21 ===
+ 
+Site numbers in London  47 
+  
+ 
+Fig. 14: Site number 79.IX.25 on the verso of S.2018, a Chinese Ap copy; image captured by the 
+authors from http://idp.bl.uk/, courtesy of the British Library. 
+We find a similar situation when examining the Chinese Dunhuang Ap copies kept 
+at the British Library. Like the Tibetan Ap rolls, these rolls are also of varying lengths: 
+some rolls contain a single Ap copy and other rolls contain multiple Ap copies. These 
+rolls also came from regular “library bundles,” some of which they shared with 
+Tibetan Ap rolls.37 Those Chinese rolls with the site number 79.IX are numbered in 
+red pen using the serial method, as in the case of those Tibetan rolls with site 
+number 73.XI, also in red ink. The numbers run from 79.IX.1 to at least 79.IX.37.38 
+They are similarly written on the verso of the beginning of each roll, as in the case 
+of S.2018 (Fig. 14). These site numbers are not necessarily in the same hand as those 
+on the Tibetan Ap copies. The writing is larger, and one also notes here the absence 
+of the Ch. prefix on the 79.IX site numbers for these Chinese Ap rolls. 
+In the case of this bundle of Chinese Ap copies, which fell under the purview of 
+the British Museum, the rolls were separated from their bundles, and each roll was 
+stored individually in its own scroll box. As a result, hundreds of scroll boxes had 
+to be manufactured for these and the 288 rolls or fragments of Chinese Ap copies in 
+the Stein Collection. Some are long rolls with up to four Ap copies, while others are 
+rolls of just one sutra copy. These are discussed in more detail in Chapter Three. 
+ 
+37 One example is 77.VII, a bundle that contained, among other manuscripts, one roll of Tibetan 
+Ap and two rolls of Chinese Ap. See Appendix Two for details. 
+38 Terzi and Whitfield use this as one of the three bundles in their case study for reconstructing 
+bundles based on site numbers; see Terzi and Whitfield 2024, 67–70. They commit the common 
+mistake of conflating these Ap copies with copies of the Sukhāvatīvyūha sūtra. The two texts share 
+the same short title in Chinese. 
+
+
+=== PDF 22 ===
+48  Conserving Limitless Life 
+  
+A more common method of assigning site numbers, which appears to have 
+been more often used for the Tibetan manuscripts at the India Office Library than 
+for the Chinese manuscripts at the British Museum, was to forego the serial site 
+numbers by assigning a less precise site number that applied equally to every roll 
+in a given bundle. This is a middle ground between the desultory method of just 
+marking the site number on the first and last roll of a bundle, e.g. 78.VII, and the 
+more thorough method of writing a unique serial site number on every roll, e.g. 
+73.XI.1 to 73.XI.28. This applies, for example, to the fifty-five single-sutra rolls of 
+Tibetan Ap copies that were assigned the site number 86.X. Stein or an assistant 
+wrote the site number “86.X” in black ink on the versos of all fifty-five rolls in this 
+bundle (see Fig. 15). These numbers appear sometimes at the beginning of the verso 
+and sometimes at the end. This suggests, as stated above, that when the rolls were 
+stacked on one another and rolled into a bundle for storage in a temple library 
+and/or in Cave Seventeen, the sutra copies were not carefully arranged with respect 
+to their contents. Some apparently were rotated 180 degrees, and some may have 
+lain “back-to-back” (versos touching) or “front-to-front” (rectos touching) with their 
+neighbors. Alternatively, this could have resulted from someone consulting an Ap 
+copy or otherwise disturbing the bundle, but in such cases one would assume that 
+this would involve only the first or last roll rather than rolls in the middle of a 
+bundle. The most convenient method was for Stein or his assistants to number the 
+versos that were most easily accessible as they documented these manuscripts and 
+made inventories of each bundle. This likely accounts for why the site number 
+“86.X” is found either on the beginning or end of the verso, which is to say the front 
+cover or back cover of the booklets kept in Vol. 95 (Figs 15a and 15b).39 
+This type of site numbering, which does not add serial site numbers to each roll 
+within a bundle, also appears on some Chinese Ap copies, again in black ink. On 
+S.492 and S.503, for example, the site number 86.I is written in black ink on the verso 
+of the end of each roll. This agrees perfectly with the method of assigning site num-
+bers to the Tibetan rolls at 86.X, and it is perhaps notable that both bundles come 
+from the same crate, number eighty-six.  
+In these few examples, we can already see a lack of uniformity with regard to 
+the location of the site numbers on the manuscripts, the color of ink used to write 
+them, and the method of assigning them. Concerning the latter, we observe that 
+those rolls with site number 73.XI all bear serial site numbers, e.g. 73.XI.1 through 
+73.XI.29, rather than simply all sharing the same site number of 73.XI. Of the twenty-
+six site numbers – which is to say twenty-six bundles – that include several rolls of 
+ 
+39 Additional photographic documentation of site number 86.X appears in Fig. 2, where “86.X” 
+bleeds through from the verso, as well as Figs 3, 19, 20, 23a, and 24. 
+
+
+=== PDF 23 ===
+ 
+Site numbers in London  49 
+  
+ 
+Figs 15a and 15b: Site numbers 86.X written on the verso of the start of ITJ 310.256 (upper right of 
+front cover of the booklet, spine to the left) and on the verso of the end of ITJ 310.253 (upper left of 
+back cover of the booklet, spine to the right). Note booklet number “12” in pencil below the site 
+number in Fig. 15a; photographed by Brandon Dotson, courtesy of the British Library. 
+Tibetan Ap copies, only five employ these serial site numbers that distinguish the 
+specific number of each roll. The other four are Ch.73.XVI (Vol. 113), Ch.73.XVII 
+(Vol. 114), Ch.73.IX (Vol. 117), and Ch.73.X (Vol. 118). These are split evenly between 
+bundles of single-sutra rolls and bundles that also include multiple-sutra rolls, the 
+specifics of which are treated in Chapter Three.  
+These various methods are not necessarily the result of unitary norms that de-
+graded over time from the more thorough to the cursory. Rather, they appear to 
+have resulted from different standards applied by different assistants and curators. 
+These tend to cohere not only at the level of the bundle, but also at the level of the 
+crate, which suggests that different people (e.g. La Vallée Poussin, Ridding) were 
+assigned different crates to go through and number. All of the many Tibetan Ap 
+copies from the bundles in crates seventy-eight and eighty-six, for example, use the 
+less specific type of site number, and this is written in black ink. By contrast, all of 
+the Tibetan Ap copies from the bundles in crate seventy-three have the more spe-
+cific site numbers, and these are written in red ink. As we will see, it appears that 
+these latter, specific site numbers were the work of C.M. Ridding in Cambridge.  
+A few Tibetan Ap copies have different site numbers that tell us nothing of 
+their locations within crates or bundles. This is true of those labeled “Fragments.” 
+Confusingly, some of these are complete sutra copies (e.g. Fragment 41, pressmark 
+
+
+=== PDF 24 ===
+50  Conserving Limitless Life 
+  
+ITJ 310.422), while others are indeed fragments of sutra copies (e.g. Fragment 53.5, 
+pressmark ITJ 310.427). It is unclear why these complete sutra copies were desig-
+nated as fragments.  
+There is also a sequence of Ap copies, pressmarks ITJ 1588 to ITJ 1615 – exclud-
+ing ITJ 1601 –, that have simple site numbers consisting only of Arabic numerals 
+and without the Ch prefix. These amount to twenty-two manuscripts and fragments 
+numbered 10, 13, 14, 23, 34, 35, 36, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58. 
+Their skips in sequence, e.g. from 36 to 44, appear to be a recognition of existing 
+manuscripts that bear intervening numbers prefixed by “Fragment,” e.g. “Frag-
+ment 41,” mentioned just above. These numbers are often in pencil, alongside the 
+number 310, the latter written in pen, probably by La Vallée Poussin. It is not neces-
+sarily the case that the word “Fragment” was elided from these penciled numbers, 
+since we find Fragment 44, Fragment 49, and Fragment 52 – which overlap with the 
+unprefixed numbers 44, 49, and 52 just given above – as site numbers assigned to 
+non-Ap manuscripts at pressmarks ITJ 109, ITJ 120, and ITJ 256, respectively, in La 
+Vallée Poussin’s concordance.40  
+The numbers on these manuscripts represent an anomaly. Since they are not 
+found in La Vallée Poussin’s inventory of site numbers, nor in his catalogue’s con-
+cordance, they were likely added after his cataloguing work, which is to say after 
+World War I. If one assumes the concordance to be the work of A.F. Thompson, then 
+these numbers were also probably unknown in the early 1960s. Examining these 
+manuscripts in more detail, it becomes clear that these are only “quasi-site num-
+bers,” that have resulted from confusion during the process of documenting these 
+manuscripts and assigning site numbers. In other words, these are manuscripts 
+that were quite likely mislaid, or orphaned from their bundles during the catalogu-
+ing process. In this respect they are similar to Stein’s Ch.0023- and Ch. 05-type 
+numbers, which also seem to have resulted from separating manuscripts from the 
+regular library bundles in which they had been previously kept. One example will 
+suffice to demonstrate this. La Vallée Poussin’s catalogue lists five copies under the 
+pressmark “Ch.i.1.” However, only one Ap copy is now found with this site number, 
+at pressmark ITJ 310.1034. In pencil, on the verso of column a of this copy we find 
+written, “aparamitayur, 5 copies, incomplete, Ch.I.1. Part of a bundle numbered Ch.I 
+from sorted Chinese bundles.” This further corroborates La Vallée Poussin’s cata-
+logue. This copy’s roll number is thirteen, and it is a copy of the “A1” version of 
+the sutra, the details of which will be discussed in Chapter Two. Searching among 
+the twenty-two above items with their defective, penciled quasi-site numbers, we 
+find rolls nine, ten, eleven, and twelve, all A1 copies, strongly suggesting that they, 
+ 
+40 La Vallée Poussin 1962, 299. 
+
+
+=== PDF 25 ===
+ 
+Site numbers in London  51 
+  
+together with roll thirteen (ITJ 310.1034), had previously constituted the five copies 
+at Ch.I.1. These four copies bear the respective “quasi-site numbers” 54, 53, 49, and 
+47. Presumably, the site number “Ch.I.1” was initially added only to one of the five 
+rolls when they were kept together, and somehow the other four were separated 
+and mislaid.41 These four rolls were later assigned pressmarks ITJ 1611, ITJ 310.423, 
+ITJ 1607, and ITJ 1605, respectively.  
+To compound this mistake, the manuscript with the quasi-site number “53” was 
+moved together with the four fragments and copies that La Vallée Poussin had 
+catalogued as “Fragment 53.” Someone then added decimals in pencil after each 
+number 53, such that the five manuscripts in this newly created group proceeded 
+“53.1” through “Fragment 53.5,” thereby creating the false impression that “53” had 
+been a part of “Fragment 53” all along. The latter site number therefore ended up 
+having five items within it, rather than the four items that La Vallée Poussin rec-
+orded for Fragment 53 in his catalogue. In Chapter Three and Four and in Ap-
+pendix Two we rectify these and other such mistakes to virtually reunite some man-
+uscripts that had been orphaned or misassigned by the processes of conservation 
+and cataloguing. 
+There are such “casualties” of the documentation process among the Chinese 
+Ap copies as well. Most have consistent site numbers, and many that are listed as 
+having no site number in fact have Jiang numbers. However, a few of them, mostly 
+fragments, have no site numbers at all. Among those with no site numbers are the 
+fragments S.324, S.1107, and S.1143. The complete, edited Ap copy S.4088 (Fig. 39) also 
+has no site number. 
+Among the sutra copies and fragments that do not come from regular bundles 
+of mostly Ap copies, but rather from bundles where they were mixed in among 
+many other sorts of texts, we also find an odd variation on the more standard site 
+numbers. Pressmarks ITJ 310.415, 416, and 418 are three complete Ap copies with 
+the site number 87.XIII. To this site number was added the lower-case letters “a,” 
+“b,” and “f,” respectively, but these are written slightly below, suggesting they were 
+added later, by someone who was not following the usual system that would dictate 
+the use of Arabic numerals for serial site numbering. This type of site number (e.g. 
+ 
+41 Prevarication between lowercase and uppercase letters has sowed confusion concerning this 
+site number. There are several painted scrolls and Khotanese manuscripts with the site number 
+Ch.i, with serial numbers preceded by two zeros, e.g. Ch.i.003. Four Tibetan items, by contrast, use 
+the upper case Ch.I, and follow this with serial numbers without zeros, e.g. Ch.I.3. The ambiguity of 
+the uppercase I has also meant that some curators and cataloguers have (mis)read the site number 
+as “Ch.1,” that is, the Arabic number rather than the Roman numeral.  
+
+
+=== PDF 26 ===
+52  Conserving Limitless Life 
+  
+“87.XIII.d,” where “d” is apparently a later addition) is visible in the image of the 
+fragment ITJ 310.1204 in Fig. 22 below. 
+Later strata of numbering processes complicate matters even further. We have 
+already shown that Stein and/or his assistants probably wrote many of these site 
+numbers onto the manuscripts as they proceeded through their documentation of 
+crates and bundles in the basement of the British Museum. However, it is also clear 
+that some site numbers were added later, after the Chinese materials went to the 
+British Museum and the Tibetan materials went to the India Office Library, begin-
+ning from 1914. This becomes evident when we approach these manuscripts at the 
+level of the bundle. Tibetan and Chinese manuscripts from the same bundle are not 
+always numbered using the same method. Whereas in some bundles, Tibetan and 
+Chinese items are both marked with serial site numbers, in other bundles Chinese 
+items are marked with serial site numbers while the Tibetan items in the same bun-
+dle are marked without them. This is true of manuscripts with site number 81.VIII, 
+for example, whose Tibetan manuscripts are each labeled 81.VIII, whereas its Chi-
+nese manuscripts each have their own serial number, e.g. 81.VIII.7. Elsewhere, the 
+serial site numbers of Chinese items in a bundle overlap with the serial site num-
+bers of Tibetan items in the same bundle, which is something that presumably 
+would not occur if the items in the bundle were numbered serially when they were 
+kept together in the Beehive. In bundle 79.XIV, for instance, 79.XIV.3 designates 
+both the Tibetan manuscript ITJ 310.1206 and the Chinese manuscript S.3824. This 
+is not an isolated occurrence, and other instances where Tibetan and Chinese man-
+uscripts from the same bundle are assigned identical site numbers are noted in 
+Appendix Two. Such duplicate numbers, as well as the more common circumstance 
+where Tibetan manuscripts and Chinese manuscripts from the same bundle em-
+ploy less specific (non-serial) and more specific (serial) site numbering, respective-
+ly, confirms that quite a lot of site numbering was done after the Tibetan manu-
+scripts were separated from the Chinese.  
+These site numbers assigned to Chinese manuscripts at the British Museum and 
+to Tibetan manuscripts at the India Office Library diverged not only from each 
+other, but also from the initial site numbers assigned prior to the division of the 
+collection. In bundle 79.XIV, for example, seven of the twelve Tibetan items lack 
+serial site numbers. It may be that Stein, Andrews, Lorimer, or another of the 
+“Beehive” assistants added the site number “79.XIV,” and that Hoernle, Ridding, or 
+La Vallée Poussin added the more detailed serial site numbers later. An inverse 
+situation could also apply, where someone first assigned a few detailed site num-
+bers, and expected others to follow the model for further items, as in the case of 
+bundle Ch.05/ 78.VII, described above. An almost identical situation describes the 
+site numbering of the items at 79.XVI. This would suggest that up to three hands 
+
+
+=== PDF 27 ===
+ 
+Cataloguing and preparatory work in Cambridge  53 
+  
+assigned site numbers within such a bundle: one at the “Beehive” prior to the divi-
+sion of the collections, assigning numbers at the level of the bundle; one working 
+on the Chinese manuscripts at the British Museum; and one working on the Tibetan 
+manuscripts at the India Office Library or in Cambridge. Despite these rough edges, 
+which emerge only when one examines the collection at the level of the bundle, the 
+documentation process largely succeeded in preserving the crucial information 
+about which manuscripts came from which bundles.  
+1.3 Cataloguing and preparatory work in Cambridge  
+F.W. Thomas was responsible for Stein’s Tibetan Dunhuang manuscripts at the 
+India Office Library in London, where he served as librarian from 1903 to 1927. He 
+and C.M. Ridding began documenting the manuscripts in 1910, and by 1914 Thomas 
+enlisted Louis de La Vallée Poussin, the famous Belgian Buddhologist who took 
+refuge at Cambridge during the First World War. A letter from Stein dated July 8, 
+1910 refers to the deposit of Stein’s Tibetan manuscripts at Cambridge University 
+Library, and states that Ridding, who was preparing an inventory, should be per-
+mitted to work on the material at her home, “up to a maximum of three bundles.”42 
+La Vallée Poussin probably enjoyed similar privileges at Cambridge. 
+In fact, one paper wrapper bearing C.M. Ridding’s handwriting is likely the 
+original wrapping in which she transported a bundle of Dunhuang manuscripts 
+between her home and the Cambridge University Library. It is now found in Vol. 
+118, together with the Ap copies bearing site number 73.X (Figs 16a and 16b). The 
+wrapper was presumably conserved as an example of the type of wrapper that was 
+used for conserving these manuscripts while they were still kept in bundles, prior 
+to binding. 
+On the back of this wrapper we read, written in red ink, “Ch 73.x. C.m.R.” and 
+“[Contents aparimitāyurjñānam C.m.R.]” (Figs 16c and 16d). This confirms that 
+C.M. Ridding used a red pen to identify the contents as part of her initial cataloguing 
+work. The sutra copies from this bundle do in fact have the more detailed, serial 
+site numbering in red pen. It is likely that Ridding was responsible for this more 
+specific method of site numbering in red pen where it is found in the other four 
+relevant bundles in crate seventy-three, as detailed above.  
+ 
+ 
+42 Wang and Perkins 2008, 37. 
+
+
+=== PDF 28 ===
+54  Conserving Limitless Life 
+  
+ 
+ 
+Figs 16a and 16b: Paper wrapping in which the Tibetan Ap copies were initially conserved while still 
+in roll format, Vol. 118; photographed by Brandon Dotson, courtesy of the British Library. 
+ 
+ 
+Figs 16c and 16d: C.M. Ridding’s annotations on the bundle wrapper, Vol. 118; photographed by 
+Brandon Dotson, courtesy of the British Library. 
+Besides his task of producing a catalogue, La Vallée Poussin was apparently also 
+charged with preparing manuscripts for binding. This entailed numbering each 
+bundle’s rolls individually, as well as numbering each roll’s panels. Despite num-
+bering these rolls of sutras individually, La Vallée Poussin did not catalogue them 
+
+
+=== PDF 29 ===
+ 
+Cataloguing and preparatory work in Cambridge  55 
+  
+individually, but rather grouped them all together under a single pressmark, num-
+ber 310. This was part of the sequence 306–455 of his catalogue, which La Vallée 
+Poussin consecrated to “tantric works with identified Sanskrit titles.”43 He makes 
+special mention of this pressmark in the catalogue’s introduction. 
+The rolls of the Aparimitāyur-jñāna-sūtra ([pressmark] 310) deserve special notice. The paper 
+is quite different from the paper of the other manuscripts in the collection. The majority con-
+sists of three sheets, each with two pages, stuck together to make a roll of six pages: some have 
+seven pages, an additional half sheet having been added. All the copies examined agree with 
+the two edited by Professor Sten Konow (Hoernle, Manuscripts Remains, pp. 289 et seq.) in 
+omitting 8 to 31 [sic] of the Hoernle edition. Some copies have been corrected in red ink, and 
+may record the scribes, the same names occurring more than once.44 
+This notice gives no inkling that this pressmark, 310, includes over one thousand 
+copies of this sutra. Otherwise, the description is helpful as long as one understands 
+that by “pages” La Vallée Poussin meant “columns” of text; this agrees with the two 
+separate measurements given in his entry published in Serindia. We shall return to 
+his observations about the sutra copies’ format and contents below. 
+La Vallée Poussin’s catalogue entry for 310 describes it as “a collection of rolls.”45 
+Besides transcribing eight sample colophons and including some references, he sup-
+plied an inventory of site numbers, along with the number of “copies” – by which 
+one must understand “rolls” – included under each of these site numbers. La Vallée 
+Poussin’s record of the site numbers is valuable as a witness to the state of affairs 
+from 1914 to 1918, when he and Ridding held the sutra copies in their hands. It is 
+therefore worth quoting here in full the beginning of his entry for 310: 
+ 
+tshe dpag tu myed pa zhes bya ba theg pa chen po’i mdo/ 
+(Aparimitāyur-nāma mahāyāna-sūtra) 
+Ch. 0071, I. 1 (5 copies), XIX. 003, XXXIII. 003, XL. 004, 73. VI. 1a (5 copies), 73. VII. 1-3 (3 copies), 
+73. IX. (19 copies), 73. X, 73. XI (28 copies), 73. XIII. 12, 73. XV. 2 and 8, frag. 10b, 73. XVI, 74. V,  
+75. IV. 1, 75. IX. 5, 76. XI. 3, 77. VII. 1, 77. XVI, 78. I (23 copies), 78. II, 78. III (51 copies), 78. IV  
+(38 copies), 78. VII, 78. VIII (54 copies), 78. IX, 78. X (50 copies), 78. XI, 78. XII (30 copies), 79. VIII. 
+5, 79. XIII. 1, 79. XIV. 3, 79. XVI. 6, 80. II, 80. II. B1, 80. IV. 1, 80. VIII. 1, 80. IX. B1, 81. V. 1, 81. VIII 
+(2 copies), 82. II. 6, 83. V. 1, 83. VI. 2, 83. IX. 10, 85. IV. 2, 85. IX. 1 and 6, 86. I (46 copies), 86. III  
+(28 copies), 86. VI. 86. VIa (46 copies), 86. VII (31 copies), 86. IX (12 copies), 86. X (2 copies),  
+86. Xa (54 copies), 86. XIII (25 copies), 86. XIV (48 copies), 86. XV (38 copies), 87. XIII (9 copies), 
+ 
+43 La Vallée Poussin 1962, xiii–xiv. 
+44 La Vallée Poussin 1962, xv. “8 to 31” is a typo: the main Tibetan version of the sutra copied at 
+Dunhuang omits §8–§11, as discussed in detail in Chapter Two. 
+45 La Vallée Poussin 1962, 101. 
+
+
+=== PDF 30 ===
+56  Conserving Limitless Life 
+  
+87. XIIIa, b, d, f (4 copies), CXLVII. 2, Fragments 28 (fr. 0060), 29 (fr. XLIII. 002), 33, 38 (3 copies), 
+39a (written on both sides, roll and scroll), 39b-c, 41, 53 (4 copies), 59, 84 (2 copies), and unnum-
+bered fragments bound in vols. 53 and 55; a collection of rolls.46 
+Comparing this account with the state of the manuscripts today, it is evident that 
+La Vallée Poussin’s use of the term “copies” is misleading. By this term he in fact 
+designated rolls. This is important because, as noted already, some rolls contained 
+up to fifteen copies of the sutra, while others contained only one. For example, 
+while the thirty-eight single-sutra rolls marked with the site number 78.IV together 
+contain thirty-eight sutra copies, the nineteen multiple-sutra rolls with the site 
+number 73.IX contain sixty-seven sutra copies in total. Adding up the number of La 
+Vallée Poussin’s “copies” therefore gives nowhere near the number of Ap copies 
+held in the collection, and also falls well short of the number of sub-pressmarks 
+eventually included within the 310 pressmark. It is safe to assume that those site 
+numbers in which Arabic numbers follow the Roman numerals, e.g. “73.XIII.12,” 
+refer to single rolls. One cannot assume the same for those site numbers where La 
+Vallée Poussin did not state the number of rolls, as we know that many of these site 
+numbers include several rolls. It is unclear whether La Vallée Poussin failed to rec-
+ord this data because he chose to ignore it or because it was unavailable to him. For 
+data based on our survey, which shows the numbers of pressmarks, rolls, and sutra 
+copies in each site number, giving also La Vallée Poussin’s tally, see Appendix Two. 
+Looking at the site numbers, one can easily see how they reflect the situation 
+of packing crates one dozen or so bundles per crate. Seven site numbers begin with 
+“73,” with the highest Roman numeral being “XVI.” Bundles IX and XI in crate 
+seventy-three have nineteen and twenty-eight rolls, respectively. It is also clear that 
+the Tibetan Ap did not account for all of the bundles in crate seventy-three, which, 
+as discussed by Takeuchi, contained seventeen bundles in total, many of which in-
+clude a variety of tantric texts that date to the period after the Tibetan occupation 
+of Dunhuang.47 Crate eighty-six included ten bundles of Tibetan Ap rolls, with an 
+average of thirty-three rolls each. That same crate also included copies of the Chi-
+nese Ap, which are similarly found together with the Tibetan Ap in crates seventy-
+four, seventy-seven, seventy-nine, eighty, eighty-one, eighty-two, and eighty-seven 
+(see Appendix Two). There are only five Tibetan Ap rolls that come from “miscel-
+laneous bundles,” and their site numbers, I.1, XXXIII.003, XL.004, XLIII.002, and 
+CXLVII.2, indicate that they were bundled together with painted scrolls, as well as 
+other manuscripts. 
+ 
+46 La Vallée Poussin 1962, 101. 
+47 Takeuchi 2012, 207–208. See also La Vallée Poussin 1962, 293–295. 
+
+
+=== PDF 31 ===
+ 
+Cataloguing and preparatory work in Cambridge  57 
+  
+It is clear that La Vallée Poussin intended the 310 pressmark as a catch-all for Ti-
+betan Dunhuang Ap copies in roll format, since it includes not only the large bun-
+dles of rolls but also fragments of rolls that he identified as belonging to this sutra. 
+(He assigned pothī-format fragments of Ap different pressmarks, such as 308 and 
+309.) Therefore, it is surprising that three bundles of sutra rolls with the site num-
+bers 78.V, 78.VI, and 73.XVII, containing over one hundred Ap copies between them, 
+are not included in the 310 pressmark. The latter two are listed as pressmark 310 in 
+La Vallée Poussin’s concordance, compiled by A.F. Thompson in the late 50s and 
+early 60s, but 78.V is absent.48 The sutra copies from these three bundles are now 
+assigned pressmarks ITJ 1617 to ITJ 1716. There are also further copies or fragments 
+originating from outside of these bundles, including those numbered ITJ 1588 
+through ITJ 1615 (excepting ITJ 1601). It is clear that all of these were intended for 
+the 310 pressmark. A note on a curator’s sticker on the recto of the first roll from 
+the bundle 78.VI, pressmark ITJ 1617 (Fig. 17), for example, states, “78.VI No. 97 310.” 
+ 
+Fig. 17: Curator’s stickers on the front of ITJ 1617; photographed by Brandon Dotson, courtesy of the 
+British Library. 
+ 
+48 La Vallée Poussin 1962, 295–296. 
+
+
+=== PDF 32 ===
+58  Conserving Limitless Life 
+  
+Another small sticker on the same booklet’s spine adds, “78.V No. 310.” This indi-
+cates that the rolls with these two site numbers were intended for the 310 press-
+mark. An annotation in blue, on the same sticker, reads “2 [illegible] 17 + 24,” which 
+presumably means that seventeen of the fifty-one rolls came from one bundle, and 
+twenty-four came from another. The roll numbers reflect this, proceeding serially, 
+one to twenty-four and then one to seventeen. Only one of the manuscripts in this 
+volume bears a site number in pen, and two others have site numbers on red-and-
+white stickers and/or in pencil. Taken together with the blue annotation and the 
+roll numbers, these suggest that the first twenty-four rolls are from bundle 78.V and 
+the next seventeen rolls – plus the edited exemplar, which is the first booklet in the 
+stack – are from bundle 78.VI. We will return to these red-and-white stickers after 
+reviewing what seems to have been La Vallée Poussin’s parallel task, that of prepar-
+ing the Ap rolls for binding. 
+1.3.1 Roll numbers and panel numbers 
+La Vallée Poussin wrote numbers in pencil onto the rolls themselves in order to 
+facilitate the binding of these rolls into booklets. There are two such types of num-
+bers, both written in pencil onto the manuscripts themselves, that pertain to bind-
+ing. The first indicate how many sutra copies are in a longer roll with multiple Ap 
+copies, and the second assign numbers to the rolls in a given bundle and to the in-
+dividual panels of paper in each roll. The first type of numbering is given in pencil 
+on the verso of the first column of a multiple-sutra roll. In Fig. 13 above, adjacent to 
+one of the red site numbers, “Ch.73.XI.19,” there is a “3” written in pencil. This indi-
+cates that the roll included three sutra copies. 
+ 
+ 
+ 
+Figs 18a, 18b, and 18c: The roll numbers (denominators) and panel numbers (numerators) added in 
+pencil to the top right of each panel of paper of ITJ 310.295; photographed by Brandon Dotson, 
+courtesy of the British Library. 
+
+
+=== PDF 33 ===
+ 
+Cataloguing and preparatory work in Cambridge  59 
+  
+The second, more involved set of numbers appear on every panel of every roll, 
+which is to say every bifolio of every bound booklet. These numbers are present in 
+all of the booklets of Tibetan Ap, always on the recto, sometimes in the middle of a 
+panel in the upper margin, and other times at its top right. These come in the form 
+of a numerator, which gives the panel (aka “sheet” or “bifolio”) number within each 
+roll, and a denominator, which gives the roll number within each bundle. In the 
+case of the bundle of fifty-three single-sutra rolls where the site number 86.X was 
+written on each roll, or example, “1/49” was written in pencil in the upper right 
+corner of the first panel of the forty-ninth roll (Fig. 18a), ”2/49” on its second panel 
+(Fig. 18b), and “3/49” on its third (Fig. 18c).  
+Roll forty-eight, also a three-panel sutra copy, was similarly numbered “1/48,” 
+“2/48,” and “3/48” on its three respective panels; roll fifty, a four-panel copy, was 
+numbered “1/50,” “2/50,” “3/50,” and “4/50” on its four respective panels; and so on 
+for all of the fifty-three rolls in this bundle. This task was carried out for all of the 
+over one thousand Ap rolls in the British Library’s Stein Collection. By numbering 
+these rolls and panels in this way, La Vallée Poussin or another curator tasked with 
+this job ensured that their contents would appear in their proper order once they 
+were bound as booklets, and that their panels would not get shuffled once they were 
+separated into sheets/ bifolios. Conservators and binders following these numbers 
+would not bind, for example, the panels of roll forty-nine out of order, e.g. “1/49,” 
+“3/49,” “2/49,” when folding them, stacking them, and making them into a booklet. 
+Nor would they bind a panel from roll forty-nine into a booklet with panels marked 
+with denominators of “48” or “50.”  
+Among the approximately 1,500 booklets they bound, we noted only one such 
+mistake: in the booklet with the pressmark ITJ 1489, the second and third panels of 
+a four-panel roll were shuffled, so the booklet has these panels appear in the order 
+one, three, two, four. Similarly, we found very few errors of numbering at the level 
+of the roll (as opposed to the several contradictions between site numbers, roll num-
+bers, and booklet numbers, some of which we document below.) One such rare 
+mistake is found in ITJ 1588, a single Ap copy whose panels are numbered “1/1,” 2/2,” 
+and “2/3.” 
+In the case of multiple-sutra rolls, La Vallée Poussin followed the same method, 
+but there were more panels of paper to number. In the case of a three-sutra roll 
+with the site number 73.XI.19, for example, he wrote “3” on the verso of the first 
+panel, and numbered its nine panels “1/19” to “9/19” in the top margin of their rectos. 
+Later, when these were bound in London, the three sutra copies were bound into 
+three separate booklets with pressmarks ITJ 310.1149, 1150, and 1151.  
+It is clear from notes on the manuscripts themselves and from slips of paper 
+kept with them that La Vallée Poussin added these numbers in pencil to prepare 
+
+
+=== PDF 34 ===
+60  Conserving Limitless Life 
+  
+the rolls for binding. A cataloguer’s note kept together with the Ap copies in Vol. 114 
+states, “N.B. 73.XVII now in bundle in Stein order – check Poussin’s pagination if 
+copies are ever bound!” The note is written in blue crayon (or a very blunt blue 
+pencil), probably by F.W. Thomas. Indeed there are two sets of numbers on these 
+manuscripts: the site numbers in red pen, identified in the note as the “Stein order” 
+– which was likely written by C.M. Ridding – and the roll numbers in pencil (those 
+with numerator and denominator, as just described), identified in the note as La 
+Vallée Poussin’s. (We follow suit by referring to these as La Vallée Poussin’s num-
+bers for the sake of convenience, but do so with the assumption that this task may 
+have fallen to others to complete.) In this case, these two sets of numbers run in 
+inverse order. Thus the roll marked with the site number Ch.73.XVII.1 was also 
+marked in pencil as roll “28” on each of its panels, and the roll marked with the site 
+number Ch.73.XVII.2 was marked as roll “27.” The two sets of numbers proceeded 
+inversely in this fashion up to the roll marked with the site number Ch.73.XVII.28, 
+which was marked as roll “1” in pencil.49  
+There are no dates or initials added to the note in blue, but the circumstances 
+it describes are such that it probably belongs to F.W. Thomas, and to his early 
+review of La Vallée Poussin’s work prior to when the rolls were sent to the bindery. 
+Thomas would have presumably added this note after La Vallée Poussin had fin-
+ished his work in 1918, and before Thomas left the India Office Library in 1927.50 
+This shows that the rolls were marked for binding by this time, even though the 
+rolls were not bound until decades later. In this case Thomas was trying to make 
+sense of the results of the work he had commissioned to be produced in Cambridge. 
+This is not the only such example of confusion that stems from one person treating 
+the top roll as the first roll in the bundle and another person treating the top roll as 
+the last roll in the bundle. Returning to bundle 78.VII, which Stein featured in an 
+early plate as “Ch. 05,” we noted above that the top roll was marked “78.VII.1,” 
+evidently to indicate that the remaining fifty-nine rolls should be assigned serial 
+site numbers on this model. Nobody ever added these numbers, and the only other 
+roll in the bundle with a site number is the last, bottom roll, which is marked 
+“78.VII” (see Fig. 8). When La Vallée Poussin added roll numbers and panel numbers 
+to the rolls of this bundle in Cambridge, he numbered the rolls bottom to top, that 
+ 
+49 Only on the last roll, number twenty-nine, do the numbering systems agree, which suggests that 
+La Vallée Poussin might have mislaid the roll when he numbered the rolls’ panels in pencil. 
+50 Denison Ross (1871–1940), who was briefly employed to catalogue Stein manuscripts in 1914, 
+and who served as Keeper of the Stein Antiquities at the British Museum between 1914 and 1916, 
+was also known to use blue pencil, so it is possible that he added this note; see Wood 2012, 2. It may 
+also be the case that the British Museum and the India Office Library shared similar practices in 
+terms of having different curators and cataloguers use different pencils and inks. 
+
+
+=== PDF 35 ===
+ 
+Cataloguing and preparatory work in Cambridge  61 
+  
+is, backwards. They are now catalogued in this inverse order, with the pressmarks 
+ITJ 310.612 to 310.683. The roll marked 78.VII.1 is ITJ 310.683, and the first half of a 
+two-sutra roll that had been the last roll in the bundle is now ITJ 310.612. The sutra 
+copies from bundle 73.XVII, just described above, similarly follow the order of the 
+rolls penciled by La Vallée Poussin, rather than the order of site numbers inked by 
+C.M. Ridding.  
+The note’s statement, “if copies are ever bound” is echoed by the mention of 
+binding in three other cataloguer’s notes found in other volumes of Tibetan Ap 
+copies. One, in pencil on a note card in Vol. 94, states, “34 Rolls of M.S.S. Each roll in 
+separate lot. Binder. Aparamitayur.” The fifty-five booklets of this volume were 
+indeed made from thirty-four rolls of Ap copies. A similar note, which belongs in 
+Vol. 93 but found its way into Vol. 11, states, “86VII. 310. 31 Sheets. 30 rolls. (Each roll 
+done up separate.) Binder. Aparimitayuh.” There were indeed thirty rolls in bundle 
+86.VII, which are now fifty-four numbered booklets in Vol. 93. It is unclear what this 
+note meant by “31 sheets.” Another note card, now sitting atop the Ap copies stacked 
+in Vol. 113, reads, in blue ink or crayon, “Ch.73.XV + 79.XIII5 310.” (The “5” in majus-
+cule might refer to the number of copies from site number 79.XIII.) Below, in pencil, 
+“Aparimitayur” confirms that this does in fact pertain to Ap copies, and of course 
+“310” confirms the pressmark. On the reverse of card, in pencil, we read, “39 Rolls 
+each roll in a section (Binder).” These latter notes may belong to La Vallée Poussin. 
+It is unclear what exactly is meant by “each roll in separate lot” or “done up sepa-
+rate,” or “each roll in a section.” There is no record of these rolls ever having been 
+stored separately in over a thousand individual scroll boxes, as was done for the 
+nearly three hundred Chinese Ap rolls kept at the British Museum. Also, “done up 
+separate” cannot refer to a one-to-one relationship between rolls and booklets or 
+sutra copies, since, to use the example of Vol. 93, the eighty-seven Ap copies within 
+the thirty rolls in bundle 86.VII were bound into fifty-four booklets.  
+The last of these three notes is curious for the fact that it seems to bear witness 
+to a group of thirty-nine Ap rolls from bundles 73.XV and 79.XIII, of which we can 
+only account for four or five.51 The note suggests that a total of thirty-nine Ap rolls 
+were taken from these two bundles, then collated and assigned continuous roll and 
+panel numbers for the bindery with the intention that they be kept together in a 
+volume. However, La Vallée Poussin’s catalogue only lists four rolls for these site 
+numbers, and no site number in his listing has thirty-nine rolls. It seems that either 
+the information on this note card is hopelessly confused, or else that these rolls exist 
+within the collection but have been assigned different site numbers. This would be 
+ 
+51 It is possible that this concerns the site number 79.VIII: in the curator’s note an original “VIII” 
+in blue was corrected to “XIII” with pencil. 
+
+
+=== PDF 36 ===
+62  Conserving Limitless Life 
+  
+conceivable for a bundle of forty-one rolls where a curator only numbered the first 
+and last roll, and where these were separated from the unnumbered mass of rolls 
+between them. It lines up, albeit only roughly, with the forty-two rolls that ended 
+up bound as booklets in Vol. 105, where eighteen rolls seem to be from one bundle 
+(tentatively, 78.VI), and twenty-four from another (tentatively, 78.V). Another alter-
+native, that these rolls went missing between the time that they were documented 
+in Cambridge and London and the time that they were catalogued, is also possible. 
+1.3.2 Red-and-white curator’s stickers 
+The 310 pressmark was also assigned to these manuscripts through the application 
+of red-and-white stickers with designs of hearts at their four corners. These stickers 
+usually include both the pressmark 310, and the site number. They were typically 
+stuck onto the verso of the beginning of the first roll in a bundle and the verso of 
+the end of the last roll in a bundle. As such, these pressmarks and site numbers 
+were meant to apply to all the manuscripts kept in between them, in the same 
+manner as the most desultory method of adding site numbers to only the first and 
+last rolls of a bundle, as described above. Many such stickers include annotations. 
+Where these annotations give the number of rolls, this is usually in blue pencil or 
+crayon, probably added by F.W. Thomas. This attention to the number of rolls con-
+firms that the stickers were applied prior to binding, when the manuscripts were 
+still in roll format. On the other hand, some stickers are found on the Kraft paper 
+spines of the booklets (Fig. 19). However, in these cases the stickers have not been 
+applied directly to the spines, but were rather stuck to a different piece of paper 
+that was then peeled and/or cut out and glued to the spine, demonstrating that they 
+were, like the other stickers, initially stuck onto the manuscripts. Whatever their 
+precise chronology, the stickers and their annotations furnish important infor-
+mation about conservation and cataloguing alongside the site numbers, roll num-
+bers, panel numbers, and annotations written onto the manuscripts themselves. 
+On these stickers and in the notes on curators’ slips conserved alongside these 
+manuscripts, we often find one curator trying to make sense of another’s work. In 
+some cases one rectifies another’s errors, and in other cases they introduce new 
+errors. Only later curators like Ulrich Pagel and Sam van Schaik left dates and 
+initialed their notes, so we are left to contend with the different color inks and 
+different hands, as well as the contents of these notes themselves in order to piece 
+together the order of events. In the case of the fifty-five rolls from bundle 86.X, we 
+appear to see F.W. Thomas with his blunt blue pencil or crayon trying to make sense 
+of two sources of confusion. In the first place, there are two red-and-white stickers 
+
+
+=== PDF 37 ===
+ 
+Cataloguing and preparatory work in Cambridge  63 
+  
+on the verso of the first panel of ITJ 310.245 (Fig. 19), ostensibly the first roll in this 
+bundle, now kept as the first bound booklet in Vol. 95. One sticker is in the middle 
+of the page, and the other is glued to the spine of the booklet. There is also a red-
+and-white curator’s sticker in the middle of the verso of the first panel of what was 
+ostensibly the third roll in this bundle, ITJ 310.247 (Fig. 20). About halfway through 
+ITJ 310.247, on its verso, there is also a rather larger site number in black pen, also 
+reading 86.X. In the top right corner of each figure below, one can also see the site 
+number, which is 86.X in both cases. 
+ 
+ 
+Figs 19 and 20: Curator’s red-and-white stickers on ITJ 310.245 and ITJ 310.247 (the site number 
+“86.X” is written in the top right corner of each page); photographed by Lewis Doney, courtesy of the 
+British Library. 
+Examining La Vallée Poussin’s roll numbers in pencil in the top margins of the su-
+tras’ rectos, the first two rolls are numbered one and two, but then the numbering 
+begins again, at the third roll, which is numbered one. It then proceeds in order to 
+fifty-three, but skips forty and forty-one and repeats forty-two and forty-three. The 
+roll numbering indicates that La Vallée Poussin treated the first two rolls as belong-
+ing to a separate bundle. The differing stickers on the versos that are now in the mid-
+dle of the first page of each booklet suggest how this may have happened. Namely, 
+someone – perhaps even La Vallée Poussin – misread the site number 86.X as 80.X, 
+and errantly labeled and applied the sticker onto the roll that is now ITJ 310.245. As 
+
+
+=== PDF 38 ===
+64  Conserving Limitless Life 
+  
+a result, it is likely that this roll and the next one, ITJ 310.246, were initially kept 
+separately from the other fifty-three rolls, and that the “first” of these latter rolls, 
+now ITJ 310.247, was therefore given the correctly labeled sticker, “86.X.” Thomas 
+or someone working under him then discovered this error, corrected “80.X” to 
+“86.X,” and reunited the first two booklets with the fifty-three others from this 
+bundle. This may have happened as part of the preparations for binding. The stick-
+er now on the spine of the booklet ITJ 310.245 (Fig. 21) preserves what is probably 
+Thomas’s attempt to reckon with the situation.  
+ 
+Fig. 21: Curator’s red-and-white sticker, with blue annotations, on the spine of ITJ 310.245; photo-
+graphed by Lewis Doney, courtesy of the British Library. 
+The blue pencil appears to amend 86.X to “86.X.a” and above this it adds “86 x 2.” 
+Between the site number and the pressmark “No. 310,” Thomas adds “54” to indicate 
+the number of rolls, where the four has been retraced over a three for “53.” Thomas 
+then added, but subsequently struck through, “but wrongly numbered two 2s.” Pre-
+sumably he struck this through because there were also two rolls that were num-
+bered “one” in addition to two rolls that were numbered “two.” However, this makes 
+fifty-five, not fifty-four rolls, and he did not strike through “54.” Also, the inter-
+vention of creating two site numbers – 86.X and 86.X.a – in response to La Vallée 
+Poussin’s apparent mistake, was ignored, and does not appear in the catalogue that 
+Thomas had a role in publishing.  
+1.4 Binding and cataloguing in London 
+After La Vallée Poussin’s cataloguing activity during the First World War, the Stein 
+Collection of Tibetan Dunhuang manuscripts was moved to the India Office Library 
+
+
+=== PDF 39 ===
+ 
+Binding and cataloguing in London  65 
+  
+at Cannon Row in London. The Tibetan Ap manuscripts were apparently still con-
+served as bundles, probably wrapped in papers such as that pictured in Figs 16a 
+and 16b, when they were transported from Cambridge University Library (and 
+occasional visits to Ridding’s and La Vallée Poussin’s homes) to the India Office 
+Library in London.  
+During the 1920s the India Office Library had hundreds of the Stein manu-
+scripts bound into Western-style, cloth- and leather-bound books. Loose leaves and 
+fragments were gathered and bound, and these bound books’ resulting “pages” 
+were assigned serial Arabic numerals, either in pencil or typewritten. These books 
+were called “volumes,” and were numbered one to seventy-three. La Vallée Poussin 
+– or Thomas and A.F. Thompson, the editors of his posthumous catalogue – refers 
+to these volumes, in fact, in the survey of site numbers included in the 310 press-
+mark, which concludes with “unnumbered fragments bound in vols. 53 and 55.” One 
+such fragment can be seen below (Fig. 22), with its typewritten pagination and dam-
+age along the left margin attesting to its prior binding. 
+ 
+Fig. 22: Pagination and possible damage from binding (upper right) in leather-bound “volumes”;  
+ITJ 310.1204; image captured by the authors from http://idp.bl.uk/, courtesy of the British Library. 
+Whereas volumes one to seventy-three were bound in large cloth- and leather-
+bound books, other manuscripts were not bound in such books. This is clear from 
+
+
+=== PDF 40 ===
+66  Conserving Limitless Life 
+  
+the concordance at the end of La Vallée Poussin’s catalogue, which once again may 
+have been F.W. Thomas’s work and that of A.F. Thompson, who prepared the cata-
+logue for posthumous publication. The concordance gives the site numbers, press-
+marks, and also “locations” of the manuscripts. Its only sentence of preliminary ex-
+planation states, “[n]umbers in location column refer to bound volumes, B indi-
+cates MSS. separately boxed.”52 Pressmark 310, notably, has “B” as its location. An 
+undated typewritten inventory compiled by A.F. Thompson, who worked as assis-
+tant keeper at the India Office Library in the 1950s and 1960s, provides some further 
+details. Headed “310: Contents of boxes 1–20,” it lists the site numbers kept in each 
+of twenty boxes.53 Next to the site number, in parentheses, it gives the number of 
+rolls in each site number, which in many cases corresponds to a bundle. These cor-
+respond closely to those in La Vallée Poussin’s catalogue, but there are a few cases 
+where Thompson’s inventory provides a number of rolls that was not provided in 
+La Vallée Poussin’s catalogue. This demonstrates that the Ap copies were still in roll 
+format when Thompson made her inventory in the late 50s or early 60s.  
+We have been unable to locate any conservation records or work orders rele-
+vant to the rolls’ trips to the bindery. It is certain that the Ap copies were in booklet 
+format when Sam van Schaik began to catalogue them, as early as 1999. Given the 
+modern conservationist’s ethic of minimal intervention, our initial assumption was 
+that these rolls were bound as booklets several decades before this. The use of the 
+butterfly-bound booklet, a Chinese format, is reminiscent of some of the practices 
+current during an active period of conservation at the British Museum and the 
+India Office Library from 1975 to 1982, when conservators were at pains to use Asian 
+methods.54 However, the information available to us points to a more recent date. 
+Tsuguhito Takeuchi, who consulted thousands of Tibetan manuscripts at the India 
+Office Library and at the British Library from 1988 to 1998 for his catalogue, Old 
+Tibetan Manuscripts from East Turkestan in the Stein Collection of the British Li-
+brary, states that the Ap copies were still in roll format at this time: “[t]here are also 
+a considerable number of uncatalogued rolls, which are mostly Aparimitāyurnāma 
+sutras.”55 He goes on to state that among the Tibetan texts of the Stein collection from 
+Dunhuang, “there exist bundles of wrapped scrolls...mostly Aparimitāyur-nāma 
+sutras.”56 Ulrich Pagel also recalls handling these sutra copies in roll format, and he 
+made annotations on them as late as April 1997, prior to his departure from the 
+ 
+52 La Vallée Poussin 1962, 289. 
+53 We are grateful to Sam van Schaik for sharing this inventory with us. 
+54 Barnard 1996, 17. 
+55 Takeuchi 1998, vol. 2, xvi. 
+56 Takeuchi 1998, vol. 2, xx and xx, n. 33. 
+
+
+=== PDF 41 ===
+ 
+Binding and cataloguing in London  67 
+  
+British Library in June of the same year.57 The clear implication is that the Ap copies 
+were stored in bundles even after they were numbered in Cambridge and London, 
+and that they largely remained in boxes (“location B” in La Vallée Poussin’s 
+concordance), probably for several decades, before being bound. It appears that 
+binding took place between mid-1997 and 1999, though an earlier date cannot be 
+entirely ruled out.  
+During World War II, most of the manuscripts of the Stein Collection were 
+removed to Yorkshire in order to protect them. After the war, as a result of several 
+years of work on the part of F.W. Thomas (who died in 1956) and the Assistant 
+Keeper, A.F. Thompson, La Vallée Poussin’s catalogue was published in 1962. In 
+1967, the India Office Library moved to Orbit House, an air-conditioned, glass-
+walled building at 197 Blackfriars Road in London that included a 4,000 sq. ft. con-
+servation department comprising a purpose-built repair room and bindery.58 The 
+India Office Library’s Stein Collection eventually found its way into the British Li-
+brary, which was founded in 1973. This involved some back and forth and another 
+period of intense conservation and cataloguing activity. The British Library housed 
+many Stein manuscripts in its “Oriental Collection” (OC), which was moved into Or-
+bit House in 1990 and 1991 to merge with the India Office Library’s Stein Collection 
+in order to form the “Oriental and India Office Collections” (OIOC).59 This merged 
+collection moved to the British Library in 1998 and in around 2005 became part of 
+the “Asia, Pacific and Africa Collections.”60  
+Apart from a few rolls being photographed for microfilm, the bundles of Ap 
+rolls seem to have gone largely undisturbed up until the 1990s, in preparation for 
+their being transferred from the India Office Library to the British Library. From 
+the information in La Vallée Poussin’s and Takeuchi’s catalogues, from A.F. Thomp-
+son’s inventory of boxes, and from the statements from Pagel and van Schaik men-
+tioned above, it appears likely that it was amidst all of this activity, probably in 
+1998, that the Ap rolls were bound as booklets. 
+To transform these rolls of various lengths into booklets of uniform size, con-
+servators separated a roll’s panels of paper from one another, folded the resulting 
+loose leaves in half as bifolios, stacked three to six of these upon one another, and 
+joined them at the spine with Kraft paper to create a 31.5 ✕ 23 cm booklet. The Dun-
+huang papers were attached to the Kraft paper spine with a conservator’s adhesive 
+such as wheat starch paste. Conservators also used Kraft paper to repair tears and 
+ 
+57 Personal communication, 10 Feb., 2023. 
+58 Lancaster 1966, 173; Lancaster 1969, 7–8. 
+59 Takeuchi 1998, xix. 
+60 British Library 2006, 29. 
+
+
+=== PDF 42 ===
+68  Conserving Limitless Life 
+  
+damage and to bulk out the margins of those leaves that became uneven when fold-
+ed or that measured less than 23 cm wide – thereby making each page in the booklet 
+lie flush when closed. The rationale behind this intervention – besides a cultural 
+bias for the codex format – was presumably that these booklets were easier to store 
+and easier for readers to consult than a rolled-up mass of rolls in dozens of bundles 
+or than over a thousand separately conserved rolls in their individual scroll boxes. 
+Curators left one roll, ITJ 310.1, intact, presumably to bear witness to the original 
+state of these documents. (Three other rolls, ITJ 310.1208, 1209, and 1210, were 
+unintentionally preserved due to their having been apparently misplaced and then 
+rediscovered, first in the 1920s and then in the early 2000s.) 
+Binding these rolls into booklets, the curators created an object with a front 
+cover and back cover, and with pages and a spine, thereby complicating how schol-
+ars and cataloguers describe these objects in light of their previous format as rolls. 
+In addition, the curators’ and binders’ creation of multiple booklets out of individ-
+ual, longer rolls, posed serious problems for cataloguers and how they approached 
+the relationship between “item” and “text,” or “item” and “manuscript.” The photo-
+graphic documentation of a single booklet, ITJ 310.295 (Fig. 23), is helpful for fully 
+comprehending the transformation of these rolls into booklets.  
+ 
+ 
+Figs 23a and 23b: ITJ 310.295, page 1 (cover, originally the verso of the first half of the first panel of 
+the roll, behind text column a) and pages 2–3 (originally the recto of the first panel of the roll, contain-
+ing text columns a and b). Photographed by Brandon Dotson, courtesy of the British Library. 
+ 
+
+
+=== PDF 43 ===
+ 
+Binding and cataloguing in London  69 
+  
+ 
+ 
+Figs 23c and 23d: ITJ 310.295, pages 4–5 (originally the verso of the second half of the first panel of 
+the roll, behind text column b, and the verso of the first half of the second panel of the roll, behind 
+text column c) and pages 6–7 (originally the recto of the second panel of the roll, containing text 
+columns c and d). Photographed by Brandon Dotson, courtesy of the British Library. 
+ 
+ 
+Figs 23e and 23f: 23f: ITJ 310.295, pages 8–9 (originally the verso of the second half of the second 
+panel of the roll, behind text column d, and the verso of the first half of the third panel of the roll, 
+behind text column e) and pages 10–11 (originally the recto of the third and final panel of the roll, 
+containing text columns e and f); note the colophon with scribes and editors. Photographed by 
+Brandon Dotson, courtesy of the British Library. 
+ 
+Fig. 23g: ITJ 310.295, page 12 (originally the verso of the second half of the third panel of the roll, 
+behind text column f). Note the Kraft paper spine. Photographed by Brandon Dotson, courtesy of the 
+British Library. 
+
+
+=== PDF 44 ===
+70  Conserving Limitless Life 
+  
+Despite the changed format, it is possible to clearly see where the conservators sep-
+arated the panels of the rolls (Fig. 24).  
+ 
+Fig. 24: ITJ 310.296; photographed by Brandon Dotson, courtesy of the British Library. 
+ 
+Fig. 25: What appears to be newsprint sucked onto the margin of ITJ 310.266, probably occurring when 
+conservators unglued its panels; photographed by Brandon Dotson, courtesy of the British Library. 
+
+
+=== PDF 45 ===
+ 
+Binding and cataloguing in London  71 
+  
+When the rolls were separated, the conservators did not cut the panels, but rather 
+undid the original glue that had kept them together as rolls for more than a millen-
+nium. Whether achieved by humidification or by other means, the process is in-
+advertently recorded on the edges of some of the manuscripts. There, newsprint, or 
+some form of printed text, was apparently sucked up by the ninth-century adhesive 
+after the panels were decoupled (Fig. 25).61  
+Now in booklet format, the Ap copies could be more easily stored in red quad-
+rangular boxes called “volumes.” These same types of boxes largely replaced the 
+cloth- and leather-bound “volumes” one to seventy-three, whose leaves were un-
+bound and stacked in the replacement boxes. The boxes retained the earlier desig-
+nation as “volumes,” and new volumes (that is, new boxes), were created to house 
+the manuscripts that hadn’t been bound in the cloth- and leather books, including 
+the booklets of Ap copies.62 These go up to 122, but seventy-five to seventy-nine are 
+not volumes but booklets, and 123 to 154 are scroll boxes. Looking at the volume 
+numbers of the boxes in which the Ap copies are now kept, their numbers are al-
+most all higher than seventy-three, and they go mostly from eighty-nine to 119. Ad-
+ditionally, in the case of Stein’s regular “library bundles,” each “volume” generally 
+corresponds to what had been a single bundle of rolls. Thus Vol. 93 in Figs 26a and 
+26b below is in a sense the quadrangular version of what had been bundle 86.VII. 
+Ap copies are now stacked, up to seventy-nine booklets deep, within such boxes.  
+Above, when introducing the numerators and denominators that La Vallée 
+Poussin wrote onto every panel, we described the separation of the three-sutra 
+roll with site number “73.XI.19” into three booklets of one sutra each, with press-
+marks ITJ 310.1149, 1150, and 1151. This instance of binding followed a logic whereby 
+each pressmark constituted one copy of the sutra. However, this logic of making 
+one booklet equal one sutra, and thereby equating “item” with “text” such that 
+three sutra copies equal three pressmarks, is an anomaly, since this is the only 
+bundle for which the binders separated and bound multiple-sutra rolls with any 
+attention to their textual contents. More often, binders and conservators split sutra 
+copies across booklets. Each booklet was then viewed as an item and catalogued 
+with its own pressmark. As a result, sutra copies – not just a “manuscript” or “item” 
+in the sense of a roll, but also a “text” in the sense of a copy of the sutra – were split 
+across pressmarks. The binding of the roll with the site number 73.IX.8, for example, 
+like 73.XI.19, contained three sutra copies consisting of three panels of paper each. 
+However, in this case, the binder divided these three sutra copies into two booklets. 
+The first booklet, ITJ 310.1052, comprises four leaves/ sixteen pages, that is, all of the  
+ 
+61 Examples may be seen in the margins of ITJ 310.266, ITJ 310.279, and ITJ 310.717. 
+62 Dalton and van Schaik 2006, xix. 
+
+
+=== PDF 46 ===
+72  Conserving Limitless Life 
+  
+ 
+Figs 26a and 26b: Vol. 93, which contains fifty-four booklets bearing the pressmarks ITJ 310.136 to ITJ 
+310.189; photographed by Brandon Dotson, courtesy of the British Library. 
+first sutra copy and the first third of the second copy (“1/8” to “4/8” in La Vallée 
+Poussin’s roll-and-panel numbering). The second booklet, ITJ 310.1053, comprises 
+five leaves/ twenty pages, that is, the last two-thirds of the second sutra copy and 
+the whole of the third copy (“5/8” to “9/8” in La Vallée Poussin’s roll-and-panel 
+numbering). These two booklets were assigned the pressmarks ITJ 310.1052 and ITJ 
+310.1053. This, the most common method of binding three-sutra rolls, split a single 
+roll into two booklets and divided three sutra copies between them. A standard cat-
+aloguing practice of providing incipits and explicits of each pressmark would there-
+fore do nothing but sow confusion by implying that many of these pressmarks con-
+tained incomplete copies of the sutra. Another fairly common practice was to in-
+clude two sutra copies in a single, thicker booklet of six leaves/ twenty-four pages.  
+If the anomalous binding of the rolls with site number 73.XI.19 (Vol. 119) repre-
+sents a first attempt at binding, and one that respected the integrity of the sutra 
+
+
+=== PDF 47 ===
+ 
+Binding and cataloguing in London  73 
+  
+copies, then one can speculate that efficiency came to be increasingly prized in sub-
+sequent trips to the bindery, meaning that sutra copies became split across press-
+marks as just described, or else were bound two to a booklet. La Vallée Poussin’s 
+numbering was agnostic with respect to how the binders divided longer rolls be-
+tween booklets; these were choices taken decades later at the British Library and/or 
+the India Office Library in London.  
+1.4.1 Booklet numbers and cataloguing confusion 
+The binding of these rolls into booklets instigated the addition of yet another set of 
+numbers to these manuscripts. These are also in pencil, but whereas La Vallée Pous-
+sin’s penciled numbers describe the manuscripts in their state as rolls, the newer 
+marks in pencil number the manuscripts after they were bound as booklets. This is 
+most obvious when these numbers appear on the Kraft paper spines of the booklets. 
+These booklet numbers are sometimes also written on the manuscripts’ panels, usu-
+ally in the upper corner of the first column’s verso (first page/ cover of a booklet) 
+or the corner of the last column’s verso – (last page/ back cover of a booklet).  
+The booklet numbers are now essential for navigating these sutra copies, since 
+they effectively stand in for “pressmarks,” e.g. “ITJ 310.190.” The “pressmarks” are 
+not written on each copy. Rather, one uses the serial booklet numbers within the 
+booklets stacked in each volume. To consult one of these sutra copies one must 
+know the volume number in which a copy is kept. One knows, for example, that the 
+first booklet in Vol. 94 is pressmark ITJ 310.190, that the second booklet is ITJ 310.191, 
+and so on. In this sense, “ITJ 310” or “ITJ 310.190” is not a pressmark or a shelfmark 
+in the usual sense, since it does not indicate where one can find a manuscript in a 
+cabinet or on a shelf. It is rather a cataloguer’s number, and it will not easily permit 
+one to locate a manuscript without a concordance that gives the volume number 
+and item number within a volume. The relevant volume numbers, together with site 
+numbers, and “pressmarks,” are provided in our concordance in Appendix Two. 
+As with cases of non-correspondence between site numbers and roll numbers 
+described above, booklet numbers also presented an opportunity to misnumber the 
+manuscripts back to front. Such is the case for the fifty-five booklets in Vol. 94, 
+housing what was once the thirty-five rolls of the mixed bundle 86.IX. These book-
+lets are numbered one to fifty-five according to the numbers written in pencil on 
+their front spines, but are also numbered inversely fifty-five to one based on the 
+numbers on the upper right of the back of each booklet. The numbers on the front 
+spines follow the same ascending order as La Vallée Poussin’s roll numbers, where-
+as those on the versos follow an inverse order. The booklet numbers on the front 
+
+
+=== PDF 48 ===
+74  Conserving Limitless Life 
+  
+spines are underlined, and these were added by Sam van Schaik when he assigned 
+pressmarks to these booklets in 2002.63 The inverse booklet numbers on the back 
+sides of these booklets were probably added earlier, presumably by someone who 
+numbered the booklets when they were stacked upside-down, and who may have 
+been ignorant of the direction of writing in Tibetan.  
+In other cases where we find inverse sets of booklet numbers in a single 
+volume, neither set can claim to follow the earlier roll numbers. The fifty-one book-
+lets in Vol. 111 (bundle 78.XII), for example, now follow the order numbered one to 
+fifty-one on the spines of their covers, and not the inverse order of fifty-one to one 
+penciled on their back covers, in the opposite corners. However, in this case the 
+booklet numbers run roughshod over La Vallée Poussin’s roll numbers. The bundle 
+consisted of twenty-nine mostly multiple-sutra rolls. Once bound, the booklets were 
+evidently shuffled out of order, such that if one looks at their roll numbers, these 
+latter proceed 1, 2, 3, 4, 6, 5, 7, 8, 13, 12, 11, 10, 9, 14, 15, 16, etc., to 29. The booklet 
+numbers, meanwhile, proceed in an orderly fashion, numbering one to fifty-one, 
+utterly masking the disorder they have created by so doing. These booklets were 
+eventually assigned pressmarks based on these errant booklet numbers, a mistake 
+that probably cannot be undone. 
+There are further cases where one set of penciled booklet numbers is struck 
+through and replaced with another set, but where these do not follow an inverse 
+order. The booklets in Vol. 105 (pressmarks ITJ 1617 to 1665), for instance, have two 
+sets of numbers on the front of each booklet, with one set on the spine and the other 
+set, whose numbers are struck through, in the upper right corner. These booklets 
+were assigned pressmarks based on the set of booklet numbers written on the 
+spine, which makes the struck-through booklet numbers look like a disordered 
+jumble. Examining the struck-through booklet numbers, they are in fact a mess. 
+There are two sets of twelves, thirteens, and fourteens. Worse, the first booklet, 
+made from a three-sutra roll (now ITJ 1647), is one of the two booklet fourteens, and 
+the second booklet from the same roll (now ITJ 1648) is booklet twenty. Whoever 
+wrote the first set of booklet numbers, now struck through, made very obvious 
+mistakes that the second set of booklet numbers sought to rectify. Alternatively, it 
+may be that two stacks of booklets were somehow shuffled together. Site numbers 
+78.V and 78.VI are written on only three rolls, so the site numbers can only do so 
+much here to remedy the confusion. 
+ 
+63 Personal communication, Sam van Schaik, 11 Sept., 2014. Unfortunately, there is no log book 
+or similar document that serves as a record of conservation at the India Office Library and at the 
+British Library. 
+
+
+=== PDF 49 ===
+ 
+Binding and cataloguing in London  75 
+  
+In other volumes, rolls have either disappeared or been wrongly inserted. In 
+Vol. 96, for example, a red-and-white sticker mounted on brown paper on the book-
+let assigned the pressmark ITJ 310.300 gives the site number “86.XIII.4” and press-
+mark “310.” The writing on this sticker is in black ink as usual, but blue pencil adds 
+“24,” referring to the number of rolls. Only this first roll in the bundle was assigned 
+a site number. The roll numbering begins at four, proceeding through number 
+twenty-four. Rolls one, two, and three appear to correspond to three rolls that es-
+caped binding, and which were only assigned pressmarks by Sam van Schaik when 
+he happened upon them in the early 2000s and gave them the last three sub-
+pressmarks in the 310 series: ITJ 310.1208, 1209, and 1210. That they belonged to this 
+bundle is suggested by the fact that they are unedited copies of the A1 version of the 
+sutra (on which, see below), by the scribes Be Hing tse, Yang Kog cung, and Khang 
+Btsan bzher – the first two of whom scribed copies in Vol. 96/ bundle 86.XIII, and by 
+the absence of three other likely candidates among the fifty rolls we have cata-
+logued as “other copies and fragments.” If we are correct in assuming that these are 
+indeed the first three rolls from bundle 86.XIII, then these three copies raise some 
+further questions. They have no roll or panel numbers, and yet they must have been 
+present in this bundle for La Vallée Poussin to begin numbering the next roll in the 
+bundle “4,” rather than “1.”64 Moreover, La Vallée Poussin stated that this bundle 
+contained twenty-five rolls. This would not be the first time that he was off by one 
+or two, and F.W. Thomas’s blue pencil rectifies this to “24.” Without its first three 
+rolls, this number should be “21.” ITJ 310.1208 and 1209 also have curious diagonal 
+cuts that removed large portions the lower right corners of each roll. Both also 
+include ink stamps from the India Office Library dated 10 October 1929 (Fig. 27). ITJ 
+310.1210 has no stamp and its lower right corner was not cut away. When Sam van 
+Schaik happened upon these rolls in the early 2000s, he added their new press-
+marks in pencil adjacent to the stamps, and in the same area on ITJ 310.1210. 
+Of these three rolls, only ITJ 310.1208 has two site numbers, located in two 
+places on the verso. One is in black ink, on the top right corner of the end of the 
+verso, and reads “Chien. 0598”; the other is at the other end of the roll’s verso, in the 
+opposite corner, in pencil and upside-down, and it appears to read “Chien. 0698.” 
+The black site number may have been added by Stein himself. “Chien.” as opposed 
+to “Ch.” was used as a prefix for the 600 or so items that Stein brought back from 
+his subsequent expedition to Dunhuang in 1914.65 If they are indeed from Stein’s 
+1914 expedition, then Chien. 0598 is one of the highest numbers in this sequence. It 
+ 
+64 Given that these numbers were written in pencil, it is possible that they were erased. 
+65 Stein wrote that he brought back 570 rolls, but he may have also included in this site number 
+an additional forty-six or so items given to him; Terzi and Whitfield 2024, 65. 
+
+
+=== PDF 50 ===
+76  Conserving Limitless Life 
+  
+is unclear that these site numbers even went as high as Chien. 0698, which renders 
+the latter number suspect.  
+ 
+Fig. 27: Stamp and pressmark on the verso of ITJ 310.1208; image captured by the authors from 
+http://idp.bl.uk/, courtesy of the British Library. 
+The absence of stickers, pressmarks, and roll numbers, along with these cuts and 
+stamps, and the dueling site numbers purporting to be from Stein’s 1914 expedition 
+on one of the manuscripts but not the others, are all rather mysterious. The date in 
+the 1929 stamp might suggest that the three rolls were “rediscovered” or returned 
+to the library at this date after having been mislaid or misappropriated. This could 
+resolve how they came to be silently accounted for, yet skipped, in La Vallée 
+Poussin’s and Thomas’s roll numbering, assuming that these are indeed the first 
+three rolls from bundle 86.XIII. Perhaps it was unclear how to reintegrate them 
+with the other manuscripts, and someone assumed that at least one of the three 
+rolls came from the 1914 expedition and therefore assigned it what may have been 
+the highest available number in that series at that time, i.e. in 1929 after Thomas 
+had left the India Office Library. This does not resolve exactly how this may have 
+happened, how they came to be cut, and where they were kept until Sam van Schaik 
+happened upon them in the 2000s and assigned them pressmarks. That they evaded 
+binding suggests that they were mislaid at least twice. 
+1.4.2 Cataloguing work to the present 
+A cataloguing effort from the late 1990s to the early 2000s produced the current 
+catalogue, available electronically through the British Library and the International 
+
+
+=== PDF 51 ===
+ 
+Binding and cataloguing in London  77 
+  
+Dunhuang Programme.66 In preparation for this, Ulrich Pagel, the head of the Tibet-
+an collection until summer 1997, went through many of the manuscripts. He left 
+records of two of his interventions concerning Ap copies. One is found as an annota-
+tion to a red-and-white curator’s sticker on the spine of the first booklet in Vol. 118, 
+pressmark ITJ 310.1083 (Fig. 28). As usual, the sticker gives the site number (in this 
+case Ch.73.XVI, with a fainter “1-64” added in pencil) and the pressmark (310). There 
+is also a blue annotation, probably by Thomas, giving the number of rolls as “64.” 
+Here a large X has been made over the whole sticker in pencil, and “U.P. 30.4.97” 
+has been added in pencil by Ulrich Pagel, claiming and dating his rejection of this 
+sticker’s information.67 There is a second red-and-white sticker in the middle of the 
+front cover, which gives the site number “Ch.73.X.1-38.” This has been left to stand, 
+and Vol. 118’s thirty-eight booklets of single-sutra copies all bear serial site numbers 
+73.X.1 to 73.X.38. 
+ 
+Fig. 28: Red-and-white curator’s sticker with Ulrich Pagel’s dated annotations, ITJ 310.1083; 
+photographed by Brandon Dotson, courtesy of the British Library. 
+The inverse, or other half of this intervention is found in an almost identical note 
+on the red-and-white curator’s sticker on the spine of the second booklet in Vol. 113, 
+pressmark ITJ 310.971. Here a large X has been made over the whole sticker in 
+ 
+66 <http://idp.bl.uk/> (accessed 13 Sept. 2023). 
+67 As noted above, Pagel recalls these manuscripts being in roll format when he worked with them. 
+If this is accurate, then he would have annotated this sticker prior to binding, when it was stuck to 
+the roll itself. After binding, this, like many other stickers, would have been relocated to the book-
+let’s spine. 
+
+
+=== PDF 52 ===
+78  Conserving Limitless Life 
+  
+pencil, the site number “ch 73.X.1-38” has been crossed out, and another site number 
+“73.XVI.2” has been left to stand. As before, Pagel helpfully dated his intervention 
+“30/4/97,” and wrote his initials, “U.P.” Like the rolls in bundle 73.X, the rolls in this 
+bundle also bear serial site numbers from 73.XVI.1 to 73.XVI.64, so it is not immedi-
+ately clear how the rolls or booklets of the one bundle or volume could be mistaken 
+for those of the other and so mislabeled. Pagel, as noted above, recalls these manu-
+scripts still being in roll format when he worked with them. To add to this simple 
+confusion of swapping the labels of two bundles/ volumes, there is a notecard on 
+the top of Vol. 113 that states, “Ch.73.XV + 79.XIII 5.” This note, already discussed 
+above, may be irrelevant to this volume’s contents, given that we have found note 
+cards in one volume that in fact describe the contents of another volume.  
+From 1999 to 2002, Sam van Schaik was faced with the task of sorting through 
+this unruly mass of booklets and fragments, and assigning pressmarks and sub-
+pressmarks to each. His most common intervention seems to have been to renum-
+ber the booklets when they had been erroneously numbered back to front, perhaps 
+by binders or staff who were ignorant of the direction of Tibetan writing. He was 
+also faced with more difficult problems, such as that posed by Vol. 114/ bundle 73.XVII. 
+As described above, La Vallée Poussin numbered this bundle’s rolls backwards in 
+relation to the serial site numbers, which proceed Ch.73.XVII.1 to Ch.73.XVII.29. A 
+note, probably from F.W. Thomas, rests atop the booklets in this volume, and states, 
+“N.B. 73.XVII now in bundle in Stein order – check Poussin’s pagination if copies are 
+ever bound!” In this case van Schaik chose to follow La Vallée Poussin, and added 
+a note alongside F.W. Thomas’s: “changed from Stein’s order to Poussin’s order 
+(SvS, 7/2/02).”  
+Cataloguers, curators, and binders made an effort to follow the order of La 
+Vallée Poussin’s roll numbers, as we have seen in the note about the inverse num-
+bers in Vol. 114. For his part, La Vallée Poussin mostly followed the site numbers, 
+with occasional lapses, as documented above. However, there is no rule that a cata-
+loguer’s pressmarks must take account of the manuscripts’ site numbers and the 
+sequences they record. It is certainly true, for example, that Giles’s numbering of 
+the Chinese Ap copies largely ignored the sequencing of the site numbers. To take 
+three site numbers from the same bundle as an example, Giles numbered as 4890, 
+4891, and 4892 the multiple-sutra-rolls of Ap copies with the site numbers 79.IX.13, 
+79.IX.20, and 79.IX.4, respectively. These were later assigned pressmarks S.1836, 
+S.1837, and S.1838. So, while it may be ideal that the pressmarks should reflect La 
+Vallée Poussin’s roll numbers, which in turn should reflect the site numbers where 
+they are given serially, this is probably an unrealistic standard. In any case it was 
+not achieved. What matters most is that the manuscripts have been kept together 
+
+
+=== PDF 53 ===
+ 
+Binding and cataloguing in London  79 
+  
+and catalogued in a way that preserves the integrity of the bundles, and the rough 
+equation of volume with bundle has achieved this. 
+As mentioned already, La Vallée Poussin intended that the roll-format Tibetan 
+Dunhuang Ap copies should all be given the 310 pressmark. Thus excluded were at 
+least two Tibetan Ap copies from Dunhuang, ITJ 308 (Fig. 33) and ITJ 478, which are 
+folia from the same manuscript, and ITJ 309. These are in pothī format and there-
+fore were almost certainly not commissioned as part of the sutra-copying project 
+that produced the thousands of roll-format Ap copies. Sam van Schaik catalogued 
+1,210 sub-pressmarks within the 310 pressmark, from ITJ 310.1 to ITJ 310.1210. By the 
+logic that this pressmark was reserved for Tibetan Ap copies in roll format, two 
+pressmarks in this sequence are miscatalogued: ITJ 310.59 is the Heart Sutra, and 
+ITJ 310.1207 is an invocation to Amitābha.68 More numerous are Ap copies that were 
+intended for this pressmark but to which van Schaik assigned separate pressmarks. 
+These amount to over one hundred Ap copies, including pressmarks ITJ 930, 1234, 
+1235, 1488, 1489, 1497, 1499–1501, 1569, 1588–1600, 1602–1615, and 1617–1716. The last, 
+largest group comprises two volumes (105 and 114) that include three bundles of Ap 
+(78.V, 78.VI, and 73.XVII), and which bear red-and-white stickers with the 310 
+pressmark, as described above. For whatever reason – perhaps because La Vallée 
+Poussin did not list them in his catalogue entry – van Schaik did not assign the ITJ 
+310 pressmark to these Ap copies. 
+In cataloguing the Tibetan Dunhuang Ap copies, van Schaik faced a difficulty 
+that cataloguers of the Chinese Ap copies did not. We noted above that Giles made 
+little effort to follow the sequencing of the site numbers when he assigned numbers/ 
+pressmarks to items in his catalogue. However, Giles and subsequent cataloguers 
+often had the advantage of cataloguing each item with its own number, whether 
+that item were a single-sutra roll or a roll of multiple Ap copies, and where that 
+item’s format had not been transformed by curators’ interventions. Due to the 
+binding of the Tibetan Ap rolls, however, the equation of “item” – in the sense of 
+one roll – with pressmark was less straightforward. We noted above that La Vallée 
+Poussin’s numbering of the rolls was agnostic with respect to how the binders 
+divided longer rolls between booklets. Similarly, the creation of these new items 
+(booklets) from old items (rolls) did not mandate that they be catalogued in such a 
+way as to obscure the relationship between one or more booklets that had previ-
+ously been joined in a single roll. This is precisely what happened, however, when 
+each booklet was catalogued separately with its own pressmark. Their pressmarks 
+give no indication, for example, that ITJ 310.492 (a booklet containing 1.33 sutra 
+copies) and ITJ 310.493 (a booklet containing 1.66 sutra copies) were originally the 
+ 
+68 For a translation and discussion of the latter, see Halkias 2013, 75–83. 
+
+
+=== PDF 54 ===
+80  Conserving Limitless Life 
+  
+same item (roll). The booklet thus replaced the roll not only physically through 
+binding, but as the fundamental unit by which these sutra copies were catalogued. 
+Whatever its shortcomings, the cataloguing of the Tibetan Ap copies is what 
+has made scholars’ requisition and consultation of these manuscripts possible, and 
+van Schaik is to be applauded for succeeding in assigning pressmarks to this un-
+wieldy body of sutra copies where others failed. The decision to bind these rolls as 
+booklets can be understood as a culturally insensitive and Eurocentric form of con-
+servation. At the same time, having spent a decade consulting both Chinese rolls of 
+Ap copies and Tibetan booklets of Ap copies, we must admit that our multiple con-
+sultations of almost 1,500 booklets of Tibetan Ap copies would have taken us even 
+longer to accomplish if these manuscripts were conserved as rolls. The unrolling 
+and rerolling of rolls also leads to more wear and damage than does flipping 
+through a booklet. This is not to endorse the transformation of these rolls into book-
+lets, but only to offer something more than a one-sided view of this intervention, and 
+to acknowledge that it undeniably benefited our (admittedly slow) pace of research. 
+1.5 Conclusions 
+We did not set out to write a detailed history of the conservation and cataloguing 
+of the Stein Collection’s Tibetan Ap copies. Indeed, if that were our intention, then 
+this sketch of conservation history falls well short, given that there are archival 
+records in London, Oxford, and Cambridge that might allow for more precision 
+about the work carried by Ridding, La Vallée Poussin, Thomas, and others. Our 
+principal aim was rather to document these sutra copies. It was through our 
+decision to record not just ninth-century data (colophons, explicits, etc.) but also 
+twentieth-century data (site numbers, roll numbers, curator’s stickers, etc.) that we 
+came to understand that the latter reveal certain crucial facts about the former. 
+Most importantly, the bundle emerged as the single most important unit for making 
+sense of these sutra copies, both in their genesis in Dunhuang, and also in their 
+subsequent storing, conserving, and cataloguing in London. Our insight into the 
+meaning of the site numbers that grace the vast majority of Ap copies in the Stein 
+Collection was critical, and bears recapitulating: a site number such as “78.V.1” in-
+dicates the number of the roll (“1”) within a bundle of manuscripts (“V”) that lay 
+alongside around a dozen other such bundles within a crate (“78”). Once we wid-
+ened our gaze to view the Stein Tibetan Ap copies at the level of the bundle, we 
+perceived twenty-six bundles of Ap rolls split evenly into two types. There were 
+thirteen bundles of mostly edited copies of the sutra in single-sutra rolls, largely 
+employing the B1 version of the sutra; and there were thirteen bundles of unedited 
+copies, often in multiple-sutra rolls, largely employing the A1 version of the sutra. 
+
+
+=== PDF 55 ===
+ 
+Conclusions  81 
+  
+We discuss these and other versions in Chapter Two, and in Chapter Three we 
+propose a hypothesis about how these two types of bundles reflect two stages of the 
+sutra-copying project. 
+It was through this emphasis on the bundle, and the order of rolls within the 
+bundle, that we came to perceive some of the rough edges in conservation and cata-
+loguing, such as when manuscripts were shuffled or misplaced. The site numbers, 
+roll numbers, booklet numbers, and annotations left on the manuscripts tell a tale 
+of many hands at work from 1907 to 2002, not always in agreement with one an-
+other. Methods of assigning site numbers ranged from the desultory marking of the 
+first and last roll in a bundle to the serial numbering of every roll within a bundle. 
+The latter method is most helpful for us in attempting to move towards compre-
+hending the original state of the rolls within their bundles, but it also reveals in-
+stances where La Vallée Poussin numbered the rolls backwards. La Vallée Poussin’s 
+roll numbers similarly lay bare the few cases where, after binding, the booklets 
+were shuffled and misnumbered.  
+While these observations are secondary to our main aim of documenting the 
+sutra copies, they are perhaps valuable for others working with the Stein Collection, 
+since we have been able to offer some insights into the cataloguing and conserva-
+tion processes in London and Cambridge, and to demonstrate how and why certain 
+site numbers were used. We have worked very much in the same vein as previous 
+scholars who have taken on the task of making sense of this vast body of sutra 
+copies, by taking stock of their work, and by trying to make sense of it. The infelici-
+ties or mistakes that we have found are surely the result of working with such an 
+unwieldy body of manuscripts; it was no accident that these sutra copies evaded 
+cataloguing for so long. The sheer size – and some would say monotony – of this 
+collection of sutra copies has the disadvantage of seeming to invite errors at all 
+stages in its life cycle, from scribing and editing in Dunhuang to documenting and 
+cataloguing in Cambridge and London. Such errors are usually small, though, and 
+these are outweighed by the advantages that can be gained from looking at the 
+sutra copies from the vantage point of larger units such as bundles. Our augmented 
+catalogue makes it possible to navigate the collection by roll number and by site 
+number, so as to travel back through the history of these sutra copies’ conservation 
+to see relationships between these manuscripts that have been partly occluded by 
+their having been bound and catalogued as booklets. Besides bringing together val-
+uable data about the Tibetan Ap copies, it also furnishes a cross-section of a signif-
+icant body of the Stein Collection, and a window into practices of documentation 
+and conservation. 
+ 

@@ -1,0 +1,19 @@
+{
+  "result": "pass",
+  "date": "2026-11-03",
+  "removed_original_file_entries": 947,
+  "ocr_pages_losslessly_archived": 580,
+  "discarded_cache_or_duplicate_entries": 367,
+  "files_before": 1951,
+  "files_after_current_check": 1012,
+  "bytes_before": 299726417,
+  "bytes_after_current_check": 235158111,
+  "net_reduction_bytes": 64568306,
+  "protected_documents_and_source_files_verified": 207,
+  "broken_symlinks": [],
+  "working_symlinks": 29,
+  "qgis_relative_dependencies": "pass",
+  "excel_zip_integrity": "pass",
+  "website_static_verification": "pass",
+  "website_git_worktree": "clean"
+}

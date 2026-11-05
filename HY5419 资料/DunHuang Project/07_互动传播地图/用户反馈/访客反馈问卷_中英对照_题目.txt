@@ -1,0 +1,27 @@
+1. After using the route map, how clear are the manuscripts’ destinations and the dates of their movement? / 看过路线地图后，文献的去向与流转时间是否清楚？[单选题]
+1 — Very unclear / 很不清楚
+2 — Somewhat unclear / 不太清楚
+3 — Neither clear nor unclear / 一般
+4 — Mostly clear / 比较清楚
+5 — Very clear / 很清楚
+I have not used the map / 尚未使用地图
+
+2. After viewing the relationship network, how clear are the people’s roles in the circulation and study of the manuscripts? / 看过关系网络后，人物在文献流转与研究中的作用是否清楚？[单选题]
+1 — Very unclear / 很不清楚
+2 — Somewhat unclear / 不太清楚
+3 — Neither clear nor unclear / 一般
+4 — Mostly clear / 比较清楚
+5 — Very clear / 很清楚
+I have not viewed the network / 尚未查看关系网络
+
+3. Which part would you most like to see improved? / 你最希望改进哪些部分？[多选题]
+Routes and dates on the map / 地图的路线与时间
+People and relationships in the network / 网络的人物与关系
+Present-day collections and preservation / 今日馆藏与保存现状
+Sources and references / 史料与参考文献
+Text, layout or navigation / 文字、排版或操作
+Loading or display problems / 加载或显示问题
+
+4. What was useful, unclear or missing? Please mention a specific example if possible. / 哪些内容对你有帮助，哪些地方不清楚，或还缺少什么？方便的话，请举一个具体例子。[多行文本题]
+
+5. If you are suggesting a correction or an additional source, please give the page, person, manuscript number or reference. / 如果你想纠正或补充资料，请写出对应页面、人物、写本编号或文献来源。[多行文本题]

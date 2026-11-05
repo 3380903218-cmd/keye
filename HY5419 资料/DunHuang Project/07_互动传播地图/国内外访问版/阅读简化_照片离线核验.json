@@ -1,0 +1,178 @@
+{
+  "version": "2.5.0",
+  "date": "2026-10-30T08:17:47.421Z",
+  "base": "offline",
+  "checks": [
+    {
+      "name": "three photographs 390/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/en",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 390/en",
+      "passed": true
+    },
+    {
+      "name": "all source links present 390/en",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 390/en",
+      "passed": true
+    },
+    {
+      "name": "three photographs 390/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/zh",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 390/zh",
+      "passed": true
+    },
+    {
+      "name": "all source links present 390/zh",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 390/zh",
+      "passed": true
+    },
+    {
+      "name": "relationship guide retains four original links",
+      "passed": true
+    },
+    {
+      "name": "full Gephi retains 122 nodes and 136 links",
+      "passed": true
+    },
+    {
+      "name": "preservation examples retained",
+      "passed": true
+    },
+    {
+      "name": "five collecting institutions retained",
+      "passed": true
+    },
+    {
+      "name": "no script errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no failed asset requests",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no external image or service dependencies",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "externalAssets": [],
+  "passed": true
+}

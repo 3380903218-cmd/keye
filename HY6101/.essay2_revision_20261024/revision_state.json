@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.1",
+  "document_id": "HY6101-essay2-zh-revision-20261024",
+  "document_type": "review",
+  "purpose_contract": {
+    "objective": "第7—10周如何改变作者对档案员职业作用以及档案范围与意义的认识？",
+    "intended_contribution": "围绕两条作者自述的认识变化，将七项阅读组织为连贯的比较式整合论文。",
+    "current_document_role": "按两条批注在原Word上修订中文稿，维持8000—8500个汉字。",
+    "supporting_assets": [
+      "两份中文阅读思考",
+      "原稿中已有阅读案例与参考文献"
+    ],
+    "deferred_deliverables": [],
+    "disallowed_substitutes": [
+      "把前半学期的档案沉默或一般史料可信度反思作为本篇主线",
+      "逐周或逐篇总结阅读",
+      "仅修改批注锚点而保留旧的全文主线"
+    ]
+  },
+  "evidence_snapshot": {
+    "id": "reviewed-docx-and-user-chinese-drafts",
+    "location": "HY6101_Combined_Essay2_中文版_修改前含批注.docx"
+  },
+  "surfaces": [
+    {
+      "surface_id": "title",
+      "role": "标明职业与档案意义双重主线",
+      "location": "essay2_revised_zh.md#title",
+      "status": "current"
+    },
+    {
+      "surface_id": "intro",
+      "role": "按作者自述界定学习前后认识",
+      "location": "essay2_revised_zh.md#intro",
+      "status": "current"
+    },
+    {
+      "surface_id": "body",
+      "role": "比较七项阅读并支持职业及档案观念的推进",
+      "location": "essay2_revised_zh.md#body",
+      "status": "current"
+    },
+    {
+      "surface_id": "conclusion",
+      "role": "将正文判断收束为个人认识的变化",
+      "location": "essay2_revised_zh.md#conclusion",
+      "status": "current"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "initial-manager-impression",
+      "epistemic_status": "source-fact",
+      "evidence_locator": "User comment 0",
+      "surface_ids": [
+        "intro",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "career-direction",
+      "epistemic_status": "source-fact",
+      "evidence_locator": "User comment 0",
+      "surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "course-half-focus",
+      "epistemic_status": "approved-decision",
+      "evidence_locator": "User comment 1",
+      "surface_ids": [
+        "title",
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "archivists-knowledge-work",
+      "epistemic_status": "synthesis",
+      "evidence_locator": "User-designated Chinese drafts; Marquis/Cook/Yakel/Geary/Bartlett comparisons",
+      "surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "archive-scope-and-meaning",
+      "epistemic_status": "synthesis",
+      "evidence_locator": "User-designated Chinese drafts; Lee/OToole/Yakel comparisons",
+      "surface_ids": [
+        "title",
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "digital-traceability",
+      "epistemic_status": "conditional-inference",
+      "evidence_locator": "Seminar 9–10 Chinese draft paragraph on Bartlett and digitization",
+      "surface_ids": [
+        "body"
+      ]
+    }
+  ],
+  "feedback_decisions": [
+    {
+      "feedback_id": "comment-0",
+      "judgment": "correct",
+      "reason": "作者本人明确纠正了初始职业印象，原稿将其写成已经自觉理解专业分工，不符合作者自述。",
+      "local_repair": "引言改为原先接近manager的印象，并明确档案员逐渐成为可理解的历史研究职业方向。",
+      "global_pattern": "检索全文有关原先认识、职业分工及档案员能力的表述；把档案员的知识工作展开为各节的论证对象。",
+      "affected_surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ],
+      "verification": "首段与结论均呈现职业认识变化；正文以鉴定、描述、编纂、咨询的具体能力支持该变化。"
+    },
+    {
+      "feedback_id": "comment-1",
+      "judgment": "correct",
+      "reason": "原主线过度沿用前半学期的沉默、真实性与解释权反思，未突出第7—10周档案员作用及档案范围与意义。",
+      "local_repair": "调整标题与引言，把档案员的研究角色及档案的边界、意义作为相连的两个问题。",
+      "global_pattern": "重排六节主题并改写结论；将一般史料批判和暴力伦理压缩为具体职业判断的支持，不再作为独立主线。",
+      "affected_surface_ids": [
+        "title",
+        "intro",
+        "body",
+        "conclusion"
+      ],
+      "verification": "逐节检查是否说明职业作用或档案意义；七项阅读仍按主题比较，结论回到两条新认识。"
+    }
+  ],
+  "unresolved_gaps": [],
+  "next_action": "Hand off the revised Word manuscript at the original path; both comments are resolved and the annotated original is backed up.",
+  "extensions": {
+    "original_comments": {
+      "0": "我觉得这里的内容不够准确，因为我之前对“档案员”这一职业的理解是比较局限的，更像是manager的角色，这两周的学习和阅读让我逐渐认识到“档案员”是历史研究者的另一个职业选择方向",
+      "1": "我认为这一部分内容不是seminar7-10的思考进步，而更像是1-6的思考。combine essay2 的学习过程中，我们更强调的是对档案员及其作用的认识。此外，我也重新思考，什么能被称作“档案”、以及“档案”的意义。"
+    },
+    "markup_decision": "Original comments retained and marked resolved; full annotated baseline backed up.",
+    "body_han_count": 8185,
+    "new_empirical_claims_or_references_added": false,
+    "citation_delta": "Lee 168–170 now cited from the supplied Seminar 7–8 draft; reference list unchanged.",
+    "final_sha256": "6aadc60f07dccbe6fd2de94644cdf939d1f8ac7370193fbb77df36252bd062c3",
+    "render_pages": 11,
+    "completed_at": "2026-10-25T00:01:19.562188+08:00"
+  }
+}

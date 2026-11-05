@@ -1,0 +1,390 @@
+{
+  "schema_version": "1.0",
+  "run_id": "HY5419-gephi-progress-20261013",
+  "stage_id": "audited-graph-build",
+  "scientific_question": "1900–1910 manuscript acquisition and custody-transfer batches; unit=recorded transfer event; participants separated from transferring actors",
+  "state": "complete",
+  "inputs": [
+    {
+      "input_id": "input-0",
+      "role": "authoritative-curated-CSV",
+      "path": "entities.csv",
+      "identity": "8bea68f256b5bbca8cc2c2367b53a4d59e8cc51a7b0e3333f13c80e2a097acd8",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-1",
+      "role": "authoritative-curated-CSV",
+      "path": "events.csv",
+      "identity": "ea836b18789edb596326fd181d045f23564db359ae03a0539f0883daae66d22b",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-2",
+      "role": "authoritative-curated-CSV",
+      "path": "event_evidence.csv",
+      "identity": "08b9e78ebd05217fb7292cc424593d1c6d252318369bcf4f862fb0247bf1c710",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-3",
+      "role": "authoritative-curated-CSV",
+      "path": "event_participants.csv",
+      "identity": "41bce4500133795995ebdeb2bb4f1fabcdfe995e57659d64cca1cbffed6132b3",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-4",
+      "role": "authoritative-curated-CSV",
+      "path": "quantities.csv",
+      "identity": "3bdfcb609f8d1cbc494b3b688531801613360ff0fdaff0480627572efd060163",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-5",
+      "role": "authoritative-curated-CSV",
+      "path": "context_only.csv",
+      "identity": "e7ec50297ac70f85ff2cc487c03c764e52084bc42a312cf72b508c483965ccbc",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-6",
+      "role": "authoritative-curated-CSV",
+      "path": "legacy_mapping.csv",
+      "identity": "0c42cf47143bd4e71ca3fad79bdfade07db90a082b335cd44a088ea3f4051195",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-7",
+      "role": "authoritative-curated-CSV",
+      "path": "gaps.csv",
+      "identity": "43e316e29973034f7eef33b61ec2fbc7f89d97d01a84aea122ee34da5a41fae7",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-8",
+      "role": "authoritative-curated-CSV",
+      "path": "sources.csv",
+      "identity": "11606f18cb09aae90e33aa69578075daa7698fab7ebb89ba428303ff52079c9c",
+      "verification": "CSV closure and source hashes"
+    },
+    {
+      "input_id": "input-9",
+      "role": "authoritative-curated-CSV",
+      "path": "literature_coverage.csv",
+      "identity": "909ceb43ae64c9a4e0fafd4103d2054c9f19cda211c5d008479e452c1e937464",
+      "verification": "CSV closure and source hashes"
+    }
+  ],
+  "code": {
+    "entrypoint": "rebuild.py",
+    "version": "2ed2c0080a6a274935fbac53cd1bad57d233ea1c0b71847780370f2e4863dfcb",
+    "parameters": "2026-10-13-v1; grouping=Source,Target; Weight=1; static GEXF1.2"
+  },
+  "environment": {
+    "identity": "Python 3.9.6; standard library; Darwin",
+    "activation": "python3 rebuild.py",
+    "verification": "actual successful execution"
+  },
+  "partition_contract": {
+    "unit": "single curated graph bundle",
+    "expected_task_ids": [
+      "build"
+    ],
+    "retry_rule": "fix source or structural errors, then rerun",
+    "overwrite_rule": "overwrite only derived CSV/GEXF/validation outputs; input CSVs untouched; this dated bundle is isolated from the previous pilot"
+  },
+  "tasks": [
+    {
+      "task_id": "build",
+      "state": "complete",
+      "attempt": 1,
+      "exit_code": 0,
+      "success_marker": "BUILD_SUCCESS.txt",
+      "skip_record": null,
+      "output_ids": [
+        "out-0",
+        "out-1",
+        "out-2",
+        "out-3",
+        "out-4",
+        "out-5",
+        "out-6",
+        "out-7",
+        "out-8",
+        "out-9",
+        "out-10",
+        "out-11",
+        "out-12",
+        "out-13",
+        "out-14",
+        "out-15",
+        "out-16",
+        "out-17",
+        "out-18",
+        "out-19"
+      ],
+      "evidence": "validation_report.json"
+    }
+  ],
+  "outputs": [
+    {
+      "output_id": "out-0",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "nodes.csv",
+      "semantic_state": "produced",
+      "sha256": "2fe42398e45694d413ef74b769537a322afaefae3a4a62d8742aa0fb92846125",
+      "schema": ".csv",
+      "row_or_record_count": 8,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-1",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "edges.csv",
+      "semantic_state": "produced",
+      "sha256": "2f59e6749a82b3ff0bbb07a3a340d8d8032cac0e07e76e96dd6f60dae4890f97",
+      "schema": ".csv",
+      "row_or_record_count": 6,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-2",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "进展gephi数据集.gexf",
+      "semantic_state": "produced",
+      "sha256": "9dd2f8876eac229bd1df7317fbad07e0dc52d034178dc0f54a32f118b2887230",
+      "schema": ".gexf",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-3",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "node_metrics.csv",
+      "semantic_state": "produced",
+      "sha256": "6d8ce1a592a871cd85c4e77af9c36a091d14949c1c160fc5077ce5ba9f2f33ef",
+      "schema": ".csv",
+      "row_or_record_count": 8,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-4",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "辅助_事件参与图/nodes.csv",
+      "semantic_state": "produced",
+      "sha256": "41f74b61d11b38d687d940382250303d2cda84054b73b6c2766f698159cfa70f",
+      "schema": ".csv",
+      "row_or_record_count": 22,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-5",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "辅助_事件参与图/edges.csv",
+      "semantic_state": "produced",
+      "sha256": "99424bfe9550176406b450537db74c182c4449b1aa8e7779d6020c5559176fe3",
+      "schema": ".csv",
+      "row_or_record_count": 28,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-6",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "辅助_事件参与图/进展gephi数据集_事件参与图.gexf",
+      "semantic_state": "produced",
+      "sha256": "a34a9391f3519f8934e56491722739b0024a71be9328847e9b0b0193672a83b1",
+      "schema": ".gexf",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-7",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "分路线/Stein.gexf",
+      "semantic_state": "produced",
+      "sha256": "8cb5e9403fdf1d6f8a230c8bb89c274132d90e0544ef42cfdd44d854d42b4413",
+      "schema": ".gexf",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-8",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "分路线/Pelliot.gexf",
+      "semantic_state": "produced",
+      "sha256": "6d69ce2a03e0972047cb691b9a3618261f11e1edb3a81c91467d52bef7d8f19e",
+      "schema": ".gexf",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-9",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "分路线/Qing.gexf",
+      "semantic_state": "produced",
+      "sha256": "e55601000ba98e4b3340b6a9d392c1b316167e873c05654335e1101a7762e027",
+      "schema": ".gexf",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-10",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "validation_report.json",
+      "semantic_state": "produced",
+      "sha256": "bd835dff64fa5c809de992a2703fd985213b1b2019b14975fc1c8536d30b8075",
+      "schema": ".json",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-11",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "BUILD_SUCCESS.txt",
+      "semantic_state": "produced",
+      "sha256": "44313cb97d70104dc52c8bcad9bffd2b78d545bc4f837bc6463210ca1790664a",
+      "schema": ".txt",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-12",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "使用说明.md",
+      "semantic_state": "produced",
+      "sha256": "df92416b36e3a2d6f5952df86f5d1b67d8db8e6f3d16f218b0188e74c6390a8c",
+      "schema": ".md",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-13",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "数据字典.md",
+      "semantic_state": "produced",
+      "sha256": "3fba03c2f8a5cf3929b83e4e3e12f1583a1247141147a2182dab7259754b3ad7",
+      "schema": ".md",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-14",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "使用说明.html",
+      "semantic_state": "produced",
+      "sha256": "86930fcf15e7329e6ffdd1a9892c809c3f0a97a8676716423562c5afa065870f",
+      "schema": ".html",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-15",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "进展gephi数据集_结构预览.svg",
+      "semantic_state": "produced",
+      "sha256": "446c0be679e8aedd06f3bdbf8c9fa612125da919aed83198c5c13b221dec72a2",
+      "schema": ".svg",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-16",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "render_delivery.py",
+      "semantic_state": "produced",
+      "sha256": "84e91f0273d9c84b04c65036189e576071fb62d4e4434a7f51641fcbbb062ac0",
+      "schema": ".py",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-17",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "independent_validation.json",
+      "semantic_state": "produced",
+      "sha256": "0fc6155dfeb11395536246eaadee2da74fd827646f20e5228c9dabdcdb9ffa43",
+      "schema": ".json",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-18",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "method_sources/日期换算记录.md",
+      "semantic_state": "produced",
+      "sha256": "b0d2ac95b81b60b7c2391a0940c6c172357b87a554ff8617d2de9627147ed05c",
+      "schema": ".md",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    },
+    {
+      "output_id": "out-19",
+      "role": "validated-derived-artifact",
+      "completion_critical": true,
+      "path": "method_sources/HKO_1910_公农历对照表.pdf",
+      "semantic_state": "produced",
+      "sha256": "1e776703801459380f27411623cf6911f673c986f3736ed03d83b0e63d666e01",
+      "schema": ".pdf",
+      "row_or_record_count": null,
+      "upstream_fingerprint": "3cf97758a194999faac697b89053049f7fb85fdc3e1c97bf36bbcb6539942778",
+      "verification": "input invariants, graph endpoint and count parity"
+    }
+  ],
+  "checkpoints": [
+    {
+      "checkpoint_id": "build-check",
+      "task_id": "build",
+      "completion_contract": "all invariant checks and graph counts match canonical events",
+      "status": "passed",
+      "evidence": "validation_report.json"
+    }
+  ],
+  "failures_and_fallbacks": [],
+  "privacy_and_release": "Local research dataset from user-provided literature; only short evidence excerpts; no upload or publication.",
+  "next_action": "Open the main GEXF in Gephi and save a native .gephi project after verifying 8 nodes and 6 links.",
+  "extensions": {
+    "literature_source_hashes": "sources.csv",
+    "GephiGUIImport": "not_exercised",
+    "delivery_render_entrypoint": "render_delivery.py",
+    "delivery_render_version": "84e91f0273d9c84b04c65036189e576071fb62d4e4434a7f51641fcbbb062ac0"
+  }
+}

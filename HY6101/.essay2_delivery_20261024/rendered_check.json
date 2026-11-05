@@ -1,0 +1,57 @@
+{
+  "source_docx_sha256": "48288347e52586becd7c1181fc8a1801dc6c391a59930831a2c47cc21dd4c155",
+  "render_pdf": "word_render_v2.pdf",
+  "render_pdf_sha256": "33e3b81da1dafec78205d233a5c7a5f6049921c92f8fe90acba963f7cbb8b9bd",
+  "application": "Microsoft Word for Mac",
+  "pages": 11,
+  "rendered_text_matches_docx_after_documented_normalization": true,
+  "normalization": [
+    "NFKC",
+    "whitespace/header/footer removal",
+    "Two U+2F1C extraction mappings to visually verified 口; actual 又 characters are separate U+53C8 and preserved."
+  ],
+  "glyph_verification_crops": [
+    {
+      "path": "extraction_glyph_page4.png",
+      "sha256": "9eb3645621cd93488c6ccbc579ac172333ba382b32c542e561341c270756c4f0"
+    },
+    {
+      "path": "extraction_glyph_page9.png",
+      "sha256": "208b27d688e910faa3a0fa97c483cc097423f554c0d5e29453ccc1d168e07dd5"
+    }
+  ],
+  "visual_inspection": {
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "contact_sheets": [
+      {
+        "path": "v2_contact_1.png",
+        "sha256": "e836a2608a89aa6deb0d283b5c2e70bf64231e71b15fe9c7b5f59a6ce2abf0c9"
+      },
+      {
+        "path": "v2_contact_2.png",
+        "sha256": "309dbb8134beec2ed0b2ff6825372f9c371a25f0cd96ceeed20885a1d4e9cd30"
+      }
+    ],
+    "fonts_consistent": true,
+    "title_and_subtitle_clean": true,
+    "heading_and_paragraph_flow_acceptable": true,
+    "body_line_spacing": "22 pt exact at 12 pt Songti SC",
+    "page_numbers_continuous": true,
+    "no_blank_pages_or_clipped_text_observed": true,
+    "references_separate_readable_page": true
+  },
+  "export_note": "The current v2 PDF is the successful export of the current DOCX hash. An earlier overwrite attempt timed out; its old PDF is not validation evidence. The task-owned read-only Word window was closed using the window close command.",
+  "performed_at": "2026-10-24T23:26:51.981872+08:00"
+}

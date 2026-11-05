@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.1",
+  "document_id": "HY6101-essay2-zh-reflection-revision-20261025",
+  "document_type": "review",
+  "purpose_contract": {
+    "objective": "以作者对档案员职业的认识变化为主要问题，由此提出并回答什么是档案；让阅读参与个人疑问的形成与修正。",
+    "intended_contribution": "一篇体现作者思考推进、以问题串联七项阅读的比较式中文essay。",
+    "current_document_role": "继续在原Word上修订，保持8000—8500个汉字。",
+    "supporting_assets": [
+      "作者指定的两份中文阅读思考",
+      "原稿案例与七项阅读文献"
+    ],
+    "deferred_deliverables": [],
+    "disallowed_substitutes": [
+      "把职业认识与档案意义写成等量并列主题",
+      "用材料范围和纪念意义代替对什么是档案的回答",
+      "先概述每位作者再附一句个人感想",
+      "用职业职责清单代替个人认识的变化"
+    ]
+  },
+  "evidence_snapshot": {
+    "id": "round3-user-feedback-and-reviewed-draft",
+    "location": "HY6101_Combined_Essay2_中文版_本轮修改前.docx"
+  },
+  "surfaces": [
+    {
+      "surface_id": "title",
+      "role": "标明职业与档案意义双重主线",
+      "location": "essay2_revised_zh.md#title",
+      "status": "current"
+    },
+    {
+      "surface_id": "intro",
+      "role": "按作者自述界定学习前后认识",
+      "location": "essay2_revised_zh.md#intro",
+      "status": "current"
+    },
+    {
+      "surface_id": "body",
+      "role": "比较七项阅读并支持职业及档案观念的推进",
+      "location": "essay2_revised_zh.md#body",
+      "status": "current"
+    },
+    {
+      "surface_id": "conclusion",
+      "role": "将正文判断收束为个人认识的变化",
+      "location": "essay2_revised_zh.md#conclusion",
+      "status": "current"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "manager-to-research-role",
+      "epistemic_status": "source-fact",
+      "evidence_locator": "Original user annotations and Seminar 9–10 Chinese reflection",
+      "surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "training-to-mutual-learning",
+      "epistemic_status": "synthesis",
+      "evidence_locator": "Seminar 9–10 Chinese reflection paragraphs 2–7; revised sections 1–2",
+      "surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "professional-career-recognition",
+      "epistemic_status": "source-fact",
+      "evidence_locator": "Original user annotation 0; current user feedback",
+      "surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "archive-definition",
+      "epistemic_status": "synthesis",
+      "evidence_locator": "User-designated Chinese reflections; provisional personal definition in section 5",
+      "surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    },
+    {
+      "claim_id": "hierarchy-of-questions",
+      "epistemic_status": "approved-decision",
+      "evidence_locator": "Current user feedback: occupation primary, what-is-archive secondary",
+      "surface_ids": [
+        "title",
+        "intro",
+        "body",
+        "conclusion"
+      ]
+    }
+  ],
+  "feedback_decisions": [
+    {
+      "feedback_id": "career-central",
+      "judgment": "correct",
+      "reason": "上一稿虽然提及职业，仍较多罗列职责，未持续呈现作者怎样从使用者视角转向理解职业内部的判断。",
+      "local_repair": "引言从真实疑问起笔，前三节推进保管中的判断、对合作期待的修正和职业研究形式的认识。",
+      "global_pattern": "逐节检查是否推进同一认识变化，档案问题置于职业讨论之后作为由工作对象引出的第二问题。",
+      "affected_surface_ids": [
+        "title",
+        "intro",
+        "body",
+        "conclusion"
+      ],
+      "verification": "前三节围绕职业认识，后两节集中档案问题；结论先收束职业变化再回到档案。"
+    },
+    {
+      "feedback_id": "what-is-archive",
+      "judgment": "correct",
+      "reason": "前稿侧重范围与意义，缺少对作者如何判断什么是档案的明确回应。",
+      "local_repair": "第四节从文件清单转向记录与活动的关系；第五节给出暂定理解，并用原件、复制、保存与使用的张力检验。",
+      "global_pattern": "把档案意义作为检验认定理由的一部分，避免另起一个与主线平行的纪念价值主题。",
+      "affected_surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ],
+      "verification": "第五节明确以我现在倾向于把档案理解为表述个人暂定认识，并保留条件。"
+    },
+    {
+      "feedback_id": "natural-integration",
+      "judgment": "correct",
+      "reason": "旧段落常从作者观点起笔再附个人认识，形成生硬的点名和拼接。",
+      "local_repair": "以作者已有疑问、初步答案、遇到的困难与修正组织段落；文献进入具体推理环节。",
+      "global_pattern": "审查所有正文段落开头与结论；删去文献名单式回顾，保留事实归属和完整参考文献。",
+      "affected_surface_ids": [
+        "intro",
+        "body",
+        "conclusion"
+      ],
+      "verification": "七项阅读均保留，观点用于推进同一问题，结论不按作者罗列收获；无杜撰个人经历。"
+    }
+  ],
+  "unresolved_gaps": [],
+  "next_action": "Hand off the revised Word manuscript at the original path; both comments are resolved and the annotated original is backed up.",
+  "extensions": {
+    "hierarchy": "职业认识为主线，什么是档案为第二问题",
+    "body_han": 8077,
+    "markup_decision": "保留前轮两条已解决批注及其原文。",
+    "no_new_empirical_sources_or_personal_experiences": true,
+    "citation_delta": "七项文献不变；Lee 25–30、57–59、168–170、181–182、44–45页均来自作者第7–8周中文稿。",
+    "final_sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+    "render_pages": 11,
+    "completed_at": "2026-10-25T23:52:44.610387+08:00"
+  }
+}

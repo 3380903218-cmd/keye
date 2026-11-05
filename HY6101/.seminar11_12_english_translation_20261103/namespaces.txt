@@ -1,0 +1,3 @@
+PASSED: /Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_Reading_Reflection_English.docx
+  SHA-256: 27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2; XML parts: 18
+Scope: namespace references only; Microsoft Word normal-open verification is still required.

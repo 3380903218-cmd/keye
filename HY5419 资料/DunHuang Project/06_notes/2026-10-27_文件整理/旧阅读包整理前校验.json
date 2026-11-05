@@ -1,0 +1,36 @@
+{
+  "bundle": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述",
+  "error_count": 4,
+  "issues": [
+    {
+      "code": "orphan_package_member",
+      "file": "full-text/.DS_Store",
+      "message": "package file is not referenced by source-manifest.tsv: full-text/.DS_Store",
+      "row": null,
+      "severity": "error"
+    },
+    {
+      "code": "sha256_mismatch",
+      "file": "source-manifest.tsv",
+      "message": "sha256 mismatch: expected 256c6d9632c2e449876957d0887eec3d6986f539f465cbccef830ad8639282ee, found c9c8e3a5a09221917d78a7a760a3fb97affe8ed60a4a2f918ccbf9d0926bf823",
+      "row": 5,
+      "severity": "error"
+    },
+    {
+      "code": "sha256_mismatch",
+      "file": "source-manifest.tsv",
+      "message": "sha256 mismatch: expected 3a27828abc67a56bc8794aef11a4b1033b714bd9c0b212b9e60de7df3d89f729, found 5b50550a961120e6fd9a008da090b0accb997833a08c8d9136c9fc8aba61e47c",
+      "row": 6,
+      "severity": "error"
+    },
+    {
+      "code": "sha256_mismatch",
+      "file": "source-manifest.tsv",
+      "message": "sha256 mismatch: expected 1e213dbe6940e58d7a5685ac5d648299d300ce70e4723d3601508ecae95c56dd, found f10f1a1f90fee9788c4dba2f4c3852e7f2bcac8fc384b5cd8f7e9878d4156eb5",
+      "row": 8,
+      "severity": "error"
+    }
+  ],
+  "status": "error",
+  "warning_count": 0
+}

@@ -1,0 +1,30 @@
+{
+  "artifact_sha256": "8bb53b12f492126c3223fde9242c8cb913ced566aabfd6721c50e463fc19b2d3",
+  "rendered_pages": 10,
+  "visually_inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "status": "passed",
+  "findings": "No clipped text, missing glyphs, overlapping figures, isolated captions or broken reference entries. Both original embedded images remain readable and unchanged. APA italics and hanging indents visible on page 10.",
+  "page_hashes": {
+    "page-1.png": "6ecec014efe0844c9788db806481422b30d32a83ef84cd287f2edf11002f0a0f",
+    "page-10.png": "a2dfcd8469636e0317d49f4810798c76856fbd62e0f700c7cc7bcef832b2e42b",
+    "page-2.png": "85d8a104924b81589c7a0f1e98e55fd119b20ee92bc8313169a6b00746aa8f9a",
+    "page-3.png": "527f68a72338c1a8344be06c764a6e5f67051ffe37639cd392ee23b087b48220",
+    "page-4.png": "18b6fa4b65f0a377cf1ffba895761629879d9cad6d455fd911ae7f1d8d31e8d0",
+    "page-5.png": "386dc10ec6890417bc9942c1b82148de1fb5767b537e9168a0ca6ffe00eb6757",
+    "page-6.png": "ec899235d752c339453efccef8c485bc211f3511f37216a62d0c8bed9e9cace6",
+    "page-7.png": "ff40f604eebb963eef167428200a71770257bb45b8bf527da4e9684968a39b7c",
+    "page-8.png": "2c2fbc66c0c5a92653a9032f155300e35b553a200ceab62ae403793da070e813",
+    "page-9.png": "386d79f84990bd74ec1257a172d6b07acccbf0ae9b06ea18de63bb5d426ff74f"
+  }
+}

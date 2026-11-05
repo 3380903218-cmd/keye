@@ -1,0 +1,33 @@
+[
+  {
+    "comment_id": "0",
+    "status": "applied",
+    "action": "将开篇最后一句改为围绕文献流转和研究活动整理联系，删去刻意的“有来源支持”及多余限定。",
+    "paragraph": 2
+  },
+  {
+    "comment_id": "1",
+    "status": "applied",
+    "action": "在资料选择一节补充IDP汇集分藏文献数字资源的基础，并说明本项目如何组织选定时期的关系与路线；依据IDP官网新增APA参考文献。",
+    "insert_after": 21,
+    "source": "https://idp.bl.uk/about/"
+  },
+  {
+    "comment_id": "2",
+    "status": "applied",
+    "action": "以网络不能直观显示空间和经过顺序的问题引出QGIS，说明分层组织地名、路线、事件及与人物网络互补的理由；保留老师和Yihan的启发。",
+    "paragraph": 30
+  },
+  {
+    "comment_id": "3",
+    "status": "applied",
+    "action": "删除网页设计一节重复陈述初衷的首句，保留导论中的一次说明。",
+    "paragraph": 40
+  },
+  {
+    "comment_id": "4",
+    "status": "applied",
+    "action": "将双语功能的目的改为扩大使用人群、方便不同语言读者学习和分享；保留其余发布与访问经历。",
+    "paragraph": 53
+  }
+]

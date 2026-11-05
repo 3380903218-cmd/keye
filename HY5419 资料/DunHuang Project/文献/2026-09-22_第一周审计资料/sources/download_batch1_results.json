@@ -1,0 +1,134 @@
+[
+  {
+    "source_id": "S08",
+    "filename": "S08_Pelliot_1908_Persee.html",
+    "url": "https://www.persee.fr/doc/befeo_0336-1519_1908_num_8_1_4297",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://www.persee.fr/doc/befeo_0336-1519_1908_num_8_1_4297",
+    "content_type": "text/html;charset=UTF-8",
+    "status": "downloaded",
+    "bytes": 111468,
+    "sha256": "25bcf062a7dc32d4f4ce5edeb1a987149df90a793897ecea067db65a5cb1659c"
+  },
+  {
+    "source_id": "S08_PDF",
+    "filename": "S08_Pelliot_1908_Penn.pdf",
+    "url": "https://os.pennds.org/archaeobib_filestore/pdf_articles/BEFEO/1908_8_3_Pelliot.pdf",
+    "access_date": "2026-09-22",
+    "status": "failed",
+    "error": "URLError: <urlopen error timed out>"
+  },
+  {
+    "source_id": "S11",
+    "filename": "S11_NLC_2005_敦煌文献数字化.pdf",
+    "url": "https://www.nlc.cn/upload/attachments/2023-01-31/7f8581ea.pdf",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://www.nlc.cn/upload/attachments/2023-01-31/7f8581ea.pdf",
+    "content_type": "application/pdf",
+    "status": "downloaded",
+    "bytes": 184511,
+    "sha256": "a53d4a96d6da3b3d84c65850adab5cb7e2500845cd5410755450040ba7b83331"
+  },
+  {
+    "source_id": "S12",
+    "filename": "S12_NLC_2020_敦煌整理与编目.html",
+    "url": "https://www.nlc.cn/pcab/zx/xw/20200416_191121.shtml",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://www.nlc.cn/pcab/zx/xw/20200416_191121.shtml",
+    "content_type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "bytes": 27901,
+    "sha256": "0aab53c6a4691c122279037e62acb32c8af3abee90efecec24001d3d94931ec8"
+  },
+  {
+    "source_id": "S13",
+    "filename": "S13_NLC_2025_馆藏敦煌文献.html",
+    "url": "https://www.nlc.cn/pcab/zx/xw/20250423_2644574.shtml",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://www.nlc.cn/pcab/zx/xw/20250423_2644574.shtml",
+    "content_type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "bytes": 36575,
+    "sha256": "ad36540ae214cfdf8c59f091c978a62eaf0b23ae3208f5ec246f8c9f69ae1f3a"
+  },
+  {
+    "source_id": "S14",
+    "filename": "S14_BM_Exploring_Silk_Roads.html",
+    "url": "https://www.britishmuseum.org/collection/china/exploring-silk-roads",
+    "access_date": "2026-09-22",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "S15",
+    "filename": "S15_BnF_Pelliot_Dunhuang.html",
+    "url": "https://heritage.bnf.fr/france-chine/paul-pelliot-1878-1945-et-dunhuang",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://heritage.bnf.fr/france-chine/paul-pelliot-1878-1945-et-dunhuang",
+    "content_type": "text/html; charset=UTF-8",
+    "status": "downloaded",
+    "bytes": 61833,
+    "sha256": "3f61be8430bae46072ed77ef7496f5cbb3e21222eda98a29aa74d2f619a4afeb"
+  },
+  {
+    "source_id": "S16",
+    "filename": "S16_INHA_Pelliot_collection_history.html",
+    "url": "https://agorha.inha.fr/ark:/54721/85f38a16-31af-4757-8f53-eb7371821cb0",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://agorha.inha.fr/ark:/54721/85f38a16-31af-4757-8f53-eb7371821cb0",
+    "content_type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "bytes": 1354,
+    "sha256": "0464c8efb24b24dfc547ac6ef87e1f94bba52cae853374eebb20c13e20606df0"
+  },
+  {
+    "source_id": "S17",
+    "filename": "S17_Whitfield_Buddhism_and_Silk_AAM.pdf",
+    "url": "https://ueaeprints.uea.ac.uk/id/eprint/76988/1/Accepted_Manuscript.pdf",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://ueaeprints.uea.ac.uk/id/eprint/76988/1/Accepted_Manuscript.pdf",
+    "content_type": "application/pdf",
+    "status": "downloaded",
+    "bytes": 553750,
+    "sha256": "515805f99f4bf233ba6bf205491dae0f7bea112b3e235ff74111565e3366b205"
+  },
+  {
+    "source_id": "S18",
+    "filename": "S18_Wang_Persson_Wood_Dunhuang_Textiles.pdf",
+    "url": "https://www.britishmuseum.org/pdf/19_Wang-Persson-Wood.pdf",
+    "access_date": "2026-09-22",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "S19",
+    "filename": "S19_Fang_2009_百年前的一桩公案_转载.html",
+    "url": "https://www.fjdh.cn/wumin/2010/12/071837135094.html",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://www.fjdh.cn/wumin/2010/12/071837135094.html",
+    "content_type": "text/html",
+    "status": "downloaded",
+    "bytes": 59353,
+    "sha256": "de853a8402dd059fb1ebf0bbe689a6179f485eb0b8449437e4f2be52bd43d0a3"
+  },
+  {
+    "source_id": "S20",
+    "filename": "S20_Stein_Handbook_2008.pdf",
+    "url": "https://real.mtak.hu/169501/1/Wang__Stein_handbook_for_web.pdf",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://real.mtak.hu/169501/1/Wang__Stein_handbook_for_web.pdf",
+    "content_type": "application/pdf",
+    "status": "downloaded",
+    "bytes": 865453,
+    "sha256": "ae6922d0ca2f25d5fbafc18d6a7d68320cd251fbff6ec39c41beab802c402804"
+  }
+]

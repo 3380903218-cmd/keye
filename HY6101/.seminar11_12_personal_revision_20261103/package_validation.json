@@ -1,0 +1,26 @@
+{
+  "artifact_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+  "status": "passed",
+  "office_package": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx",
+    "sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+    "xml_parts_checked": 18,
+    "issues": [],
+    "read_errors": [],
+    "status": "passed",
+    "package_errors": [],
+    "external_relationships": 0
+  },
+  "namespace_evidence_sha256": "385ebaa9b1248a04650c7c4aa19903a75a745a63c12501dccf9023336fc9ee64",
+  "audit_evidence_sha256": "a23a9b02c645b85e126d4993dbce2b1826a22f51aeede0f332497585b71c27c1",
+  "footnote_references": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "review_markup": "none",
+  "styles_numbering_sections_and_footer": "byte-identical to the user-edited baseline"
+}

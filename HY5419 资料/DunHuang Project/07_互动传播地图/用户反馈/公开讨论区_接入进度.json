@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-03",
+  "user_choice": "Public pseudonymous discussion; no visitor account",
+  "status": "published_and_verified",
+  "supabase_connection_confirmed": true,
+  "cloud_database_created": true,
+  "cloud_function_deployed": true,
+  "website_published": true,
+  "current_public_version": "2.9.1",
+  "git_base": "1baf9c5905e101e8982c4383ffad90cb02ff3102",
+  "implementation_root": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/GitHub发布/dunhuang-in-motion",
+  "browser_verification": {
+    "result": "pass",
+    "scope": "Two independent browser contexts, production HTML/JS, HTTP handler, real local Postgres; not cloud deployment.",
+    "checks": [
+      "A second independent reader reads and replies to the first reader; language switching preserves draft.",
+      "User HTML is displayed as text and never runs.",
+      "Refreshing preserves an unfinished reply and saved messages survive a full page reload.",
+      "A saved request with a lost HTTP response can be retried without duplicate messages.",
+      "The existing map and 132-node/157-edge network still initialise.",
+      "An unconfigured release hides the feature and makes no discussion API calls; anchored titles clear the sticky header.",
+      "Desktop and mobile layouts have no horizontal overflow or JavaScript errors."
+    ]
+  },
+  "required_next_action": null,
+  "research_outputs_unchanged": {
+    "dunhuang-network.gexf": "edf3f7dd37e31d7f23e500b23d16a438b712574d338e5d0a4bb51baf40714c90",
+    "dunhuang-network-expanded.gexf": "a37c79759698788d7628dca4844c2db341ab59258124f977385f8e105481071d",
+    "qgis-regional-map.pdf": "a06b0feb90bc04f5c0d81d2d77754ee98570f1ab433b4f25b0954b9ed780d477"
+  },
+  "supabase_installation_confirmed": false,
+  "tool_probe": {
+    "advertised": true,
+    "list_projects": "MCP -32001 Unknown tool: supabase.list_projects",
+    "list_organizations": "MCP -32001 Unknown tool: supabase.list_organizations",
+    "server_reachability": "Official MCP endpoint responds 401 without credentials; reachable, not an authenticated access test"
+  },
+  "connection_method": "Official Supabase MCP with browser OAuth; tokens live only in a local process",
+  "organizations": [
+    {
+      "id": "qdsziosqarxsyjujguvn",
+      "name": "3380903218-cmd's Org"
+    }
+  ],
+  "projects": [
+    {
+      "id": "qtuxpxccweapkqeoaata",
+      "name": "dunhuang-discussion",
+      "region": "ap-southeast-1",
+      "organization_id": "qdsziosqarxsyjujguvn",
+      "status": "ACTIVE_HEALTHY"
+    }
+  ],
+  "local_connection": {
+    "credential_storage": "memory_only",
+    "status": "closed; temporary OAuth credentials discarded from process memory"
+  },
+  "organization_choice_confirmed": true,
+  "quoted_cost": {
+    "amount": 0,
+    "currency": "USD",
+    "recurrence": "monthly"
+  },
+  "project": {
+    "id": "qtuxpxccweapkqeoaata",
+    "name": "dunhuang-discussion",
+    "region": "ap-southeast-1",
+    "organization_id": "qdsziosqarxsyjujguvn",
+    "status": "ACTIVE_HEALTHY"
+  },
+  "source_commit": "1b7bdb716fc4fb0097b55137504bb7d2e2b56521",
+  "pages_workflow": {
+    "id": 41486814910,
+    "url": "https://github.com/3380903218-cmd/dunhuang-in-motion/actions/runs/41486814910",
+    "result": "success"
+  },
+  "public_url": "https://3380903218-cmd.github.io/dunhuang-in-motion/",
+  "discussion_url_zh": "https://3380903218-cmd.github.io/dunhuang-in-motion/?lang=zh#discussion",
+  "migration": "20261102162018_create_reader_discussion",
+  "function": {
+    "name": "dunhuang-discussion",
+    "version": 1,
+    "status": "ACTIVE",
+    "public_no_visitor_account": true
+  },
+  "cloud_api_verification": {
+    "result": "pass",
+    "endpoint": "https://qtuxpxccweapkqeoaata.supabase.co/functions/v1/dunhuang-discussion",
+    "date": "2026-11-03",
+    "scope": "Real deployed Supabase API and administrator verification; temporary setup records only",
+    "checks": [
+      "Public reading and GitHub Pages CORS work without a visitor account.",
+      "Real posts and replies are saved together; retrying an acknowledged submission is idempotent.",
+      "Posting limits, unrelated origins and empty-message validation are enforced on the deployed service.",
+      "Owner moderation removes the selected test thread and its replies from public reading, and blocks new replies to it."
+    ],
+    "test_root_ids": [
+      "d517f17a-4182-42fb-a449-b0b80f9b17f1"
+    ],
+    "test_records_removed": true
+  },
+  "cloud_browser_verification": {
+    "result": "pass",
+    "date": "2026-11-03",
+    "scope": "Actual Supabase storage with two independent, unsigned-in browser contexts; local release HTML served at its intended GitHub Pages origin.",
+    "checks": [
+      "An unsigned-in visitor saves a message; a separate unsigned-in visitor sees and replies to it through real browser CORS.",
+      "A full page reload reads the saved discussion from Supabase; language switching retains the draft and user HTML remains literal text.",
+      "Desktop/mobile layout and the existing map and 132-node/157-edge Gephi network still work."
+    ],
+    "test_records_removed": true
+  },
+  "live_pages_verification": {
+    "date": "2026-11-03",
+    "release": "2.9.0",
+    "result": "pass",
+    "mode": "live",
+    "checks": [
+      {
+        "language": "en",
+        "width": 1440,
+        "core_graph": "132 nodes, 157 edges, 48 activity records",
+        "discussion": "Real Pages assets and anonymous Supabase reading load successfully.",
+        "javascript_errors": 0,
+        "horizontal_overflow": false
+      },
+      {
+        "language": "zh",
+        "width": 390,
+        "core_graph": "132 nodes, 157 edges, 48 activity records",
+        "discussion": "Real Pages assets and anonymous Supabase reading load successfully.",
+        "javascript_errors": 0,
+        "horizontal_overflow": false
+      }
+    ],
+    "mainland_network_test": false
+  },
+  "mainland_discussion_access_verified": false,
+  "owner_instructions": "公开讨论区_使用与管理说明.md",
+  "security_advisor": {
+    "severity": "informational_only",
+    "rls_private_tables": "Enabled without browser policies to deny browser table access.",
+    "browser_secrets": false
+  },
+  "language_policy": {
+    "messages": "any language",
+    "interface": [
+      "en",
+      "zh"
+    ],
+    "preserve_original_text": true,
+    "automatic_writing_direction": true
+  },
+  "language_verification": {
+    "version": "2.9.1",
+    "result": "pass",
+    "date": "2026-11-03",
+    "scope": "Frontend language and writing-direction check with isolated fixture data; no public comments created.",
+    "checks": [
+      {
+        "width": 1440,
+        "any_language_invitation": "EN and ZH",
+        "original_messages_preserved": true,
+        "rtl_rendering_and_input": true,
+        "language_switch_keeps_draft": true,
+        "horizontal_overflow": false
+      },
+      {
+        "width": 390,
+        "any_language_invitation": "EN and ZH",
+        "original_messages_preserved": true,
+        "rtl_rendering_and_input": true,
+        "language_switch_keeps_draft": true,
+        "horizontal_overflow": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "status": "partial",
+  "performed_at": "2026-11-04T23:30:50.414619+08:00",
+  "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+  "normal_open_verified": true,
+  "application": "Microsoft Word for Mac",
+  "native_page_count_observed": 15,
+  "observations": [
+    "Correct English document title and full target URL were observed after opening.",
+    "English body text, both figure objects and 15 native page containers were present.",
+    "Word showed a routine field-update prompt; no repair warning was observed.",
+    "A concurrent user change prevented a reliable native visual review; screenshot showed another active document, so further UI actions stopped."
+  ],
+  "limitations": "All current proxy-rendered pages were reviewed. Native page appearance was not fully verified."
+}

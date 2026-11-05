@@ -1,0 +1,31 @@
+{
+  "checked_date": "2026-09-22",
+  "status": "pass",
+  "new_works": 9,
+  "readable_files": 10,
+  "catalogue_entries": 18,
+  "evidence_rows": 26,
+  "covered_events": [
+    "E001",
+    "E002",
+    "E003",
+    "E004",
+    "E005",
+    "E006",
+    "E007",
+    "E008",
+    "E009"
+  ],
+  "original_event_count": 9,
+  "download_records_hash_verified": 64,
+  "pdfs_parse_verified": 8,
+  "render_spot_checks": [
+    "S07 assembled PDF page 3 = printed 825",
+    "S22 assembled PDF page 19 = printed 13"
+  ],
+  "pdf_diagnostic": "PDFKit emitted one generic CoreGraphics diagnostic; all pages parsed. No claim of full visual QA.",
+  "local_links_checked": 21,
+  "file_inventory_rows": 114,
+  "bundle_bytes_before_manifests": 137463837,
+  "issues": []
+}

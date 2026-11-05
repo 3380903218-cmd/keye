@@ -1,0 +1,62 @@
+{
+  "authority": "User notes updated 2026-10-03; five supplied scholarly works. The URA brochure is auxiliary and is not counted among the five.",
+  "source_roles": [
+    {
+      "author": "Henderson",
+      "locators": [
+        "pp.526–527",
+        "pp.528–533"
+      ],
+      "reflection": "保存店屋与延续生活、经营的关系；改善住房与保留社会联系；旅游收益与分配",
+      "limit": "历史争论与参与者担忧不直接等于2026年所有居民的实际经历"
+    },
+    {
+      "author": "Poulios",
+      "locators": [
+        "pp.21–24",
+        "pp.89–93",
+        "pp.129–133"
+      ],
+      "reflection": "允许变化的保护；价值导向参与与核心共同体主导的区别；旅游收益的双面作用",
+      "limit": "修道共同体不可直接等同牛车水多元居民、商户与宗教群体"
+    },
+    {
+      "author": "Yeoh and Kong",
+      "locators": [
+        "pp.128–138",
+        "pp.139–144",
+        "pp.144–154"
+      ],
+      "reflection": "国家身份与街区利益；居民、商会并非统一立场；遗产地位的认可与保护方式的争议分开",
+      "limit": "少有公开争论不代表没有分歧或人人受益"
+    },
+    {
+      "author": "Goh",
+      "locators": [
+        "pp.82–84",
+        "pp.96–98"
+      ],
+      "reflection": "不浪漫化社区主导；政策目标不直接证明主观动机；迁出居住建筑并非社会联系必然消失",
+      "limit": "三城比较不能替代当地访谈；Singapore Asian orientation corrected from the overgeneralized note"
+    },
+    {
+      "author": "Chan",
+      "locators": [
+        "Introduction",
+        "sections 2 and 4",
+        "sections 5 and 6"
+      ],
+      "reflection": "节庆展示与全年日常生活；统一华人标签与多族群、多方言历史；居民是否认可官方文化符号",
+      "limit": "所用版本为用户提供的中英对照全文，正文用章节定位；英文报刊的公开叙事不能代表所有居民体验"
+    }
+  ],
+  "calibrations": [
+    "未保留多数商户不在乎文化的无证据概括",
+    "未把居民搬迁等同于全部社区消失",
+    "未断言政府完全不在乎遗产或只为利润",
+    "未以个别中国街区作未经验证的事实比较",
+    "未把Poulios的活态遗产方法等同价值导向方法",
+    "未将URA册子的六种店屋风格误作六个街区"
+  ],
+  "citation_style": "Author-date bibliographic entries with adjacent Chinese page/section locators; original English titles retained; no separate repetitive summaries."
+}

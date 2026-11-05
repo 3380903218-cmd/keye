@@ -1,0 +1,214 @@
+{
+  "exit_code": 0,
+  "files": [
+    {
+      "findings": [
+        {
+          "code": "field_codes_present",
+          "count": 4,
+          "details": {
+            "fldChar": 3,
+            "fldSimple": 0,
+            "instrText": 1
+          },
+          "message": "Field-code structures are present and may require preservation during edits.",
+          "severity": "info"
+        },
+        {
+          "code": "footnotes_or_endnotes_present",
+          "count": 4,
+          "details": {
+            "endnotes": {
+              "elements": 2,
+              "parts": [
+                "word/endnotes.xml"
+              ]
+            },
+            "footnotes": {
+              "elements": 2,
+              "parts": [
+                "word/footnotes.xml"
+              ]
+            }
+          },
+          "message": "Footnote or endnote structures are present.",
+          "severity": "info"
+        },
+        {
+          "code": "visible_comment_markup_present",
+          "count": 6,
+          "message": "Visible comment anchors or reference markers are present.",
+          "severity": "info"
+        }
+      ],
+      "metrics": {
+        "comment_definitions": 2,
+        "comment_family_content_types": [
+          {
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml",
+            "kind": "Override",
+            "part": "word/comments.xml"
+          },
+          {
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.commentsExtended+xml",
+            "kind": "Override",
+            "part": "word/commentsExtended.xml"
+          },
+          {
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.commentsExtensible+xml",
+            "kind": "Override",
+            "part": "word/commentsExtensible.xml"
+          },
+          {
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.commentsIds+xml",
+            "kind": "Override",
+            "part": "word/commentsIds.xml"
+          },
+          {
+            "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.people+xml",
+            "kind": "Override",
+            "part": "word/people.xml"
+          }
+        ],
+        "comment_family_parts": [
+          "word/comments.xml",
+          "word/commentsExtended.xml",
+          "word/commentsExtensible.xml",
+          "word/commentsIds.xml",
+          "word/people.xml"
+        ],
+        "comment_family_relationships": [
+          {
+            "id": "rId10",
+            "mode": "Internal",
+            "resolved_target": "word/commentsIds.xml",
+            "source_relationship_part": "word/_rels/document.xml.rels",
+            "target": "commentsIds.xml",
+            "type": "http://schemas.microsoft.com/office/2016/09/relationships/commentsIds"
+          },
+          {
+            "id": "rId11",
+            "mode": "Internal",
+            "resolved_target": "word/commentsExtensible.xml",
+            "source_relationship_part": "word/_rels/document.xml.rels",
+            "target": "commentsExtensible.xml",
+            "type": "http://schemas.microsoft.com/office/2018/08/relationships/commentsExtensible"
+          },
+          {
+            "id": "rId15",
+            "mode": "Internal",
+            "resolved_target": "word/people.xml",
+            "source_relationship_part": "word/_rels/document.xml.rels",
+            "target": "people.xml",
+            "type": "http://schemas.microsoft.com/office/2011/relationships/people"
+          },
+          {
+            "id": "rId8",
+            "mode": "Internal",
+            "resolved_target": "word/comments.xml",
+            "source_relationship_part": "word/_rels/document.xml.rels",
+            "target": "comments.xml",
+            "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments"
+          },
+          {
+            "id": "rId9",
+            "mode": "Internal",
+            "resolved_target": "word/commentsExtended.xml",
+            "source_relationship_part": "word/_rels/document.xml.rels",
+            "target": "commentsExtended.xml",
+            "type": "http://schemas.microsoft.com/office/2011/relationships/commentsExtended"
+          }
+        ],
+        "comment_markers": {
+          "commentRangeEnd": 2,
+          "commentRangeStart": 2,
+          "commentReference": 2
+        },
+        "endnotes": {
+          "elements": 2,
+          "parts": [
+            "word/endnotes.xml"
+          ]
+        },
+        "equations": {
+          "oMath": 0,
+          "oMathPara": 0
+        },
+        "external_relationships": [],
+        "field_codes": {
+          "fldChar": 3,
+          "fldSimple": 0,
+          "instrText": 1
+        },
+        "footnotes": {
+          "elements": 2,
+          "parts": [
+            "word/footnotes.xml"
+          ]
+        },
+        "missing_relationship_targets": [],
+        "parsed_xml_parts": [
+          "[Content_Types].xml",
+          "_rels/.rels",
+          "customXml/_rels/item1.xml.rels",
+          "customXml/item1.xml",
+          "customXml/itemProps1.xml",
+          "docProps/app.xml",
+          "docProps/core.xml",
+          "word/_rels/document.xml.rels",
+          "word/comments.xml",
+          "word/commentsExtended.xml",
+          "word/commentsExtensible.xml",
+          "word/commentsIds.xml",
+          "word/document.xml",
+          "word/endnotes.xml",
+          "word/fontTable.xml",
+          "word/footer1.xml",
+          "word/footnotes.xml",
+          "word/header1.xml",
+          "word/numbering.xml",
+          "word/people.xml",
+          "word/settings.xml",
+          "word/styles.xml",
+          "word/theme/theme1.xml",
+          "word/webSettings.xml"
+        ],
+        "skipped_xml_parts": [],
+        "tracked_changes": {
+          "del": 0,
+          "ins": 0,
+          "moveFrom": 0,
+          "moveTo": 0
+        }
+      },
+      "package": {
+        "case_collisions": [],
+        "deep_audit_complete": true,
+        "directory_entries": 0,
+        "duplicate_entries": [],
+        "entries": 24,
+        "file_entries": 24,
+        "rejected_for_safe_audit": false,
+        "total_uncompressed_bytes": 443026,
+        "unsafe_entries": []
+      },
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11/HY6101_Combined_Essay2_中文版.docx",
+      "scope": "Read-only package-structure audit; this does not verify rendered appearance, pagination, or semantic correctness.",
+      "status": "ok",
+      "summary": {
+        "errors": 0,
+        "info": 3,
+        "issues": 0
+      }
+    }
+  ],
+  "schema_version": 1,
+  "scope": "Read-only package-structure audit; this does not verify rendered appearance, pagination, or semantic correctness.",
+  "summary": {
+    "files": 1,
+    "ok": 1,
+    "read_errors": 0,
+    "with_issues": 0
+  },
+  "tool": "audit_docx_package"
+}

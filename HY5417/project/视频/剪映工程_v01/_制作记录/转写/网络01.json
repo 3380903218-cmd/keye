@@ -1,0 +1,2128 @@
+{
+  "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_01_20231130_史密斯街更新_振兴与绅士化争议.mp4",
+  "method": "faster-whisper large-v3-turbo, local CPU int8; machine transcript for editorial verification",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.18,
+      "text": " A row of 13 shop houses along Smith Street in Chinatown is up for tender to a single master tenant.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.34,
+          "word": " A"
+        },
+        {
+          "start": 0.34,
+          "end": 0.56,
+          "word": " row"
+        },
+        {
+          "start": 0.56,
+          "end": 0.72,
+          "word": " of"
+        },
+        {
+          "start": 0.72,
+          "end": 1.1,
+          "word": " 13"
+        },
+        {
+          "start": 1.1,
+          "end": 1.42,
+          "word": " shop"
+        },
+        {
+          "start": 1.42,
+          "end": 1.82,
+          "word": " houses"
+        },
+        {
+          "start": 1.82,
+          "end": 2.3,
+          "word": " along"
+        },
+        {
+          "start": 2.3,
+          "end": 2.74,
+          "word": " Smith"
+        },
+        {
+          "start": 2.74,
+          "end": 3.08,
+          "word": " Street"
+        },
+        {
+          "start": 3.08,
+          "end": 3.34,
+          "word": " in"
+        },
+        {
+          "start": 3.34,
+          "end": 3.98,
+          "word": " Chinatown"
+        },
+        {
+          "start": 3.98,
+          "end": 4.3,
+          "word": " is"
+        },
+        {
+          "start": 4.3,
+          "end": 4.44,
+          "word": " up"
+        },
+        {
+          "start": 4.44,
+          "end": 4.62,
+          "word": " for"
+        },
+        {
+          "start": 4.62,
+          "end": 4.84,
+          "word": " tender"
+        },
+        {
+          "start": 4.84,
+          "end": 5.06,
+          "word": " to"
+        },
+        {
+          "start": 5.06,
+          "end": 5.18,
+          "word": " a"
+        },
+        {
+          "start": 5.18,
+          "end": 5.46,
+          "word": " single"
+        },
+        {
+          "start": 5.46,
+          "end": 5.82,
+          "word": " master"
+        },
+        {
+          "start": 5.82,
+          "end": 6.18,
+          "word": " tenant."
+        }
+      ]
+    },
+    {
+      "start": 6.7,
+      "end": 12.62,
+      "text": " It's part of rejuvenation plans to drive greater footfall to the historic conservation area.",
+      "words": [
+        {
+          "start": 6.7,
+          "end": 7.06,
+          "word": " It's"
+        },
+        {
+          "start": 7.06,
+          "end": 7.3,
+          "word": " part"
+        },
+        {
+          "start": 7.3,
+          "end": 7.62,
+          "word": " of"
+        },
+        {
+          "start": 7.62,
+          "end": 8.7,
+          "word": " rejuvenation"
+        },
+        {
+          "start": 8.7,
+          "end": 9.14,
+          "word": " plans"
+        },
+        {
+          "start": 9.14,
+          "end": 9.38,
+          "word": " to"
+        },
+        {
+          "start": 9.38,
+          "end": 9.76,
+          "word": " drive"
+        },
+        {
+          "start": 9.76,
+          "end": 10.2,
+          "word": " greater"
+        },
+        {
+          "start": 10.2,
+          "end": 10.76,
+          "word": " footfall"
+        },
+        {
+          "start": 10.76,
+          "end": 11.08,
+          "word": " to"
+        },
+        {
+          "start": 11.08,
+          "end": 11.2,
+          "word": " the"
+        },
+        {
+          "start": 11.2,
+          "end": 11.58,
+          "word": " historic"
+        },
+        {
+          "start": 11.58,
+          "end": 12.12,
+          "word": " conservation"
+        },
+        {
+          "start": 12.12,
+          "end": 12.62,
+          "word": " area."
+        }
+      ]
+    },
+    {
+      "start": 12.86,
+      "end": 20.04,
+      "text": " Our businesses there are hoping that the project will achieve that without compromising on the precinct's culture and heritage.",
+      "words": [
+        {
+          "start": 12.86,
+          "end": 13.04,
+          "word": " Our"
+        },
+        {
+          "start": 13.04,
+          "end": 13.44,
+          "word": " businesses"
+        },
+        {
+          "start": 13.44,
+          "end": 13.82,
+          "word": " there"
+        },
+        {
+          "start": 13.82,
+          "end": 14.46,
+          "word": " are"
+        },
+        {
+          "start": 14.46,
+          "end": 14.86,
+          "word": " hoping"
+        },
+        {
+          "start": 14.86,
+          "end": 15.08,
+          "word": " that"
+        },
+        {
+          "start": 15.08,
+          "end": 15.18,
+          "word": " the"
+        },
+        {
+          "start": 15.18,
+          "end": 15.52,
+          "word": " project"
+        },
+        {
+          "start": 15.52,
+          "end": 15.78,
+          "word": " will"
+        },
+        {
+          "start": 15.78,
+          "end": 16.18,
+          "word": " achieve"
+        },
+        {
+          "start": 16.18,
+          "end": 16.54,
+          "word": " that"
+        },
+        {
+          "start": 16.54,
+          "end": 16.9,
+          "word": " without"
+        },
+        {
+          "start": 16.9,
+          "end": 17.7,
+          "word": " compromising"
+        },
+        {
+          "start": 17.7,
+          "end": 17.9,
+          "word": " on"
+        },
+        {
+          "start": 17.9,
+          "end": 17.98,
+          "word": " the"
+        },
+        {
+          "start": 17.98,
+          "end": 18.56,
+          "word": " precinct's"
+        },
+        {
+          "start": 18.56,
+          "end": 19.2,
+          "word": " culture"
+        },
+        {
+          "start": 19.2,
+          "end": 19.56,
+          "word": " and"
+        },
+        {
+          "start": 19.56,
+          "end": 20.04,
+          "word": " heritage."
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 21.6,
+      "text": " Geraldine Yap with more.",
+      "words": [
+        {
+          "start": 20.3,
+          "end": 20.94,
+          "word": " Geraldine"
+        },
+        {
+          "start": 20.94,
+          "end": 21.14,
+          "word": " Yap"
+        },
+        {
+          "start": 21.14,
+          "end": 21.38,
+          "word": " with"
+        },
+        {
+          "start": 21.38,
+          "end": 21.6,
+          "word": " more."
+        }
+      ]
+    },
+    {
+      "start": 23.71,
+      "end": 30.29,
+      "text": " It's a quiet afternoon at Smith Street in Chinatown with only a handful of tourists passing through.",
+      "words": [
+        {
+          "start": 23.71,
+          "end": 24.31,
+          "word": " It's"
+        },
+        {
+          "start": 24.31,
+          "end": 24.49,
+          "word": " a"
+        },
+        {
+          "start": 24.49,
+          "end": 24.83,
+          "word": " quiet"
+        },
+        {
+          "start": 24.83,
+          "end": 25.35,
+          "word": " afternoon"
+        },
+        {
+          "start": 25.35,
+          "end": 25.73,
+          "word": " at"
+        },
+        {
+          "start": 25.73,
+          "end": 26.11,
+          "word": " Smith"
+        },
+        {
+          "start": 26.11,
+          "end": 26.53,
+          "word": " Street"
+        },
+        {
+          "start": 26.53,
+          "end": 26.73,
+          "word": " in"
+        },
+        {
+          "start": 26.73,
+          "end": 27.35,
+          "word": " Chinatown"
+        },
+        {
+          "start": 27.35,
+          "end": 27.83,
+          "word": " with"
+        },
+        {
+          "start": 27.83,
+          "end": 28.15,
+          "word": " only"
+        },
+        {
+          "start": 28.15,
+          "end": 28.33,
+          "word": " a"
+        },
+        {
+          "start": 28.33,
+          "end": 28.69,
+          "word": " handful"
+        },
+        {
+          "start": 28.69,
+          "end": 28.89,
+          "word": " of"
+        },
+        {
+          "start": 28.89,
+          "end": 29.41,
+          "word": " tourists"
+        },
+        {
+          "start": 29.41,
+          "end": 30.01,
+          "word": " passing"
+        },
+        {
+          "start": 30.01,
+          "end": 30.29,
+          "word": " through."
+        }
+      ]
+    },
+    {
+      "start": 30.29,
+      "end": 34.01,
+      "text": " But plans are underway to bring life back to the street.",
+      "words": [
+        {
+          "start": 30.29,
+          "end": 31.07,
+          "word": " But"
+        },
+        {
+          "start": 31.07,
+          "end": 31.45,
+          "word": " plans"
+        },
+        {
+          "start": 31.45,
+          "end": 31.65,
+          "word": " are"
+        },
+        {
+          "start": 31.65,
+          "end": 32.01,
+          "word": " underway"
+        },
+        {
+          "start": 32.01,
+          "end": 32.29,
+          "word": " to"
+        },
+        {
+          "start": 32.29,
+          "end": 32.51,
+          "word": " bring"
+        },
+        {
+          "start": 32.51,
+          "end": 32.85,
+          "word": " life"
+        },
+        {
+          "start": 32.85,
+          "end": 33.19,
+          "word": " back"
+        },
+        {
+          "start": 33.19,
+          "end": 33.51,
+          "word": " to"
+        },
+        {
+          "start": 33.51,
+          "end": 33.69,
+          "word": " the"
+        },
+        {
+          "start": 33.69,
+          "end": 34.01,
+          "word": " street."
+        }
+      ]
+    },
+    {
+      "start": 34.37,
+      "end": 42.49,
+      "text": " A tender has been launched for a master tenant to rejuvenate the row of shop houses from 11 to 37 Smith Street.",
+      "words": [
+        {
+          "start": 34.37,
+          "end": 34.99,
+          "word": " A"
+        },
+        {
+          "start": 34.99,
+          "end": 35.17,
+          "word": " tender"
+        },
+        {
+          "start": 35.17,
+          "end": 35.47,
+          "word": " has"
+        },
+        {
+          "start": 35.47,
+          "end": 35.61,
+          "word": " been"
+        },
+        {
+          "start": 35.61,
+          "end": 36.01,
+          "word": " launched"
+        },
+        {
+          "start": 36.01,
+          "end": 36.25,
+          "word": " for"
+        },
+        {
+          "start": 36.25,
+          "end": 36.41,
+          "word": " a"
+        },
+        {
+          "start": 36.41,
+          "end": 36.81,
+          "word": " master"
+        },
+        {
+          "start": 36.81,
+          "end": 37.15,
+          "word": " tenant"
+        },
+        {
+          "start": 37.15,
+          "end": 37.65,
+          "word": " to"
+        },
+        {
+          "start": 37.65,
+          "end": 38.45,
+          "word": " rejuvenate"
+        },
+        {
+          "start": 38.45,
+          "end": 38.59,
+          "word": " the"
+        },
+        {
+          "start": 38.59,
+          "end": 38.85,
+          "word": " row"
+        },
+        {
+          "start": 38.85,
+          "end": 39.07,
+          "word": " of"
+        },
+        {
+          "start": 39.07,
+          "end": 39.37,
+          "word": " shop"
+        },
+        {
+          "start": 39.37,
+          "end": 39.79,
+          "word": " houses"
+        },
+        {
+          "start": 39.79,
+          "end": 40.27,
+          "word": " from"
+        },
+        {
+          "start": 40.27,
+          "end": 40.69,
+          "word": " 11"
+        },
+        {
+          "start": 40.69,
+          "end": 41.03,
+          "word": " to"
+        },
+        {
+          "start": 41.03,
+          "end": 41.69,
+          "word": " 37"
+        },
+        {
+          "start": 41.69,
+          "end": 42.05,
+          "word": " Smith"
+        },
+        {
+          "start": 42.05,
+          "end": 42.49,
+          "word": " Street."
+        }
+      ]
+    },
+    {
+      "start": 43.11,
+      "end": 51.69,
+      "text": " Key goals include reviving the area's heritage as a Chinese opera hub and bringing in food offerings to showcase Singaporean cuisine.",
+      "words": [
+        {
+          "start": 43.11,
+          "end": 43.39,
+          "word": " Key"
+        },
+        {
+          "start": 43.39,
+          "end": 43.75,
+          "word": " goals"
+        },
+        {
+          "start": 43.75,
+          "end": 44.17,
+          "word": " include"
+        },
+        {
+          "start": 44.17,
+          "end": 44.85,
+          "word": " reviving"
+        },
+        {
+          "start": 44.85,
+          "end": 45.05,
+          "word": " the"
+        },
+        {
+          "start": 45.05,
+          "end": 45.47,
+          "word": " area's"
+        },
+        {
+          "start": 45.47,
+          "end": 45.83,
+          "word": " heritage"
+        },
+        {
+          "start": 45.83,
+          "end": 46.35,
+          "word": " as"
+        },
+        {
+          "start": 46.35,
+          "end": 46.57,
+          "word": " a"
+        },
+        {
+          "start": 46.57,
+          "end": 47.01,
+          "word": " Chinese"
+        },
+        {
+          "start": 47.01,
+          "end": 47.39,
+          "word": " opera"
+        },
+        {
+          "start": 47.39,
+          "end": 47.73,
+          "word": " hub"
+        },
+        {
+          "start": 47.73,
+          "end": 48.33,
+          "word": " and"
+        },
+        {
+          "start": 48.33,
+          "end": 48.67,
+          "word": " bringing"
+        },
+        {
+          "start": 48.67,
+          "end": 48.93,
+          "word": " in"
+        },
+        {
+          "start": 48.93,
+          "end": 49.21,
+          "word": " food"
+        },
+        {
+          "start": 49.21,
+          "end": 49.65,
+          "word": " offerings"
+        },
+        {
+          "start": 49.65,
+          "end": 49.93,
+          "word": " to"
+        },
+        {
+          "start": 49.93,
+          "end": 50.57,
+          "word": " showcase"
+        },
+        {
+          "start": 50.57,
+          "end": 51.29,
+          "word": " Singaporean"
+        },
+        {
+          "start": 51.29,
+          "end": 51.69,
+          "word": " cuisine."
+        }
+      ]
+    },
+    {
+      "start": 52.41,
+      "end": 58.05,
+      "text": " The tender also covers this pedestrian walkway which was home to the former Chinatown Food Street.",
+      "words": [
+        {
+          "start": 52.41,
+          "end": 52.81,
+          "word": " The"
+        },
+        {
+          "start": 52.81,
+          "end": 53.09,
+          "word": " tender"
+        },
+        {
+          "start": 53.09,
+          "end": 53.53,
+          "word": " also"
+        },
+        {
+          "start": 53.53,
+          "end": 54.01,
+          "word": " covers"
+        },
+        {
+          "start": 54.01,
+          "end": 54.35,
+          "word": " this"
+        },
+        {
+          "start": 54.35,
+          "end": 54.85,
+          "word": " pedestrian"
+        },
+        {
+          "start": 54.85,
+          "end": 55.35,
+          "word": " walkway"
+        },
+        {
+          "start": 55.35,
+          "end": 55.71,
+          "word": " which"
+        },
+        {
+          "start": 55.71,
+          "end": 55.93,
+          "word": " was"
+        },
+        {
+          "start": 55.93,
+          "end": 56.19,
+          "word": " home"
+        },
+        {
+          "start": 56.19,
+          "end": 56.39,
+          "word": " to"
+        },
+        {
+          "start": 56.39,
+          "end": 56.57,
+          "word": " the"
+        },
+        {
+          "start": 56.57,
+          "end": 56.89,
+          "word": " former"
+        },
+        {
+          "start": 56.89,
+          "end": 57.53,
+          "word": " Chinatown"
+        },
+        {
+          "start": 57.53,
+          "end": 57.77,
+          "word": " Food"
+        },
+        {
+          "start": 57.77,
+          "end": 58.05,
+          "word": " Street."
+        }
+      ]
+    },
+    {
+      "start": 58.05,
+      "end": 70.03,
+      "text": " Now the food street opened in 2001 as part of the efforts to revitalise Chinatown and had undergone an overhaul in 2013 including building a roof to protect diners from bad weather.",
+      "words": [
+        {
+          "start": 58.05,
+          "end": 58.79,
+          "word": " Now"
+        },
+        {
+          "start": 58.79,
+          "end": 58.93,
+          "word": " the"
+        },
+        {
+          "start": 58.93,
+          "end": 59.07,
+          "word": " food"
+        },
+        {
+          "start": 59.07,
+          "end": 59.33,
+          "word": " street"
+        },
+        {
+          "start": 59.33,
+          "end": 59.83,
+          "word": " opened"
+        },
+        {
+          "start": 59.83,
+          "end": 60.03,
+          "word": " in"
+        },
+        {
+          "start": 60.03,
+          "end": 60.91,
+          "word": " 2001"
+        },
+        {
+          "start": 60.91,
+          "end": 61.29,
+          "word": " as"
+        },
+        {
+          "start": 61.29,
+          "end": 61.59,
+          "word": " part"
+        },
+        {
+          "start": 61.59,
+          "end": 61.79,
+          "word": " of"
+        },
+        {
+          "start": 61.79,
+          "end": 61.97,
+          "word": " the"
+        },
+        {
+          "start": 61.97,
+          "end": 62.25,
+          "word": " efforts"
+        },
+        {
+          "start": 62.25,
+          "end": 62.47,
+          "word": " to"
+        },
+        {
+          "start": 62.47,
+          "end": 63.25,
+          "word": " revitalise"
+        },
+        {
+          "start": 63.25,
+          "end": 63.81,
+          "word": " Chinatown"
+        },
+        {
+          "start": 63.81,
+          "end": 64.33,
+          "word": " and"
+        },
+        {
+          "start": 64.33,
+          "end": 64.47,
+          "word": " had"
+        },
+        {
+          "start": 64.47,
+          "end": 64.87,
+          "word": " undergone"
+        },
+        {
+          "start": 64.87,
+          "end": 65.05,
+          "word": " an"
+        },
+        {
+          "start": 65.05,
+          "end": 65.59,
+          "word": " overhaul"
+        },
+        {
+          "start": 65.59,
+          "end": 65.79,
+          "word": " in"
+        },
+        {
+          "start": 65.79,
+          "end": 66.49,
+          "word": " 2013"
+        },
+        {
+          "start": 66.49,
+          "end": 67.31,
+          "word": " including"
+        },
+        {
+          "start": 67.31,
+          "end": 67.77,
+          "word": " building"
+        },
+        {
+          "start": 67.77,
+          "end": 67.97,
+          "word": " a"
+        },
+        {
+          "start": 67.97,
+          "end": 68.25,
+          "word": " roof"
+        },
+        {
+          "start": 68.25,
+          "end": 68.49,
+          "word": " to"
+        },
+        {
+          "start": 68.49,
+          "end": 68.89,
+          "word": " protect"
+        },
+        {
+          "start": 68.89,
+          "end": 69.35,
+          "word": " diners"
+        },
+        {
+          "start": 69.35,
+          "end": 69.51,
+          "word": " from"
+        },
+        {
+          "start": 69.51,
+          "end": 69.75,
+          "word": " bad"
+        },
+        {
+          "start": 69.75,
+          "end": 70.03,
+          "word": " weather."
+        }
+      ]
+    },
+    {
+      "start": 70.27,
+      "end": 78.07,
+      "text": " But the food street lost its sizzle over the years and eventually closed in 2021 due to a lack of both local and foreign visitors.",
+      "words": [
+        {
+          "start": 70.27,
+          "end": 70.69,
+          "word": " But"
+        },
+        {
+          "start": 70.69,
+          "end": 70.81,
+          "word": " the"
+        },
+        {
+          "start": 70.81,
+          "end": 70.97,
+          "word": " food"
+        },
+        {
+          "start": 70.97,
+          "end": 71.21,
+          "word": " street"
+        },
+        {
+          "start": 71.21,
+          "end": 71.49,
+          "word": " lost"
+        },
+        {
+          "start": 71.49,
+          "end": 71.73,
+          "word": " its"
+        },
+        {
+          "start": 71.73,
+          "end": 72.07,
+          "word": " sizzle"
+        },
+        {
+          "start": 72.07,
+          "end": 72.29,
+          "word": " over"
+        },
+        {
+          "start": 72.29,
+          "end": 72.41,
+          "word": " the"
+        },
+        {
+          "start": 72.41,
+          "end": 72.71,
+          "word": " years"
+        },
+        {
+          "start": 72.71,
+          "end": 72.95,
+          "word": " and"
+        },
+        {
+          "start": 72.95,
+          "end": 73.45,
+          "word": " eventually"
+        },
+        {
+          "start": 73.45,
+          "end": 73.87,
+          "word": " closed"
+        },
+        {
+          "start": 73.87,
+          "end": 74.09,
+          "word": " in"
+        },
+        {
+          "start": 74.09,
+          "end": 74.83,
+          "word": " 2021"
+        },
+        {
+          "start": 74.83,
+          "end": 75.43,
+          "word": " due"
+        },
+        {
+          "start": 75.43,
+          "end": 75.59,
+          "word": " to"
+        },
+        {
+          "start": 75.59,
+          "end": 75.69,
+          "word": " a"
+        },
+        {
+          "start": 75.69,
+          "end": 75.91,
+          "word": " lack"
+        },
+        {
+          "start": 75.91,
+          "end": 76.13,
+          "word": " of"
+        },
+        {
+          "start": 76.13,
+          "end": 76.39,
+          "word": " both"
+        },
+        {
+          "start": 76.39,
+          "end": 76.91,
+          "word": " local"
+        },
+        {
+          "start": 76.91,
+          "end": 77.15,
+          "word": " and"
+        },
+        {
+          "start": 77.15,
+          "end": 77.55,
+          "word": " foreign"
+        },
+        {
+          "start": 77.55,
+          "end": 78.07,
+          "word": " visitors."
+        }
+      ]
+    },
+    {
+      "start": 78.85,
+      "end": 86.03,
+      "text": " Units on the second and third floors of shop houses from 11 to 21 Smith Street will not be affected.",
+      "words": [
+        {
+          "start": 78.85,
+          "end": 79.57,
+          "word": " Units"
+        },
+        {
+          "start": 79.57,
+          "end": 79.75,
+          "word": " on"
+        },
+        {
+          "start": 79.75,
+          "end": 79.97,
+          "word": " the"
+        },
+        {
+          "start": 79.97,
+          "end": 80.25,
+          "word": " second"
+        },
+        {
+          "start": 80.25,
+          "end": 80.57,
+          "word": " and"
+        },
+        {
+          "start": 80.57,
+          "end": 80.87,
+          "word": " third"
+        },
+        {
+          "start": 80.87,
+          "end": 81.27,
+          "word": " floors"
+        },
+        {
+          "start": 81.27,
+          "end": 81.51,
+          "word": " of"
+        },
+        {
+          "start": 81.51,
+          "end": 81.73,
+          "word": " shop"
+        },
+        {
+          "start": 81.73,
+          "end": 82.13,
+          "word": " houses"
+        },
+        {
+          "start": 82.13,
+          "end": 82.55,
+          "word": " from"
+        },
+        {
+          "start": 82.55,
+          "end": 82.99,
+          "word": " 11"
+        },
+        {
+          "start": 82.99,
+          "end": 83.25,
+          "word": " to"
+        },
+        {
+          "start": 83.25,
+          "end": 83.89,
+          "word": " 21"
+        },
+        {
+          "start": 83.89,
+          "end": 84.25,
+          "word": " Smith"
+        },
+        {
+          "start": 84.25,
+          "end": 84.65,
+          "word": " Street"
+        },
+        {
+          "start": 84.65,
+          "end": 85.01,
+          "word": " will"
+        },
+        {
+          "start": 85.01,
+          "end": 85.35,
+          "word": " not"
+        },
+        {
+          "start": 85.35,
+          "end": 85.59,
+          "word": " be"
+        },
+        {
+          "start": 85.59,
+          "end": 86.03,
+          "word": " affected."
+        }
+      ]
+    },
+    {
+      "start": 86.41,
+      "end": 92.83,
+      "text": " Some of them house arts entities like a Poetry Society and the Singapore Association of Writers.",
+      "words": [
+        {
+          "start": 86.41,
+          "end": 86.95,
+          "word": " Some"
+        },
+        {
+          "start": 86.95,
+          "end": 87.07,
+          "word": " of"
+        },
+        {
+          "start": 87.07,
+          "end": 87.27,
+          "word": " them"
+        },
+        {
+          "start": 87.27,
+          "end": 87.71,
+          "word": " house"
+        },
+        {
+          "start": 87.71,
+          "end": 88.17,
+          "word": " arts"
+        },
+        {
+          "start": 88.17,
+          "end": 88.63,
+          "word": " entities"
+        },
+        {
+          "start": 88.63,
+          "end": 89.09,
+          "word": " like"
+        },
+        {
+          "start": 89.09,
+          "end": 89.25,
+          "word": " a"
+        },
+        {
+          "start": 89.25,
+          "end": 89.75,
+          "word": " Poetry"
+        },
+        {
+          "start": 89.75,
+          "end": 90.35,
+          "word": " Society"
+        },
+        {
+          "start": 90.35,
+          "end": 90.93,
+          "word": " and"
+        },
+        {
+          "start": 90.93,
+          "end": 91.07,
+          "word": " the"
+        },
+        {
+          "start": 91.07,
+          "end": 91.41,
+          "word": " Singapore"
+        },
+        {
+          "start": 91.41,
+          "end": 92.03,
+          "word": " Association"
+        },
+        {
+          "start": 92.03,
+          "end": 92.47,
+          "word": " of"
+        },
+        {
+          "start": 92.47,
+          "end": 92.83,
+          "word": " Writers."
+        }
+      ]
+    },
+    {
+      "start": 93.39,
+      "end": 97.91,
+      "text": " The tenancy of existing businesses will end by middle of next year.",
+      "words": [
+        {
+          "start": 93.39,
+          "end": 94.11,
+          "word": " The"
+        },
+        {
+          "start": 94.11,
+          "end": 94.55,
+          "word": " tenancy"
+        },
+        {
+          "start": 94.55,
+          "end": 94.83,
+          "word": " of"
+        },
+        {
+          "start": 94.83,
+          "end": 95.39,
+          "word": " existing"
+        },
+        {
+          "start": 95.39,
+          "end": 95.95,
+          "word": " businesses"
+        },
+        {
+          "start": 95.95,
+          "end": 96.29,
+          "word": " will"
+        },
+        {
+          "start": 96.29,
+          "end": 96.61,
+          "word": " end"
+        },
+        {
+          "start": 96.61,
+          "end": 96.85,
+          "word": " by"
+        },
+        {
+          "start": 96.85,
+          "end": 97.19,
+          "word": " middle"
+        },
+        {
+          "start": 97.19,
+          "end": 97.39,
+          "word": " of"
+        },
+        {
+          "start": 97.39,
+          "end": 97.61,
+          "word": " next"
+        },
+        {
+          "start": 97.61,
+          "end": 97.91,
+          "word": " year."
+        }
+      ]
+    },
+    {
+      "start": 97.91,
+      "end": 101.33,
+      "text": " This handmade noodle shop's a long-time tenant here.",
+      "words": [
+        {
+          "start": 97.91,
+          "end": 98.81,
+          "word": " This"
+        },
+        {
+          "start": 98.81,
+          "end": 99.17,
+          "word": " handmade"
+        },
+        {
+          "start": 99.17,
+          "end": 99.47,
+          "word": " noodle"
+        },
+        {
+          "start": 99.47,
+          "end": 99.93,
+          "word": " shop's"
+        },
+        {
+          "start": 99.93,
+          "end": 100.21,
+          "word": " a"
+        },
+        {
+          "start": 100.21,
+          "end": 100.41,
+          "word": " long"
+        },
+        {
+          "start": 100.41,
+          "end": 100.71,
+          "word": "-time"
+        },
+        {
+          "start": 100.71,
+          "end": 101.01,
+          "word": " tenant"
+        },
+        {
+          "start": 101.01,
+          "end": 101.33,
+          "word": " here."
+        }
+      ]
+    },
+    {
+      "start": 101.65,
+      "end": 107.39,
+      "text": " Its owner says business is now only about 60% of what it was before the pandemic.",
+      "words": [
+        {
+          "start": 101.65,
+          "end": 102.09,
+          "word": " Its"
+        },
+        {
+          "start": 102.09,
+          "end": 102.43,
+          "word": " owner"
+        },
+        {
+          "start": 102.43,
+          "end": 102.81,
+          "word": " says"
+        },
+        {
+          "start": 102.81,
+          "end": 103.25,
+          "word": " business"
+        },
+        {
+          "start": 103.25,
+          "end": 103.59,
+          "word": " is"
+        },
+        {
+          "start": 103.59,
+          "end": 103.81,
+          "word": " now"
+        },
+        {
+          "start": 103.81,
+          "end": 104.17,
+          "word": " only"
+        },
+        {
+          "start": 104.17,
+          "end": 104.47,
+          "word": " about"
+        },
+        {
+          "start": 104.47,
+          "end": 104.99,
+          "word": " 60"
+        },
+        {
+          "start": 104.99,
+          "end": 105.27,
+          "word": "%"
+        },
+        {
+          "start": 105.27,
+          "end": 105.69,
+          "word": " of"
+        },
+        {
+          "start": 105.69,
+          "end": 105.87,
+          "word": " what"
+        },
+        {
+          "start": 105.87,
+          "end": 105.99,
+          "word": " it"
+        },
+        {
+          "start": 105.99,
+          "end": 106.23,
+          "word": " was"
+        },
+        {
+          "start": 106.23,
+          "end": 106.69,
+          "word": " before"
+        },
+        {
+          "start": 106.69,
+          "end": 106.93,
+          "word": " the"
+        },
+        {
+          "start": 106.93,
+          "end": 107.39,
+          "word": " pandemic."
+        }
+      ]
+    },
+    {
+      "start": 107.85,
+      "end": 116.61,
+      "text": " He wishes to stay on under the new master tenant but hopes the rejuvenation project won't over-commercialise the area and drive up rents.",
+      "words": [
+        {
+          "start": 107.85,
+          "end": 108.23,
+          "word": " He"
+        },
+        {
+          "start": 108.23,
+          "end": 108.63,
+          "word": " wishes"
+        },
+        {
+          "start": 108.63,
+          "end": 108.89,
+          "word": " to"
+        },
+        {
+          "start": 108.89,
+          "end": 109.11,
+          "word": " stay"
+        },
+        {
+          "start": 109.11,
+          "end": 109.43,
+          "word": " on"
+        },
+        {
+          "start": 109.43,
+          "end": 109.73,
+          "word": " under"
+        },
+        {
+          "start": 109.73,
+          "end": 109.89,
+          "word": " the"
+        },
+        {
+          "start": 109.89,
+          "end": 110.11,
+          "word": " new"
+        },
+        {
+          "start": 110.11,
+          "end": 110.51,
+          "word": " master"
+        },
+        {
+          "start": 110.51,
+          "end": 110.85,
+          "word": " tenant"
+        },
+        {
+          "start": 110.85,
+          "end": 111.51,
+          "word": " but"
+        },
+        {
+          "start": 111.51,
+          "end": 111.85,
+          "word": " hopes"
+        },
+        {
+          "start": 111.85,
+          "end": 112.01,
+          "word": " the"
+        },
+        {
+          "start": 112.01,
+          "end": 112.75,
+          "word": " rejuvenation"
+        },
+        {
+          "start": 112.75,
+          "end": 113.19,
+          "word": " project"
+        },
+        {
+          "start": 113.19,
+          "end": 113.77,
+          "word": " won't"
+        },
+        {
+          "start": 113.77,
+          "end": 114.15,
+          "word": " over"
+        },
+        {
+          "start": 114.15,
+          "end": 114.81,
+          "word": "-commercialise"
+        },
+        {
+          "start": 114.81,
+          "end": 115.01,
+          "word": " the"
+        },
+        {
+          "start": 115.01,
+          "end": 115.37,
+          "word": " area"
+        },
+        {
+          "start": 115.37,
+          "end": 115.73,
+          "word": " and"
+        },
+        {
+          "start": 115.73,
+          "end": 115.99,
+          "word": " drive"
+        },
+        {
+          "start": 115.99,
+          "end": 116.15,
+          "word": " up"
+        },
+        {
+          "start": 116.15,
+          "end": 116.61,
+          "word": " rents."
+        }
+      ]
+    },
+    {
+      "start": 116.95,
+      "end": 125.47,
+      "text": " Meanwhile, the Chinatown Business Association says it's looking forward to new offerings and concepts to bring the bus back to Chinatown.",
+      "words": [
+        {
+          "start": 116.95,
+          "end": 117.55,
+          "word": " Meanwhile,"
+        },
+        {
+          "start": 117.81,
+          "end": 117.89,
+          "word": " the"
+        },
+        {
+          "start": 117.89,
+          "end": 118.49,
+          "word": " Chinatown"
+        },
+        {
+          "start": 118.49,
+          "end": 118.79,
+          "word": " Business"
+        },
+        {
+          "start": 118.79,
+          "end": 119.59,
+          "word": " Association"
+        },
+        {
+          "start": 119.59,
+          "end": 120.05,
+          "word": " says"
+        },
+        {
+          "start": 120.05,
+          "end": 120.43,
+          "word": " it's"
+        },
+        {
+          "start": 120.43,
+          "end": 120.75,
+          "word": " looking"
+        },
+        {
+          "start": 120.75,
+          "end": 121.13,
+          "word": " forward"
+        },
+        {
+          "start": 121.13,
+          "end": 121.47,
+          "word": " to"
+        },
+        {
+          "start": 121.47,
+          "end": 121.77,
+          "word": " new"
+        },
+        {
+          "start": 121.77,
+          "end": 122.27,
+          "word": " offerings"
+        },
+        {
+          "start": 122.27,
+          "end": 122.49,
+          "word": " and"
+        },
+        {
+          "start": 122.49,
+          "end": 123.05,
+          "word": " concepts"
+        },
+        {
+          "start": 123.05,
+          "end": 123.59,
+          "word": " to"
+        },
+        {
+          "start": 123.59,
+          "end": 123.85,
+          "word": " bring"
+        },
+        {
+          "start": 123.85,
+          "end": 123.99,
+          "word": " the"
+        },
+        {
+          "start": 123.99,
+          "end": 124.21,
+          "word": " bus"
+        },
+        {
+          "start": 124.21,
+          "end": 124.61,
+          "word": " back"
+        },
+        {
+          "start": 124.61,
+          "end": 124.85,
+          "word": " to"
+        },
+        {
+          "start": 124.85,
+          "end": 125.47,
+          "word": " Chinatown."
+        }
+      ]
+    },
+    {
+      "start": 125.47,
+      "end": 136.61,
+      "text": " We are hopeful to have a very, very close and deep collaboration with the new operator to promote and augment Chinatown's rich heritage and culture.",
+      "words": [
+        {
+          "start": 125.47,
+          "end": 126.45,
+          "word": " We"
+        },
+        {
+          "start": 126.45,
+          "end": 126.91,
+          "word": " are"
+        },
+        {
+          "start": 126.91,
+          "end": 127.73,
+          "word": " hopeful"
+        },
+        {
+          "start": 127.73,
+          "end": 128.59,
+          "word": " to"
+        },
+        {
+          "start": 128.59,
+          "end": 128.81,
+          "word": " have"
+        },
+        {
+          "start": 128.81,
+          "end": 128.95,
+          "word": " a"
+        },
+        {
+          "start": 128.95,
+          "end": 129.23,
+          "word": " very,"
+        },
+        {
+          "start": 129.35,
+          "end": 129.49,
+          "word": " very"
+        },
+        {
+          "start": 129.49,
+          "end": 129.89,
+          "word": " close"
+        },
+        {
+          "start": 129.89,
+          "end": 130.25,
+          "word": " and"
+        },
+        {
+          "start": 130.25,
+          "end": 130.53,
+          "word": " deep"
+        },
+        {
+          "start": 130.53,
+          "end": 131.05,
+          "word": " collaboration"
+        },
+        {
+          "start": 131.05,
+          "end": 131.75,
+          "word": " with"
+        },
+        {
+          "start": 131.75,
+          "end": 131.87,
+          "word": " the"
+        },
+        {
+          "start": 131.87,
+          "end": 132.01,
+          "word": " new"
+        },
+        {
+          "start": 132.01,
+          "end": 132.43,
+          "word": " operator"
+        },
+        {
+          "start": 132.43,
+          "end": 132.91,
+          "word": " to"
+        },
+        {
+          "start": 132.91,
+          "end": 133.59,
+          "word": " promote"
+        },
+        {
+          "start": 133.59,
+          "end": 134.45,
+          "word": " and"
+        },
+        {
+          "start": 134.45,
+          "end": 134.75,
+          "word": " augment"
+        },
+        {
+          "start": 134.75,
+          "end": 135.45,
+          "word": " Chinatown's"
+        },
+        {
+          "start": 135.45,
+          "end": 135.69,
+          "word": " rich"
+        },
+        {
+          "start": 135.69,
+          "end": 136.05,
+          "word": " heritage"
+        },
+        {
+          "start": 136.05,
+          "end": 136.27,
+          "word": " and"
+        },
+        {
+          "start": 136.27,
+          "end": 136.61,
+          "word": " culture."
+        }
+      ]
+    },
+    {
+      "start": 136.99,
+      "end": 147.23,
+      "text": " And with this ride, we hope that residents in Chinatown, Singaporeans, tourists over the world can enjoy and deepen their experience in Singapore's Chinatown even more.",
+      "words": [
+        {
+          "start": 136.99,
+          "end": 137.37,
+          "word": " And"
+        },
+        {
+          "start": 137.37,
+          "end": 137.57,
+          "word": " with"
+        },
+        {
+          "start": 137.57,
+          "end": 137.79,
+          "word": " this"
+        },
+        {
+          "start": 137.79,
+          "end": 138.07,
+          "word": " ride,"
+        },
+        {
+          "start": 138.33,
+          "end": 138.43,
+          "word": " we"
+        },
+        {
+          "start": 138.43,
+          "end": 138.71,
+          "word": " hope"
+        },
+        {
+          "start": 138.71,
+          "end": 138.99,
+          "word": " that"
+        },
+        {
+          "start": 138.99,
+          "end": 140.23,
+          "word": " residents"
+        },
+        {
+          "start": 140.23,
+          "end": 140.45,
+          "word": " in"
+        },
+        {
+          "start": 140.45,
+          "end": 141.01,
+          "word": " Chinatown,"
+        },
+        {
+          "start": 141.15,
+          "end": 141.75,
+          "word": " Singaporeans,"
+        },
+        {
+          "start": 141.85,
+          "end": 142.05,
+          "word": " tourists"
+        },
+        {
+          "start": 142.05,
+          "end": 142.29,
+          "word": " over"
+        },
+        {
+          "start": 142.29,
+          "end": 142.47,
+          "word": " the"
+        },
+        {
+          "start": 142.47,
+          "end": 142.65,
+          "word": " world"
+        },
+        {
+          "start": 142.65,
+          "end": 143.09,
+          "word": " can"
+        },
+        {
+          "start": 143.09,
+          "end": 143.61,
+          "word": " enjoy"
+        },
+        {
+          "start": 143.61,
+          "end": 144.21,
+          "word": " and"
+        },
+        {
+          "start": 144.21,
+          "end": 144.49,
+          "word": " deepen"
+        },
+        {
+          "start": 144.49,
+          "end": 144.67,
+          "word": " their"
+        },
+        {
+          "start": 144.67,
+          "end": 145.17,
+          "word": " experience"
+        },
+        {
+          "start": 145.17,
+          "end": 145.43,
+          "word": " in"
+        },
+        {
+          "start": 145.43,
+          "end": 145.93,
+          "word": " Singapore's"
+        },
+        {
+          "start": 145.93,
+          "end": 146.37,
+          "word": " Chinatown"
+        },
+        {
+          "start": 146.37,
+          "end": 146.79,
+          "word": " even"
+        },
+        {
+          "start": 146.79,
+          "end": 147.23,
+          "word": " more."
+        }
+      ]
+    },
+    {
+      "start": 147.23,
+      "end": 155.39,
+      "text": " The tender will be open for 12 weeks and the lease is for five years with an option to renew for another four years.",
+      "words": [
+        {
+          "start": 147.23,
+          "end": 148.05,
+          "word": " The"
+        },
+        {
+          "start": 148.05,
+          "end": 148.33,
+          "word": " tender"
+        },
+        {
+          "start": 148.33,
+          "end": 148.59,
+          "word": " will"
+        },
+        {
+          "start": 148.59,
+          "end": 148.77,
+          "word": " be"
+        },
+        {
+          "start": 148.77,
+          "end": 149.09,
+          "word": " open"
+        },
+        {
+          "start": 149.09,
+          "end": 149.31,
+          "word": " for"
+        },
+        {
+          "start": 149.31,
+          "end": 149.67,
+          "word": " 12"
+        },
+        {
+          "start": 149.67,
+          "end": 150.17,
+          "word": " weeks"
+        },
+        {
+          "start": 150.17,
+          "end": 150.73,
+          "word": " and"
+        },
+        {
+          "start": 150.73,
+          "end": 150.87,
+          "word": " the"
+        },
+        {
+          "start": 150.87,
+          "end": 151.13,
+          "word": " lease"
+        },
+        {
+          "start": 151.13,
+          "end": 151.29,
+          "word": " is"
+        },
+        {
+          "start": 151.29,
+          "end": 151.47,
+          "word": " for"
+        },
+        {
+          "start": 151.47,
+          "end": 151.79,
+          "word": " five"
+        },
+        {
+          "start": 151.79,
+          "end": 152.19,
+          "word": " years"
+        },
+        {
+          "start": 152.19,
+          "end": 152.83,
+          "word": " with"
+        },
+        {
+          "start": 152.83,
+          "end": 152.97,
+          "word": " an"
+        },
+        {
+          "start": 152.97,
+          "end": 153.27,
+          "word": " option"
+        },
+        {
+          "start": 153.27,
+          "end": 153.53,
+          "word": " to"
+        },
+        {
+          "start": 153.53,
+          "end": 153.97,
+          "word": " renew"
+        },
+        {
+          "start": 153.97,
+          "end": 154.25,
+          "word": " for"
+        },
+        {
+          "start": 154.25,
+          "end": 154.69,
+          "word": " another"
+        },
+        {
+          "start": 154.69,
+          "end": 155.07,
+          "word": " four"
+        },
+        {
+          "start": 155.07,
+          "end": 155.39,
+          "word": " years."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1259 @@
+=== 原PDF第1页 ===
+AHR Forum
+Historical Research in a Digital Age: Reflections
+from the Mapping the Republic of Letters Project
+DAN EDELSTEIN, PAULA FINDLEN, GIOVANNA CESERANI,
+CAROLINE WINTERER, AND NICOLE COLEMAN
+ABOUT EIGHT YEARS AGO, WE rather serendipitously found ourselves in the early stages
+of a group research project that seemed to have potential as an experiment with how
+to do digital history. The result was Mapping the Republic of Letters, a collaborative
+endeavor based at Stanford University. The project consists of a growing number of
+wide-ranging case studies, including “British Architects on the Grand Tour in Eigh-
+teenth-Century Italy,” the subject of the second article in this AHR Forum. The case
+studies engage in multiple ways with the early modern Republic of Letters, and, as
+each is based on a different source of information, they pose a variety of problems for
+data-handling and unique challenges for visualizing it. All of them are available on
+our common website.1
+At one time, archival material remained more or less in the archives. Historians
+inclined to use such materials routinely performed acts of intellectual pilgrimage, as
+many of us still do today, to be initiated into this essential rite of historical apprentice-
+ship. They traveled, learned how to use their archives onsite, and extracted hard-
+earned information like Forty-Niners panning for gold, returning home with pages of
+notes, perhaps even a bit of microﬁlm to read on a machine or print out on that nau-
+seatingly smelly paper whose pungent chemical odor was anything but the nirvana of
+Research for this project was initially made possible by a Stanford Presidential Fund for Innovation in the
+Humanities Grant, and subsequently by funding from the Stanford Humanities Center, the Dean of
+Research, the Vice Provost of Graduate Education, the Vice Provost of Undergraduate Education, and
+the Vice Provost of Online Learning. Additional funding came from a National Endowment for the
+Humanities (NEH) “Digging into Data” Challenge Grant (HJ-50056, 2009–2011), as well as an NEH Dig-
+ital Humanities Implementation Grant (HK-50087, 2013–2016). Important collaborators include the Elec-
+tronic Enlightenment Project (Oxford University), the Packard Humanities Institute, DensityDesign
+Research Lab (Politecnico di Milano), Stanford University Libraries, the Cultures of Knowledge Project
+(Oxford University), and the Circulation of Knowledge and Learned Practices Project (Huygens Instiuut).
+The “Mapping the Republic of Letters” Project is part of CESTA, Stanford’s Center for Spatial and Tex-
+tual Analysis. The authors also wish to thank Keith Baker, Giorgio Caviglia, Zephyr Frank, Anthony
+Grafton, Glauco Mantegari, Robert McNamee, and the wonderful teams of graduate and undergraduate
+students who have worked with us on this project.
+1 See http://republicofletters.stanford.edu/publications/.
+V
+C The Author(s) 2017. Published by Oxford University Press on behalf of the American Historical
+Association. All rights reserved. For permissions, please e-mail journals.permissions@oup.com.
+400
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第2页 ===
+the past.2 A much smaller subset of the scholarly community, whose delight in docu-
+ments long predated the rise of the professional historian of the mid-nineteenth cen-
+tury, ambitiously undertook the laborious project of transcription, creating critical
+editions of key documents that form the backbone of many histories of famous ﬁg-
+ures, deﬁning moments, and other noteworthy events.3 This tiny portion of the inﬁnite
+documentation of the past found its way into print, while the majority remained in the
+archive.
+In the 1960s, social science historians began to consider how computers facilitated
+quantitative analysis. An entire generation or two of historians discovered the punch
+card and began to code. During the 1970s, a steady stream of scholarship emerged
+from these early experiments with historical datasets. This approach appealed espe-
+cially to historians who wished to migrate away from traditional political and intellec-
+tual history, writing the kind of historical sociology and family, labor, and economic
+history whose grandest manifestos might be Emmanuel Le Roy Ladurie’s 1974 essay
+“History That Stands Still,” which summarized well the goals and ambitions of the
+early Annales School, and historical sociologist Charles Tilly’s evocatively titled Big
+Structures, Large Processes, Huge Comparisons a decade later.4 The foundations of the
+new social history of the 1960s through the 1980s rest upon these impressive early ex-
+periments with big historical data and its insistence on the value of cliometrics.
+This was the old era of big history with big data. We are now in the early stages of
+a new age of historical data that offers new possibilities as well as challenges. The past
+ﬁfteen years have seen a gradual but perceptible shift in where the archive is located
+as an ever greater portion of the historical record migrates piecemeal from boxes and
+books to PDFs and JPGs, and a vast sea of digitized text. A growing number of manu-
+scripts can be viewed online, and hefty multivolume document collections are now
+digitized, indexed, and easily searchable. Historians increasingly ﬁnd themselves uti-
+lizing digital databases as the idea of the searchable document and the virtual archive
+reorganize how libraries, research institutes, teams of scholars, and even individual re-
+searchers present and share interesting sources. To take one example, bibliometrics
+once belonged primarily to librarians and archivists and now seems to interest a
+broad, interdisciplinary array of scholars as an analytic research tool. For all these rea-
+sons, it is not surprising that the history of information has become an important top-
+ic.5 To paraphrase Raymond Williams, “information” is one of the keywords of the
+2 For an enjoyable meditation on the origins of these historical practices, see Carolyn Steedman,
+Dust: The Archive and Cultural History (New Brunswick, N.J., 2002). The early modern archive in particu-
+lar is beautifully evoked in Arlette Farge, The Allure of the Archives, trans. Thomas Scott-Railton (New
+Haven, Conn., 2013).
+3 On this subject, a classic point of departure is Anthony Grafton, The Footnote: A Curious History
+(Cambridge, Mass., 1997).
+4 Emmanuel Le Roy Ladurie, “History That Stands Still,” in Ladurie, The Mind and Method of the
+Historian, trans. Si^an Reynolds and Ben Reynolds (Chicago, 1981), 1–27; Charles Tilly, Big Structures,
+Large Processes, Huge Comparisons (New York, 1984). The most recent overview of the Annales School
+is Andre´ Burguie`re, The Annales School: An Intellectual History, trans. Jane Marie Todd (Ithaca, N.Y.,
+2009). For early methodological reflections on quantitative history, see William O. Aydelotte, “Quan-
+tification in History,” American Historical Review 71, no. 3 (April 1966): 803–825; William O. Aydelotte,
+Robert William Fogel, and Allan G. Bogue, eds., The Dimensions of Quantitative Research in History
+(Princeton, N.J., 1972).
+5 See, for instance, Paul N. Edwards, Lisa Gitelman, Gabrielle Hecht, Adrian Johns, Brian Larkin,
+and Neil Safier, “Historical Perspectives on the Circulation of Information,” AHR Conversation, Ameri-
+can Historical Review 116, no. 5 (December 2011): 1393–1435.
+Historical Research in a Digital Age
+401
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第3页 ===
+early twenty-ﬁrst century, and so too is “data.”6 The question, however, is not how to
+write the history of information but what to do with all of it, as historians in an era
+when we have a burgeoning array of techniques and technologies available to help us
+scrape, mine, curate, analyze, and visualize data.
+Too much information, it turns out, might be a good thing. Perhaps the ﬁrst-year
+graduate student, overwhelmed by shelves full of books in his or her ﬁeld, may not im-
+mediately agree. “Information overload” is a common reaction—now as in the past—
+to the vast collections of knowledge that have accumulated in our libraries, and are in-
+creasingly migrating online.7 But sometimes, to paraphrase Jean-Jacques Rousseau,
+the cure lies in the poison.8 “Big data” is the name commonly given to the exponential
+increase in information, whether it results from the digitization of analog data stores
+or is collected in real time from remote sensors, the web, or mobile devices.9 The dif-
+ference between these datasets and that multitude of books is the potential for discov-
+ery and analysis. “Big data” refers not to size alone, as the term suggests, but to the in-
+terconnectedness of resources. For our purposes, big data is what you get when those
+shelves of books have been digitized, structured, and interlinked in such a way that
+the information contained within them can be ﬁltered, plotted, measured, parsed, and
+visualized. The scholar starting out in a new ﬁeld still has to ingest and process the lit-
+erature the old-fashioned way—by reading it. But we can put computational tools to
+work to help with the ingesting and processing and to inspire other questions we
+might ask with this material as we look across, as well as within, our sources.
+Few humanists would argue that reading books and manuscripts is a bad thing.
+Indeed, the newfound availability of large datasets in the humanities at times conjures
+up the worrisome specter of digitally savvy sorcerer’s apprentices who, thanks to new
+databases, “cite anything and construe nothing.”10 Searchable, sortable data can make
+even beginning scholars look erudite and clever. An eager researcher can accumulate
+6 Raymond Williams, Keywords: A Vocabulary of Culture and Society (New York, 1976). On the his-
+tory of information, see especially C. A. Bayly, Empire and Information: Intelligence Gathering and Social
+Communication in India, 1780–1870 (Cambridge, 1996); Daniel R. Headrick, When Information Came of
+Age: Technologies of Knowledge in the Age of Reason and Revolution, 1700–1850 (Oxford, 2001); and Ja-
+cob Soll, The Information Master: Jean-Baptiste Colbert’s Secret State Intelligence System (Ann Arbor,
+Mich., 2009). Daniel Rosenberg has a project underway on the history of data, with related work pub-
+lished as “Data before the Fact,” in Lisa Gitelman, ed., “Raw Data” Is an Oxymoron (Cambridge, Mass.,
+2013), 15–40; “Enter Data,” in Katherine Behar, ed., Data’s Entry (Istanbul, 2016), 14–33; and “An
+Archive of Words,” in Lorraine Daston, ed., Sciences of the Archive (Chicago, forthcoming 2017).
+7 Daniel Rosenberg, “Early Modern Information Overload,” Journal of the History of Ideas 64, no. 1
+(2003): 1–9; Ann M. Blair, Too Much To Know: Managing Scholarly Information before the Modern Age
+(New Haven, Conn., 2010). More generally, see Peter Burke, A Social History of Knowledge: From Guten-
+berg to Diderot (Cambridge, 2000).
+8 Jean Starobinski, Le reme`de dans le mal: Critique et le´gitimation de l’artifice a l’^age des Lumie`res
+(Paris, 1989).
+9 See Danah Boyd and Kate Crawford, “Six Provocations for Big Data,” paper presented at “A De-
+cade in Internet Time: Symposium on the Dynamics of the Internet and Society,” University of Oxford,
+September 21, 2011, https://papers.ssrn.com/sol3/papers.cfm?abstract_id¼1926431; Viktor Mayer-Scho¨n-
+berger and Kenneth Cukier, Big Data: A Revolution That Will Transform How We Live, Work, and Think
+(Boston, 2013). For a humanistic take on this debate, see Gitelman, “Raw Data” Is an Oxymoron; Lev
+Manovich, “Trending: The Promises and the Challenges of Big Social Data,” in Matthew K. Gold, ed.,
+Debates in the Digital Humanities (Minneapolis, 2012), 460–475; Christof Scho¨ch, “Big? Smart? Clean?
+Messy? Data in the Humanities,” Journal of Digital Humanities 2, no. 3 (2013), http://journalofdigitalhu
+manities.org/2–3/big-smart-clean-messy-data-in-the-humanities/.
+10 Jonathan Barnes, quoted by Anthony Grafton in Worlds Made by Words: Scholarship and Commu-
+nity in the Modern West (Cambridge, Mass., 2009), 322.
+402
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第4页 ===
+historical mass very quickly. Superﬁcial engagement with this material can also lead
+to gross misinterpretations when the context for interpreting data is missing and when
+one has read only what is available online. Stopping there, however, would be prema-
+ture, indeed shortsighted. These perils notwithstanding, the digitization and dataﬁca-
+tion of historical documents can open up promising methodological avenues and op-
+portunities for new insights.
+We began our project, Mapping the Republic of Letters, with these opportunities
+in mind and with an awareness of the growing number of projects that are digitizing
+letters and other key documents of scholarly, cultural, political, and religious life from
+the sixteenth through eighteenth centuries. Such projects generate tremendous
+amounts of valuable metadata about social networks, travel, institutional afﬁliations,
+publication history, and so forth. In the age of Edward Snowden, most people are
+now familiar with the concept of metadata, such as information about who communi-
+cated (or traveled) with whom, when, and where. Typically, metadata is everything ex-
+cept the “what” that was communicated. Mapping the Republic of Letters deals pri-
+marily with the metadata about letters or travels rather than with their actual content.
+Or rather, we use the metadata to produce maps, charts, and other data visualizations,
+and then refer back to the content to elucidate or complement what we see. Similarly
+(yes) to the NSA, we engage in “trafﬁc analysis” to explore the breadth, shape, and
+hubs of intellectual networks.11
+Since we began our project, the increase in available online data has been accom-
+panied by a growing conversation about its impact and meaning for historical re-
+search. In the last couple of years alone, a string of new handbooks and manifestos
+have tackled “big data,” laying out its promises for historians while introducing the
+various methodologies by which digital historians approach it.12 In the pages of the
+AHR, Lara Putnam has recently shown how digital search—the now-widespread
+scholarly use of Google, JSTOR, and WorldCat, among others—is bringing many of
+the issues associated with big-data historical research to the doorsteps even of histo-
+rians who have not explicitly adopted digital tools meant to quantify and visualize
+data.13 Our reﬂections here, particularly about our experience with digital historical
+databases and how this has affected our work in early modern intellectual history, aim
+to contribute to this conversation. The publications emerging from our project all em-
+ploy computational technologies and visualization techniques to make discoveries
+11 For the U.S. government’s practice of traffic analysis, see Vera R. Filby, A Collection of Writings
+on Traffic Analysis (Fort Meade, Md., 1993), http://www.governmentattic.org/8docs/NSA-TrafficAnalysis
+Monograph_1993.pdf.
+12 See Jo Guldi and David Armitage, The History Manifesto (Cambridge, 2014), chap. 4, for their
+take on big data’s promise for historians. Among the recent proliferation of companions and handbooks
+for digital humanities, and digital history in particular, note Shawn Graham, Ian Milligan, and Scott
+Weingart, Exploring Big Historical Data: The Historian’s Macroscope (London, 2016), which most explic-
+itly addresses digital history as big data history. For a methodological reflection on big data history, see
+also Cameron Blevins, “The Perpetual Sunrise of Methodology,” paper prepared for AHA Session 158,
+“Authoring Digital Scholarship for History: Challenges and Opportunities,” 129th Annual Meeting of
+the American Historical Association, New York City, January 4, 2015, http://www.cameronblevins.org/
+posts/perpetual-sunrise-methodology/.
+13 Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows
+They Cast,” American Historical Review 121, no. 2 (April 2016): 377–402, with rich references on the re-
+cent conversation on history in the digital age. See also Ted Underwood, “Theorizing Research Practices
+We Forgot to Theorize Twenty Years Ago,” Representations 127, no. 1 (2014): 64–72.
+Historical Research in a Digital Age
+403
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第5页 ===
+about the past that would have been difﬁcult, if not impossible, to reach by analog
+means. These scholarly outcomes have emerged in—indeed, could not exist outside
+of—a dialogue with a longstanding tradition of early modern intellectual historiogra-
+phy. They also grew out of research practices that our group established along the
+way, such as digital visualizations, tool development, publication format, and co-au-
+thored scholarship, which speak to how history might be done in a digital age.
+Mapping the Republic of Letters is a research project with many heads. It contains
+two seventeenth-century (Athanasius Kircher and John Locke) and three eighteenth-
+century (Voltaire, Benjamin Franklin, and the Grand Tour) case studies.14 Their
+geography primarily traverses Great Britain, Europe, and British North America,
+though each intellectual network makes strategic excursions that lie beyond these
+boundaries, raising questions about not only the nature of early modern cosmopoli-
+tanism and travel, but also the nature of global connections and communications. His-
+torians of the Republic of Letters have also long debated how it evolved over time.
+Did the erudite Respublica litteraria of humanist scholars differ signiﬁcantly from the
+worldly Re´publique des lettres? What can we learn by examining not only the most pro-
+liﬁc correspondents who represent the strongest ties in a given network, but also the
+“long tail” of letter writers, often the vast majority in most instances, who sent no
+more than a single letter or a handful of letters? As David Lux and Harold Cook ob-
+serve in an important essay inspired by the work of sociologist Mark Granovetter, un-
+derstanding how people expand the reach of their network by “widening the network
+of weak ties” is an essential component of network analysis.15
+One of our groups has focused on the German Jesuit polymath Athanasius
+Kircher (1602–1680). Paula Findlen, Suzanne Sutherland, and Iva Lelkova have ex-
+plored why Kircher’s mid-seventeenth-century network was more cosmopolitan, in
+terms of geographic breadth, than those of his Enlightenment successors.16 As a mem-
+ber of the Society of Jesus, Kircher could plug into an already established global mis-
+sionary network while also making himself a useful participant in the scholarly Re-
+public of Letters, and inserting himself successfully in Habsburg networks in Central
+Europe and Italian networks emanating to and from his adoptive city, Rome. (See
+Figure 1.)17 A ﬁne-grained analysis of the community that corresponded with him
+shows how his publishing projects grew and evolved with the expanding reach of the
+Jesuit missionary network into many different parts of the world. This research has
+been able to map the multiple ways in which Kircher self-consciously shaped and
+reshaped his religious, political, and intellectual networks to bolster his reputation as
+the man to know in the Eternal City, someone whose books and reputation circum-
+14 Interactive visualizations, datasets, and links to research articles related to these case studies can
+be found at http://republicofletters.stanford.edu/publications/.
+15 David S. Lux and Harold J. Cook, “Closed Circles or Open Networks? Communicating at a Dis-
+tance during the Scientific Revolution,” History of Science 36, no. 2 (1998): 179–211, here 190; Mark S.
+Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–1380.
+For a recent study that uses network analysis to explore the correspondence of imprisoned Protestants
+during the English wars of religion, see Ruth Ahnert and Sebastian E. Ahnert, “Protestant Letter Net-
+works in the Reign of Mary I: A Quantitative Approach,” ELH 82, no. 1 (2015): 1–33.
+16 See http://republicofletters.stanford.edu/publications/kircher/. The result of this research will be
+published in a series of articles by Paula Findlen, Suzanne Sutherland, and Iva Lelkova, culminating in a
+book provisionally titled The Baroque Postmaster: Athanasius Kircher between Rome and the World.
+17 Those who are reading this article in the print issue can view this and the other figures in color ei-
+ther in the online issue or at http://republicofletters.stanford.edu/publications/.
+404
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第6页 ===
+navigated the globe. While his network was less socially diverse than those of, say,
+Locke, Franklin, and Voltaire, who corresponded with broader swaths of society (and
+most notably, by the eighteenth century, with far more women), his letters traveled
+much farther.
+Skeptics have challenged the rhetoric of the “republicans of letters,” to invoke
+Daniel Roche’s phrase, and questioned whether there really was a republic, or
+whether this illusory place masked a balkanized hodgepodge of more or less con-
+nected mini-republics.18 In the context of Mapping the Republic of Letters, Claude
+Willan’s work on John Locke (1632–1704) has used graphs and other visualizations to
+reveal just how disconnected the different social and national subgroups in his corre-
+spondence network were from one another.19 (See Figure 2.) The republic that
+emerges from his study is not a uniﬁed network that any newcomer could join whole-
+sale, but a patchwork of isolated communities that Locke fused together. His ﬁndings
+provide an empirical demonstration of the scholarly suspicion that there were really
+“a multitude of communities within, or rather underneath, the surface of the Republic
+of Letters.”20
+Mapping the correspondence networks of major Enlightenment ﬁgures under-
+scores the limits of their geographic horizons, raising questions about what it meant
+to be a self-professed “citizen of the world,” as many enlightened men and women of
+FIGURE 1: Source locations for correspondence to Athanasius Kircher, sized by numbers of letters sent.
+18 Daniel Roche, Les re´publicains des lettres: Gens de culture et Lumie`res au XVIIIe sie`cle (Paris,
+1998). On the national vs. cosmopolitan makeup of the Republic of Letters, see especially Lorraine Das-
+ton, “The Ideal and Reality of the Republic of Letters in the Enlightenment,” Science in Context 4, no. 2
+(1991): 367–386.
+19 See http://republicofletters.stanford.edu/publications/locke/, and Willan’s article “‘John Locke
+Likes This’: An Ego-Network Analysis of Locke’s Letters” (under review).
+20 See Candice Delisle, “Accessing Nature, Circulating Knowledge: Conrad Gessner’s Correspon-
+dence Networks and His Medical and Naturalist Practices,” History of Universities 23, no. 2 (2008): 35–
+58, here 53.
+Historical Research in a Digital Age
+405
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第7页 ===
+letters claimed to be, and in what ways overseas colonies mattered in the increasingly
+far-ﬂung imperial reach of the Europe-centered Republic of Letters.21 Caroline Win-
+terer and Claire Arcenas—another of our research teams—have explored these two
+questions in the network of a ﬁgure long renowned for his cosmopolitanism and colo-
+nial status, Benjamin Franklin (1706–1790).22 Franklin may well have been the most
+famous North American of the eighteenth century, but his transatlantic letters initially
+did not include a signiﬁcant number of international correspondents; only over de-
+cades spent in the imperial capital of London did he forge a letter network that in-
+cluded French, German, Italian, and Scottish correspondents. (See Figure 3.) Even at
+the close of his “London Decades” (1757–1775), and despite trips to Scotland, the
+Netherlands, and France, Franklin’s correspondents were overwhelmingly found at ei-
+FIGURE 2: Network of Royal Society fellows (orange nodes) in John Locke’s correspondence.
+21 Margaret C. Jacob, Strangers Nowhere in the World: The Rise of Cosmopolitanism in Early Modern
+Europe (Philadelphia, 2006); Caroline Winterer, “Where Is America in the Republic of Letters?,” Mod-
+ern Intellectual History 9, no. 3 (2012): 597–623; Winterer, American Enlightenments: Pursuing Happiness
+in the Age of Reason (New Haven, Conn., 2016).
+22 See http://republicofletters.stanford.edu/publications/franklin/; and Winterer and Arcenas’s article
+“The Correspondence Network of Benjamin Franklin: The London Decades, 1757–1775” (under re-
+view).
+406
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第8页 ===
+ther end of the London-Philadelphia axis. His fame may have spread across Europe,
+but his letters circulated chieﬂy in the British imperial world.
+Our visualizations also provide new perspectives on murky problems of cultural
+transmission. As our data does not include letter content, it can tell us only so much
+about the circulation of ideas. But correspondence maps nonetheless raise questions
+that invite us to read letters and other documents with a fresh perspective. Starting
+with the observation that Voltaire (1694–1778) seems to have exchanged few letters
+with British correspondents, Dan Edelstein and Biliana Kassabova have argued in
+their work for Mapping the Republic of Letters that the standard narrative about the
+English origins of Voltaire’s philosophy (and by extension of the French Enlighten-
+ment) must be revised in light of the fact that Voltaire’s interest in, and admiration of,
+England was both qualiﬁed and chronologically restricted.23 (See Figure 4.) England’s
+period of cultural greatness, in his eyes, lay in the reign of Charles II, and was thus a
+thing of the past by the time he arrived in London. What is more, Voltaire credited
+the sie`cle de Louis le grand for many of the English intellectual exploits. The author of
+the bestselling and controversial Letters Concerning the English Nation had more than
+a few concerns, it turns out, about that nation.
+As the above case studies indicate, travel—whether Kircher’s religious ﬂight from
+war-torn Germany, Locke’s exile from England, Franklin’s transatlantic voyages, or
+Voltaire’s timely crossing of the English Channel to mitigate scandal—played a cru-
+cial role in how many citizens of the Republic of Letters extended and built their net-
+works. One of our groups, as detailed in the second article in this AHR Forum, has
+FIGURE 3: Benjamin Franklin’s total correspondence, with locations sized by volume of letters.
+23 See http://republicofletters.stanford.edu/publications/voltaire/; and Edelstein and Kassabova’s arti-
+cle “Where Are Voltaire’s Letters Concerning the English Nation? Maps, Networks, and Intellectual
+History” (under review).
+Historical Research in a Digital Age
+407
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第9页 ===
+been mapping Grand Tour travel, and the role it played in the emergence of architec-
+ture as a profession. The research process involved transforming John Ingamells’s
+A Dictionary of British and Irish Travellers in Italy, 1701–1800 into an interactive data-
+base ﬁlled with detailed information about the intersecting itineraries of the men and
+women who traveled to Italy, and creating a prosopography of this community.24 (See
+Figure 5.) By studying British architects on the Grand Tour, Giovanna Ceserani,
+Giorgio Caviglia, Nicole Coleman, Thea De Armond, Sarah Murray, and Molly Tay-
+lor-Poleskey illuminate how the dynamic exploration of early modern travelers allows
+us to identify with greater precision the role of travel in relation to professional aspi-
+rations and cultural formation.25 Architects who completed their education in Italy of-
+ten met prospective clients on the Grand Tour, and presented their studies abroad as
+a compelling professional credential when they returned home.
+When we have presented our work, a common complaint has been that for all our
+investment in digital tools, data editing, and data creation, the ﬁeld has not been revo-
+lutionized as a result. This criticism can be voiced with optimism (“Show us you’re the
+greatest thing since sliced bread,” in the words of one enthusiastic reviewer) or with
+skepticism (“So you have nothing more to show for yourselves?”). But why should
+new methods produce radically different results? We are studying the same objects
+that scholars have been painstakingly exploring for hundreds of years. They naturally
+came up with penetrating insights about the Republic of Letters without the help of
+digital tools. But what these tools allow us to do is to sort through, reﬁne, conﬁrm, or
+refute the different insights these historians had, as well as to formulate new ones that
+emerge when we step back from the details of any particular subset of a correspon-
+dence to observe its contours. This is not to embrace a positivist, cliometric vision of
+computational supremacy; such a vision is ill-suited for historical archives that are so
+shot through with uncertainty and gaps. But where possible, basic calculations are still
+useful and can provide correctives to sheer speculation. They also force us to look
+closely at the information we have, resulting in numerous silent corrections to minor
+errors, assumptions that have solidiﬁed into facts, and other problems that arise when
+we take information for granted.
+The data visualizations we rely on in our research and publications do not offer
+clear snapshots of the past, but rather fuzzy, blurry pictures. They reveal the general
+shape of things, orders of magnitude, and large-scale trends; they also draw our atten-
+FIGURE 4: Histogram of Voltaire’s correspondence, by year, highlighting English correspondence.
+24 John Ingamells, comp., A Dictionary of British and Irish Travellers in Italy, 1701–1800 (New Haven,
+Conn., 1997). For more on this project, see https://grandtour.stanford.edu/.
+25 See http://republicofletters.stanford.edu/publications/grandtour/; and Giovanna Ceserani, Giorgio
+Caviglia, Nicole Coleman, Thea De Armond, Sarah Murray, and Molly Taylor-Poleskey, “British Travel-
+ers in Eighteenth-Century Italy: The Grand Tour and the Profession of Architecture,” this issue.
+408
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第10页 ===
+tion to microhistories that we might otherwise have missed. The results are never de-
+ﬁnitive, and always require further veriﬁcation—an absence on a map might be due
+only to a gap in the data. But the critical point is that they open up new avenues of in-
+quiry and are springboards for further research.
+In some instances, the computational processes in question are not complex: one
+could count Kircher’s global missionary correspondence, Voltaire’s letters to En-
+gland, or Franklin’s international correspondents by hand. But computational meth-
+ods are good for more than just performing difﬁcult statistical operations (though one
+of our projects, on John Locke, does exactly that): they can also serve to reveal elements
+of surprise in the data. The point is not, therefore, whether you need computational
+tools to count the number of Franklin’s French (or Voltaire’s English, or Kircher’s
+Jesuit) correspondents, but rather that computational methods provide novel insights
+into your sources. We designed and developed data visualizations not to do our work
+for us, but rather to point to where our work lies.
+WHILE OUR MAPPING PROJECT came of age at a time when historians were just starting
+to focus on the promises and perils of big data, it also draws on a long historiography.
+Indeed, the Republic of Letters has never been a small or easily contained subject.
+Starting in the mid-fourteenth century, early humanists such as Petrarch wrote open
+letters as a means of communicating ideas and shaping opinion, and also as a process
+of intellectual self-deﬁnition. In 1417 the Venetian humanist Francesco Barbaro pro-
+vided an indelible portrait of the nature of this emerging scholarly community when
+FIGURE 5: Timechart of British Grand Tour travelers in Italy in the eighteenth century.
+Historical Research in a Digital Age
+409
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第11页 ===
+he congratulated his Florentine friend Poggio Bracciolini for unearthing a treasure
+trove of ancient manuscripts in the monastic libraries of Northern Europe, acknowl-
+edging the utility of Poggio’s rediscovery for “this Republic of letters” (huic litteraria
+Reipublicae).26 It is hardly coincidental that the phrase Respublica litteraria ﬁrst ap-
+peared in a letter. In the age of great letter writers such as the early-sixteenth-century
+Dutch humanist Desiderius Erasmus, who, to paraphrase Lisa Jardine, delighted in
+making absent friends present, the idea of conversation through correspondence be-
+came the norm rather than the exception.27
+When Elizabeth Eisenstein, in her landmark study The Printing Press as an Agent
+of Change (1979), proclaimed printing to have been a transformative development in
+early modern Europe, she contrasted the limits of letters to the possibilities of books
+in disseminating knowledge while observing that we need to know a great deal more
+about the Republic of Letters.28 More recent scholarship has reexamined this issue
+and arrived at a different conclusion, one that emphasizes the productive and continu-
+ous interactions between writing and publishing. A world of books and journals was
+also a world of readers, authors, and critics, whose conversations took place not only
+in academies, salons, and other sites of scholarly sociability, but also through long-dis-
+tance travel and communication via letters. Such letters provide us with a historical
+roadmap from which we can reconstruct intellectual networks across time and space.
+In the 1970s, a number of scholars began to investigate the nature and meaning of
+the Republic of Letters. An international community of scholars has developed and
+deﬁned this subject in the decades since, tracing the rise and decline of a rhetorical
+ideal and its connection to cultural and intellectual practices and scholarly communi-
+ties.29 But rhetoric, as Lorraine Daston cogently observed in an important essay, ulti-
+26 The standard English translation of this letter, dated July 6, 1417, can be found in Phyllis Walter
+Goodhart Gordan, ed. and trans., Two Renaissance Book Hunters: The Letters of Poggius Bracciolini to
+Nicolaus de Niccolis (New York, 1974), 196–203.
+27 For an overview of these developments, see Marc Fumaroli, “The Republic of Letters,” trans. R.
+Scott Walker, Diogenes 36, no. 143 (1988): 129–152; Hans Bots and Franc¸oise Waquet, La Re´publique
+des lettres (Paris, 1997); Anthony Grafton, “A Sketch Map of a Lost Continent: The Republic of Letters,”
+Republics of Letters: A Journal for the Study of Knowledge, Politics, and the Arts 1, no. 1 (2009), http://
+arcade.stanford.edu/rofl/sketch-map-lost-continent-republic-letters. On Erasmus, a good starting point is
+Lisa Jardine, Erasmus, Man of Letters: The Construction of Charisma in Print (Princeton, N.J., 1993),
+chap. 6; Constance M. Furey, Erasmus, Contarini, and the Religious Republic of Letters (Cambridge,
+2008); Hanan Yoran, Between Utopia and Dystopia: Erasmus, Thomas More, and the Humanist Republic
+of Letters (Lanham, Md., 2010).
+28 Elizabeth Eisenstein, The Printing Press as an Agent of Change: Communications and Cultural
+Transformations in Early Modern Europe, 2 vols. (Cambridge, 1979), 1: 136–137. The relationship of Ei-
+senstein’s work to the Republic of Letters is discussed by J. L. Pearl, “The Role of Personal Correspon-
+dence in the Exchange of Scientific Information in Early Modern France,” Renaissance and Reformation /
+Renaissance et Re´forme, New Series / Nouvelle Se´rie, 8, no. 2 (1984): 106–113, here 107; and April G.
+Shelford, Transforming the Republic of Letters: Pierre-Daniel Huet and European Intellectual Life, 1650–1720
+(Rochester, N.Y., 2007), 3.
+29 The earliest historical study of this concept may well be Annie Barnes, Jean Le Clerc (1657–1736)
+et la Re´publique des lettres (Paris, 1938). Readers interested in following the development of this subject
+since the 1970s should begin with Paul Dibon, “Les e´changes e´pistolaires dans l’Europe savante du
+XVIIe sie`cle,” Revue de synthe`se 81–82 (1976): 31–50; Dibon, “Communication in the Respublica litter-
+aria of the 17th Century,” Respublica Litteraria: Studies in the Classical Tradition 1 (1978): 43–55; Hans
+Bots, Republiek der letteren: Ideaal en werkelijkheid: Rede uitgesproken bij aanvaarding van het ambt van
+buitengewoon hoogleraar aan de Katholieke universiteit te Nijmegen (Amsterdam, 1977); Franc¸oise
+Waquet, “Qu’est-ce que c’est la Re´publique des lettres? Essai de se´mantique historique,” Bibliothe`que de
+l’Ecole des Chartres 147 (1989): 473–502. The fundamental work of synthesis on this subject is Bots and
+Waquet, La Re´publique des lettres.
+410
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第12页 ===
+mately inspired questions about the reality, or lived experience, of the ideal of the
+Republic of Letters.30 Taking the case of Leibniz, Maarten Ultee envisioned a social
+history that would explore the concrete details of intellectual membership in this
+imagined community, including its geography, the volume and frequency of letters,
+and the social positions of its participants.31 Such questions inspired the subsequent
+work of a talented cadre of scholars, most notably Dena Goodman, Anne Goldgar,
+and Daniel Roche, who increasingly brought the methods of cultural history and gen-
+der history to bear on the subject in the late 1980s and early 1990s.32 Simultaneously,
+a rejuvenated intellectual history developed by scholars such as Joseph Levine, An-
+thony Grafton, Peter Miller, and Laurence Brockliss focused on key participants in
+the Republic of Letters as a means of better understanding the practices of intellec-
+tual life from the advent of Renaissance humanism to the rise of antiquarianism and
+ultimately the Age of Enlightenment.33
+Initially there were a limited number of letters, but soon the volume of letters that
+individuals exchanged expanded astronomically. When Jardine wondered aloud what
+scholars should do with the “mass of ‘data’ which Erasmus’s voluminous correspon-
+dence provides,” she asked a pertinent question: 3,162 letters to and from Erasmus
+survive. We can juxtapose this number to the proliﬁc letter-writing habits of Italian
+Renaissance humanists, but also of learned Protestant reformers: Martin Luther’s
+surviving correspondence numbers 4,337 letters, and John Calvin’s 4,271. Ignatius
+Loyola, the founder of the Society of Jesus, was a veritable epistolary machine who
+practiced what he preached in institutionalizing letter-writing as an essential expres-
+sion of religious confraternity and bureaucracy; he left behind an impressive 9,178 let-
+ters (6,381 written by him) at the time of his death in 1556.34 While not quantitatively
+large by contemporary standards of big data, such numbers are ﬁlled with hidden mul-
+tipliers, because each letter typically contains a great deal of valuable information—
+about people, places, conversations, manuscripts, publications, projects, and institu-
+tions—and offers a trail of references that invariably leads the patient researcher to
+30 Daston, “The Ideal and Reality of the Republic of Letters in the Enlightenment.”
+31 Maarten Ultee, “The Republic of Letters: Learned Correspondence, 1680–1720,” Seventeenth
+Century 2, no. 1 (1987): 95–112.
+32 Dena Goodman, The Republic of Letters: A Cultural History of the French Enlightenment (Ithaca,
+N.Y., 1994); Anne Goldgar, Impolite Learning: Conduct and Community in the Republic of Letters, 1680–
+1750 (New Haven, Conn., 1995); Roche, Les re´publicains des lettres. For subsequent efforts to build on
+Goodman’s early insights on the importance of gender in the Republic of Letters, a good starting point
+is Susan Dalton, Engendering the Republic of Letters: Reconnecting Public and Private Spheres in Eigh-
+teenth-Century Europe (Montreal, 2003); Antoine Lilti, Le monde des salons: Sociabilite´ et mondanite´ a
+Paris au XVIIIe sie`cle (Paris, 2005); Dena Goodman, Becoming a Woman in the Age of Letters (Ithaca,
+N.Y., 2009).
+33 Joseph M. Levine, The Battle of the Books: History and Literature in the Augustan Age (Ithaca,
+N.Y., 1994); Peter N. Miller, Peiresc’s Europe: Learning and Virtue in the Seventeenth Century (New Ha-
+ven, Conn., 2000); L. W. B. Brockliss, Calvet’s Web: Enlightenment and the Republic of Letters in Eigh-
+teenth-Century France (Oxford, 2002). From Grafton’s considerable corpus, one might follow the trail
+backward from his AHA Presidential Address, “The Republic of Letters in the American Colonies:
+Francis Daniel Pastorius Makes a Notebook,” American Historical Review 117, no. 1 (February 2012):
+1–39; and “A Sketch Map of a Lost Continent.”
+34 Jardine, Erasmus, Man of Letters, 149. For a good overview of some of the metrics of early modern
+correspondence, see Francisco Bethencourt and Florike Egmond, eds., Cultural Exchange in Early Mod-
+ern Europe, vol. 3: Correspondence and Cultural Exchange in Europe, 1400–1700 (Cambridge, 2007), 10–
+12. For an introduction to religious letter-writing and Loyola’s reputation as the most prolific letter
+writer of the sixteenth century, see Thomas M. Lucas, Landmarking: City, Church and Jesuit Urban Strat-
+egy (Chicago, 1997), 131.
+Historical Research in a Digital Age
+411
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第13页 ===
+other terrifyingly large masses of correspondence. This is far too much to absorb at a
+glance or to keep in one’s head, which is why scholars have often worked with discrete
+portions of large correspondences to get to know speciﬁc content really well rather
+than attempting to consider the whole.
+Such numbers pale in relation to the scale of mercantile correspondence, as the
+case of a late-fourteenth-century merchant in Prato, Francesco Datini, illustrates all
+too well: his surviving papers contain approximately 150,000 commercial and familial
+letters. While Petrarch carefully and deliberately identiﬁed the living and the dead,
+the real and the imaginary, to whom he might address a well-crafted Latin letter in
+imitation of Cicero, Quintilian, and other great Roman epistolarians, the demands of
+the marketplace required a constant stream of long-distance correspondence traveling
+in all directions to many different kinds of people who did business together.35 The
+same can also be said of diplomatic correspondence. Take the example of Isabella
+d’Este, the ﬁfteenth-century marchioness of Mantua, for whom some 25,000 letters
+(approximately 16,000 by her) survive in an archive containing about 100,000 letters
+related to the totality of her activities as one of the most powerful political and cul-
+tural brokers in Renaissance Italy.36 Such examples serve as a stark reminder of just
+how fundamental and ubiquitous letter-writing was to a variety of human endeavors
+in the premodern world. While our project has focused on the intellectual and cul-
+tural dimensions of that particular subject, we hope that the techniques we have ex-
+plored and experimented with may prove useful for historians with other interests.
+In the early sixteenth century, Erasmus wistfully envisioned a Christian Republic
+of Letters populated by scholars in communication across geographic, religious, and
+political boundaries. Increasingly, however, humanistic ideals of writing to someone
+as an expression of learned friendship intertwined with other priorities, as different
+cultures of letter-writing intersected and combined. Diplomats and agents made cor-
+respondence an instrument of politics, policy, and information; adventurers, mission-
+aries, traders, and emigrants boarded mercantile vessels to parts unknown and sent
+letters home, waiting months, sometimes years, to receive responses from friends,
+family, and superiors back in Europe. Everywhere people went, letters accompanied
+them. Publishing letters became a lucrative editorial activity. Our project begins with
+this fundamental fact of the early modern world: it was a society whose patterns of in-
+creased mobility and communication were expressed in the numerical explosion of let-
+ters.
+Growing curiosity about experiences, ideas, languages, and artifacts that could be
+acquired only through long-distance travel multiplied the number of networks and
+communities of scholars in pursuit of knowledge. The superabundance of information
+35 The most recent description of the Datini correspondence by the Istituto Datini can be found at
+http://www.istitutodatini.it/schede/archivio/eng/arc-dat2.htm. On mercantile correspondence, see espe-
+cially Francesca Trivellato, The Familiarity of Strangers: The Sephardic Diaspora, Livorno, and Cross-Cul-
+tural Trade in the Early Modern Period (New Haven, Conn., 2009); Trivellato, “Merchants’ Letters across
+Geographical and Social Boundaries,” in Bethencourt and Egmond, Correspondence and Cultural
+Exchange in Europe, 80–103; Trivellato, “A Republic of Merchants?,” in Anthony Molho and Diogo
+Ramada Curto, eds., Finding Europe: Discourses on Margins, Communities, Images, ca. 13th–ca. 18th Cen-
+turies (Oxford, 2007), 133–158.
+36 Deanna Shemek, “In Continuous Expectation: Isabella d’Este’s Epistolary Desire,” in Dennis
+Looney and Deanna Shemek, eds., Phaethon’s Children: The Este Court and Its Culture in Early Modern
+Italy (Tempe, Ariz., 2005), 269–300.
+412
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第14页 ===
+so eloquently described in Ann Blair’s 2010 book Too Much to Know was intimately
+connected to the increased scale and scope of scholarly correspondence in the late six-
+teenth and seventeenth centuries.37 Where individuals had previously exchanged doz-
+ens or hundreds of letters, now their correspondences numbered in the thousands.
+Not surprisingly, the emergence of better postal systems in various regions accompa-
+nied this development.38
+But the exponential growth of information did not end there. Between the seven-
+teenth and the eighteenth century, the profusion of new learned institutions, the in-
+vention of journals, and the attractions of cosmopolitan centers transformed the idea
+of scholarly community from a humanist model of Latin men of letters to a more so-
+cially diffuse model of learned and vernacular communities of men and women writ-
+ing, traveling, reading, and publishing. The Republic of Letters in this era was deﬁned
+not only by the intellectual currents of the Scientiﬁc Revolution and the Enlighten-
+ment, but also by global missionary and mercantile networks, the Grand Tour, and
+the emergence of urban centers in the British and European colonies whose scholars
+both corresponded and traveled across the Mediterranean, Atlantic, and Indian
+Oceans. Individual correspondences that had routinely numbered in the low thou-
+sands now ballooned to tens of thousands of letters. The Aix savant Nicolas-Claude
+Fabri de Peiresc’s famous scholarly network of the early seventeenth century, which
+has left us somewhere between 10,000 and 14,000 letters, and Leibniz’s approximately
+15,000 surviving letters exchanged with numerous correspondents between 1663 and
+1716 are well-known examples of what the world of proliﬁc letter writers now was ca-
+pable of producing.39
+While many documents pertaining to the Republic of Letters have not survived,
+the quantity of extant letters from these centuries, even when restricted primarily to
+scholarly correspondence, offers historians of the early modern period a body of ma-
+terial containing far more data than any one scholar, or even a team of researchers,
+can assimilate through traditional research methods. At the same time, letters are in-
+valuable resources when they are brought together in a traditional edited volume or
+37 Blair, Too Much to Know.
+38 On postal systems, see Wolfgang Behringer, Im Zeichen des Merkur: Reichspost und Kommunika-
+tionsrevolution in der Fru¨hen Neuzeit (Go¨ttingen, 2003); Eric R. Dursteler, “Power and Information: The
+Venetian Postal System in the Eastern Mediterranean, 1573–1645,” in Diogo Ramada Curto, Eric R.
+Dursteller, Julius Kirshner, and Francesca Trivellato, eds., From Florence to the Mediterranean and
+Beyond: Essays in Honour of Anthony Molho, 2 vols. (Florence, 2009), 2: 601–623; James Daybell, “Postal
+Conditions,” in Daybell, The Material Letter in Early Modern England: Manuscript Letters and the Culture
+and Practices of Letter-Writing, 1512–1635 (London, 2012), 109–147; Richard R. John, Spreading the
+News: The American Postal System from Franklin to Morse (Cambridge, Mass., 1995). For a GIS analysis
+of the French postal system, see Anne Bretagnolle and Nicolas Verdier, “Expanding the Network of
+Postal Routes in France, 1708–1833,” in Muriel Le Roux, ed., Post Offices of Europe, 18th–21st Century:
+A Comparative History (Bern, 2014), 183–202.
+39 On Peiresc’s correspondence, a good starting point is Robert A. Hatch, “Peiresc as Correspond-
+ent: The Republic of Letters and the Geography of Ideas,” in Brian P. Dolan, ed., Science Unbound:
+Geography, Space and Discipline (Umea˚, 1998), 19–58; and recent essays by Peter Miller such as “Map-
+ping Peiresc’s Mediterranean: Geography and Astronomy, 1610–1636,” in Dirk van Miert, ed., Commu-
+nicating Observations in Early Modern Letters (1500–1675): Epistolography and Epistemology in the Age of
+the Scientific Revolution (London, 2013), 135–160. On Leibniz, see Ultee, “The Republic of Letters,” 98;
+Paul Lodge, ed., Leibniz and His Correspondents (Cambridge, 2004); Nora G€adeke, “Gottfried Wilhelm
+Leibniz,” in Christiane Berkvens-Stevelinck, Hans Bot, and Jens H€aseler, eds., Les grands interme´diaires
+culturels de la Re´publique des lettres: Etudes de re´seaux de correspondances du XVIe au XVIIIe sie`cles (Paris,
+2005), 257–306.
+Historical Research in a Digital Age
+413
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第15页 ===
+increasingly as an online resource. Around the world, but particularly in Europe, the
+UK, and the United States, research projects are actively digitizing and cataloguing
+the surviving archives of the Republic of Letters.40 While there is a considerable selec-
+tion bias affecting whose records are being given new digital life, since most projects
+of this kind continue to focus on well-known ﬁgures, a host of forgotten characters
+are nonetheless emerging from this work: take Mlle Curton de Farges, who received a
+letter from Voltaire but is otherwise unknown to posterity.41 Correspondence is dif-
+fuse and not entirely selective, after all; the act of writing a letter was possible for any-
+one possessing a certain degree of literacy or having access to someone who could
+write on his or her behalf. As such, it moves us beyond the usual criterion of selecting
+historical actors solely on the basis of their posthumous reputation. A great man or
+woman, after all, is only one node in an ego network. We have found ourselves repeat-
+edly creating microhistories of people we did not expect to ﬁnd and now wish to
+know.42
+In many respects, the early modern Republic of Letters has proved to be an ideal
+testing ground for developing new ways of thinking about historical data. Put a differ-
+ent way, it is a rich source of multifaceted, if incomplete, data that traverses time and
+space and connects people. The Republic of Letters fundamentally relied on the ex-
+change of words and things between people who established, and in some instances
+maintained, bonds of family, friendship, and patronage through letters to realize intel-
+lectual, religious, and political projects. Travel, long-distance communication, writing
+culture, and the production and circulation of printed matter structured many of its
+core activities. The Republic of Letters was not only an ideal, an imagined community
+in Benedict Anderson’s sense, but a series of practices conducted by people who
+formed relationships. Human brokers, agents, gatekeepers, and go-betweens emerge
+from the terrifying mounds of paper that were produced. If books and journals were
+the culminating products of the Republic of Letters, conversation was its lifeblood—
+and those conversations took place as much in lively social gatherings and in more in-
+timate dialogues (whether with people who lived nearby or with people who were
+brought into proximity by their travels) as they did in a form at times tangibly pre-
+served for us: letters.
+Even the earliest efforts to study the Republic of Letters confronted the difﬁcul-
+ties of the data that this subject generates. Take Robert Mandrou’s decision in 1973
+to create a map of Erasmus’s and Peiresc’s correspondence and the diffusion of uni-
+versities and Jesuit colleges in Western Europe. As Robert Hatch observed, Man-
+drou’s Annaliste concern with the “geography of knowledge” led him to create static
+40 Indeed, one of our case studies began life as a digital archive more than ten years ago. For Paula
+Findlen, Suzanne Sutherland Duchacek, and Iva Lelkova’s use of the Athanasius Kircher Correspon-
+dence Project, jointly hosted by the Museo Galileo and Stanford University and originally created by Mi-
+chael John Gorman and Nick Wilding at the European University Institute with assistance from Findlen,
+and most recently updated by Sutherland Duchacek and Lelkova with technical support by Glen
+Worthey, see Athanasius Kircher at Stanford, “Correspondence,” http://www.stanford.edu/group/kircher/
+cgi-bin/site/?page_id¼7.
+41 Letter of January 11, 1776, in Nicholas Cronk, ed., Digital Correspondence of Voltaire, http://dx.doi.
+org/10.13051/ee:doc/voltfrVF1260336a1c.
+42 Note also how in our Grand Tour case study, published in this issue of the AHR, a host of little-
+known and often forgotten architects are brought back into the fold of eighteenth-century British archi-
+tecture.
+414
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第16页 ===
+portraits of a number of correspondents in different locations, while Hatch subse-
+quently articulated Peiresc’s network around people rather than places.43 Mandrou’s
+project was a pioneering attempt to create a historical visualization of an intellectual
+network, but his idea did not really bear fruit for the next few decades. In 1987, Ultee
+reiterated the need for developing new ways to explore this kind of historical data
+while he completed his analysis of Leibniz’s correspondence, acknowledging the limi-
+tations of his ability to convey what he had found in words when he concluded,
+“Eventually a graphic presentation will clarify the links in this network.”44
+The more historians began to consider correspondence in relationship to the re-
+construction of historical networks, the more urgent these questions became. By 2001,
+David Kronick, one of the pioneering historians of the early modern journal, noted
+the preliminary results of new techniques of digitizing and analyzing early modern
+correspondence, especially citing Urs Boschung’s electronic catalogue of the volumi-
+nous correspondence of the eighteenth-century Swiss physician, naturalist, and poet
+Albrecht von Haller—almost 17,000 letters from nearly 1,200 correspondents—which
+subsequently became a highly productive case study in network analysis and visualiza-
+tions by a team of researchers.45 Haller’s correspondence is one of numerous projects
+that have emerged in recent years in which digitization has stimulated new forms of
+analysis and new ways of presenting the results of these investigations.46
+As we began our project in 2008, experiments with mapping the Republic of Let-
+ters proliferated. Robert Mayhew’s account of early modern British geography dem-
+onstrates effectively how text-mining can help us understand the intellectual geogra-
+phy of the Republic of Letters and its understanding of physical geography.47 Inspired
+by Steven J. Harris’s early studies of mapping Jesuit science and Christopher Bayly’s
+inﬂuential account of the relationship between information and empire, Simon
+Schaffer created a map of the “information order” of Isaac Newton’s Principia mathe-
+43 Robert Mandrou, From Humanism to Science, 1480–1700, trans. Brian Pearce (New York, 1979),
+309–313; Hatch, “Peiresc as Correspondent,” 29–30.
+44 Ultee, “The Republic of Letters,” 103. Shelford responded to this idea by providing useful maps
+of Huet’s Republic of Letters; Transforming the Republic of Letters, 9, 32, 128.
+45 David A. Kronick, “The Commerce of Letters: Networks and ‘Invisible Colleges’ in Seventeenth-
+and Eighteenth-Century Europe,” Library Quarterly 71 (2001): 28–43, here 40; Urs Boschung, Reperto-
+rium zu Albrecht von Hallers Korrespondenz 1724–1777 (Basel, 2002), http://www.albrecht-von-haller.ch/
+medien/pdf/repertorium.pdf. For a network analysis of Haller’s correspondence, see Martin Stuber, Ste-
+fan H€achler, and Luc Lienhard, eds., Hallers Netz: Ein europ€aischer Gelehrtenbriefwechsel zur Zeit der
+Aufkl€arung (Basel, 2005); Florence Catherine, “La pratique et les re´seaux savants d’Albrecht von Haller
+(1708–1777), vecteurs de transfert culturel entre les espaces franc¸ais et germaniques au XVIIIe sie`cle”
+(doctoral thesis, Universite´ Nancy 2, 2009). A full bibliography of the research emerging from this collab-
+orative project can be found at http://www.albrecht-von-haller.ch/e/correspondence.php.
+46 To pick another rich example that has produced a considerable body of recent scholarship en-
+gaged with questions of correspondence networks and the nature of epistolary commerce, see the Clusius
+Project, sponsored by the Scaliger Institute of the University of Leiden, http://www.library.leiden.edu/spe
+cial-collections/scaliger-institute/projects/clusius-project.html, which has digitized the correspondence of
+the Dutch naturalist Carolus Clusius. See Florike Egmond, Paul Hoftijzer, and Robert Visser, eds., Caro-
+lus Clusius: Towards a Cultural History of a Renaissance Naturalist (Amsterdam, 2008); Florike Egmond,
+The World of Carolus Clusius: Natural History in the Making, 1550–1610 (London, 2010). This archive has
+recently been integrated into another Dutch project co-sponsored by Huygens ING whose goal is to cre-
+ate a complete digital archive of manuscript facsimiles, transcriptions, and biographical information. Dig-
+ital Edition of the Clusius Correspondence, http://www.dwc.knaw.nl/biografie/clusius/digital-edition-of-
+the-clusius-correspondence/.
+47 Robert Mayhew, “British Geography’s Republic of Letters: Mapping an Imagined Community,
+1600–1800,” Journal of the History of Ideas 65, no. 2 (2004): 251–276.
+Historical Research in a Digital Age
+415
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第17页 ===
+matica (1687) to debunk the notion that Newton was a solitary scholar untouched by
+a changing world.48 Similarly, Yves Gingras explored the uses of citation and co-cita-
+tion analysis, taking advantage of the digitization of Royal Society secretary Henry
+Oldenburg’s correspondence by the Electronic Enlightenment Project at Oxford Uni-
+versity and JSTOR’s fully searchable version of the Philosophical Transactions to re-
+construct the Scientiﬁc Revolution as a “visible map of the intellectual relations be-
+tween people,” arguing for the importance of combining “the usual micro-analysis of
+the speciﬁc content of the letters” with an ability to consider it instead as “a global
+corpus of data.”49 A group of French early modern historians, collaborating under the
+acronym CITERE, have also combined quantitative data and maps to analyze such
+variables as the speed and size of learned correspondence in eighteenth-century Eu-
+rope.50
+Many research questions underpinning scholarship on the Republic of Letters ul-
+timately rest on data issues.51 While recognizing that not everyone likes the idea of
+presenting early modern letters as ﬁlled with “data,” worrying that it runs the risk of
+ﬂattening the analysis or losing sight of the fact that these are historical documents
+whose creation is context-speciﬁc, we nonetheless believe that the information they
+contain deserves greater attention. Our experience in the Mapping the Republic of
+Letters project addresses a number of these questions to demonstrate how a digital
+and visual approach can indeed facilitate this sort of analysis. Building upon the rich
+historiography we have outlined above, we began with the insights gleaned from this
+considerable body of research. The inhabitants of the early modern Republic of Let-
+ters had elaborate visions of what their intellectual community resembled—most
+viewed it as a cosmopolitan, egalitarian place, and proudly highlighted their corre-
+spondents in far-ﬂung places. Montesquieu famously satirized this self-perception in
+his Persian Letters (1721), where an astronomer boasts about corresponding with “a
+man in Stockholm, another in Leipzig, and another in London, whom I have never
+seen, and no doubt shall never see.” Such descriptions parody the actual practices of
+the great secretaries of the Republic of Letters such as Oldenburg, who reportedly
+“never read a Letter before he had Pen, Ink, and Paper ready to answer it forth-
+with.”52 But could these descriptions really be trusted? Or was the reality of scholarly
+48 Simon Schaffer, The Information Order of Isaac Newton’s Principia Mathematica (Uppsala, 2008).
+The history of science has actively incorporated certain insights from sociologist John Law’s and sociolo-
+gist and anthropologist Bruno Latour’s contributions to Actor-Network Theory (ANT) to develop a rich
+account of the role of human and non-human actors in social networks. See, for example, Steven J. Har-
+ris, “Mapping Jesuit Science: The Role of Travel in the Geography of Knowledge,” in John W. O’Malley,
+Gauvin Alexander Bailey, Steven J. Harris, and T. Frank Kennedy, eds., The Jesuits: Cultures, Sciences,
+and the Arts, 1540–1773 (Toronto, 1999), 212–240.
+49 Yves Gingras, “Mapping the Structure of the Intellectual Field Using Citation and Co-Citation
+Analysis of Correspondences,” History of European Ideas 36, no. 3 (2010): 330–339, here 330 and 339;
+and Yves Gingras and Alexandre Guay, “The Use of Analogies in Seventeenth and Eighteenth Century
+Science,” Perspectives on Science 19, no. 2 (2011): 154–191.
+50 See Pierre-Yves Beaurepaire, ed., La communication en Europe de l’^age classique au sie`cle de
+Lumie`res (Paris, 2014). The English name for this project is Communicating Europe: Early Modern Cir-
+culations, Territories and Networks.
+51 For example, see the approach taken in many of the articles in Berkvens-Stevelinck, Bots, and
+H€aseler, Les grands interme´diaires culturels de la Re´publique des lettres.
+52 Montesquieu, Persian Letters, trans. Margaret Mauldon (Oxford, 2008), 221; Marie Boas Hall,
+Henry Oldenburg: Shaping the Royal Society (Oxford, 2002), 129, quoting Martin Lister’s recollection of
+Oldenburg in 1698.
+416
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第18页 ===
+communication in the early modern age far more prosaic? Was the Republic of Let-
+ters genuinely cosmopolitan, or was it more regional, national, and confessional in
+scope? What did membership in this republic actually look like, and how might we
+bring different versions of this imagined community into focus by exploring well-
+known, concrete examples simultaneously? And how did it evolve over time and
+space? These were the questions that our research group set out to explore, initially
+without the aid of data or visualizations. But like so many scholars who came before
+us, we inevitably found ourselves grappling with what to do with the growing moun-
+tains of historical information about people, places, and time that lay at the center of
+our enterprise.
+IS A BIG HISTORICAL DATA APPROACH the future or an illusion? It is easy to understand
+why some commentators have been predicting a “big data revolution,” even in the hu-
+manities.53 Not only are increasing numbers of texts and archives being digitized, but
+their accompanying metadata can now be validated and enriched via cultural heritage
+resources. For instance, we can begin to identify published authors across different
+datasets thanks to the adoption of authority ﬁles (such as VIAF), which link library
+records and other data sources through unique identiﬁers.54 More and more libraries,
+including the OCLC, the Bibliothe`que nationale de France, and Europeana, are also
+adopting Linked Open Data (LOD) models, making structured and curated data cur-
+rently contained in library catalogues available for research.55 The bibliographer’s do-
+main is fast becoming terrain for scholars to plumb and mine.
+Much attention in the past ﬁfteen years has been directed toward text digitization,
+but the production of vast stores of data—in particular, of metadata—is an equally ex-
+citing story. Anyone who has spent a few hours on Google Books can probably imag-
+ine a future in which all print material has been digitized; but imagining the future of
+data collection is more challenging. Ideally, if data models become reasonably stan-
+dardized and well implemented, we might be able to look forward to a world in which
+datasets connect quickly and seamlessly, combining a wealth of discrete and useful in-
+formation available to be reorganized into complex combinatorial patterns. If the
+print era was deﬁned by the revolutionary technology of movable type, this coming
+53 See Mayer-Scho¨nberger and Cukier, Big Data; Erez Aiden and Jean-Baptiste Michel, Uncharted:
+Big Data as a Lens on Human Culture (New York, 2013). For a similar endorsement by historians, see
+Guldi and Armitage, The History Manifesto.
+54 VIAF stands for “Virtual International Authority File” (http://viaf.org/). As the website states, this
+service “combines multiple name authority files [from different databases, mainly libraries] into a single
+OCLC-hosted name authority service. The goal of the service is to . . . increase the utility of library au-
+thority files by matching and linking widely-used authority files and making that information available on
+the Web.”
+55 On Linked Open Data, see notably Tom Heath and Christian Bizer, Linked Data: Evolving the
+Web into a Global Data Space (San Rafael, Calif., 2011), http://www.morganclaypool.com/doi/abs/10.
+2200/S00334ED1V01Y201102WBE001; see also Eero Hyvo¨nen, Publishing and Using Cultural Heritage
+Linked Data on the Semantic Web (San Rafael, Calif., 2012), http://www.morganclaypool.com/doi/abs/10.
+2200/S00452ED1V01Y201210WBE003. Our thanks to Glauco Mantegari for these references. The open
+data portal of the Bibliothe`que nationale can be found at http://data.bnf.fr; for Europeana, see http://
+pro.europeana.eu/linked-open-data. Information about the OCLC’s linked data plans (through World-
+Cat) can be found at http://www.oclc.org/data.en.html. Unfortunately, the process for converting MARC
+library data into LOD (in BIBFRAME format) is likely to take many, many years.
+Historical Research in a Digital Age
+417
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第19页 ===
+era could well be deﬁned by the equally revolutionary practice of “movable data.”
+Once set in print and locked in books, catalogues, or tables, data can now be pried
+loose from their original settings and made available for new arrangements. Therein
+lies perhaps the greatest promise of data for historians: until now, most of us have
+been beholden to search forms for querying library catalogues, digital corpora, and
+other databases. We are constrained by what the library or the archive permits us to
+ask. Linked data models have the potential to make data more nimble and malleable,
+and subject to a much wider variety of uses.
+But this prospect still lies in the future, and may yet prove to be a mirage. For one
+thing, when considering the promise of linking data across archives, we must consider
+the original state of the underlying data. The metadata for the historical records used
+in many of our case studies were constructed for data retrieval within particular online
+systems, not for a research inquiry.56 The “place of publication” ﬁeld in the Biblio-
+the`que nationale contains a number of values similar enough for us to consider, but
+with subtle variations: Paris appears as “Paris,” “(Paris),” “[Paris],” “(Paris,)” etc. To
+use these data effectively, we need to carefully decode the meanings in the parenthe-
+ses, brackets, and commas that may or may not be documented (for instance, when is
+Paris the stated but false place of publication vs. when is it the unstated but real
+place?). The same can be said for digitized modern print editions: content structured
+for publishing is effectively unstructured for the purposes of data analysis. The schol-
+arly parsing of existing data often leads us to create our own new columns of data that
+serve our research agenda.
+Secondly, there is also the problem of incompleteness, often of unknown propor-
+tions. To borrow an example from our research, we were fortunate to receive at an
+early stage of our project a large dataset from the Electronic Enlightenment Project
+(EEP) at Oxford University.57 The records contained the metadata for about 50,000
+letters to and from leading seventeenth- and eighteenth-century authors, including
+Thomas Hobbes, John Locke, Voltaire, Rousseau, David Hume, Claude Adrien Helve´-
+tius, Adam Smith, and Jeremy Bentham. Along with these metadata, we also beneﬁted
+from the painstaking curatorial work of the researchers at EEP, who had included
+information about nationality, occupation, gender, and dates for each individual in the
+collection. But the data were ﬁlled with gaps and uncertainties. This was in no way the
+fault of EEP, which had produced as ﬁne a database as possible (in addition to their re-
+markable full-text correspondence database). Rather, the data were incomplete be-
+cause the historical record was incomplete. Many letters had been passed down without
+any indication of their source or destination locations; some were also undated. Others
+had vanished off the face of the earth.
+This critical reading and assessment of the state of the data is common to each of
+our case studies in Mapping the Republic of Letters. This distinction points to a third
+signiﬁcant methodological difference in our approach to the objects of our study. If
+our historical subjects had been communicating digitally, and we could have captured
+their exchanges and movements from a real-time live data stream, we might be able to
+56 This is why scholarly cataloguing projects such as Early Modern Letters Online (EMLO), devel-
+oped by the Cultures of Knowledge Project at Oxford University, are so important for work on early
+modern correspondence. See http://emlo.bodleian.ox.ac.uk/.
+57 See http://www.e-enlightenment.com/.
+418
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第20页 ===
+adopt the statistical methods favored by data scientists. But historical information
+does not stream forth like a Twitter feed. The datasets that we have explored, all of
+which were manually scrutinized, edited, and enriched by our research teams, came to
+us already structured, and sometimes designed for purposes contrary to our own.
+Most of the metadata we rely upon from these digitized archives have been framed
+and reframed for various uses over decades. We need to unmask their underlying as-
+sumptions in order to get down to the level of historical evidence. The role of the
+scholar thus becomes one of ﬁnding meaning in the mass, which in the case of histori-
+cal data is often also a mess.
+Our ﬁnal problem is more pragmatic and has greatly preoccupied our research
+project: Where are the tools to support humanistic inquiry into multidimensional, het-
+erogeneous, and incomplete datasets? To take maximum advantage of this coming
+data deluge, we will need new technologies to help us construct meaningful queries
+and then explore, ﬁlter, combine, and analyze the results.58 We need to see the past
+from many different vantage points in order to understand it, and that cannot happen
+in front of an inﬁnite tabular spreadsheet.59 Visualization has proven to be an ex-
+tremely effective tool for representing data and navigating data across many disci-
+plines.60 ArcGIS, Tableau, R, and Gephi are some of the most powerful desktop ap-
+plications and programming languages for data visualization used in humanities
+research today. And yet the quantitative bias that deﬁnes much of the functionality of
+those tools does little to support the kind of qualitative analysis practiced in our case
+studies. We require different tools that can accommodate ambiguities, paradoxes, and
+contingencies to help us process historical and more generally humanistic data effec-
+tively.
+Designing digital tools is a long-term, expensive, complicated process, one that
+typically involves working with grant ofﬁcers, data scientists, programmers, and inter-
+face designers. Needless to say, we had no idea what we were getting into when we set
+off down this path. This phase of our collaboration arose from the growing realization
+that we simply could not begin to explore, to any serious degree, the questions that we
+wanted to pose without experimenting with different approaches to visualizing histori-
+cal data. We could borrow or build a database or two, but what did we want to do
+with it? This became the crucial question that led us in the direction that ultimately
+resulted in the creation of a web-based data visualization platform, Palladio.61
+58 For a similar point, see Guldi and Armitage, The History Manifesto, chap. 4.
+59 For a fascinating historical reflection on this problem that has inspired aspects of our own histori-
+cal visualizations, see Daniel Rosenberg and Anthony Grafton, Cartographies of Time: A History of the
+Timeline (New York, 2010).
+60 Evidence of this can be found in the development of the commercial visualization software pack-
+ages mentioned below, as well as in the popularity of recent books and websites on the topic from the
+fields of statistics, design, business analytics, and computer science. For some prominent examples, see
+Edward Tufte, http://www.edwardtufte.com; Manuel Lima, http://www.visualcomplexity.com/vc/; Stephen
+Few, http://perceptualedge.com; Alberto Cairo, http://www.thefunctionalart.com; David McCandless,
+http://www.informationisbeautiful.net.
+61 Palladio is a data-visualization platform that allows users to upload and analyze their data in the
+browser; funds for its development came from the National Endowment for the Humanities and Stanford
+University. It brings together much of what we learned in the design and development of prototype tools
+over the past six years as members of the Mapping the Republic of Letters project at Stanford University,
+primarily in collaboration with the Density Design research lab at the Politecnico di Milano, and in con-
+versation with allied initiatives such as the Cultures of Knowledge project at Oxford University, as well
+as the Circulation of Knowledge project jointly sponsored by Huygens ING in The Hague and the Des-
+Historical Research in a Digital Age
+419
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第21页 ===
+Since our project has always had humanistic pursuits at heart, it is no surprise that
+our underlying philosophy of tool development would seek to enhance, not replace,
+traditional historical methods. Big data are not useful only to scholars who adopt sta-
+tistical methods. The large scale also allows us to pursue traditional research in a
+much broader space of possibilities. When we construct visual models with data, we
+consider those visualizations to be powerful heuristics, not proofs. We wield our data
+with the assumption that they are incomplete, ambiguous, and uncertain. We visualize
+them to help guide us, to uncover patterns and provoke questions that we otherwise
+might not ever have considered. Our publications include online access precisely so
+that readers can explore and manipulate the data of our case studies. These use cases
+of Palladio allow direct insight into the process of heuristic visualizations, and on
+these same web pages readers can download the data to pursue their own research
+questions as well.62 But we do not believe that the data in and of themselves provide
+answers. The interpretive work is done outside of the computer, in the decisions that
+go into building our datasets, in the design of the instruments we use to visualize the
+data, and ﬁnally in making sense of the very imprecise maps, graphs, and diagrams we
+produce. We still need to read those shelf-loads of books and boxes of manuscripts—
+in the archive or online—to make sense of our ﬁndings.
+AS A RESULT OF DEALING WITH data visualizations, we found ourselves thinking anew
+about space. Many of the patterns that interest us, and that our visualizations help to
+uncover, concern geographical relations. This puts our project in dialogue with spatial
+history, an area in which digital research has had a great impact. But our material and
+questions have inspired a distinct methodology for our research. Many spatial history
+projects analyze the relationships between different categories of space—for instance,
+between spatial practice and represented space, to borrow Henri Lefebvre’s terms.63
+This approach often involves comparing layers of space—quite literally in the case of
+the HyperCities project, for example.64 By contrast, our project has been much more
+concerned with the relationships between different areas within a single layer of
+space. In ﬂeeing Germany, Kircher was cast adrift from his native land, and his corre-
+spondence captures beautifully the essence of Jesuit mobility as well as how people
+maintained a strong sense of identity at a distance. Locke’s exile in France belonged
+to one of those moments when a portion of the “English” world was on the Continent,
+as would later occur on a much larger scale when the Grand Tour created a world in
+cartes Centre at the University of Utrecht. See http://hdlab.stanford.edu/projects/palladio/. We count it
+as a success of our project that Palladio has now been used widely in a variety of projects well beyond
+our own within Mapping the Republic of Letters. For a recent assessment, see Graham, Milligan, and
+Weingart, Exploring Big Historical Data, 112, 268–269.
+62 See http://republicofletters.stanford.edu/publications, which hosts the online interactive visualiza-
+tions, databases, and data schemas for our case studies. Note that the datasets for each case study are
+also stored in SDR (the Stanford Digital Repository), https://sdr.stanford.edu/collections/druid:
+zn653qj0117, to ensure their longevity in what might otherwise at times seem the quite ephemeral after-
+life of digital projects, and where they can be accessed openly by the scholarly community.
+63 See Richard White, “What Is Spatial History?,” Spatial History Lab: Working Paper, submitted
+February 1, 2010, http://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id¼29. White draws
+on Henri Lefebvre, The Production of Space, trans. Donald Nicholson-Smith (Cambridge, Mass., 1991).
+64 HyperCities: Thick Mapping in the Digital Humanities, http://hypercities.com/.
+420
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第22页 ===
+between England and Italy for multiple generations of Britons. Benjamin Franklin,
+remembered today as the archetypal American, in fact spent much of the last third of
+his life largely in England and the Continent, often doing business in which the lines
+between what was “British” and what was “American” were blurred to the point of
+meaninglessness. When we reﬂect on the connections among England, France, and
+North America in the eighteenth century, for example, we are essentially asking how
+an “English space” was situated in relation to a “French space,” or an American one
+within a British world. Instead of superimposing layers, we look at a patchwork of
+spaces, all connected on the same plane by the human interactions that constituted
+the early modern Republic of Letters.65
+The kind of spaces we study might best be described as “cultural zones.”66 Such
+zones exist, almost by deﬁnition, in the plural: to a large degree, they are deﬁned rela-
+tive to and in distinction from one another. Our project requires us to identify these
+zones spatially and conceptually, but also to reﬂect on their interactions.
+At the geographical level, we do not place much importance on exact boundaries
+or even precise locations; for this reason, we have not used GIS (geographic informa-
+tion systems) in our visualizations, and we tend to prefer abstract maps over historical
+ones. We take as a given that cultural zones have fuzzy borders and can overlap: eigh-
+teenth-century Geneva, for instance, could be seen as belonging to both a Swiss Prot-
+estant and a French cultural zone. We use the term “cultural zone” rather than “cul-
+tural space” in order to stress its imprecise, often amorphous, edges. A zone also
+covers a large area, which is why we chose this term over “place.” It can indeed cap-
+ture connections between places in a given period.
+Much of spatial theory, from Georg Simmel and Henri Lefebvre to David Harvey,
+has roots in urban studies.67 Cities are also central to our thinking about cultural
+zones, but in our case we look extra muros. Indeed, a cultural zone can often be de-
+ﬁned as the area affected by the dominance of a city (usually a capital). The French
+cultural zone radiates around Paris; in the eighteenth century, its reach could be felt
+as far away as St. Petersburg. The English cultural zone extended around London,
+and reached as far as Philadelphia and the Indian subcontinent. Rome’s reputation as
+caput mundi was certainly enhanced by its role as the nerve center of overlapping
+global missionary networks whose reach extended to every corner of the world. Of
+course, capitals did not always play this role: not every region created cultural zones
+65 On place vs. space, see Edward S. Casey, The Fate of Place: A Philosophical History (Berkeley,
+Calif., 1997); Philip J. Ethington, “Placing the Past: ‘Groundwork’ for a Spatial Theory of History,”
+Rethinking History 11, no. 4 (2007): 465–493.
+66 The concept of “zone,” to the extent that it is used in spatial theory, tends to be deployed by liter-
+ary scholars in relation either to cities (see, for instance, David Bell, Jon Binnie, Ruth Holliday, Robyn
+Longhurst, and Robin Peace, Pleasure Zones: Bodies, Cities, Spaces [Syracuse, N.Y., 2001]) or to climatic
+“zones” (see Felicity Nussbaum, Torrid Zones: Maternity, Sexuality, and Empire in Eighteenth-Century En-
+glish Narratives [Baltimore, 1995]). There has also been some reflection on this spatial category in postco-
+lonial scholarship; see Imre Szeman, Zones of Instability: Literature, Postcolonialism, and the Nation
+(Baltimore, 2003). Among historians, Peter Sahlins considers zones in relation to frontiers in Boundaries:
+The Making of France and Spain in the Pyrenees (Berkeley, Calif., 1991). We use the term in the sense
+provided by the Oxford English Dictionary: “A definite region or area of the earth, or of any place or
+space, distinguished from adjacent regions by some special quality or condition (indicated by a defining
+word or phrase).”
+67 See Georg Simmel, “The Metropolis and Mental Life” (1903), in Gary Bridge and Sophie Watson,
+eds., The Blackwell City Reader (Oxford, 2002), 11–19; Lefebvre, The Urban Revolution, trans. Robert
+Bononno (Minneapolis, 2003); David Harvey, Social Justice and the City, revised ed. (Athens, Ga., 2009).
+Historical Research in a Digital Age
+421
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第23页 ===
+around a single capital city. But in these instances, cultural zones still formed primar-
+ily around a constellation of cities.
+Our general focus on capitals is not meant to deny the importance of other centers
+in the circulation or creation of knowledge and goods.68 For example, Rome’s central-
+ity in Grand Tour travels gains meaning only in relation to other Italian destina-
+tions—and in any case travelers could not even reach Rome without journeying
+through other cities and regions. But for deﬁnitional purposes, the periphery of a cul-
+tural zone is extremely hard to identify spatially (i.e., to map). The edges of a cultural
+zone tend to be unstable, and can vary depending on the contingencies of war, em-
+pire-building, and governmental policy. The Jesuit diaspora was constantly expanding
+and contracting as new opportunities emerged and others became unstable or van-
+ished entirely. For instance, pockets of a French cultural zone emerged in London
+and the Dutch Republic after the revocation of the Edict of Nantes in 1685. Cultural
+zones are rarely demarcated by a wall, a line, or a river. At the edges, they just fade
+away, as other cultural zones take their place. Cities, by contrast, are much more eas-
+ily localized. They anchor the cultural zone in cartographic space.
+At the conceptual level, what makes these zones cultural? Here we can only point
+to a wide array of features, most of which have, in themselves, little to do with space.
+A language, a religion, a system of social hierarchy, literary and artistic tastes, fash-
+ions, food, constitutional theories, and so forth: all these features, and others, contrib-
+ute to the production of a cultural zone, and each zone will be more or less deter-
+mined by different features. That said, these practices and ideas are nonetheless
+spatial in that they prevail in a certain zone, and beyond that zone, different practices
+and ideas prevail. Political institutions are obviously important for establishing differ-
+ences between cultural zones, but they are not sufﬁcient: the American states re-
+mained in an English cultural zone well after independence. In other words, a cultural
+zone and a political sphere are not necessarily the same thing.
+THE ARGUMENTS ADVANCED HERE are mainly intended to answer questions about our
+methodology; they are not meant to serve as a manifesto, and there are of course
+slight but telling differences in how each of our case studies maps an episode in the
+Republic of Letters. Since every database is different, and since the needs of different
+scholarly agendas are best met by different technologies, we do not think it possible
+or even desirable to dictate a unique methodological approach for all experiments in
+digital history. One objective of these reﬂections is to encourage other scholars to ven-
+ture out into these still largely uncharted waters, using what we have learned along
+the way as either a guide or a foil.
+But we also have our own pipe dreams about the future of digital history, particu-
+larly where intellectual and cultural history are concerned. Given that our own collec-
+tion of metadata was pooled from different sources, we experienced ﬁrsthand the ad-
+vantages of studying historical networks from multiple angles.69 This multiplicity can
+68 See, e.g., Londa Schiebinger, Plants and Empire: Colonial Bioprospecting in the Atlantic World
+(Cambridge, Mass., 2004).
+69 Our largest source of metadata was the EEP; the Humanities Packard Institute gave us the meta-
+data for the Benjamin Franklin correspondence; Stanford Libraries, for the Kircher correspondence; the
+422
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第24页 ===
+uncover networks that exist at one or two (if not six) degrees of separation. Attempt-
+ing to make our databases converge has not been an explicit goal of the project, since
+it is not yet clear that doing so would yield any strong insights. Franklin and Voltaire
+never corresponded directly (and we know of only one meeting in person), but be-
+cause we are in possession of the metadata for both their correspondences, we can
+identify everyone with whom they both corresponded.70 Kircher and Locke had even
+less reason to meet, and in fact never did meet, and they certainly never corre-
+sponded, so perhaps there is nothing particularly revealing to be gained by exploring
+the degree to which their correspondence intersects, since they shared so little.
+Instead, each illuminates a largely distinctive dimension of seventeenth-century intel-
+lectual life and its political, religious, and commercial entanglements. By contrast, the
+Grand Tour Project thrives on identifying points of intersection that emerge as people
+meet in Rome, Florence, Venice, and Naples, among other places, form temporary
+communities forged by travel, and potentially renew their acquaintance around an ar-
+chitectural commission that reminds a patron and an architect that they once shared
+the experience of Italy together. These examples highlight the potential beneﬁts of
+having overlapping metadata: it allows us to explore possible connections by following
+the trail.
+The metadata in our own databases is heterogeneous and somewhat arbitrary; it
+reﬂects our varied interests and the availability of such information, so we have been
+opportunistic in selecting projects where it was already possible to do this kind of
+work. Its limitations also showcase, a contrario, what a more systematic approach
+could yield. Imagine a database even larger in scale than the one currently under con-
+struction by Oxford’s Cultures of Knowledge project—Early Modern Letters Online
+(EMLO), which contains the entire Kircher database, among many others—in which
+all metadata relating to scholarly communication could be pooled.71 Each person
+would have a unique identiﬁer, connecting all of his or her interactions, and embed-
+ded in a much larger pool of information that spanned two hundred, three hundred,
+or four hundred years of intellectual activity. Add to this the possible bibliographic di-
+mensions, with each author linked to the relevant holdings in major libraries; and
+throw in other assortments of metadata, such as membership in learned academies,
+participation in salons or clubs, university education, occupation, travels, and so on.
+This would indeed be a multifaceted archive for all of us to explore.
+No doubt such a database is a fantasy, and we are not suggesting that it could ever
+exist in complete form, notably for the reasons advanced above. But a partial realiza-
+tion of this encyclopedia of metadata is not beyond our abilities. A pan-European re-
+data for the Grand Tour came from Ingamells, A Dictionary of British and Irish Travellers in Italy. For an
+interesting reflection on the advantages of pooling data, see Gingras, “Mapping the Structure of the
+Intellectual Field Using Citation and Co-Citation Analysis of Correspondences.” We also warmly thank
+Robert Hatch at the University of Florida for generously sharing his experience constructing and work-
+ing simultaneously with correspondence databases for his research on the relationship between the
+Republic of Letters and the Scientific Revolution.
+70 Franklin met Voltaire when the latter was initiated into a Masonic Lodge; see Nicholas Hans,
+“UNESCO of the Eighteenth Century: La Loge des Neuf Sœurs and Its Venerable Master, Benjamin
+Franklin,” Proceedings of the American Philosophical Society 97, no. 5 (1953): 513–524. The list of their
+shared correspondents includes Jean Le Rond d’Alembert, Pierre-Jean-Georges Cabanis, Octavie Durey
+de Mesnie`res, Mme Helve´tius, David Hume, Andre´ Morellet, and Anne-Robert-Jacques Turgot.
+71 The EMLO catalogue at http://emlo.bodleian.ox.ac.uk/ is a promising step in this direction.
+Historical Research in a Digital Age
+423
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021
+
+=== 原PDF第25页 ===
+search network, Reassembling the Republic of Letters, has just set out with a similar
+vision, and in fact, we can draw inspiration from the remarkable work undertaken by
+classicists to create a “cyberinfrastructure” that enables and encourages interoperabil-
+ity between digital projects.72 However, we also need tools, developed for and by hu-
+manists, to explore and analyze these data, to make them meaningful. And even in
+this ideal scenario, the time will invariably come when it will be necessary to turn
+away from the screen, pick up a book, and try to ﬁgure out what these piles of histori-
+cal information mean. That is the exercise that all of our publications seek to do. We
+have not attempted to map the Republic of Letters without forgetting why we began
+this project: because the ﬁgures who populate our project are interesting for many
+reasons and left behind a rich trail of documentation whose content we need to read
+with care if we hope that we will ever be able to understand them.
+Dan Edelstein is the William H. Bonsall Professor of French and Professor (by
+courtesy) of History at Stanford University.
+Paula Findlen is the Ubaldo Pierotti Professor of Italian History at Stanford Uni-
+versity.
+Giovanna Ceserani is Associate Professor of Classics and (by courtesy) of History
+at Stanford University.
+Caroline Winterer is the Anthony P. Meier Family Professor in the Humanities
+at Stanford University and Director of the Stanford Humanities Center.
+Nicole Coleman is Digital Research Architect at the Stanford University Libra-
+ries and Research Director for Humanities þ Design at the Center for Spatial
+and Textual Analysis.
+72 See http://www.republicofletters.net/ for more information on the Reassembling the Republic of
+Letters project, with which Mapping the Republic of Letters is now affiliated, and which counts collabo-
+rators from more than thirty European countries, as well as from Canada and Australia. For the
+“cyberinfrastructure,” see Changing the Center of Gravity: Transforming Classical Studies through Cyber-
+infrastructure, ed. Gregory Crane and Melissa Terras, Special Issue, Digital Humanities Quarterly 3, no. 1
+(2009).
+424
+Edelstein, Findlen, Ceserani, Winterer, and Coleman
+AMERICAN HISTORICAL REVIEW
+APRIL 2017
+Downloaded from https://academic.oup.com/ahr/article/122/2/400/3096208 by Stanford University user on 01 September 2021

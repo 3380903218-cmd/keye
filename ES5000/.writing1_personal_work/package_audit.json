@@ -1,0 +1,118 @@
+{
+  "exit_code": 0,
+  "files": [
+    {
+      "findings": [
+        {
+          "code": "external_relationships_present",
+          "count": 2,
+          "message": "Package contains external relationships; review their destinations and intent.",
+          "severity": "info"
+        },
+        {
+          "code": "field_codes_present",
+          "count": 1,
+          "details": {
+            "fldChar": 0,
+            "fldSimple": 1,
+            "instrText": 0
+          },
+          "message": "Field-code structures are present and may require preservation during edits.",
+          "severity": "info"
+        }
+      ],
+      "metrics": {
+        "comment_definitions": 0,
+        "comment_family_content_types": [],
+        "comment_family_parts": [],
+        "comment_family_relationships": [],
+        "comment_markers": {
+          "commentRangeEnd": 0,
+          "commentRangeStart": 0,
+          "commentReference": 0
+        },
+        "endnotes": {
+          "elements": 0,
+          "parts": []
+        },
+        "equations": {
+          "oMath": 0,
+          "oMathPara": 0
+        },
+        "external_relationships": [
+          {
+            "id": "rId6",
+            "source_relationship_part": "word/_rels/document.xml.rels",
+            "target": "https://doi.org/10.1111/camh.12614",
+            "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink"
+          },
+          {
+            "id": "rId7",
+            "source_relationship_part": "word/_rels/document.xml.rels",
+            "target": "https://www.nationalgeographic.com/health/article/communal-dining-loneliness-epidemic",
+            "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink"
+          }
+        ],
+        "field_codes": {
+          "fldChar": 0,
+          "fldSimple": 1,
+          "instrText": 0
+        },
+        "footnotes": {
+          "elements": 0,
+          "parts": []
+        },
+        "missing_relationship_targets": [],
+        "parsed_xml_parts": [
+          "[Content_Types].xml",
+          "_rels/.rels",
+          "docProps/app.xml",
+          "docProps/core.xml",
+          "word/_rels/document.xml.rels",
+          "word/document.xml",
+          "word/fontTable.xml",
+          "word/footer1.xml",
+          "word/settings.xml",
+          "word/styles.xml",
+          "word/theme/theme1.xml",
+          "word/webSettings.xml"
+        ],
+        "skipped_xml_parts": [],
+        "tracked_changes": {
+          "del": 0,
+          "ins": 0,
+          "moveFrom": 0,
+          "moveTo": 0
+        }
+      },
+      "package": {
+        "case_collisions": [],
+        "deep_audit_complete": true,
+        "directory_entries": 0,
+        "duplicate_entries": [],
+        "entries": 12,
+        "file_entries": 12,
+        "rejected_for_safe_audit": false,
+        "total_uncompressed_bytes": 84724,
+        "unsafe_entries": []
+      },
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/ES5000/Writing_Assignment_1_personal_revision/G6_WANG XIWEN_Writing Assignment 1_personal revision.docx",
+      "scope": "Read-only package-structure audit; this does not verify rendered appearance, pagination, or semantic correctness.",
+      "status": "ok",
+      "summary": {
+        "errors": 0,
+        "info": 2,
+        "issues": 0
+      }
+    }
+  ],
+  "schema_version": 1,
+  "scope": "Read-only package-structure audit; this does not verify rendered appearance, pagination, or semantic correctness.",
+  "summary": {
+    "files": 1,
+    "ok": 1,
+    "read_errors": 0,
+    "with_issues": 0
+  },
+  "tool": "audit_docx_package"
+}

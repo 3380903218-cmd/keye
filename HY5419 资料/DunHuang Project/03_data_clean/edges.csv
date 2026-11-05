@@ -1,0 +1,10 @@
+﻿EventId,Source,Target,Type,YearStart,YearEnd,Relationship,SourceWording,QuantityApprox,Unit,Confidence,SourceRef,Notes
+E001,N001,N002,Directed,1900,1907,custody,Wang Yuanlu safeguarded and controlled access to the deposit after discovery,,,high,S01;S03;S07,"Custody is modeled as a documented relation, not ownership."
+E002,N002,N006,Directed,1907,1907,acquisition,"agreement ... fifty compact bundles of Chinese, and five of Tibetan, text rolls",55,bundles,high,S07,First Stein acquisition at Mogao; quantity retained as an attribute.
+E003,N004,N006,Directed,1907,1907,physical_transfer,Two midnight trips ... allowed the huge sackfuls to be safely removed to my store-room,,,high,S07,Intermediary role is explicit in Stein's account.
+E004,N006,N007,Directed,1907,1908,institutional_transfer,deposited in the British Museum,24,cases,high,S07,Institutional deposit after expedition packing; not a new acquisition claim.
+E005,N002,N006,Directed,1907,1907,acquisition,allow me to acquire some twenty more bundles of Chinese manuscripts ... against an appropriate donation,20,bundles,high,S07,Additional Mogao material after the first agreement.
+E006,N002,N006,Directed,1907,1907,acquisition,another big share ... over two hundred and thirty compact bundles,230,bundles,high,S03;S07,Anxi event; sources also report approximately 220. Preserve approximation.
+E007,N006,N007,Directed,1907,1908,institutional_transfer,all the twenty-four cases heavy with manuscripts ... deposited in the British Museum,24,cases,high,S07,Second institutional handoff recorded in the same expedition account.
+E008,N002,N008,Directed,1909,1910,state_transfer,an order was issued by the central Government directing the prompt transmission of the whole library to the capital,,,high,S01;S07,Order concerns remaining material in Wang Yuanlu's keeping after Pelliot.
+E009,N008,N009,Directed,1909,1910,institutional_transfer,prompt transmission ... to the capital,,,high,S01;S07,Beijing receiving system is a provisional institutional abstraction.

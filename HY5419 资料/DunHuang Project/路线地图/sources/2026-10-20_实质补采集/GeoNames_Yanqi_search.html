@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>GeoNames Fulltextsearch : Yanqi</title>
+<link rel="search" type="application/opensearchdescription+xml" title="geonames" href="https://www.geonames.org/opensearch-description.xml">
+<link href="/geonames.ico" rel="shortcut icon" >
+<link rel="StyleSheet" href="/geonames.css" type="text/css" >
+</head>
+<body>
+<table id="topmenutable" cellpadding="0" cellspacing="0"><tr>
+<td class="topmenu">&nbsp;<a href="/" title="GeoName Home">&nbsp;GeoNames Home</a>&nbsp;|&nbsp;<a href="/postal-codes/" title="Postal Codes">Postal Codes</a>&nbsp;|&nbsp;<a href="/export/" title="Database Dump and Webservice API">Download / Webservice</a>&nbsp;|&nbsp;<a href="/about.html" title="About GeoNames">About</a>&nbsp;</td>
+<td class="topsearch">
+   <span id="topmenulogin">
+<a href="https://www.geonames.org/login" title="login or create new user account">login</a>
+   </span>
+</td></tr>
+</table>
+
+
+<script type="text/javascript">
+function searchOnMap() {
+  if (document.searchForm.q.value == '') {
+    alert('Please enter a name.');
+    return;
+  }
+  var q = encodeURIComponent(document.searchForm.q.value);
+  if (document.searchForm.country.value != '') {
+    q = q + '&country=' + document.searchForm.country.value;
+  }
+  if (document.searchForm.featureClass != null && document.searchForm.featureClass.value != '') {
+    q = q + '&featureClass=' + document.searchForm.featureClass.value;
+  }
+  if (document.searchForm.continentCode != null && document.searchForm.continentCode.value != '') {
+    q = q + '&continentCode=' + document.searchForm.continentCode.value;
+  }
+  window.location = '/maps/showOnMap?q='+ q;
+}
+</script>
+
+<br>
+<div id="search">
+<form name="searchForm" method="GET" action="/advanced-search.html?">
+<input name="q" size="40" value="Yanqi" type="text">
+<select name ="country" style="width:200px;"><option value=""> all countries</option><option value="CS"> </option><option value="AF"> Afghanistan</option><option value="AL"> Albania</option><option value="DZ"> Algeria</option><option value="AS"> American Samoa</option><option value="AD"> Andorra</option><option value="AO"> Angola</option><option value="AI"> Anguilla</option><option value="AQ"> Antarctica</option><option value="AG"> Antigua and Barbuda</option><option value="AR"> Argentina</option><option value="AM"> Armenia</option><option value="AW"> Aruba</option><option value="AU"> Australia</option><option value="AT"> Austria</option><option value="AZ"> Azerbaijan</option><option value="BS"> Bahamas</option><option value="BH"> Bahrain</option><option value="BD"> Bangladesh</option><option value="BB"> Barbados</option><option value="BY"> Belarus</option><option value="BE"> Belgium</option><option value="BZ"> Belize</option><option value="BJ"> Benin</option><option value="BM"> Bermuda</option><option value="BT"> Bhutan</option><option value="BO"> Bolivia</option><option value="BQ"> Bonaire, Sint Eustatius, and Saba</option><option value="BA"> Bosnia and Herzegovina</option><option value="BW"> Botswana</option><option value="BV"> Bouvet Island</option><option value="BR"> Brazil</option><option value="IO"> British Indian Ocean Territory</option><option value="VG"> British Virgin Islands</option><option value="BN"> Brunei</option><option value="BG"> Bulgaria</option><option value="BF"> Burkina Faso</option><option value="BI"> Burundi</option><option value="CV"> Cabo Verde</option><option value="KH"> Cambodia</option><option value="CM"> Cameroon</option><option value="CA"> Canada</option><option value="KY"> Cayman Islands</option><option value="CF"> Central African Republic</option><option value="TD"> Chad</option><option value="CL"> Chile</option><option value="CN" selected > China</option><option value="CX"> Christmas Island</option><option value="CC"> Cocos (Keeling) Islands</option><option value="CO"> Colombia</option><option value="KM"> Comoros</option><option value="CG"> Congo Republic</option><option value="CK"> Cook Islands</option><option value="CR"> Costa Rica</option><option value="HR"> Croatia</option><option value="CU"> Cuba</option><option value="CW"> Curaçao</option><option value="CY"> Cyprus</option><option value="CZ"> Czechia</option><option value="CD"> DR Congo</option><option value="DK"> Denmark</option><option value="DJ"> Djibouti</option><option value="DM"> Dominica</option><option value="DO"> Dominican Republic</option><option value="EC"> Ecuador</option><option value="EG"> Egypt</option><option value="SV"> El Salvador</option><option value="GQ"> Equatorial Guinea</option><option value="ER"> Eritrea</option><option value="EE"> Estonia</option><option value="SZ"> Eswatini</option><option value="ET"> Ethiopia</option><option value="FK"> Falkland Islands</option><option value="FO"> Faroe Islands</option><option value="FJ"> Fiji</option><option value="FI"> Finland</option><option value="FR"> France</option><option value="GF"> French Guiana</option><option value="PF"> French Polynesia</option><option value="TF"> French Southern Territories</option><option value="GA"> Gabon</option><option value="GE"> Georgia</option><option value="DE"> Germany</option><option value="GH"> Ghana</option><option value="GI"> Gibraltar</option><option value="GR"> Greece</option><option value="GL"> Greenland</option><option value="GD"> Grenada</option><option value="GP"> Guadeloupe</option><option value="GU"> Guam</option><option value="GT"> Guatemala</option><option value="GG"> Guernsey</option><option value="GN"> Guinea</option><option value="GW"> Guinea-Bissau</option><option value="GY"> Guyana</option><option value="HT"> Haiti</option><option value="HM"> Heard and McDonald Islands</option><option value="HN"> Honduras</option><option value="HK"> Hong Kong</option><option value="HU"> Hungary</option><option value="IS"> Iceland</option><option value="IN"> India</option><option value="ID"> Indonesia</option><option value="IR"> Iran</option><option value="IQ"> Iraq</option><option value="IE"> Ireland</option><option value="IM"> Isle of Man</option><option value="IL"> Israel</option><option value="IT"> Italy</option><option value="CI"> Ivory Coast</option><option value="JM"> Jamaica</option><option value="JP"> Japan</option><option value="JE"> Jersey</option><option value="JO"> Jordan</option><option value="KZ"> Kazakhstan</option><option value="KE"> Kenya</option><option value="KI"> Kiribati</option><option value="XK"> Kosovo</option><option value="KW"> Kuwait</option><option value="KG"> Kyrgyzstan</option><option value="LA"> Laos</option><option value="LV"> Latvia</option><option value="LB"> Lebanon</option><option value="LS"> Lesotho</option><option value="LR"> Liberia</option><option value="LY"> Libya</option><option value="LI"> Liechtenstein</option><option value="LT"> Lithuania</option><option value="LU"> Luxembourg</option><option value="MO"> Macao</option><option value="MG"> Madagascar</option><option value="MW"> Malawi</option><option value="MY"> Malaysia</option><option value="MV"> Maldives</option><option value="ML"> Mali</option><option value="MT"> Malta</option><option value="MH"> Marshall Islands</option><option value="MQ"> Martinique</option><option value="MR"> Mauritania</option><option value="MU"> Mauritius</option><option value="YT"> Mayotte</option><option value="MX"> Mexico</option><option value="FM"> Micronesia</option><option value="MD"> Moldova</option><option value="MC"> Monaco</option><option value="MN"> Mongolia</option><option value="ME"> Montenegro</option><option value="MS"> Montserrat</option><option value="MA"> Morocco</option><option value="MZ"> Mozambique</option><option value="MM"> Myanmar</option><option value="NA"> Namibia</option><option value="NR"> Nauru</option><option value="NP"> Nepal</option><option value="NC"> New Caledonia</option><option value="NZ"> New Zealand</option><option value="NI"> Nicaragua</option><option value="NE"> Niger</option><option value="NG"> Nigeria</option><option value="NU"> Niue</option><option value="NF"> Norfolk Island</option><option value="KP"> North Korea</option><option value="MK"> North Macedonia</option><option value="MP"> Northern Mariana Islands</option><option value="NO"> Norway</option><option value="OM"> Oman</option><option value="PK"> Pakistan</option><option value="PW"> Palau</option><option value="PS"> Palestine</option><option value="PA"> Panama</option><option value="PG"> Papua New Guinea</option><option value="PY"> Paraguay</option><option value="PE"> Peru</option><option value="PH"> Philippines</option><option value="PN"> Pitcairn Islands</option><option value="PL"> Poland</option><option value="PT"> Portugal</option><option value="PR"> Puerto Rico</option><option value="QA"> Qatar</option><option value="RO"> Romania</option><option value="RU"> Russia</option><option value="RW"> Rwanda</option><option value="RE"> Réunion</option><option value="BL"> Saint Barthélemy</option><option value="SH"> Saint Helena</option><option value="LC"> Saint Lucia</option><option value="MF"> Saint Martin</option><option value="PM"> Saint Pierre and Miquelon</option><option value="WS"> Samoa</option><option value="SM"> San Marino</option><option value="SA"> Saudi Arabia</option><option value="SN"> Senegal</option><option value="RS"> Serbia</option><option value="SC"> Seychelles</option><option value="SL"> Sierra Leone</option><option value="SG"> Singapore</option><option value="SX"> Sint Maarten</option><option value="SK"> Slovakia</option><option value="SI"> Slovenia</option><option value="SB"> Solomon Islands</option><option value="SO"> Somalia</option><option value="ZA"> South Africa</option><option value="GS"> South Georgia and South Sandwich Islands</option><option value="KR"> South Korea</option><option value="SS"> South Sudan</option><option value="ES"> Spain</option><option value="LK"> Sri Lanka</option><option value="KN"> St Kitts and Nevis</option><option value="VC"> St Vincent and Grenadines</option><option value="SD"> Sudan</option><option value="SR"> Suriname</option><option value="SJ"> Svalbard and Jan Mayen</option><option value="SE"> Sweden</option><option value="CH"> Switzerland</option><option value="SY"> Syria</option><option value="ST"> São Tomé and Príncipe</option><option value="TW"> Taiwan</option><option value="TJ"> Tajikistan</option><option value="TZ"> Tanzania</option><option value="TH"> Thailand</option><option value="GM"> The Gambia</option><option value="NL"> The Netherlands</option><option value="TL"> Timor-Leste</option><option value="TG"> Togo</option><option value="TK"> Tokelau</option><option value="TO"> Tonga</option><option value="TT"> Trinidad and Tobago</option><option value="TN"> Tunisia</option><option value="TM"> Turkmenistan</option><option value="TC"> Turks and Caicos Islands</option><option value="TV"> Tuvalu</option><option value="TR"> Türkiye</option><option value="UM"> U.S. Outlying Islands</option><option value="VI"> U.S. Virgin Islands</option><option value="UG"> Uganda</option><option value="UA"> Ukraine</option><option value="AE"> United Arab Emirates</option><option value="GB"> United Kingdom</option><option value="US"> United States</option><option value="UY"> Uruguay</option><option value="UZ"> Uzbekistan</option><option value="VU"> Vanuatu</option><option value="VA"> Vatican City</option><option value="VE"> Venezuela</option><option value="VN"> Vietnam</option><option value="WF"> Wallis and Futuna</option><option value="EH"> Western Sahara</option><option value="YE"> Yemen</option><option value="ZM"> Zambia</option><option value="ZW"> Zimbabwe</option><option value="AX"> Åland</option></select>
+<table class="restable"><tr><td>Feature Class: </td><td>
+<select name="featureClass">
+<option value="" >all</option>
+<option value="A">country, state, region,...</option>
+<option value="H">stream, lake, ...</option>
+<option value="L">parks,area, ...</option>
+<option value="P"selected="selected">city, village,...</option>
+<option value="R">road, railroad </option>
+<option value="S">spot, building, farm</option>
+<option value="T">mountain,hill,rock,... </option>
+<option value="U">undersea</option>
+<option value="V">forest,heath,...</option>
+ </select>
+</td></tr><tr><td>Continent: </td><td>
+<select name="continentCode">
+<option value="" selected="selected">all</option>
+<option value="EU">Europe</option>
+<option value="AF">Africa</option>
+<option value="AS">Asia</option>
+<option value="OC">Oceania</option>
+<option value="NA">North America</option>
+<option value="SA">South America</option>
+ </select>
+</td></tr><tr><td>fuzzy search : </td><td><input type="checkbox" name="fuzzy" value="0.6"></td></tr></table>
+<br><input type="submit" value="search">
+</form>
+<table class="restable">
+<tr><td colspan=6 style="text-align: right;"><small>6 records found for "Yanqi"</small></td></tr>
+<tr><th></th><th>Name</th><th>Country</th><th>Feature class</th><th>Latitude</th><th>Longitude</th></tr>
+<tr><td><small>1</small> <a href="/1529031/yanqi.html"><img src="/maps/markers/m10-WHITE-P.png" border="0" alt="P"></a></td><td><a href="/1529031/yanqi.html">Yanqi</a>&nbsp;&nbsp;<a href="http://en.wikipedia.org/wiki/Karasahr"><img src="/img/20px-Wikipedia-logo.png" width="15" border="0" alt="wikipedia article"></a><br><small>Ha-la-sha-erh,K'a-la-sha-erh,K'o-la-sha-erh,Kara-schahr,Karachahr,Karashahr,Karashar,Khara Shar,Kura...</small><span class="geo" style="display:none;"><span class="latitude">42.0632069</span><span class="longitude">86.57184526</span></span></td><td><a href="/countries/CN/china.html">China</a>, Xinjiang<br><small>Bayingolin Mongol Autonomous Prefecture</small>
+</td><td>seat of a third-order administrative division<br><small>population 31,773</small>
+</td><td nowrap>N 42° 3′ 47''</td><td nowrap>E 86° 34′ 18''</td></tr>
+<tr class="odd"><td><small>2</small> <a href="/2037431/yanqi.html"><img src="/maps/markers/m10-WHITE-P.png" border="0" alt="P"></a></td><td><a href="/2037431/yanqi.html">Yanqi</a><br><small>Fangezhuang,Yanqi,Yanqi Zhen,fan ge zhuang,yan qi,yan qi zhen,范各庄,雁栖,雁栖镇</small><span class="geo" style="display:none;"><span class="latitude">40.36172</span><span class="longitude">116.656255</span></span></td><td><a href="/countries/CN/china.html">China</a>, Beijing<br><small>Beijing</small>
+</td><td>seat of a fourth-order administrative division</td><td nowrap>N 40° 21′ 42''</td><td nowrap>E 116° 39′ 22''</td></tr>
+<tr><td><small>3</small> <a href="/12455758/yanqi.html"><img src="/maps/markers/m10-WHITE-P.png" border="0" alt="P"></a></td><td><a href="/12455758/yanqi.html">Yanqi</a><br><small>Yanqi,yan qi,雁企</small><span class="geo" style="display:none;"><span class="latitude">22.763471</span><span class="longitude">113.364403</span></span></td><td><a href="/countries/CN/china.html">China</a>, Guangdong</td><td>populated place</td><td nowrap>N 22° 45′ 48''</td><td nowrap>E 113° 21′ 51''</td></tr>
+<tr class="odd"><td><small>4</small> <a href="/10200725/yanqi.html"><img src="/maps/markers/m10-WHITE-P.png" border="0" alt="P"></a></td><td><a href="/10200725/yanqi.html">Yanqi</a><br><small>Yanqi,yan qi,燕栖</small><span class="geo" style="display:none;"><span class="latitude">30.9439</span><span class="longitude">102.295</span></span></td><td><a href="/countries/CN/china.html">China</a>, Sichuan<br><small>Aba Zangzu Qiangzu Zizhizhou</small>
+</td><td>populated place</td><td nowrap>N 30° 56′ 38''</td><td nowrap>E 102° 17′ 42''</td></tr>
+<tr><td><small>5</small> <a href="/8576095/yanqicun.html"><img src="/maps/markers/m10-WHITE-P.png" border="0" alt="P"></a></td><td><a href="/8576095/yanqicun.html">Yanqicun</a><br><small>Yanqi,Yanqicun,yan qi,yan qi cun,颜岐,颜岐村</small><span class="geo" style="display:none;"><span class="latitude">26.359244</span><span class="longitude">119.753036</span></span></td><td><a href="/countries/CN/china.html">China</a>, Fujian</td><td>populated place</td><td nowrap>N 26° 21′ 33''</td><td nowrap>E 119° 45′ 10''</td></tr>
+<tr class="odd"><td><small>6</small> <a href="/9930043/yanqicun.html"><img src="/maps/markers/m10-WHITE-P.png" border="0" alt="P"></a></td><td><a href="/9930043/yanqicun.html">Yanqicun</a><br><small>Yanqi,Yanqicun,yan qi,yan qi cun,燕齐,燕齐村</small><span class="geo" style="display:none;"><span class="latitude">23.392229</span><span class="longitude">108.27076</span></span></td><td><a href="/countries/CN/china.html">China</a>, Guangxi<br><small>Nanning Shi</small>
+</td><td>populated place</td><td nowrap>N 23° 23′ 32''</td><td nowrap>E 108° 16′ 14''</td></tr>
+<tr class="tfooter"><td colspan=6></td></tr>
+</table>
+
+</div>
+
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<div id="pageFooter">
+info@geonames.org  <img src="/img/smallant.gif" alt="ant" align="middle" hspace="40" border="0"> by <a href="https://www.unxos.com">unxos gmbh</a>
+<p>
+<a href="/">GeoNames Home</a>
+<span class="separator">&#8226;</span>
+<a href="/postal-codes/">Postal Codes</a>
+<span class="separator">&#8226;</span>
+<a href="/export/">Download / Webservice</a>
+<span class="separator">&#8226;</span>
+<a href="http://forum.geonames.org">Forum</a>
+<span class="separator">&#8226;</span>
+<a href="http://geonames.wordpress.com">Blog</a>
+<span class="separator">&#8226;</span>
+<a href="/sitemap.html">Sitemap</a>
+</div>
+</body></html>

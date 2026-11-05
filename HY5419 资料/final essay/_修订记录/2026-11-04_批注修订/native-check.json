@@ -1,0 +1,7 @@
+{
+  "status": "unavailable",
+  "artifact_sha256": "2ed2d632a580ad772e18c659b51c1fe6edccea406fe0790b78822c1d04c11494",
+  "cua_error": "CUA_REPL_ENABLED_SURFACES is required",
+  "document_sessions": "No connected Codex document sessions were found.",
+  "existing_lock": "Pre-existing Word lock file preserved; native Word open/render not claimed."
+}

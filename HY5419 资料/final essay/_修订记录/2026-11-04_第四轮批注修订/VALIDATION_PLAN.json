@@ -1,0 +1,12 @@
+{
+  "artifact_sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+  "required_layers": [
+    "content",
+    "package",
+    "rendered",
+    "delivery-package"
+  ],
+  "content_scope": "One newly annotated merge and the previous five corrections preserved; comparison to previous delivered text limits the new change to two future-work paragraphs.",
+  "rendering_scope": "Current proxy page inspection; native verification unavailable due concurrent user Word activity.",
+  "delivery_scope": "In-place original update only if the reviewed baseline hash is unchanged; retain existing editor lock."
+}

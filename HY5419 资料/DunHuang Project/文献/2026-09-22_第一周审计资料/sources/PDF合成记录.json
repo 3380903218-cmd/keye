@@ -1,0 +1,52 @@
+[
+  {
+    "file": "full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+    "page_count": 6,
+    "sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022",
+    "method": "Original JPEG bytes embedded; no OCR layer; no crop or recompression",
+    "inputs": [
+      "sources/scan-images/S07_scan_0311.jpg",
+      "sources/scan-images/S07_scan_0312.jpg",
+      "sources/scan-images/S07_scan_0313.jpg",
+      "sources/scan-images/S07_scan_0317.jpg",
+      "sources/scan-images/S07_scan_0318.jpg",
+      "sources/scan-images/S07_scan_0412.jpg"
+    ]
+  },
+  {
+    "file": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+    "page_count": 28,
+    "sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+    "method": "Original JPEG bytes embedded; no OCR layer; no crop or recompression",
+    "inputs": [
+      "sources/scan-images/S22_scan_0001.jpg",
+      "sources/scan-images/S22_scan_0002.jpg",
+      "sources/scan-images/S22_scan_0003.jpg",
+      "sources/scan-images/S22_scan_0004.jpg",
+      "sources/scan-images/S22_scan_0005.jpg",
+      "sources/scan-images/S22_scan_0006.jpg",
+      "sources/scan-images/S22_scan_0007.jpg",
+      "sources/scan-images/S22_scan_0008.jpg",
+      "sources/scan-images/S22_scan_0009.jpg",
+      "sources/scan-images/S22_scan_0010.jpg",
+      "sources/scan-images/S22_scan_0011.jpg",
+      "sources/scan-images/S22_scan_0012.jpg",
+      "sources/scan-images/S22_scan_0013.jpg",
+      "sources/scan-images/S22_scan_0014.jpg",
+      "sources/scan-images/S22_scan_0015.jpg",
+      "sources/scan-images/S22_scan_0016.jpg",
+      "sources/scan-images/S22_scan_0017.jpg",
+      "sources/scan-images/S22_scan_0018.jpg",
+      "sources/scan-images/S22_scan_0019.jpg",
+      "sources/scan-images/S22_scan_0020.jpg",
+      "sources/scan-images/S22_scan_0021.jpg",
+      "sources/scan-images/S22_scan_0022.jpg",
+      "sources/scan-images/S22_scan_0023.jpg",
+      "sources/scan-images/S22_scan_0024.jpg",
+      "sources/scan-images/S22_scan_0025.jpg",
+      "sources/scan-images/S22_scan_0026.jpg",
+      "sources/scan-images/S22_scan_0027.jpg",
+      "sources/scan-images/S22_scan_0028.jpg"
+    ]
+  }
+]

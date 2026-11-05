@@ -1,0 +1,129 @@
+{
+  "source_sha256": "360e8b627b427a2446b6c6c19a5329f18c26d9fd4220f2998aa40dcf53f8798b",
+  "output_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+  "parts_changed": [
+    "word/document.xml"
+  ],
+  "paragraph_changes": [
+    {
+      "paragraph": 5,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "Today I am presenting Porcelain in Translation: one Chinese porcelain tradition, seen through three worlds—the Chinese past, the Qing court, and European markets. My question is how the same material acquired such different meanings.",
+      "after": "Today I am presenting Porcelain in Translation. Through three worlds—the Chinese past, the Qing court, and European markets—I explore how porcelain changed. My question is how Qing porcelain expressed cultural continuity and exchange, and why it acquired such different cultural meanings."
+    },
+    {
+      "paragraph": 2,
+      "reason": "Recounted English and estimated timing",
+      "before": "Suggested cue: 0:00–0:45  |  66 English words",
+      "after": "Suggested cue: 0:00–0:50  |  74 English words"
+    },
+    {
+      "paragraph": 15,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "This Langyao-red Guanyin vase belongs to the Kangxi period and is held by the Palace Museum. Its striking copper-red glaze recalls earlier Ming porcelain, especially Xuande-period wares. Jingdezhen potters revived a technique that was difficult to fire successfully.",
+      "after": "This Kangxi-period Langyao-red Guanyin vase is held by the Palace Museum. Langyao is a high-fired copper-red glaze named after Lang Tingji, the Jiangxi governor who supervised kiln production. Jingdezhen potters drew on Ming Xuande red glazes to develop a distinctive Qing glaze with a glassy surface and a pale rim."
+    },
+    {
+      "paragraph": 16,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "For my exhibition, innovation begins by looking back. Qing potters used a renewed technical achievement to express imperial cultural identity. The past became a resource for making something meaningful in a new setting.",
+      "after": "For my exhibition, innovation begins by looking back. Qing potters inherited and further developed earlier techniques to create their own aesthetic. I connect this renewal to imperial cultural identity."
+    },
+    {
+      "paragraph": 18,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "This is the first process in my exhibition: reinventing tradition for Qing imperial culture.",
+      "after": "This is the first process in my exhibition: inheriting and renewing tradition in Qing China."
+    },
+    {
+      "paragraph": 20,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "这件郎窑红观音尊属于康熙时期，收藏于故宫博物院。它醒目的铜红釉使人联想到更早的明代瓷器，尤其是宣德时期的器物。景德镇工匠复兴了这种难以成功烧制的技术。",
+      "after": "这件郎窑红观音尊属于康熙时期，收藏于故宫博物院。郎窑红是一种高温铜红釉，以督理窑务的江西巡抚郎廷极命名。景德镇工匠借鉴明代宣德红釉传统，创烧出具有玻璃光泽与浅色口沿的清代新釉种。"
+    },
+    {
+      "paragraph": 21,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "在我的展览中，创新首先表现为对过去的回望。清代工匠通过重新掌握并升级这项技术，表达帝国的文化身份。过去由此成为一种资源，让器物在新的历史环境中获得意义。",
+      "after": "在我的展览中，创新首先表现为对过去的回望。清代工匠继承并进一步发展前代工艺，形成自身的审美特征。我将这种更新过程与帝国文化身份联系起来。"
+    },
+    {
+      "paragraph": 23,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "这就是我展览中的第一个过程：为了清代帝国文化而继承且重塑传统。",
+      "after": "这就是我展览中的第一个过程：在清代中国继承并更新传统。"
+    },
+    {
+      "paragraph": 11,
+      "reason": "Accurate section title",
+      "before": "Slide 2 / 5 — Reviving copper-red",
+      "after": "Slide 2 / 5 — Langyao red: inheritance and renewal"
+    },
+    {
+      "paragraph": 12,
+      "reason": "Corresponding Chinese section title",
+      "before": "复兴铜红釉：郎窑红观音尊",
+      "after": "郎窑红：传承与更新"
+    },
+    {
+      "paragraph": 13,
+      "reason": "Recounted English and estimated timing",
+      "before": "Suggested cue: 0:45–2:05  |  120 English words",
+      "after": "Suggested cue: 0:50–2:15  |  129 English words"
+    },
+    {
+      "paragraph": 28,
+      "reason": "Recounted English and estimated timing",
+      "before": "Suggested cue: 2:05–3:35  |  135 English words",
+      "after": "Suggested cue: 2:15–3:45  |  135 English words"
+    },
+    {
+      "paragraph": 45,
+      "reason": "Recounted English and estimated timing",
+      "before": "Suggested cue: 3:35–5:05  |  135 English words",
+      "after": "Suggested cue: 3:45–5:15  |  135 English words"
+    },
+    {
+      "paragraph": 69,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "My main argument is that Qing China actively shaped global cultural exchange. Chinese makers revived inherited techniques, adapted foreign knowledge, and interpreted overseas demand.",
+      "after": "The ribbon on my poster symbolises cultural inheritance and renewal. Its continuous flow represents traditions being carried forward, while its changing direction suggests their transformation in new settings."
+    },
+    {
+      "paragraph": 70,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "Porcelain carried more than goods across borders. It helped technologies, images, aesthetic values, and social identities take new forms. That is the meaning of Porcelain in Translation. Thank you.",
+      "after": "My argument is that Qing China actively shaped global cultural exchange. Porcelain carried technologies, images, aesthetic values, and social identities across borders, giving them new meanings. That is Porcelain in Translation. Thank you."
+    },
+    {
+      "paragraph": 75,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "我的核心观点是，清代中国主动塑造了全球文化交流。中国工匠复兴已有技艺，改造外来知识，并诠释海外需求。",
+      "after": "海报中的丝带象征文化的传承与更新。连续流动的形态表现传统的延续，转折与方向变化则象征传统在新的环境中被重新塑造。"
+    },
+    {
+      "paragraph": 76,
+      "reason": "Translate user edits / verified Langyao account / ribbon interpretation",
+      "before": "瓷器跨越国界时，传播的不只是商品。它也让技术、图像、审美价值和社会身份获得了新的形式。这就是“瓷器的转译”的含义。谢谢。",
+      "after": "我的核心观点是，清代中国主动塑造了全球文化交流。瓷器使技术、图像、审美价值与社会身份跨越国界，并赋予它们新的意义。这就是“瓷器的转译”的含义。谢谢。"
+    },
+    {
+      "paragraph": 64,
+      "reason": "Recounted English and estimated timing",
+      "before": "Suggested cue: 5:05–6:35  |  134 English words",
+      "after": "Suggested cue: 5:15–6:50  |  142 English words"
+    },
+    {
+      "paragraph": 3,
+      "reason": "Updated delivery estimate",
+      "before": "只朗读英文；中文用于对照修改。英文共 590 词，按每分钟 90 词、另加 20 秒停顿估算约 6 分 53 秒。实际时长请以排练为准。",
+      "after": "只朗读英文；中文用于对照修改。英文共 615 词，按每分钟 90 词、另加 20 秒停顿估算约 7 分 10 秒。实际时长请以排练为准。"
+    },
+    {
+      "paragraph": 24,
+      "reason": "Separate verified object facts from exhibition interpretation",
+      "before": "内容依据：project abstract.docx；器物背景：故宫博物院。",
+      "after": "器物资料：故宫博物院；中国国家博物馆。文化身份的联系为本展览的策展解读。"
+    }
+  ]
+}

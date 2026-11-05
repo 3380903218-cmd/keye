@@ -1,0 +1,28 @@
+[
+  {
+    "id": "G06",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DDBEAF0E1DB1819C6128FD8A586424ED/S1356186300009986a.pdf/div-class-title-stein-s-recording-angel-miss-f-m-g-lorimer-div.pdf",
+    "status": 200,
+    "final_url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/steins-recording-angel-miss-f-m-glorimer/DDBEAF0E1DB1819C6128FD8A586424ED",
+    "bytes": 993322
+  },
+  {
+    "id": "G10_direct",
+    "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783111569550-003/pdf",
+    "status": 202,
+    "final_url": "https://www.degruyterbrill.com/document/doi/10.1515/9783111569550-003/pdf",
+    "bytes": 0
+  },
+  {
+    "id": "G10_www",
+    "url": "https://www.uplopen.com/chapters/9085/files/a9be2fe2-4be9-49d9-b8fd-5db6628849a1.pdf",
+    "status": 403,
+    "final_url": "https://www.uplopen.com/chapters/9085/files/a9be2fe2-4be9-49d9-b8fd-5db6628849a1.pdf",
+    "bytes": 134
+  },
+  {
+    "id": "L06_legacy",
+    "url": "https://eprints.soas.ac.uk/25544/",
+    "error": "HTTPSConnectionPool(host='eprints.soas.ac.uk', port=443): Max retries exceeded with url: /25544/ (Caused by NameResolutionError(\"HTTPSConnection(host='eprints.soas.ac.uk', port=443): Failed to resolve 'eprints.soas.ac.uk' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  }
+]

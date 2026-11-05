@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+  "sections": 5,
+  "english_words": 615,
+  "estimate_seconds": 430,
+  "english_chinese_paragraph_parity": true,
+  "user_chinese_opening_preserved_including_run_formatting": true,
+  "slide_3_4_prose_preserved": true,
+  "manual_semantic_review": {
+    "path": "visual_review.md",
+    "sha256": "ec9fd97624238630561b5249f2f029429f05864548668ae0d54c378d845be9f9"
+  },
+  "sources": [
+    {
+      "publisher": "The Palace Museum",
+      "url": "https://intl.dpm.org.cn/Ceramicsis/944.html",
+      "supports": "Kangxi attribution, high-fired copper-red glaze, naming, glassy surface and pale rim"
+    },
+    {
+      "publisher": "National Museum of China",
+      "url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_26821.shtml",
+      "supports": "Lang Tingji kiln supervision and relation to Ming Xuande red glazes"
+    }
+  ],
+  "interpretive_claims": [
+    "Imperial cultural identity is the exhibition interpretation",
+    "Ribbon continuity and change are the presenter’s design interpretation"
+  ]
+}

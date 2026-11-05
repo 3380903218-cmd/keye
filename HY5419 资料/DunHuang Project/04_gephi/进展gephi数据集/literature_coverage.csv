@@ -1,0 +1,26 @@
+﻿SourceID,Disposition,CheckedScope,Reason
+S01,main_evidence,印刷821、825页；PDF1、5; 印刷837–838页；PDF17–18; 印刷839页；PDF19,S02为同篇AAM，不是独立研究；其引述Stein的部分不算独立目击佐证
+S02,duplicate_version,复用既有来源登记；不声称通读或精确事件核验,not an independent study; cite S01 as main reference
+S03,main_evidence,印刷59–60页；PDF4–5；Ac1及夜间取回段; 印刷60页Ac2、73页注26；PDF5、18; 印刷60页；73页注24；PDF5、18; 印刷63–64页；PDF8–9,日记和书信原件本轮未取得；转引有日数与数量差异；不可把全部论述视为与Stein独立
+S04,background_outside_transfer_unit,复用既有来源登记；不声称通读或精确事件核验,article is about changing cave meanings as well as dispersal
+S05,background_outside_transfer_unit,复用既有来源登记；不声称通读或精确事件核验,local parser reports EOF; verify against official HTML/PDF before fine-grained quotation
+S06,background_outside_transfer_unit,复用既有来源登记；不声称通读或精确事件核验,not a focused 1900-1910 transfer study
+S07,main_evidence,印刷824–825页；摘录PDF2–3；扫描0312–0313; 印刷824末–825首；摘录PDF2–3; 印刷825页末；摘录PDF3; 印刷825页第三段；摘录PDF3; 印刷825页第二段；摘录PDF3; 印刷829–830页；摘录PDF4–5; 印刷916页；摘录PDF6；扫描0412,全卷没有重新下载；作者的北京叙述来自1914年回访所得消息，不是1910年北京接收目击；扫描无OCR层
+S08,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,HTML只有元数据/在线阅读器；Penn PDF超时；不能将此文件计作全文
+S09,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,provenance and character of documents
+S10,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,metadata/full text not independently verified; do not use for core claims
+S11,main_evidence,PDF1页末–2页首,回顾性机构文章；URL上传日期不是出版日期；下载时暂拟2005已撤销
+S12,context_or_archive_navigation,复用既有来源登记；不声称通读或精确事件核验,回顾性讲述；网页路径日期与页面刊载日期不同；后续1911年以后事迹只作背景
+S13,context_or_archive_navigation,复用既有来源登记；不声称通读或精确事件核验,16516是该文所述现存编号数；不可作为1910年运输件数；机构回顾不能替代接收原件
+S14,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,只保留检索记录；不进入事件证据表
+S15,main_evidence,正文3 mars 1908及négocia l’acquisition段; 正文Les documents rapportés…段,回顾性机构说明；没有取得正式交接凭证；30 000 fascicules是另购印本，不是敦煌写卷数
+S16,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,HTTP成功不等于正文可用；检索缓存中的具体日期未提升为核验事实
+S17,main_evidence,AAM/PDF16页及20页注61,采用AAM页码，不冒充期刊印刷页；关键档案MSS. Stein 7/81–2未独立取得；本文旗幡路径本身是probable
+S18,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,有不同版本线索；不据检索摘要下事件结论
+S19,main_evidence,一、档案录文（一）；二、第一先呈样本; 一、（一）学部行文；二、第二两次调拨; 一、（一）；三、（二）样本; 一、（二）京师图书馆接收底账,不是档案原件影像；存在疑似转录字误；原日期保留清代纪年，月日未换算公历；分析与档案录文须分开
+S20,context_or_archive_navigation,复用既有来源登记；不声称通读或精确事件核验,档案指南不是交接证据；2008年阅览规则不能当作现行规则；旧CE32编号需按其说明追查
+S21,context_or_archive_navigation,复用既有来源登记；不声称通读或精确事件核验,发布机构是台湾国家图书馆，考察对象是北京国家图书馆；两次调拨叙述与S19重合，不视为另一份独立接收记录；月日历法待核
+S22,main_evidence,印刷13页；PDF19; 印刷13页；PDF19；扫描0019,与S08（1908年BEFEO文章）是两项不同作品；参与者自述；不直接证明法国机构正式入藏；无OCR层；只精读相关页
+S23,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,原刊页码由S19文章编码及期刊目录检索线索核对；正式刊页仍待取得
+S24,metadata_or_unavailable_not_event_evidence,复用既有来源登记；不声称通读或精确事件核验,先使用已取得的2008年手册定位；不能称为档案原件已读；S20内部系列号有142/129不一致，原刊待核
+S25,main_evidence,1910对照表第1页；公历12月行；第13、15列,只支持日期换算；不是历史事件独立证据。

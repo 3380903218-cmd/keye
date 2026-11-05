@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-29",
+  "url": "https://3380903218-cmd.github.io/dunhuang-in-motion/?lang=zh",
+  "result": "passed",
+  "method": "user_reported_family_test",
+  "location_scope": "China, as described by the project owner; exact region, network operator and browser not supplied",
+  "reported_checks": [
+    "webpage opens",
+    "route map loads",
+    "relationship network loads"
+  ],
+  "source": "Project owner reported that family in China could open the page, map and relationship network.",
+  "verification_boundary": "This records the reported test session; external reference websites and other mainland networks were not tested in this report."
+}

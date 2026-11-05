@@ -1,0 +1,16 @@
+{
+  "result": "pass",
+  "endpoint": "https://qtuxpxccweapkqeoaata.supabase.co/functions/v1/dunhuang-discussion",
+  "date": "2026-11-03",
+  "scope": "Real deployed Supabase API and administrator verification; temporary setup records only",
+  "checks": [
+    "Public reading and GitHub Pages CORS work without a visitor account.",
+    "Real posts and replies are saved together; retrying an acknowledged submission is idempotent.",
+    "Posting limits, unrelated origins and empty-message validation are enforced on the deployed service.",
+    "Owner moderation removes the selected test thread and its replies from public reading, and blocks new replies to it."
+  ],
+  "test_root_ids": [
+    "d517f17a-4182-42fb-a449-b0b80f9b17f1"
+  ],
+  "test_records_removed": true
+}

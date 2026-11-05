@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2">
+  <meta lastmodifieddate="2026-10-13">
+    <creator>HY5419 Dunhuang evidence-linked dataset</creator>
+    <description>2026-10-13-v1; entity_event_incidence; static graph; equal edge weight; year bounds are uncertainty attributes.</description>
+  </meta>
+  <graph mode="static" defaultedgetype="directed">
+    <attributes class="node" mode="static">
+      <attribute id="LabelEN" title="LabelEN" type="string" />
+      <attribute id="NodeType" title="NodeType" type="string" />
+      <attribute id="Bipartite" title="Bipartite" type="integer" />
+      <attribute id="Route" title="Route" type="string" />
+      <attribute id="SourceRef" title="SourceRef" type="string" />
+      <attribute id="EventId" title="EventId" type="string" />
+      <attribute id="YearStart" title="YearStart" type="integer" />
+      <attribute id="YearEnd" title="YearEnd" type="integer" />
+      <attribute id="DateDisplay" title="DateDisplay" type="string" />
+      <attribute id="GraphView" title="GraphView" type="string" />
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="Role" title="Role" type="string" />
+      <attribute id="EventId" title="EventId" type="string" />
+      <attribute id="Route" title="Route" type="string" />
+      <attribute id="SourceRef" title="SourceRef" type="string" />
+      <attribute id="Locator" title="Locator" type="string" />
+      <attribute id="GraphView" title="GraphView" type="string" />
+    </attributes>
+    <nodes>
+      <node id="N002" label="王圆箓">
+        <attvalues>
+          <attvalue for="LabelEN" value="Wang Yuanlu" />
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Pelliot;Stein" />
+          <attvalue for="SourceRef" value="S01;S07;S22;S15" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-440" y="0" z="0" />
+      </node>
+      <node id="N004" label="蒋孝琬">
+        <attvalues>
+          <attvalue for="LabelEN" value="Jiang Xiaowan" />
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S01;S03;S07" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-220" y="0" z="0" />
+      </node>
+      <node id="N005" label="斯坦因">
+        <attvalues>
+          <attvalue for="LabelEN" value="M. Aurel Stein" />
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S01;S07" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="0" y="0" z="0" />
+      </node>
+      <node id="N006" label="斯坦因考察队">
+        <attvalues>
+          <attvalue for="LabelEN" value="Stein expedition" />
+          <attvalue for="NodeType" value="Expedition" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="0" g="114" b="178" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="220" y="0" z="0" />
+      </node>
+      <node id="N007" label="英国博物馆">
+        <attvalues>
+          <attvalue for="LabelEN" value="British Museum" />
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="440" y="0" z="0" />
+      </node>
+      <node id="N009" label="京师图书馆">
+        <attvalues>
+          <attvalue for="LabelEN" value="Jingshi Library" />
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S11;S12;S13;S19" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-440" y="-210" z="0" />
+      </node>
+      <node id="N010" label="陕甘总督机构">
+        <attvalues>
+          <attvalue for="LabelEN" value="Shaan-Gan Governor-General office" />
+          <attvalue for="NodeType" value="Government" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="117" g="83" b="153" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-220" y="-210" z="0" />
+      </node>
+      <node id="N011" label="清学部">
+        <attvalues>
+          <attvalue for="LabelEN" value="Qing Ministry of Education" />
+          <attvalue for="NodeType" value="Government" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S11;S19" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="117" g="83" b="153" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="0" y="-210" z="0" />
+      </node>
+      <node id="N012" label="伯希和">
+        <attvalues>
+          <attvalue for="LabelEN" value="Paul Pelliot" />
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S01;S15;S22" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="220" y="-210" z="0" />
+      </node>
+      <node id="N013" label="伯希和考察队">
+        <attvalues>
+          <attvalue for="LabelEN" value="Pelliot expedition" />
+          <attvalue for="NodeType" value="Expedition" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15;S22" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="0" g="114" b="178" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="440" y="-210" z="0" />
+      </node>
+      <node id="N014" label="法国国家图书馆">
+        <attvalues>
+          <attvalue for="LabelEN" value="Bibliothèque nationale (Paris)" />
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-440" y="-420" z="0" />
+      </node>
+      <node id="N015" label="Ibrahim Beg">
+        <attvalues>
+          <attvalue for="LabelEN" value="Ibrahim Beg" />
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-220" y="-420" z="0" />
+      </node>
+      <node id="N016" label="Tila Bai">
+        <attvalues>
+          <attvalue for="LabelEN" value="Tila Bai" />
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Bipartite" value="0" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="0" y="-420" z="0" />
+      </node>
+      <node id="DH001" label="DH001 斯坦因首次协议取得">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH001" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DateDisplay" value="1907年5月" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="220" y="-420" z="0" />
+      </node>
+      <node id="DH002" label="DH002 斯坦因莫高窟追加取得">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH002" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DateDisplay" value="1907年6月" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="440" y="-420" z="0" />
+      </node>
+      <node id="DH003" label="DH003 安西追加取得批次">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH003" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03;S01" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DateDisplay" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="-440" y="-630" z="0" />
+      </node>
+      <node id="DH004" label="DH004 斯坦因材料存放英国博物馆">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH004" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03;S17" />
+          <attvalue for="EventId" value="DH004" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DateDisplay" value="1909年抵英；至1910年初夏已在BM" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="-220" y="-630" z="0" />
+      </node>
+      <node id="DH005" label="DH005 伯希和从王圆箓处取得写本">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH005" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15;S22;S01" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="YearStart" value="1908" />
+          <attvalue for="YearEnd" value="1908" />
+          <attvalue for="DateDisplay" value="1908年；3月查看与选择，交接日未定" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="0" y="-630" z="0" />
+      </node>
+      <node id="DH006" label="DH006 伯希和写本抵巴黎并由国立图书馆接收">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH006" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="EventId" value="DH006" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DateDisplay" value="1909年底" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="220" y="-630" z="0" />
+      </node>
+      <node id="DH007" label="DH007 陕甘总督送样本至学部">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH007" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="EventId" value="DH007" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DateDisplay" value="1909年；根据1910年文书“上年”回推" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="440" y="-630" z="0" />
+      </node>
+      <node id="DH008" label="DH008 京师图书馆取运主批十八箱">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH008" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19;S11" />
+          <attvalue for="EventId" value="DH008" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DateDisplay" value="1910年；早于宣统二年十一月十二日行文" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="-440" y="-840" z="0" />
+      </node>
+      <node id="DH009" label="DH009 京师图书馆接收续交批次">
+        <attvalues>
+          <attvalue for="LabelEN" value="DH009" />
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Bipartite" value="1" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="EventId" value="DH009" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DateDisplay" value="宣统二年十一月十四日（公历1910-12-15，历表换算）" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+        <viz:color r="150" g="150" b="150" a="1.0" />
+        <viz:size value="12" />
+        <viz:position x="-220" y="-840" z="0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="R_DH001_transfer_from" source="N002" target="DH001" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH001_transfer_to" source="DH001" target="N006" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH002_transfer_from" source="N002" target="DH002" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH002_transfer_to" source="DH002" target="N006" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH003_transfer_from" source="N002" target="DH003" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03;S01" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH003_transfer_to" source="DH003" target="N006" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03;S01" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH004_transfer_from" source="N006" target="DH004" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH004" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03;S17" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH004_transfer_to" source="DH004" target="N007" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH004" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S03;S17" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH005_transfer_from" source="N002" target="DH005" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15;S22;S01" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH005_transfer_to" source="DH005" target="N013" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15;S22;S01" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH006_transfer_from" source="N013" target="DH006" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH006" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH006_transfer_to" source="DH006" target="N014" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH006" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH007_transfer_from" source="N010" target="DH007" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH007" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH007_transfer_to" source="DH007" target="N011" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH007" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH008_transfer_from" source="N011" target="DH008" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH008" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19;S11" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH008_transfer_to" source="DH008" target="N009" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH008" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19;S11" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH009_transfer_from" source="N011" target="DH009" type="directed" weight="1" label="transfer_from">
+        <attvalues>
+          <attvalue for="Role" value="transfer_from" />
+          <attvalue for="EventId" value="DH009" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_DH009_transfer_to" source="DH009" target="N009" type="directed" weight="1" label="transfer_to">
+        <attvalues>
+          <attvalue for="Role" value="transfer_to" />
+          <attvalue for="EventId" value="DH009" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="Locator" value="见event_evidence.csv" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P001" source="N005" target="DH001" type="directed" weight="1" label="acquiring_expedition_leader">
+        <attvalues>
+          <attvalue for="Role" value="acquiring_expedition_leader" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P002" source="N005" target="DH002" type="directed" weight="1" label="acquiring_expedition_leader">
+        <attvalues>
+          <attvalue for="Role" value="acquiring_expedition_leader" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P003" source="N005" target="DH003" type="directed" weight="1" label="acquiring_expedition_leader">
+        <attvalues>
+          <attvalue for="Role" value="acquiring_expedition_leader" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P004" source="N004" target="DH001" type="directed" weight="1" label="negotiator;transport_assistant">
+        <attvalues>
+          <attvalue for="Role" value="negotiator;transport_assistant" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P005" source="N015" target="DH001" type="directed" weight="1" label="transport_assistant">
+        <attvalues>
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷825页首" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P006" source="N016" target="DH001" type="directed" weight="1" label="transport_assistant">
+        <attvalues>
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷825页首" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P007" source="N004" target="DH003" type="directed" weight="1" label="negotiator">
+        <attvalues>
+          <attvalue for="Role" value="negotiator" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S07;S01" />
+          <attvalue for="Locator" value="S07印刷825；S01印刷837–838" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P008" source="N015" target="DH003" type="directed" weight="1" label="transport_assistant">
+        <attvalues>
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S03" />
+          <attvalue for="Locator" value="印刷73页注26（日记转引）" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P009" source="N016" target="DH003" type="directed" weight="1" label="transport_assistant">
+        <attvalues>
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="SourceRef" value="S03" />
+          <attvalue for="Locator" value="印刷73页注26（日记转引）" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+      <edge id="R_P010" source="N012" target="DH005" type="directed" weight="1" label="selector;negotiator">
+        <attvalues>
+          <attvalue for="Role" value="selector;negotiator" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="SourceRef" value="S15;S22" />
+          <attvalue for="Locator" value="S15选择谈判段；S22印刷13页" />
+          <attvalue for="GraphView" value="entity_event_incidence" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

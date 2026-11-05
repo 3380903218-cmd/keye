@@ -1,0 +1,11 @@
+{
+  "result": "pass",
+  "date": "2026-11-03",
+  "scope": "Actual Supabase storage with two independent, unsigned-in browser contexts; local release HTML served at its intended GitHub Pages origin.",
+  "checks": [
+    "An unsigned-in visitor saves a message; a separate unsigned-in visitor sees and replies to it through real browser CORS.",
+    "A full page reload reads the saved discussion from Supabase; language switching retains the draft and user HTML remains literal text.",
+    "Desktop/mobile layout and the existing map and 132-node/157-edge Gephi network still work."
+  ],
+  "test_records_removed": true
+}

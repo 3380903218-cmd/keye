@@ -1,0 +1,198 @@
+{
+  "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/HY5417_Chinatown_v01_English_初剪.mp4",
+  "sha256": "ea58d8fbbc622683395e7ee0388d4d1829bad1f3db9668ff7718caddcaf7ef9a",
+  "bytes": 770357761,
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "25/1",
+    "duration": "600.000000",
+    "nb_frames": "15000"
+  },
+  "audio_peak_dbfs": -1.4431227445602417,
+  "full_decode": "passed",
+  "unintended_black_gaps": [],
+  "audio_checks": [
+    {
+      "narration": 1,
+      "envelope_correlation_first8s": 0.9835661382349693,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.45433235168457
+    },
+    {
+      "narration": 2,
+      "envelope_correlation_first8s": 0.9809639451310154,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.34619903564453
+    },
+    {
+      "narration": 3,
+      "envelope_correlation_first8s": 0.9762387642063806,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.41278648376465
+    },
+    {
+      "narration": 4,
+      "envelope_correlation_first8s": 0.9774518121841484,
+      "lag_ms": 50.0,
+      "rms_dbfs": -17.725421905517578
+    },
+    {
+      "narration": 5,
+      "envelope_correlation_first8s": 0.9772625355396687,
+      "lag_ms": 50.0,
+      "rms_dbfs": -17.91933250427246
+    },
+    {
+      "narration": 6,
+      "envelope_correlation_first8s": 0.9801843933062011,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.522676467895508
+    },
+    {
+      "narration": 7,
+      "envelope_correlation_first8s": 0.9818092200230183,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.45151138305664
+    },
+    {
+      "narration": 8,
+      "envelope_correlation_first8s": 0.9729503115899119,
+      "lag_ms": 50.0,
+      "rms_dbfs": -17.948484420776367
+    },
+    {
+      "narration": 9,
+      "envelope_correlation_first8s": 0.9702850522565977,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.53339385986328
+    },
+    {
+      "narration": 10,
+      "envelope_correlation_first8s": 0.980793969958231,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.23375129699707
+    },
+    {
+      "narration": 11,
+      "envelope_correlation_first8s": 0.9852112559695535,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.599220275878906
+    },
+    {
+      "narration": 12,
+      "envelope_correlation_first8s": 0.9742929369164888,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.33769416809082
+    },
+    {
+      "narration": 13,
+      "envelope_correlation_first8s": 0.9783824415895327,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.68657875061035
+    },
+    {
+      "narration": 14,
+      "envelope_correlation_first8s": 0.9829855301546226,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.442228317260742
+    },
+    {
+      "narration": 15,
+      "envelope_correlation_first8s": 0.9745572333400896,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.035995483398438
+    },
+    {
+      "narration": 16,
+      "envelope_correlation_first8s": 0.9751588469588679,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.443531036376953
+    },
+    {
+      "narration": 17,
+      "envelope_correlation_first8s": 0.9753698782183126,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.257156372070312
+    },
+    {
+      "narration": 18,
+      "envelope_correlation_first8s": 0.9764836321852127,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.45526123046875
+    },
+    {
+      "narration": 19,
+      "envelope_correlation_first8s": 0.9704112626140964,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.142845153808594
+    },
+    {
+      "original_sound": "N01",
+      "at": 205,
+      "envelope_correlation": 0.9867005276890567,
+      "lag_ms": 50.0,
+      "rms_dbfs": -19.440134048461914
+    },
+    {
+      "original_sound": "N03",
+      "at": 241,
+      "envelope_correlation": 0.9509998294209876,
+      "lag_ms": 50.0,
+      "rms_dbfs": -20.521968841552734
+    },
+    {
+      "original_sound": "N06",
+      "at": 331,
+      "envelope_correlation": 0.97518685851372,
+      "lag_ms": 50.0,
+      "rms_dbfs": -19.91790008544922
+    },
+    {
+      "original_sound": "N10",
+      "at": 397,
+      "envelope_correlation": 0.9321410835305158,
+      "lag_ms": 50.0,
+      "rms_dbfs": -24.117963790893555
+    }
+  ],
+  "sampled_frames": [
+    4,
+    21,
+    35,
+    57,
+    78,
+    96,
+    119,
+    140,
+    175,
+    188,
+    208,
+    230,
+    249,
+    268,
+    295,
+    306,
+    318,
+    336,
+    350,
+    377,
+    399,
+    418,
+    442,
+    480,
+    507,
+    525,
+    543,
+    560,
+    570,
+    580,
+    590,
+    598
+  ],
+  "visual_review": "Reviewed 32 sampled frames on four contact sheets; corrected exhibit selection, subtitle orphans and duplicate N06 source subtitles before r2 export. No layout clipping or unintended black gaps observed in sampled frames.",
+  "limitations": [
+    "No end-to-end human listening pass. Narration correlation checks establish track presence and alignment, not pronunciation quality.",
+    "Subtitles use measured sentence timing; original interview wording lightly cleaned from machine transcript and source context; human final proofread recommended."
+  ]
+}

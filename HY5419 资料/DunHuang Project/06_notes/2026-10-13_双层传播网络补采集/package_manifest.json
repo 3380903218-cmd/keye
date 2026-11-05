@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-13",
+  "status": "planning_templates_not_historical_data",
+  "decision": "physical circulation and knowledge dissemination linked by objects/representations",
+  "base_scope": "1900-1910",
+  "optional_scope": "1900-1930; scope decision not yet made",
+  "template_files": [
+    "01_objects.csv",
+    "02_identifiers.csv",
+    "03_representations.csv",
+    "04_physical_events.csv",
+    "05_knowledge_events.csv",
+    "06_works.csv",
+    "07_participants.csv",
+    "08_evidence.csv"
+  ],
+  "template_record_count": 0,
+  "collection_tasks": 10,
+  "readme": "补采集建议.md",
+  "search_backend": "web.run fallback; parallel-cli unavailable",
+  "original_Gephi_dataset_changed": false
+}

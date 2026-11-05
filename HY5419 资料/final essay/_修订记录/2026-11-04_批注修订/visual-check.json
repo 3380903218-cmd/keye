@@ -1,0 +1,21 @@
+{
+  "artifact_sha256": "2ed2d632a580ad772e18c659b51c1fe6edccea406fe0790b78822c1d04c11494",
+  "pages": 10,
+  "status": "passed",
+  "render_directory": "复核预览",
+  "review": "Pages 1–10 visually inspected. After a one-sentence change, page 4 re-inspected and pages 1–3,5–10 pixel-identical to inspected render.",
+  "figures": "Both figures readable at document width; captions and source notes remain with their images; QGIS two panels kept together.",
+  "issues": [],
+  "page_hashes": {
+    "page-1.png": "b6881f13f2a6067422b07d27dc6719d22a6b0dbf41f99432285f33b5bbd74f75",
+    "page-10.png": "2f5a04e108a09e68c736ca2ef7159f9b49c37dd7886a0a72e95a10237d743441",
+    "page-2.png": "e72cde114ae4595d2d5eaea0730002e79a5ebd02bdd920b300abd3c504d44d59",
+    "page-3.png": "388420e28dba2e023ff9f6baf2df0832d3d0bf0c7550101877eb0cd919234aab",
+    "page-4.png": "15d4d4bb9555747191bb899d41c78744fc371b28af48827e55ad6f97f40c40f2",
+    "page-5.png": "9c9444430f303d30e2744a42f7bcb44f0302333f70bcae13f69780071c05225b",
+    "page-6.png": "109aa002c661f351ea972f9664624d376141bce80843e05c2bc2c671a80674cd",
+    "page-7.png": "5a4f1382958f4721f41e8c66b2bfdcec130c0309d9a69d8b2d976d613fe464e7",
+    "page-8.png": "e97cfc7a24b475839c1df9df5402f3a6dd307c41b2702b34ae3c3dc8ad7ddff0",
+    "page-9.png": "8d1182ae92a7ecebb8aae14e90cc9dad32313b041b85e760717ce68f9faf5468"
+  }
+}

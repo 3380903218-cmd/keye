@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-26T01:04:20.583376+08:00",
+  "artifact_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+  "rendered_pdf": "english_render_23pt.pdf",
+  "rendered_pdf_sha256": "95c2e99766383e244afa01e810566db0b59f98f221b06946acc72478c379a35c",
+  "renderer": "Microsoft Word native PDF export",
+  "pages": 16,
+  "native_word_footnotes": 15,
+  "bibliography_entries": 7,
+  "all_pages_visually_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "observations": "All pages legible; headings, native footnotes, page numbers and hanging bibliography rendered correctly; no clipping or blank pages. Final 23 pt line spacing removed a two-line overflow page.",
+  "main_text_and_bibliography_parity": {
+    "match": true,
+    "normalization": "NFKC and whitespace; font-size separation of main text, notes, headers, footers and note numbers",
+    "source_docx_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+    "render_pdf_sha256": "95c2e99766383e244afa01e810566db0b59f98f221b06946acc72478c379a35c"
+  },
+  "footnote_text_parity": {
+    "match": true,
+    "normalization": "NFKC and whitespace; font-size separation of main text, notes, headers, footers and note numbers",
+    "source_docx_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+    "render_pdf_sha256": "95c2e99766383e244afa01e810566db0b59f98f221b06946acc72478c379a35c"
+  },
+  "contact_sheets": [
+    {
+      "path": "final_contact_1.png",
+      "sha256": "abe7e3a39e391a4d30716e3b08811dc53deb22d502add44de7a3eee02ed768fd"
+    },
+    {
+      "path": "final_contact_2.png",
+      "sha256": "0699ec685895b7757024b89611ff51529ac186c0903221ae73e8759cd22bff54"
+    },
+    {
+      "path": "final_contact_3.png",
+      "sha256": "7dfd0311418aae7e101eedd5bb7c97791c5a9d284e651b11abcc6d14e2566b32"
+    }
+  ],
+  "chinese_source_unchanged": true,
+  "application_display_alerts_restored": true,
+  "task_document_closed_without_saving": true,
+  "other_word_documents_not_closed": true
+}

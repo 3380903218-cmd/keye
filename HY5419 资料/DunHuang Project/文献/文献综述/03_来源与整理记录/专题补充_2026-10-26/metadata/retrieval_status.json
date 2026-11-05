@@ -1,0 +1,71 @@
+[
+  {
+    "source_id": "G01_During_2015",
+    "url": "https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources",
+    "final_url": "https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "access_route": "publisher_or_author_repository_OA_while_NUS_awaits_user_setup",
+    "error": "Expected article identity not found",
+    "full_text_status": "unavailable"
+  },
+  {
+    "source_id": "G02_Ahnert_et_al_2020",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CC38F2EA9F51A6D1AFCB7E005218BBE5/9781108791908AR.pdf/the-network-turn.pdf",
+    "final_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CC38F2EA9F51A6D1AFCB7E005218BBE5/9781108791908AR.pdf/the-network-turn.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "access_route": "publisher_or_author_repository_OA_while_NUS_awaits_user_setup",
+    "error": null,
+    "full_text_status": "present",
+    "local_path": "full-text/G02_Ahnert_et_al_2020.pdf",
+    "pages": 128,
+    "sha256": "46765c0d0ec0f838fb15d3837784430d3385aa89729ee15ec3fba6d643269b83"
+  },
+  {
+    "source_id": "G03_Faust_1997",
+    "url": "https://sites.socsci.uci.edu/~kfaust/faust/research/articles/faust_centrality_sn_1997.pdf",
+    "final_url": "https://sites.socsci.uci.edu/~kfaust/faust/research/articles/faust_centrality_sn_1997.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "access_route": "publisher_or_author_repository_OA_while_NUS_awaits_user_setup",
+    "error": null,
+    "full_text_status": "present",
+    "local_path": "full-text/G03_Faust_1997.pdf",
+    "pages": 35,
+    "sha256": "199d3ca312189c6968f5ce911de3166b671e90204a73a4011b700204d308567d"
+  },
+  {
+    "source_id": "G04_Edelstein_et_al_2017",
+    "url": "https://republicofletters.stanford.edu/publications/HistoricalResearch.pdf",
+    "final_url": "http://republicofletters.stanford.edu/publications/HistoricalResearch.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "access_route": "publisher_or_author_repository_OA_while_NUS_awaits_user_setup",
+    "error": null,
+    "full_text_status": "present",
+    "local_path": "full-text/G04_Edelstein_et_al_2017.pdf",
+    "pages": 25,
+    "sha256": "8c2fe6c55e4cd6e0647d641e1f78b7c3a85db7e74140f57563c74611bda7752c"
+  },
+  {
+    "source_id": "G05_Ahnert_Ahnert_2015",
+    "url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/10170/ProtestantLetterNetworks82.1.ahnert.pdf?sequence=6",
+    "final_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/10170/ProtestantLetterNetworks82.1.ahnert.pdf?sequence=6",
+    "http_status": 200,
+    "content_type": "text/html",
+    "access_route": "publisher_or_author_repository_OA_while_NUS_awaits_user_setup",
+    "error": null,
+    "full_text_status": "unavailable"
+  },
+  {
+    "source_id": "G10_Dotson_Doney_2025",
+    "url": "https://uplopen.com/books/9085/files/69a133af-fbdf-4fd0-9cdd-0ca22ba39988.pdf",
+    "final_url": "https://uplopen.com/books/9085/files/69a133af-fbdf-4fd0-9cdd-0ca22ba39988.pdf",
+    "http_status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "access_route": "publisher_or_author_repository_OA_while_NUS_awaits_user_setup",
+    "error": null,
+    "full_text_status": "unavailable"
+  }
+]

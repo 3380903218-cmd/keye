@@ -1,0 +1,22 @@
+{
+  "baseline_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "candidate_sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+  "candidate": "/tmp/hy5419-pre-order-20261103/顺序调整稿.docx",
+  "backup": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/_制作与核验/顺序调整_2026-11-03/顺序调整前备份.docx",
+  "english_main_words": 447,
+  "website_order": [
+    "Route map",
+    "Full Gephi network",
+    "Scholarly contacts in Beijing and Paris",
+    "Inspection memorandum",
+    "Collections today",
+    "Preservation",
+    "Sources and evidence",
+    "Reader discussion"
+  ],
+  "qanda_and_reference_nodes_identical": true,
+  "qanda_sha256": "3e3fe3dbf7c79d739f151986596750ee25166c3e07427fd351093f244a850db2",
+  "all_other_package_parts_identical": true,
+  "removed_redundant_main_only": "Alternative closing and repeated stop note (baseline body paragraphs 56–59); no Q&A nodes removed",
+  "original_formatting": "Existing paragraph/run styles, comments, numbering, headers and footers retained; four new paragraphs and one timing row copy existing styles."
+}

@@ -1,0 +1,1706 @@
+{
+  "key": "G02",
+  "prefix": "11_",
+  "title": "The Network Turn: Changing Perspectives in the Humanities",
+  "zh": "网络转向：人文学科视角的变迁",
+  "by": "Ruth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman & Scott B. Weingart · 2020",
+  "doi": "10.1017/9781108866804",
+  "source": "11_G02_Ahnert等_2020_The_Network_Turn.pdf",
+  "source_sha256": "46765c0d0ec0f838fb15d3837784430d3385aa89729ee15ec3fba6d643269b83",
+  "original_pages": 128,
+  "pages": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "scope": "selected",
+  "segments": [
+    {
+      "id": "G02-P051-002",
+      "page": 51,
+      "rect": [
+        134.72279357910156,
+        49.81321716308594,
+        211.0117645263672,
+        62.76831817626953
+      ],
+      "en": "3 Culture Is Data",
+      "font_size": 11.955100059509277,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "6c61457e0ee228b06bf248fa77b9575859e26e008bd4a6ac06d26be6aac8b898",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：\n下文片段（仅供参考）：The network framework shapes how we interpret the world around us. Nothing is naturally a network; rather, networks are an abstraction into which we squeeze the world. Nevertheless, almost anything ca"
+    },
+    {
+      "id": "G02-P051-003",
+      "page": 51,
+      "rect": [
+        34.886600494384766,
+        69.18399810791016,
+        310.84808349609375,
+        211.70277404785156
+      ],
+      "en": "The network framework shapes how we interpret the world around us. Nothing is naturally a network; rather, networks are an abstraction into which we squeeze the world. Nevertheless, almost anything can be turned into a network, whether it be the interactions between characters in Shakespeare’s plays, the dissemination of memes on Facebook, or the trade network implicated in the ancient Roman brick industry. To understand how such diverse topics can both be conceived of and analysed as networks, it is perhaps easiest to think about one of the most crucial types of network for the creation and dissemination of culture: communication networks. The simple act of communication functions as an entry point for the study of more complex processes such as the dissemination of information or the spread of cultural practices.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "29b7b24e25cc1ae4d923131307790fc56f82afcf38057c5d882292d1ba3c2003",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：3 Culture Is Data\n下文片段（仅供参考）：We are accustomed to thinking about communication as a network because of the infrastructures that mediate our interactions in the modern world: telephone networks, the World Wide Web, and online soci"
+    },
+    {
+      "id": "G02-P051-004",
+      "page": 51,
+      "rect": [
+        34.87664794921875,
+        212.64547729492188,
+        310.9676208496094,
+        438.8600769042969
+      ],
+      "en": "We are accustomed to thinking about communication as a network because of the infrastructures that mediate our interactions in the modern world: telephone networks, the World Wide Web, and online social networking platforms. We understand now more than ever that when communication happens through these mediums, it can be traced and measured. Investigations following Edward Snowden’s leak in 2013 revealed that the US National Security Agency and its UK counterpart, GCHQ, had ‘broadly compromised the guarantees that internet companies have given consumers to reassure them that their communications, online banking and medical records would be indecipherable to criminals or governments’ (Ball, Borger, & Greenwald, 2013). Through such data these agencies were able to discover an individual’s network of associations and communication patterns. But citizens are not subject only to network analysis in the service of national security: information provided by Christopher Wylie in 2018 confirmed that at least 87 million Facebook users were impacted by illegal data harvesting by Cambridge Analytica, who used this data about users’ social networks to profile individual voters during the 2016 Brexit referendum in the UK and the presidential election in the USA in order to target them with personalised political advertisements (Laterza, 2018).",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "65a40333ab861ea2a71122b6f7ae293ab85b95f8e848e452dd4da119bb2cf05b",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： of network for the creation and dissemination of culture: communication networks. The simple act of communication functions as an entry point for the study of more complex processes such as the dissemination of information or the spread of cultural practices.\n下文片段（仅供参考）：However, a digital trail is not necessary to reconstruct communication networks, and the data sets need not be big. Sociologists were reconstructing"
+    },
+    {
+      "id": "G02-P051-005",
+      "page": 51,
+      "rect": [
+        34.87665557861328,
+        439.862548828125,
+        310.927734375,
+        462.79022216796875
+      ],
+      "en": "However, a digital trail is not necessary to reconstruct communication networks, and the data sets need not be big. Sociologists were reconstructing",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "86bb583b899ca60763f7f229b333599823165a95d5f930a2185949780fb37e54",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：dge Analytica, who used this data about users’ social networks to profile individual voters during the 2016 Brexit referendum in the UK and the presidential election in the USA in order to target them with personalised political advertisements (Laterza, 2018).\n下文片段（仅供参考）：networks long before the data deluge. A classic example is Wayne Zachery’s observations of a single karate club over three years, from 1970 to 1972, recording interactions between the thirty-four memb"
+    },
+    {
+      "id": "G02-P052-002",
+      "page": 52,
+      "rect": [
+        49.163238525390625,
+        49.18680953979492,
+        325.25421142578125,
+        216.2975616455078
+      ],
+      "en": "networks long before the data deluge. A classic example is Wayne Zachery’s observations of a single karate club over three years, from 1970 to 1972, recording interactions between the thirty-four members that took place outside the club (Zachary, 1977). In this context, the members of the club constitute the nodes and the edges are the interactions that occurred between them outside the club: seventy-eight edges were recorded. Zachary used these observations to model the conflict (using the Ford–Fulkerson algorithm) that led ultimately to the club splitting. The emphasis on in-person interaction to model social structure has been appropriated more recently in literary studies, for example in the now much-cited (and much-critiqued) Literary Lab pamphlet ‘Network Theory, Plot Analysis’, in which Franco Moretti attempts to reconstruct the plot of Hamlet as a network graph wherein two characters share an edge when they exchange words. He uses the resulting network diagram to argue for the plot centrality of Horatio (Moretti, 2011).",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "92a740a99192d298b5991f00145a555ddf3f128262bd29301fa8772b186947b6",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：However, a digital trail is not necessary to reconstruct communication networks, and the data sets need not be big. Sociologists were reconstructing\n下文片段（仅供参考）：Letters offer perhaps the most intuitive way of reconstructing analogue communication networks. Scholars in the field of epistolary studies have increasingly turned to network analysis and visualisati"
+    },
+    {
+      "id": "G02-P052-003",
+      "page": 52,
+      "rect": [
+        49.173194885253906,
+        217.300048828125,
+        325.234375,
+        467.385009765625
+      ],
+      "en": "Letters offer perhaps the most intuitive way of reconstructing analogue communication networks. Scholars in the field of epistolary studies have increasingly turned to network analysis and visualisation methods, and all of the authors of this book have worked on this material over the past decade. These efforts include projects on the underground communications between English Protestants during the Catholic reign of Mary and how they kept a community united whilst it was under systematic religious persecution (Ahnert & Ahnert, 2015); the way correspondence networks and scholarly institutions co-evolved into an incredibly efficient machinery for scientific coordination and discovery in early modern Europe (Weingart, under review); the infrastructure of the intelligence networks that underpinned Tudor domestic and foreign policy (Ahnert & Ahnert, 2019); and the role of mapping and visualisation technologies in understanding the intellectual communities of the Republic of Letters (Edelstein et al., 2017, Coleman, 2020). The aims of these various projects are manifold, but they are guided by the desire to find ways to make very large data sets more tractable and to reveal global patterns about how people communicated. The infrastructure of communication networks can be viewed in multiple dimensions, the two most obvious being geographical and social. On the social level, these projects are concerned with people who might bridge communities and geographies in ways that make the world smaller – diplomats, travelling scholars, merchants,",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "2abe8ba728ff68a440862e9797fe898a2d3ae8b7ea0dcd2fefffc15a09bd3679",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：t Analysis’, in which Franco Moretti attempts to reconstruct the plot of Hamlet as a network graph wherein two characters share an edge when they exchange words. He uses the resulting network diagram to argue for the plot centrality of Horatio (Moretti, 2011).\n下文片段（仅供参考）：or adventurers – which can be discovered using certain combinations of computational measures described in Chapter 5. On the geographic level, scholars can use this data to understand the physical inf"
+    },
+    {
+      "id": "G02-P053-002",
+      "page": 53,
+      "rect": [
+        34.8865966796875,
+        49.18680953979492,
+        310.9377136230469,
+        132.6017303466797
+      ],
+      "en": "or adventurers – which can be discovered using certain combinations of computational measures described in Chapter 5. On the geographic level, scholars can use this data to understand the physical infrastructure that allowed these communications to happen, the veins and arteries of roads along which these communications travelled; what it can tell us about the efficacy of courier systems, early postal systems, and sea routes; or which people were in the same location at the same time.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "4fbb1d083d23539d3a94c6f00462d660f48d210fecc66fe38a0cdb2f15d7a916",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：multiple dimensions, the two most obvious being geographical and social. On the social level, these projects are concerned with people who might bridge communities and geographies in ways that make the world smaller – diplomats, travelling scholars, merchants,\n下文片段（仅供参考）：More abstractly, such work can help us to think about how we can model the spread of information, news, ideas, and concepts across space and time. Yann Ryan’s work on the development of the newspaper "
+    },
+    {
+      "id": "G02-P053-003",
+      "page": 53,
+      "rect": [
+        34.8865966796875,
+        133.60421752929688,
+        310.87799072265625,
+        323.923583984375
+      ],
+      "en": "More abstractly, such work can help us to think about how we can model the spread of information, news, ideas, and concepts across space and time. Yann Ryan’s work on the development of the newspaper industry in the early modern period has shown how we can model the movement of individual news items across Europe, as in the case of a story from the Moderate Intelligencer, a London newsbook, datelined Hamburg, 21 July 1649, which narrates the war between the Polish and the Cossacks: ‘As of old in the War of Alexander and the Romans, so lately in Ireland, and in this, it appears, that it’s not the multitude that overcomes, but the wisdome and valour of men, of a very numerous Army, a few usually turns the Scale.’ ‘How could a writer of news’, Ryan asks, ‘based in Hamburg, writing about war in Poland, know about the wars in Ireland?’ (Ryan, 2018). Building on research into the pan-European nature of the flow of news, Ryan’s work seeks to show Britain and Ireland’s place within that complex and organic system, how that system can be both local and international, and how it can work with efficiency despite the lack of central planning.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "bf5ff7f0954a9022e0a4f78717b3d365b8bd3e6812b20324163acfa67b2ef4be",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：e communications to happen, the veins and arteries of roads along which these communications travelled; what it can tell us about the efficacy of courier systems, early postal systems, and sea routes; or which people were in the same location at the same time.\n下文片段（仅供参考）：Although parameters of space and time have taken on new dimensions in the era of digital communications, the question of how we model the dissemination of information remains constant. Facebook’s rese"
+    },
+    {
+      "id": "G02-P053-004",
+      "page": 53,
+      "rect": [
+        34.906494140625,
+        324.9260559082031,
+        310.887939453125,
+        467.385009765625
+      ],
+      "en": "Although parameters of space and time have taken on new dimensions in the era of digital communications, the question of how we model the dissemination of information remains constant. Facebook’s research wing has examined the spread of memes on the social networking platform. In a 2016 article, Lada Adamic’s team examined the dissemination and evolution of thousands of memes, collectively replicated hundreds of millions of times on Facebook, showing how the information undergoes an evolutionary process that exhibits several regularities, including a power-law (i.e. highly skewed) distribution of memes in variant frequencies. This research also uncovers how subpopulations on the social network ‘can preferentially transmit a specific variant of a meme if the variant matches their beliefs or culture’ (Adamic et al., 2016). This sense of preferential transmission",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "af90233394d408a71f1952af84a05142d3087a58bac7ea4c8b42719f3c645bf8",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：an-European nature of the flow of news, Ryan’s work seeks to show Britain and Ireland’s place within that complex and organic system, how that system can be both local and international, and how it can work with efficiency despite the lack of central planning.\n下文片段（仅供参考）：explains in part why micro-targeting proved such a powerful weapon in the 2016 presidential election and Brexit referendum, but also why research by Soroush Vosoughi, Deb Roy, and Sinan Aral has disco"
+    },
+    {
+      "id": "G02-P054-002",
+      "page": 54,
+      "rect": [
+        49.17319869995117,
+        49.908390045166016,
+        325.1645202636719,
+        144.5668182373047
+      ],
+      "en": "explains in part why micro-targeting proved such a powerful weapon in the 2016 presidential election and Brexit referendum, but also why research by Soroush Vosoughi, Deb Roy, and Sinan Aral has discovered that fake news disseminates faster and further than the truth. Their data set of rumour cascades on Twitter from 2006 to 2017 (around 126,000 rumours spread by approximately 3 million people) showed that the top 1 per cent of false news cascades diffused to between 1,000 and 100,000 people, whereas the truth rarely reached more than 1,000 people (Vosoughi, Roy, & Aral, 2018).",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "14b0f90d308c37800d21da27ad163934eb735ba427bda202fd117650f1f74224",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： variant frequencies. This research also uncovers how subpopulations on the social network ‘can preferentially transmit a specific variant of a meme if the variant matches their beliefs or culture’ (Adamic et al., 2016). This sense of preferential transmission\n下文片段（仅供参考）：It is not just information that is disseminated; people move too. In such a context people go from being nodes to being the connecting edges between places, as in the article ‘A Network Framework of C"
+    },
+    {
+      "id": "G02-P054-003",
+      "page": 54,
+      "rect": [
+        49.175201416015625,
+        145.56930541992188,
+        325.17449951171875,
+        395.60870361328125
+      ],
+      "en": "It is not just information that is disseminated; people move too. In such a context people go from being nodes to being the connecting edges between places, as in the article ‘A Network Framework of Cultural History’ (and the accompanying video), which provides an overview of the movements of humanity over the past 2,600 years (Schich et al., 2014). The art historian Maximilian Schich and his collaborators on this project used Freebase to find 120,000 individuals who were deemed notable enough in their lifetimes that the dates and locations of their births and deaths were recorded, ‘ranging from Solon, the Greek lawmaker and poet, who was born in 637 BCE in Athens, and died in 557 BCE in Cyprus, to Jett Travolta – son of the actor John Travolta – who was born in 1992 in Los Angeles, California, and died in 2009 in the Bahamas’ (Abbot, 2014).7 The team used that data to create a video that starts in 600 BCE and ends in 2012. Each person’s birthplace appears on a map of the world as a blue dot and their place of death as a red dot. As a city becomes more important, more notable people die there, identifying these locations as cultural hubs. For example, the data suggests that Paris overtook Rome as a cultural hub in 1789. Schich has argued that the benefit of such a perspective is that ‘historians tend to focus in highly specialised areas ... but our data allow them to see unexpected correlations between obscure events never considered historically important, and shifts in migration’ (Abbot, 2014).",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "49b680c4f40dc2e3a923c6454b645849e4fa27e3df198c774111db4e08ba5028",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：to 2017 (around 126,000 rumours spread by approximately 3 million people) showed that the top 1 per cent of false news cascades diffused to between 1,000 and 100,000 people, whereas the truth rarely reached more than 1,000 people (Vosoughi, Roy, & Aral, 2018).\n下文片段（仅供参考）：7 Schich and colleagues address potential biases in their data in the supplementary material of their publication, including ‘biographical, temporal, and spatial coverage; curated versus crowd-sourced"
+    },
+    {
+      "id": "G02-P054-005",
+      "page": 54,
+      "rect": [
+        49.17319869995117,
+        409.3858642578125,
+        325.1595153808594,
+        467.13909912109375
+      ],
+      "en": "7 Schich and colleagues address potential biases in their data in the supplementary material of their publication, including ‘biographical, temporal, and spatial coverage; curated versus crowd-sourced data; increasing numbers of individuals who are still alive; place aggregation; location name changes and spelling variants; and effects of data set language’.",
+      "font_size": 8.966300010681152,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "852e703ba5efbcffcb5bb4290698b307e1d74721af1e36a79ab56288f1f590f6",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：t the benefit of such a perspective is that ‘historians tend to focus in highly specialised areas ... but our data allow them to see unexpected correlations between obscure events never considered historically important, and shifts in migration’ (Abbot, 2014).\n下文片段（仅供参考）：Such a framework is generalisable, offering different approaches for large-scale questions. If we conceptualise the individual people within this aggregate model of migration as carriers, we can imagi"
+    },
+    {
+      "id": "G02-P055-002",
+      "page": 55,
+      "rect": [
+        34.88372039794922,
+        49.908390045166016,
+        310.85516357421875,
+        252.1928253173828
+      ],
+      "en": "Such a framework is generalisable, offering different approaches for large-scale questions. If we conceptualise the individual people within this aggregate model of migration as carriers, we can imagine how researchers could use the framework Schich proffered to chart how patterns of travel and migration disseminate particular materials, technologies, practices, or concepts. The framework also shares important parallels with the work of the GLEAM project at Northeastern University, which has developed an epidemic forecaster that predicts how given diseases might spread by combining data on population, transport networks, the characteristics of disease, and possible responses (like travel restrictions and vaccination efforts). Using this information, the forecaster generates a simulation of disease propagation across the globe. The importance of this project lies in its ability to make informed suggestions about when and where to disseminate vaccines to minimise the impact of potentially devastating epidemics. During the COVID-19 pandemic in 2020 GLEAM provided early insights into the most effective mitigation strategies to slow the global spread of the disease.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "ba77668bcc2d7973ad5bb7668184347ab6ec5a902fae1ba0cedb86061a6c2dfc",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：r publication, including ‘biographical, temporal, and spatial coverage; curated versus crowd-sourced data; increasing numbers of individuals who are still alive; place aggregation; location name changes and spelling variants; and effects of data set language’.\n下文片段（仅供参考）：The predictive power of network-based models is a new horizon for cultural studies. In general we tend to study artefacts or practices already in existence. Of course we may soon find ways and uses fo"
+    },
+    {
+      "id": "G02-P055-003",
+      "page": 55,
+      "rect": [
+        34.88371276855469,
+        253.13552856445312,
+        310.86517333984375,
+        467.385009765625
+      ],
+      "en": "The predictive power of network-based models is a new horizon for cultural studies. In general we tend to study artefacts or practices already in existence. Of course we may soon find ways and uses for making predictions about the cultural arena of tomorrow. But prediction is equally important for thinking about existing culture where our data are scarce or missing, reframed as interpolation or computationally assisted historiographic guesswork. An example of this is Shawn Graham and Scott Weingart’s research on the problem of ‘equifinality’ faced on archaeological sites: when a network is uncovered but the final shape of that network could have been reached by many potential means (Graham & Weingart, 2015). In the example studied, the nodes in the network were a series of bricks bearing the stamps of certain producers (carrying information concerning the estate on which the brick was made, the brick maker, the landowner, and the year) at separate sites, which pointed towards a trade network. Using agent-based modelling as a kind of counterfactual laboratory, the authors predicted the various possible processes that might have formed the networks apparent in the archaeological evidence. By comparing the networks that would have been predicted by Peter Fibiger Bang’s model of the",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "616394436eb95bba5a1d34e59c89580604d06dcdc324031b1219dc760d7771d0",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：about when and where to disseminate vaccines to minimise the impact of potentially devastating epidemics. During the COVID-19 pandemic in 2020 GLEAM provided early insights into the most effective mitigation strategies to slow the global spread of the disease.\n下文片段（仅供参考）：Roman economy, which he calls the ‘imperial Bazaar’, against those observed in the archaeological materials, Graham and Weingart showed how scholars can employ counterfactual simulations to probe the "
+    },
+    {
+      "id": "G02-P056-002",
+      "page": 56,
+      "rect": [
+        49.17319869995117,
+        49.18680953979492,
+        325.15460205078125,
+        144.5668182373047
+      ],
+      "en": "Roman economy, which he calls the ‘imperial Bazaar’, against those observed in the archaeological materials, Graham and Weingart showed how scholars can employ counterfactual simulations to probe the limits of historical theories. In this case, the methods of prediction are not used to learn something new, but as a formalised thought experiment to better understand the implications of a theorised historical causal explanation. If the simulated results do not match the historical evidence, it is an indication that one’s historical explanation needs further articulation.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "68acd66689569f4590732ad40d1918994837bc594623d9c284154eee9e6e22d7",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：a kind of counterfactual laboratory, the authors predicted the various possible processes that might have formed the networks apparent in the archaeological evidence. By comparing the networks that would have been predicted by Peter Fibiger Bang’s model of the\n下文片段（仅供参考）：The foregoing examples, despite the often complex nature or size of the data under consideration, might nevertheless be considered simple in that they constitute unipartite (or unimodal) networks: tha"
+    },
+    {
+      "id": "G02-P056-003",
+      "page": 56,
+      "rect": [
+        49.1732177734375,
+        145.56930541992188,
+        325.1646423339844,
+        264.09814453125
+      ],
+      "en": "The foregoing examples, despite the often complex nature or size of the data under consideration, might nevertheless be considered simple in that they constitute unipartite (or unimodal) networks: that is, networks with nodes of just one type. As we have argued elsewhere, however, the kind of networks humanists are interested in are often more complicated: ‘We don’t just have people connected to people or websites to websites, we’ve got people connected to institutions to authored works to ideas to whatever else, and we want to know how they all fit together’ (Weingart, 2013). This is where we can employ what are known as multipartite (or multimodal) networks.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "ddb1a062401aa413610e43c1d7e4f1ef18d0938f118412d1ca3bfded22787743",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：a formalised thought experiment to better understand the implications of a theorised historical causal explanation. If the simulated results do not match the historical evidence, it is an indication that one’s historical explanation needs further articulation.\n下文片段（仅供参考）：The flavour network is a bipartite example. Sebastian Ahnert’s research with collaborators at the Barabási Lab was inspired by the food-pairing hypothesis proffered by the chef Heston Blumenthal and t"
+    },
+    {
+      "id": "G02-P056-004",
+      "page": 56,
+      "rect": [
+        49.193206787109375,
+        264.3790283203125,
+        325.1845703125,
+        467.385009765625
+      ],
+      "en": "The flavour network is a bipartite example. Sebastian Ahnert’s research with collaborators at the Barabási Lab was inspired by the food-pairing hypothesis proffered by the chef Heston Blumenthal and the food scientist François Benzi: that ingredients will taste good together in a dish if they share chemical flavour compounds. Until their 2011 article, this hypothesis relied on anecdotal rather than large-scale quantitative evidence (Ahn et al., 2011). Thanks to the efforts of food scientists around the world, we now have extensive information available about the many chemical compounds responsible for giving different foods their distinctive smells and tastes. The two node types generated from that data for the bipartite network are the ingredients (such as garlic, chocolate, coffee, basil) and the individual chemical compounds. In order to show the relationships between a particular set of nodes, bipartite networks are usually transformed by a ‘onemode projection’. This means that the resulting network contains nodes of only one of either of the two sets. In this case, a one-mode projection of the ingredients was generated and edges were created between any foods that shared one or more compounds; the edges between those ingredients were",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "5c1bce7cda2fc1ae27014e7fd940fd7b777764ac15ce453610dea263c733ba2b",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： websites to websites, we’ve got people connected to institutions to authored works to ideas to whatever else, and we want to know how they all fit together’ (Weingart, 2013). This is where we can employ what are known as multipartite (or multimodal) networks.\n下文片段（仅供参考）：weighted by the number of compounds they shared. The resulting network was then used to test the food-pairing hypothesis by cross-referring it with a data set of 56,498 recipes. This analysis revealed"
+    },
+    {
+      "id": "G02-P057-002",
+      "page": 57,
+      "rect": [
+        34.886573791503906,
+        49.908390045166016,
+        310.8481140136719,
+        144.5668182373047
+      ],
+      "en": "weighted by the number of compounds they shared. The resulting network was then used to test the food-pairing hypothesis by cross-referring it with a data set of 56,498 recipes. This analysis revealed that Western cuisines show a tendency to use ingredient pairs that share many flavour compounds, supporting Blumenthal and Benzi’s hypothesis, but East Asian cuisines tend to avoid compound-sharing ingredients. This work shows how systems and hypotheses that do not seem at first sight to be about networks can be approached productively through that framework.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "6b6488b5dec466da6694b0249211487af12a1c456bfa56f563e2e3fa619106b3",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：he resulting network contains nodes of only one of either of the two sets. In this case, a one-mode projection of the ingredients was generated and edges were created between any foods that shared one or more compounds; the edges between those ingredients were\n下文片段（仅供参考）：Where might this kind of approach be useful in the humanities? It is particularly pertinent where one has sources or data containing two different types of entities, and especially when one is a subse"
+    },
+    {
+      "id": "G02-P057-003",
+      "page": 57,
+      "rect": [
+        34.87659454345703,
+        145.56930541992188,
+        310.8580627441406,
+        383.6892395019531
+      ],
+      "en": "Where might this kind of approach be useful in the humanities? It is particularly pertinent where one has sources or data containing two different types of entities, and especially when one is a subset of (or somehow contained within) the other. For example, if we think of miscellanies – a collection of literary compositions or pieces by several authors assembled in a volume or book – we could create a bipartite network linking texts (node type one) with the miscellanies that contain them (node type two). So, in our toy network diagram (Figure 9), if text A appears in miscellanies X, Y, and Z, and text B appears in miscellanies Y and Z, then the bipartite network has connections A-X, A-Y, A-Z, B-Y, and B-Z. By then undertaking a onemode projection of texts connected by miscellanies, we can see which texts appear together in such miscellanies (middle), or conversely, by projecting this as a network of miscellanies connected by shared texts, we can see how closely particular miscellanies are related to one another (bottom). Scaling up this idea, we can begin to see how an analysis of all catalogued Renaissance poetry miscellanies might enable us to understand the early modern poetic universe in different ways. It could tell us which poems most commonly appeared together, it might help us see which manuscripts were most similar in their contents, and it may uncover patterns of scribal circulation.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "2bc6b35c88cf48f63dce28f919ff731e042274d4075f04940595f3adc8583690",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：orting Blumenthal and Benzi’s hypothesis, but East Asian cuisines tend to avoid compound-sharing ingredients. This work shows how systems and hypotheses that do not seem at first sight to be about networks can be approached productively through that framework.\n下文片段（仅供参考）：An example of this kind of bipartite thinking can be found in Richard Jean So and Hoyt Long’s analysis of the publication networks of early twentieth-century poets. In their analysis, the two node typ"
+    },
+    {
+      "id": "G02-P057-004",
+      "page": 57,
+      "rect": [
+        34.87659454345703,
+        384.6916809082031,
+        310.8481140136719,
+        467.385009765625
+      ],
+      "en": "An example of this kind of bipartite thinking can be found in Richard Jean So and Hoyt Long’s analysis of the publication networks of early twentieth-century poets. In their analysis, the two node types are poets and journals, and the fact of publication in the same journal is the edge linking one type of node to another. Their aim was the interrogation of the social dimensions of early twentieth-century poetry production in the United States, Japan, and China. ‘The little magazines and independent coterie",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "b8b52cbb0da2c48dc237ee87ec1592e22f75602fc8f6ac4a21c3077d817cf94d",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：e us to understand the early modern poetic universe in different ways. It could tell us which poems most commonly appeared together, it might help us see which manuscripts were most similar in their contents, and it may uncover patterns of scribal circulation.\n下文片段（仅供参考）：bipartite network of texts and miscellanies:"
+    },
+    {
+      "id": "G02-P058-001",
+      "page": 58,
+      "rect": [
+        94.26390075683594,
+        29.963346481323242,
+        237.30014038085938,
+        37.83344650268555
+      ],
+      "en": "bipartite network of texts and miscellanies:",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "9fb97156b1fbdc739132ce53ba1882d99a71ab6cce8ea4fa49d56885d69eebb4",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ion in the same journal is the edge linking one type of node to another. Their aim was the interrogation of the social dimensions of early twentieth-century poetry production in the United States, Japan, and China. ‘The little magazines and independent coterie\n下文片段（仅供参考）：texts miscellanies"
+    },
+    {
+      "id": "G02-P058-002",
+      "page": 58,
+      "rect": [
+        123.50398254394531,
+        47.136138916015625,
+        215.39923095703125,
+        55.0062370300293
+      ],
+      "en": "texts miscellanies",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "e692989f262347222b9884fb5a66191674e68a0c2e341d3788ea158fa08ed183",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：bipartite network of texts and miscellanies:\n下文片段（仅供参考）：projected network of texts:"
+    },
+    {
+      "id": "G02-P058-003",
+      "page": 58,
+      "rect": [
+        120.85806274414062,
+        205.72113037109375,
+        211.28994750976562,
+        213.5912322998047
+      ],
+      "en": "projected network of texts:",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "b76686d93c0a00d31fbac85b66efed2db754b9f9553e02e86f51409de94230d8",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：texts miscellanies\n下文片段（仅供参考）：edge weight indicating two shared miscellanies, Y and Z"
+    },
+    {
+      "id": "G02-P058-005",
+      "page": 58,
+      "rect": [
+        163.95111083984375,
+        254.3347930908203,
+        266.6255187988281,
+        270.4146728515625
+      ],
+      "en": "edge weight indicating two shared miscellanies, Y and Z",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "bff2982aa1acfd7bc34187a5a0c2d9d1c7bd7db2277852d934ae88f214538480",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：projected network of texts:\n下文片段（仅供参考）：projected network of miscellanies:"
+    },
+    {
+      "id": "G02-P058-006",
+      "page": 58,
+      "rect": [
+        108.66600799560547,
+        304.7680969238281,
+        223.4799041748047,
+        312.63818359375
+      ],
+      "en": "projected network of miscellanies:",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "cbeec88d36e4e72c6809bacb6646aec11755194bec590a739c4645349d5c70ca",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：edge weight indicating two shared miscellanies, Y and Z\n下文片段（仅供参考）：edge weight indicating one shared text, A"
+    },
+    {
+      "id": "G02-P058-007",
+      "page": 58,
+      "rect": [
+        78.62446594238281,
+        333.6226501464844,
+        150.50714111328125,
+        349.7024841308594
+      ],
+      "en": "edge weight indicating one shared text, A",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "73af64eb4f99e96100d697296cb0911c4f23fb7cb15476168f73886cd19b42cc",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：projected network of miscellanies:\n下文片段（仅供参考）：edge weight indicating one shared text, A"
+    },
+    {
+      "id": "G02-P058-008",
+      "page": 58,
+      "rect": [
+        206.513427734375,
+        333.7095031738281,
+        278.39605712890625,
+        349.7893371582031
+      ],
+      "en": "edge weight indicating one shared text, A",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "73af64eb4f99e96100d697296cb0911c4f23fb7cb15476168f73886cd19b42cc",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：edge weight indicating one shared text, A\n下文片段（仅供参考）：edge weight indicating two shared texts, A and B"
+    },
+    {
+      "id": "G02-P058-009",
+      "page": 58,
+      "rect": [
+        184.89804077148438,
+        410.03875732421875,
+        265.0591125488281,
+        426.1186218261719
+      ],
+      "en": "edge weight indicating two shared texts, A and B",
+      "font_size": 6.870100021362305,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "33ca3f2b7cd04c618ebc8da8aa089265896d7449a03e85da6b79fbd3013d029f",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：edge weight indicating one shared text, A\n下文片段（仅供参考）：Figure 9 A simple example of a bipartite network made up of nodes and miscellanies (top) projected as a network of texts (middle), and projected as a network of miscellanies (bottom). Diagram by the a"
+    },
+    {
+      "id": "G02-P058-010",
+      "page": 58,
+      "rect": [
+        49.17319869995117,
+        433.8326721191406,
+        325.0151062011719,
+        472.6905822753906
+      ],
+      "en": "Figure 9 A simple example of a bipartite network made up of nodes and miscellanies (top) projected as a network of texts (middle), and projected as a network of miscellanies (bottom). Diagram by the authors.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "1448d8b11e6790b0aff9945a7d16a0a4009ef9aa79bd8ea3865da84e13dde01b",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：edge weight indicating two shared texts, A and B\n下文片段（仅供参考）：journals of the time were essential mechanisms for organizing creativity, collaboration, and the transnational diffusion of poetic styles’ (So & Long, 2013: 157). Their work identifies key brokers in "
+    },
+    {
+      "id": "G02-P059-002",
+      "page": 59,
+      "rect": [
+        34.87664794921875,
+        49.908390045166016,
+        310.8580627441406,
+        120.63664245605469
+      ],
+      "en": "journals of the time were essential mechanisms for organizing creativity, collaboration, and the transnational diffusion of poetic styles’ (So & Long, 2013: 157). Their work identifies key brokers in literary circles that include key writers (such as Amy Lowell and Countee Cullen in the network of American poets, 1924–5), and journals (such as Shishin in the network of Japanese journals, 1927–9).",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "ddb9bd25a7fb83f873c56dcca5194a8f9f456af95aaddc08e25d8be158181483",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：Figure 9 A simple example of a bipartite network made up of nodes and miscellanies (top) projected as a network of texts (middle), and projected as a network of miscellanies (bottom). Diagram by the authors.\n下文片段（仅供参考）：For humanities scholars unfamiliar with the network framework, the breadth and inclusivity of the foregoing examples may be surprising. Without the metaphorical and analytic power of networks, it is d"
+    },
+    {
+      "id": "G02-P059-003",
+      "page": 59,
+      "rect": [
+        34.88658142089844,
+        121.6391372680664,
+        310.8580017089844,
+        252.1928253173828
+      ],
+      "en": "For humanities scholars unfamiliar with the network framework, the breadth and inclusivity of the foregoing examples may be surprising. Without the metaphorical and analytic power of networks, it is difficult to understand how the interactions of characters in Hamlet are in any way comparable to the dissemination of memes on Facebook, or the chemical compounds shared between food ingredients. What makes them comparable is an intellectual and methodological shift by which we abstract our objects of study into data points that can be entered into a database or spreadsheet. This does not imply some shared property intrinsic to each of the subjects under study, rather it implies the widespread utility of networks as a lens through which to view many aspects of our shared world.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "98496da08c81ba31de3d4235c66c3d125c88598d3e0a28c5d11cfe49fb47fcec",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：(So & Long, 2013: 157). Their work identifies key brokers in literary circles that include key writers (such as Amy Lowell and Countee Cullen in the network of American poets, 1924–5), and journals (such as Shishin in the network of Japanese journals, 1927–9).\n下文片段（仅供参考）：The idea of talking about cultural artefacts as data, metadata, or data sets is in itself a potentially controversial move as it seems reductive, ignoring complexity, ambiguity, and qualitative assess"
+    },
+    {
+      "id": "G02-P059-004",
+      "page": 59,
+      "rect": [
+        34.876625061035156,
+        253.13552856445312,
+        310.8580017089844,
+        467.385009765625
+      ],
+      "en": "The idea of talking about cultural artefacts as data, metadata, or data sets is in itself a potentially controversial move as it seems reductive, ignoring complexity, ambiguity, and qualitative assessment. Moreover, as Johanna Drucker has argued, the etymology of the word ‘data’ is itself problematic in the context of the arts and humanities: it comes from the Latin datum, which means ‘that which is given’. The word ‘data’ therefore carries with it the meaning of an observer-independent fact which cannot be challenged in itself. Drucker prefers instead to think in terms of ‘capta’: ‘that which has been captured or gathered’, a coinage designed to draw attention to the fact that the very act of capturing data is oriented by certain goals, done with specific instruments, and driven by a specific attention to a small part of what could have been captured given different goals and instruments (Drucker, 2011). In other words, it requires decisions and interpretations that introduce subjectivity into the process. Throwing out the word ‘data’ completely, however, seems unwise given its ubiquity and acceptance across disciplines, especially if one of our aims is to create discourses and practices that break down traditional disciplinary divides. It is perhaps best, therefore, to make sure that scholars from the arts and humanities are not",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "20fb90cc2cbee61a84c8854c51b8c77e15b80ad890e739558df2c7b6493be1df",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：s that can be entered into a database or spreadsheet. This does not imply some shared property intrinsic to each of the subjects under study, rather it implies the widespread utility of networks as a lens through which to view many aspects of our shared world.\n下文片段（仅供参考）：held captive to assumptions about what data is, and rather play an active role in applying a self-reflexive and theoretical lens to the act of data creation and capture and its subsequent processing, "
+    },
+    {
+      "id": "G02-P060-002",
+      "page": 60,
+      "rect": [
+        49.17319869995117,
+        49.908390045166016,
+        325.174560546875,
+        180.4022979736328
+      ],
+      "en": "held captive to assumptions about what data is, and rather play an active role in applying a self-reflexive and theoretical lens to the act of data creation and capture and its subsequent processing, not just in the humanities and arts, but across the disciplines. Dan Rosenberg’s work on the history of data zeros in on the distinctions between data, fact, and evidence. He writes, ‘facts are ontological, evidence is epistemological, data is rhetorical,’ which means that ‘the existence of a datum has been independent of any consideration of corresponding ontological truth’ (Rosenberg, 2013: 18). Rosenberg’s formulation helps us to see that data are what we determine them to be, but we do need to take responsibility to define them clearly.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "37e2a62d1d5c7b0c8ae265de22a1356e7df83835bbcd766aa7eb1ad288da6166",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：its ubiquity and acceptance across disciplines, especially if one of our aims is to create discourses and practices that break down traditional disciplinary divides. It is perhaps best, therefore, to make sure that scholars from the arts and humanities are not\n下文片段（仅供参考）：Two key issues for network data are those of absence and ‘bias’ (broadly defined). The concern we hear repeated most often by our colleagues in the arts and humanities is that the incompleteness or co"
+    },
+    {
+      "id": "G02-P060-003",
+      "page": 60,
+      "rect": [
+        49.18321228027344,
+        180.68321228027344,
+        325.16461181640625,
+        323.923583984375
+      ],
+      "en": "Two key issues for network data are those of absence and ‘bias’ (broadly defined). The concern we hear repeated most often by our colleagues in the arts and humanities is that the incompleteness or complexity of their source material make it unsuitable for network analysis. The concern arises, in part, from a misconception about what ‘scientific’ data looks like. It is important to remember, however, that almost any network data set, even in the sciences, is incomplete in some sense. In whatever way we define the connection between entities and the entities themselves, we are limited by the scope of available data and by the assumptions made when defining the nature of the connections. While this of course will affect the results of any quantitative analysis, this incompleteness is less of a problem than it may seem at first, for three main reasons.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "7e82ac7107cdf91365326c63d875e90a801c0325458cc03bc7fb11c97e3ee6b1",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ce of a datum has been independent of any consideration of corresponding ontological truth’ (Rosenberg, 2013: 18). Rosenberg’s formulation helps us to see that data are what we determine them to be, but we do need to take responsibility to define them clearly.\n下文片段（仅供参考）：The first reason is that, particularly in the context of the humanities, the bias in the source data is often itself of interest to the scholar. When we look at cultural phenomena and artefacts, we lo"
+    },
+    {
+      "id": "G02-P060-004",
+      "page": 60,
+      "rect": [
+        49.18321228027344,
+        324.2044677734375,
+        325.17462158203125,
+        467.385009765625
+      ],
+      "en": "The first reason is that, particularly in the context of the humanities, the bias in the source data is often itself of interest to the scholar. When we look at cultural phenomena and artefacts, we look at them with particular welltheorised frames. However, for much data we do not have a well-thoughtout, critical apparatus to describe the ‘how’, ‘who’, and ‘what’ of the data, so it is not clear whether we are analysing a particular phenomenon, some artefact of the collection and accumulation process, or our own world views. For example, in the case of archives of historic documents, network analysis can help the researcher to better understand the history of that archive by drawing attention to deliberate inclusions or omissions of material, perhaps motivated by a political or religious collection agenda, the confiscation of documents, or even the deliberate destruction or censorship of materials.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "0b0455d5b475ffd7f48610eaaf29bc6b7734d17b60db42135de2726929c46574",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：pe of available data and by the assumptions made when defining the nature of the connections. While this of course will affect the results of any quantitative analysis, this incompleteness is less of a problem than it may seem at first, for three main reasons.\n下文片段（仅供参考）：Such events in the history of an archive are detectable precisely because of the effects they have of distorting the results of the quantitative analysis. We might be able to extrapolate similar kinds"
+    },
+    {
+      "id": "G02-P061-002",
+      "page": 61,
+      "rect": [
+        34.8865966796875,
+        49.908390045166016,
+        310.8580322265625,
+        180.4022979736328
+      ],
+      "en": "Such events in the history of an archive are detectable precisely because of the effects they have of distorting the results of the quantitative analysis. We might be able to extrapolate similar kinds of lessons for survival or loss of archaeological evidence. And more generally, it could help in the development of a consistent scholarly apparatus for understanding the peculiarities of digital archives and databases. Via source criticism, we still only know in the broadest strokes the implications of their formation and shape for the research we undertake. Articulating humanities network data in these terms, as a perspective rather than a ‘bias’ – which implies some underlying ground truth – will be a grand challenge for the next generation of researchers in this area.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "abdfe9c28ae59f421ae3909350df98cc3e8c2f4d7bf930be873c31e2b5881faf",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：d the history of that archive by drawing attention to deliberate inclusions or omissions of material, perhaps motivated by a political or religious collection agenda, the confiscation of documents, or even the deliberate destruction or censorship of materials.\n下文片段（仅供参考）：The second reason is that, even in an incomplete network, the relative importance of nodes and edges according to a given network measurement can still yield meaningful results. Every network data set"
+    },
+    {
+      "id": "G02-P061-003",
+      "page": 61,
+      "rect": [
+        34.88660430908203,
+        181.40478515625,
+        310.8580627441406,
+        276.063232421875
+      ],
+      "en": "The second reason is that, even in an incomplete network, the relative importance of nodes and edges according to a given network measurement can still yield meaningful results. Every network data set analysed in network science, be it a mobile phone network, a network between genes, or an online social network, is incomplete or limited by selection. But the limited scope in which the data is collected does not prohibit us from examining the relative importance of nodes or edges in the context of that scope, as long as we are aware of the factors that may shape our results.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "d101929335b9b4016cfbae04226ab6003d0e65e7c20eea318082789c5ea71d50",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：on and shape for the research we undertake. Articulating humanities network data in these terms, as a perspective rather than a ‘bias’ – which implies some underlying ground truth – will be a grand challenge for the next generation of researchers in this area.\n下文片段（仅供参考）：The third and most important reason why the incompleteness of networks does not pose an insurmountable problem is that the results of the quantitative analysis do not serve as a final result, but as a"
+    },
+    {
+      "id": "G02-P061-004",
+      "page": 61,
+      "rect": [
+        34.8865966796875,
+        277.0657043457031,
+        310.8580017089844,
+        347.853759765625
+      ],
+      "en": "The third and most important reason why the incompleteness of networks does not pose an insurmountable problem is that the results of the quantitative analysis do not serve as a final result, but as a starting point for further, more detailed inquiry in the vein of traditional scholarship in the arts and humanities. In Chapter 6, we provide a guide through what this might mean practically for the research process.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "2dd47dd300770b964f1521939437e8f9b70557b6a3c0578659f16136defbc467",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：omplete or limited by selection. But the limited scope in which the data is collected does not prohibit us from examining the relative importance of nodes or edges in the context of that scope, as long as we are aware of the factors that may shape our results.\n下文片段（仅供参考）：The message that networks do not need to be complete should not be used to discount the problem of inconsistent sampling or poor data gathering. But network analysis can be part of the answer if it is"
+    },
+    {
+      "id": "G02-P061-005",
+      "page": 61,
+      "rect": [
+        34.8865966796875,
+        348.79644775390625,
+        310.8680419921875,
+        467.385009765625
+      ],
+      "en": "The message that networks do not need to be complete should not be used to discount the problem of inconsistent sampling or poor data gathering. But network analysis can be part of the answer if it is employed as a tool for characterising the contours of a given archive or corpus, thereby helping to show how the data with which we work so often reinscribes structural bias. This raises an important issue when understanding and constructing cultural objects as data. The big-data approach to culture offers many opportunities, as discussed earlier, but with it comes a duty of care that is at once technical and ethical (Weingart, 2014a). These two aspects are intimately intertwined.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "ff50f94a5ec0868e5278efed94e872d703071bcac61a8e04a1c0b8c314128d7c",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：is do not serve as a final result, but as a starting point for further, more detailed inquiry in the vein of traditional scholarship in the arts and humanities. In Chapter 6, we provide a guide through what this might mean practically for the research process.\n下文片段（仅供参考）：The technical duty of care is often called ‘data cleaning’, a term used to describe the process of detecting and correcting (or removing) corrupt or inaccurate elements in a given data set. Issues wit"
+    },
+    {
+      "id": "G02-P062-002",
+      "page": 62,
+      "rect": [
+        49.170379638671875,
+        49.18680953979492,
+        325.271240234375,
+        252.1928253173828
+      ],
+      "en": "The technical duty of care is often called ‘data cleaning’, a term used to describe the process of detecting and correcting (or removing) corrupt or inaccurate elements in a given data set. Issues within a single data set or database might be created by misspellings during data entry, missing information, or other invalid data. The term, however, is not without problems, as has been discussed in the provocatively titled piece ‘Against Cleaning’ (Rawson & Muñoz, 2019). Rawson and Muñoz’s point is that the metaphor of cleaning is problematic because it elides the burden of labour and intellectual contribution that it actually represents. They contend that: ‘Data cleaning is a consequential step in the research process that we often make opaque by the way we talk about it. The phrase “data cleaning” is a stand-in for longer and more precise descriptions of what people are doing in the initial phases of data-intensive research.’ The lack of discussion around such practices, they argue, has increased mistrust of quantitative approaches in the arts and humanities. The only way to deal with this is to begin talking about the labour of cleaning and to communicate its significance as an intellectual contribution.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "d52cdcbaab695d04698de216c45f29d896e93e1fd0540f9b8cacabe254e6b8e3",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：and constructing cultural objects as data. The big-data approach to culture offers many opportunities, as discussed earlier, but with it comes a duty of care that is at once technical and ethical (Weingart, 2014a). These two aspects are intimately intertwined.\n下文片段（仅供参考）：One example is the preparation Ruth and Sebastian Ahnert undertook for the Tudor Networks of Power project. Their primary data set was a digitised archive, State Papers Online (SPO), which combines sc"
+    },
+    {
+      "id": "G02-P062-003",
+      "page": 62,
+      "rect": [
+        49.170379638671875,
+        253.13552856445312,
+        325.2415466308594,
+        467.385009765625
+      ],
+      "en": "One example is the preparation Ruth and Sebastian Ahnert undertook for the Tudor Networks of Power project. Their primary data set was a digitised archive, State Papers Online (SPO), which combines scans of the British State Papers archive with the Calendar descriptions of their contents. It provides metadata for each document that, in the case of the letters on which they were working (numbering circa 132,000 items for the Tudor period), contains valuable relational information including: name of sender, name of recipient, date of composition, place of writing, unique document identifiers, and a content description. The author, recipient, and place fields in particular needed cleaning. In the case of the author and recipient fields, the names needed disambiguation and de-duplication, for a number of reasons: variant spellings of early modern names, letters addressed to a titular office rather than a named individual (e.g. the Archbishop of Canterbury), changing office holders, changing titles over a person’s lifetime as they accrued honours and offices, and women’s names changing due to marriage. The complexity of the sender and recipient metadata fields meant that although 37,101 unique name entities were initially extracted, there were in fact only 20,656 unique correspondents. Place names had to be dealt with in a similar",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "009104e5466146e5fc4a459a836bc54b42c1083d4b89cb6a2cc1324947fbb406",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：round such practices, they argue, has increased mistrust of quantitative approaches in the arts and humanities. The only way to deal with this is to begin talking about the labour of cleaning and to communicate its significance as an intellectual contribution.\n下文片段（仅供参考）：way and geo-coordinates added. This effort led to the development of two custom data-cleaning tools. In addition, the curation of those data fields involved eighteen months of work (Hyvönen et al., 20"
+    },
+    {
+      "id": "G02-P063-002",
+      "page": 63,
+      "rect": [
+        34.886600494384766,
+        49.908390045166016,
+        310.9676818847656,
+        168.4372100830078
+      ],
+      "en": "way and geo-coordinates added. This effort led to the development of two custom data-cleaning tools. In addition, the curation of those data fields involved eighteen months of work (Hyvönen et al., 2019; Ahnert & Ahnert, forthcoming: chapter 1). This is a considerable workload that needed to be undertaken before network analysis could even be contemplated and the results of quantitative analysis could be trusted. This work should not just be considered a prerequisite for network analysis or other quantitative approaches, however, but a scholarly object in its own right: a data set other researchers can put to many uses. A cultural shift in the humanities is still required before such work is given the scholarly credit it deserves.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "5e21bce19daf26cbce9e4d8621f13a5b9ab2b77e129dcef8a8b5b4d1abf3c695",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：s changing due to marriage. The complexity of the sender and recipient metadata fields meant that although 37,101 unique name entities were initially extracted, there were in fact only 20,656 unique correspondents. Place names had to be dealt with in a similar\n下文片段（仅供参考）：A vital by-product of this labour is that during the process researchers become intimately acquainted with the shape of their data, its strengths, weaknesses, and biases. This is where the ethical dut"
+    },
+    {
+      "id": "G02-P063-003",
+      "page": 63,
+      "rect": [
+        34.88661193847656,
+        169.439697265625,
+        310.9576721191406,
+        252.1928253173828
+      ],
+      "en": "A vital by-product of this labour is that during the process researchers become intimately acquainted with the shape of their data, its strengths, weaknesses, and biases. This is where the ethical duty of care comes in. Lauren F. Klein’s MLA paper on ‘Distant Reading after Moretti’ argued that we need to look at our data to understand why ‘distant reading does not deal well with gender, or with sexuality, or with race.’ She suggests that we need data sets that:",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "a28a948bc52037c8b09aa7b3bbb03de41bf447c1aff6111f0716a5d73bde38d4",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ork analysis or other quantitative approaches, however, but a scholarly object in its own right: a data set other researchers can put to many uses. A cultural shift in the humanities is still required before such work is given the scholarly credit it deserves.\n下文片段（仅供参考）：perform the work of recovery or resistance. An example: the corpus created by the Colored Conventions Project, which seeks to recover and aggregate evidence that documents the Colored Conventions of t"
+    },
+    {
+      "id": "G02-P063-005",
+      "page": 63,
+      "rect": [
+        62.781890869140625,
+        265.1006164550781,
+        283.00262451171875,
+        395.654296875
+      ],
+      "en": "perform the work of recovery or resistance. An example: the corpus created by the Colored Conventions Project, which seeks to recover and aggregate evidence that documents the Colored Conventions of the nineteenth-century United States; these were organizing meetings in which Black Americans, both fugitive and free, came together to strategize about how to achieve social and legal justice. By making this corpus available for others to download, the CCP opens up the project of distant reading to texts beyond quote ‘representative’ samples, which tend to reproduce the same inequities of representation that affect our cultural record as a whole. (Klein, 2018)",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "0394d8c37542bf7c31e43f49f4000703649fa91e21a6c653d09c2314c0b0d218",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：care comes in. Lauren F. Klein’s MLA paper on ‘Distant Reading after Moretti’ argued that we need to look at our data to understand why ‘distant reading does not deal well with gender, or with sexuality, or with race.’ She suggests that we need data sets that:\n下文片段（仅供参考）：Attending to the biases created in the creation of the archives with which we work allows us to address them. Networks can be part of that process, helping us to describe the data we have, and therefo"
+    },
+    {
+      "id": "G02-P063-006",
+      "page": 63,
+      "rect": [
+        34.8865966796875,
+        408.6119079589844,
+        310.84808349609375,
+        467.37506103515625
+      ],
+      "en": "Attending to the biases created in the creation of the archives with which we work allows us to address them. Networks can be part of that process, helping us to describe the data we have, and therefore allowing us to see where gaps and skews are present and to think critically about the ways in which they may be addressed.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "0e3690ae82e064491ef10dfcafbf3dd25c3ca4fcb89c4c09b2a0d2185eda9c1f",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：his corpus available for others to download, the CCP opens up the project of distant reading to texts beyond quote ‘representative’ samples, which tend to reproduce the same inequities of representation that affect our cultural record as a whole. (Klein, 2018)\n下文片段（仅供参考）：By thinking about the culture around us as data we therefore not only open up opportunities for new analytical processes, we also identify an important way in which arts and humanities scholars can co"
+    },
+    {
+      "id": "G02-P064-002",
+      "page": 64,
+      "rect": [
+        49.170318603515625,
+        49.908390045166016,
+        325.14178466796875,
+        156.5319061279297
+      ],
+      "en": "By thinking about the culture around us as data we therefore not only open up opportunities for new analytical processes, we also identify an important way in which arts and humanities scholars can contribute critically to the ways we theorise the construction of data sets. The ways that this community is accustomed to thinking about these objects of study offers a different perspective on the status of data, its capture, preparation, shape, strengths and weakness, as well as the duty of care required to ensure it is fit for purpose. As the next chapter argues, one of the ways we can interrogate our data is through the lens of visualisation.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "3585b6921a198f5b47d10736415ac85ee6836176f09eb28b911fde750a790282",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ith which we work allows us to address them. Networks can be part of that process, helping us to describe the data we have, and therefore allowing us to see where gaps and skews are present and to think critically about the ways in which they may be addressed.\n下文片段（仅供参考）：4 Visual Networks Visual networks are compelling, but are they effective? The conventional network graph of node and edge (points connected by lines) makes it possible to convey a tremendous amount of"
+    },
+    {
+      "id": "G02-P065-002",
+      "page": 65,
+      "rect": [
+        34.8865966796875,
+        49.81321716308594,
+        310.9377746582031,
+        218.67884826660156
+      ],
+      "en": "4 Visual Networks Visual networks are compelling, but are they effective? The conventional network graph of node and edge (points connected by lines) makes it possible to convey a tremendous amount of information all at once, in one view. Networks express an internal logic of relationships between entities that is inherently intuitive. But they also lack an explicit external spatial referent, whether the latitude and longitude of cartography, the scale and sequence of a timeline, or the categories and measures that mark the x-y axis of a statistical graph. They can represent relationships at human visible scale, or scale to dizzying, visually indecipherable complexity. The unbounded rhizomatic structure of the network has a malleable, infinitely re-orderable form that communicates in a way that is distinct from almost all other diagrams of data. This chapter addresses how that malleability can be harnessed for research and communication.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "ea8b093a9f00cd69814dd251d0c2e298254658d658bff6df485454c1f45e8e9e",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： on the status of data, its capture, preparation, shape, strengths and weakness, as well as the duty of care required to ensure it is fit for purpose. As the next chapter argues, one of the ways we can interrogate our data is through the lens of visualisation.\n下文片段（仅供参考）：The sketch presented in Figure 10 is one of many drafts leading up to Mark Lombardi’s work, ‘BCCI-ICIC & FAB, 1971–91 (4th Version)’, with which we opened this book. It is a rough, incomplete, marked-"
+    },
+    {
+      "id": "G02-P065-003",
+      "page": 65,
+      "rect": [
+        34.886627197265625,
+        219.62155151367188,
+        310.96771240234375,
+        457.80120849609375
+      ],
+      "en": "The sketch presented in Figure 10 is one of many drafts leading up to Mark Lombardi’s work, ‘BCCI-ICIC & FAB, 1971–91 (4th Version)’, with which we opened this book. It is a rough, incomplete, marked-up draft with nodes outlined in blue, connections crossed out, and empty spaces awaiting more information. A comparison between this draft and the final version gives us some insight into the evolution of Lombardi’s thinking. Externalising information and organising ideas spatially is not just a mode of presentation, it is an integral part of Lombardi’s research into these complex financial systems. The story he finally shares has been refined through the process of sketching, editing, and redrawing. But it is not merely a cleaned-up version of the draft. It demonstrates Lombardi’s command of visual rhetoric to lay out his argument for public consumption; to convince and persuade with his choice of colour, the quality of the line, the careful annotation, the apparent precision, the internal structure, and the overall shape. The fragments of evidence Lombardi originally collected on three-by-five notecards and arranged in notes and sketches do not speak for themselves; they are selected, edited, and enriched, using visualisation at stages throughout the process as a cognitive aide, a modelling activity, an argument, and a work of art in turn (see Tversky & Suwa, 2009 and Tversky, 2014). It is an iterative act of knowledge production that if executed in prose rather than in drawing would",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "3d3da6d484b9765f95d22bf25b8655c70a7407e3695232d91593190a2b6307de",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： rhizomatic structure of the network has a malleable, infinitely re-orderable form that communicates in a way that is distinct from almost all other diagrams of data. This chapter addresses how that malleability can be harnessed for research and communication.\n下文片段（仅供参考）：–Figure 10 Lombardi, Mark (19512000): Untitled from the series BCCI, ICIC & FAB, 1996. Pen and ink and electrophotographic print on paper. New York, Whitney Museum of American Art. © 2019. Digital ima"
+    },
+    {
+      "id": "G02-P066-001",
+      "page": 66,
+      "rect": [
+        249.37940979003906,
+        50.341732025146484,
+        276.01123046875,
+        465.0984802246094
+      ],
+      "en": "–Figure 10 Lombardi, Mark (19512000): Untitled from the series BCCI, ICIC & FAB, 1996. Pen and ink and electrophotographic print on paper. New York, Whitney Museum of American Art. © 2019. Digital image.",
+      "font_size": 9.962599754333496,
+      "rotation": 90,
+      "continuation": false,
+      "sha256": "abe41fb43d7f7ee7bdd970072297417cdb1e4cd3239ef99fc810eea8f8735b3b",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： stages throughout the process as a cognitive aide, a modelling activity, an argument, and a work of art in turn (see Tversky & Suwa, 2009 and Tversky, 2014). It is an iterative act of knowledge production that if executed in prose rather than in drawing would\n下文片段（仅供参考）：fiWhitney Museum of American Art / Licensed by Scala.gure 1"
+    },
+    {
+      "id": "G02-P066-002",
+      "page": 66,
+      "rect": [
+        277.274658203125,
+        225.3746795654297,
+        289.9588623046875,
+        465.0984802246094
+      ],
+      "en": "fiWhitney Museum of American Art / Licensed by Scala.gure 1",
+      "font_size": 9.962599754333496,
+      "rotation": 90,
+      "continuation": true,
+      "sha256": "e8f4eece7ad960ad74b925c51ca9cab6a6c98e5b92c5af3e538ed950ef5d7a8c",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：–Figure 10 Lombardi, Mark (19512000): Untitled from the series BCCI, ICIC & FAB, 1996. Pen and ink and electrophotographic print on paper. New York, Whitney Museum of American Art. © 2019. Digital image.\n下文片段（仅供参考）：be very familiar to humanities scholars. This familiarity is an important point of reference when comparing hand-drawn visual networks like Lombardi’s to those drawn with computer graphics software. B"
+    },
+    {
+      "id": "G02-P067-002",
+      "page": 67,
+      "rect": [
+        34.8865966796875,
+        49.908390045166016,
+        310.93780517578125,
+        144.5668182373047
+      ],
+      "en": "be very familiar to humanities scholars. This familiarity is an important point of reference when comparing hand-drawn visual networks like Lombardi’s to those drawn with computer graphics software. Ben Fry, for example, points to Lombardi’s work for lessons in a humanist view of data that uses visualisation as a story-telling medium requiring significant editing (Fry, 2016). Our contention is that handled in the right way, network visualisation can be both an important means of knowledge production and a powerful rhetorical tool.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "190738d891a41448bc7b4591c66cc5b37483c5072530d6661eef99cbae9211db",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：fiWhitney Museum of American Art / Licensed by Scala.gure 1\n下文片段（仅供参考）：The role of the visual in the production of knowledge is the thesis of Johanna Drucker’s Graphesis. She opens the book with a comparison of two network visualisations: Athanasius Kircher’s Ars magna s"
+    },
+    {
+      "id": "G02-P067-003",
+      "page": 67,
+      "rect": [
+        34.8865966796875,
+        145.56930541992188,
+        310.8779296875,
+        431.549560546875
+      ],
+      "en": "The role of the visual in the production of knowledge is the thesis of Johanna Drucker’s Graphesis. She opens the book with a comparison of two network visualisations: Athanasius Kircher’s Ars magna sciendi (1669) and Barrett Lyon’s ‘Web Traffic Visualisation’. Both are networks depicted as nodes and edges (see Figure 11). Kircher returns us to the diagrammatic approaches to knowledge discussed in Chapter 2. It is a development of Ramon Llull’s system published in his Ars generalis ultima or Ars magna: a method of combining religious and philosophical attributes selected from a number of lists, designed to engage Muslims in debate and win them to the Christian faith. Kircher’s diagram forms a complete bipartite graph, where every node of the first set is connected to every node of the second. The Lyon visualisation, part of his Opte Project, is a computer-generated network graph intended to map the Internet. Nodes represent individual servers and hosts, and edges represent the fibre, copper, or other connections between them. Drucker’s purpose in juxtaposing these two graphs is to draw our attention to their relationship to information. Kircher’s work, she argues, ‘produces the knowledge it draws’: the effect of combination is to generate insights. By comparison, Lyon’s network visualisation of web traffic ‘only displays information’. This distinction is an important one when thinking about how we employ visualisation in our work. Off-theshelf graphics packages are employed in research as a means both of generating insights and displaying observed phenomena. However, the word ‘display’ is a potentially misleading term. As Drucker puts it, certain visualisations ‘act as if they are just showing us what is, but in actuality, they",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "5d98e42b7dc5d31a51e9f298b3bd9700674a0e4ff283a4cc484e0e638742d397",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：w of data that uses visualisation as a story-telling medium requiring significant editing (Fry, 2016). Our contention is that handled in the right way, network visualisation can be both an important means of knowledge production and a powerful rhetorical tool.\n下文片段（仅供参考）：are arguments made in graphical form’ (Drucker, 2014). We need to recognise the rhetorical power of visualisation if we are to remain alert to the hidden agendas of the graphical forms we encounter."
+    },
+    {
+      "id": "G02-P067-004",
+      "page": 67,
+      "rect": [
+        34.906463623046875,
+        431.8304443359375,
+        310.87786865234375,
+        467.385009765625
+      ],
+      "en": "are arguments made in graphical form’ (Drucker, 2014). We need to recognise the rhetorical power of visualisation if we are to remain alert to the hidden agendas of the graphical forms we encounter.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "774d7f9b58cbfb550f9e785217899df8483cad089447bac2f29fd39acea17352",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：d in research as a means both of generating insights and displaying observed phenomena. However, the word ‘display’ is a potentially misleading term. As Drucker puts it, certain visualisations ‘act as if they are just showing us what is, but in actuality, they\n下文片段（仅供参考）：Typus universalis, omnibus de quacunque re propositaFigure 11 On the left, a combinatorial diagram entitled questionibus formandis, aptus Ars magna sciendi, in Athanasius Kircher, (Janssonius a Waesbe"
+    },
+    {
+      "id": "G02-P068-001",
+      "page": 68,
+      "rect": [
+        268.2943420410156,
+        50.31356430053711,
+        322.10491943359375,
+        472.5820007324219
+      ],
+      "en": "Typus universalis, omnibus de quacunque re propositaFigure 11 On the left, a combinatorial diagram entitled questionibus formandis, aptus Ars magna sciendi, in Athanasius Kircher, (Janssonius a Waesberg, 1669). Digital image. Max Planck Institute for the History of Science Library. CC BY SA 3.0. On the right, a visualisation from the Opte Project of the various routes through a portion of the Internet in 2005. Digital image. Wikimedia Commons.",
+      "font_size": 9.962599754333496,
+      "rotation": 90,
+      "continuation": false,
+      "sha256": "f95d086aebbbda6d2da4f5e43b6686030f282d90ad270e566def882e9b069593",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：are arguments made in graphical form’ (Drucker, 2014). We need to recognise the rhetorical power of visualisation if we are to remain alert to the hidden agendas of the graphical forms we encounter.\n下文片段（仅供参考）：CC BY 2.5."
+    },
+    {
+      "id": "G02-P068-002",
+      "page": 68,
+      "rect": [
+        324.0899353027344,
+        428.14508056640625,
+        336.05255126953125,
+        472.5820007324219
+      ],
+      "en": "CC BY 2.5.",
+      "font_size": 9.962599754333496,
+      "rotation": 90,
+      "continuation": true,
+      "sha256": "7d8a04c82efd75769d2ede1f5e5de84ec675a4f24117954bf90c311042dbc4a3",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：nius a Waesberg, 1669). Digital image. Max Planck Institute for the History of Science Library. CC BY SA 3.0. On the right, a visualisation from the Opte Project of the various routes through a portion of the Internet in 2005. Digital image. Wikimedia Commons.\n下文片段（仅供参考）：We can begin to understand how arguments are made in graphical form by looking at a set of diagrams based on the networks chapter of Jacques Bertin’s The Semiology of Graphics (Figure 12). Bertin defi"
+    },
+    {
+      "id": "G02-P069-002",
+      "page": 69,
+      "rect": [
+        34.87376403808594,
+        49.908390045166016,
+        310.84521484375,
+        156.5319061279297
+      ],
+      "en": "We can begin to understand how arguments are made in graphical form by looking at a set of diagrams based on the networks chapter of Jacques Bertin’s The Semiology of Graphics (Figure 12). Bertin defines a general theory of graphics as separate from both figurative representation and mathematics. While Bertin employs some problematic assumptions about both the certainty of data and the ‘monosemic’ system of graphical rhetoric, his work is nevertheless a crucial study for our thinking about different insights, and consequently the arguments that can be made through different diagrammatic layouts of network data.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "6b14fe249f5e99432fe408c94c50551ff583be6a53bf910863ea54633fb212a9",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：CC BY 2.5.\n下文片段（仅供参考）：The network, according to Bertin, is represented by three components: the line, the point, and the area. He specifies a number of possible layouts making use of those components including rectilinear,"
+    },
+    {
+      "id": "G02-P069-003",
+      "page": 69,
+      "rect": [
+        34.86381530761719,
+        157.474609375,
+        310.86517333984375,
+        431.549560546875
+      ],
+      "en": "The network, according to Bertin, is represented by three components: the line, the point, and the area. He specifies a number of possible layouts making use of those components including rectilinear, circular, irregular arrangement, and regular arrangement (see Figure 12). Each combination of components and arrangements highlights different aspects of the data and contributes to a different argument about the underlying data. The tabular view provides the basic source–target pairs. The ‘irregular arrangement’ is the familiar, decentred layout most often associated with visual networks. It does not spatially prioritise any node and yet, with a network this small, we can quickly assess that A, B, C, and E are more connected than the other nodes. The ‘regular arrangement’ explicitly sets A as the root node in a treelike hierarchy. The top-to-bottom order of the horizontal planes of alignment is clearly intentional and insists on a particular reading of the graph, even if the significance is not made explicit. And whereas the ‘regular arrangement’ gives prominence to A, the circular layout emphasises the node with the most connections. The lines radiating out from C give it a visually significant role in the network even though all the nodes are aligned on a periphery. The rectilinear layout suggests a sequence to the connections and makes clear, with this particular data set, that E connects more nodes along the chain than any other node (which, as we see in Chapter 5, would mean it has the highest betweenness centrality). The parallel alignment diagram and the matrix reveal directionality and absence more explicitly than the network graphs because they both draw corresponding",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "1db09ebfe709327039d14d5d383f9e1a2d25bfe98db981c7e3900c3ab239a6f2",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： the certainty of data and the ‘monosemic’ system of graphical rhetoric, his work is nevertheless a crucial study for our thinking about different insights, and consequently the arguments that can be made through different diagrammatic layouts of network data.\n下文片段（仅供参考）：connections between two fixed planes. Since these two layouts accommodate all possible connections, they draw our attention to where there are"
+    },
+    {
+      "id": "G02-P069-004",
+      "page": 69,
+      "rect": [
+        34.86381530761719,
+        431.8304443359375,
+        310.78546142578125,
+        455.4199523925781
+      ],
+      "en": "connections between two fixed planes. Since these two layouts accommodate all possible connections, they draw our attention to where there are",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "c99c3b2a8c9dba9564af3cb628d2b150ea9590cb85aa6178f9c171c5b691d64b",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：n any other node (which, as we see in Chapter 5, would mean it has the highest betweenness centrality). The parallel alignment diagram and the matrix reveal directionality and absence more explicitly than the network graphs because they both draw corresponding\n下文片段（仅供参考）：fi–Figure 12 Thisgure shows a number of different ways to present the same network data. On the left is source target pairs in a two-column table. The regular and irregular arrangement, circular, and "
+    },
+    {
+      "id": "G02-P070-001",
+      "page": 70,
+      "rect": [
+        265.4234924316406,
+        50.292110443115234,
+        319.9505920410156,
+        465.0985107421875
+      ],
+      "en": "fi–Figure 12 Thisgure shows a number of different ways to present the same network data. On the left is source target pairs in a two-column table. The regular and irregular arrangement, circular, and rectilinear are all network ’layouts in Bertins system. He distinguishes those node-link network graphs from the diagrams: parallel alignment and matrix. Diagram by the authors.",
+      "font_size": 9.962599754333496,
+      "rotation": 90,
+      "continuation": false,
+      "sha256": "6e52292cbe487b7aa2792243567f39dabb3a6025240126740c180a7f3c638e20",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：connections between two fixed planes. Since these two layouts accommodate all possible connections, they draw our attention to where there are\n下文片段（仅供参考）：none. Even with this simple overview, it quickly becomes apparent how much the arrangement of nodes influences our reading of a network."
+    },
+    {
+      "id": "G02-P071-002",
+      "page": 71,
+      "rect": [
+        34.886600494384766,
+        49.908390045166016,
+        310.84808349609375,
+        72.77629089355469
+      ],
+      "en": "none. Even with this simple overview, it quickly becomes apparent how much the arrangement of nodes influences our reading of a network.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "acfc796141527962fe998cf80521d92274192d1ca292fd5b24a7860730c76062",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： pairs in a two-column table. The regular and irregular arrangement, circular, and rectilinear are all network ’layouts in Bertins system. He distinguishes those node-link network graphs from the diagrams: parallel alignment and matrix. Diagram by the authors.\n下文片段（仅供参考）：What is useful about Bertin’s work is that it gives us a point of reference for reading the rhetoric encoded in design decisions. For example, if we return to Lombardi, we can see Lombardi’s drawings "
+    },
+    {
+      "id": "G02-P071-003",
+      "page": 71,
+      "rect": [
+        34.8866081237793,
+        73.05720520019531,
+        310.9476013183594,
+        347.853759765625
+      ],
+      "en": "What is useful about Bertin’s work is that it gives us a point of reference for reading the rhetoric encoded in design decisions. For example, if we return to Lombardi, we can see Lombardi’s drawings align with Bertin’s rules and extend them in unique ways. Lombardi’s networks are hand drawn with a fine black line on white paper, sometimes accented with red, with descriptive labels and notes. He distinguishes six different types of connection between nodes: 1) influence or control in one direction, 2) mutual connection, 3) financial connection, 4) sale or transfer of assets, 5) a blocked or incomplete transfer, and 6) the sale or spin-off of a property. Moreover, Lombardi uses the rectilinear arrangement of nodes to add a temporal dimension to the visual network. In some cases, instead of a one-to-one relationship between node and entity, an organisation (usually a financial institution) is represented as a horizontal line with a beginning and an end. These are the primary entities, depicted as chronologies rather than singular nodes. The differences in the quality of the lines (solid, dashed, broken, twisted) are difficult to see at a distance, making the scale of his work an important part of the experience of it (the final work is 129.9 cm x 349.9 cm). Stepping back from the work, it is possible to take it all in as a complete system. The labels and notes are not legible at that distance, though the lines and vertices are clear. Even if the temporality is not explicitly visible, the horizontal lines add another layered dimension to the connectedness. A distant reading complements the close reading. Standing next to the work, the different types of",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "f7d7a3de66fa82e988388f5fdfb297f07250e384a12928ed6b7d4808d319f8af",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：none. Even with this simple overview, it quickly becomes apparent how much the arrangement of nodes influences our reading of a network.\n下文片段（仅供参考）：connection and the handwritten labels and notes are easy to see. It encourages the reader to follow paths through the network, shifting their own position in relation to the artwork."
+    },
+    {
+      "id": "G02-P071-004",
+      "page": 71,
+      "rect": [
+        34.886627197265625,
+        348.79644775390625,
+        310.8232421875,
+        383.6892395019531
+      ],
+      "en": "connection and the handwritten labels and notes are easy to see. It encourages the reader to follow paths through the network, shifting their own position in relation to the artwork.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "56da3823b5c4dd38277a5be11349b863241be339a472866959e92b7c52bef4fd",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ugh the lines and vertices are clear. Even if the temporality is not explicitly visible, the horizontal lines add another layered dimension to the connectedness. A distant reading complements the close reading. Standing next to the work, the different types of\n下文片段（仅供参考）：Researchers have made attempts to automate Lombardi’s layout, to capture it as a reproducible algorithmic process. Indeed, there is a significant body of work in graph drawing studies called ‘Lombardi"
+    },
+    {
+      "id": "G02-P071-005",
+      "page": 71,
+      "rect": [
+        34.88661193847656,
+        383.9700927734375,
+        310.8680419921875,
+        467.385009765625
+      ],
+      "en": "Researchers have made attempts to automate Lombardi’s layout, to capture it as a reproducible algorithmic process. Indeed, there is a significant body of work in graph drawing studies called ‘Lombardi drawings’ (e.g. see Duncan et al., 2010). Such attempts, however, ignore the real value of his drawings and what is at stake in their creation. Lombardi was interested in evidence-based visual argument (the ‘narrative structure’) about specific individuals and organisations engaged in particular types of relationship",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "1986b482bc340fe8d6a9a174617095cc34c911c2549677af01aabdcdd1fd8f3a",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：connection and the handwritten labels and notes are easy to see. It encourages the reader to follow paths through the network, shifting their own position in relation to the artwork.\n下文片段（仅供参考）：over time. And his sketching process, leading up to the final presented work, captures the process of formulating that argument. Conversely, software programs for visualisation use predefined graphics"
+    },
+    {
+      "id": "G02-P072-002",
+      "page": 72,
+      "rect": [
+        49.17315673828125,
+        49.18680953979492,
+        325.1545715332031,
+        180.4022979736328
+      ],
+      "en": "over time. And his sketching process, leading up to the final presented work, captures the process of formulating that argument. Conversely, software programs for visualisation use predefined graphics libraries where much of the decision-making is pre-baked into the tool. They therefore take out of the user’s hands the experience of the roughly drawn sketch as part of a generative and exploratory thought process. Instead, it jumps right into the visually precise presentation that we associate with the argument. It is not only that computer graphics look precise, computer graphics software is encoded with assumptions about graphical meaning rooted in Bertin’s theory of graphics as monosemic and unambiguous.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "9b3a0a915c3e76512527c50112e6c7463c5b73933bf884cdda6f3908c845576b",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：owever, ignore the real value of his drawings and what is at stake in their creation. Lombardi was interested in evidence-based visual argument (the ‘narrative structure’) about specific individuals and organisations engaged in particular types of relationship\n下文片段（仅供参考）：Just because visualisation tools present results to us in ways that can be understood as deterministic does not mean we need to use them that way. But we do need to be aware of the assumptions encoded"
+    },
+    {
+      "id": "G02-P072-003",
+      "page": 72,
+      "rect": [
+        49.153228759765625,
+        181.40478515625,
+        325.1545715332031,
+        431.549560546875
+      ],
+      "en": "Just because visualisation tools present results to us in ways that can be understood as deterministic does not mean we need to use them that way. But we do need to be aware of the assumptions encoded in the tools we use so that we can bend them to our own needs. What follows is a comparison of two network visualisation packages often used in the humanities: Palladio and Gephi. Palladio uses interaction, filtering, and complementary visualisation modes to facilitate the exploration of multidimensional data sets. Gephi uses dynamic simulation to apply layout algorithms to generate graph network visualisations. The comparison is guided by what we expect to gain from the visualisation of data. Isabel Meirelles uses the words ‘descriptive’ and ‘argumentative’ to distinguish between visualisation for the exploration of data and visualisation for the communication of findings. She is careful to note that these are not either/or categories, but two poles of a continuum. Descriptive visualisation, Meirelles writes, is a reflection of direct mappings of the data – the who, what, where, and when – whereas argumentative visualisation tends to the more speculative (Meirelles, 2018). This approach to visualisation foregrounds our relationship to the data to be visualised. Lombardi’s BCCI project and some of his collected data are the common point of reference in our comparison to help reveal the advantages and potential pitfalls of using software-generated visual networks in the research process.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "4282aa1f9c8003f55f49e06adf7c849749465b734772fd691d37a44b5da8ab93",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：lly precise presentation that we associate with the argument. It is not only that computer graphics look precise, computer graphics software is encoded with assumptions about graphical meaning rooted in Bertin’s theory of graphics as monosemic and unambiguous.\n下文片段（仅供参考）：Palladio is a toolset rooted in an historical-cultural orientation to network analysis that is more art than science. It is the result of experimentation with custom-made visualisations designed to an"
+    },
+    {
+      "id": "G02-P072-004",
+      "page": 72,
+      "rect": [
+        49.153236389160156,
+        432.5520324707031,
+        325.26409912109375,
+        467.385009765625
+      ],
+      "en": "Palladio is a toolset rooted in an historical-cultural orientation to network analysis that is more art than science. It is the result of experimentation with custom-made visualisations designed to answer specific historical questions",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "7f433a47eb86603497dc6149b9835e7dad37c8488d650362cdb525dfb640c123",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：p to the data to be visualised. Lombardi’s BCCI project and some of his collected data are the common point of reference in our comparison to help reveal the advantages and potential pitfalls of using software-generated visual networks in the research process.\n下文片段（仅供参考）：about the shape of political, social, and intellectual communities in the early modern period (Edelstein et al., 2017; Coleman, 2020). The techniques deemed successful in those experiments were distil"
+    },
+    {
+      "id": "G02-P073-002",
+      "page": 73,
+      "rect": [
+        34.8865966796875,
+        49.908390045166016,
+        310.9576721191406,
+        192.3673858642578
+      ],
+      "en": "about the shape of political, social, and intellectual communities in the early modern period (Edelstein et al., 2017; Coleman, 2020). The techniques deemed successful in those experiments were distilled and combined into one suite of tools. The result is a basic force-directed bipartite network graph embedded within an interactive and interchangeable set of data views that includes a geospatial view, a tabular view, and filtering on temporal and categorical dimensions. The interactive tools are designed to work together to help reveal many types of connectedness by facilitating multiple different points of view combined with faceting and filtering on different dimensions of the data. It is assumed that no one view is complete, but that a more complete picture is understood as much by seeing what is missing as by seeing the extant data (see Rendgen & Weidemann, 2012: 155; Uboldi et al., 2013).",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "c21f6555f88f519b17939e50ee12f69dde5b0711a2f288abdf40042af9a1f988",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：Palladio is a toolset rooted in an historical-cultural orientation to network analysis that is more art than science. It is the result of experimentation with custom-made visualisations designed to answer specific historical questions\n下文片段（仅供参考）：An exploration of Lombardi’s data set with Palladio, for example, might begin with a map of the known locations. The text printed on the side of Lombardi’s Untitled sketch (Figure 10) indicates that B"
+    },
+    {
+      "id": "G02-P073-003",
+      "page": 73,
+      "rect": [
+        34.85673522949219,
+        192.64830017089844,
+        310.8580322265625,
+        419.58447265625
+      ],
+      "en": "An exploration of Lombardi’s data set with Palladio, for example, might begin with a map of the known locations. The text printed on the side of Lombardi’s Untitled sketch (Figure 10) indicates that BCCI was the brainchild of a Pakistani banker based in Karachi. The bank was controlled from Abu Dhabi, was incorporated in Luxembourg, was operated from London, Geneva, and the Cayman Islands, and was involved in joint ventures with local banks in Iran, Oman, France, and Switzerland. Since BCCI was, according to Lombardi, the legitimate front for the shadowy ICIC, examining the locations of individuals he believed were involved could reveal potential connections that might spur further research. Adding the time span filter in Palladio would make the data Lombardi has about when the entities formed and dissolved, cross-referenced with the timeline of specific dates when particular individuals met or financial transactions were recorded, available to filter, making it possible to quickly and easily zero in on which activities are taking place where and at what time. And since Lombardi seems to have more information about the relationships between people and organisations than about locations, he can look at the same filtered subset of data in a graph view to reveal connections between individuals and organisations at those moments in time.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "8d4ea7e84d9a0cc0ef4e5904ffc8066d8dc4d39b8d92c00207b1f720dea615a6",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： filtering on different dimensions of the data. It is assumed that no one view is complete, but that a more complete picture is understood as much by seeing what is missing as by seeing the extant data (see Rendgen & Weidemann, 2012: 155; Uboldi et al., 2013).\n下文片段（仅供参考）：This example demonstrates how Palladio can be used for sketching, in the sense of exploring, or thinking through data as a cognitive aid. It aids cognition by combining visualisations with the countin"
+    },
+    {
+      "id": "G02-P073-004",
+      "page": 73,
+      "rect": [
+        34.85673522949219,
+        420.5869445800781,
+        310.82818603515625,
+        467.385009765625
+      ],
+      "en": "This example demonstrates how Palladio can be used for sketching, in the sense of exploring, or thinking through data as a cognitive aid. It aids cognition by combining visualisations with the counting of values and categories that can easily be grouped and regrouped, arranged and",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "f77e18db96c1b58b9167d574fe86758a08201ea373e112550bd2c1d6f64acb54",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： seems to have more information about the relationships between people and organisations than about locations, he can look at the same filtered subset of data in a graph view to reveal connections between individuals and organisations at those moments in time.\n下文片段（仅供参考）：rearranged. The faceting and filtering combines with the visual description to enable a subtle interrogation of heterogeneous, multidimensional data sets by concept and duration rather than purely num"
+    },
+    {
+      "id": "G02-P074-002",
+      "page": 74,
+      "rect": [
+        49.17319869995117,
+        49.18680953979492,
+        325.15460205078125,
+        192.3673858642578
+      ],
+      "en": "rearranged. The faceting and filtering combines with the visual description to enable a subtle interrogation of heterogeneous, multidimensional data sets by concept and duration rather than purely numeric values. It was designed to be used with historical and archival data, with the assumption of incompleteness and uncertainty in the sources. Successful use of Palladio therefore requires the researcher to make inferences based on the visualised data, but it leaves space for the expert to fill in the gaps in the many cases where their knowledge of the subject extends beyond the data collected. It minimises automatic animation in favour of explicitly selected actions, to encourage reflection as views are reoriented and data is manipulated. The application is there not to run an analytical model but to facilitate modelling, to create space for assessment and imagination.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "dbfb3f04dc38e89e112e7b2820356acde40581f76b8d80164da90b4e7b9dd113",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ates how Palladio can be used for sketching, in the sense of exploring, or thinking through data as a cognitive aid. It aids cognition by combining visualisations with the counting of values and categories that can easily be grouped and regrouped, arranged and\n下文片段（仅供参考）：Gephi, by comparison, was developed in the context of the interdisciplinary e-Diasporas project to analyse online migrant communities (Diminescu, 2012). The underlying data, referred to as an e-diaspo"
+    },
+    {
+      "id": "G02-P074-003",
+      "page": 74,
+      "rect": [
+        49.17320251464844,
+        193.369873046875,
+        325.1645812988281,
+        467.385009765625
+      ],
+      "en": "Gephi, by comparison, was developed in the context of the interdisciplinary e-Diasporas project to analyse online migrant communities (Diminescu, 2012). The underlying data, referred to as an e-diaspora corpus, is a list of diasporic websites selected by the project authors. The tool reflects the project’s interest in the power of network science and the desire to visually expose network topology. Its creators describe it as the Photoshop of network graphs and it uses computer simulations to show layout algorithms acting on network data (Bastian, Heymann, & Jacomy, 2009). The force-directed layouts are a class of algorithms used frequently in Gephi and the visual form with which readers will be most familiar because of their increasing ubiquity through high-volume use of Gephi and similar tools. In a force-directed layout, each element of the network is modelled as though guided by unseen forces, much as in the physical world: gravity, electromagnetic repulsion, material elasticity. Nodes may be thought of as electrons on a two-dimensional plane, forcing each other apart as they approach one another, and the edges may be conceived of as springs physically anchored between two nodes, drawing them together even as they repulsively push away. The plane has no meaning; there are no axes defining categories against which to measure node position. But as we are already aware, we do come to these resulting images with a set of assumptions about meaning. Gephi also allows users to apply a whole range of quantitative measures (discussed further in Chapter 5) and then colour or resize visual elements according to those attributes.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "35cd5da60d961479045e32fb7209cf23414e6aaaab4036a26383b982292a1d4a",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ic animation in favour of explicitly selected actions, to encourage reflection as views are reoriented and data is manipulated. The application is there not to run an analytical model but to facilitate modelling, to create space for assessment and imagination.\n下文片段（仅供参考）：An analysis of Lombardi’s data set with Gephi would make it possible to automatically generate a calculated layout based on the connectedness of nodes in his network. Layout models embedded in a softw"
+    },
+    {
+      "id": "G02-P075-002",
+      "page": 75,
+      "rect": [
+        34.88371276855469,
+        49.18680953979492,
+        310.96478271484375,
+        252.1928253173828
+      ],
+      "en": "An analysis of Lombardi’s data set with Gephi would make it possible to automatically generate a calculated layout based on the connectedness of nodes in his network. Layout models embedded in a software application are extremely powerful. It makes it easy to quickly apply a given model to lots and lots of data. However, by making it so easy to apply multiple different layouts to the same data set, small data problems can be overlooked and amplified. In the scientific context, where network analysis is based on equations and resulting measures, computer-generated graphics like those produced with Gephi have come under scrutiny for unnecessarily introducing ambiguity into a reading of network topology. The argument is that spatial arrangements, colours, shapes, and labels complicate measurements that are more clearly presented numerically. But the source of confusion in network graphics resulting from powerful visualisation tools like Gephi may have more to do with the fact that visualisation is too often learned rather than taught. Too often users allow the software to determine the layout or become enamoured of the visualisation and animation, losing sight of the intent to accomplish something on the spectrum of description to argument.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "b41084db9dc8635e1c4b7109c23cd5f0f7c3cf4f725380147b5213121db54b81",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：are, we do come to these resulting images with a set of assumptions about meaning. Gephi also allows users to apply a whole range of quantitative measures (discussed further in Chapter 5) and then colour or resize visual elements according to those attributes.\n下文片段（仅供参考）：Tommaso Venturini, Mathieu Jacomy, and Pablo Jensen have begun to address this challenge by explicitly defining the strengths and weaknesses of what they have called visual network analysis (VNA) and "
+    },
+    {
+      "id": "G02-P075-003",
+      "page": 75,
+      "rect": [
+        34.88372039794922,
+        253.13552856445312,
+        310.906005859375,
+        467.385009765625
+      ],
+      "en": "Tommaso Venturini, Mathieu Jacomy, and Pablo Jensen have begun to address this challenge by explicitly defining the strengths and weaknesses of what they have called visual network analysis (VNA) and providing guidelines for how to make effective use of algorithmic layouts to expose the topological structure of large networks (Venturini, Jacomy, & Jensen, 2019). The diagrammatic network layouts Bertin offered – which provide visual clarity through either symmetry or minimising overlapping connections – break down when networks reach the size of several hundred or thousands of nodes. The argument underlying VNA is that understanding the conceptual and mathematical underpinnings of the layout algorithms and choosing appropriate settings can result in effective, legible graph spatialisation. Even though the specific position of each node on the plane is not relevant, the density (or lack of density) of nodes is. And though the structure of the visualised graph does not strictly correlate with the underlying mathematical calculations of the network, the structure that emerges through polarisation of nodes, even in a very large network, functions effectively as exploratory data analysis (Tukey, 1977). Selectively highlighting variables in the data reveal patterns. Nodes can be sized according to degree measures (see Chapter 5);",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "6a84dfe49575842bfc1180dcd37c8241da5430150331e142dd3c1539b12cd6a5",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：alisation is too often learned rather than taught. Too often users allow the software to determine the layout or become enamoured of the visualisation and animation, losing sight of the intent to accomplish something on the spectrum of description to argument.\n下文片段（仅供参考）：brightness can be applied to continuous numerical variables and hue for categorical variables. And just as with the experience of Lombardi’s drawing, here closeness and distance are both revealing: zo"
+    },
+    {
+      "id": "G02-P076-002",
+      "page": 76,
+      "rect": [
+        49.173187255859375,
+        49.908390045166016,
+        325.1826171875,
+        120.63664245605469
+      ],
+      "en": "brightness can be applied to continuous numerical variables and hue for categorical variables. And just as with the experience of Lombardi’s drawing, here closeness and distance are both revealing: zooming in and out in a Gephi visualisation makes global and local patterns visible. Even if the end goal is not a statistical reading of the network, the statistical readings available through Gephi provide intellectual prompts to examine your data in new ways.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "cec39dd1f43611da8ad143e2caa2cdefa8d864ef681887c8631c790c0c667e5b",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：rges through polarisation of nodes, even in a very large network, functions effectively as exploratory data analysis (Tukey, 1977). Selectively highlighting variables in the data reveal patterns. Nodes can be sized according to degree measures (see Chapter 5);\n下文片段（仅供参考）：Lombardi’s work, Palladio, and Gephi represent three different kinds of visual engagement with data that require and deliver different levels of artistry, control, and quantitative engagement, but all"
+    },
+    {
+      "id": "G02-P076-003",
+      "page": 76,
+      "rect": [
+        49.16322326660156,
+        120.91755676269531,
+        325.2543029785156,
+        407.619384765625
+      ],
+      "en": "Lombardi’s work, Palladio, and Gephi represent three different kinds of visual engagement with data that require and deliver different levels of artistry, control, and quantitative engagement, but all of them encourage an important process of exploration. Network visualisations are often critiqued as either overly reductive (in terms of content and context) or absurdly illegible (in terms of visual complexity), yet they bring an immediacy to our perception of information. Graphics as a system for the creation and presentation of knowledge requires our attention. Graphics can, and often are, used throughout a research process from sketch drawings that help us build intuitions about connectivity, to descriptive data visualisation, to visual arguments in a final publication. Though data analysis is widely considered synonymous with particular forms of visualisation these days, charts and graphs were not widely accepted until they were formalised in the midtwentieth century when computing and, specifically, computational information processing was on the rise. Statisticians Jacques Bertin and John Tukey, whose careers spanned the latter half of the twentieth century, were both pioneering figures who solidified the role of visualisation in providing insights that would otherwise be missed in mathematical data analysis. Bertin anticipated that the automation computers provide in calculation, combined with the ability to transform and reorder via computer display, would enable visualisation of much larger data sets. He seemed confident that computer graphics would be the apotheosis of his goal to produce ‘the simplest and thus most communicable image’. However, one could argue that the ideal Bertin imagined has gotten away from us.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "9276a2c800e6869b6f0f6e7fc1c6794df0376ef6e7c149f82b6c641a0bfdc6c0",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：oming in and out in a Gephi visualisation makes global and local patterns visible. Even if the end goal is not a statistical reading of the network, the statistical readings available through Gephi provide intellectual prompts to examine your data in new ways.\n下文片段（仅供参考）：Cultural phenomena that Bertin could not have anticipated have radically changed our relationship to data graphics. Our day-to-day familiarity with mapping services is a case in point. We not only acc"
+    },
+    {
+      "id": "G02-P076-004",
+      "page": 76,
+      "rect": [
+        49.16322326660156,
+        408.6218566894531,
+        325.1346435546875,
+        467.385009765625
+      ],
+      "en": "Cultural phenomena that Bertin could not have anticipated have radically changed our relationship to data graphics. Our day-to-day familiarity with mapping services is a case in point. We not only accept but rely upon their cartographic conventions to reduce the complexity of the landscape in order to serve a particular purpose: wayfinding. We navigate from point to",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "c5e7a8876e658e953072dd472ba8b4f79566cefdde3ad944d01a8d1bcbdc4488",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）： visualisation of much larger data sets. He seemed confident that computer graphics would be the apotheosis of his goal to produce ‘the simplest and thus most communicable image’. However, one could argue that the ideal Bertin imagined has gotten away from us.\n下文片段（仅供参考）：point, implicitly accepting the abstraction of the map because we have our embodied experience of walking, riding, and driving streets to fill in the gaps. We know that travel between two nodes is ric"
+    },
+    {
+      "id": "G02-P077-002",
+      "page": 77,
+      "rect": [
+        34.87666320800781,
+        49.908390045166016,
+        310.8580627441406,
+        216.2975616455078
+      ],
+      "en": "point, implicitly accepting the abstraction of the map because we have our embodied experience of walking, riding, and driving streets to fill in the gaps. We know that travel between two nodes is rich and layered; it is never a straight line. We have learned to reframe space in scale from a global view to the city streets with longitude and latitude and familiar geography as a guide. We trust these constantly shifting maps perhaps because we are so aware of their limitations or because we rely on their convenience. As a result, we allow ourselves to be led by them, unaware of or tacitly accepting their encoded intention. The intervention of software as an unseen hand in the construction of visualisations presents new challenges to our reading of them. When the direct connection between the author and the output is not evident in the form, we can be seduced into experiencing visualisation as objective. This is even more likely when the map layer is removed and what is left is a visualised network graph without a physical referent.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "3290108035bc4348b8d9d4cea775166883e17e6f01502f23f44fa6eb8b61d280",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：aphics. Our day-to-day familiarity with mapping services is a case in point. We not only accept but rely upon their cartographic conventions to reduce the complexity of the landscape in order to serve a particular purpose: wayfinding. We navigate from point to\n下文片段（仅供参考）：Spatialisation of nodes and links, vectors and vertices, without reference to scale or familiar geospatial markers is unsettling and confrontational. And yet, eschewing the Cartesian hand-holds of the"
+    },
+    {
+      "id": "G02-P077-003",
+      "page": 77,
+      "rect": [
+        34.87666320800781,
+        217.300048828125,
+        310.85809326171875,
+        455.4199523925781
+      ],
+      "en": "Spatialisation of nodes and links, vectors and vertices, without reference to scale or familiar geospatial markers is unsettling and confrontational. And yet, eschewing the Cartesian hand-holds of the map reveals patterns and movement that would otherwise be obscured or overshadowed by the expectations we bring to the geospatial framing of data. It focuses our attention differently – from topography to the line and its inherent relationships. The points, lines, and areas by themselves can be disorienting and challenge our assumptions about what is significant in the data. At the same time, our relationship to data has changed radically in this century. Not only is there much more of it, it is much more personal. As a result, we are better able to see the human-scale biases and assumptions behind the abstract and inherently fragmented visualisation of networks. Just as networks are always metaphorical, visual networks are as much about schema as they are a set of relationships and measurements. These opportunities and challenges of the network have been seized upon by artists, scholars, and, more recently, the developers of visualisation tools and libraries. The need to concretise the abstract has given way to the desire to communicate expressively now that we have extremely powerful tools with which to fulfil that desire. The challenge is to redefine the role of graphics in network analysis for the future of network science, design, and humanistic inquiry.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "562700a7e1cc9e99b7541ed65600390dd87612a05fdcf8b044e2b2023a215e7e",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：ion between the author and the output is not evident in the form, we can be seduced into experiencing visualisation as objective. This is even more likely when the map layer is removed and what is left is a visualised network graph without a physical referent.\n下文片段（仅供参考）：Dan Rosenberg, for example, posits a different analytic goal of"
+    },
+    {
+      "id": "G02-P077-004",
+      "page": 77,
+      "rect": [
+        34.87666320800781,
+        456.4223937988281,
+        310.8182067871094,
+        467.385009765625
+      ],
+      "en": "Dan Rosenberg, for example, posits a different analytic goal of",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "b60139c2be3a03dbd79e954418c85bc687b1e6f7a862d59a73bcf1beed22b030",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：n way to the desire to communicate expressively now that we have extremely powerful tools with which to fulfil that desire. The challenge is to redefine the role of graphics in network analysis for the future of network science, design, and humanistic inquiry.\n下文片段（仅供参考）：visualisation: ‘to complicate rather than simplify, to open multiple avenues of inquiry, and, most importantly, to challenge the stability of underlying data, in fact or in principle’ (Rosenberg, 2016"
+    },
+    {
+      "id": "G02-P078-002",
+      "page": 78,
+      "rect": [
+        49.173194885253906,
+        49.18680953979492,
+        325.14459228515625,
+        84.74137878417969
+      ],
+      "en": "visualisation: ‘to complicate rather than simplify, to open multiple avenues of inquiry, and, most importantly, to challenge the stability of underlying data, in fact or in principle’ (Rosenberg, 2016).",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "fda7dc705b517a70f108c7d031a25ec577d622a3f9d062b767475804a87b6da0",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：Dan Rosenberg, for example, posits a different analytic goal of\n下文片段（仅供参考）：The fact that dense and complex networks resemble neural connections in the brain, rhizomatic weed roots pulled from the ground, twenty-four hours of airline flight, or the exchange of information ove"
+    },
+    {
+      "id": "G02-P078-003",
+      "page": 78,
+      "rect": [
+        49.183135986328125,
+        85.7438735961914,
+        325.26422119140625,
+        299.993408203125
+      ],
+      "en": "The fact that dense and complex networks resemble neural connections in the brain, rhizomatic weed roots pulled from the ground, twenty-four hours of airline flight, or the exchange of information over the Internet, communicates something about the very real complexity we experience in our everyday lives at many different scales, which we need to interrogate. We propose that visualisation is not better than narrative argument or mathematical equations for communicating ideas, but that it provides an additional means of producing, exploring, and analysing information that has proven value in both the liberal arts and the sciences. When working with data, visualisation can help reveal gaps that narrative-based research practices do not expose, or uncover qualities in data sets that can easily be overlooked when we focus only on numbers and calculations. Moreover, it is rhetorically powerful. Visualisations of networks are unsettling because the graphical language used to produce them is not, in fact, precise. For these reasons, we argue that visualisation has a challenging and provocative role to play in the development of network approaches to culture, a role that needs to be fully integrated into an iterative and self-reflexive research process. In Part III, we outline the manoeuvres that make up that process.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": true,
+      "sha256": "b16d606db72bcf0a8380d2d2f4c7e83447d8690fc7028f197781682262d1369a",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：visualisation: ‘to complicate rather than simplify, to open multiple avenues of inquiry, and, most importantly, to challenge the stability of underlying data, in fact or in principle’ (Rosenberg, 2016).\n下文片段（仅供参考）：Part III Manoeuvres"
+    },
+    {
+      "id": "G02-P079-001",
+      "page": 79,
+      "rect": [
+        126.6156997680664,
+        181.29019165039062,
+        219.07998657226562,
+        194.2452850341797
+      ],
+      "en": "Part III Manoeuvres",
+      "font_size": 11.955100059509277,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "765bc2cac7b29364f92891fb0790c0cb1a6e9e39e04298216fa83e6ad06db24d",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：as a challenging and provocative role to play in the development of network approaches to culture, a role that needs to be fully integrated into an iterative and self-reflexive research process. In Part III, we outline the manoeuvres that make up that process.\n下文片段（仅供参考）：Network analysis provides a set of manoeuvres: intellectual manoeuvres that refigure cultural objects in our minds as abstract systems of nodes and edges; mechanical manoeuvres that structure data and"
+    },
+    {
+      "id": "G02-P079-002",
+      "page": 79,
+      "rect": [
+        46.84879684448242,
+        208.13827514648438,
+        310.84521484375,
+        309.7904052734375
+      ],
+      "en": "Network analysis provides a set of manoeuvres: intellectual manoeuvres that refigure cultural objects in our minds as abstract systems of nodes and edges; mechanical manoeuvres that structure data and that navigate input versus output; and manoeuvres between a landscape of abstraction and research questions that are steeped in contextual information. These manoeuvres dismantle the binaries between distant and close reading, quantitative and qualitative analysis, the nomothetic and idiographic, and, in so doing, create new norms of practice and inquiry.",
+      "font_size": 9.962599754333496,
+      "rotation": 0,
+      "continuation": false,
+      "sha256": "93dd0632be5d505df659d9e526907804ae53fa5d29eb0ed238f8b325c8fe1e78",
+      "context": "文献题名：The Network Turn: Changing Perspectives in the Humanities。\n上文片段（仅供参考）：Part III Manoeuvres\n下文片段（仅供参考）："
+    }
+  ],
+  "excluded": [
+    {
+      "page": 58,
+      "text": "A",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "X",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "Y",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "B",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "Z",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "A B 2",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "X",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "1",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "1",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "Y",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 58,
+      "text": "Z 2",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 68,
+      "text": "(a) (b)",
+      "reason": "running margin / non-prose; source preserved in appendix"
+    },
+    {
+      "page": 51,
+      "text": "The Network Turn 43",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 51,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 52,
+      "text": "44 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 52,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 53,
+      "text": "The Network Turn 45",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 53,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 54,
+      "text": "46 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 54,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 55,
+      "text": "The Network Turn 47",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 55,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 56,
+      "text": "48 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 56,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 57,
+      "text": "The Network Turn 49",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 57,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 58,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 59,
+      "text": "The Network Turn 51",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 59,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 60,
+      "text": "52 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 60,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 61,
+      "text": "The Network Turn 53",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 61,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 62,
+      "text": "54 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 62,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 63,
+      "text": "The Network Turn 55",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 63,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 64,
+      "text": "56 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 64,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 65,
+      "text": "The Network Turn 57",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 65,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 66,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 67,
+      "text": "The Network Turn 59",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 67,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 68,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 69,
+      "text": "The Network Turn 61",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 69,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 70,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 71,
+      "text": "The Network Turn 63",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 71,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 72,
+      "text": "64 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 72,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 73,
+      "text": "The Network Turn 65",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 73,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 74,
+      "text": "66 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 74,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 75,
+      "text": "The Network Turn 67",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 75,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 76,
+      "text": "68 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 76,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 77,
+      "text": "The Network Turn 69",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 77,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 78,
+      "text": "70 Publishing and Book Culture",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 78,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 79,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    },
+    {
+      "page": 80,
+      "text": "Published online by Cambridge University Presshttps://doi.org/10.1017/9781108866804",
+      "reason": "running header/footer; retained in original-page appendix"
+    }
+  ]
+}

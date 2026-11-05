@@ -1,0 +1,47 @@
+{
+  "output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/04_Excel数据/敦煌传播网络_最终展示数据_132节点157关系.xlsx",
+  "engine": "@oai/artifact-tool",
+  "recalculated": true,
+  "counts": [
+    132,
+    157,
+    48,
+    57,
+    21
+  ],
+  "source": "最终数据提取.json",
+  "sheets": [
+    {
+      "name": "01_Gephi节点",
+      "key": "nodes",
+      "rows": 132,
+      "columns": 19
+    },
+    {
+      "name": "02_Gephi关系",
+      "key": "edges",
+      "rows": 157,
+      "columns": 22
+    },
+    {
+      "name": "03_活动记录",
+      "key": "events",
+      "rows": 48,
+      "columns": 22
+    },
+    {
+      "name": "04_证据定位",
+      "key": "evidence",
+      "rows": 57,
+      "columns": 10
+    },
+    {
+      "name": "05_引用文献",
+      "key": "sources",
+      "rows": 21,
+      "columns": 5
+    }
+  ],
+  "visual_previews": 6,
+  "native_excel_open": "not checked"
+}

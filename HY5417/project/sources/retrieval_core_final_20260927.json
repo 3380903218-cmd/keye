@@ -1,0 +1,15 @@
+[
+  {
+    "id": "aup_book",
+    "url": "https://www.aup.nl/en/book/9789089643247/singapore-in-global-history",
+    "status": 200,
+    "final_url": "https://www.routledge.com/Singapore-in-Global-History/Heng-KhairudinAljunied/p/book/9789089643247",
+    "bytes": 152056,
+    "links": []
+  },
+  {
+    "id": "oapen_download",
+    "url": "https://www.oapen.org/download?type=document&docid=381653",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

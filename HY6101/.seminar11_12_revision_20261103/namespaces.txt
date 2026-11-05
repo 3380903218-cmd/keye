@@ -1,0 +1,3 @@
+PASSED: /Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx
+  SHA-256: 13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865; XML parts: 18
+Scope: namespace references only; Microsoft Word normal-open verification is still required.

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "L01",
+    "pages": 25,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "fd02bd0cf3ed0ec94bade8da6f07c8f82a4f300270e9c6173c202ef031036888"
+  },
+  {
+    "id": "L02",
+    "pages": 21,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "58537191080642fd374ae7ff9314ba7ddbb5258456423bc4879a0852b7652c5c"
+  },
+  {
+    "id": "L04",
+    "pages": 20,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "256c6d9632c2e449876957d0887eec3d6986f539f465cbccef830ad8639282ee"
+  },
+  {
+    "id": "L05",
+    "pages": 10,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "3a27828abc67a56bc8794aef11a4b1033b714bd9c0b212b9e60de7df3d89f729"
+  },
+  {
+    "id": "L07",
+    "pages": 15,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "1e213dbe6940e58d7a5685ac5d648299d300ce70e4723d3601508ecae95c56dd"
+  },
+  {
+    "id": "L08",
+    "pages": 18,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "9136ba440284a1cb64060750b3433aade7b04267885a32334daea26e99e6a8f7"
+  },
+  {
+    "id": "L09",
+    "pages": 9,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "6903b3b6f2dd49ae01538fd9a7e20d5952d867acaa318adc147d7834c7b1815b"
+  },
+  {
+    "id": "L10",
+    "pages": 9,
+    "pypdf": "passed",
+    "pymupdf": "passed",
+    "sha256": "811a65e66b99750236beb61d8f93451f3d4f97bede9a380392d59637f021728e"
+  }
+]

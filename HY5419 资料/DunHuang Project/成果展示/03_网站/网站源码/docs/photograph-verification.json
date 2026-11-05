@@ -1,0 +1,586 @@
+{
+  "version": "2.3.0",
+  "date": "2026-10-29T11:20:43.578Z",
+  "base": "http://localhost:8780/",
+  "checks": [
+    {
+      "name": "three photographs 320/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/320/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/320/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/320/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/320/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/320/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/320/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/320/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/320/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/320/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/320/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/320/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/320/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 320/en",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 320/en",
+      "passed": true
+    },
+    {
+      "name": "all source links present 320/en",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 320/en",
+      "passed": true
+    },
+    {
+      "name": "three photographs 320/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/320/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/320/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/320/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/320/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/320/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/320/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/320/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/320/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/320/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/320/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/320/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/320/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 320/zh",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 320/zh",
+      "passed": true
+    },
+    {
+      "name": "all source links present 320/zh",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 320/zh",
+      "passed": true
+    },
+    {
+      "name": "three photographs 390/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/390/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/390/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/390/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/en",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 390/en",
+      "passed": true
+    },
+    {
+      "name": "all source links present 390/en",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 390/en",
+      "passed": true
+    },
+    {
+      "name": "three photographs 390/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/390/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/390/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/390/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/zh",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 390/zh",
+      "passed": true
+    },
+    {
+      "name": "all source links present 390/zh",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 390/zh",
+      "passed": true
+    },
+    {
+      "name": "three photographs 768/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/768/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/768/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/768/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/768/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/768/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/768/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/768/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/768/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/768/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/768/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/768/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/768/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768/en",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 768/en",
+      "passed": true
+    },
+    {
+      "name": "all source links present 768/en",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 768/en",
+      "passed": true
+    },
+    {
+      "name": "three photographs 768/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/768/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/768/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/768/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/768/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/768/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/768/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/768/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/768/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/768/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/768/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/768/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/768/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768/zh",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 768/zh",
+      "passed": true
+    },
+    {
+      "name": "all source links present 768/zh",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 768/zh",
+      "passed": true
+    },
+    {
+      "name": "three photographs 1440/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/1440/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/1440/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/1440/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/1440/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/1440/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/1440/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/1440/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/1440/en",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/1440/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/1440/en",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/1440/en",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/1440/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440/en",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 1440/en",
+      "passed": true
+    },
+    {
+      "name": "all source links present 1440/en",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 1440/en",
+      "passed": true
+    },
+    {
+      "name": "three photographs 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 0/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 0/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 0/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 0/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 1/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 1/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 1/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 1/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "photo loads at original size 2/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard opens viewer 2/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "caption and full image agree 2/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "Escape restores focus 2/1440/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "alt text translates 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "all source links present 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "internal chapter link stays in same tab 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "relationship guide retains four original links",
+      "passed": true
+    },
+    {
+      "name": "full Gephi retains 122 nodes and 136 links",
+      "passed": true
+    },
+    {
+      "name": "preservation examples retained",
+      "passed": true
+    },
+    {
+      "name": "five collecting institutions retained",
+      "passed": true
+    },
+    {
+      "name": "no script errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no failed asset requests",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no external image or service dependencies",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "externalAssets": [],
+  "passed": true
+}

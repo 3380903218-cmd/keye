@@ -1,0 +1,9 @@
+FILE /Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_Reading_Reflection_English.docx
+STATUS ok
+SUMMARY errors=0 issues=0 info=2
+[INFO] field_codes_present count=4: Field-code structures are present and may require preservation during edits.
+  details={"fldChar":3,"fldSimple":0,"instrText":1}
+[INFO] footnotes_or_endnotes_present count=10: Footnote or endnote structures are present.
+  details={"endnotes":{"elements":2,"parts":["word/endnotes.xml"]},"footnotes":{"elements":8,"parts":["word/footnotes.xml"]}}
+SCOPE Read-only package-structure audit; this does not verify rendered appearance, pagination, or semantic correctness.
+OVERALL files=1 ok=1 with_issues=0 read_errors=0 exit_code=0

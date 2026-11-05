@@ -1,0 +1,18 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-29",
+  "period": "1900–1910",
+  "sourceFile": "Untitled.gexf",
+  "sourceHash": "edf3f7dd37e31d7f23e500b23d16a438b712574d338e5d0a4bb51baf40714c90",
+  "researchHash": "c7914bf2de5ce955919391ed23310b9a8deedaf6f1c3a9f20aeecbde29da9ad3",
+  "counts": {
+    "nodes": 122,
+    "edges": 136,
+    "events": 42,
+    "sources": 21,
+    "evidence": 49
+  },
+  "geometry": "User Gephi 0.11.3 export; y inverted only for SVG screen coordinates",
+  "translations": "English reading summaries of existing Chinese event notes and evidence; original Chinese retained",
+  "sourceFilesUnchanged": true
+}

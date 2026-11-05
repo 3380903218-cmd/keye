@@ -1,0 +1,1097 @@
+=== PDF 1 ===
+The Chinese Historical Review
+ISSN: 1547-402X (Print) 2048-7827 (Online) Journal homepage: www.tandfonline.com/journals/ytcr20
+Creating Heritage and the Mission Paul Pelliot:
+Early Photography of Dunhuang and their Legacy
+Marine Cabos
+To cite this article: Marine Cabos (2018) Creating Heritage and the Mission Paul Pelliot: Early
+Photography of Dunhuang and their Legacy, The Chinese Historical Review, 25:2, 97-117, DOI:
+10.1080/1547402X.2018.1522817
+To link to this article:  https://doi.org/10.1080/1547402X.2018.1522817
+Published online: 02 Nov 2018.
+Submit your article to this journal 
+Article views: 420
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ytcr20
+
+
+=== PDF 2 ===
+CREATING HERITAGE AND THE MISSION
+PAUL PELLIOT: EARLY PHOTOGRAPHY OF
+DUNHUANG AND THEIR LEGACY
+MARINE CABOS
+University of London, UK
+L’École des hautes études en sciences sociales, France
+This article addresses the impact of photographs produced during campaigns of
+exploration in Northwest China during the transition period between the last
+decades of the nineteenth century and the early twentieth century. I propose to
+focus on an area that had experienced intense scrutiny, namely the oasis of Dun-
+huang. By scrutinizing the extensive photographic archive created during the
+French Mission Paul Pelliot (1906–08), this paper underlines the emergence of pres-
+ervation and archaeological concerns, and the growing place of photography in aca-
+demic disciplines like archaeology, while highlighting how these images interacted
+with local and international cultures. Addressing these questions is intended to
+help delineate the photographs’ visual grammar and to gauge their effect in (re)con-
+stituting China’s national heritage.
+KEYWORDS: late imperial China, archaeology, cultural heritage, visual narrative, Paul
+Pelliot, Charles Nouette, Dunhuang
+The use of photography in campaigns of exploration occurred across many hinter-
+land regions in China, such as in Yunnan, Mongolia, and Tibet. And yet it is the pic-
+tures of sites on the century-old silk roads departing from the Gansu and Xinjiang
+provinces in Northwest China that deserve particular attention due to their sub-
+sequent widespread diffusion and their ability to stimulate international inter-
+actions.1 Within this broad framework I propose to focus on an area that
+experienced intense scrutiny at the turn of the twentieth century, namely the oasis
+of Dunhuang (燉煌) and its now UNESCO-preserved Mogao Caves—also called
+the Thousand-Buddha Caves (Qianfodong, 千佛洞). This Buddhist pilgrimage site
+encompasses nearly five hundred caves built between the fourth and tenth
+1 In accordance with current views, I prefer to use the term silk roads instead of the term “Silk
+Road” coined in 1877 by the geographer Baron Ferdinand von Richthofen (1833–1905). There are
+few reasons why the umbrella term Silk Road is misleading. First the acceptance of the term started
+only in the mid-to-late 1930. Second it does not reflect the actual plurality of roads crossing
+Eurasia. Third it neglects the fact that goods traded included not only silk but also spices,
+metals, and saddles among other goods. V. Hansen, The Silk Road: A New History (Oxford:
+Oxford University Press, 2012), 5–7.
+The Chinese Historical Review, 25. 2, 97–117, November 2018
+© The Chinese Historical Review 2018
+DOI 10.1080/1547402X.2018.1522817
+
+
+=== PDF 3 ===
+century, inside which were unearthed many rare wall paintings, stucco images,
+sculptures, and architecture.
+“No place was more important than Dunhuang.”2 This superlative sentence
+reflects a burst of international interest in this oasis located in Gansu province in
+Northwest China, and in the larger region of Xinjiang province and Central Asia
+during the transition period between the last decades of the nineteenth century
+and the early twentieth century.3 This attraction began with the unexpected discov-
+ery of a Buddhist manuscript that was purchased by the British Captain Bower in
+1889 in Khotan, as well as a similar artifact found during the expedition lead by
+the French geographer Jules-Léon Dutreuil de Rhins (1846–94) between 1890 and
+1895.4 Concomitantly, the Russian General Consul of Kashgar, Petrovski, began
+to gather an important collection of terracotta items and manuscripts.5 A few
+years later in 1900, the Daoist priest Wang Yuanlu—who settled down at the
+Mogao Caves and dedicated his life to their preservation—randomly unearthed a
+small side chamber hidden behind a plastered doorway in cave sixteen in Dunhuang
+while he was clearing of sand from the entrance.6 This chamber, abandoned for cen-
+turies, contained rolled-up scrolls and paintings among a variety of other ancient
+documents piled-up from the floor to ceiling.
+The information about these discoveries quickly propagated, causing groups of
+Russian, German, Swedes, Japanese, French, and later Chinese adventurers and
+archaeologists to flock into this western frontier of China at the edge of the Takla-
+makan Desert.7 Still underused as historical sources, these groups frequently created
+exhaustive photographic surveys and established a specific visual grammar that
+enable us to grasp how this area was defined and understood. Amongst them, a
+French expedition under the guidance of the French scholar Paul Pelliot (1878–
+1945) conducted between 1906 and 1908 gave one of its participants, Charles
+Nouette (1869–1910), the opportunity to constitute a comprehensive archive of
+over fifteen hundred photographs. To date, Pelliot’s expedition has been studied
+in relation to its historical, archaeological, political, and museological consequences.
+However, the substantial corpus of photographs it generated remains overlooked.8 I
+2 Y. Mo, “Itineraries for a republic—tourism and travel culture in modern China, 1866–1954”
+(PhD diss., University of California, 2011), 111.
+3 Central Asia is generally thought of as a region encompassing Kazakhstan, Uzbekistan,
+Tajikistan, Kyrgyzstan, and Turkmenistan, which are bounded on the north by Russia and on
+the south by Iran, Afghanistan, and China.
+4 J. P. Desroches, E. Starcky and C. Gras, Âges et visages de l’Asie : un siècle d’exploration à
+travers les collections du musée Guimet : Dijon, Musée des Beaux-arts, juillet-octobre 1996 (Dijon:
+Le Musée, 1996), 116.
+5 P. Pelliot, J. Hackin and J. Bacot, Bulletin Archéologique Du Musée Guimet: Asie Centrale Et
+Tibet : Missions Pelliot Et Bacot (documents Exposés Au Musée Guimet) (Paris: G. Van Oest,
+1921), 5.
+6 R. Whitfield, S. Whitfield and N. Agnew, Cave Temples of Mogao: Art and History on the
+Silk Road (Los Angeles: Getty Conservation Institute and the J. Getty Museum, 2000), 34.
+7 C. Debaine-Francfort, The Search for Ancient China (New York: Harry N. Abrams, 1999),
+21.
+8 The following is a selection of the latest scholarships on Pelliot. M. Zink, J.P. Drège,
+G. J. Pinault, C. A. Scherrer-Schaub and P. E. Will, Paul Pelliot: de l’histoire à la légende : colloque
+international organisé au collège de France et à l’Académie des Inscriptions et Belles-Lettres (palais
+De L’institut), 2–3 Octobre 2008 (Paris: Académie des Inscriptions et Belles-Lettres, 2013);
+98
+MARINE CABOS
+
+
+=== PDF 4 ===
+propose to help to rectify this in this paper as Nouette’s photographs provide a
+useful case study for examining the emergence of preservation and archaeological
+concerns, the growing place of photography in academic disciplines like archaeol-
+ogy, while highlighting how these images interacted with local and international cul-
+tures. Addressing these questions is intended to help delineate the photographs’
+visual codes and gauge their effect in (re)constituting China’s national heritage.
+The main sources tapped in this paper include the archives found in the Musée
+Guimet (Paris), such as original notebooks and letters, original photographs,
+volumes published in 1914, as well as early twentieth century manuals of field
+archaeology, early twentieth century periodicals in Chinese and French, and later
+publications that made use of Nouette’s photographs.9
+THE MAKING OF A PLACE: DUNHUANG THROUGH THE LENS
+It is important to remember that the production of photographs of Dunhuang
+acted within a particular global context. In fact, this period starting from the
+1890s corresponded to the moment when the region was still under construction,
+while experiencing dramatic political and military turmoil. In 1864 the Muslim
+Rebellion broke out, dividing the region, and leading to the establishment of a
+short-lived independent Muslim regime which was later crushed by the Qing
+Dynasty’s armies and transformed in 1884 into the autonomous region hereafter
+named Xinjiang (“New Territories”).10 Although nominally under the stranglehold
+of Qing authority, this region was still marked by the presence of multiple ethnici-
+ties, notably by the majority Uyghur population. Following this in the 1890s, the
+French attempted to expand their authority, notably in the economic sphere in
+Central Asia in collaboration with Russia. However, German, Russian, and
+British powers retained a substantial stranglehold on the region.11 The rivalry
+between Russian and British powers over this region is often referred to as the
+“Great Game” and relates to the efforts made by both countries to expand their
+territories in search of mineral potentials and political hegemony, two strong
+driving forces.12
+In face of this intense local and international rivalry, expeditions conducted under
+the umbrella term of science were a useful pretext for entering and scrutinizing
+P. Pelliot, J. Ghesquière and F. Macouin, Carnets de route: 1906–1908 (Paris: Indes savantes, 2008);
+H. Walravens, Paul Pelliot (1878–1945): His Life and Works : a Bibliography (Bloomington, IN:
+Indiana University, Research Institute for Inner Asian Studies, 2001).
+9 A great majority of Chinese periodicals have been digitized on Dacheng 大成and Chinese
+Periodical Full-text Database民國時期期刊全文數據庫. Most French periodicals can be found at
+the Bibliothèque nationale de France and its digital library Gallica.
+10 The Qing Dynasty ruled China between 1644 and 1911. For an in-depth study on the
+Muslim Rebellion in this region, see: H.D. Kim, Holy War in China: The Muslim Rebellion and
+State in Chinese Central Asia, 1864–1877 (Stanford, CA: Stanford University Press, 2004).
+11 S. Gorshenina, Explorateurs en Asie centrale: voyageurs et aventuriers de Marco Polo à Ella
+Maillart (Genéve: Éditions Olizane, 2003), 66.
+12 S. Dmitriev, “Archéologie du Grand Jeu : une brève histoire de L’Asie centrale,” in Le Grand
+Jeu: XIXe siècle, les enjeux géopolitiques de l’Asie Centrale, ed. J. Piatigorsky and J. Sapir (Paris:
+Autrement, 2009), 71–72; F. Wood, The Silk Road: Two Thousand Years in the Heart of Asia
+(London: British Library, 2003), 147.
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+99
+
+
+=== PDF 5 ===
+various strategic sites, such as Dunhuang.13 Interestingly, regardless of their variable
+nature, most of these expeditions shared similar aspirations of unraveling the
+Chinese past and making it relevant to the present era by preserving and disseminat-
+ing it through a large corpus of photographs.
+Under these conditions, a group of French specialists was gathered within a frame-
+work of an established state plan. Hereafter referred to in sources as the Mission
+Paul Pelliot, this expedition originated from a full two years of preparation. Émile
+Sénart (1847–1928) was the instigator of the project and President of the Comité
+Français de l’Association Internationale pour l’exploration de l’Asie centrale et de
+l’Extrême-Orient, which sponsored this archaeological expedition to Northwest
+China in association with several Sociétés Savantes in Paris.14 As early as August
+1905, Pelliot was appointed the head of the expedition, which raised controversies
+as he was neither an art historian nor a trained archaeologist, in contrast to most of
+the other French experts leading international expeditions at that time.15 Pelliot was
+originally more specialized in philology and linguistics. Still his relative inexperience
+in the field was compensated for by his mastery of Mandarin, which helped him sig-
+nificantly in acquiring valuable items and accessing important places in China.
+Pelliot then chose to appoint Nouette as the main operator of the expedition.16
+Nouette was originally a self-taught photographer who only later became familiar
+with archaeological methods. Biographical information about him is rather
+scarce, except from the obituary Pelliot wrote in his memory in 1910. Thanks to
+this we know that Nouette was originally an electrician and that illness had pre-
+vented him from continuing in this profession. He then dedicated his life to pho-
+tography and this, combined with his scientific knowledge and natural ingenuity,
+attracted the attention of various contemporaries, notably Pelliot. He died in Paris
+from tuberculosis at the age of forty-one while he was still developing Pelliot’s
+expedition photographs.17 Information concerning the initial encounter between
+Pelliot and Nouette remains unknown. Primary sources only mention that Pelliot
+contacted Nouette during an early stage of his preparations for the expedition
+and asked him to serve as its main operator. Letters exchanged between 1905 and
+1906 also revealed that the two men discussed in detail the photographic equipment
+that would be suitable for the expedition.18 The particular attention paid to pho-
+tography in the preparation phase was related to the new methodological emphasis
+and value ascribed to photography in the archaeological field, which I will discuss
+later. In the same way that these kinds of expeditions were multidisciplinary,
+13 R. Vinograd, “Strategic Landscapes,” in Ershi Shiji Shanshuihua Yanjiu Wenji [Studies on
+twentieth Century Shanshuihua] (Shanghai: Shanghai shuhua chubanshe, 2006), 293.
+14 Bulletin de l’Ecole française d’Extrême-Orient, 5 (1905): 511.
+15 Pelliot’s experience started few years before in 1899 in Hanoï when he had been appointed
+head of an archaeological mission by the École Française d’Extrême-Orient (EFEO). Zink et al.,
+Paul Pelliot: de l’histoire à la légende, 53.
+16 The word operator is deliberately used to designate people who manipulated camera, as not
+all of them were professional photographers.
+17 P. Pelliot, “Charles Nouette [Necrologie],” Toung Pao, XI, no. 2 (May 1910): 293.
+18 Nouette suggested bringing one 18 × 24 and one 9 × 18, 9 × 12 cameras according to his
+letter sent to Pelliot on 10 April 1906. Pelliot asked to see the negative plates to be purchased.
+See letters exchanged between Pelliot and Nouette between 1905 and 1906. Pel Mi. 21. Musée
+Guimet, archives de la bibliothèque.
+100
+MARINE CABOS
+
+
+=== PDF 6 ===
+Nouette had multiple duties. Pelliot’s notebooks describe that amongst other duties
+he also checked on the workers that excavated the sites, drew schematic plans of
+grottoes, took some rubbings and managed the bulk of mail to be delivered. Yet
+his role as the operator of the mission appeared to be his most prominent position.
+In addition to Pelliot and Nouette, there was also Louis Vaillant (1874–?), a
+doctor in the French Colonial Army, who was placed in charge of surveying
+Chinese topography, astronomy, and natural history. More members joined in
+situ: the Chinese Ting, Sven Hedin’s former tailor Ali Akhoun, and the two Cossacks
+Iliazoz and Bokov.19
+With the nomination of the core members completed, it remained for the
+expedition route to be planned. An examination of Pelliot’s notebooks and Nou-
+ette’s photographs helps to delineate the general itinerary. The team departed
+from Paris (June 1906) and headed for Tashkent (the capital of Uzbekistan) via
+Moscow (September), then continued in Xinjiang (October 1907), crossed Gansu
+and visited the town of Dunhuang (February 1908), and headed back to Beijing
+via Shaanxi and Henan, while at some point navigating the Yangtze River
+towards Shanghai.20 A great number of places were explored and photographed
+on the expedition, but Dunhuang represented one of the major targets within the
+whole itinerary alongside the oases of Tumchuq, Kutcha, and Dunhuang, at least
+according to Pelliot’s views.21
+Pelliot’s team was not the first to explore Dunhuang and the borders of China, nor
+was it the last. One person repeatedly referenced in Pelliot’s notebooks was the
+Hungarian-British archaeologist Marc Aurel Stein (1862–1943), who led four
+expeditions to the Tarim Basin between 1900 and 1930. Stein left behind him an
+archive of over five thousand photographs, now mostly held by the British
+Library in London. There were also a few earlier attempts to explore the larger
+North Western region. The Orientalist Gabriel-Pierre Bonvalot (1853–1933) led
+several missions between the 1880s and 1890s with Prince Henri d’Orléans
+(1867–1901), and another with the photographer Jean Guillaume Capus (1857–
+1931). The mission with Capus between 1880 and 1882 was commissioned by
+the Ministère de l’Instruction Publique.22 Around the same time, Dutreuil de
+Rhins led a scientific expedition across Khotan (modern Hotan in Xinjiang
+province), Tibet, and Mongolia between 1890 and 1895. This expedition was
+19 See photo AP7228. Musée Guimet, archives photographiques.
+20 The photographic archive encompasses views along the Yangtze River up to Shanghai.
+Pelliot declared that once the work finished in Dunhuang, the team headed for Shanghai where
+his companions sent all the documents back to France by the end of 1908. P. Pelliot, “Trois ans
+dans la Haute Asie,” L’Illustration, 12 (March 1910): 266.
+21 The old EFEO transcription writes these names as the following: Toumchouq, Koutchar,
+Touen-Houang. P. Pelliot, “Rapport de M. Paul Pelliot sur sa mission au Turkestan chinois
+(1906–1909)”, Académie des inscriptions & Belles-Lettres – Comptes rendus des séances de
+l’année 1910 (1910), 58–68.
+22 Twenty of the surviving photographs taken by Capus across Central Asia, including North-
+west China, are now at the Bibliothèque nationale de France (Ref: SG WD-74). For an account of
+the genesis of the exploration of Western regions by the French, see: S. Geng, “Boxihe Xiyu Dun-
+huang tanxian yu Faguo de Dunhuang xueyanjiu,” in Faguo Dunhuang Xue Jing Cui [Essence of
+France Dunhuang Studies], ed. B. Zheng (Lanzhou Shi: Gansu renmin chubanshe, 2011), 1–53.
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+101
+
+
+=== PDF 7 ===
+subsidized by the Académie des Inscriptions et Belles-Lettres23 and primary sources,
+notably illustrated periodicals, indicate that Fernand Grenard (1866–1942)—who
+assisted him during the mission by inquiring into archaeological matters—produced
+the photographs.24
+Yet the most fruitful expeditions in terms of discovery and photographic archives
+all occurred during the turn of the twentieth century. To provide a few examples
+from an international perspective, the German Albert Grünwedel (1856–1935) led
+the first German expedition to Turpan in Xinjiang in 1902–03 and at the same
+time, the Japanese Ötani Közui (1876–1948) completed excavations in the region
+during 1902–03. These efforts were followed soon after by the German Albert
+von Le Coq (1860–1930) in 1904–05, and the American Ellsworth Huntington
+(1876–1947) in 1905. Later in the 1920s and 1930s there were also a number of
+notable expeditions, including efforts made by the American archaeologist and art
+historian Langdon Warner (1881–1955), who arrived at the Mogao Caves in
+1924, and the Swedish expedition’s discovery of the Xiaohe Tomb complex in
+Lop Nur led by Folke Bergman (1902–46) in the 1930s. Although the majority of
+these expeditions were sponsored or commissioned by state institutions, orientalists,
+connoisseurs, and even companies also undertook initiatives to explore these areas,
+often by joining forces with established scholars. A renowned example is the
+extensive photographic archive left by the Mission Citröen also called La Croisière
+Jaune (1931–32), which was assisted by the archaeologist and director of Musée
+Guimet, Joseph Hackin (1886–1941), with forty other members participating in
+the mission. Organized by the French car company André Citroën, the mission
+aimed to drive across the Asian continent by separating into two groups—one
+moving from East to West departing from Tianjin, another moving from West to
+East departing from Beirut—so as to eventually meet in Xinjiang. While this
+mission served obvious advertising purposes, the French and British governments
+also supported it. Additionally, a significant photographic archive composed of
+over nine hundred photographs was created during the mission and images and
+developments throughout the mission were disseminated through a diverse range
+of media.25 The outbreak of the Sino-Japanese war of 1937–45 ended this period
+of expeditions.
+The goals of such “archive fever”, to use the philosopher Jacques Derrida’s term,
+was rarely devoid of hidden agendas.26 Exploring this region was not only focused
+on understanding Chinese heritage, but also appropriating it. If Pelliot received the
+23 J. L. Dutreuil de Rhins, Mission scientifique dans la Haute Asie 1890–1895 (Paris:
+E. Leroux, 1897).
+24 The Académie gave him a grant of 15.000 francs (equivalent of 42.500 euros) on 16 May
+1890. S. Jacques, “La mission de Dutreuil de Rhins en Haute-Asie (1891–1894),” Comptes rendus
+des séances de l’Académie des Inscriptions et Belles-Lettres 152e année, no. 3 (2008): 1268–69;
+F. Grenard, “La dernière mission Dutreuil de Rhins, de Paris à Pékin,” Le tour du monde (1896):
+313–60.
+25 The majority of the photographs from the Mission Citroën are held in the Centre d’archives
+de Terre Blanche in Herimoncourt (France). Over a hundred of photographs are also held at the
+Bibliothèque nationale de France, reference: Richelieu – Société de Géographie – magasin, SG
+WD-354.
+26 J. Derrida, Archive Fever: A Freudian Impression (Chicago, IL: University of Chicago Press,
+1998), 84.
+102
+MARINE CABOS
+
+
+=== PDF 8 ===
+financial support of various institutions, such as the Académie des Inscriptions et des
+Belles-Lettres, the Ministère de l’Instruction Publique, the Comité pour l’Explora-
+tion de l’Asie Centrale, and the Comité de l’Asie Française, because it was antici-
+pated that the expedition would enrich French museum collections appreciably.
+Pelliot, Dutreuil de Rhins, and Hackin were the three main expeditions led into
+Central Asia and Northwest China that enabled the Musée Guimet to constitute
+its existent collection. It is well established that Pelliot, Stein, and others bought
+an extensive quantity of archaeological items (mostly rare manuscripts and paint-
+ings) for low prices. Pelliot attempted to maintain on-going relationships with
+locals throughout his journey. Hence he kept various local people up-to-date with
+his discoveries by sending letters and photographs notably of discovered manu-
+scripts. Most importantly, at the end of the expedition he headed for Beijing in
+order to share the mission’s discoveries with local scholars. By sharing his findings,
+Pelliot was among those who triggered a sudden burst of protection concerns over
+archaeological artifacts in Chinese academic circles as, from that moment onwards,
+Beijing authorities immediately instructed the locality to stop any further sales to
+foreigners and to close the caves.27
+It was difficult at that time for Chinese to gain access to foreigners’ findings, since
+objects were sent abroad and published in reports written in foreign languages.28
+Such gradual dispersion of heritage items out of China raised a new awareness
+and concerns over the notions of heritage and cultural property. The severity of
+the problem prompted the Qing government of China by the 1910s to issue edicts
+and progressively implement protective legislation, to found specialized organiz-
+ations such as the China Monument Society and Gallery of Antiquities (Guwu chen-
+liesuo, 古物陳列所), to encourage the development of collotype reproduction of
+antiquities, and to increase collaboration with foreign scientific expeditions.29
+Examples of collaborations are the Sino-Swedish expedition led by Sven Hedin
+(1928–31), and the collaboration between the geologist Ding Wenjiang 丁文江
+(1887–1936) and the French Pierre Teilhard de Chardin (1881–1955), in exca-
+vations at Zhoukoudian in 1929 that unearthed the Peking Man.30
+In fact, it was not until the mid to late 1920s that the field of archaeology received
+any support from the Chinese government and was recognized as a branch of aca-
+demic research. Once established, several Chinese academics explored the North
+Western region in the later half of the 1920s and early 1930s. Memorable examples
+27 Wood, The Silk Road, 211; J. Fan, The Caves of Dunhuang (Hong Kong: Dunhuang
+Academy in collaboration with London Editions, 2010), 227.
+28 Mo, “Itineraries for a republic,” 115.
+29 C. H. Wang, “New Printing Technology and Heritage Preservation: Collotype Reproduction
+of Antiquities in Modern China, circa 1908–1917,” in The Role of Japan in Modern Chinese Art,
+ed. Joshua A. Fogel (Berkeley, CA: Global, Area, and International Archive/University of California
+Press, 2012), 273–373; R. E. Murowchick, “Despoiled of the Garments of Her Civilization: Pro-
+blems and Progress in Archaeological Heritage Management in China,” in A. P. A Underhill, ed.,
+Companion to Chinese Archaeology (Chichester: Wiley-Blackwell, 2013), 16; For an up-to-date
+study of the China and its heritage see: J. B. Cuno, Who Owns Antiquity?: Museums and the
+Battle Over Our Ancient Heritage (Princeton, NJ: Princeton University Press, 2008), 88–120.
+30 Debaine-Francfort, The Search for Ancient China, 25; S. A. Hedin, Reports from the Scien-
+tific Expedition to the North-Western Provinces of China Under the Leadership of Dr. Sven Hedin
+(Stockholm: Tryckeri Aktiebolaget Thule, 1952).
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+103
+
+
+=== PDF 9 ===
+from these efforts are the modern archaeologists Xu Xusheng 徐旭生(1888–1976)
+and Huang Wenbi 黃文弼(1893–1966), the latter producing publications illustrated
+with photographs of excavations. There was also the photographer Chen Wanli 陳
+萬里(1892–1969) in the 1920s. Later, in the 1940s, the archaeologist Shi Zhangru
+石璋如(1902–2004) excavated and photographed Dunhuang, while the artist
+Zhang Daqian張大千(1899–1983) reproduced the frescos inside the caves. By
+that time the region had become a popular tourist destination in China, seducing tra-
+velers such as the adventurer couple, James and Lucy Lo, who captured a significant
+set of black-and-white negatives of the caves during their eighteenth-months stay in
+Dunhuang from 1943 to 44.31
+This attests to the multidisciplinary and “transcultural form” of archaeology in
+China.32 The field was both an international and local affair even though it devel-
+oped at a different pace in the West and locally. The Northwest region surround-
+ing the Dunhuang site might be regarded as a “contact zone”, a network of
+circuits that provided multidirectional flows of people, who combined efforts
+to outline a new heritage landmark by means of photographic archives.33 By pro-
+ducing
+significant
+photographic
+repositories,
+these
+people
+progressively
+increased the reputation and popular preoccupation with the region of North-
+west China.
+PHOTOGRAPHY IN DISCOURSES ON ARCHAEOLOGY
+What characterized the production of photographs during these international cam-
+paigns of archaeological exploration was a dominant institutional urge to catalogue
+methodically and rationally. Although the late nineteenth century experienced an
+upsurge in the conception of photography as a tool for academic disciplines, the
+debate over photography in the natural and social sciences started as early as the
+advent of the medium in 1839 and proceeded from a century of progress made in
+human science and positivist philosophy.34 Since its inception, photography has
+been considered as a medium whose intrinsic nature participated in the development
+not only of science, but also of arts and industry. In order to clarify its application to
+these seemingly disparate fields, a flurry of publications introducing technical and
+theoretical aspects were published from the earliest periods. Within these writings
+it is possible to discern how negotiations between photography and archaeology
+were characterized.
+31 James and Lucy Lo’s photographic archive, manuscript collection, and artist renderings
+belong to Princeton University’s Art Museum, P. Y. and Kinmay W. Tang Center for East Asian
+Art, and the East Asian Library.
+32 The transculturality of archaeology has been advanced by: M. Díaz-Andreu García, A
+World History of Nineteenth-Century Archaeology: Nationalism, Colonialism, and the Past
+(Oxford: Oxford University Press, 2007), 196–97. For a summary of archaeological studies in
+China, see: L. Chi, “Archaeological studies in China,” in Essays on the Sources for Chinese
+History, ed. D. Leslie, C. Mackerras, G. Wang and C. P. Fitzgerald (Canberra: Australian National
+University Press, 1973).
+33 M. L. Pratt, “Arts of the Contact Zone,” Profession, 91 (1991), 33–40.
+34 Also called the philosophy of science, Positivism was developed in the early nineteenth
+century by the French philosopher Auguste Comte (1798–1857).
+104
+MARINE CABOS
+
+
+=== PDF 10 ===
+Photography was not widespread in archaeological practices until the 1880s.35
+Until then, visual recording adopted different forms, including sketches, notes,
+plans, and rubbings. But drawings and engravings began to face criticism due to
+their presumed unfaithfulness to reality.36 In addition, there was a growing need for
+archaeology to be distinguished from pure philological studies and this was partly
+achieved by providing increased support for fieldwork and non-literary evidence,
+including examinations of landscapes, monuments and excavated items.37 The
+medium of photography thus appeared as a potential answer to this methodological
+crisis as it was viewed as supplying an: “authentic piece that validates the fact being
+suggested.”38 There was a strong belief that photography could restore faithfully,
+and in detail, the physiognomy and context of any type of material vestige. One
+example illustrating this position is provided by the doctor and archaeologist
+Édouard Loydreau (1820?–1905?) who criticized the lack of accuracy of sketches
+made during archaeological expeditions, and instead favored photography describing
+it as: “(…) a brush, yet a severe and faithful brush.”39 Consequently, during the late
+nineteenth century, photography became the favorite—but not exclusive—recording
+method for archaeologists. This shift in recording methods stimulated archaeologists
+to bring cameras with them when conducting fieldwork and over time this proved to
+offer a more convenient and quicker method for recording information.
+Some contemporary authors have suggested that scientific approaches to pho-
+tography were also informed by artistic conceptions.40 And the geologist and natur-
+alist Eugène Trutat’s (1840–1910) himself insisted on the fact that photography even
+when applied to archaeology remained a “matter of taste” and that the principles
+35 There were early attempts, such as Joseph Philibert Girault de Prangey’s (1804–1892)
+daguerreotypes of the Middle East shot during Richard Lepsius’ expedition between 1839 and
+1850, which is argued to be amongst the earliest ones. J. P. Girault de Prangey’s, Monuments
+arabes d’Égypte, de Syrie, d’Asie Mineure (Paris: chez l’auteur, 1846); G. Feyler, “Contribution à
+l’histoire des origines de la photographie archéologique: 1839–1880,” Mélanges de l’École fran-
+çaise de Rome. Antiquité, vol. 99, no. 2 (1987), 1021.
+36 E. Edwards, “Photography and the Material Performance of the Past,” History and Theory,
+48.4 (2009), 139; 141; 143.
+37 Centuries old interests in the preservation of Chinese antiquities, epigraphy, philology, and
+religion among others paved the way to nineteenth-century French archaeology in China. The dis-
+course over the importance of archaeological evidence originated in seventeenth-century antiquar-
+ian thinking, with the French physician Jacob Spon (1647–1685) being one of the most fervent
+defender. E. Gran-Aymeric, Naissance De L’archéologie Moderne, 1798–1945 (Paris: CNRS édi-
+tions, 1998), 23; 90; J. Mohl, Histoire des Etudes Orientales 1840–1854 (Ganesha Publishing,
+2003), 5; T. Chang, Travel, Collecting, and Museums of Asian Art in Nineteenth-Century Paris
+(Farnham, Surrey; Burlington, VT: Ashgate, 2013), 19. It has been argued that the creation of
+the École Française d’Extrême-Orient (EFEO) in Saigon in 1900 participated in the development
+of fieldwork in archaeology. F. Pouillon, Dictionnaire des orientalistes de langue francaise (Paris:
+IlSMM, 2008), 350.
+38 A. Davanne, La photographie appliquée aux sciences, conférence faite a la Sorbonne le 26
+Février 1881 (Paris: Gauthier-Villars, 1881), 21.
+39 E. Loydreau, De la photographie appliquée à l’étude de l’archéologie : notices lues à la
+Société d’histoire et d’archéologie de Châlon-sur-Saône, les 26 juin 1856 et 30 juin 1857
+(Beaune: imprimerie de Lambert, 1866), 9.
+40 K. Weiler, “Picturesque Authenticity in Early Archaeological Photography in British India,”
+in Archaeologizing’ Heritage? Transcultural Entanglements between Local Social Practices and
+Global Virtual Realities : Proceedings of the 1st International Workshop on Cultural Heritage
+and the Temples of Angkor, 2-4 May 2010, Heidelberg University, ed. Michael S Falser and
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+105
+
+
+=== PDF 11 ===
+advanced in his book would enable one to “really obtain artistic results.” However, it
+was also recognized as important to elude the pitfalls of “exaggeration” by placing
+too much emphasis on distortion, contrasts, and projected shadows among other
+visual effects.41 Whether or not such aesthetic considerations affected the scientific
+application of photography, there was a strong aspiration to move towards a
+rational study of the natural and build world.
+According to archaeological principles, an accurate depiction of the physical features
+of an area involved a punctilious approach. This approach initially manifested through
+the selection of a distinct subject matter—such as views of sites, of monuments, of exca-
+vations, and depictions of inscriptions and objects.42 But alongside the subject matter, a
+set of formal elements tended to also be applied: specialists paid peculiar attention to
+light and to the variation of angles, including aerial images, general views sharply in
+focus, frontal shots and close-up views. Finally, the collection of images should
+involve an abundance of shots so as to develop a better idea of the subject’s surround-
+ings and be completed with an accurate and detailed labeling separated from the image.
+The photographs taken during the Mission Paul Pelliot serve as an illustration of this
+specific visual methodology (Figures 1–12). Avisual examination of the body of photo-
+graphs that started the first volume of the original publication, published in 1914,
+offered a coherent and far-reaching overall view of the Mogao Caves in order to recon-
+struct the general topography of the site, followed by exhaustive inside views. The caves
+are first portrayed within their environment, behind the Daquan River (Daquan he, 大
+泉河) that faced the cliff. The river’s main branch is portrayed from southwest and
+northwest, expanding on a large diagonal of the composition that underlined details
+of the soil formation on the riverbank. Then a shot on the other side of the riverbank
+depicted the river viewed from the caves, with a particular emphasis on the trees
+growing sporadically at the bottom of the cliff. The trees located nearby the river
+were described by Charles-Eudes Bonin (1865–1929)—a French diplomat and
+explorer—who was sent on a mission to explore Central Asia and Dunhuang a few
+years earlier between 1899 and 1900. In his report to the Académie des Inscriptions
+et Belles-Lettres, he described his first impressions of the site as the following:
+The first effect is particularly singular (…). In the riverbed are bathing trees
+that are now centennial and respected by lumberjacks’ axes; they compose
+a real sacred wood, shadowing and partly hiding the grottoes’ façade.43
+Recognizing a parallel between Bonin’s description and Nouette’s photographs help
+us to grasp the shift from the previous rhetorical exercise of ekphrasis to the systema-
+tic photographic survey approach that almost replaced written interpretation.
+Monica Juneja (Berlin: Springer, 2013), 6. Abelé argued that scientists and artists collaborated with
+each other. Christine Abelé, “La photographie de paysage en France au XIXe siècle: des oeuvres et
+des hommes: 1839–1878” (PhD diss. Université Paris X-Nanterre, 1994), 17.
+41 E. Trutat, La photographie appliquée à l’archéologie: Reproduction des monuments,
+oeuvres d’art, mobilier, inscriptions, manuscrits (Paris: Gauthier-Villars, 1879), 38; 39; 51.
+42 The art historian Feyler has advanced these subject matters, which belong to what she
+defines as “archaeological photography”. Feyler, “Contribution à l’histoire des origines de la photo-
+graphie archéologique”, 1035–38.
+43 C. E. Bonin, “Les grottes des Mille Bouddhas,” Comptes rendus des séances de l’Académie
+des Inscriptions et Belles-Lettres, no. 2 (1901), 212.
+106
+MARINE CABOS
+
+
+=== PDF 12 ===
+Another important element of the methodical shooting process is the labeling
+system. If Nouette’s pictures were identified and precisely recorded in Pelliot’s note-
+books, labels remained separated from the picture surface, making the surface site of
+the most important and relevant information.44 The consistent and persistent need
+to capture the succession of explored/excavated locations through various angles—
+from surroundings to details—connected with new methodologies championed by
+the archaeological field. It was also embedded in the burgeoning world of explora-
+tory expeditions conducted under the auspices of developing knowledge for the
+human or natural sciences. Such consistency triggered a particular visual pattern
+offering a somewhat systematic and clinical approach. This approach eventually
+identified and characterized Dunhuang territory.
+As discussed above, based on ideal principles, a photograph shot in an archaeo-
+logical context should supply tangible information by focusing on the visible, by
+restoring the environment of the vestige, and by utilizing a depersonalized
+vision.45 In other words, employing a blunt gaze focusing strictly on the subject rep-
+resented rather than giving expression of one’s self. These principles were thought to
+produce “descriptive catalogues as precise as possible”.46 At first glance, one might
+agree that photographic archives created during the Mission Paul Pelliot pertained to
+such a formalized and homogenous vision, perpetuating visual conventions that ren-
+dered archives consistent with one another. However, the conventions appear to be
+more flexible than one might imagine.
+If we look at Figure 4, which portrays the valley as seen from cave sixteen, one
+may ponder the extent to which such an image commits to a supposed scientific
+quality while simultaneously potentially displacing it. To elaborate, on the one
+hand it exploited the kind of formalized vision advocated for in contemporary pub-
+lications on archaeology as discussed earlier. The operator found a suitable spot that
+allowed a somewhat panoptic approach, and this resulted in collecting an image that
+provided an all-encompassing view of the valley. Furthermore, the ladder in the
+center ground and the trees on the right side provide a sense of proportion and
+give further information about local flora and topography. The vivid and oblique
+sunlight causes shadows to be projected and this was one of the standard lighting
+requirements recommended to strengthen a three-dimensional effect and render
+more accurately the volume and sharp details.47 In totality, all these visual elements
+appear to be in accordance with contemporary recording methods and the way that
+photography was conceived in archaeology.
+However, on the other hand, the archaeological element of the image was subtly
+imbedded within a somewhat unessential formal quality. Although the spot chosen
+offers a rather unobstructed view of the general landscape, such a high-angle shot sig-
+nificantly accentuates the linear perspective and thus gives prominence to the sinuous
+lines of the cliff edges and soil meanders. By doing so it prevents the production of a
+strictly frontal prospect of the topography and nearly effaces the archaeological
+content. The rather unusual diagonal composition, high contrasts, and focus also
+44 Zink et al., Paul Pelliot: de l’histoire à la légende, 537.
+45 The notion of depersonalization of archaeological vision was mentioned in: F. N. Bohrer,
+Photography and Archaeology (London: Reaktion Books, 2011), 25.
+46 E. Chavannes, Mission archéologique dans la Chine septentrionale (Paris: E. Leroux, 1909), 1.
+47 Trutat, La photographie appliquée à l’archéologie, 41.
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+107
+
+
+=== PDF 13 ===
+seem to be less concentrated in portraying the caves along the cliff than in presenting a
+multiplicity of textures. In addition, on the original negative the sky is sprinkled with
+white clouds, which appears to be at odds with usual scientific records of that time, in
+which the sky usually remains white or blank. The conjunction of Chinese climatic
+conditions (strong sunlight) and technological limitations (average time exposure
+evading the rendering of subtle shapes such as clouds) were two factors that made it
+difficult to capture meteorological effects in the atmosphere. Consequently, it was a fre-
+quent occurrence at that time that operators would retouch photograph by adding
+white or dark highlights. Yet it is not clear that such retouching has taken place on
+this negative; moreover, there are a few other examples from the same archive that rep-
+resent clouds in the sky. Whether or not there has been retouching, the clouds in the sky
+balanced the composition of the overall landscape, mingling a sense of verisimilitude
+with a painterly quality. Last but not least, the utilization of celluloid film instead of
+the usually recommended glass plate permitted the production of a negative with
+smooth textures, even tones and less acute details. This appears at odds with discourses
+of the period, which advise operators in an archaeological context to use gelatin dry
+plate on glass support.48 Technical aspects constitute indeed a key element in visual
+methods in that, by using celluloid film, Nouette positioned his photographs within
+new photography developments. Throughout the expedition, he used several photo-
+graphic supports and formats. For the majority of images he used gelatin silver nega-
+tives on glass. Yet it seems that once the team arrived in Xinjiang onwards—in other
+words one year after the beginning of the mission—he also used gelatin silver negatives
+on celluloid film in combination.49 Gelatin silver on glass, or dry plate, was a newly
+invented technique that had superseded the previous wet collodion by the 1880s. It
+was championed in the field of archaeology owing to the image stability despite the
+fragile nature of the glass.50 Besides glass support was characterized by sharp and
+detailed negative images, and subsequently detailed positive prints with structureless
+film, fine grain, and clear whites. The gelatin silver process dramatically simplified
+photographic practice for it permitted exposure time to go from seconds to fractions
+of a second. Thus, “instant photography” was finally made possible.51 In Dunhuang,
+Nouette would make use of both of these photographic supports, although there are
+a significant number of negatives collected using film, which notably depicted walls
+decoration inside the grottoes. In this sense, Nouette’s adoption of such formal and
+technical elements had the propensity to conjure up a paradox, in which the archaeo-
+logical eye meets the idea of the picturesque.
+48 The substantial diminution of stock of glass plates might have been one of the reasons why
+Nouette employed celluloid film at times, but this currently remains unsubstantiated. It is only
+known that between their arrival on 14 February 1908 and their departure on June 8, 1908, the
+team created a consequential set of over four hundred photographs, exhausting almost the entire
+stock as indicated by Pelliot’s letter dating from April 30, 1908. Pelliot et al. Carnets de route, 417.
+49 Amongst the 1530 negatives held currently at the Musée Guimet archives, 1027 are glass
+plates, 461 are celluloid film, and 35 are prints on paper.
+50 Richard Leach Maddox was the first to successfully make a gelatin dry plate negative in
+1871. The process underwent many improvements by a variety of people before it was commer-
+cially viable in 1879. “Gelatin Dry Plate,” in Graphic Atlas, accessed November 7, 2015 http://
+www.graphicsatlas.org/identification/?process_id=303.
+51 B. Lavédrine, Jean-Paul Gandolfo, and Sibylle Monod, (Re)Connaître et conserver les
+photographies anciennes (Paris: Éd du Comité des travaux historiques et scientifiques, 2007), 254.
+108
+MARINE CABOS
+
+
+=== PDF 14 ===
+Such a visual reading does not intend to distinguish Nouette’s photographs from
+other expeditions as they all offered a new visual knowledge of what was unknown,
+while shaping broader understanding of preservation concerns. Instead the objective
+is to highlight how photographs produced within exploratory expeditions gradually
+delineated the face of Dunhuang. In doing so, they catalyzed its recognition as an
+important part of the national heritage, notion that was springing up from both
+foreign and Chinese interpretations.
+THE SHIFTING TRAJECTORIES OF DUNHUANG PHOTOGRAPHIC ARCHIVES
+The photographic archive created during the Mission Paul Pelliot underwent a wide
+process of diffusion across borders and throughout time, which continues up to this
+day. I am interested in this last section in tracing Nouette’s photographs in order to
+uncover how they were re-arranged, re-appropriated and re-narrativized through
+diverse channels.
+The first method of disseminating the photographs was the official publication
+Pelliot edited in the aftermath of the expedition titled Les grottes de Touen-Houang
+[The Dunhuang Grottoes]. Gathered in four large size volumes (thirty-four centi-
+meters) that actually bound together six volumes in total, this series of publication
+gave a prominent place to photography.52 This pre-eminence of photography was
+emphasized by the display, which offered a catalogue of one-page format photo-
+graphs using high-quality printing that allowed for strong contrasts and sharp
+details to be displayed. In the introduction, Pelliot stated that the choice of display-
+ing first the “superb photographs” taken by Nouette was deliberate.53 It was done,
+on the one hand, to pay homage to Nouette who had recently died and, on the other,
+to exalt the prevalence of photography in the archaeological field:
+It seems to me that, in order to initiate the work, it was necessary first and fore-
+most to publish the photographs of the sanctuaries. [Despite] the difficult
+material conditions, and the utilization of two years old glass plates that suffered
+from extreme climatic variations, my companion Charles Nouette created veri-
+table marvels. By reproducing these hundreds of records, I am conscious to serve
+at the same time the interest of our studies as well as to pay a legitimate tribute
+to a good worker that death stopped in the middle of his task. Incidentally
+the commentary of these documents itself implies the freedom to go back and
+forth from one another; this is only possible when all the plates had been
+published. This is the reason why we first give our photographs.54
+At that time, publishing the outcomes of a scientific expedition—whether they were
+textual and/or visual—was an integral part of the project. Manuscripts and note-
+books written by Pelliot over the course of the mission confirm that he was
+already preparing the sequence of photographs that would be published after their
+return. Accordingly, the volumes begin with exterior views of the Mogao site and
+52 The publications should have been published in 1914 but the outbreak of World War I post-
+poned it until 1924. Another series of volumes was dedicated to facsimiles of manuscripts, other
+texts, and research outcomes such as in linguistics, translations, and glossaries.
+53 Pelliot, Les grottes de Touen-Houang, 2.
+54 Ibid., 5.
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+109
+
+
+=== PDF 15 ===
+explore the inside of the grottoes by moving from South to North (see Figures 1–12).
+The whole project was published by Paul Geuthner, a logical choice as this publishing
+house specialized in Near East, Middle East, and Far East publications.55
+In addition, throughout the expedition Pelliot continued to send photographs
+(mostly of manuscripts) to individuals (peers, family members, international and
+local private collectors) and to institutions, such as the British Library and the Com-
+mercial Press of Shanghai, whose director Mr Chang received thousands of pictures
+from Pelliot.56 Such exchange of images on the one hand corresponded to a willing-
+ness to share knowledge, but on the other, also served as a lucrative business for
+Pelliot who was paid for each photographic reproduction.57 When photographs
+were not sent, they were sometimes offered as a gift, helping to build or cement
+the ongoing relationship between Pelliot and local scholars.58
+Conferences were also useful circumstances through which photographs were
+communicated. In 1909, the year of the team’s return to France, Pelliot gave a con-
+ference paper at the Sorbonne. There he not only revealed the images to the audience
+during the conference for their “documentary value”, but also published some of
+them in the written report.59 Pelliot organized another conference the year after,
+in 1910, and in the first footnote inside the written report of this conference it
+was divulged that: “During his exposé, M. Pelliot showed to the Academy
+members a fair number of photographs related to his excavations in Toumchouq
+and Koutchar (…).”60
+A decade after the official publication Les grottes de Touen-Houang and at the
+request of the organizers of the Mission Citroën mentioned earlier, Pelliot embarked
+on the compilation of another monograph that incorporated Nouette’s photographs
+entitled La Haute Asie [The High Asia].61 More focused on the history of Central
+Asia—thought of as the association of Tibet, Xinjiang, and Mongolia—, the book
+inserted Nouette’s photographs of Dunhuang including detailed captions yet did
+not make any mention of his name. This exclusion pinpointed a shift in the original
+narrative and function of the archive. One of the main outcomes following this
+decision is that Nouette’s name would fade into oblivion and would quickly be sub-
+stituted by the umbrella term Mission Paul Pelliot or even misattributed under
+55 Previously named Librairie Orientaliste Paul Geuthner and founded in 1901, Geuthner’s
+publications targeted mainly an educated audience and covered disciplines ranging from Huma-
+nities, arts, philology, to religion among others. Éditions Geuthner website, accessed November
+11, 2015, http://www.geuthner.com/a-propos.
+56 Letters sent to Pelliot on 10 March 1911 and 14 May 1913. Pel Mi 67. Paris, Musée Guimet,
+archives de la bibliothèque.
+57 For instance a letter written on 26 December 1909 attests that Pelliot received the amount of
+“five thousands francs” on behalf of Mister Tongkang so as to obtain the photographic reproduc-
+tion of documents found in Dunhuang. Pel Mi. 67. Paris, Musée Guimet, archives de la
+bibliothèque.
+58 Pelliot et al., Carnets de route, 321.
+59 The page six of the report states that: “The photo-engravings published in this report are
+made after the M. Nouette’s photographs, photographer of the Pelliot’s expedition”. P. Pelliot,
+Trois ans dans la Haute Asie: conférence de M. Paul Pelliot : au grand amphithéâtre de la Sorbonne,
+le 10 décembre 1909 (Paris: Comité de l’Asie Française, 1910), 16.
+60 P. Pelliot, “Rapport de M. Paul Pelliot sur sa mission au Turkestan chinois (1906–1909),”
+Comptes rendus des séances - Académie des inscriptions & belles-lettres (1910), 62.
+61 P. Pelliot, La Haute Asie (Paris: L’Édition artistique J. Goudard, 1931).
+110
+MARINE CABOS
+
+
+=== PDF 16 ===
+Pelliot’s name. This depersonalization process appeared consistent with the archae-
+ological ideal of a depersonalized vision, in which the author had to disappear as the
+subject matter presided over.
+This generic nomenclature was disseminated in a similar fashion in the popular
+illustrated press. By entering these circles, Nouette’s photographs experienced
+another phenomenon. They moved beyond the rather limited circles of specialized
+audience to address popular readers. French popular illustrated periodicals covered
+the Pelliot’s expedition news throughout its duration. An illustrative example of
+this would be L’Illustration, which had around ten articles that covered Pelliot’s
+expedition.62 In regards to the article published in March 1910, the editorial team
+asked Pelliot to summarize his three-year journey for the readers, which he did by
+compiling a summary accompanied by several of Nouette’s photographs. They
+showed landscapes, inside views of the caves, excavated items, group portraits of
+the team, Pelliot deciphering manuscripts in cave sixteen, and the newly opened
+Pelliot room in the Musée du Louvre in Paris. While the captions below images
+excluded Nouette’s name, Pelliot praised his photographic skills within the text:
+The reader of L’Illustration will clearly notice, in particular, what our photo-
+graphic
+documentation
+gained
+from
+the
+presence
+of
+a
+specialist
+like
+M. Nouette. (…) The experience of M. Nouette was particularly precious to us.
+Never an amateur had been able of capturing such beautiful records despite the
+narrow and dark corridors and the darkened panels with faded tones.63
+The diffusion of Nouette’s photographs went far beyond French borders and entered
+the realm of Chinese language periodicals, which reprinted them from time to time
+from the 1920s and 1930s onwards. According to the authoritative databases that
+have comprehensively digitalized late Qing and Republican periodicals, it seems fair
+to say that the figures of Pelliot and Stein and their respective expeditions’ photo-
+graphic archives dominated images on the theme of archaeology in Chinese illus-
+trated periodicals.64 It is not surprising then that articles tended to amalgamate
+the pictures taken during both missions, or to use Nouette’s photographs in articles
+talking about Stein.65 Amongst the Chinese language periodicals in which Nouette’s
+pictures were diffused were one of the best known popular magazines published by
+the Commercial Press of Shanghai, namely the Dongfang Zazhi 東方雜誌[Eastern
+Miscellany], which ran between 1904 and 1948; but also the Xuesheng Zazhi 学生
+62 L’Illustration was the first weekly-illustrated newspaper in France that targeted a bourgeois
+audience due to its price (75 centimes). Its format and feature articles that sought to supply useful
+knowledge in light of contemporary news were greatly indebted to its British precursor The Illus-
+trated London news. It was founded by Edouard Charton (1807–1890), Adolphe Joanne (1813–
+1881), Alexandre Paulin (1793–1859), Jean-Jacques Dubochet (?–1868). It ran between 1843
+and 1944, and later between 1945 and 1955 under the name of France Illustration. C. Bellanger,
+J. Godechot, P. Guiral and F. Terrou, Histoire générale de la presse française: 2 (Paris: Presses uni-
+versitaires de France, 1969), 300.
+63 Pelliot, “Trois ans dans la Haute Asie,” 262.
+64 The databases that can be regarded as the most all-encompassing are Dacheng 大成and
+Chinese Periodical Full-text Database民國時期期刊全文數據庫.
+65 “Sitanyin shi yu Dunhuang shishi: Dunhuang Qianfodong quanjing zhi yi jiao,” Xuesheng
+Zazhi, no. 9 (1930), 34.
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+111
+
+
+=== PDF 17 ===
+杂志, Weimiao sheng 微妙聲, and Zhongguo yingzao xueshe huikan 中國營造學社
+會刊[Bulletin of the Society for Research In Chinese Architecture].66
+The diffusion of Nouette’s photographs was accompanied by the translation of
+Pelliot’s texts, enhancing then the overarching impact of this expedition on the
+Chinese audience.67 These types of articles perpetuated the visibility of Nouette’s
+photographs across borders, but while the motor of the narrative remained Dun-
+huang, the original visual narrative became detached from its original operator
+and original viewing context, with even the naming being altered.
+Nouette’s photographs have continued to be used and be reprinted up until the
+present day. Dunhuang studies have perhaps never been as vivid a field as they
+are today. In particular, over the past few years, old photographs depicting this
+oasis have attracted a great deal of interest in the international scholarly community.
+Additionally, the International Dunhuang Project’s (IDP) retakes of Stein’s photo-
+graphs for their IDP News issue no.32 of 2008, and the Dunhuang Academy’s exhi-
+bition in 2011, together with its subsequent catalogue of early twentieth-century
+photographs of Dunhuang—including those taken by Nouette—are just two of a
+wide variety of events that demonstrate the continuing significance attached to
+photographic archives.68
+Among later scholarship that has reproduced Nouette’s records, one source deserves
+particular attention: The Centenary Catalogue of Dunhuang Mogao Caves: Pelliot’s
+pictures of Dunhuang (敦煌莫高窟百年圖錄: 伯希和敦煌圖錄).69 These two large
+volumes published in 2008 offered essentially a catalogue of pictures that juxtaposed
+before and after photographs, with the older before images being those shot by
+Nouette. Likely with the intention of demonstrating the changes that have occurred
+over time, the contemporary images endeavored to recreate as faithfully as possible
+the old photographs using a similar angle as well as black and white coloring. A
+small description usually accompanied each plate. Interestingly, the catalogue begins
+by juxtaposing the same sequence of photographs found in the original publication.
+However, not all the plates displayed were contemporary retakes; a fair number of
+Nouette’s photographs either occupied an entire page or are presented in grid pattern.
+66 “Dunhuang de Fojiao yishu,” Dongfang Zazhi [The Eastern Miscellany], no. 17 (1931), 1;
+“Sitanyin shi yu Dunhuang shishi: Dunhuang Qianfodong quanjing zhi yi jiao,” Xuesheng Zazhi,
+no. 9 (1930), 34; “Dunhuang Shiku quanjing,” Weimiao sheng, no. 3 (1937), 56; “Boxihe xian-
+sheng guanyu Dunhuang jianzhu de yi fengxin,” Zhongguo yingzao xueshe huikan [Bulletin of
+the Society for Research In Chinese Architecture], no. 4 (1932), 1.
+67 Many of Pelliot’s writings were translated into Chinese mostly one or two decades after his
+discoveries in Dunhuang. Among the relevant texts: Dunhuang shishi fang shuji (Beijing: Guoli
+Beiping Tushuguan, 1935), which was a translation of his Une bibliothèque médiévale retrouvée
+au Kansou; P. Pelliot and C. Feng, Xiyu Nanhai shidi kaozheng yi cong (Shanghai: Shangwu yin-
+shuguan, 1934).
+68 “A Century On: Documenting Archaeological Sites in Xinjiang: Stein’s Silk Road Legacy
+Revisited,” IDP News, no. 32 (2008), accessed September 10, 2012, http://idp.bl.uk/archives/
+news32/idpnews_32.a4d.
+69 B. Zheng and G. Gao, Dunhuang Mogaoku bainian tulu: Boxihe Dunhuang tulu (Lanzhou
+Shi: Gansu renmin chubanshe, 2008). See also the reutilization of Nouette’s photographs in: H. Gu,
+Shijie De Dunhuang (Shanghai: Shanghai guji chubanshe, 2011); P. Pelliot, L. Hambis, K. Riboud,
+N. Vandier-Nicolas and M. Paul-David, Mission Paul Pelliot: documents archéologiques publiés
+sous les auspices de l’Académie des Inscriptions et Belles-Lettres (Paris: Adrien-Maisonneuve,
+1961); R. Grousset, De la Grèce à la Chine (Monaco: Documents d’art, 1948).
+112
+MARINE CABOS
+
+
+=== PDF 18 ===
+Such contemporary publications, similarly to other events re-utilizing photo-
+graphs of Dunhuang, highlight the extent to which scholars are indebted to the pro-
+duction of early photographic archives. If at that time photographs permitted
+scholars and institutions to rethink respectively their knowledge and collections,
+today they offer the sole surviving visual records of landscapes or remains that for
+some have succumbed to the effects of time. On top of that, the shift towards
+popular audiences reminds one of the contemporary editorial attitude found in
+the collections entitled Lao Zhaopian 老照片[Old Photographs]. Lao Zhaopian
+is a publication phenomenon that arose in China from the mid-1990s onwards
+and has provided numerous black and white photographs of people and places,
+which engendered a pervasive vogue for re-using historical photographs in different
+creative media in contemporary times.70
+The international interest in Nouette’s photographs nowadays has also engendered
+a greater dispersal of his archive, which has dramatically increased through the digi-
+tization process. While the majority of physical photographs are currently held at the
+Musée Guimet in Paris, several online databases have rendered freely accessible his
+pictures in digital files.71 The most important source, the International Dunhuang
+Project (IDP) platform supplies the totality of Nouette’s photographs of manuscripts
+in large format alongside detailed captions.72 Moreover, the Beijing National Library
+offered a small online platform presented in Chinese language, gathering slideshows
+of photographs taken during Pelliot, Stein, Oldenburg, Shi Zhuangru, and Need-
+ham’s expeditions. Images are grouped by themes (“Cityscapes of Dunhuang”, “Land-
+scapes of Mogao”, “Monastery of Dunhuang”, “The Mogao caves”, “Mogao stupas”,
+“Miscellaneous”). This database was a by-product of the photographic exhibition
+organized by the Dunhuang Academy mentioned above. However, the captions
+and pictures’ files are of lesser quality compared to the IDP resource mentioned above.
+This shift from classical print-base archive to multimedia storage is emblematic of
+what has been termed a new “regime of memory” proper to software cultures.73
+Digital archives are attempting to offer coherent archiving system to keep traces
+from the past online. They “aspire to enhance, complement or substitute the experi-
+ence of a site or object of historical and/or cultural significance, by making active use
+of digital computer technologies.”74 However, digital archives inexorably alter the
+70 The Lao Zhaopian publishing phenomenon has notably been discussed by: W. Hung, Zooming
+in: histories of photography in China (London: Reaktion Books, 2016), 219–49. For most recent
+research on Lao Zhaopian, see Ed Krebs and Hanchao Lu, eds., China in Family Photographs: A
+Peoples History of Revolution and Everyday Life (Encino, CA: Bridge21 Publications, 2018).
+71 According to the research thus far, the following institutions also possess photographic
+records of Pelliot’s expedition: the Bibliothèque nationale de France (Paris), and the Institut National
+d’Histoire de l’Art (INHA, Paris). D. Morelon, “L’image documentaire et ses métamorphoses: les col-
+lections photographiques de la bibliothèque de l’INHA,” in Photo Archives and the Photographic
+Memory of Art History, ed. Costanza Caraffa (Berlin: Deutscher Kunstverlag, 2011), 291.
+72 Launched in 1994, the IDP is a collaborative online platform in which international insti-
+tutions and libraries around the world share knowledge about Dunhuang studies and its latest
+news. Among the various documents supplied, a comprehensive database encompasses all photo-
+graphs taken during Pelliot, Stein and other expeditions.
+73 Wo. Ernst and J. Parikka, Digital Memory and the Archive (Minneapolis: University of Min-
+nesota Press, 2012), 2; 28; 121.
+74 L. W. MacDonald, Digital Heritage: Applying Digital Imaging to Cultural Heritage
+(Amsterdam: Elsevier, 2006), 448.
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+113
+
+
+=== PDF 19 ===
+understanding of the subject matter, which ultimately complicates the reception and
+study of visual documents.
+CONCLUSION
+This article addressed the impact of photographs produced during campaigns of
+exploration in Northwest China during the transition period between the last
+decades of the nineteenth century and the early twentieth century. Originating
+from preservation and archaeological concerns, photographic views of ancient
+sites such as Dunhuang laid the foundation for a specific visual grammar, which
+was connected to the development of the various branches of science such as archae-
+ology. I have identified this phenomenon through the case study of the Mission Paul
+Pelliot. It involved the preference for specific photographic techniques, the need to
+produce an abundance of shots while using a variation of angles, a detached labeling
+system, and an encompassing way of framing the subject matter. I argued that such
+visual strategies—combined with the global context within which they were
+inscribed—generated the reputation of a newly discovered place, turning a landscape
+into a world heritage site. I also mapped out the diverse trajectories of images, giving
+evidence that pictures went through a wide diffusion. In doing so, I underlined the
+role of photography in promoting a dialogue and in sharing interest across cultures,
+despite the irrefutable role of the camera as a technology of colonial expansion.75
+Photographs created for the sake of scientific disciplines tend to be undervalued
+materials in current studies about the history of photography in China. However,
+they disclose another way to examine the practices of photography and their
+social implications. The goal was not to assert any univocal definition of scientific
+or archaeological photography. Instead, it aimed at offering new direction for the
+study of historical photography in China by assessing the role of photography in
+transmitting and transforming perceptions of China’s landmarks, and the extent
+to which they relate to changes in sociocultural, economical and political life
+during the transition from the mid-nineteenth century to early twentieth centuries.
+NOTES ON CONTRIBUTOR
+Marine Cabos is an art historian specialized in the history of photography in China.
+She received her PhD from SOAS, University of London. She has lectured at SOAS,
+Christie’s Education and the Victoria & Albert Museum, and has worked in major
+cultural institutions in Shanghai, Paris, and London. Since 2011, she has been
+running the online platform and association Photographyofchina.com, whose goal
+is to unearth and support photographic works from the advent of the medium to
+contemporary times. She is currently Research Associate at the SOAS and the
+L’École des hautes études en sciences sociales (EHESS), France.
+Correspondence to: Marine Cabos, 54 rue Louis Blanc, 75010 Paris, France.
+Email: marine.cabos@ehess.fr
+75 This cross-cultural approach of photography in Asia has been advanced by the art historian
+Luke Gartlan in several articles, in particular: L. Gartlan, “Samuel Cocking and the Rise of Japanese
+Photography,” History of Photography, 33, 2 (2009), 145–64.
+114
+MARINE CABOS
+
+
+=== PDF 20 ===
+FIG.
+2.
+“PL.
+I:
+TOUEN-HOUANG
+-
+Ensemble Sud-Ouest du Ts’ien-fo-tong pris
+du Nord-Ouest.” From a silver gelatin nega-
+tive on celluloid roll film taken in 1908,
+18 × 24 cm (AP8202).
+FIG. 1.
+P. Pelliot, Les grottes de Touen-
+Houang : peintures et sculptures bouddhi-
+ques des époques des Wei, des T’ang et des
+Song (Paris: Librairie Paul Geuthner, 1914),
+cover page.
+Source: Pelliot, Paul. “Les grottes de Touen-
+houang peintures et sculptures bouddhiques
+des époques des Wei, des T’ang et des
+Song,” in NII “Digital Silk Road”/Toyo
+Bunko, doi: 10.20676/00000186, accessed
+August 11, 2018, http://dsr.nii.ac.jp/toyo-
+bunko/VIII-5-B6-3/V-1/.
+FIG.
+3.
+“PL.
+II:
+TOUEN-HOUANG—
+Ensemble
+Nord-Ouest
+du
+Ts’ien-fo-tong
+pris de l’Est.” From a silver gelatin negative
+on
+celluloid
+roll
+film
+taken
+in
+1908,
+18 × 24 cm (AP8203).
+FIG. 4.
+“PL. III: TOUEN-HOUANG—Vue
+du Ts’ien-fo-tong prise de la grotte 16.” From
+a silver gelatin negative on celluloid roll film
+taken in 1908, 18 × 24 cm (AP8204).
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+115
+
+
+=== PDF 21 ===
+FIG. 6.
+“PL. V: TOUEN-HOUANG—
+Vue extérieure des grottes 1 à 40.” From a
+silver gelatin negative on celluloid roll
+film taken in 1908, 18 × 24 cm (AP8206).
+FIG. 9.
+“PL. VIII: TOUEN-HOUANG—
+Grotte 1. Autel du fond. Peintures anciennes.
+Statues refaites.” From a silver gelatin nega-
+tive on celluloid roll film taken in 1908,
+18 × 24 cm (AP7842).
+FIG. 8.
+“PL. VII: TOUEN-HOUANG—La
+rivière du Ts’ien-fo-tong gelée. TOUEN-
+HOUANG—La rivière dégelée. TOUEN-
+HOUANG—Première
+visite
+au
+Ts’ien-fo-tong.
+TOUEN-HOUANG—Le
+Ts’ien-fo-tong à hauteur du temple où nous
+logions.” From a silver gelatin negative on
+celluloid
+roll
+film
+taken
+in
+1908,
+18 × 24 cm (AP8208), and a silver gelatin
+print on paper taken in 1908, 09 × 12 cm
+(AP8454_1).
+FIG. 7.
+“PL. VI: TOUEN-HOUANG—
+Vue extérieure des grottes 76 à 80.” From
+a silver gelatin negative on celluloid roll
+film taken in 1908, 18 × 24 cm (AP8207).
+FIG. 5.
+“PL. IV: TOUEN-HOUANG—
+Vue de la vallée, prise de la grotte 16.”
+From a silver gelatin negative on celluloid
+roll
+film
+taken
+in
+1908,
+18 × 24 cm
+(AP8205).
+116
+MARINE CABOS
+
+
+=== PDF 22 ===
+FIG. 10.
+“PL. IX: TOUEN-HOUANG—
+Grotte
+1.
+Statue
+refaite,
+en
+avant
+de
+l’autel.” From a silver gelatin negative on cel-
+luloid roll film taken in 1908, 18 × 24 cm
+(AP8185).
+FIG. 11.
+“PL. X: TOUEN-HOUANG—
+Peinture modern à l’entrée de la grotte 1.”
+From a silver gelatin negative on celluloid
+roll
+film
+taken
+in
+1908,
+18 × 24 cm
+(AP7843).
+FIG. 12.
+“PL. XI: Grotte 1. Panneau avant
+de gauche.” From a silver gelatin negative on
+celluloid roll film taken in 1908, 18 × 24 cm
+(AP7844).
+CREATING HERITAGE AND THE MISSION PAUL PELLIOT
+117

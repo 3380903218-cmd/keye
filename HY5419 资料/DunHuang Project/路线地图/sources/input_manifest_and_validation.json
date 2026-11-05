@@ -1,0 +1,60 @@
+{
+  "snapshot_id": "HY5419-map-resources-20261020",
+  "date": "2026-10-20",
+  "scope": "1900–1910；实物流转与知识活动；后出地图和现代坐标仅辅助定位",
+  "stance": "项目现有事件的地理证据整理、工具比较与补采集清单；非穷尽路线复原",
+  "source_boundary": "本地既有20事件与来源记录；官方软件／地名／地图／坐标网页；11组检索日志",
+  "backend": "built-in web fallback; parallel-cli and external research API keys unavailable",
+  "inputs": [
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/事件原始记录.csv",
+      "sha256": "90bbdd21397b29194b347b7551b4771d524b9cee11c2838798545a8f84da565c"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/来源目录.csv",
+      "sha256": "b0179d84fde2b5e8c6b14cd627131e715cab43e4c79bab2a66abc74b41ee9365"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/来源阅读记录.csv",
+      "sha256": "dad6306c516a93bf24f4fea27579eb488f7bdd383b0b1196fb9c66e153ca3695"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/06_notes/2026-10-13_双层传播网络补采集/整理版_2026-10-13/双层传播网络_中文记录工作簿_整理版.xlsx",
+      "sha256": "0b3aadb52134753cc7035677dac1de8352e67e6ae73acb8629817b25e0fe308b"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/06_notes/项目反馈对照与优先事项_2026-10-19.md",
+      "sha256": "770aad8d6aef681ff4cbd674243ba5895176c490d3a860c4c63d763b9a59c24b"
+    }
+  ],
+  "counts": {
+    "00_开始使用": 24,
+    "01_采集字段": 31,
+    "02_工具选择": 4,
+    "03_地点与坐标": 15,
+    "04_事件梳理": 20,
+    "05_移动段待补": 12,
+    "06_优先补采集": 12,
+    "07_资料与来源": 29,
+    "08_制作步骤": 15,
+    "09_点位导入": 5,
+    "10_图例与核查": 10
+  },
+  "output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/路线地图/敦煌项目_路线地图资料与制作指南.xlsx",
+  "output_sha256": "65afef27a27f529e7e4b4e3a707faf19bad2ff9a38aaef315f0b00166200a62d",
+  "unresolved": [
+    "10个地点无数值坐标",
+    "全部12条候选移动段WKT为空，未生成实际运输几何",
+    "Bodleian目录打开受限，IDP页面403；未取得所列档案原件",
+    "部分历史机构场址、起点、日期、箱号与批次对应尚待核"
+  ],
+  "validation": [
+    "XLSX重新打开成功；11张工作表",
+    "事件、地点、来源编号引用闭合",
+    "20条事件、15条地点、12条移动段、5个坐标点数量核对",
+    "数值经纬度范围／空值配对核对",
+    "没有公式／错误值；全部工作表有筛选表格与冻结窗格",
+    "本地文件超链接目标存在",
+    "没有将候选线段写成已核实际路径"
+  ]
+}

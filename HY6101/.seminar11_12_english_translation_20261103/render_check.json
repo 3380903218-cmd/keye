@@ -1,0 +1,26 @@
+{
+  "artifact_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+  "normal_open": "passed; repair disabled",
+  "native_export_sha256": "6d3313c14b260a9c3c67f71fd31afdf2d7911405a113d043d09584cb44d1f7c5",
+  "native_pdf_sha256": "9ff0cd9297adba35f20c6ba35a017fae9b5382ae42c6e06fe629bf9cf22f321f",
+  "pages": 4,
+  "visual_review": "All four pages inspected. English title, all eleven paragraphs, six footnotes and page numbers are readable, without clipping, missing glyphs, overlap or comment balloons.",
+  "images": [
+    {
+      "path": "page_1.png",
+      "sha256": "197de1e631837c6ffdeacd9ad4e919f9ec5f8c4489772e04e5603d845398afdd"
+    },
+    {
+      "path": "page_2.png",
+      "sha256": "608a6e05c2bc55c947f6ff30aea16f45d42523bcb1f60b8707ea7eedd1d582d7"
+    },
+    {
+      "path": "page_3.png",
+      "sha256": "2d59ad349cdc0c44c003209d00656beca973a2ba5af974bba5c43d4bfaf69131"
+    },
+    {
+      "path": "page_4.png",
+      "sha256": "b4baf702c33a9c1451eaed5d6a60ab575ffc6195999cc129ea185b284b0fa5de"
+    }
+  ]
+}

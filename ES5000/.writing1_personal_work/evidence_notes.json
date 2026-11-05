@@ -1,0 +1,26 @@
+{
+  "scope": "Two source verification for a 298-word revision using personal examples; sources restricted to the teacher list.",
+  "sources": [
+    {
+      "source": "Ozdamar 2025",
+      "teacher_resource": 4,
+      "local": "Assignment_Guidelines_export/4. Sharing a meal with friends and family_Nat Geo.pdf",
+      "locator": "p. 2, The impact of urbanization on meal sharing and loneliness",
+      "support": "Ordinary shared conversation and meals support connection; used as general contextual evidence, not as a study of the user or of shopping.",
+      "sha256": "618f8d09d820655976da41cfba525cf52a7e9cce45708f24f0c2dd344be66038",
+      "url": "https://www.nationalgeographic.com/health/article/communal-dining-loneliness-epidemic"
+    },
+    {
+      "source": "Ellard et al. 2023",
+      "teacher_resource": 5,
+      "local": "Assignment_Guidelines_export/5. Addressing loneliness amongst university students.pdf",
+      "locator": "pp. 512–513, Background",
+      "support": "Associations with mental health, sleep and life satisfaction; student population explicitly named in the essay, association kept distinct from causation.",
+      "sha256": "377b070af150b2768101d20e1506200bb09d11ccec828e9c603e36c8d1fa80a1",
+      "doi": "10.1111/camh.12614"
+    }
+  ],
+  "personal_examples": "Only user-supplied facts: master’s study abroad, first time studying so far from home, living alone, loneliness during shopping for daily necessities and weekends alone at home.",
+  "interpretive_examples": "Possible fatigue, concentration and daily-functioning consequences illustrate the argument and are not asserted to be the user’s symptoms or measured outcomes of the cited review.",
+  "citation_delta": "Quinn 2025 removed and replaced with teacher resource 4, Ozdamar 2025; Ellard 2023 retained. No external readings cited."
+}

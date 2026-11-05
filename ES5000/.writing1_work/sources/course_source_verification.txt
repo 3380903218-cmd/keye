@@ -1,0 +1,314 @@
+Review: Interventions addressing loneliness amongst university students: a systematic review - PubMed (https://pubmed.ncbi.nlm.nih.gov/36496554/)
+citeturn7search0 [wordlim: 200] Published: 3.8 years ago; Crawled: last month; # Review: Interventions addressing loneliness amongst university students: a systematic review ... Background: Loneliness is detrimental to mental health, with university students at higher risk of feeling lonely than other population groups. ... Relevant peer and nonpeer-reviewed English-language articles on studies implementing an intervention with loneliness as an outcome and investigating undergraduate or postgraduate students at a higher education institution were included for quality analysis and narrative synthesis. ... More high-quality studies in a larger number of countries are needed, taking vulnerable student groups into consideration.
+
+. 2023 Nov;28(4):512-523.
+
+doi: 10.1111/camh.12614. Epub 2022 Dec 10.
+
+# Review: Interventions addressing loneliness amongst university students: a systematic review
+
+Olivia Betty Ellard^{  1 }, Christina Dennison^{  1 }, Helena Tuomainen^{  1 }
+
+Affiliations Expand
+
+### Affiliation
+
+  * ^{1} Warwick Medical School, University of Warwick, Coventry, UK.
+
+  * PMID: 36496554
+  * DOI: 10.1111/camh.12614
+
+Item in Clipboard
+
+# Review: Interventions addressing loneliness amongst university students: a systematic review
+
+Olivia Betty Ellard et al. Child Adolesc Ment Health. 2023 Nov.
+
+Show details
+
+Display options
+
+Display options
+
+Format [Select]
+
+[Button: Child Adolesc Ment Health ]
+
+Actions
+
+  * Search in PubMed
+  * Search in NLM Catalog
+  * Add to Search
+
+. 2023 Nov;28(4):512-523.
+
+doi: 10.1111/camh.12614. Epub 2022 Dec 10.
+
+### Authors
+
+Olivia Betty Ellard^{  1 }, Christina Dennison^{  1 }, Helena Tuomainen^{  1 }
+
+### Affiliation
+
+  * ^{1} Warwick Medical School, University of Warwick, Coventry, UK.
+
+  * PMID: 36496554
+  * DOI: 10.1111/camh.12614
+
+Item in Clipboard
+
+[Button: Full text links ]Cite
+
+Display options
+
+Display options
+
+Format [Select]
+
+## Abstract
+
+Background: Loneliness is detrimental to mental health, with university students at higher risk of feeling lonely than other population groups. However, little research has explored interventions to reduce loneliness among students. This review identifies the characteristics and effectiveness of interventions targeting university/college students.
+
+Methods: PsycINFO, Medline, ASSIA and Web of Science were searched from inception using keywords linked to 'loneliness', 'intervention' and 'students'. Relevant peer and nonpeer-reviewed English-language articles on studies implementing an intervention with loneliness as an outcome and investigating undergraduate or postgraduate students at a higher education institution were included for quality analysis and narrative synthesis. Risk of bias was assessed at both study level and at outcome level.
+
+Results: Twenty-eight articles were included, comprising 25 quantitative and three qualitative studies, covering 37 interventions, most implemented in the United States. Interventions were based on psychoeducation, social support groups, increasing social interaction or reflective exercises. The age of the participants (n = 2339) ranged from 17.62 to 25 (mean age 20.63) years. Evidence from the RCTs suggests that most interventions influenced loneliness outcomes, but the magnitude of the benefit is unclear. Across quantitative studies, 80% (16/20) of interventions based on either social support groups, increasing social interaction or reflective exercises, and 50% (7/14) of interventions based on psychoeducation were deemed effective in reducing loneliness. Most interventions measured quantitatively were delivered in a group setting, of which two thirds were considered effective in reducing loneliness scores, regardless of intervention.
+
+Conclusions: Universities have a choice of interventions to help reduce loneliness among students either on campus or virtually. Ones promoting social connectedness appear to be more successful. More high-quality studies in a larger number of countries are needed, taking vulnerable student groups into consideration.
+
+Keywords: Students; college; interventions; loneliness; mental health; prevention; social connectedness; university.
+
+© 2022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and Adolescent Mental Health.
+--------------------------------------------------------------------------------
+Review: Interventions addressing loneliness amongst university students: a systematic review - Ellard - 2023 - Child and Adolescent Mental Health - Wiley Online Library (https://doi.org/10.1111/camh.12614)
+citeturn7search1 [wordlim: 200] Published: 3.8 years ago; Crawled: last week; Due to the scarcity of studies targeting students, in this narrative systematic review our aim was to identify, describe and analyse the effectiveness of intervention studies addressing loneliness in university students (either directly or indirectly).The research questions were: (a) What are the characteristics of interventions that address levels of loneliness among students in higher education (university)? ... Although tailoring interventions to subtypes of loneliness was not effective in this student sample, future studies should take into account the different dimensions of loneliness (Cacioppo et al., 2015).
+The first three of these latest reviews included a small number of studies on undergraduate students (Bruehlman-Senecal et al., 2020; Loucks et al., 2021; Mattanah et al., 2010; Zhang, Fan, et al., 2018), but contained no special focus or recommendations regarding the university setting. Williams et al. (2021) recognised students as a specific population group but, due to concentrating on interventions compatible with COVID-19 shielding and social distancing measures, identified only five studies focusing on students, all interventions involving a psychological or cognitive component (Conoley & Garber, 1985; Dowd et al., 2014; McWhirter & Horan, 1996; Seepersad, 2005; Zhang, Fan, et al., 2018).
+
+University students are in a transitional phase; they often live away from home for the first time in their lives, and have various academic, financial and social pressures and concerns, which sets them apart from many adults (Horgan, McCarthy, & Sweeney, 2013) and other young people (Lim et al., 2020). Whilst students may benefit from interventions identified in the earlier reviews, it is unclear, which are most suitable and effective for students in a university setting. Most previous reviews have contained interventions explicitly targeting loneliness even though there may be broader, ‘indirect’ approaches to well-being that do not specifically aim to address loneliness but have important impacts on loneliness (Mann et al., 2017). Due to the scarcity of studies targeting students, in this narrative systematic review our aim was to identify, describe and analyse the effectiveness of intervention studies addressing loneliness in university students (either directly or indirectly). The research questions were: (a) What are the characteristics of interventions that address levels of loneliness among students in higher education (university)? (b) What is the evidence for the effectiveness of interventions that alleviate loneliness among university students?
+
+#### Study findings
+
+Evidence from the RCTs suggests that most interventions had an effect on loneliness outcomes, but the magnitude of the benefit is unclear (see Table S4). These included six group-delivered psychoeducation interventions (5, 6, 8, 9, 15, 21), five reflective exercises (3, 13, 14, 20, 22), one support group intervention (4) and four social interaction interventions (2, 12, 17, 19). Controlled pre–post (CPP) and pre–post (PP) studies also suggest that group-delivered psychoeducation (41), support group (38) and social interaction (31, 33, 34) may be effective in reducing loneliness. Table S4 reports pre and post mean scores and differences in mean scores (post–pre) to aid estimation of direction and size of effect; studies have been grouped based on study design and [version of] loneliness measure to aid comparison of scores. The largest reduction in UCLA3 (20 item) loneliness score was observed with group delivered psychoeducation (22) but this may reflect the fact that the study targeted those most lonely. A social interaction intervention involving group-based basketball three times a week resulted in a large reduction in the ULS-8 (UCLA 8 item) loneliness score (12).
+
+Across all study types, 20 out of 28 group interventions reduced levels of loneliness (1, 3, 5, 6, 8, 9, 12, 13, 14, 15, 17, 19, 21, 22, 26, 28, 31, 32, 33, 34). Three out of six individual interventions (performed with or without the use of the internet) reduced loneliness scores, two in the reflection category (27, 20). Of the interventions performed online or digitally, three were effective in reducing loneliness scores regardless of whether they were performed in an online group or individually (19, 20, 31). Two of these interventions involved chatting to another online (19, 31), and the other involved typing journal entries (20).
+
+Seven of 14 psychoeducation interventions were found to be effective (5, 6, 8, 9, 15, 21, 28) as were three of four social support interventions (4, 26, 32), and seven of nine reflective exercise interventions (1, 3, 13, 14, 22, 27, 29). Three reflective exercises utilised meditation and mindfulness (3, 22, 27), two promoted mindful movements (13, 14), one utilised writing in a journal (20) and one promoted a mindful lifestyle (1). Six of seven social interaction interventions reduced loneliness scores (12, 17, 19, 31, 33, 34), one of which utilised nonhuman interaction with a dog and facilitator (34). Most of the interventions that were not deemed to be effective were in the psychoeducation category, of which, five of eight were studied in 1996 or earlier (7,8, 9, 10, 11). It should be noted that the majority of this evidence came from RCTs (7/12).
+
+Studies involving students with pre-existing mental health problems or feelings of loneliness (diagnosed or self-declared) used a range of interventions including social interaction (2), reflective exercise (22), social support (26) and psychoeducation interventions (5, 6, 7, 8, 9, 10, 11, 16, 18, 21). However, only six interventions targeting these students significantly reduced loneliness score (5, 6, 8, 9, 21, 22).
+
+Although no study directly compared the effect of a single intervention across subgroups, reductions in feelings of loneliness appeared consistent across groups. For example, reductions in loneliness were seen across students of all educational disciplines, in those with autism spectrum disorder (32) and in students from varied geographic locations. Similarly, reductions in feelings of loneliness were reported in studies sampling mostly female students (8, 9) and in studies sampling mostly male students (32).
+
+### Strength and limitations
+
+To our knowledge, this is the first systematic review to explore interventions addressing loneliness in university students. Following the original submission of this systematic review, two systematic reviews of interventions aimed at reducing loneliness in young people have been published (Eccles & Qualter, 2021; Osborn et al., 2021). However, neither draw special attention to university students.
+
+The scope of our search included younger university students, from the age of 17, to graduate university students. As there is some overlap in age with college students (aged 16–18 years in the UK), our findings may also be applicable to those in postsecondary educational settings.
+
+Our search strategy incorporated a range of search terms, multiple databases and was not limited by the date of publication. Two independent reviewers completed both screening and quality assessment of all research ensuring reliability. Whilst previous systematic reviews have focused on interventions with loneliness as the primary outcome, our review included studies with loneliness as either primary or secondary outcome, thus capturing all relevant research in this area and drawing attention to interventions, which may serve multiple purposes.
+
+Interventions were classified under broad groupings, between which will be some overlap as most appeared to include components of multiple categories. Interventions were, therefore, categorised based on their most prominent theme introducing an element of subjectivity.
+
+### Implications for future research
+
+The majority of research identified was deemed at an increased risk of bias due to quasi-experimental study designs. Further studies adopting a randomised controlled trial design are needed, especially among students with elevated loneliness or mental health problems. Further research is also needed to compare the effect of a given intervention across multiple subgroups, and to evaluate the effectiveness of an intervention longitudinally. Due to the lack of research in BAME students and those with autism or disability, further experimental studies should be conducted in these subgroups. Evidence demonstrates these groups are particularly vulnerable to feelings of loneliness (Kennedy & Barker, 2020; Reed, Giles, Gavin, Carter, & Osborne, 2016). ## Ethical information
+
+This is a systematic review. No ethical approval or written consent were required.
+
+## 
+
+Supporting Information
+
+Filename  | Description
+--- | ---
+camh12614-sup-0001-AppendixS1.docxWord 2007 document , 1.2 MB  | Table S1. Search strategy Table S2. Inclusion and exclusion criteria. Table S3. Main characteristics of studies measuring loneliness with a quantitative outcome measure. Table S4. Summary of the effectiveness of interventions using quantitative measures. Studies have been grouped based on study design and (version of) loneliness measure. Table S5. Main characteristics of the intervention studies with qualitative data collection on loneliness. Table S6. Summary of the effect of interventions on student loneliness using qualitative data collection. Figure S1. Flow diagram. Figure S2. Quality assessment of randomised control trials producing quantitative data using ROB2. Figure S3. Quality assessment of nonrandomised control trials producing quantitative data using ROBINS-I.
+
+Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
+
+
+November 2023
+
+Pages 512-523
+
+
+### Keywords
+
+  * Students
+  * university
+  * college
+  * mental health
+  * loneliness
+  * social connectedness
+  * interventions
+
+  * Issue Online: 05 October 2023
+  * Version of Record online: 10 December 2022
+  * Manuscript accepted: 19 October 2022
+--------------------------------------------------------------------------------
+Fight the Epidemic of Loneliness One Relationship at a Time | Psychology Today (https://www.psychologytoday.com/us/blog/college-mental-health/202508/fight-the-epidemic-of-loneliness-one-relationship-at-a-time)
+citeturn7search2 [wordlim: 200] Published: 1.1 years ago; Crawled: 1.1 years ago; Relationship issues are tied with stress/anxiety as the most discussed issue at college counseling centers. ... No one needs a Ph.D. in psychology to know that good relationships are important, but there is a ton of research that shows how essential good relationships are to mental health and even to physical health and longevity. ... Study in the same area in the library, and the regulars will become recognizable. ... Our epidemic of loneliness and isolation: The U.S.
+
+# Fight the Epidemic of Loneliness One Relationship at a Time
+
+## Peer friendships are vital to college mental health.
+
+Posted August 26, 2025 | Reviewed by Margaret Foley
+
+### Key points
+
+  * College relationships are critical, but that doesn’t mean it’s easy to make and keep friends.
+  * Feelings of homesickness or self-doubt can cause students to withdraw just when they need to reach out.
+  * Making meaningful friendships and being a part of a close community takes intention over time.
+
+Relationship issues are tied with stress/anxiety as the most discussed issue at college counseling centers. Students who don’t feel close to their friends express a palpable amount of pain.
+
+No one needs a Ph.D. in psychology to know that good relationships are important, but there is a ton of research that shows how essential good relationships are to mental health and even to physical health and longevity. Studies show that life feels more meaningful when we are connected and feel we belong. We are hardwired for bonding, yet it can be hard to connect in meaningful ways, which is something many students struggle with in college.
+
+Image: Miriam Garcia/Used with permission
+
+Source: Miriam Garcia/Used with permission
+
+## Be Open and Nonjudgmental
+
+In order to create a new community of friends at college, it's often necessary to go outside of one's comfort zone. Be open to new situations, and don’t judge if it takes a long time to make new friends. Making deep, intimate connections with new people takes time and shared experience. Know that what feels hard at first will get easier. Be patient.
+
+## Keep Making the Effort
+
+Not everyone we meet will become a good friend. Try new strategies and situations, and keep putting in the time and energy to form new friendships. When we keep going out, showing up, and making ourselves available, we become more comfortable connecting with others.
+
+## Go Where the People Are
+
+It’s great when students find themselves in a ready-made group, like a sports team, an amazing class, or that lucky dorm floor. But without a ready-made group, it becomes important to be creative. Pick the places where others hang out. It’s simple and logical, but it may not feel natural at first. It can feel uncomfortable to show up in places when we don’t yet know people, whether that’s a lounge, the library, a particular eatery, or a park. Our natural inclination is to play it safe, but showing up is half the battle. Arrive early to class so there is extra time to chat with other students. Study in the same area in the library, and the regulars will become recognizable. Being in the same place, it’s easier to start a conversation about whatever is going on. So hang out where others hang out.
+
+## Reach Out
+
+When friend prospects have been identified, make the effort to reach out. Contact them and make a plan to do something. It doesn’t have to be involved or special. Relate it to the context of the friendship, such as getting together to study for a class or meeting for lunch once a week when schedules match. Reach out more than once, even if that feels hard and out of balance. --------------------------------------------------------------------------------
+Reducing Loneliness on College Campuses | Psychology Today Australia (https://www.psychologytoday.com/au/blog/optimized/202503/reducing-loneliness-on-college-campuses/amp)
+citeturn7search3 [wordlim: 200] Published: 1.5 years ago; Crawled: 1.5 years ago; We now know that excessive social media use can lead to anxiety, depression, and feelings of FOMO (fear of missing out) which can exacerbate already existent feelings of loneliness and social isolation. ... The New Plague on Campus: Loneliness: Surgeon General Vivek Murthy launched his “We Are Made to Connect” campus tour last month, highlighting the role colleges can play in curing the loneliness epidemic. ... Retrieved from: https://www.psychologytoday.com/us/blog/our-new-discontents/202305/how-… ... Kimberly Quinn, Ph.D., is a psychology professor at Champlain College.
+## Fitting in versus belonging: “Relation-less relationships”
+
+Most well-intended colleges and universities strive to solve the problem of social isolation with their students, without addressing the underlying loneliness. This is analogous to treating a migraine headache with an aspirin, focused on the symptom rather than the source.
+
+The source, it seems, lies largely with the quality of student relationships.
+
+THE BASICS
+
+  * Understanding Loneliness
+  * Take our Loneliness Test
+  * Find a therapist near me
+
+Since the pandemic we have managed (to some degree) to coerce students out of their dorm rooms, but the root cause of loneliness is going to take more of a concerted effort to approach. This means that we will need to make a fundamental shift from helping students to fit in—to helping them acquire a genuine sense of belonging.
+
+Teenagers and young adults will do nearly anything to avoid the excruciating pain of social rejection. Helping students to understand that fitting in is about acquiring external approval, which is often at the expense of altering ourselves in some way, can be accomplished with interactive discussions and activities. I know that with my own students, most were quite aware that chronically seeking external approval is not only exhausting, but it also inevitably takes a toll on one's self-esteem. This often perpetuates the problem of loneliness, as damaged self-esteem can circle back around to social isolation.
+
+On the other hand, genuine belonging is about knowing our own value. When students know their own value, they do not feel the need to change and adapt who they are to meet the needs of the group. They also don't feel the need to isolate. When students find their people in this way, it’s authentic. True belonging is a deep and meaningful connection. This is what our students need most, and we can help them get there by mirroring their value with every given opportunity.
+
+Loneliness Essential Reads
+
+What Actually Helps When You're Feeling Lonely
+
+Loneliness Is a Psychiatric Story
+
+Authenticity is what makes lasting human connection possible.
+
+Source: Photo by Cottonbro/Pexels
+Retrieved from: https://www.insidehighered.com/news/students/physical-mental-health/202…
+
+Chen, B. (2024). How Tech Created a ‘Recipe for Loneliness’: Technology and loneliness are interlinked, researchers have found, stoked by the ways we interact with social media, text messaging and binge-watching. Retrieved from: https://www.nytimes.com/2024/11/10/technology/personaltech/technology-l…
+
+Davis, J. (2023). What We Misunderstand About Loneliness: It's not something we have, or something we're victims of. Retrieved from: https://www.psychologytoday.com/us/blog/our-new-discontents/202305/how-…
+
+Ellis, B (2024). Understanding the social media habits of college students. Retrieved from: https://oncampusnation.com/understanding-the-social-media-habits-of-col…
+
+Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7, 117–140. https://doi.org/10.1177/001872675400700202
+
+About the Author
+
+Kimberly Quinn, Ph.D., is a psychology professor at Champlain College.
+
+Online:
+
+Keynote Speaker, Positivizer, Mindset Coach, Facebook, X, LinkedIn, Instagram, TikTok--------------------------------------------------------------------------------
+Fighting Campus Loneliness | Psychology Today (https://www.psychologytoday.com/us/blog/canines-kids-and-kindness/202407/fighting-campus-loneliness/amp)
+citeturn7search4 [wordlim: 200] Published: 2.1 years ago; Crawled: last month; Or, perhaps it’s the competitive ethos found on college campuses that pits students against one another as they vie for grades, coveted reference letters from professors, on-campus jobs, and scholarships? ... Students connect on campus in a therapy dog stress-reduction program at the University of British Columbia ... Social isolation and loneliness as medical issues. ... Changes in stress predict worse mental health outcomes for college students than does loneliness; Evidence from the COVID-19 pandemic.
+
+Canines, Kids, and Kindness
+
+###### Loneliness
+
+# Fighting Campus Loneliness
+
+## 
+
+College students can build a social and emotional bank to ward off loneliness.
+
+Posted July 29, 2024 | Reviewed by Monica Vilhauer Ph.D.
+
+### Key points
+
+  * College students are known to experience elevated loneliness.
+  * Loneliness puts students at risk.
+  * Students can create a social and emotional bank of support on campus.
+
+There is little doubt that first-year students attending college and living away from home for the first time are faced with a host of challenges as they adapt to new social and academic demands. Attending college, especially for first-year students, has been described as a potentially stressful and lonely experience. Loneliness is defined as “. . . the subjective and distressing feelings stemming from a discrepancy between one’s desired and actual social connection.” (Holt-Lundstad & Petissinotto (2023, p. --------------------------------------------------------------------------------
+Reducing Loneliness on College Campuses | Dr. Kimberly Quinn (https://www.linkedin.com/posts/dr-kimberly-quinn-1698a5126_reducing-loneliness-on-college-campuses-activity-7308939188161118209-lQkb)
+citeturn7search5 [wordlim: 200] Crawled: 3 months ago; Kimberly Quinn’s Post ... Never has this been easier than on a college campus, where we get to experience that wonderful stage of life of coming into our own and figuring out who we are through our close relationships. ... Reducing Loneliness on College Campuses psychologytoday.com
+
+# Dr. Kimberly Quinn’s Post
+
+Dr. Kimberly Quinn
+
+1y
+
+We are all wired for human connection — and not through a screen. We have an innate need to see, hear, and touch other humans. Never has this been easier than on a college campus, where we get to experience that wonderful stage of life of coming into our own and figuring out who we are through our close relationships. That is, until now. In our fast-paced, media-saturated, and post-pandemic world, our very natural, hard-wired need for human intimacy and relational reciprocity has been dangerously affected. So much so that Surgeon General Vivek Murthy has declared loneliness to be an epidemic in the United States, right up there with obesity and smoking as a leading cause of death. Murthy then set out on his “Made to Connect” campus tour to spread his message of the importance of social connection (Alonso, 2023). https://lnkd.in/e_vRiBk8
+
+Reducing Loneliness on College Campuses psychologytoday.com
+
+
+Image
+
+2,405 followers
+
+  * 3000+ Posts
+  * 18 Articles
+
+View Profile Follow
+--------------------------------------------------------------------------------
+The Lonely College Student | Psychology Today (https://www.psychologytoday.com/us/blog/social-lights/201709/the-lonely-college-student)
+citeturn7search6 [wordlim: 200] Published: 9.0 years ago; Crawled: last month; An emerging reliance on social media has made us simultaneously more connected and more disconnected. ... As a college professor for 21 years, I have observed that students coming of age amid this recent crisis of connection appear to have even more difficulty when they first set foot on campus. ... Sleeping with their phones, pulling their phones out when they don’t want to appear alone, texting peers and romantic interests because it’s “easier,” and their increasing discomfort and anxiety with face to face conversations all reveal this loneliness. ... If you’re busy studying, you can invite someone in to study with you or suggest meeting up for dinner later on. ... Students who have suffered trauma from sexual assault may benefit from campuses with victim/survivor support services. ... As students juggle all that is required of them, they benefit from cultivating habits of good self-care, including getting adequate rest, maintaining a healthy diet, getting vigorous exercise, and taking part in stress-reducing activities like mindful meditation and yoga.
+--------------------------------------------------------------------------------
+Review: Interventions addressing loneliness amongst university students: a systematic review - Ellard - 2023 - Child and Adolescent Mental Health - Wiley Online Library (https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/camh.12614)
+citeturn7search7 [wordlim: 200] Published: 3.8 years ago; Crawled: last month; Other tools used to measure feelings of loneliness included one item of the PERMA profiler (Smith et al., 2020), a three-item loneliness Likert scale (Besse, 2016), The University of the Philippines Loneliness Assessment Scale (UPLAS) (Stewart, Dispenza, Parker, Chang, & Cunnien, 2014), the Chinese College Student Loneliness Scale (CCSLS; Zhang, Fan, et al., 2018) and the short version of the Social and Emotional Loneliness Scale for Adults (SELSA-S; Yousefipour & Samarin, 2021). ... While the aim of eight interventions was solely to reduce levels of loneliness (5, 6, 7, 16, 22, 23, 24, 25), most used loneliness as one measure of intervention effectiveness among others, such as happiness (17, 28), anxiety (2, 17, 34), adjustment to college (4), sense of belonging (18), self-esteem (8, 9, 19, 20, 31, 32), confidence (26), overall wellness (1, 27, 30, 33), empathy (30), depression (2, 8, 9, 10, 11, 31), compassion (29), responsibility (21) and smartphone use (12, 13, 14,15). ... Thirty-four interventions addressing loneliness among university students were included, as part of 25 studies.
+--------------------------------------------------------------------------------
+Designing a systemic intervention for student loneliness and social connectedness using a mixed-methods, co-creation approach - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC12924778/)
+citeturn7search8 [wordlim: 200] Published: 6 months ago; Crawled: today; Loneliness and social (dis)connectedness are significant public health concerns, particularly among university students. ... Instead, they deliver interventions to lonely individuals or groups without addressing the wider systems and communities within which they exist. ... This figure illustrates the user-centred design process used to develop a systemic intervention to support student social connectedness and address loneliness. ... Using the principles of participatory action research, each study was designed, conducted, and analysed by undergraduate students supervised by a postgraduate and one academic.
+--------------------------------------------------------------------------------
+The Chronicle’s Higher-Education Mental-Health Forum (https://www.chronicle.com/professional-development/programs/higher-education-mental-health-forum)
+citeturn7search9 [wordlim: 200] Published: 3 months ago; Crawled: 4 months ago; Join us for a transformative half-day of professional development featuring interactive sessions designed to address the growing challenges of loneliness, anxiety, and negativity that students, faculty, and staff are facing on college campuses. ... Image: kimberly quinn mindcraft ...   * Seminar Module 1: Addressing Campus Loneliness
+--------------------------------------------------------------------------------
+Interventions addressing loneliness amongst university students,… (https://acamhlearn.org/Learning/Interventions_addressing_loneliness_amongst_university_students_Helena_Olivia_Christina_FINAL/6bc7a5a9-7bab-4b9d-8c81-cdca8bf442d9)
+citeturn7search10 [wordlim: 200] Published: 3.6 years ago; Crawled: 2 months ago; Let's turn to the paper, Interventions Addressing Loneliness Amongst University Students, a Systematic Review recently published in the CAMH Journal. ... So in the review, we've identified all intervention studies published today that have addressed student loneliness.
+--------------------------------------------------------------------------------
+Effects of college students’ physical activity on loneliness: a moderated mediation model - PMC (https://pmc.ncbi.nlm.nih.gov/articles/PMC12857162/)
+citeturn7search11 [wordlim: 200] Published: 8 months ago; Crawled: last month; Loneliness is a critical mental health issue among university students, yet the mechanisms linking physical activity (PA) to loneliness remain underexplored. ... This cross-sectional study collected self-reported data on PA levels, loneliness, and CSE among Chinese university students.
+--------------------------------------------------------------------------------
+Cross-sectional study investigating the mental health and wellbeing of university students in Australia (https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/156534657/Xiong_Cross-sectional_P2025.pdf)
+citeturn7search12 [wordlim: 200] Published: 1.4 years ago; The prevalence and correlates of depression, anxiety, and stress in a sample of college students. ... Department of Education (Retrieved 5 July 2024 from: https://www.education.gov.au/international-education-data-and-research/resources/international-student-monthly-summary). ... Loneliness at universities: determinants of emotional and social loneliness among students. ... Data from four consecutive cohorts of students in Australia (2019–2022) show the impact of the COVID-19 pandemic on domestic and international university students’ mental health. ... Interventions addressing loneliness amongst university students: A systematic review. ... Behaviour Research and Therapy, 37(8), 783–794.
+--------------------------------------------------------------------------------
+Cao et al
+JMIR RESEARCH PROTOCOLS
+Protocol
+Using M (https://ira.lib.polyu.edu.hk/bitstream/10397/112588/1/resprot-2025-1-e67764.pdf)
+citeturn7search13 [wordlim: 200] Published: 1.4 years ago; JMIR RESEARCH PROTOCOLS ... Stress, wellbeing, and health seeking in first year university students. ... Efficacy of the Tuned In music emotion regulation program in international university ... Review: Interventions addressing loneliness amongst university students: a systematic ... Loneliness among college students: examining potential coping strategies and the influence of targeted messages
+--------------------------------------------------------------------------------
+Page 19 of 20 (https://bmjopen.bmj.com/content/bmjopen/14/5/e079593.draft-revisions.pdf)
+citeturn7search14 [wordlim: 200] Published: 6 days ago; Review: Interventions addressing loneliness amongst university students: a systematic review. ... Year of study as predictor of loneliness among students of University of Gondar.BMC research notes. ... Smoking prevalence, attitudes and associated factors among students in health-related Departments of Community College in rural Yemen.
+--------------------------------------------------------------------------------
+Article
+Understanding the Role of Loneliness in th (https://pdfs.semanticscholar.org/82d5/c1822e85914a9abfdc29bd63fc8b606ca1ca.pdf)
+citeturn7search15 [wordlim: 200] Published: 5 months ago; [CrossRef] [PubMed] ... conceptualization and evidence, and future research directions. ... Interventions addressing loneliness amongst university students: A systematic review. ... The effects of social isolation stress and discrimination on mental health. ... An intervention in social connection: Medical student reflection ... Interventions to address loneliness and social isolation in young people: A systematic ... Anxiety 2021, 38, 882–885.
+--------------------------------------------------------------------------------
+An Investigation Into the Wellbeing and Loneliness of PGR Students and the Effectiveness of Institutional Support Strategies (https://openaccess.city.ac.uk/id/eprint/34740/11/Euro%20J%20of%20Education%20-%202025%20-%20Stead%20-%20An%20Investigation%20Into%20the%20Wellbeing%20and%20Loneliness%20of%20PGR%20Students%20and%20the.pdf)
+citeturn7search16 [wordlim: 200] Published: 1.4 years ago; “Review: Interventions Addressing Loneliness Amongst University Students: A Systematic Review.” ... “Predictors of Academic Performance During the Covid-19 Outbreak: Impact of Distance Education on Mental Health, Social Cognition and Memory Abilities in an Italian University Student Sample.” ... “Social and Emotional Loneliness Among College Students During the COVID-19 Pandemic: The Predictive Role of Coping Behaviors, Social Support, and Personal Resilience.”
+--------------------------------------------------------------------------------
+Promoting social and mental health among higher education students: Student engagement in pioneering and co-creating a universal health-promotive intervention, the Unite Students, with and for students (https://assets-eu.researchsquare.com/files/rs-9457082/v1/eb41145f-457b-4cd1-a4ce-3f4b4f6156f2.pdf?c=1778498707)
+citeturn7search17 [wordlim: 200] Published: 4 months ago; ML is the original developer of Unite Students, a non-for-profit intervention to be led by Student health services at universities for and with university ... https://www.nia.Nih.gov/news/social-isolation-loneliness-older-people-pose-health-risks ... Ellard OB, Dennison C, Tuomainen H, Review (2023) Interventions addressing loneliness amongst university students: a systematic review.
+

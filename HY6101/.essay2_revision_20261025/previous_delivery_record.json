@@ -1,0 +1,129 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "HY6101-essay2-zh-comment-revision-20261024",
+  "state": "final",
+  "content_authority": "Two user annotations in the reviewed original, preserved in .essay2_revision_20261024/HY6101_Combined_Essay2_中文版_修改前含批注.docx, and the original user-designated Chinese reading drafts.",
+  "format_authority": "Preserve reviewed original Word styles, headers, footers, references, fields, and page setup. Keep the prior 8000–8500 Han-character requirement.",
+  "synchronization_direction": "bidirectional",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "essay2-zh-docx",
+      "role": "final",
+      "path": "seminar 11/HY6101_Combined_Essay2_中文版.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "6aadc60f07dccbe6fd2de94644cdf939d1f8ac7370193fbb77df36252bd062c3",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "manuscript_title": "从管理者到研究伙伴——重新认识档案员与档案的意义",
+        "content_stage": "Revised Chinese manuscript; not represented as submitted.",
+        "comment_state": "2 retained, 2 resolved; no tracked changes were present."
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "6aadc60f07dccbe6fd2de94644cdf939d1f8ac7370193fbb77df36252bd062c3",
+      "performed_at": "2026-10-25T00:01:19.562188+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_revision_20261024/content_check.json",
+        "sha256": "fa8f1eb3791d1aaf8ecafbc262786fd1c600aa7104687068202267dccbf60ca4",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested revision scope",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "6aadc60f07dccbe6fd2de94644cdf939d1f8ac7370193fbb77df36252bd062c3",
+      "performed_at": "2026-10-25T00:01:19.562188+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_revision_20261024/package_check.json",
+        "sha256": "c38fd1224db4ee70cda65cde84c57ed1abe7e383a0c66ecbdc5798d60d554f26",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested revision scope",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "6aadc60f07dccbe6fd2de94644cdf939d1f8ac7370193fbb77df36252bd062c3",
+      "performed_at": "2026-10-25T00:01:19.562188+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_revision_20261024/rendered_check.json",
+        "sha256": "86998bc1890e98f5613f4e2d3835568cecd8eee1c3ee260f9a2b2ae80f9fffa4",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested revision scope",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "6aadc60f07dccbe6fd2de94644cdf939d1f8ac7370193fbb77df36252bd062c3",
+      "performed_at": "2026-10-25T00:01:19.562188+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_revision_20261024/delivery_package_check.json",
+        "sha256": "d8d132e1d22b20b43ef4a52cb38286bd41b83fc1f1890b5a87cf908af9f366b4",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested revision scope",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "essay2-zh-docx"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [],
+  "next_action": "Hand off the revised manuscript at the original path.",
+  "extensions": {
+    "prior_delivery_id": "HY6101-essay2-zh-20261024",
+    "prior_record_snapshot": ".essay2_revision_20261024/previous_delivery_record.json",
+    "reviewed_baseline_sha256": "e180edbd00f8a33160c5e59affb3dbd7a055fc668c5137464a752e3c6224f65f",
+    "reviewed_baseline_path": ".essay2_revision_20261024/HY6101_Combined_Essay2_中文版_修改前含批注.docx",
+    "counting_rule": "8185 body Han characters, excluding headings, punctuation, Latin text and references; 8272 including titles/headings.",
+    "comments_applied_globally": [
+      "Correct initial manager impression and develop historical-research career recognition.",
+      "Refocus this course-half essay on archivists and archive scope/meaning throughout title, introduction, body and conclusion."
+    ]
+  }
+}

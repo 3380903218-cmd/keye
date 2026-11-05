@@ -1,0 +1,70 @@
+{
+  "image": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Diamond_Sutra_of_868_AD_-_The_Diamond_Sutra_%28868%29%2C_frontispiece_and_text_-_BL_Or._8210-P.2.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+    "credit": "British Library / Wikimedia Commons, Or.8210/P.2",
+    "license": "CC0 1.0",
+    "license_page": "https://commons.wikimedia.org/wiki/File:Diamond_Sutra_of_868_AD_-_The_Diamond_Sutra_(868),_frontispiece_and_text_-_BL_Or._8210-P.2.jpg",
+    "sha256": "cf7d1ada6833723f207c761450b732314344cde8b45a164ba399578859ecad21"
+  },
+  "basemap": {
+    "source": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson",
+    "license": "Public domain"
+  },
+  "cave_photographs": [
+    {
+      "id": "mogao-2006",
+      "file": "dist/assets/mogao-exterior-2006.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mogao_Caves.jpg",
+      "credit": "Yaohua2000 (Yáo Zǐyuān) / Wikimedia Commons",
+      "date": "2006-04-24",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "scope": "Cave 96 pavilion and Mogao cliff face; site context, not a view of Cave 17",
+      "sha256": "295670e889cdcc29f5b3c17644269835759ff0470bce1869960279e57e04aebf",
+      "bytes": 397790,
+      "retrieved": "2026-10-29",
+      "modifications": "None; original image bytes, no crop or colour change"
+    },
+    {
+      "id": "cave17-1908",
+      "file": "dist/assets/cave17-pelliot-1908.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Paul_Pelliot_examining_manuscripts_in_Cave_17_at_Mogao_Caves_in_1908.jpg",
+      "credit": "Charles Nouette (1869–1910), Musée Guimet / Wikimedia Commons",
+      "date": "1908",
+      "license": "Public domain; Commons PD-old / PDM",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "scope": "Pelliot examining manuscripts inside Cave 17",
+      "sha256": "f9ea194e15a8717a2d3b92dbc1e4d2a0507ea31b859e61bd4b4878dbdd528740",
+      "bytes": 123437,
+      "retrieved": "2026-10-29",
+      "modifications": "None; original image bytes, no crop or colour change"
+    },
+    {
+      "id": "cave16-1907",
+      "file": "dist/assets/cave16-manuscripts-1907.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dunhuang_Cave_16.jpg",
+      "credit": "Aurel Stein (1862–1943) / Wikimedia Commons",
+      "date": "1907 negatives",
+      "license": "Public domain; Commons PD-1923 and corroborating PD-old file",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "scope": "Historic composite showing Cave 16 and manuscript bundles near Cave 17 entrance",
+      "context_source": "https://silkroadsarchaeoheritage.org/articles/10.5334/srah.7#F1",
+      "rights_corroboration": "https://commons.wikimedia.org/wiki/File:Aurel_Stein%E2%80%99s_1907_view_of_Mogao_Cave_16,_with_a_portion.jpg",
+      "sha256": "49c2f3452a0bd8e1ad7fd0fb8e514c0e52a3a21cfecf0ff10a63f4e5d92b9842",
+      "bytes": 138419,
+      "retrieved": "2026-10-29",
+      "modifications": "None; original image bytes, no crop or colour change"
+    }
+  ],
+  "qgis_result": {
+    "creator": "Xiwen Wang",
+    "original_filename": "敦煌传播地图-区域详图.pdf",
+    "pdf_asset": "dist/assets/qgis-regional-map.pdf",
+    "pdf_sha256": "a06b0feb90bc04f5c0d81d2d77754ee98570f1ab433b4f25b0954b9ed780d477",
+    "preview_asset": "dist/assets/qgis-map-preview.jpg",
+    "preview_sha256": "4c8235c5c2df6d49d869436f3cceace90a787a72c72ce4e07eb90e0745047508",
+    "preview": "Full-page raster rendering of the original one-page PDF; no crop or content change.",
+    "basemap_attribution": "© OpenStreetMap contributors; https://www.openstreetmap.org/copyright",
+    "scope": "Earlier regional map result. The web animation includes subsequently verified route records."
+  }
+}

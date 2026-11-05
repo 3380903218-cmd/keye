@@ -1,0 +1,14 @@
+{
+  "HY5305_Porcelain_in_Translation_8min.pptx": "9e10049ff29243f1f3f437b438e1f3b9ccf8fcee4c101f6b301f6455badb8889",
+  "HY5305_Porcelain_in_Translation_English_Chinese_Script.docx": "fcf91250c2a67fabc2e43b8f11bafbfe9d671a3ae408b79cc3dc90ab00a3e364",
+  "delivery_validation.json": "7481d7efc6b9c561cc45b6138ab10f4221a9920ce008fa25702bf096e68a7464",
+  "presentation_content.json": "cb7a5ed6949d11e607186053cdcc4021f691bff71087246ab9a1e41e777a73bd",
+  "presentation_timing.json": "1506d2312cf08dfb8c22d03db167a0e98273d67543c7c4e6effde095e122e75d",
+  "presentation_layout_checks.json": "82b6d65b7148b09404a1ef605592252e084ca93bfeba2fb119a27a5ed122f2ff",
+  "presentation_display_text.json": "20c9bddb75ee1d90d191c59e3221f562fb35fc3ef9a5ca312489e5348f6d1480",
+  "build_presentation.py": "1986b03bc6b7cab819468610f64144bc0f52471cc5358813959f849c3bedf929",
+  "build_bilingual_script.py": "cafc0bc84d34fd1a947c2c46fd3b6d545b5be0343c640c86ae458ab0309c7a44",
+  "slide_toolkit.py": "4bcf4d22725c48c8a84afd04c26874dee6a0ea9df519a27caafd244a476189d5",
+  "verify_delivery.py": "acd173eb36a175df6b9d11f5b02a3702a4ad75dd546aedbd9346ad911707fe43",
+  "交付与修改说明.md": "22746ba29f49d08251dc2433eeb47edd10e339b2eeae953dbbc85286478eea0a"
+}

@@ -1,0 +1,504 @@
+(PDF) Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses of Loneliness and Depressive Symptomatology in the Chicago Health, Aging, and Social Relations Study (https://www.researchgate.net/publication/44670681_Perceived_Social_Isolation_Makes_Me_Sad_5-Year_Cross-Lagged_Analyses_of_Loneliness_and_Depressive_Symptomatology_in_the_Chicago_Health_Aging_and_Social_Relations_Study)
+citeturn6view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"turn5view1","lineno":40}); Total lines: 3001
+L37: cite12†Cross-lagged panel model showing that loneliness predicts increases in depressive symptoms independent of social network size (and demographic, health, and medication covariates included in Figure 1, but not shown here). Marital status was dropped as a demographic covariate because it is included in the Social Network Index (SNI). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations).
+L38: L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML). * p < .01. ** p < .001.…  L39: cite13†Cross-lagged panel model showing that loneliness predicts increases in depressive symptoms independent of neuroticism (and demographic, health, and medication covariates included in Figure 1, but not shown here). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations). L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML); Neurot = neuroticism.
+L40: ‡p < .05. * p < .01. ** p < .001.…  L41: cite14†Cross-lagged panel model showing a reciprocal association between loneliness and depressive symptoms independent of life events (and demographic, health, and medication covariates included in Figure 1, but not shown here). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations). L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML); LEQ = life events.
+L42: ‡p < .05. * p < .01. ** p < .001.…  L43: cite15†+1 L44: cite15†Cross-lagged panel model showing that loneliness predicts increases in depressive symptoms independent of perceived stress (and demographic, health, and medication covariates included in Figure 1, but not shown here). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations). L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML); PSS = perceived stress.
+L45: ‡p < .05. * p < .01. ** p < .001.…  L46: Figures - available from: cite0†Psychology and Aging L47: 
+L48: This content is subject to copyright. cite16†Terms and conditions†www.apa.org apply.
+L49: 
+L50: cite17†Image: ResearchGate Logo L51: 
+L52: Discover the world's research
+L53: 
+L54:   * 25+ million members
+L55:   * 160+ million publication pages
+L56:   * 2.3+ billion citations
+L57: cite18†Join for free L58: 
+L59: Public Full-text 1
+L60: 
+L61: Publisher Preview 1
+L62: 
+L63: Content uploaded by cite5†Louise Hawkley L64: 
+L65: Author content
+L66: 
+L67: All content in this area was uploaded by Louise Hawkley
+L68: 
+L69: Content may be subject to copyright.
+L70: Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses
+L71: 
+L72: of Loneliness and Depressive Symptomatology in the Chicago Health,
+L73: 
+L74: Aging, and Social Relations Study
+L75: 
+L76: John T. Cacioppo, Louise C. Hawkley, and Ronald A. Thisted
+L77: 
+L78: University of Chicago
+L79: 
+L80: We present evidence from a 5-year longitudinal study for the prospective associations between loneliness
+L81: 
+L82: and depressive symptoms in a population-based, ethnically diverse sample of 229 men and women who
+L83: were 50–68 years old at study onset. Cross-lagged panel models were used in which the criterion
+L84: 
+L85: variables were loneliness and depressive symptoms, considered simultaneously. We used variations on
+L86: 
+L87: this model to evaluate the possible effects of gender, ethnicity, education, physical functioning, medi-
+L88: 
+--------------------------------------------------------------------------------
+(PDF) Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses of Loneliness and Depressive Symptomatology in the Chicago Health, Aging, and Social Relations Study (https://www.researchgate.net/publication/44670681_Perceived_Social_Isolation_Makes_Me_Sad_5-Year_Cross-Lagged_Analyses_of_Loneliness_and_Depressive_Symptomatology_in_the_Chicago_Health_Aging_and_Social_Relations_Study)
+citeturn6view1 [wordlim: 200] Crawled: last month; Content type: text/html; Source: find({"ref_id":"turn5view1","pattern":"229"}); Total lines: 3001
+L1: # Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses of Loneliness and Depressive Symptomatology in the Chicago Health, Aging, and Social Relations Study
+L2: 
+L3: cite0†Psychology and Aging L4: 
+L5:   * June 2010
+L6:   * 25(2):453-463
+L7: 
+L8: DOI:cite1†10.1037/a0017216†doi.org L9: 
+L10:   * Source
+L11:   * cite2†PubMed L12: 
+L13: Authors:
+L14: 
+L15: cite3†John T Cacioppo L16: 
+L17:   * cite4†University of Chicago L18: 
+L19: cite5†Louise Hawkley L20: 
+L21:   * cite6†NORC at the University of Chicago L22: 
+L23: cite7†Ronald Thisted L24: 
+L25:   * cite4†University of Chicago L26: 
+L27: cite8†Image†i1.rgstatic.net L28: cite9†Download full-text PDF cite10†Read full-text L29: 
+L30: You're downloading a full-text provided by the authors of this publication. A preview of this full-text is provided by American Psychological Association.
+L31: ## Abstract and Figures
+L32: We present evidence from a 5-year longitudinal study for the prospective associations between loneliness and depressive symptoms in a population-based, ethnically diverse sample of 229 men and women who were 50–68 years old at study onset. Cross-lagged panel models were used in which the criterion variables were loneliness and depressive symptoms, considered simultaneously.
+L33: We used variations on this model to evaluate the possible effects of gender, ethnicity, education, physical functioning, medications, social network size, neuroticism, stressful life events, perceived stress, and social support on the observed associations between loneliness and depressive symptoms.
+L34: Cross-lagged analyses indicated that loneliness predicted subsequent changes in depressive symptomatology, but not vice versa, and that this temporal association was not attributable to demographic variables, objective social isolation, dispositional negativity, stress, or social support. The importance of distinguishing between loneliness and depressive symptoms and the implications for loneliness and depressive symptomatology in older adults are discussed.
+L35: cite11†Cross-lagged panel model showing that loneliness predicts increases in depressive symptoms independent of covariates. Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations).
+L36: L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML); Psych = psychiatric diagnosis reported (participant reported having had or having been told by a doctor that he or she had emotional, nervous, or psychiatric problems); Antidepress = antidepressant medication; PhysFx = physical functioning. * p < .01. ** p < .001.…  L37: cite12†Cross-lagged panel model showing that loneliness predicts increases in depressive symptoms independent of social network size (and demographic, health, and medication covariates included in Figure 1, but not shown here). Marital status was dropped as a demographic covariate because it is included in the Social Network Index (SNI). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations).
+L38: L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML). * p < .01. ** p < .001.…  L39: cite13†Cross-lagged panel model showing that loneliness predicts increases in depressive symptoms independent of neuroticism (and demographic, health, and medication covariates included in Figure 1, but not shown here). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations). L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML); Neurot = neuroticism.
+L40: ‡p < .05. * p < .01. ** p < .001.…  L41: cite14†Cross-lagged panel model showing a reciprocal association between loneliness and depressive symptoms independent of life events (and demographic, health, and medication covariates included in Figure 1, but not shown here). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations). L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML); LEQ = life events.
+L42: ‡p < .05. * p < .01. ** p < .001.…  L43: cite15†+1 L44: cite15†Cross-lagged panel model showing that loneliness predicts increases in depressive symptoms independent of perceived stress (and demographic, health, and medication covariates included in Figure 1, but not shown here). Regression weights are unstandardized. Covariances (italicized) are standardized (i.e., equivalent to correlations). L = University of California at Los Angeles Loneliness Scale; D = Center for Epidemiologic Studies Depression Scale minus loneliness item (CES-DML); PSS = perceived stress.
+L45: ‡p < .05. * p < .01. ** p < .001.…  L46: Figures - available from: cite0†Psychology and Aging L47: 
+L48: This content is subject to copyright. cite16†Terms and conditions†www.apa.org apply.
+L49: 
+L50: cite17†Image: ResearchGate Logo L51: 
+L52: Discover the world's research
+L53: 
+L54:   * 25+ million members
+L55:   * 160+ million publication pages
+L56:   * 2.3+ billion citations
+L57: cite18†Join for free L58: 
+L59: Public Full-text 1
+L60: 
+L61: Publisher Preview 1
+L62: 
+L63: Content uploaded by cite5†Louise Hawkley L64: 
+L65: Author content
+L66: 
+L67: All content in this area was uploaded by Louise Hawkley
+L68: 
+L69: Content may be subject to copyright.
+L70: Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses
+L71: 
+L72: of Loneliness and Depressive Symptomatology in the Chicago Health,
+L73: 
+L74: Aging, and Social Relations Study
+L75: 
+L76: John T. Cacioppo, Louise C. Hawkley, and Ronald A. Thisted
+L77: 
+L78: University of Chicago
+L79: 
+L80: We present evidence from a 5-year longitudinal study for the prospective associations between loneliness
+L81: 
+L82: and depressive symptoms in a population-based, ethnically diverse sample of 229 men and women who
+L83: were 50–68 years old at study onset. Cross-lagged panel models were used in which the criterion
+L84: 
+L85: variables were loneliness and depressive symptoms, considered simultaneously. We used variations on
+L86: 
+L87: this model to evaluate the possible effects of gender, ethnicity, education, physical functioning, medi-
+L88: 
+L89: cations, social network size, neuroticism, stressful life events, perceived stress, and social support on the
+L90: observed associations between loneliness and depressive symptoms. Cross-lagged analyses indicated that
+L91: 
+L92: loneliness predicted subsequent changes in depressive symptomatology, but not vice versa, and that this
+L93: 
+L94: temporal association was not attributable to demographic variables, objective social isolation, disposi-
+L95: 
+L96: tional negativity, stress, or social support. The importance of distinguishing between loneliness and
+L97: depressive symptoms and the implications for loneliness and depressive symptomatology in older adults
+L98: 
+L99: are discussed.
+L100: 
+L101: Keywords: depressive symptoms, loneliness, social isolation, stress, social support
+L102: 
+L103: Loneliness and the feeling of being unwanted is the most terrible
+L104: 
+L105: poverty.
+L106: 
+L107: —Mother Teresa
+L108: 
+L109: The word solitude expresses the glory of being alone, whereas
+L110: 
+L111: the word loneliness expresses the pain of feeling alone (Tillich,
+L112: 
+L113: 1959). Millions of people suffer daily from loneliness (Rubenstein
+L114: & Shaver, 1982; Steffick, 2000), a debilitating psychological con-
+L115: 
+L116: dition characterized by a deep sense of emptiness, worthlessness,
+L117: 
+L118: lack of control, and personal threat (Booth, 2000; Cacioppo &
+L119: 
+L120: Patrick, 2008; Weiss, 1973). Twin studies reveal that loneliness is
+L121: 
+L122: temporally stable and heritable, with approximately equal parts
+L123: 
+L124: attributable to heritable and nonshared environmental factors in
+L125: 
+L126: adulthood (Boomsma, Willemsen, Dolan, Hawkley, & Cacioppo,
+L385: ment (Word & Perkins, 1996) as “Hispanic,” and (c) all remaining
+L386: 
+L387: households. The second stage involved selecting one age-eligible
+L388: 
+L389: individual per household and screening selected individuals to
+L390: 
+L391: include only those who belonged to one of the three racial/ethnic
+L392: 
+L393: groups of interest and who were sufficiently ambulatory to come to
+L394: 
+L395: the university for a day-long visit to participate in the study. We
+L396: 
+L397: used a quota sampling strategy at both the household and individ-
+L398: ual levels to achieve an approximately equal distribution of par-
+L399: 
+L400: ticipants across the six gender by racial/ethnic group combinations.
+L401: 
+L402: In the design of the sample selection, Blacks and Hispanics were
+L403: 
+L404: oversampled, and gender equality was maintained. Response rates
+L405: 
+L406: approached 45% overall, an impressive rate given that participa-
+L407: 
+L408: tion in our study required predominantly working adults to spend
+L409: 
+L410: an entire day at the university.
+L411: 
+L412: The final sample in Year 1 of CHASRS consisted of 229
+L413: individuals who ranged in age from 50– 68 years on the first
+L414: 
+L415: testing occasion. Sample attrition over the course of the 5-year
+L416: 
+L417: study averaged 7.2% annually, resulting in a sample size of 163 in
+L418: 
+L419: Year 5. Sample attrition did not differ as a function of depressive
+L420: 
+L421: symptoms ( p⫽.08) or loneliness ( p⫽.15). Participants were
+L422: 
+L423: paid US$126 each year for participating in the study.
+L424: 
+L425: Procedures
+L426: 
+L427: Annual testing of participants occurred over the entire 12-month
+L428: calendar year, and the testing interval averaged 11.6 months (SD ⫽
+L429: 
+L430: 1.1). Participants arrived at the laboratory between 8:00 and 9:00
+L431: 
+L432: a.m. for a full day of testing that included standard psychological
+L433: 
+L434: 454 CACIOPPO, HAWKLEY, AND THISTED
+L435: 
+L436: and demographic surveys, health and medication interviews, an-
+L437: 
+L438: thropometric measurements, and a cardiovascular protocol. All
+L439: 
+L440: psychological and demographic measures reported in this article
+L441: 
+L442: were obtained in the first survey packet completed by participants.
+L443: Participants were asked to bring their medications with them to the
+L444: 
+L445: laboratory, and experimenters recorded drug name, dosage, and
+L446: 
+L447: frequency for subsequent coding.
+L448: 
+L449: The University of California at Los Angeles Loneliness Scale–
+L450: 
+L451: Revised (UCLA-R) has been shown to possess construct validity
+L452: 
+L453: (Russell, 1996; Russell, Peplau, & Cutrona, 1980) as a measure of
+L454: 
+L455: general loneliness and degree of satisfaction with one’s social
+L456: 
+L457: network. The UCLA-R captures a three-dimensional representa-
+L600: support was measured using the 12-item Interpersonal Support
+L601: 
+L602: Evaluation List (Cohen & Hoberman, 1983; Cohen, Mermelstein,
+L603: 
+L604: Kamarck, & Hoberman, 1985), and responses were averaged
+L605: 
+L606: across the three subscales (i.e., tangible, appraisal, and belonging).
+L607: 
+L608: The psychometric characteristics of these scales in the CHASRS
+L609: 
+L610: study have been reported elsewhere (Hawkley et al., 2006).
+L611: 
+L612: Data Analysis
+L613: 
+L614: Cross-lagged path analysis is widely used to infer causal asso-
+L615: ciations in data from longitudinal research designs. Analyses were
+L616: 
+L617: conducted using an autoregressive cross-lagged panel model ap-
+L618: 
+L619: proach (Curran, 2000) to simultaneously address reciprocal influ-
+L620: 
+L621: ences on loneliness and depressive symptoms. In a cross-lagged
+L622: 
+L623: modeling technique, the pattern of effects is conceptually repli-
+L624: 
+L625: cated at each time point. We report unstandardized regression
+L626: 
+L627: coefficients (B) and 95% confidence intervals throughout. The
+L628: cross-lagged panel analyses were conducted with MPlus (Version
+L629: 
+L630: 5; Muthe´n & Muthe´n, 2002). Missing data were not imputed;
+L631: 
+L632: rather, available data from all 229 participants were used in anal-
+L633: 
+L634: yses. We conducted all analyses using full information maximum
+L635: 
+L636: likelihood estimation with robust standard errors. In the present
+L637: 
+L638: study, covariance coverage values, which indicate the proportion
+L639: 
+L640: of data present to estimate each pairwise relationship, ranged from
+L641: 
+L642: 66% to 100%.
+L643: The degree of model fit was assessed with the chi-square good-
+L644: 
+L645: ness of fit statistic and the root-mean-square error of approxima-
+L646: 
+L647: tion (RMSEA; Browne & Cudeck, 1992). MacCallum, Browne,
+L648: 
+L649: and Sugawara (1996) characterized a model with an RMSEA of
+L650: 
+L651: .08 or less as an adequate fit; Hu & Bentler (1999) characterized
+L652: 
+L653: 455
+L654: 
+L655: SOCIAL ISOLATION AND DEPRESSION
+L656: 
+L657: a model with an RMSEA of .05 or less as a good fit and .10 or
+L658: 
+L659: more as a poor fit.
+L660: 
+L661: Results
+L662: 
+L663: Table 1 provides sample characteristics of the CHASRS cohort.
+L664: Table 2 lists means, standard deviations, and intercorrelations for
+L665: 
+L666: the CES-DML and UCLA-R Loneliness values at each annual
+L667: 
+L668: assessment. The CES-DML and UCLA-R showed moderate tem-
+L669: 
+L670: poral stability across years, r s⬎0.6. Intercorrelations between the
+L671: 
+L672: CES-DML and UCLA-R when measured at the same point in time
+L673: 
+L674: were also significant, r s⫽.42–.68.
+L675: 
+L676: We specified cross-lagged panel models to examine reciprocal
+L677: 
+L678: relationships between depressive symptoms and loneliness over a
+L679: total of four 1-year intervals. Our theoretical model assumes that
+L680: 
+L681: prospective relationships between variables are stable over time.
+L682: 
+L683: We modeled these assumptions by applying equality constraints to
+L684: 
+L685: the autoregressive and cross-lagged paths, thereby imposing “sta-
+L686: 
+L687: tionarity” on the relationships among variables in the model. In
+L688: 
+L689: Figures 1–5, autoregressive effects are represented as single-
+L690: 
+L691: headed arrows running from a given variable at one time point to
+L782: The next model examined whether the association between
+L783: 
+L784: loneliness and depressive symptoms might be attributable to actual
+L785: 
+L786: isolation. At baseline, social network size was found to be asso-
+L787: 
+L788: ciated with loneliness (r⫽⫺.19, p⬍.05) and depressive symp-
+L789: 
+L790: toms (r⫽⫺.17, p⬍.05). Building on the model displayed in
+L791: 
+L792: Figure 1, social network size was added as a covariate with 1-year
+L793: 
+L794: lagged effects on loneliness and depressive symptoms. This model,
+L795: 
+L796: depicted in Figure 2, fit the data adequately, ␹
+L797: 
+L798: 2
+L799: (334) ⫽649.970,
+L800: 
+L801: p⬍.0001; RMSEA ⫽.064, 90% CI [0.057, 0.072]. The stationary
+L802: 
+L803: lagged effect of social network size was not significant for lone-
+L804: 
+L805: liness (B⫽⫺0.02, 95% CI [⫺0.65, 0.49]) or depressive symptoms
+L806: 
+L807: (B⫽0.28, 95% CI [⫺0.26, 0.91]). Independent of neuroticism, the
+L808: 
+L809: stationary cross-lagged effect of loneliness on depressive symp-
+L810: 
+L811: toms retained statistical significance (B⫽0.18, 95% CI [0.08,
+L812: 
+L813: 0.29]), and the influence of depressive symptoms on loneliness
+L814: remained nonsignificant (B⫽0.09, 95% CI [⫺0.07, 0.20]).
+L815: 
+L816: Are the Relationships Between Loneliness and
+L817: 
+L818: Depressive Symptoms Reducible to General
+L819: 
+L820: Negativity?
+L821: 
+L822: The next model examined whether the association between
+L823: 
+L824: loneliness and depressive symptoms might be attributable to a
+L825: 
+L826: Table 1
+L827: 
+L828: Characteristics of the CHASRS Sample (N ⫽229, Unless
+L829: 
+L830: Otherwise Indicated)
+L831: 
+L832: Characteristic No. or % SD
+L833: 
+L834: Age (years) 57.4 4.5
+L835: 
+L836: Female (%) 52.4
+L837: 
+L838: Ethnicity (%)
+L839: 
+L840: White 35.8
+L841: 
+L842: Black 35.4
+L843: 
+L844: Hispanic
+L845: 
+L846: a
+L847: 
+L848: 28.8
+L849: Education (years) (N⫽223) 13.3 3.1
+L850: 
+L851: Married/living with partner (%) 61.6
+L852: 
+L853: Antidepressant medications (%) (N⫽228) 7.5
+L854: 
+L855: Psychiatric diagnosis reported (%) (N⫽226)
+L856: 
+L857: b
+L858: 
+L859: 12.4
+L860: 
+L861: Social Network Index (N⫽225) 2.9 0.9
+L862: 
+L863: Physical functioning (N⫽225) 80.4 24.2
+L864: 
+L865: Emotional stability (N⫽213) 5.6 0.9
+L866: 
+L867: Life events (N⫽228) 4.4 3.2
+L868: 
+L869: Perceived stress (N⫽223) 13.3 6.4
+L870: 
+L871: Social support (N⫽218) 12.9 2.2
+L872: 
+L873: Note. CHASRS ⫽Chicago Health, Aging, and Social Relations Study.
+L874: 
+L875: a
+L876: The greatest majority of these individuals are Mexican (72%), with the
+L877: 
+L878: remaining individuals representing a wide range of ethnicities (e.g., Puerto
+L879: 
+L880: Rican, Cuban, Chilean, Colombian, Dominican, and so on).
+L881: 
+L882: b
+L883: 
+L884: A psychi-
+L885: 
+L886: atric diagnosis was recorded if, during a health interview, participants
+L887: 
+L888: reported having had or having been told by a doctor that they had emo-
+L889: 
+L890: tional, nervous, or psychiatric problems.
+L891: 
+L892: 456 CACIOPPO, HAWKLEY, AND THISTED
+L893: more general negativity factor. At baseline, neuroticism was found
+L894: 
+L895: to be associated with loneliness (r⫽.26, p⬍.05) and depressive
+L896: 
+L897: symptoms (r⫽.39, p⬍.05). Building on the model displayed in
+L898: 
+L899: Figure 1, we added neuroticism as a covariate with 1-year lagged
+L900: 
+L901: effects on loneliness and depressive symptoms. This model, de-
+L902: 
+L903: picted in Figure 3, fit the data adequately, ␹
+L904: 
+L905: 2
+L906: 
+L907: (332) ⫽722.891, p⬍
+L908: 
+L909: .0001; RMSEA ⫽.072, 90% CI [0.065, 0.079]. The stationary
+--------------------------------------------------------------------------------
+(PDF) Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses of Loneliness and Depressive Symptomatology in the Chicago Health, Aging, and Social Relations Study (https://www.researchgate.net/publication/44670681_Perceived_Social_Isolation_Makes_Me_Sad_5-Year_Cross-Lagged_Analyses_of_Loneliness_and_Depressive_Symptomatology_in_the_Chicago_Health_Aging_and_Social_Relations_Study)
+citeturn6view2 [wordlim: 200] Crawled: last month; Content type: text/html; Source: find({"ref_id":"turn5view1","pattern":"We cannot rule"}); Total lines: 3001
+No matching text found for "We cannot rule"--------------------------------------------------------------------------------
+(PDF) Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses of Loneliness and Depressive Symptomatology in the Chicago Health, Aging, and Social Relations Study (https://www.researchgate.net/publication/44670681_Perceived_Social_Isolation_Makes_Me_Sad_5-Year_Cross-Lagged_Analyses_of_Loneliness_and_Depressive_Symptomatology_in_the_Chicago_Health_Aging_and_Social_Relations_Study)
+citeturn6view3 [wordlim: 200] Crawled: last month; Content type: text/html; Source: find({"ref_id":"turn5view1","pattern":"Discussion"}); Total lines: 3001
+L1262: Discussion
+L1263: 
+L1264: Much of the prior research on loneliness and depressive symp-
+L1265: 
+L1266: toms, particularly in the United States, has relied on convenience
+L1267: 
+L1268: samples. Data from representative samples are needed if research-
+L1269: 
+L1270: ers are to understand loneliness as a risk factor for depressive
+L1271: 
+L1272: symptomatology in middle-aged and older adults. The present
+L1273: 
+L1274: study serves this purpose; adds to growing evidence for the con-
+L1275: 
+L1276: ceptual, stochastic, and functional distinctions between loneliness
+L1277: and depressive symptoms; and provides evidence that loneliness
+L1278: 
+L1279: predicts if not promotes increases in depressive symptomatology
+L1280: 
+L1281: regardless of age, gender, or ethnicity. First, we found loneliness
+L1282: 
+L1283: and depressive symptoms, as measured by the UCLA-R and CES-
+L1284: 
+L1285: DML, to be statistically separable. Second, we found loneliness in
+L1286: 
+L1287: year n⫺1 to predict changes in depressive symptoms in year n
+L1288: 
+L1289: above and beyond what could be explained by depressive symp-
+L1290: 
+L1291: toms in year n⫺1. Third, when demographic variables were
+L2642: The primary outcomes include depressive symptom severity and perceived loneliness across the course of treatment and follow-up. Secondary outcomes and covariates are analyzed to identify other clinically relevant indicators, such as life satisfaction and suicidality, and to better understand the biopsychosocial interplay between loneliness and depression.
+L2643: Descriptive and inferential statistical analyses, including (generalized) linear mixed model analyses and mixed analyses of variance (ANOVA), will be conducted following both hypothesis-driven and exploratory approaches. Discussion By employing a clinical sample and longitudinal design, this study advances the understanding of the role of loneliness in the treatment and maintenance of depression.
+L2644: In addition to evaluating primary outcomes, analyses of secondary outcomes can provide information on shared and distinct biopsychosocial pathways, thereby identifying potential correlates of mental health outcomes that may inform future research. Limitations include the possible inflation of Type I errors in exploratory analyses and potential biases such as selection bias and cognitive distortions in self-reported data.
+L2645: Nevertheless, this study can provide an important foundation for subsequent clinical trials and translational research. This study was prospectively registered at ClinicalTrials.gov on 31st December 2025 before patient enrollment (Identifier: NCT07333027, Study Details | NCT07333027 | Lonely in Depression | ClinicalTrials.gov). Study Protocol Registration https://clinicaltrials.gov/study/NCT07333027?cond=NCT07333027&viewType=Card&rank=1, identifier NCT07333027.
+L2749: In contrast, men exhibited higher normalized LF-HRV (LF norm) and LF/HF ratios, reflecting greater relative LF predominance and differences in autonomic quality rather than increased sympathetic activation. Significant sex × age interactions were observed for stress, happiness, and empathy, indicating divergent age-related trajectories between men and women, with women showing declines in these variables with increasing age.
+L2750: Regression analyses further showed that conflict-related stress was positively associated with trait loneliness, depression, anxiety, and LF-related indices, whereas higher root mean square of successive differences (RMSSD), reflecting better parasympathetic regulation, was associated with lower stress. Post-conflict pain was positively associated with female sex, stress, and LF-related indices and negatively associated with emotional resources.
+L2751: Discussion Social conflict imagery elicited selective parasympathetic withdrawal, autonomic spectral redistribution, psychological distress, and increased pain, particularly among psychologically vulnerable individuals. Conversely, adaptive autonomic regulation, emotional resources, and social support promoted resilience and enhanced wellbeing.
+L2752: These findings highlight psychophysiological and psychosocial pathways through which vulnerability and resilience shape stress, wellbeing, and pain-related outcomes under social conflict. The ecological validity of these findings warrants further investigation.
+L2753: cite43†View L2754: 
+L2755: Show abstract
+L2756: 
+L2757: cite48†Emotional Deprivation Loneliness and Social Disconnection among Internal Migrant Labourers in Kanpur India L2758: 
+L2759: Preprint
+L2760: 
+L2761: Full-text available
+L2762: 
+L2763:   * Jul 2026
+L2764: 
+L2765:   * cite49†Shikha Verma L2766:   * cite50†Shikha Maurya L2767:   * cite51†Kritika Mishra L2768: Internal migration in India is often accompanied by profound psychosocial challenges that remain underexplored in empirical research. The present exploratory mixed-method study investigated emotional deprivation, loneliness, and social disconnection among internal migrant labourers in Kanpur, India. A purposive sample of 50 migrant workers participated in the quantitative phase using the Emotional Deprivation Scale (EDS) and the UCLA Loneliness Scale.
+L2769: Both instruments demonstrated high internal consistency (α = .965 and α = .943, respectively). Descriptive and non-parametric analyses indicated substantial levels of perceived emotional neglect, relational insecurity, and subjective social isolation. A majority of participants endorsed statements reflecting lack of emotional support, absence of understanding, workplace abandonment, and persistent feelings of emptiness.
+L2770: Similarly, high agreement rates were observed for items indicating having no one to talk to, feeling completely alone, difficulty forming friendships, and longing for companionship. The qualitative interpretive component revealed four dominant themes related to emotional deprivation (lack of emotional support, perceived abandonment, emotional emptiness, and relational insecurity) and three themes related to loneliness (perceived social isolation, emotional non-understanding, and longing for companionship).
+

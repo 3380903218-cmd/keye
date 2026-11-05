@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-15",
+  "operation": "rename_directory",
+  "old_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/2026-10-15_文献综述十篇",
+  "new_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述",
+  "copied_files": 0,
+  "moved_existing_files": 61,
+  "inode_device_and_sha256_unchanged": true,
+  "reading_text_directory": "full-text",
+  "pdf_count": 8,
+  "reprinted_html_count": 1,
+  "unavailable_full_text": [
+    "L06"
+  ],
+  "note": "所有包内相对路径保持有效。sources下下载日志中的旧绝对路径保留为历史记录，查找现有文件时以本迁移映射为准。"
+}

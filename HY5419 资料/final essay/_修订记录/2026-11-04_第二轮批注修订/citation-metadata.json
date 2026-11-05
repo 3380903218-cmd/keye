@@ -1,0 +1,78 @@
+[
+  {
+    "doi": "10.1017/S1356186300009986",
+    "status": 200,
+    "title": [
+      "Stein's Recording Angel – Miss F. M. G. Lorimer"
+    ],
+    "author": [
+      {
+        "given": "Helen",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Asiatic Society"
+    ],
+    "volume": "8",
+    "issue": "2",
+    "page": "207-228",
+    "URL": "https://doi.org/10.1017/s1356186300009986"
+  },
+  {
+    "doi": "10.5334/srah.8",
+    "status": 200,
+    "title": [
+      "Reconstructing a Medieval Library? The Contents of the Manuscript Bundles in the Dunhuang Library Cave"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6543-0923",
+        "authenticated-orcid": false,
+        "given": "Paschalia",
+        "family": "Terzi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9460-167X",
+        "authenticated-orcid": false,
+        "given": "Susan",
+        "family": "Whitfield",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Silk Roads Archaeology and Heritage"
+    ],
+    "volume": "1",
+    "issue": "1",
+    "page": "56-76",
+    "URL": "https://doi.org/10.5334/srah.8"
+  },
+  {
+    "doi": "10.3785/j.issn.1008-942X.CN33-6000/C.2018.02.051",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

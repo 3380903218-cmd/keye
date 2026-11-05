@@ -1,0 +1,1553 @@
+{
+  "version": "0.1.0",
+  "revision": "r2",
+  "duration": 600,
+  "fps": 25,
+  "cuts": 78,
+  "source_files": {
+    "S01": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/0287720ba6da6426f2cb2676c01483db.mp4",
+    "S02": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/3c6c67f7b5272aa2324fa98dd3a134e0.mp4",
+    "S03": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/7297cb044842ecdddf78671b2262e225.mp4",
+    "S04": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/76ab065286129349a3be8663ca8e7400.mp4",
+    "S05": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/7cf7b40e0f4af282daa59f06519643b3.mp4",
+    "S06": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/83893a7b87f6fa1dadc723d16e9b1cea.mp4",
+    "S07": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/8ac019da8f77960c2429d99252f9c1cf.mp4",
+    "S08": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/90884d6b5a7dc62ee420b53c6e88c343.mp4",
+    "S09": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/98726540b1e54615f54998c231463dbb.mp4",
+    "S10": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/ab09b94c74636b38e558855ca163abea.mp4",
+    "S11": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/bc9f7fb8606579dcbd297a16468d4195.mp4",
+    "S12": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/d9c6a0327faee41f0feb22d9d78e97f8.mp4",
+    "S13": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/fc192df2de3c25edac1cd447e725c8db.mp4",
+    "N01": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_01_20231130_史密斯街更新_振兴与绅士化争议.mp4",
+    "N03": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_03_20250518_史密斯街更新后_生意改善与租金人手挑战.mp4",
+    "N06": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_06_20250404_白新春茶庄_活态传承与社区联系.mp4",
+    "N08": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_08_20250513_原貌与展示_牛车水原貌馆重新开放.mp4",
+    "N09": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_09_20250108_节庆文化的呈现_农历新年灯饰与市集.mp4",
+    "N10": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_10_20261101_遗产企业支持_经营延续与社区活动.mp4",
+    "N06V": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/衍生素材/N06_旁白画面_下缘字幕避让.mp4",
+    "title": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/title.png",
+    "ch2": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/ch2.png",
+    "ch3": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/ch3.png",
+    "ch4": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/ch4.png",
+    "ch5": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/ch5.png",
+    "ch6": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/ch6.png",
+    "ch7": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/ch7.png",
+    "shophouse": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/shophouse.png",
+    "choices": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/choices.png",
+    "date": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/date.png",
+    "visible": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/visible.png",
+    "costs": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/costs.png",
+    "limits": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/limits.png",
+    "practice": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/practice.png",
+    "quote": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/quote.png",
+    "voices": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/voices.png",
+    "influence": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/influence.png",
+    "return": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/return.png",
+    "q1": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/q1.png",
+    "q2": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/q2.png",
+    "q3": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/q3.png",
+    "credits1": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/credits1.png",
+    "credits2": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/credits2.png",
+    "credits3": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/credits3.png",
+    "credits4": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/图卡/credits4.png"
+  },
+  "edit": [
+    {
+      "start": 0,
+      "end": 7,
+      "source": "S03",
+      "inpoint": 2,
+      "original_audio": false
+    },
+    {
+      "start": 7,
+      "end": 11,
+      "source": "S11",
+      "inpoint": 0.4,
+      "original_audio": false
+    },
+    {
+      "start": 11,
+      "end": 17,
+      "source": "S01",
+      "inpoint": 3,
+      "original_audio": false
+    },
+    {
+      "start": 17,
+      "end": 22,
+      "source": "S07",
+      "inpoint": 1,
+      "original_audio": false
+    },
+    {
+      "start": 22,
+      "end": 25,
+      "source": "S02",
+      "inpoint": 0.2,
+      "original_audio": false
+    },
+    {
+      "start": 25,
+      "end": 33,
+      "source": "S10",
+      "inpoint": 4,
+      "original_audio": false
+    },
+    {
+      "start": 33,
+      "end": 40,
+      "source": "title",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 40,
+      "end": 45,
+      "source": "ch2",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 45,
+      "end": 53,
+      "source": "S09",
+      "inpoint": 1,
+      "original_audio": false
+    },
+    {
+      "start": 53,
+      "end": 63,
+      "source": "shophouse",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 63,
+      "end": 72,
+      "source": "N08",
+      "inpoint": 112,
+      "original_audio": false
+    },
+    {
+      "start": 72,
+      "end": 84,
+      "source": "choices",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 84,
+      "end": 92,
+      "source": "S10",
+      "inpoint": 6,
+      "original_audio": false
+    },
+    {
+      "start": 92,
+      "end": 101,
+      "source": "date",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 101,
+      "end": 110,
+      "source": "S08",
+      "inpoint": 1,
+      "original_audio": false
+    },
+    {
+      "start": 110,
+      "end": 114,
+      "source": "ch3",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 114,
+      "end": 123,
+      "source": "N09",
+      "inpoint": 52,
+      "original_audio": false
+    },
+    {
+      "start": 123,
+      "end": 131,
+      "source": "N09",
+      "inpoint": 89,
+      "original_audio": false
+    },
+    {
+      "start": 131,
+      "end": 136,
+      "source": "S12",
+      "inpoint": 1,
+      "original_audio": false
+    },
+    {
+      "start": 136,
+      "end": 144,
+      "source": "N08",
+      "inpoint": 112,
+      "original_audio": false
+    },
+    {
+      "start": 144,
+      "end": 152,
+      "source": "N08",
+      "inpoint": 120,
+      "original_audio": false
+    },
+    {
+      "start": 152,
+      "end": 159,
+      "source": "visible",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 159,
+      "end": 166,
+      "source": "S01",
+      "inpoint": 3,
+      "original_audio": false
+    },
+    {
+      "start": 166,
+      "end": 172,
+      "source": "S07",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 172,
+      "end": 180,
+      "source": "S03",
+      "inpoint": 14,
+      "original_audio": false
+    },
+    {
+      "start": 180,
+      "end": 184,
+      "source": "ch4",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 184,
+      "end": 192,
+      "source": "N01",
+      "inpoint": 28,
+      "original_audio": false
+    },
+    {
+      "start": 192,
+      "end": 199,
+      "source": "N01",
+      "inpoint": 74,
+      "original_audio": false
+    },
+    {
+      "start": 199,
+      "end": 205,
+      "source": "N01",
+      "inpoint": 97,
+      "original_audio": false
+    },
+    {
+      "start": 205,
+      "end": 214.2,
+      "source": "N01",
+      "inpoint": 107.6,
+      "original_audio": true
+    },
+    {
+      "start": 214.2,
+      "end": 219,
+      "source": "S12",
+      "inpoint": 2,
+      "original_audio": false
+    },
+    {
+      "start": 219,
+      "end": 227,
+      "source": "N03",
+      "inpoint": 26,
+      "original_audio": false
+    },
+    {
+      "start": 227,
+      "end": 235,
+      "source": "N03",
+      "inpoint": 80,
+      "original_audio": false
+    },
+    {
+      "start": 235,
+      "end": 241,
+      "source": "N03",
+      "inpoint": 123,
+      "original_audio": false
+    },
+    {
+      "start": 241,
+      "end": 256.2,
+      "source": "N03",
+      "inpoint": 49.05,
+      "original_audio": true
+    },
+    {
+      "start": 256.2,
+      "end": 263,
+      "source": "S13",
+      "inpoint": 3,
+      "original_audio": false
+    },
+    {
+      "start": 263,
+      "end": 273,
+      "source": "costs",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 273,
+      "end": 282,
+      "source": "S09",
+      "inpoint": 6,
+      "original_audio": false
+    },
+    {
+      "start": 282,
+      "end": 290,
+      "source": "limits",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 290,
+      "end": 293,
+      "source": "ch5",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 293,
+      "end": 296,
+      "source": "S02",
+      "inpoint": 0.25,
+      "original_audio": false
+    },
+    {
+      "start": 296,
+      "end": 304,
+      "source": "N06V",
+      "inpoint": 37.5,
+      "original_audio": false
+    },
+    {
+      "start": 304,
+      "end": 312,
+      "source": "N06V",
+      "inpoint": 113,
+      "original_audio": false
+    },
+    {
+      "start": 312,
+      "end": 320,
+      "source": "N06V",
+      "inpoint": 177,
+      "original_audio": false
+    },
+    {
+      "start": 320,
+      "end": 331,
+      "source": "N06V",
+      "inpoint": 234,
+      "original_audio": false
+    },
+    {
+      "start": 331,
+      "end": 342.8,
+      "source": "N06",
+      "inpoint": 44.2,
+      "original_audio": true
+    },
+    {
+      "start": 342.8,
+      "end": 345,
+      "source": "S12",
+      "inpoint": 2,
+      "original_audio": false
+    },
+    {
+      "start": 345,
+      "end": 354,
+      "source": "N06V",
+      "inpoint": 142,
+      "original_audio": false
+    },
+    {
+      "start": 354,
+      "end": 363,
+      "source": "practice",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 363,
+      "end": 371,
+      "source": "N06V",
+      "inpoint": 296,
+      "original_audio": false
+    },
+    {
+      "start": 371,
+      "end": 379,
+      "source": "N10",
+      "inpoint": 25,
+      "original_audio": false
+    },
+    {
+      "start": 379,
+      "end": 388,
+      "source": "N10",
+      "inpoint": 48,
+      "original_audio": false
+    },
+    {
+      "start": 388,
+      "end": 397,
+      "source": "N10",
+      "inpoint": 65,
+      "original_audio": false
+    },
+    {
+      "start": 397,
+      "end": 402.4,
+      "source": "N10",
+      "inpoint": 74.7,
+      "original_audio": true
+    },
+    {
+      "start": 402.4,
+      "end": 410,
+      "source": "quote",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 410,
+      "end": 414,
+      "source": "ch6",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 414,
+      "end": 424,
+      "source": "voices",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 424,
+      "end": 431,
+      "source": "S04",
+      "inpoint": 1,
+      "original_audio": false
+    },
+    {
+      "start": 431,
+      "end": 438,
+      "source": "S01",
+      "inpoint": 3,
+      "original_audio": false
+    },
+    {
+      "start": 438,
+      "end": 448,
+      "source": "influence",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 448,
+      "end": 456,
+      "source": "N10",
+      "inpoint": 65,
+      "original_audio": false
+    },
+    {
+      "start": 456,
+      "end": 464,
+      "source": "N03",
+      "inpoint": 160,
+      "original_audio": false
+    },
+    {
+      "start": 464,
+      "end": 474,
+      "source": "S08",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 474,
+      "end": 482,
+      "source": "S10",
+      "inpoint": 8,
+      "original_audio": false
+    },
+    {
+      "start": 482,
+      "end": 490,
+      "source": "return",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 490,
+      "end": 494,
+      "source": "ch7",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 494,
+      "end": 503,
+      "source": "S03",
+      "inpoint": 3,
+      "original_audio": false
+    },
+    {
+      "start": 503,
+      "end": 513,
+      "source": "q1",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 513,
+      "end": 520,
+      "source": "N06V",
+      "inpoint": 232,
+      "original_audio": false
+    },
+    {
+      "start": 520,
+      "end": 530,
+      "source": "q2",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 530,
+      "end": 538,
+      "source": "S09",
+      "inpoint": 4,
+      "original_audio": false
+    },
+    {
+      "start": 538,
+      "end": 548,
+      "source": "q3",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 548,
+      "end": 556,
+      "source": "S13",
+      "inpoint": 7,
+      "original_audio": false
+    },
+    {
+      "start": 556,
+      "end": 565,
+      "source": "S03",
+      "inpoint": 14,
+      "original_audio": false
+    },
+    {
+      "start": 565,
+      "end": 575,
+      "source": "credits1",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 575,
+      "end": 585,
+      "source": "credits2",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 585,
+      "end": 595,
+      "source": "credits3",
+      "inpoint": 0,
+      "original_audio": false
+    },
+    {
+      "start": 595,
+      "end": 600,
+      "source": "credits4",
+      "inpoint": 0,
+      "original_audio": false
+    }
+  ],
+  "narration": [
+    {
+      "start": 2,
+      "end": 33,
+      "section": 1,
+      "text": "Walk into Singapore's Chinatown, and the shophouses are often the first thing you notice. Yet the history of a street also lives in everyday encounters: buying food, running a business, sharing skills, and returning to familiar places. When the buildings survive, what helps these relationships continue? This film follows that question through the streets and one working tea business.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/01_EN_section1.wav",
+      "duration": 26.899625,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/01_EN_section1.wav"
+    },
+    {
+      "start": 42,
+      "end": 64,
+      "section": 2,
+      "text": "Chinatown grew through migration, trade and settlement. Its shophouses connected work and home, with business on the ground floor and living space above. The historic district contains several different precincts. Here, a small selection of streets offers a starting point, rather than a complete picture of the whole district.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/02_EN_section2.wav",
+      "duration": 21.895125,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0049971422592705,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/02_EN_section2.wav"
+    },
+    {
+      "start": 65,
+      "end": 85,
+      "section": 2,
+      "text": "Remembering an earlier Chinatown does not mean that every part of its past should return. Older housing also faced overcrowding and poor sanitation. People needed better living conditions. Conservation therefore involves choices about what to retain, what to improve, and whose needs should guide those changes.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/03_EN_section2.wav",
+      "duration": 19.918541666666666,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0053727694611785,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/03_EN_section2.wav"
+    },
+    {
+      "start": 86,
+      "end": 108,
+      "section": 2,
+      "text": "On the seventh of July, nineteen eighty-nine, Chinatown received conservation status. This helped protect its architectural and historical character. But keeping a building and sustaining its use are related questions with different answers. A restored facade alone cannot tell us whether people still have the conditions to live, work and gather around it.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/04_EN_section2.wav",
+      "duration": 21.947875,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0478080143540671,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/04_EN_section2.wav"
+    },
+    {
+      "start": 112,
+      "end": 133,
+      "section": 3,
+      "text": "Festivals make Chinatown's cultural identity especially visible. Lights and markets bring people together, while exhibitions introduce visitors to earlier lives. These are valuable ways of sharing history. The festival footage here records Chinese New Year in twenty twenty-five, rather than an ordinary day on the street.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/05_EN_section3.wav",
+      "duration": 20.921354166666667,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.005079311330039,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/05_EN_section3.wav"
+    },
+    {
+      "start": 134,
+      "end": 157,
+      "section": 3,
+      "text": "The rooms inside the Chinatown Heritage Centre are reconstructions, designed to help visitors imagine the past. They should not be mistaken for historical film. Alongside these displays, another question remains: how do people use the district today, outside the moments selected for celebration or exhibition?",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/06_EN_section3.wav",
+      "duration": 22.75214583333333,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/06_EN_section3.wav"
+    },
+    {
+      "start": 158,
+      "end": 178,
+      "section": 3,
+      "text": "These street images show shops, goods and people passing through. They cannot tell us who is a resident or a tourist, or how long a business has been here. They encourage a closer question: what makes this a place people can keep using, as well as visiting?",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/07_EN_section3.wav",
+      "duration": 18.050875,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/07_EN_section3.wav"
+    },
+    {
+      "start": 182,
+      "end": 204,
+      "section": 4,
+      "text": "Revitalisation can take different forms. In November twenty twenty-three, CNA reported plans for a single master tenant to manage a row of thirteen shophouses on Smith Street. The aim was to attract people while retaining the area's heritage. Existing businesses also had concerns about what change might bring.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/08_EN_section4.wav",
+      "duration": 21.90502083333333,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0049728152764885,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/08_EN_section4.wav"
+    },
+    {
+      "start": 216,
+      "end": 240,
+      "section": 4,
+      "text": "A separate CNA report in May twenty twenty-five examined collaboration between businesses and the Chinatown Heritage Centre. Some interviewed businesses described improved sales, alongside continuing pressures. This was a different initiative. These reports cannot, by themselves, show that the earlier tender caused those later improvements.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/09_EN_section4.wav",
+      "duration": 23.909375000000004,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0046378200699733,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/09_EN_section4.wav"
+    },
+    {
+      "start": 258,
+      "end": 288,
+      "section": 4,
+      "text": "More customers can help a business survive. But sales, costs and the ability to stay must be considered together. Shopkeepers are not necessarily long-term residents, and residents do not all run shops. A benefit for one group does not automatically reach everyone. The useful question is how tourism income supports continued use, and which needs remain outside the measures of commercial success.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/10_EN_section4.wav",
+      "duration": 29.16825,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/10_EN_section4.wav"
+    },
+    {
+      "start": 293,
+      "end": 329,
+      "section": 5,
+      "text": "Pek Sin Choon brings these questions into a working tea business. My street footage records its shopfront. The interior scenes that follow come from a National Heritage Board film, published by Roots Singapore. They show a form of heritage carried through practice: selecting, blending and tasting tea, handling materials, and passing experience to other people. The building matters, and so does the knowledge that people continue to use inside it.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/11_EN_section5.wav",
+      "duration": 31.835250000000002,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/11_EN_section5.wav"
+    },
+    {
+      "start": 345,
+      "end": 370,
+      "section": 5,
+      "text": "This is one way to understand living heritage. Continuity depends on people continuing to do things, learn them, and adapt them to present needs. New workshops or partnerships do not automatically weaken tradition. Their significance depends on whether they support the knowledge, relationships and everyday work through which it survives.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/12_EN_section5.wav",
+      "duration": 23.5474375,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/12_EN_section5.wav"
+    },
+    {
+      "start": 371,
+      "end": 395,
+      "section": 5,
+      "text": "A twenty twenty-six CNA report also shows Pek Sin Choon sharing its stories through community programmes. These connections extend beyond the shopfront. They offer one example of how a business can remain part of present life. The case does not represent every business or resident, and continued operation still needs practical support.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/13_EN_section5.wav",
+      "duration": 23.9035,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0047141737526593,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/13_EN_section5.wav"
+    },
+    {
+      "start": 413,
+      "end": 437,
+      "section": 6,
+      "text": "People can agree that Chinatown deserves protection and still disagree about how to protect it. A resident, a shopkeeper, a visitor and a planning authority may value the same street for different reasons. These identities can overlap. The community is not a single voice, and no one example can speak for everyone.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/14_EN_section6.wav",
+      "duration": 22.82860416666667,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/14_EN_section6.wav"
+    },
+    {
+      "start": 439,
+      "end": 464,
+      "section": 6,
+      "text": "Public agencies, businesses and cultural organisations can all provide resources. Their involvement also raises questions about priorities. Being invited to an activity, being asked for an opinion, and being able to change a decision are different forms of participation. To understand conservation, we need to examine whose preferences actually shape the choices.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/15_EN_section6.wav",
+      "duration": 24.89845833333333,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0060713040446303,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/15_EN_section6.wav"
+    },
+    {
+      "start": 465,
+      "end": 488,
+      "section": 6,
+      "text": "Moving out of an old shophouse need not end a connection with Chinatown. Returning to shop, work or take part in religious life can also sustain it. These links deserve attention beyond the streets most visible to visitors. The issue is how a conserved district remains connected to the people who use it.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/16_EN_section6.wav",
+      "duration": 20.986020833333335,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/16_EN_section6.wav"
+    },
+    {
+      "start": 493,
+      "end": 514,
+      "section": 7,
+      "text": "The next time you walk through Chinatown, consider three questions. First, who can continue to use this place? Look beyond the appearance of the buildings to the activities they make possible. A street can carry memory through repeated use, even as the people and their routines change.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/17_EN_section7.wav",
+      "duration": 20.493000000000002,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/17_EN_section7.wav"
+    },
+    {
+      "start": 515,
+      "end": 537,
+      "section": 7,
+      "text": "Second, do the benefits help sustain work and transmission? Visitor numbers show attraction, but they do not explain every cost, or whether skills can be passed on. Third, can different users influence change? Conservation decisions should be examined through their consequences, as well as their stated intentions.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/18_EN_section7.wav",
+      "duration": 21.910625000000003,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.0049266847722333,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/18_EN_section7.wav"
+    },
+    {
+      "start": 538,
+      "end": 562,
+      "section": 7,
+      "text": "These materials lead me to understand buildings, livelihoods and everyday relationships together. Tourism and cultural display can create opportunities. Their value also depends on the conditions they leave for continued use. Conserving Chinatown should keep history visible while allowing people today to practise it, learn from it, and take part in shaping its future.",
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/19_EN_section7.wav",
+      "duration": 23.89,
+      "voice": "Daniel",
+      "rate": 145,
+      "fit_speed": 1.004440505551557,
+      "normalized_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/剪映工程_v01/配音/标准化/19_EN_section7.wav"
+    }
+  ],
+  "captions": [
+    {
+      "start": 2,
+      "end": 7.556,
+      "text": "Walk into Singapore's Chinatown, and the shophouses are often the first thing you notice.",
+      "kind": "narration"
+    },
+    {
+      "start": 8.256,
+      "end": 12.409,
+      "text": "Yet the history of a street also lives in everyday encounters:",
+      "kind": "narration"
+    },
+    {
+      "start": 12.409,
+      "end": 18.079,
+      "text": "buying food, running a business, sharing skills, and returning to familiar places.",
+      "kind": "narration"
+    },
+    {
+      "start": 18.779,
+      "end": 22.895,
+      "text": "When the buildings survive, what helps these relationships continue?",
+      "kind": "narration"
+    },
+    {
+      "start": 23.595,
+      "end": 28.2,
+      "text": "This film follows that question through the streets and one working tea business.",
+      "kind": "narration"
+    },
+    {
+      "start": 42,
+      "end": 45.456,
+      "text": "Chinatown grew through migration, trade and settlement.",
+      "kind": "narration"
+    },
+    {
+      "start": 45.928,
+      "end": 49.505,
+      "text": "Its shophouses connected work and home, with business on the",
+      "kind": "narration"
+    },
+    {
+      "start": 49.505,
+      "end": 51.679,
+      "text": "ground floor and living space above.",
+      "kind": "narration"
+    },
+    {
+      "start": 52.151,
+      "end": 55.944,
+      "text": "The historic district contains several different precincts.",
+      "kind": "narration"
+    },
+    {
+      "start": 56.416,
+      "end": 60.104,
+      "text": "Here, a small selection of streets offers a starting point,",
+      "kind": "narration"
+    },
+    {
+      "start": 60.104,
+      "end": 63.423,
+      "text": "rather than a complete picture of the whole district.",
+      "kind": "narration"
+    },
+    {
+      "start": 65,
+      "end": 70.09,
+      "text": "Remembering an earlier Chinatown does not mean that every part of its past should return.",
+      "kind": "narration"
+    },
+    {
+      "start": 70.412,
+      "end": 74.099,
+      "text": "Older housing also faced overcrowding and poor sanitation.",
+      "kind": "narration"
+    },
+    {
+      "start": 74.421,
+      "end": 76.712,
+      "text": "People needed better living conditions.",
+      "kind": "narration"
+    },
+    {
+      "start": 77.034,
+      "end": 80.923,
+      "text": "Conservation therefore involves choices about what to retain,",
+      "kind": "narration"
+    },
+    {
+      "start": 80.923,
+      "end": 84.597,
+      "text": "what to improve, and whose needs should guide those changes.",
+      "kind": "narration"
+    },
+    {
+      "start": 86,
+      "end": 91.903,
+      "text": "On the seventh of July, nineteen eighty-nine, Chinatown received conservation status.",
+      "kind": "narration"
+    },
+    {
+      "start": 92.153,
+      "end": 95.849,
+      "text": "This helped protect its architectural and historical character.",
+      "kind": "narration"
+    },
+    {
+      "start": 96.099,
+      "end": 99.172,
+      "text": "But keeping a building and sustaining its use are related",
+      "kind": "narration"
+    },
+    {
+      "start": 99.172,
+      "end": 101.092,
+      "text": "questions with different answers.",
+      "kind": "narration"
+    },
+    {
+      "start": 101.342,
+      "end": 104.917,
+      "text": "A restored facade alone cannot tell us whether people still have",
+      "kind": "narration"
+    },
+    {
+      "start": 104.917,
+      "end": 107.698,
+      "text": "the conditions to live, work and gather around it.",
+      "kind": "narration"
+    },
+    {
+      "start": 112,
+      "end": 116.261,
+      "text": "Festivals make Chinatown's cultural identity especially visible.",
+      "kind": "narration"
+    },
+    {
+      "start": 116.564,
+      "end": 120.231,
+      "text": "Lights and markets bring people together, while exhibitions",
+      "kind": "narration"
+    },
+    {
+      "start": 120.231,
+      "end": 122.488,
+      "text": "introduce visitors to earlier lives.",
+      "kind": "narration"
+    },
+    {
+      "start": 122.791,
+      "end": 125.333,
+      "text": "These are valuable ways of sharing history.",
+      "kind": "narration"
+    },
+    {
+      "start": 125.636,
+      "end": 129.27,
+      "text": "The festival footage here records Chinese New Year in twenty",
+      "kind": "narration"
+    },
+    {
+      "start": 129.27,
+      "end": 132.618,
+      "text": "twenty-five, rather than an ordinary day on the street.",
+      "kind": "narration"
+    },
+    {
+      "start": 134,
+      "end": 137.23,
+      "text": "The rooms inside the Chinatown Heritage Centre are",
+      "kind": "narration"
+    },
+    {
+      "start": 137.23,
+      "end": 141.211,
+      "text": "reconstructions, designed to help visitors imagine the past.",
+      "kind": "narration"
+    },
+    {
+      "start": 141.911,
+      "end": 144.962,
+      "text": "They should not be mistaken for historical film.",
+      "kind": "narration"
+    },
+    {
+      "start": 145.662,
+      "end": 150.253,
+      "text": "Alongside these displays, another question remains: how do people",
+      "kind": "narration"
+    },
+    {
+      "start": 150.253,
+      "end": 154.119,
+      "text": "use the district today, outside the moments selected for",
+      "kind": "narration"
+    },
+    {
+      "start": 154.119,
+      "end": 156.052,
+      "text": "celebration or exhibition?",
+      "kind": "narration"
+    },
+    {
+      "start": 158,
+      "end": 162.222,
+      "text": "These street images show shops, goods and people passing through.",
+      "kind": "narration"
+    },
+    {
+      "start": 162.922,
+      "end": 166.121,
+      "text": "They cannot tell us who is a resident or a tourist, or",
+      "kind": "narration"
+    },
+    {
+      "start": 166.121,
+      "end": 168.204,
+      "text": "how long a business has been here.",
+      "kind": "narration"
+    },
+    {
+      "start": 168.904,
+      "end": 173.048,
+      "text": "They encourage a closer question: what makes this a place people",
+      "kind": "narration"
+    },
+    {
+      "start": 173.048,
+      "end": 175.351,
+      "text": "can keep using, as well as visiting?",
+      "kind": "narration"
+    },
+    {
+      "start": 182,
+      "end": 184.939,
+      "text": "Revitalisation can take different forms.",
+      "kind": "narration"
+    },
+    {
+      "start": 185.386,
+      "end": 189.822,
+      "text": "In November twenty twenty-three, CNA reported plans for a single",
+      "kind": "narration"
+    },
+    {
+      "start": 189.822,
+      "end": 194.499,
+      "text": "master tenant to manage a row of thirteen shophouses on Smith Street.",
+      "kind": "narration"
+    },
+    {
+      "start": 194.946,
+      "end": 198.673,
+      "text": "The aim was to attract people while retaining the area's heritage.",
+      "kind": "narration"
+    },
+    {
+      "start": 199.121,
+      "end": 203.457,
+      "text": "Existing businesses also had concerns about what change might bring.",
+      "kind": "narration"
+    },
+    {
+      "start": 205.25,
+      "end": 209.6,
+      "text": "He wishes to stay on under the new master tenant",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 209.6,
+      "end": 213.99,
+      "text": "but hopes the rejuvenation project won't over-commercialise the area and drive up rents.",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 216,
+      "end": 219.515,
+      "text": "A separate CNA report in May twenty twenty-five examined",
+      "kind": "narration"
+    },
+    {
+      "start": 219.515,
+      "end": 223.909,
+      "text": "collaboration between businesses and the Chinatown Heritage Centre.",
+      "kind": "narration"
+    },
+    {
+      "start": 224.494,
+      "end": 230.067,
+      "text": "Some interviewed businesses described improved sales, alongside continuing pressures.",
+      "kind": "narration"
+    },
+    {
+      "start": 230.651,
+      "end": 232.361,
+      "text": "This was a different initiative.",
+      "kind": "narration"
+    },
+    {
+      "start": 232.945,
+      "end": 237.148,
+      "text": "These reports cannot, by themselves, show that the earlier tender",
+      "kind": "narration"
+    },
+    {
+      "start": 237.148,
+      "end": 239.325,
+      "text": "caused those later improvements.",
+      "kind": "narration"
+    },
+    {
+      "start": 241.26,
+      "end": 243.54,
+      "text": "First of all is definitely the rental.",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 243.54,
+      "end": 248.56,
+      "text": "Yeah, in this location, definitely it's not going to be low.",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 249.46,
+      "end": 255.92,
+      "text": "And subsequently, I think for us, manpower is a challenge.",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 258,
+      "end": 260.619,
+      "text": "More customers can help a business survive.",
+      "kind": "narration"
+    },
+    {
+      "start": 261.319,
+      "end": 265.91,
+      "text": "But sales, costs and the ability to stay must be considered together.",
+      "kind": "narration"
+    },
+    {
+      "start": 266.61,
+      "end": 270.59,
+      "text": "Shopkeepers are not necessarily long-term residents, and",
+      "kind": "narration"
+    },
+    {
+      "start": 270.59,
+      "end": 272.659,
+      "text": "residents do not all run shops.",
+      "kind": "narration"
+    },
+    {
+      "start": 273.359,
+      "end": 277.438,
+      "text": "A benefit for one group does not automatically reach everyone.",
+      "kind": "narration"
+    },
+    {
+      "start": 278.138,
+      "end": 282.266,
+      "text": "The useful question is how tourism income supports continued use,",
+      "kind": "narration"
+    },
+    {
+      "start": 282.266,
+      "end": 286.468,
+      "text": "and which needs remain outside the measures of commercial success.",
+      "kind": "narration"
+    },
+    {
+      "start": 293,
+      "end": 296.917,
+      "text": "Pek Sin Choon brings these questions into a working tea business.",
+      "kind": "narration"
+    },
+    {
+      "start": 297.617,
+      "end": 300.282,
+      "text": "My street footage records its shopfront.",
+      "kind": "narration"
+    },
+    {
+      "start": 300.982,
+      "end": 304.895,
+      "text": "The interior scenes that follow come from a National Heritage",
+      "kind": "narration"
+    },
+    {
+      "start": 304.895,
+      "end": 307.605,
+      "text": "Board film, published by Roots Singapore.",
+      "kind": "narration"
+    },
+    {
+      "start": 308.305,
+      "end": 312.688,
+      "text": "They show a form of heritage carried through practice: selecting,",
+      "kind": "narration"
+    },
+    {
+      "start": 312.688,
+      "end": 316.601,
+      "text": "blending and tasting tea, handling materials, and passing",
+      "kind": "narration"
+    },
+    {
+      "start": 316.601,
+      "end": 318.479,
+      "text": "experience to other people.",
+      "kind": "narration"
+    },
+    {
+      "start": 319.179,
+      "end": 324.135,
+      "text": "The building matters, and so does the knowledge that people continue to use inside it.",
+      "kind": "narration"
+    },
+    {
+      "start": 331.34,
+      "end": 335.9,
+      "text": "These 100 years in Singapore, we have been experiencing tea,",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 335.9,
+      "end": 339.26,
+      "text": "drinking tea, sharing tea and making teas.",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 339.52,
+      "end": 342.58,
+      "text": "It's all inside our blood for generations of us here.",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 345,
+      "end": 347.952,
+      "text": "This is one way to understand living heritage.",
+      "kind": "narration"
+    },
+    {
+      "start": 348.652,
+      "end": 353.156,
+      "text": "Continuity depends on people continuing to do things, learn them,",
+      "kind": "narration"
+    },
+    {
+      "start": 353.156,
+      "end": 355.327,
+      "text": "and adapt them to present needs.",
+      "kind": "narration"
+    },
+    {
+      "start": 356.027,
+      "end": 360.337,
+      "text": "New workshops or partnerships do not automatically weaken tradition.",
+      "kind": "narration"
+    },
+    {
+      "start": 361.037,
+      "end": 364.631,
+      "text": "Their significance depends on whether they support the knowledge,",
+      "kind": "narration"
+    },
+    {
+      "start": 364.631,
+      "end": 367.847,
+      "text": "relationships and everyday work through which it survives.",
+      "kind": "narration"
+    },
+    {
+      "start": 371,
+      "end": 375.177,
+      "text": "A twenty twenty-six CNA report also shows Pek Sin Choon sharing",
+      "kind": "narration"
+    },
+    {
+      "start": 375.177,
+      "end": 378.094,
+      "text": "its stories through community programmes.",
+      "kind": "narration"
+    },
+    {
+      "start": 378.766,
+      "end": 381.563,
+      "text": "These connections extend beyond the shopfront.",
+      "kind": "narration"
+    },
+    {
+      "start": 382.235,
+      "end": 386.673,
+      "text": "They offer one example of how a business can remain part of present life.",
+      "kind": "narration"
+    },
+    {
+      "start": 387.344,
+      "end": 390.969,
+      "text": "The case does not represent every business or resident, and",
+      "kind": "narration"
+    },
+    {
+      "start": 390.969,
+      "end": 394.232,
+      "text": "continued operation still needs practical support.",
+      "kind": "narration"
+    },
+    {
+      "start": 397.27,
+      "end": 402.03,
+      "text": "Hopefully, Singapore will have more of the heritage businesses that are here to last.",
+      "kind": "source interview/report"
+    },
+    {
+      "start": 413,
+      "end": 416.717,
+      "text": "People can agree that Chinatown deserves protection and still",
+      "kind": "narration"
+    },
+    {
+      "start": 416.717,
+      "end": 418.681,
+      "text": "disagree about how to protect it.",
+      "kind": "narration"
+    },
+    {
+      "start": 419.381,
+      "end": 423.54,
+      "text": "A resident, a shopkeeper, a visitor and a planning authority may",
+      "kind": "narration"
+    },
+    {
+      "start": 423.54,
+      "end": 426.466,
+      "text": "value the same street for different reasons.",
+      "kind": "narration"
+    },
+    {
+      "start": 427.166,
+      "end": 429.018,
+      "text": "These identities can overlap.",
+      "kind": "narration"
+    },
+    {
+      "start": 429.718,
+      "end": 435.129,
+      "text": "The community is not a single voice, and no one example can speak for everyone.",
+      "kind": "narration"
+    },
+    {
+      "start": 439,
+      "end": 444.764,
+      "text": "Public agencies, businesses and cultural organisations can all provide resources.",
+      "kind": "narration"
+    },
+    {
+      "start": 445.014,
+      "end": 448.822,
+      "text": "Their involvement also raises questions about priorities.",
+      "kind": "narration"
+    },
+    {
+      "start": 449.072,
+      "end": 452.941,
+      "text": "Being invited to an activity, being asked for an opinion, and",
+      "kind": "narration"
+    },
+    {
+      "start": 452.941,
+      "end": 457.418,
+      "text": "being able to change a decision are different forms of participation.",
+      "kind": "narration"
+    },
+    {
+      "start": 457.668,
+      "end": 461.854,
+      "text": "To understand conservation, we need to examine whose preferences",
+      "kind": "narration"
+    },
+    {
+      "start": 461.854,
+      "end": 463.648,
+      "text": "actually shape the choices.",
+      "kind": "narration"
+    },
+    {
+      "start": 465,
+      "end": 469.192,
+      "text": "Moving out of an old shophouse need not end a connection with Chinatown.",
+      "kind": "narration"
+    },
+    {
+      "start": 469.892,
+      "end": 474.859,
+      "text": "Returning to shop, work or take part in religious life can also sustain it.",
+      "kind": "narration"
+    },
+    {
+      "start": 475.559,
+      "end": 479.955,
+      "text": "These links deserve attention beyond the streets most visible to visitors.",
+      "kind": "narration"
+    },
+    {
+      "start": 480.655,
+      "end": 485.286,
+      "text": "The issue is how a conserved district remains connected to the people who use it.",
+      "kind": "narration"
+    },
+    {
+      "start": 493,
+      "end": 497.518,
+      "text": "The next time you walk through Chinatown, consider three questions.",
+      "kind": "narration"
+    },
+    {
+      "start": 498.218,
+      "end": 501.23,
+      "text": "First, who can continue to use this place?",
+      "kind": "narration"
+    },
+    {
+      "start": 501.93,
+      "end": 506.25,
+      "text": "Look beyond the appearance of the buildings to the activities they make possible.",
+      "kind": "narration"
+    },
+    {
+      "start": 506.95,
+      "end": 510.621,
+      "text": "A street can carry memory through repeated use, even as the",
+      "kind": "narration"
+    },
+    {
+      "start": 510.621,
+      "end": 512.793,
+      "text": "people and their routines change.",
+      "kind": "narration"
+    },
+    {
+      "start": 515,
+      "end": 519.008,
+      "text": "Second, do the benefits help sustain work and transmission?",
+      "kind": "narration"
+    },
+    {
+      "start": 519.409,
+      "end": 523.42,
+      "text": "Visitor numbers show attraction, but they do not explain every",
+      "kind": "narration"
+    },
+    {
+      "start": 523.42,
+      "end": 525.994,
+      "text": "cost, or whether skills can be passed on.",
+      "kind": "narration"
+    },
+    {
+      "start": 526.394,
+      "end": 529.629,
+      "text": "Third, can different users influence change?",
+      "kind": "narration"
+    },
+    {
+      "start": 530.03,
+      "end": 533.481,
+      "text": "Conservation decisions should be examined through their",
+      "kind": "narration"
+    },
+    {
+      "start": 533.481,
+      "end": 536.51,
+      "text": "consequences, as well as their stated intentions.",
+      "kind": "narration"
+    },
+    {
+      "start": 538,
+      "end": 541.849,
+      "text": "These materials lead me to understand buildings, livelihoods and",
+      "kind": "narration"
+    },
+    {
+      "start": 541.849,
+      "end": 543.911,
+      "text": "everyday relationships together.",
+      "kind": "narration"
+    },
+    {
+      "start": 544.256,
+      "end": 547.931,
+      "text": "Tourism and cultural display can create opportunities.",
+      "kind": "narration"
+    },
+    {
+      "start": 548.276,
+      "end": 552.427,
+      "text": "Their value also depends on the conditions they leave for continued use.",
+      "kind": "narration"
+    },
+    {
+      "start": 552.772,
+      "end": 556.799,
+      "text": "Conserving Chinatown should keep history visible while allowing",
+      "kind": "narration"
+    },
+    {
+      "start": 556.799,
+      "end": 561.545,
+      "text": "people today to practise it, learn from it, and take part in shaping its future.",
+      "kind": "narration"
+    }
+  ],
+  "notes": [
+    "N06V is a muted visual derivative with the lower 144 pixels replaced by a black matte to avoid conflicting source subtitles; original retained for interview. No logo removed.",
+    "News lower-thirds, logos and identities remain in the visible frame.",
+    "Narration is local Daniel speech; subtitles are measured sentence-based timing, not word-for-word forced alignment."
+  ]
+}

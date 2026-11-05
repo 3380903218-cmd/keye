@@ -1,0 +1,119 @@
+PAGE 1
+ES5000 Graduate English I 
+ 
+1 
+ 
+ASSIGNMENT STYLE SHEET 
+ 
+Please follow these guidelines to format all your ES5000 assignments before submission. See 
+the example on the next page. 
+ 
+The Basics ▪ Leave at least a 1" (2.54 cm) margin on all sides of your A4 size paper 
+(top, bottom, left and right). 
+▪ For documents with multiple pages, use page numbers. 
+ 
+Page 
+Heading 
+▪ Put your name, ES5000 tutorial group number and the date on separate 
+lines at the top left-hand corner. 
+▪ Use single line spacing for the heading. 
+ 
+Body Text ▪ Give each assignment a descriptive title, centred, on its own line. 
+▪ To distinguish separate paragraphs, skip a line between paragraphs. 
+▪ Use 1.5 line spacing. Align text to the left (not full justification). 
+▪ Use a 12-point font for body text.  
+▪ Count the words and put the word count after the final paragraph (e.g., 
+W=400) 
+ 
+Quotations ▪ For short quotes (of no more than 40 words), use “quotation marks” to 
+identify the quoted text. 
+▪ For long quotes (of 40 words or more), start the quotation on a separate 
+line and indent every line of the quoted material 10 spaces (or two 
+tabs). 
+ 
+Spacing and 
+punctuation 
+▪ Put one space after commas, full stops, colons and semi-colons. Do not 
+use spaces before punctuation marks. 
+▪ Put no space between the numeral and the percent sign or dollar sign 
+(for example, 87%, $400, etc.). 
+▪ Put a comma but no space in large numbers to indicate thousands, 
+millions, etc. (for example, 18,000,000). 
+ 
+Numbers ▪ Spell numbers less than ten. Use figures for numbers 10 and over. 
+▪ Spell out numbers that are the first word of a sentence. 
+▪ For numbers less than 1, precede the decimal point with a zero (for 
+example, 0.36). 
+ 
+References 
+and 
+Declaration 
+▪ Cite sources in the text using APA citation style. 
+▪ At the end of the assignment (after the References) copy and paste the 
+AI Declaration given in Canvas. 
+▪ Use single line spacing for the reference list and AI declaration. 
+ 
+File Names ▪ Name your assignment files with the “tutorial group number_your 
+name_assignment”. 
+▪ Example: G10_Teo Wei Jie_p-s essay 
+ 
+ 
+
+PAGE 2
+ 
+2 
+ 
+Wong Xia Jonathan 
+ES5000 G03 
+20 August 20xx 
+ 
+Grammar Analysis of a Computer Visualization Text  
+ 
+In Detecting and Reading Text in Natural Scenes, Chen and Yuille (2004) described their 
+study of a new algorithm designed to process the digitized information from a road-sign 
+reading device. In their study, the authors often used comparison and contrast to present the 
+efficiency and advantages of the algorithm. Two examples of adjectives in comparative 
+degree are found in the conclusion. Firstly, “The performance we report in this paper is 
+better than those reported in Lucas et al., but the datasets are different” (p. 273). Secondly, 
+“Also there are important differences between text and face stimuli because the spatial 
+variation per pixel of text images is far greater than for faces” (p. 273). 
+ 
+Furthermore, the authors also used adverbs in mid position. For instance, the following 
+examples come from the discussion section: 
+Such tests are computationally cheap to implement because they involved 
+checking the value of ƒ(I) only within a small range. These features are more 
+computationally expensive than the previous tests. When applied to over 
+20,000,000 image windows, the total number of false positives was just over 
+118 and the number of false negatives was 27 (p. 271). 
+ 
+When writing academic articles, passive voice is often used in process descriptions. Chen and 
+Yuille did so in their methods section. … 
+ 
+W=210 
+ 
+References 
+ 
+Chen, X., & Yuille, A. L. (2004). Detecting and reading text in natural scenes. Proceedings 
+of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern 
+Recognition, 366-374. doi: 10.1109/CVPR.2004.1315187 
+ 
+Declaration 
+ 
+I understand what plagiarism is, and I declare that I did not plagiarise any part of this 
+assignment. I also acknowledge that I  
+☐ did not use any AI tools. 
+
+PAGE 3
+ 
+3 
+ 
+☒ used Claude and Grammarly for this assignment  
+       ☒ to brainstorm ideas.  
+       ☒ to suggest topics, reasons and supporting points for my arguments. 
+       ☐ to generate some sentences that I developed into the final version. 
+       ☐ to generate paragraphs that I organized into the final version.  
+       ☐ to generate a complete draft that I edited into the final version. 
+       ☒ to edit/improve a draft originally written entirely by me. 
+       ☐ to provide comments on a draft originally written entirely by me.  
+ 
+ 

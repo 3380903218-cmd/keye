@@ -1,0 +1,17 @@
+{
+  "result": "pass",
+  "date": "2026-11-03",
+  "moved_items": 15,
+  "old_paths": "relative symlinks verified",
+  "website_version": "2.9.1",
+  "website_repository_head": "1b7bdb716fc4fb0097b55137504bb7d2e2b56521",
+  "qgis_dependencies": "verified",
+  "final_network": {
+    "nodes": 132,
+    "edges": 157
+  },
+  "excel_saved_values": "all records match source; count formula caches checked",
+  "offline_website": "English desktop and Chinese mobile pass with networking disabled",
+  "native_app_open": "not checked",
+  "files_deleted": 0
+}

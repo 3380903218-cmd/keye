@@ -1,0 +1,1450 @@
+{
+  "version": "2.6.0",
+  "date": "2026-10-30T09:12:18.363Z",
+  "base": "http://localhost:8780/",
+  "checks": [
+    {
+      "name": "QGIS result directly visible 1280/en",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1280/en",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1280/en",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1280/en",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1280/en",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1280/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1280/en",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1280/en",
+      "passed": true,
+      "detail": {
+        "bottom": 563.09375,
+        "width": 1120
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1280/en",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1280/en",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1280/en",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1280/en",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1280/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.15625,
+        "bottom": 584.9375
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1280/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.15625,
+        "bottom": 584.9375
+      }
+    },
+    {
+      "name": "node inspection remains available 1280/en",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1280/en",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1280/en",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1280/en",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1280/en",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1280/en",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1280/en",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1280/en",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1280/en",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1280/zh",
+      "passed": true,
+      "detail": {
+        "bottom": 563.40625,
+        "width": 1120
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1280/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.78125,
+        "bottom": 584.5625
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1280/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.78125,
+        "bottom": 584.5625
+      }
+    },
+    {
+      "name": "node inspection remains available 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 1440/en",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1440/en",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1440/en",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1440/en",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1440/en",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1440/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1440/en",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1440/en",
+      "passed": true,
+      "detail": {
+        "bottom": 821.75,
+        "width": 1120
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1440/en",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1440/en",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1440/en",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1440/en",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1440/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.734375,
+        "bottom": 884.515625
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1440/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.734375,
+        "bottom": 884.515625
+      }
+    },
+    {
+      "name": "node inspection remains available 1440/en",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1440/en",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1440/en",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1440/en",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1440/en",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1440/en",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1440/en",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1440/en",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1440/en",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1440/zh",
+      "passed": true,
+      "detail": {
+        "bottom": 821.5625,
+        "width": 1120
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1440/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.359375,
+        "bottom": 866.75
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1440/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.359375,
+        "bottom": 866.75
+      }
+    },
+    {
+      "name": "node inspection remains available 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 1920/en",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1920/en",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1920/en",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1920/en",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1920/en",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1920/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1920/en",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1920/en",
+      "passed": true,
+      "detail": {
+        "bottom": 822.15625,
+        "width": 1120
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1920/en",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1920/en",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1920/en",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1920/en",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1920/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.125,
+        "bottom": 898.90625
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1920/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.125,
+        "bottom": 898.90625
+      }
+    },
+    {
+      "name": "node inspection remains available 1920/en",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1920/en",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1920/en",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1920/en",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1920/en",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1920/en",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1920/en",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1920/en",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1920/en",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1920/zh",
+      "passed": true,
+      "detail": {
+        "bottom": 821.96875,
+        "width": 1120
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1920/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.75,
+        "bottom": 866.140625
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1920/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.75,
+        "bottom": 866.140625
+      }
+    },
+    {
+      "name": "node inspection remains available 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 1024/en",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1024/en",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1024/en",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1024/en",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1024/en",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1024/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1024/en",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1024/en",
+      "passed": true,
+      "detail": {
+        "bottom": 731.375,
+        "width": 942.09375
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1024/en",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1024/en",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1024/en",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1024/en",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1024/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.296875,
+        "bottom": 752.46875
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1024/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 76.296875,
+        "bottom": 752.46875
+      }
+    },
+    {
+      "name": "node inspection remains available 1024/en",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1024/en",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1024/en",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1024/en",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1024/en",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1024/en",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1024/en",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1024/en",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1024/en",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 1024/zh",
+      "passed": true,
+      "detail": {
+        "bottom": 731.1875,
+        "width": 942.09375
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 1024/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.921875,
+        "bottom": 752.703125
+      }
+    },
+    {
+      "name": "complete Gephi plot and legend fit desktop 1024/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "top": 75.921875,
+        "bottom": 752.703125
+      }
+    },
+    {
+      "name": "node inspection remains available 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "research context retained 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 768/en",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 768/en",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 768/en",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 768/en",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 768/en",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 768/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 768/en",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 768/en",
+      "passed": true,
+      "detail": {
+        "bottom": 692.703125,
+        "width": 706.5625
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 768/en",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 768/en",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 768/en",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 768/en",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 768/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "top": 108.859375,
+        "bottom": 684.53125
+      }
+    },
+    {
+      "name": "node inspection remains available 768/en",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 768/en",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 768/en",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 768/en",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 768/en",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 768/en",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 768/en",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 768/en",
+      "passed": true
+    },
+    {
+      "name": "research context retained 768/en",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 768/zh",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 768/zh",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 768/zh",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 768/zh",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 768/zh",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 768/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 768/zh",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 768/zh",
+      "passed": true,
+      "detail": {
+        "bottom": 663.140625,
+        "width": 706.5625
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 768/zh",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 768/zh",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 768/zh",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 768/zh",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 768/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "top": 109.109375,
+        "bottom": 684.390625
+      }
+    },
+    {
+      "name": "node inspection remains available 768/zh",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 768/zh",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 768/zh",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 768/zh",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 768/zh",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 768/zh",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 768/zh",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 768/zh",
+      "passed": true
+    },
+    {
+      "name": "research context retained 768/zh",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 390/en",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 390/en",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 390/en",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 390/en",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 390/en",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 390/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 390/en",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 390/en",
+      "passed": true,
+      "detail": {
+        "bottom": 506.6875,
+        "width": 346
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 390/en",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 390/en",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 390/en",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 390/en",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 390/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "top": 109.328125,
+        "bottom": 829.328125
+      }
+    },
+    {
+      "name": "node inspection remains available 390/en",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 390/en",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 390/en",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 390/en",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 390/en",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 390/en",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 390/en",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 390/en",
+      "passed": true
+    },
+    {
+      "name": "research context retained 390/en",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 390/zh",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 390/zh",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 390/zh",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 390/zh",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 390/zh",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 390/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 390/zh",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 390/zh",
+      "passed": true,
+      "detail": {
+        "bottom": 477.4375,
+        "width": 346
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 390/zh",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 390/zh",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 390/zh",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 390/zh",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 390/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "top": 108.703125,
+        "bottom": 828.703125
+      }
+    },
+    {
+      "name": "node inspection remains available 390/zh",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 390/zh",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 390/zh",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 390/zh",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 390/zh",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 390/zh",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 390/zh",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 390/zh",
+      "passed": true
+    },
+    {
+      "name": "research context retained 390/zh",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 320/en",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 320/en",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 320/en",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 320/en",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 320/en",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 320/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 320/en",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 320/en",
+      "passed": true,
+      "detail": {
+        "bottom": 457.484375,
+        "width": 276
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 320/en",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 320/en",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 320/en",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 320/en",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 320/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "top": 109.265625,
+        "bottom": 828.515625
+      }
+    },
+    {
+      "name": "node inspection remains available 320/en",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 320/en",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 320/en",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 320/en",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 320/en",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 320/en",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 320/en",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 320/en",
+      "passed": true
+    },
+    {
+      "name": "research context retained 320/en",
+      "passed": true
+    },
+    {
+      "name": "QGIS result directly visible 320/zh",
+      "passed": true
+    },
+    {
+      "name": "Gephi is outside disclosures 320/zh",
+      "passed": true
+    },
+    {
+      "name": "full exported network is the initial result 320/zh",
+      "passed": true
+    },
+    {
+      "name": "supporting controls closed, not the results 320/zh",
+      "passed": true
+    },
+    {
+      "name": "network precedes supporting examples 320/zh",
+      "passed": true
+    },
+    {
+      "name": "hero points to both results 320/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 320/zh",
+      "passed": true
+    },
+    {
+      "name": "complete QGIS export loads 320/zh",
+      "passed": true,
+      "detail": {
+        "bottom": 457.0625,
+        "width": 276
+      }
+    },
+    {
+      "name": "original QGIS PDF is downloadable 320/zh",
+      "passed": true
+    },
+    {
+      "name": "animated routes remain available 320/zh",
+      "passed": true
+    },
+    {
+      "name": "route switch remains functional 320/zh",
+      "passed": true
+    },
+    {
+      "name": "return to QGIS keeps the Gephi result visible 320/zh",
+      "passed": true
+    },
+    {
+      "name": "network anchor clears header 320/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "top": 108.921875,
+        "bottom": 753.171875
+      }
+    },
+    {
+      "name": "node inspection remains available 320/zh",
+      "passed": true
+    },
+    {
+      "name": "material filter retains 42 relationships 320/zh",
+      "passed": true
+    },
+    {
+      "name": "knowledge filter retains 92 relationships 320/zh",
+      "passed": true
+    },
+    {
+      "name": "search remains functional 320/zh",
+      "passed": true
+    },
+    {
+      "name": "guide is visible outside closed tools 320/zh",
+      "passed": true
+    },
+    {
+      "name": "one action restores full Gephi result 320/zh",
+      "passed": true
+    },
+    {
+      "name": "language preserves both results 320/zh",
+      "passed": true
+    },
+    {
+      "name": "network to map cross-link opens animation 320/zh",
+      "passed": true
+    },
+    {
+      "name": "research context retained 320/zh",
+      "passed": true
+    },
+    {
+      "name": "no script errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no failed assets",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "passed": true
+}

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "sha256_before": "6f5e3be48787622a1f56dc5d1920421c95ad734e7e594690e121ae0d437d733a",
+  "calculation": "0 formulas; no global recalculation invoked",
+  "returncode": 0,
+  "stdout": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述/Gephi传播网络_可直接使用.xlsx|11|敦煌传播网络｜已整理数据|Id|Source|true|true|false",
+  "stderr": "",
+  "sheet_count": 11,
+  "other_workbooks_preserved": true,
+  "opened_by_script": true,
+  "read_only_confirmed": false,
+  "sha256_after": "6f5e3be48787622a1f56dc5d1920421c95ad734e7e594690e121ae0d437d733a"
+}

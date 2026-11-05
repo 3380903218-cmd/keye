@@ -1,0 +1,546 @@
+[
+  {
+    "id": "G02-P076-004",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "Cultural phenomena that Bertin could not have anticipated have radically changed our relationship to data graphics. Our day-to-day familiarity with mapping services is a case in point. We not only accept but rely upon their cartographic conventions to reduce the complexity of the landscape in order to serve a particular purpose: wayfinding. We navigate from point to",
+    "zh": "贝坦无法预见的文化现象已经彻底改变了我们与数据图形的关系。我们日常对地图服务的熟悉就是个例子。我们不仅接受这些地图的惯例，还依赖它们来降低景观的复杂性以服务于特定目的：导航。我们从一点到"
+  },
+  {
+    "id": "G03-P025-016",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "Every wide cover is a strict cover, but the reverse is not true. In an affiliation network, if JK, is a wide cover of s~¢, some actor from ~1/'~ is present each and every time any member of sg is present. In other words, a member of J is never in an event unless a member of JK s is also present. In contrast, if ~//s is a strict cover of ,~, then each member of o~ must belong to at least one event with some member of ~4/i~, though members of s¢ might belong to events where no member of Jf'~ is present.",
+    "zh": "]\n每个广覆盖都是严格覆盖，但反之不成立。在二模参与网络中，如果 JK, 是 s~¢ 的广覆盖，则 J 中的每一位行动者都必然出现在 sg 中的每一位成员出现的事件中。换句话说，J 中的一位成员永远不会出现在某个事件中，除非 s~¢ 中的一位成员也出现在该事件中。"
+  },
+  {
+    "id": "G04-P002-008",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "4 Emmanuel Le Roy Ladurie, “History That Stands Still,” in Ladurie, The Mind and Method of the Historian, trans. Si^an Reynolds and Ben Reynolds (Chicago, 1981), 1–27; Charles Tilly, Big Structures, Large Processes, Huge Comparisons (New York, 1984). The most recent overview of the Annales School is Andre ́ Burguie`re, The Annales School: An Intellectual History, trans. Jane Marie Todd (Ithaca, N.Y., 2009). For early methodological reflections on quantitative history, see William O. Aydelotte, “Quantification in History,” American Historical Review 71, no. 3 (April 1966): 803–825; William O. Aydelotte, Robert William Fogel, and Allan G. Bogue, eds., The Dimensions of Quantitative Research in History (Princeton, N.J., 1972).",
+    "zh": "4 埃曼努埃尔·勒罗伊·拉杜里，《静止的历史》，载于《历史学家的心智与方法》中，由西恩·雷诺兹和本·雷诺兹译（芝加哥，1981年），第1–27页；查尔斯·蒂利，《大型结构、大规模过程与巨大比较》（纽约，1984年）。关于 Annales 学派的最新综述，可参阅安德烈·布尔吉雷所著的《Annales 学派：一部思想史》，由简·玛丽·托德译（纽约州伊萨卡，2009年）。关于定量历史研究早期的方法论思考，可参考威廉·O·艾德尔洛特所著的《历史中的量化》，载于《美国历史评论》第71卷第3期（1966年4月），第803–825页；威廉·O·艾德尔洛特、罗伯特·威廉·福格尔和艾伦·G·博格编，《历史定量研究的维度》（新泽西州普林斯顿，1972年）。"
+  },
+  {
+    "id": "G04-P002-009",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "5 See, for instance, Paul N. Edwards, Lisa Gitelman, Gabrielle Hecht, Adrian Johns, Brian Larkin, and Neil Safier, “Historical Perspectives on the Circulation of Information,” AHR Conversation, American Historical Review 116, no. 5 (December 2011): 1393–1435.",
+    "zh": "5 例如，保罗·N·爱德华兹、丽莎·吉特曼、加布里埃尔·赫希特、阿德里安·约翰斯、布莱恩·拉金和尼尔·萨菲尔所著的《信息流通的历史视角》，载于《美国历史评论》第116卷第5期（2011年12月），第1393–1435页。"
+  },
+  {
+    "id": "G04-P003-009",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "9 See Danah Boyd and Kate Crawford, “Six Provocations for Big Data,” paper presented at “A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society,” University of Oxford, September 21, 2011, https://papers.ssrn.com/sol3/papers.cfm?abstract_id1⁄41926431; Viktor Mayer-Scho ̈nberger and Kenneth Cukier, Big Data: A Revolution That Will Transform How We Live, Work, and Think (Boston, 2013). For a humanistic take on this debate, see Gitelman, “Raw Data” Is an Oxymoron; Lev Manovich, “Trending: The Promises and the Challenges of Big Social Data,” in Matthew K. Gold, ed., Debates in the Digital Humanities (Minneapolis, 2012), 460–475; Christof Scho ̈ch, “Big? Smart? Clean? Messy? Data in the Humanities,” Journal of Digital Humanities 2, no. 3 (2013), http://journalofdigitalhu manities.org/2–3/big-smart-clean-messy-data-in-the-humanities/.",
+    "zh": "9 参见 Danah Boyd 和 Kate Crawford 的“Six Provocations for Big Data”，该论文发表于“A Decade in Internet Time: Symposium on the Dynamics of the Internet and Society”会议，牛津大学，2011年9月21日，https://papers.ssrn.com/sol3/papers.cfm?abstract_id1⁄41926431；Viktor Mayer-Schenberger 和 Kenneth Cukier 的《Big Data: A Revolution That Will Transform How We Live, Work, and Think》（波士顿，2013年）。对于这一争论的人文主义视角，可参考 Gittelman 的“Raw Data”是矛盾的说法；Lev Manovich 的“Trending: The Promises and the Challenges of Big Social Data”，载于 Matthew K. Gold 编《Debates in the Digital Humanities》（明尼阿波利斯，2012年），第460–475页；Christof Schoch 的“Big? Smart? Clean? Messy? Data in the Humanities”，《Journal of Digital Humanities》第2卷第3期（2013年），http://journalofdigitalhu manities.org/2–3/big-smart-clean-messy-data-in-the-humanities/。"
+  },
+  {
+    "id": "G04-P004-008",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "13 Lara Putnam, “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast,” American Historical Review 121, no. 2 (April 2016): 377–402, with rich references on the recent conversation on history in the digital age. See also Ted Underwood, “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago,” Representations 127, no. 1 (2014): 64–72.",
+    "zh": "13 Lara Putnam 在《美国历史评论》第121卷第2期（2016年4月）第377–402页中发表了题为“跨国性与可检索文本：数字化资料及其所投射的阴影”的文章，其中包含关于数字时代历史相关讨论的丰富引证。另可参考 Ted Underwood 在《表征》第127卷第1期（2014年）第64–72页中的文章《二十年前我们忘记理论化的研究实践》，该文题为“理论化研究实践”。"
+  },
+  {
+    "id": "G04-P005-007",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "15 David S. Lux and Harold J. Cook, “Closed Circles or Open Networks? Communicating at a Distance during the Scientific Revolution,” History of Science 36, no. 2 (1998): 179–211, here 190; Mark S. Granovetter, “The Strength of Weak Ties,” American Journal of Sociology 78, no. 6 (1973): 1360–1380. For a recent study that uses network analysis to explore the correspondence of imprisoned Protestants during the English wars of religion, see Ruth Ahnert and Sebastian E. Ahnert, “Protestant Letter Networks in the Reign of Mary I: A Quantitative Approach,” ELH 82, no. 1 (2015): 1–33.",
+    "zh": "15 David S. Lux和Harold J. Cook，《封闭圆圈还是开放网络？科学革命时期的远程交流》，《科学史》36卷，第2期（1998年）：179–211页，此处为190页；Mark S. Granovetter，《弱关系的力量》，《美国社会学杂志》78卷，第6期（1973年）：1360–1380页。关于一项利用网络分析研究英国宗教战争期间被监禁新教徒通信的研究，可参考Ruth Ahnert和Sebastian E. Ahnert的《玛丽一世统治时期新教信件网络：定量研究》，《ELH》82卷，第1期（2015年）：1–33页。"
+  },
+  {
+    "id": "G04-P006-007",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "18 Daniel Roche, Les re ́publicains des lettres: Gens de culture et Lumie`res au XVIIIe sie`cle (Paris, 1998). On the national vs. cosmopolitan makeup of the Republic of Letters, see especially Lorraine Daston, “The Ideal and Reality of the Republic of Letters in the Enlightenment,” Science in Context 4, no. 2 (1991): 367–386.",
+    "zh": "18 丹尼尔·罗什，《文人共和国的公民：18世纪的文化与知识人物》（巴黎，1998）。关于文人共和国的国家性与世界性构成，可参见洛雷恩·达斯顿《启蒙时代文人共和国的理想与现实》，《科学背景》第4卷第2期（1991年）：367–386页。"
+  },
+  {
+    "id": "G04-P006-009",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "20 See Candice Delisle, “Accessing Nature, Circulating Knowledge: Conrad Gessner’s Correspondence Networks and His Medical and Naturalist Practices,” History of Universities 23, no. 2 (2008): 35– 58, here 53.",
+    "zh": "20 见坎迪斯·德利尔《接触自然、传播知识：康拉德·格斯纳的通信网络及其医学与自然学实践》，《大学历史》第23卷第2期（2008年）：53页及以后。"
+  },
+  {
+    "id": "G04-P007-005",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "21 Margaret C. Jacob, Strangers Nowhere in the World: The Rise of Cosmopolitanism in Early Modern Europe (Philadelphia, 2006); Caroline Winterer, “Where Is America in the Republic of Letters?,” Modern Intellectual History 9, no. 3 (2012): 597–623; Winterer, American Enlightenments: Pursuing Happiness in the Age of Reason (New Haven, Conn., 2016).",
+    "zh": "21 玛格丽特·C·雅各布，《世界上的陌生人：早期现代欧洲的世界主义兴起》（费城，2006）；卡罗琳·温特勒，《美国在文人共和国中处于何位置？》，《现代知识史》第9卷第3期（2012）：597–623；温特勒，《美国启蒙思想：理性时代追求幸福》（康涅狄格州纽黑文，2016）。"
+  },
+  {
+    "id": "G04-P011-007",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "27 For an overview of these developments, see Marc Fumaroli, “The Republic of Letters,” trans. R. Scott Walker, Diogenes 36, no. 143 (1988): 129–152; Hans Bots and Franc ̧oise Waquet, La Re ́publique des lettres (Paris, 1997); Anthony Grafton, “A Sketch Map of a Lost Continent: The Republic of Letters,” Republics of Letters: A Journal for the Study of Knowledge, Politics, and the Arts 1, no. 1 (2009), http:// arcade.stanford.edu/rofl/sketch-map-lost-continent-republic-letters. On Erasmus, a good starting point is Lisa Jardine, Erasmus, Man of Letters: The Construction of Charisma in Print (Princeton, N.J., 1993), chap. 6; Constance M. Furey, Erasmus, Contarini, and the Religious Republic of Letters (Cambridge, 2008); Hanan Yoran, Between Utopia and Dystopia: Erasmus, Thomas More, and the Humanist Republic of Letters (Lanham, Md., 2010).",
+    "zh": "]\n27 关于这些发展的概述，可参见马克·富马罗利所著的《文人共和国》，R.斯科特·沃克译，Diogenes 36，第143期（1988年）：第129–152页；汉斯·博茨和弗朗索瓦·瓦凯所著的《文人共和国》（巴黎，1997年）；安东尼·格拉夫顿所著的《失落大陆的草图：文人共和国》，《文人共和国：知识、政治与艺术研究期刊》第1期（2009年），http://arcade.stanford.edu/rofl/sketch-map-lost-continent-republic-letters。关于伊拉斯谟，一个好的起点是丽莎·贾丁所著的《伊拉斯谟：写本之人——印刷术中的魅力构建》（新泽西州普林斯顿，1993年），第6章；康斯坦斯·M·弗尔利所著的《伊拉斯谟、康塔里尼与宗教文人共和国》（剑桥，2008年）；哈南·约兰所著的《在乌托邦与极权之间：伊拉斯谟、托马斯·莫尔与人文主义文人共和国》（马里兰州兰哈姆，2010年）。"
+  },
+  {
+    "id": "G04-P011-008",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "28 Elizabeth Eisenstein, The Printing Press as an Agent of Change: Communications and Cultural Transformations in Early Modern Europe, 2 vols. (Cambridge, 1979), 1: 136–137. The relationship of Eisenstein’s work to the Republic of Letters is discussed by J. L. Pearl, “The Role of Personal Correspondence in the Exchange of Scientific Information in Early Modern France,” Renaissance and Reformation / Renaissance et Re ́forme, New Series / Nouvelle Se ́rie, 8, no. 2 (1984): 106–113, here 107; and April G. Shelford, Transforming the Republic of Letters: Pierre-Daniel Huet and European Intellectual Life, 1650–1720 (Rochester, N.Y., 2007), 3.",
+    "zh": "]\n28 伊丽莎白·艾森斯坦，《印刷机作为变革的媒介：早期现代欧洲的交流与文化转型》，共2卷（剑桥，1979年），第1卷：136–137页。J. L. 珀尔在《个人通信在早期现代法国科学信息交流中的作用》一文中讨论了艾森斯坦的研究与文人共和国的关系，该文发表于《文艺复兴与宗教改革/文艺复兴与改革，新系列/新系列》，第8卷，第2期（1984年）：106–113页，此处为107页；此外还有艾普尔·G. 谢尔福德所著的《转变文人共和国：皮埃尔-丹尼尔·于埃与1650–1720年的欧洲知识生活》（纽约州罗切斯特，2007年），第3页。"
+  },
+  {
+    "id": "G04-P012-005",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "30 Daston, “The Ideal and Reality of the Republic of Letters in the Enlightenment.” 31 Maarten Ultee, “The Republic of Letters: Learned Correspondence, 1680–1720,” Seventeenth Century 2, no. 1 (1987): 95–112.",
+    "zh": "30 Daston，“启蒙时代文人共和国的理想与现实”。31 Maarten Ultee，“文人共和国：1680–1720年的学术通信”，《十七世纪》第2卷，第1期（1987年）：95–112页。"
+  },
+  {
+    "id": "G04-P012-007",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "33 Joseph M. Levine, The Battle of the Books: History and Literature in the Augustan Age (Ithaca, N.Y., 1994); Peter N. Miller, Peiresc’s Europe: Learning and Virtue in the Seventeenth Century (New Haven, Conn., 2000); L. W. B. Brockliss, Calvet’s Web: Enlightenment and the Republic of Letters in Eighteenth-Century France (Oxford, 2002). From Grafton’s considerable corpus, one might follow the trail backward from his AHA Presidential Address, “The Republic of Letters in the American Colonies: Francis Daniel Pastorius Makes a Notebook,” American Historical Review 117, no. 1 (February 2012): 1–39; and “A Sketch Map of a Lost Continent.” 34 Jardine, Erasmus, Man of Letters, 149. For a good overview of some of the metrics of early modern correspondence, see Francisco Bethencourt and Florike Egmond, eds., Cultural Exchange in Early Modern Europe, vol. 3: Correspondence and Cultural Exchange in Europe, 1400–1700 (Cambridge, 2007), 10– 12. For an introduction to religious letter-writing and Loyola’s reputation as the most prolific letter writer of the sixteenth century, see Thomas M. Lucas, Landmarking: City, Church and Jesuit Urban Strategy (Chicago, 1997), 131.",
+    "zh": "]\n33 约瑟夫·M·莱文，《书籍之战：奥古斯敦时代的历史与文学》（纽约州伊萨卡，1994年）；彼得·N·米勒，《佩雷斯的欧洲：十七世纪的学习与美德》（康涅狄格州纽黑文，2000年）；L. W. B. 布罗克利斯，《卡尔维特的网络：十八世纪法国的启蒙与文人共和国》（牛津，2002年）。从格拉夫顿的丰富文献总集中，可以追溯其《AHA总统演讲》“美国殖民地中的文人共和国：弗朗西斯·丹尼尔·帕斯托里乌斯撰写笔记”的踪迹，该文发表于《美国历史评论》第117卷第1期（2012年2月），第1–39页；以及“失落大陆的示意图”。34 雅尔丁，《埃拉斯莫斯，文人》，149页。关于早期现代通信的一些衡量指标的详细综述，可参考弗朗西斯科·贝滕库尔和弗洛丽克·埃格蒙德编著的《早期现代欧洲的文化交流》，第3卷：1400–1700年间的欧洲通信与文化交流（剑桥，2007年），第10–12页。关于宗教书信写作以及洛约拉作为十六世纪最活跃的写信人的声誉的介绍，可参考托马斯·M·卢卡斯所著的《地标化：城市、教会与耶稣会城市策略》（芝加哥，1997年），第131页。"
+  },
+  {
+    "id": "G04-P016-010",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "47 Robert Mayhew, “British Geography’s Republic of Letters: Mapping an Imagined Community, 1600–1800,” Journal of the History of Ideas 65, no. 2 (2004): 251–276.",
+    "zh": "]\n47 Robert Mayhew，“英国地理学的文人共和国：1600–1800年想象社区的映射”，《思想史杂志》第65卷，第2期（2004年）：251–276页。"
+  },
+  {
+    "id": "G04-P017-006",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "49 Yves Gingras, “Mapping the Structure of the Intellectual Field Using Citation and Co-Citation Analysis of Correspondences,” History of European Ideas 36, no. 3 (2010): 330–339, here 330 and 339; and Yves Gingras and Alexandre Guay, “The Use of Analogies in Seventeenth and Eighteenth Century Science,” Perspectives on Science 19, no. 2 (2011): 154–191.",
+    "zh": "]\n49 Yves Gingras，“利用引用与共引用分析来绘制思想领域结构图”，《欧洲思想史》第36卷，第3期（2010年）：330–339页；另见Yves Gingras和Alexandre Guay，“十七和十八世纪科学中类比的使用”，《科学视角》第19卷，第2期（2011年）：154–191页。"
+  },
+  {
+    "id": "G04-P022-004",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "The kind of spaces we study might best be described as “cultural zones.”66 Such zones exist, almost by definition, in the plural: to a large degree, they are defined relative to and in distinction from one another. Our project requires us to identify these zones spatially and conceptually, but also to reflect on their interactions.",
+    "zh": "我们研究的这类空间最好被描述为“文化区域”。66 这种区域几乎按定义就是复数：在很大程度上，它们是通过相对与区别来定义的。我们的项目要求我们在空间和概念上识别这些区域，同时也要思考它们之间的互动关系。"
+  },
+  {
+    "id": "G04-P022-007",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "65 On place vs. space, see Edward S. Casey, The Fate of Place: A Philosophical History (Berkeley, Calif., 1997); Philip J. Ethington, “Placing the Past: ‘Groundwork’ for a Spatial Theory of History,” Rethinking History 11, no. 4 (2007): 465–493.",
+    "zh": "65 关于地点与空间的问题，参见爱德华·S·凯西《地点的命运：哲学史》（加利福尼亚州伯克利，1997年）；菲利普·J·伊思顿《定位过去：历史空间理论的基础》，《重新思考历史》第11卷第4期（2007年），第465–493页。"
+  },
+  {
+    "id": "G04-P024-007",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "70 Franklin met Voltaire when the latter was initiated into a Masonic Lodge; see Nicholas Hans, “UNESCO of the Eighteenth Century: La Loge des Neuf Sœurs and Its Venerable Master, Benjamin Franklin,” Proceedings of the American Philosophical Society 97, no. 5 (1953): 513–524. The list of their shared correspondents includes Jean Le Rond d’Alembert, Pierre-Jean-Georges Cabanis, Octavie Durey de Mesnie`res, Mme Helve ́tius, David Hume, Andre ́ Morellet, and Anne-Robert-Jacques Turgot.",
+    "zh": "70 富兰克林与伏尔泰在后者加入共济会分会时相识；参见尼古拉斯·汉斯的文章“十八世纪的联合国教科文组织：九姐妹会及其尊贵会长本杰明·富兰克林”，《美国哲学学会会刊》97卷第5期（1953年）：513–524页。他们共同通信的名单包括让·勒朗·达朗贝尔、皮埃尔-让-乔治·卡巴尼斯、奥克塔维·杜雷·德·梅斯涅尔、赫尔维蒂乌斯夫人、大卫·休谟、安德烈·莫莱莱和安妮-罗伯特-雅克·图尔戈。"
+  },
+  {
+    "id": "G04-P025-004",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "72 See http://www.republicofletters.net/ for more information on the Reassembling the Republic of Letters project, with which Mapping the Republic of Letters is now affiliated, and which counts collaborators from more than thirty European countries, as well as from Canada and Australia. For the “cyberinfrastructure,” see Changing the Center of Gravity: Transforming Classical Studies through Cyberinfrastructure, ed. Gregory Crane and Melissa Terras, Special Issue, Digital Humanities Quarterly 3, no. 1 (2009).",
+    "zh": "72 有关“重新构建文人共和国”项目更多信息，可访问http://www.republicofletters.net/，该项目与“绘制文人共和国”项目有关联，该项目的合作者来自三十多个欧洲国家，以及加拿大和澳大利亚。关于“网络基础设施”，请参阅《改变重心：通过网络基础设施转型古典研究》，由格雷戈里·克莱恩和梅丽莎·特拉斯编辑，数字人文季刊第3卷第1期（2009年）。"
+  },
+  {
+    "id": "G13-P024-011",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "Stein entered Chinese territory on 29 May 1906 and arrived at Kashgar on 8 June 1906. With the assistance of George Macartney, British Political Agent at Kashgar, Stein engaged Jiang Xiaowan 蒋孝琬 (Chiang Ssŭ-yeh [Jiang shiye] 蒋师爷) from Yarkand as his Chinese secretary. An educated man, Jiang Xiaowan had been private secretary (Ssŭ-yeh) to several officials in Gansu and Xinjiang since 1883 but felt rather disappointed with his career. He thought Fortune was smiling on him when he was engaged by Stein. In the course of the next two years, Jiang Xiaowan helped Stein with all his heart and all his might. When one speaks of Stein’s dealings with Wang Yuanlu and Chinese officials, it would be more accurate to call them Jiang Xiaowan’s dealings with Wang Yuanlu and Chinese officials on behalf of Stein.7",
+    "zh": "斯坦因于1906年5月29日进入中国境内，6月8日抵达喀什。在英国驻喀什政治代表George Macartney的协助下，他从叶尔羌聘请蒋孝琬（Chiang Ssŭ-yeh，即蒋师爷）担任中文秘书。蒋孝琬受过教育，自1883年起曾为甘肃、新疆的多名官员担任私人幕僚（师爷），但对自己的仕途颇感失望。因此，获斯坦因聘用时，他以为时来运转。此后两年，蒋孝琬竭尽全力协助斯坦因。人们谈到斯坦因与王圆箓及中国官员的交涉时，更准确的说法应是：蒋孝琬代表斯坦因，与王圆箓及中国官员交涉。〔7〕"
+  },
+  {
+    "id": "G13-P026-011",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "At the end of the afternoon of 23 May, with Jiang Xiaowan’s persuasion and 103 miskals (equivalent to 10.3 liang/taels) of silver as ‘compensation for MSS.’, Wang Yuanlu agreed that Stein’s selected documents might be moved away:",
+    "zh": "]\n5月23日下午，在蒋孝琬的劝说以及103两银子作为“写本补偿”后，王圆箓同意让斯坦因挑选的文献被移走："
+  },
+  {
+    "id": "G13-P026-014",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "On the morning of 27 May, Wang Yuanlu raised the question of a donation for the temple. Stein took up the theme in order to suggest a possible purchase, but made it clear that no defi nite off er could be made until he had seen the full extent of the collection. Lured by Stein’s off er of money, Wang Yuanlu, with the help of his assistant and Jiang Xiaowan, spent the afternoon moving all the bundles of manuscripts from Cave 17. Stein came to the ‘conclusion that purchase in part would mean possible havoc & that an eff ort must be made to save the whole’.21 On the morning of 28 May, Stein realized that ‘the removal of so many cart-loads of manuscripts would",
+    "zh": "]\n5月27日早晨，王圆箓提出了为寺庙捐赠物品的问题。斯坦因提出这一主题是为了建议可能的购买方案，但明确表示在看到全部藏品后才能给出明确的报价。被斯坦因的金钱提议吸引的王圆箓，在助手和蒋孝琬的协助下，下午将第17窟的所有卷束写本搬移出来。斯坦因得出结论：“部分购买可能造成破坏，必须努力保存全部物品。”"
+  },
+  {
+    "id": "G13-P027-004",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "On the morning of 31 May, a military offi cer of Dunhuang was sent by Lin Taiqing to visit the Mogao Grottoes, apparently for the purpose of investigating Stein’s activities. Uneasy, and probably with a guilty conscience, Wang Yuanlu went into town that day to resume his seasonal alms round.25",
+    "zh": "5月31日上午，林泰清派了一名敦煌军事官员去莫高窟调查斯坦因的活动。不安的王圆箓那天去了镇上，继续他的季节性施舍活动。25"
+  },
+  {
+    "id": "G13-P027-009",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "On the afternoon of 1 June, Wang Jiayan, on his tour to Anxi, made a detour to the Mogao Grottoes to see Stein and convey Viceroy Sheng Yun’s orders. Wang Jiayan came too late to aff ect Stein’s transaction with Wang Yuanlu. He had no knowledge of the transaction at all and made no reference to the manuscripts when he saw Stein. Stein was glad about this, but could not help feeling uneasy when he learned confi dentially, through Jiang Xiaowan, of Wang Jiayan’s purpose in coming. On the morning of 2 June, Stein sent Jiang Xiaowan to town for a couple of days in order to persuade Wang Jiayan to write plain reports to the Daotai of Suzhou and Viceroy Sheng Yun explaining that most of Stein’s work lay in the desert and that it was harmless.",
+    "zh": "]\n6月1日下午，王嘉言在前往安西的途中绕道莫高窟，去见斯坦因并传达总督盛云的命令。王嘉言来得太晚，无法影响斯坦因与王圆箓的交易。他完全不知道这笔交易，见到斯坦因时也没有提及任何写本。斯坦因对此感到高兴，但通过蒋孝琬得知王嘉言来的目的后，不禁感到不安。6月2日上午，斯坦因派蒋孝琬到镇上待几天，目的是让王嘉言向苏州道台和总督盛云提交简单的报告，说明斯坦因的大部分工作都在沙漠中，并无危害。"
+  },
+  {
+    "id": "G13-P107-007",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "Or.13114/1/f. 3 Receipt, 13 Jan 1911 Receipt for two cases of Chinese mss from Stein collection, one containing 15 bundles of mss numbered 1–233 (excepting nos 55 & 218), the other containing 14 bundles of mss numbered 234–443 (excepting no. 237 (not found). Received and signed by Paul Pelliot.",
+    "zh": "]\nOr.13114/1/f. 3 收据，1911年1月13日 来自斯坦因收藏的两箱中国手稿的收据，一箱包含15卷束手稿，编号从1–233（第55号和第218号除外），另一箱包含14卷束手稿，编号从234–443（第237号除外）。由保罗·伯希和接收并签字。"
+  },
+  {
+    "id": "G13-P112-020",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "(1871–1960)’, The Journal of the Royal Asiatic Society of Great Britain and Ireland (1960), pp. 200–202, 206; A.L. Basham, ‘Lionel David Barnett’, Proceedings of the British Academy 46 (1960), pp. 333–9. 7 U. Sims-Williams, ‘The papers of the Central Asian scholar and Sanskritist Rudolf Hoernle’, in S. Karashima and K. Wille (eds), British Library Sanskrit fragments 1, Tokyo, 2006, pp. 1–26. 8 M.A.Stein, Ruins of Desert Cathay, 2 vols, London, 1912. 9 British Library MS Or.8212/123, a Uighur letter of the 9th or 10th century. See J. Hamilton, Manuscrits ouïgours du IXe-Xe siè cle de Touen-Houang, Paris, 1986, no. 23.",
+    "zh": "(1871–1960)，《大英帝国亚洲学会杂志》(1960) 第200–202页、206页；A.L. 巴沙姆，《利昂内尔·大卫·巴内特》，《英国学院会议记录》第46卷(1960) 第333–339页。7 U. 西姆斯-威廉姆斯，《中亚学者及梵文专家鲁道夫·霍恩勒的手稿》，载于S. 卡拉希马与K. 威尔（编），《英国图书馆梵文碎片1》，东京，2006年，第1–26页。8 斯坦因，《沙漠中国的废墟》，共2卷，伦敦，1912年。9 英国图书馆MS Or.8212/123，一份9或10世纪的维吾尔信函。参见J. 汉密尔顿，《9至10世纪吐温霍昂的维吾尔手稿》，巴黎，1986年，第23号。"
+  },
+  {
+    "id": "L01-P013-004",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "Concerned that the promise of money might not overcome the religious scruples and fear of popular resentment that Stein believed motivated Wang Yuanlu’s reluctance, he decided to pay him a formal visit.80 He asked to see the restored Cave 16, known to be Wang’s ‘chief care’,81 as well as ‘the pride and the mainstay of his [Dunhuang] existence’.82 In a famous episode from his published accounts (not recorded in his diaries),83 Stein sought to win Wang’s trust by invoking the seventh-century Buddhist monk Xuanzang 玄奘:",
+    "zh": "由于担心金钱的诱惑无法克服斯坦因所认为的、促使王圆箓犹豫不决的宗教顾虑以及对民众怨恨的恐惧，他决定亲自去拜访王圆箓。80他要求参观已经修复好的第16窟——那是王圆箓“最为重视”的地方，81也是他“在敦煌生活的骄傲与支柱”。82在斯坦因所出版的记述中有一个著名的片段（并未记载在他的日记里），83他试图通过提及七世纪的佛教僧人玄奘来赢得王圆箓的信任："
+  },
+  {
+    "id": "L01-P014-003",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "The following day, 23 May 1907, Wang Yuanlu finally opened the door to Cave 17, which Stein depicted as a ‘black hole’ where ‘no examination of the manuscripts would be possible’.88 ItwasagreedthatWangwouldcontinuetotakeoutabundleortwoatatimeandallow them to ‘look rapidly through their contents in a less cramped and dark part of the temple precincts’.89 A small room in the antechapel of Cave 16, sheltered from view, was turned into an improvised ‘reading room’ for Stein and Jiang, who had to work quickly for fear that Wang might change his mind.90 Responsible for retrieving items, Wang Yuanlu began with the ‘miscellaneous’ bundles he had stacked atop the ‘regular’ bundles.91 Stein thus looked through a ‘large bundle of silk and cotton banners and prayer flags’, two Chinese bundles, ‘a large convolute of mixed papers’, and ‘one packet of large C[entral] A[sian] sheets’.92",
+    "zh": "次日，即1907年5月23日，王圆箓终于打开了第17窟的大门。斯坦因曾将那个地方描述为“黑洞”，称在那里“根本无法对写本进行任何检查”。双方约定，王圆箓每次会取出一两个卷束，让他们在寺庙中较为宽敞且光线较好的地方“快速浏览其内容”。第16窟前厅的一个小房间被临时改造成斯坦因和蒋孝琬的“阅览室”，他们必须抓紧时间工作，生怕王圆箓改变主意。负责取物的王圆箓首先处理的是那些堆放在“常规”卷束之上的“杂项”卷束。于是斯坦因便查看了一“大卷由丝绸、棉布旗帜及经幡构成的物品”，两卷中国式的卷束，“一大叠混杂的纸张”，以及“一包较大的中亚纸张”。"
+  },
+  {
+    "id": "L01-P015-004",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "During morning, Wang opened question as to donation for temple. Took up the theme in order to introduce question of purchase. No definite offer could be made until I had seen the full extent of the collection. So Wang, his helpmate and Sieh [Shiye] slaved all the afternoon in clearing out bundles of MSS. From cella.103",
+    "zh": "上午时，王圆箓提出了为寺庙捐赠的问题。他提起这个话题是为了引出购买的事情。在看完整个藏品的规模之前，他无法给出明确的报价。于是王圆箓、他的帮手以及师爷整个下午都在辛苦地清理小礼拜堂里的那些写本卷束。103"
+  },
+  {
+    "id": "L02-P003-006",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "ex-votos, papers of all sorts ....by their irregular shape and fastening ...could readily be distinguished from the uniform packets containing rolls of Buddhist texts in Chinese and Tibetan. Fortunately their very irregularity had caused the Tao-shih to put them on the top when he had built up the wall-like array of what I may call ‘library bundles.’ (182–3) He suggests that several such bundles had been placed at the very bottom of the cave by Wang ‘to turn a low clay platform into a level foundation for",
+    "zh": "各种许愿物、各类纸张……由于形状不规则且固定方式不同，很容易与那些装着汉文和藏文佛教经典卷的规整包袋区分开来。幸运的是，恰恰因为这些物品形状极不规则，道士在堆砌我称之为“图书馆卷束”的墙状阵列时才将它们置于最上层。（182–3）他认为，王氏曾将几组这样的卷束放置在洞穴的最底部，“以便把低矮的泥台变成平坦的基面”。"
+  },
+  {
+    "id": "L02-P003-017",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "Stein considered these questions. Regarding the first, he concluded that Wang had replaced the material in a different order: ‘The utter confusion prevailing in these bundles and their careless fastening, often without an outer cloth cover, clearly showed that no trouble had been taken to preserve the materials in whatever kind of arrangement they might have originally been found’12 (1921: 811). He noted that the ‘miscellaneous bundles’ were on top and concluded that Wang had left these last when replacing material in the cave after his initial discovery and emptying of the cave.",
+    "zh": "斯坦因对这些问题进行了思考。针对第一个问题，他得出结论认为王是按不同的顺序重新摆放了这些材料：“这些卷束中存在的极度混乱状况，以及它们被草率地捆扎、往往还缺乏外层布套的事实，都清楚地表明，人们根本没有费心去按照这些材料最初被发现的那种排列方式来保存它们”12（1921：811）。他注意到“杂项卷束”位于最上方，因而推断王是在最初发现并清空洞窟之后，再次整理洞窟内的物品时才把它们留在了最后。"
+  },
+  {
+    "id": "L02-P004-011",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "to Stein’s tent ’for inspection.’ May 23: Wang has opened the entrance, shows Jiang and Stein the cave and agrees to show them some material. Stein and Wang move to the antechamber to Cave 16 which had a door to the corridor and papered-over windows to the outside so that they could not be seen by any visitors. Wang brings material to them which they examine during the day.",
+    "zh": "]\n到斯坦因的帐篷“检查”。5月23日：王打开了入口，向江和斯坦因展示藏经洞，并同意给他们看一些材料。斯坦因和王进入有通往走廊的门和覆盖纸面的窗户通向外部的第16窟前室，这样便无法被任何访客看到。王将材料带给他们，他们在白天进行了检查。"
+  },
+  {
+    "id": "L02-P006-005",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "a survey and plan of the site and assign an upper-case roman numeral to each discrete location at the site, such as a house or temple, so N.I., N.II., marked on his plan. If applicable, he then used a lower-case roman numeral to indicate the rooms or sections of the house/temple. Any finds discovered were numbered sequentially after this and annotated with this site id. This work was usually carried out every evening by Stein and he also prepared separate lists of the items. When the items were later sent to London, his assistants there could check off the annotated objects as they unpacked them against the lists. Any missing items would immediately be evident. The excavated items were then listed in the index to his",
+    "zh": "探险报告索引中按此编号列出。"
+  },
+  {
+    "id": "L02-P007-012",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "in the same bundle could be attempted.’ (Stein 1921: 814 n.2).34 Nor, as Stein admits, was this system comprehensive: when numbering took place later many paintings and manuscripts were not part of any bundle and therefore simply given a serial number, preceded by two zeros (Id5 below, eg Ch.001)35",
+    "zh": "]\n“无法在同一卷束中完成分类。”（斯坦因 1921: 814 n.2）。34 而且，如斯坦因所承认，这一系统并不全面：后来在编号时，许多绘画和写本并不属于任何卷束，因此只被赋予以两个零开头的序列号（如下Id5，例如Ch.001）35"
+  },
+  {
+    "id": "L02-P008-004",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "very difficult to extract because the bundles had been crushed. He also selected more material from the earlier bundles at this time and presumably annotated them accordingly. The additional bundles in Ac1c and Ac1d were not annotated at this time.",
+    "zh": "Id2指的是在部分中文写本上发现的红色标注，这些写本使用一种常被称为“苏州码”的中文编号系统，这是中国会计和数学中使用的传统系统（图4）。许多写本还用蓝色或黑色铅笔书写的阿拉伯数字。鉴于使用了这种中文系统，这些数字几乎可以肯定是由蒋孝琬在写本上书写的。序列的开头部分用红色墨水书写的中文标题与“苏州码”相同，很可能也是蒋孝琬所写。正如斯坦因记录所述，这项工作是在1908年6月至7月于和田进行的考察结束时完成的，在此之前"
+  },
+  {
+    "id": "L02-P010-006",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "after the general ‘site-mark’ Ch. (e.g. Ch.0017, Ch.00452 etc.).51 Items with this id are listed before those with Id1 in the Serindia list ‘paintings, woodcut, textiles, and miscellaneous antiques’ from Dunhuang. This id. was only inscribed on the objects at the British Museum. The published list continues to Ch.00522. The database of Stein items in London collections includes 691 items with this Id. but many are multiple fragments with same id. no.",
+    "zh": "在“地点标记”Ch.之后（例如Ch.0017、Ch.00452等）。具有此编号的物品在Serindia列表中“绘画、木刻、纺织品和杂项古物”部分被列在Id1之前。这个编号仅出现在大英博物馆的物品上。已发布的列表一直持续到Ch.00522。斯坦因在伦敦收藏中的项目数据库包含691个具有此编号的项目，但其中许多是多个碎片，具有相同的编号。"
+  },
+  {
+    "id": "L02-P010-011",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "appear under this id. in Appendix I of Serindia (1470–1) prepared by Thomas of the India Office, from the catalogue prepared by la Vallée Poussin. The manuscripts are shown on Plates CLXXIII and CLXXIV. They are now catalogued in the IOL Tib J sequence. The Appendix notes that Ch.011 was part of ‘bundle 86.1–4: P. 99’ suggesting this was originally a separate sequence as is suggested by an outlier, Ch.0180, in the index which refers to a Tibetan manuscript, perhaps suggesting that the Tibetan manuscripts had been assigned Ch.012 to Ch.0180, if not beyond.",
+    "zh": "该写本出现在托马斯编制的《Serindia》（1470–1）附录I中，该目录源自拉·瓦莱·普斯桑编制的目录。这些写本见于图版CLXXIII和CLXXIV。目前它们被编入IOL Tib J序列。附录指出，Ch.011属于“卷束86.1–4：P. 99”，这表明它原本是一个独立的序列，正如索引中的异常项Ch.0180所提示的——该项指的是写本，可能表明写本已被分配至Ch.012至Ch.0180，甚至更远。"
+  },
+  {
+    "id": "L02-P012-022",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "MAZI BL MSS. NO.",
+    "zh": "MAZI BL MSS. NO."
+  },
+  {
+    "id": "L02-P012-023",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "TEXT (GILES 1957 NO.) DATING",
+    "zh": "TEXT (GILES 1957 NO.) DATING"
+  },
+  {
+    "id": "L02-P014-013",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "STEIN BUNDLE BL REG. NO.",
+    "zh": "斯坦因卷束 BL 常规卷束编号"
+  },
+  {
+    "id": "L02-P014-014",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "TITLE (GILES 1957 NO.) HEIGHT/cm LENGTH/cm COPIER",
+    "zh": "标题（GILES 1957号）高度/cm 长度/cm 复制人"
+  },
+  {
+    "id": "L02-P015-016",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "BUNDLE BL MSS. NO.",
+    "zh": "卷束 B L MSS. 编号"
+  },
+  {
+    "id": "L02-P015-017",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "TITLE (GILES 1957 NO.) HEIGHT/cm WIDTH/cm DATE",
+    "zh": "标题 (GILES 1957号) 高度/cm 宽度/cm 日期"
+  },
+  {
+    "id": "L02-P016-002",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "BUNDLE BL MSS NO.",
+    "zh": "卷束 BL MSS编号"
+  },
+  {
+    "id": "L02-P016-003",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "TITLE (LVP/GILES/ENOKI CAT. NO.) LANG.",
+    "zh": "标题（LVP/GILES/ENOKI目录号）语言"
+  },
+  {
+    "id": "L02-P019-007",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "32 ‘I may note here that when the marking with serial numbers",
+    "zh": "32 ‘我在此指出，当标注序号时"
+  },
+  {
+    "id": "L02-P019-015",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "37 The photograph shown here has hundreds of bundles but not",
+    "zh": "37 此处展示的照片中包含数百卷束，但……"
+  },
+  {
+    "id": "L02-P019-020",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "Also, Stein to PA, 23/6/1908: Jiang ‘half smothered under piles of text rolls and bundles of “Misc. MSS.”...’ (MSS Stein 5/122–3). ‘catalogued about a third, to over no. 1100.’ (MSS Stein 5/128,",
+    "zh": "此外，斯坦因于1908年6月23日致PA称：“江‘被堆积如山的卷卷和‘杂类手稿’的卷束所掩盖了一半……’（手稿编号：斯坦因5/122–3）‘约有三分之一被编目，数量超过1100件’。（手稿编号：斯坦因5/128）"
+  },
+  {
+    "id": "L02-P019-063",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "60 T12, no. 360, also known in English as the Larger Sutra on",
+    "zh": "60 T12, 编号360，英文中也被称为《大经》"
+  },
+  {
+    "id": "L02-P020-048",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "Enoki, K. 榎一雄 (1980). Gaikokujin no kiroku ni mieru Tonkō 外",
+    "zh": "榎一雄，Enoki, K. 外國人記錄中的敦煌，Gaikokujin no kiroku ni mieru Tonkō，1980"
+  },
+  {
+    "id": "L02-P020-050",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "vol. 1, Tonkō no shizen to genjō 敦煌の自然と現状 (pp.303–",
+    "zh": "第1卷，敦煌的自然与现状（页码：303–"
+  },
+  {
+    "id": "L08-P001-003",
+    "flags": [
+      "long_non_Chinese"
+    ],
+    "en": "M I C H E L L E C . WA N G, X I N W E N , S U SA N W H I T F I E L D",
+    "zh": "M I C H E L L E C . WA N G, X I N W E N , S U SA N W H I T F I E L D"
+  },
+  {
+    "id": "L08-P004-008",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "as prescribed by the Mahāmāyūrī Dharani Sutra, but also copied and worn on the body as talismans so that their efficacy could be transferred via direct contact with the devotee.11 However, painted banners with dharanis and mantras, which were placed on public display, had very different material properties from smaller talismans.",
+    "zh": "根据《摩诃摩耶经咒经》的规范，这些绘有咒语的旗帜不仅被抄写保存，还被作为护身符佩戴在身上，以便其功效通过与信徒的直接接触得以传递。11 然而，被置于公共展示场所的、绘有咒语与咒文的旗帜，其物质特性与较小的护身符截然不同。"
+  },
+  {
+    "id": "L08-P012-009",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "artifacts, and Andrews assisted with their cataloguing and study. If we begin with a reasonable assumption that this painting came from the library cave, then how did Andrews acquire it?54 Did he buy the painting himself or could it have been given to him by Stein?",
+    "zh": "]\n文物，安德鲁斯协助了对这些文物的编目和研究。如果我们合理假设这幅画来自藏经洞，那么安德鲁斯是如何获得它的呢？54 他是自己购买的还是斯坦因送给了他？"
+  },
+  {
+    "id": "L08-P015-030",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "Ontario Museum, Toronto, in 1924 (927.24). 57 Stein 1921, vol. 2, pp. 801ff. 58 In the expedition report, Stein says, “I may note here that when",
+    "zh": "1924年，多伦多安大略博物馆藏品，编号927.24。57 斯坦因1921年，第2卷，第801页及以后。58 在考察报告中，斯坦因写道：“我在此指出，当……"
+  },
+  {
+    "id": "L08-P016-004",
+    "flags": [
+      "modality_check"
+    ],
+    "en": "were due for India but still being catalogued. Permission was made for the Kharos.t.hī tablets to be kept unpacked at the British Museum so that the cataloguing could be completed. The list of the material removed and details of its move on",
+    "zh": "这些文物原定要运往印度，但仍在进行编目工作。因此，Kharos.t.hī泥板被允许未包装就存放在大英博物馆，以便完成编目工作。被移除的文物清单及其搬运细节"
+  },
+  {
+    "id": "L08-P017-008",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "1955 “The Jātakastava or ‘Praise of the Buddha’s Former Births.’” Transactions of the American Philosophical Society, n.s., 45, no. 5, pp. 397–508. Drompp, Michael Robert",
+    "zh": "1955 “《Jātakastava或‘对佛陀前世生起的赞颂’》。”《美国哲学学会会刊，新系列》，45卷，第5期，第397–508页。Drompp, Michael Robert"
+  },
+  {
+    "id": "L08-P017-010",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "1968 Saka Grammatical Studies. London: Oxford University Press. 1984 “Cā tteya khī in the Museé Guimet.” Studia Iranica 13, no. 2, pp. 251–52, pl. xvi. Emmerick, R. E., and Glen Dudbridge",
+    "zh": "1968 萨卡语语法研究。伦敦：牛津大学出版社。1984 “吉梅特博物馆中的Cā tteya khī”。《伊朗研究》13, no. 2, pp. 251–52, pl. xvi。Emmerick, R. E.与Glen Dudbridge"
+  },
+  {
+    "id": "L08-P017-011",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "1978 “Pelliot tibétain 0821.” Studia Iranica 7, no. 2, pp. 283–85, pl. xv. Filigenzi, Anna, and Mauro Maggi",
+    "zh": "1978 “伯希和藏文写本 0821。”《伊朗研究》第7卷第2期，第283–85页，图版xv。Filigenzi, Anna和Mauro Maggi"
+  },
+  {
+    "id": "L08-P017-015",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "2011 “Tonkō Bakkōkutsu oyobi Anzai Yurinkutsu no Kujaku myōō (Mahāmayūrī) ni tsuite—Kigigun setsudoshi Sōshi ni yoru mikkyō juyō no ichi danmen 敦煌莫高窟及び安西楡林窟の孔雀明",
+    "zh": "2011 “关于孔雀明王——归义军节度使曹氏所接受的密教内容之一” (敦煌莫高窟及安西楡林窟的孔雀明王)"
+  },
+  {
+    "id": "L08-P017-023",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "1964 Kasei no rekishi-chirigakuteki kenkyū 河西の歴史地理学 的研究 (A study of the historical geography of the Hexi region). Tōkyō: Yoshikawa Kōbunkan. Malandra, Geri H.",
+    "zh": "1964 河西的历史地理学研究. 东京：吉川宏文馆。马尔德拉，杰里·H。"
+  },
+  {
+    "id": "L08-P017-025",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "1955 “On Wei-ch’ih I-seng: A Painter of the Early T’ang Dynasty.” Oriental Art, n.s., 1, no. 2, pp. 70–74. Olivelle, Patrick, ann. and trans.",
+    "zh": "1955 “关于魏希一僧：早期唐朝的画家”. 《东方艺术》，第1卷，第2期，第70–74页。奥利维尔，帕特里克，注释与翻译"
+  },
+  {
+    "id": "L08-P017-031",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "2004 “Tonkō Bakukōkutsu dai 217 kutsu nanheki kyōhen no shin kaishaku” 敦煌莫高窟第二一七窟南壁經變の新解釋 (A new interpretation of the painting on the south wall of Mogao Cave 217 at Dunhuang). Bijutsushi 美術史 54, no. 1, pp. 96–115. Skjærvø, Prods O.",
+    "zh": "2004 “Tonkō Bakukōkutsu dai 217 kutsu nanheki kyōhen no shin kaishaku” 敦煌莫高窟第二一七窟南壁經變の新解釋 (A new interpretation of the painting on the south wall of Mogao Cave 217 at Dunhuang). Bijutsushi 美術史 54, no. 1, pp. 96–115. Skjærvø, Prods O."
+  },
+  {
+    "id": "L08-P017-034",
+    "flags": [
+      "long_non_Chinese"
+    ],
+    "en": "2006 “The Spell of the Great, Golden Peacock Queen: The Origin, Practices, and Lore of an Early Esoteric Buddhist Tradition in China.” Pacific World, ser. 3, 8, pp. 89–123. Stein, Aurel",
+    "zh": "2006 “The Spell of the Great, Golden Peacock Queen: The Origin, Practices, and Lore of an Early Esoteric Buddhist Tradition in China.” Pacific World, ser. 3, 8, pp. 89–123. Stein, Aurel"
+  },
+  {
+    "id": "L08-P018-004",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "1996 “Lun «Kongque mingwang jing» jiqi zai Dunhuang, Dazu de liuchuan” 论«孔雀明王经»及其在敦煌,大 足的流传 (Discussing the Mahāmayūrī Sūtra and its circulation in Dunhuang and Sichuan). Dunhuang yanjiu 敦煌研究 (Dunhuang research), no. 4, pp. 37–47. Wang Le",
+    "zh": "1996 “论《孔雀明王经》及其在敦煌和四川的流传”。《敦煌研究》，第4期，第37–47页。王雷 王"
+  },
+  {
+    "id": "L08-P018-010",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "2002 as editor. Dunhuang Manuscript Forgeries. British Library Studies in Conservation Science 3. London: British Library. 2017 “The Metropolitan Museum of Art—Pieces from Dunhuang?” IDP Newsletter, no. 49/50 (Autumn). http://idp.bl .uk/archives/news_current/news_current.a4d#section5 for an",
+    "zh": "2002 编。敦煌写本伪造案。英国图书馆保护科学研究3。伦敦：英国图书馆。2017 “大都会艺术博物馆——来自敦煌的藏品？”《DP通讯》，第49/50期（秋季）。http://idp.bl.uk/archives/news_current/news_current.a4d#section5"
+  },
+  {
+    "id": "L08-P018-014",
+    "flags": [
+      "negation_check"
+    ],
+    "en": "2016 “On a Silk Banner in the Musée Guimet: A Chinese Contribution to the Service of Buddhist Devotion in the Oasis of Dunhuang.” Orientations 47, no. 4 (May), pp. 82–88. Zhang Guangda 張廣達 and Rong Xinjiang 榮新江",
+    "zh": "2016 “吉美博物馆中的丝绸旗帜：敦煌绿洲中中国对佛教虔诚的贡献。”《东方学杂志》47卷，第4期（5月），第82–88页。张广达和荣新江"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "checks": [
+    {
+      "script": "check_docx_namespaces.py",
+      "exit_code": 0,
+      "output": "PASSED: /Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/HY5419_敦煌项目_8分钟展演稿_中英对照.docx\n  SHA-256: 0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91; XML parts: 24\nScope: namespace references only; Microsoft Word normal-open verification is still required.\n"
+    },
+    {
+      "script": "check_office_package.py",
+      "exit_code": 0,
+      "output": "{\n  \"path\": \"/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/HY5419_敦煌项目_8分钟展演稿_中英对照.docx\",\n  \"sha256\": \"0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91\",\n  \"xml_parts_checked\": 24,\n  \"issues\": [],\n  \"read_errors\": [],\n  \"status\": \"passed\",\n  \"package_errors\": [],\n  \"external_relationships\": 4\n}\n"
+    }
+  ],
+  "unchanged_part_bytes_preserved": true,
+  "preserved_fields_links_numbering_tables_sections": true,
+  "comment_state": "Three original threads retained and resolved; not a comment-free delivery."
+}

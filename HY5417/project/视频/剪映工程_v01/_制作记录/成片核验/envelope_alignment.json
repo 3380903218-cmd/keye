@@ -1,0 +1,119 @@
+{
+  "derived_from": "verification.json",
+  "narration_checks": [
+    {
+      "narration": 1,
+      "envelope_correlation_first8s": 0.9835661382349693,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.45433235168457
+    },
+    {
+      "narration": 2,
+      "envelope_correlation_first8s": 0.9809639451310154,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.34619903564453
+    },
+    {
+      "narration": 3,
+      "envelope_correlation_first8s": 0.9762387642063806,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.41278648376465
+    },
+    {
+      "narration": 4,
+      "envelope_correlation_first8s": 0.9774518121841484,
+      "lag_ms": 50.0,
+      "rms_dbfs": -17.725421905517578
+    },
+    {
+      "narration": 5,
+      "envelope_correlation_first8s": 0.9772625355396687,
+      "lag_ms": 50.0,
+      "rms_dbfs": -17.91933250427246
+    },
+    {
+      "narration": 6,
+      "envelope_correlation_first8s": 0.9801843933062011,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.522676467895508
+    },
+    {
+      "narration": 7,
+      "envelope_correlation_first8s": 0.9818092200230183,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.45151138305664
+    },
+    {
+      "narration": 8,
+      "envelope_correlation_first8s": 0.9729503115899119,
+      "lag_ms": 50.0,
+      "rms_dbfs": -17.948484420776367
+    },
+    {
+      "narration": 9,
+      "envelope_correlation_first8s": 0.9702850522565977,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.53339385986328
+    },
+    {
+      "narration": 10,
+      "envelope_correlation_first8s": 0.980793969958231,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.23375129699707
+    },
+    {
+      "narration": 11,
+      "envelope_correlation_first8s": 0.9852112559695535,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.599220275878906
+    },
+    {
+      "narration": 12,
+      "envelope_correlation_first8s": 0.9742929369164888,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.33769416809082
+    },
+    {
+      "narration": 13,
+      "envelope_correlation_first8s": 0.9783824415895327,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.68657875061035
+    },
+    {
+      "narration": 14,
+      "envelope_correlation_first8s": 0.9829855301546226,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.442228317260742
+    },
+    {
+      "narration": 15,
+      "envelope_correlation_first8s": 0.9745572333400896,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.035995483398438
+    },
+    {
+      "narration": 16,
+      "envelope_correlation_first8s": 0.9751588469588679,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.443531036376953
+    },
+    {
+      "narration": 17,
+      "envelope_correlation_first8s": 0.9753698782183126,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.257156372070312
+    },
+    {
+      "narration": 18,
+      "envelope_correlation_first8s": 0.9764836321852127,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.45526123046875
+    },
+    {
+      "narration": 19,
+      "envelope_correlation_first8s": 0.9704112626140964,
+      "lag_ms": 50.0,
+      "rms_dbfs": -18.142845153808594
+    }
+  ]
+}

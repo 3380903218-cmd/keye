@@ -1,0 +1,239 @@
+{
+  "input_workbook": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/06_notes/2026-10-13_双层传播网络补采集/整理版_2026-10-13/双层传播网络_中文记录工作簿_整理版.xlsx",
+  "input_sha256": "0b3aadb52134753cc7035677dac1de8352e67e6ae73acb8629817b25e0fe308b",
+  "date": "2026-10-13",
+  "graph_model": "entity-event-object-work incidence; arrows have typed relations, not all physical transfers",
+  "status_policy": "main=可整理事件; review additionally includes待核验; intention retained as intention",
+  "main_event_ids": [
+    "DH001",
+    "DH002",
+    "DH003",
+    "DH004",
+    "DH005",
+    "DH006",
+    "DH007",
+    "DH008",
+    "DH009",
+    "KE001",
+    "KE003",
+    "KE004",
+    "KE006",
+    "KE007",
+    "KE008",
+    "KE009",
+    "KE010"
+  ],
+  "review_event_ids": [
+    "DH001",
+    "DH002",
+    "DH003",
+    "DH004",
+    "DH005",
+    "DH006",
+    "DH007",
+    "DH008",
+    "DH009",
+    "KE001",
+    "KE002",
+    "KE003",
+    "KE004",
+    "KE005",
+    "KE006",
+    "KE007",
+    "KE008",
+    "KE009",
+    "KE010",
+    "PE001"
+  ],
+  "graphs": {
+    "主图": {
+      "nodes": 46,
+      "association_edges": 57,
+      "event_records": 17,
+      "node_type_counts": {
+        "Collection": 10,
+        "Event": 17,
+        "Person": 6,
+        "Expedition": 2,
+        "Institution": 3,
+        "Government": 2,
+        "Object": 2,
+        "Representation": 1,
+        "Work": 3
+      },
+      "weak_components": 2,
+      "independent_parser": "NetworkX 3.2.1",
+      "status": "passed",
+      "layout": "NetworkX 3.2.1 spring layout; seed5419; visual only",
+      "file": "双层传播网络.gexf"
+    },
+    "实物流转层": {
+      "nodes": 30,
+      "association_edges": 37,
+      "event_records": 9,
+      "node_type_counts": {
+        "Collection": 7,
+        "Event": 9,
+        "Person": 6,
+        "Expedition": 2,
+        "Institution": 3,
+        "Government": 2,
+        "Object": 1
+      },
+      "weak_components": 2,
+      "independent_parser": "NetworkX 3.2.1",
+      "status": "passed",
+      "layout": "NetworkX 3.2.1 spring layout; seed5419; visual only",
+      "file": "实物流转层/实物流转层.gexf"
+    },
+    "知识传播层": {
+      "nodes": 19,
+      "association_edges": 20,
+      "event_records": 8,
+      "node_type_counts": {
+        "Collection": 3,
+        "Event": 8,
+        "Person": 3,
+        "Object": 1,
+        "Representation": 1,
+        "Work": 3
+      },
+      "weak_components": 2,
+      "independent_parser": "NetworkX 3.2.1",
+      "status": "passed",
+      "layout": "NetworkX 3.2.1 spring layout; seed5419; visual only",
+      "file": "知识传播层/知识传播层.gexf"
+    },
+    "含待核记录": {
+      "nodes": 52,
+      "association_edges": 63,
+      "event_records": 20,
+      "node_type_counts": {
+        "Collection": 12,
+        "Event": 20,
+        "Person": 7,
+        "Expedition": 2,
+        "Institution": 3,
+        "Government": 2,
+        "Object": 2,
+        "Representation": 1,
+        "Work": 3
+      },
+      "weak_components": 3,
+      "independent_parser": "NetworkX 3.2.1",
+      "status": "passed",
+      "layout": "NetworkX 3.2.1 spring layout; seed5419; visual only",
+      "file": "含待核记录/双层传播网络_含待核.gexf"
+    }
+  },
+  "GephiGUIImport": "not_exercised",
+  "counts": {
+    "reading_records": 38,
+    "workbook_events": 20,
+    "main_events": 17,
+    "main_physical_events": 9,
+    "main_knowledge_records": 8,
+    "main_intention_records": 1,
+    "review_only_events": 3
+  },
+  "status": "passed",
+  "conversion_rules": [
+    "one stable ID per entity/object/event/work/representation",
+    "object -> event records a subject association",
+    "transfer source -> physical event -> receiving institution/operation",
+    "known participant -> event with explicit Role",
+    "event -> work/representation records reported production, not necessarily publication or current availability",
+    "missing actors remain blank; no synthetic unknown people or inferred co-occurrence edges",
+    "source-group relationships and uncertain identifier equivalence are metadata only, not extra graph edges",
+    "each node pair in each event appears once; duplicate participation annotations are merged at Weight1",
+    "provenance sources and reading rows are not automatically early knowledge-network publication nodes",
+    "YearStart/End remain uncertainty attributes; graph is static",
+    "EventCount1 on association edges is a locator; do not sum it to estimate unique historical events"
+  ],
+  "outputs": [
+    {
+      "path": "双层传播网络.gexf",
+      "sha256": "9004aeec3f555f3fa8e1e2d029e444ddcc3c38df722ff524edddd3d0fd2f3e18"
+    },
+    {
+      "path": "nodes.csv",
+      "sha256": "05dbe8b9f1b26e2bad52ce38e6b064927f88e294ad333485b6498b4eeb41ff71"
+    },
+    {
+      "path": "edges.csv",
+      "sha256": "628dac3c406bfb6068ea69c633e98d76e60500ab03b41b5876c77acc0c575f95"
+    },
+    {
+      "path": "实物流转层/实物流转层.gexf",
+      "sha256": "5ef8f25ee8ed2ac77341d893f4998e7d3dbd6257022da31fbe37a0fe3d7061ad"
+    },
+    {
+      "path": "实物流转层/nodes.csv",
+      "sha256": "efe17cc6f20d09ebe73fc94289679ca5a1635e4c896ab15e25c827e7874fea42"
+    },
+    {
+      "path": "实物流转层/edges.csv",
+      "sha256": "01ab9781f89f916c588e03884117b9d4ab3321ec9fc81a7af669a808679703fd"
+    },
+    {
+      "path": "知识传播层/知识传播层.gexf",
+      "sha256": "6af067db1515a3c087ecff103b09464a5d36609bc76b590e31d1dbf520eba545"
+    },
+    {
+      "path": "知识传播层/nodes.csv",
+      "sha256": "662868e8854615d712b9bfa868b1dc2108efd4de1f9527cfcfafb45663df85e0"
+    },
+    {
+      "path": "知识传播层/edges.csv",
+      "sha256": "43bd14bcd89d56bd368906b906ccd962c6f24729b1fc867d26ca166b686e8b4b"
+    },
+    {
+      "path": "含待核记录/双层传播网络_含待核.gexf",
+      "sha256": "973689bf8bf86bb0804e17eabd1088e5107f62e6ae24eb4260384166d9fb40ae"
+    },
+    {
+      "path": "含待核记录/nodes.csv",
+      "sha256": "8ee3cd0a57bf2b39716c8ee3315abcae77f449e08003fc75c9a8c0b6eeaec078"
+    },
+    {
+      "path": "含待核记录/edges.csv",
+      "sha256": "7e8c9a61ff39fa972738046b4635684d699180879fca5f6203d73550c3be8ef9"
+    },
+    {
+      "path": "来源阅读记录.csv",
+      "sha256": "dad6306c516a93bf24f4fea27579eb488f7bdd383b0b1196fb9c66e153ca3695"
+    },
+    {
+      "path": "事件原始记录.csv",
+      "sha256": "90bbdd21397b29194b347b7551b4771d524b9cee11c2838798545a8f84da565c"
+    },
+    {
+      "path": "来源目录.csv",
+      "sha256": "b0179d84fde2b5e8c6b14cd627131e715cab43e4c79bab2a66abc74b41ee9365"
+    },
+    {
+      "path": "参与角色原始记录.csv",
+      "sha256": "b91d95f3304cb5a2a807df29f4fdb26b82c91b57cac7a1f5e33e10b3b701264d"
+    },
+    {
+      "path": "对象原始记录.csv",
+      "sha256": "721be57285fb3e59d90b542840d920c34bca204fa5ea8e74a4937ff2f9f82855"
+    },
+    {
+      "path": "作品原始记录.csv",
+      "sha256": "f1dafcbf033b0ac18a21b2d3b65fdffb7a3cf4df833dc216327a3a40c1a3222b"
+    },
+    {
+      "path": "复制品原始记录.csv",
+      "sha256": "6ad5108cdfa2f20b87b86692477f4c29bd89a5f6b0289ff287dd5049a845d684"
+    },
+    {
+      "path": "主体原始记录.csv",
+      "sha256": "2690fd45269b2ac0db4f0ee3e1949eff88fc3c96ba167c0e083efff279ad9766"
+    },
+    {
+      "path": "主图未纳入记录.csv",
+      "sha256": "aaa0483a88fd0a8b2a01333ff13bab34e150a4ff7587b9487cd7f5e592acaf3a"
+    }
+  ]
+}

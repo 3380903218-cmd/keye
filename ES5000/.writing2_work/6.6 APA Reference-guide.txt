@@ -1,0 +1,115 @@
+PAGE 1
+7th Edition 
+Reference Guide for Journal Articles, 
+Books, and Edited Book Chapters
+Journal 
+Article
+Author, A. A., & Author, B. B. (Year). Title of the article.
+Name of the Periodical, volume(issue), #–#. https://doi.org/xxxx
+Invert names so that the last name comes first, 
+followed by a comma and the initials. Leave a space 
+between initials. Retain the order of authors’ names.
+Place the year  
+in parentheses.  
+End with a period.
+Capitalize only the first letter of the first word. For a two-part 
+title, capitalize the first word of the second part of the title. Also 
+capitalize proper nouns. Do not italicize. End with a period.
+Capitalize all major words in the 
+periodical name. Follow with a 
+comma. Italicize the periodical 
+name (but not the comma after).
+Italicize the volume number. Do not 
+put a space between the volume 
+number and the parentheses 
+around the issue number.
+Do not italicize the issue number or 
+parentheses. Follow the parentheses with 
+a comma. No issue number? That’s okay.
+Follow the volume number with a comma.
+Include the article page 
+range. Use an en dash; do 
+not put spaces around the 
+en dash. End with a period.
+Does the article have a 
+DOI? Include a DOI for all
+works that have one. Do not 
+put a period after the DOI.
+Book
+Author, A. A., & Author, B. B. (Copyright Year). Title of the book (7th ed.). 
+Publisher. DOI or URL
+Invert names so that the last name comes first, 
+followed by a comma and the initials. Leave a space 
+between initials. Retain the order of authors’ names.
+Place the copyright year 
+in parentheses. End with 
+a period.
+Capitalize only the first letter of the first word. For a two-part 
+title, capitalize the first word of the second part of the title. Also 
+capitalize proper nouns. Italicize the title. End with a period.
+Include the name of the publisher, followed 
+by a period. Do not include the publisher 
+location. Are there multiple publishers?
+If so, separate them with a semicolon.
+Does the book have a DOI? Include a DOI if available.
+Do not include a URL or database information for works from 
+ac
+ademic research databases. Include a URL for ebooks from 
+other websites. Do not put a period after the DOI or URL.
+Does the book have an edition or volume number? If so, include
+the number in parentheses after the title but before the period. If both, 
+show edition first and volume second, separated by a comma. Do 
+not put a period between the title and the parenthetical information.
+
+PAGE 2
+Chapter in  
+an Edited Book
+Author, A. A., & Author, B. B. (Copyright Year). Title of the book chapter. 
+In A. A. Editor & B. B. Editor (Eds.), Title of the book (2nd ed., pp. #–#).
+Publisher. DOI or URL
+Invert names so that the last name comes first, 
+followed by a comma and the initials. Leave a space 
+between initials. Retain the order of authors’ names.
+Place the copyright year 
+in parentheses. End with 
+a period.
+Capitalize only the first letter of the first word. For a two-part 
+title, capitalize the first word of the second part of the title.  
+Also capitalize proper nouns. Do not italicize. End with a period.
+Write the word “In” and the initials 
+and last name (not inverted) of 
+each editor. Use “(Ed.)” for one 
+editor or “(Eds.)” for multiple 
+editors. End with a comma.
+Provide the title of the book in which 
+the chapter appears. Capitalize only 
+the first letter of the first word. For a 
+two-part title, capitalize the first word 
+of the second part of the title. Also 
+capitalize proper nouns. Italicize the 
+book title. 
+Include the chapter page range. End with a period. 
+Does the book have an edition or volume 
+number? If so, include the number in parentheses
+before the page range. If both, show edition 
+first and volume second, separated by a comma, 
+before the page range. Do not put a period 
+between the title and the parenthetical information.
+Include the name of the publisher followed 
+by a period. Do not include the publisher 
+location. If there are multiple publishers, 
+separate them with a semicolon.
+Does the book have a DOI or URL? Include a DOI if available.
+Do not include a URL or database information for works fr
+om 
+academic research databases. Include a URL for ebooks from 
+other websites. Do not put a period after the DOI or URL.
+More information on reference variations not shown here (e.g., in-press articles, articles with article numbers, articles without DOIs, books with titled volumes, 
+audiobooks) can be found in the Publication Manual of the American Psychological Association (7th ed.) and in the Concise Guide to APA Style (7th ed.):
+Journal articles and other periodicals Section 10.1 
+Books and reference works Section 10.2
+Edited book chapters and entries in reference works Section 10.3
+SOURCE: American Psychological Association. (2020). 
+Publication manual of the American Psychological 
+Association (7th ed.). https://doi.org/10.1037/0000165-000
+CREDIT: MELANIE R. FOWLER, FLORIDA SOUTHERN COLLEGE

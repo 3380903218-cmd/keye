@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "HY6101-seminar11-12-zh-personal-reflection-20261103",
+  "state": "final",
+  "content_authority": "Latest user-edited draft plus supplied personal reading notes and previously accepted comments; latest baseline preserved byte-identically",
+  "format_authority": "Latest user-edited Word draft: title, typography, paragraph styles, citation styles and page geometry preserved",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "chinese-reflection",
+      "role": "final",
+      "path": "seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+      "performed_at": "2026-11-03T00:40:12.668236+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_personal_revision_20261103/content_check.json",
+        "sha256": "1cd6dff2954dde46019e499048b5b8b83e3c896bab00d3477424593bbe3d0d9a",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+      "performed_at": "2026-11-03T00:40:12.668236+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_personal_revision_20261103/package_validation.json",
+        "sha256": "b7ea7d7fa696322d3010a5ef2f99ba7a5f20e62a1235dcf15b275d5bca5a247e",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+      "performed_at": "2026-11-03T00:40:12.668236+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_personal_revision_20261103/render_check.json",
+        "sha256": "6c8036ccf9a024348551b2876bf1c13509d53ff3b6ab110f8a28f2e7724056ee",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+      "performed_at": "2026-11-03T00:40:12.668236+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_personal_revision_20261103/delivery_package_check.json",
+        "sha256": "db49db222cf61017ac3a755ec1816bf77b111cf168e2bdf276f9c02e7a035dd0",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "chinese-reflection"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [],
+  "next_action": "User may read the revised Chinese essay at the original path.",
+  "extensions": {
+    "hy6101:revision": {
+      "baseline_sha256": "bb000f715b9ea7456fb21cecb22b52124d67b8e9d9dd01e1690ae561d37d09b6",
+      "baseline_path": ".seminar11_12_personal_revision_20261103/HY6101_Seminar11-12_阅读思考_中文版_个人思考修订前.docx",
+      "previous_record_archive": ".seminar11_12_personal_revision_20261103/previous_delivery_record.json",
+      "prior_comment_corrections_preserved": true,
+      "user_title_and_group_question_number_preserved": true,
+      "personal_note_mapping": ".seminar11_12_personal_revision_20261103/revision_source.json",
+      "body_chinese_characters": 2196,
+      "new_book_evidence": "Supplied chapters 4 and 5 checked for amnesty wording and names of the 1973 uprising; distinct from the 1976 massacre."
+    }
+  }
+}

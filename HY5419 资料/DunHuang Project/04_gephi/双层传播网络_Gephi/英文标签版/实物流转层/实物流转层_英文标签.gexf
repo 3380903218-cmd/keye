@@ -1,0 +1,1549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2">
+  <meta lastmodifieddate="2026-10-13">
+    <creator>HY5419 workbook-to-Gephi conversion</creator>
+    <description>HY5419 two-layer event-centred graph; 1900–1910; static; unit-weight associations; scope and uncertainty in attributes. English display labels added; original Chinese names and all historical attributes preserved.</description>
+  </meta>
+  <graph mode="static" defaultedgetype="directed">
+    <attributes class="node" mode="static">
+      <attribute id="NodeType" title="NodeType" type="string" />
+      <attribute id="Layer" title="Layer" type="string" />
+      <attribute id="RecordStatus" title="RecordStatus" type="string" />
+      <attribute id="EpistemicStatus" title="EpistemicStatus" type="string" />
+      <attribute id="EventId" title="EventId" type="string" />
+      <attribute id="Action" title="Action" type="string" />
+      <attribute id="DateOriginal" title="DateOriginal" type="string" />
+      <attribute id="YearStart" title="YearStart" type="integer" />
+      <attribute id="YearEnd" title="YearEnd" type="integer" />
+      <attribute id="DatePrecision" title="DatePrecision" type="string" />
+      <attribute id="ObjectId" title="ObjectId" type="string" />
+      <attribute id="RepresentationId" title="RepresentationId" type="string" />
+      <attribute id="WorkId" title="WorkId" type="string" />
+      <attribute id="RelatedCollectionNote" title="RelatedCollectionNote" type="string" />
+      <attribute id="SourceRef" title="SourceRef" type="string" />
+      <attribute id="Locator" title="Locator" type="string" />
+      <attribute id="Notes" title="Notes" type="string" />
+      <attribute id="FullLabel" title="FullLabel" type="string" />
+      <attribute id="LabelZh" title="LabelZh" type="string" />
+      <attribute id="LabelEn" title="LabelEn" type="string" />
+      <attribute id="FullLabelZh" title="FullLabelZh" type="string" />
+      <attribute id="FullLabelEn" title="FullLabelEn" type="string" />
+      <attribute id="LayerEn" title="LayerEn" type="string" />
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="Relation" title="Relation" type="string" />
+      <attribute id="Role" title="Role" type="string" />
+      <attribute id="Layer" title="Layer" type="string" />
+      <attribute id="EventId" title="EventId" type="string" />
+      <attribute id="EventCount" title="EventCount" type="integer" />
+      <attribute id="ReviewRequired" title="ReviewRequired" type="integer" />
+      <attribute id="RecordStatus" title="RecordStatus" type="string" />
+      <attribute id="EpistemicStatus" title="EpistemicStatus" type="string" />
+      <attribute id="DateOriginal" title="DateOriginal" type="string" />
+      <attribute id="YearStart" title="YearStart" type="integer" />
+      <attribute id="YearEnd" title="YearEnd" type="integer" />
+      <attribute id="DatePrecision" title="DatePrecision" type="string" />
+      <attribute id="ReadingIds" title="ReadingIds" type="string" />
+      <attribute id="SourceRef" title="SourceRef" type="string" />
+      <attribute id="Locator" title="Locator" type="string" />
+      <attribute id="ParticipationIds" title="ParticipationIds" type="string" />
+      <attribute id="Notes" title="Notes" type="string" />
+      <attribute id="LabelZh" title="LabelZh" type="string" />
+      <attribute id="LayerEn" title="LayerEn" type="string" />
+    </attributes>
+    <nodes>
+      <node id="B0001" label="B0001 First acquisition batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Collection" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="批次／集合" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="B0001" />
+          <attvalue for="RelatedCollectionNote" value="B0004（汇集关系按S07叙述；逐件映射未知）" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="自建分析ID；不是馆藏号。50捆汉文＋5捆藏文，另有混合捆选件；具体写本号未逐件匹配；不得据批次推定每件材料完整同路。" />
+          <attvalue for="FullLabel" value="斯坦因首次协议取得所涉材料" />
+          <attvalue for="LabelZh" value="B0001 斯坦因首次协议取得所涉材料" />
+          <attvalue for="LabelEn" value="B0001 First acquisition batch" />
+          <attvalue for="FullLabelZh" value="斯坦因首次协议取得所涉材料" />
+          <attvalue for="FullLabelEn" value="Materials associated with Stein's first acquisition agreement" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="191" g="160" b="80" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="-96.48299631097264" y="-159.7247737731236" z="0" />
+      </node>
+      <node id="B0002" label="B0002 Additional Mogao batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Collection" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="批次／集合" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="B0002" />
+          <attvalue for="RelatedCollectionNote" value="B0004（汇集关系按S07叙述；逐件映射未知）" />
+          <attvalue for="SourceRef" value="S07;S03" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="自建分析ID；不是馆藏号。约20捆（后出叙述）；13捆（日记转引），另有选件；具体写本号未逐件匹配；不得据批次推定每件材料完整同路。" />
+          <attvalue for="FullLabel" value="斯坦因莫高窟追加取得所涉材料" />
+          <attvalue for="LabelZh" value="B0002 斯坦因莫高窟追加取得所涉材料" />
+          <attvalue for="LabelEn" value="B0002 Additional Mogao batch" />
+          <attvalue for="FullLabelZh" value="斯坦因莫高窟追加取得所涉材料" />
+          <attvalue for="FullLabelEn" value="Materials associated with Stein's additional acquisition at Mogao" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="191" g="160" b="80" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="215.1275688984774" y="83.91865406505278" z="0" />
+      </node>
+      <node id="B0003" label="B0003 Anxi batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Collection" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="批次／集合" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="B0003" />
+          <attvalue for="RelatedCollectionNote" value="B0004（汇集关系按S07叙述；逐件映射未知）" />
+          <attvalue for="SourceRef" value="S07;S03;S01" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="自建分析ID；不是馆藏号。230余捆（Serindia）；220或230捆（其他记录转引）；具体写本号未逐件匹配；不得据批次推定每件材料完整同路。" />
+          <attvalue for="FullLabel" value="安西追加取得批次所涉材料" />
+          <attvalue for="LabelZh" value="B0003 安西追加取得批次所涉材料" />
+          <attvalue for="LabelEn" value="B0003 Anxi batch" />
+          <attvalue for="FullLabelZh" value="安西追加取得批次所涉材料" />
+          <attvalue for="FullLabelEn" value="Materials associated with the additional acquisition batch received at Anxi" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="191" g="160" b="80" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="192.10135166834314" y="-83.22673096073174" z="0" />
+      </node>
+      <node id="B0004" label="B0004 BM deposit batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Collection" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="批次／集合" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="B0004" />
+          <attvalue for="SourceRef" value="S07;S03;S17" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="自建分析ID；不是馆藏号。24箱手稿；另5箱艺术品在数量表保留为伴随材料；具体写本号未逐件匹配；不得据批次推定每件材料完整同路。" />
+          <attvalue for="FullLabel" value="斯坦因材料存放英国博物馆所涉材料" />
+          <attvalue for="LabelZh" value="B0004 斯坦因材料存放英国博物馆所涉材料" />
+          <attvalue for="LabelEn" value="B0004 BM deposit batch" />
+          <attvalue for="FullLabelZh" value="斯坦因材料存放英国博物馆所涉材料" />
+          <attvalue for="FullLabelEn" value="Materials associated with Stein's physical deposit at the British Museum" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="191" g="160" b="80" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="157.19096500833626" y="-444.44548928241005" z="0" />
+      </node>
+      <node id="B0005" label="B0005 Pelliot acquisition batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Collection" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="批次／集合" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="B0005" />
+          <attvalue for="SourceRef" value="S15;S22;S01" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="自建分析ID；不是馆藏号。数量暂不作标量：不同来源范围与语言分项不可直接相加；具体写本号未逐件匹配；不得据批次推定每件材料完整同路。" />
+          <attvalue for="FullLabel" value="伯希和从王圆箓处取得写本所涉材料" />
+          <attvalue for="LabelZh" value="B0005 伯希和从王圆箓处取得写本所涉材料" />
+          <attvalue for="LabelEn" value="B0005 Pelliot acquisition batch" />
+          <attvalue for="FullLabelZh" value="伯希和从王圆箓处取得写本所涉材料" />
+          <attvalue for="FullLabelEn" value="Manuscripts acquired by the Pelliot expedition from Wang Yuanlu" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="191" g="160" b="80" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="-206.403212227216" y="332.8007073051715" z="0" />
+      </node>
+      <node id="B0006" label="B0006 Jingshi main batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Collection" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="批次／集合" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="B0006" />
+          <attvalue for="SourceRef" value="S19;S11" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="自建分析ID；不是馆藏号。18箱；具体写本号未逐件匹配；不得据批次推定每件材料完整同路。" />
+          <attvalue for="FullLabel" value="京师图书馆取运主批十八箱所涉材料" />
+          <attvalue for="LabelZh" value="B0006 京师图书馆取运主批十八箱所涉材料" />
+          <attvalue for="LabelEn" value="B0006 Jingshi main batch" />
+          <attvalue for="FullLabelZh" value="京师图书馆取运主批十八箱所涉材料" />
+          <attvalue for="FullLabelEn" value="Materials in the eighteen-case main batch collected for Jingshi Library" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="191" g="160" b="80" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="2217.441843328699" y="218.96139017561347" z="0" />
+      </node>
+      <node id="B0007" label="B0007 Jingshi supplementary batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Collection" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="批次／集合" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="B0007" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="自建分析ID；不是馆藏号。续交22卷＋粘片2本；样本1卷为另载返还；具体写本号未逐件匹配；不得据批次推定每件材料完整同路。" />
+          <attvalue for="FullLabel" value="京师图书馆接收续交批次所涉材料" />
+          <attvalue for="LabelZh" value="B0007 京师图书馆接收续交批次所涉材料" />
+          <attvalue for="LabelEn" value="B0007 Jingshi supplementary batch" />
+          <attvalue for="FullLabelZh" value="京师图书馆接收续交批次所涉材料" />
+          <attvalue for="FullLabelEn" value="Materials in the supplementary batch received by Jingshi Library" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="191" g="160" b="80" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="1980.0" y="-19.62712601539725" z="0" />
+      </node>
+      <node id="DH001" label="DH001 First acquisition">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="Action" value="acquisition" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ObjectId" value="B0001" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷824–825页；摘录PDF2–3；扫描0312–0313&#10;S03：印刷59–60页；PDF4–5；Ac1及夜间取回段&#10;S07：印刷824末–825首；摘录PDF2–3" />
+          <attvalue for="Notes" value="不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="FullLabel" value="DH001 斯坦因首次协议取得" />
+          <attvalue for="LabelZh" value="DH001 斯坦因首次协议取得" />
+          <attvalue for="LabelEn" value="DH001 First acquisition" />
+          <attvalue for="FullLabelZh" value="DH001 斯坦因首次协议取得" />
+          <attvalue for="FullLabelEn" value="Stein's first acquisition agreement" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="11.904761376377229" y="-92.17747384885537" z="0" />
+      </node>
+      <node id="DH002" label="DH002 Additional Mogao acquisition">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="Action" value="acquisition" />
+          <attvalue for="DateOriginal" value="1907年6月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ObjectId" value="B0002" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第二段；摘录PDF3&#10;S03：印刷60页；73页注24；PDF5、18" />
+          <attvalue for="Notes" value="20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。" />
+          <attvalue for="FullLabel" value="DH002 斯坦因莫高窟追加取得" />
+          <attvalue for="LabelZh" value="DH002 斯坦因莫高窟追加取得" />
+          <attvalue for="LabelEn" value="DH002 Additional Mogao acquisition" />
+          <attvalue for="FullLabelZh" value="DH002 斯坦因莫高窟追加取得" />
+          <attvalue for="FullLabelEn" value="Stein's additional acquisition at Mogao" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="127.93931721431584" y="0.8495234309658768" z="0" />
+      </node>
+      <node id="DH003" label="DH003 Anxi acquisition batch">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="Action" value="acquisition" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ObjectId" value="B0003" />
+          <attvalue for="SourceRef" value="S01;S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第三段；摘录PDF3&#10;S03：印刷60页Ac2、73页注26；PDF5、18&#10;S01：印刷837–838页；PDF17–18" />
+          <attvalue for="Notes" value="不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="FullLabel" value="DH003 安西追加取得批次" />
+          <attvalue for="LabelZh" value="DH003 安西追加取得批次" />
+          <attvalue for="LabelEn" value="DH003 Anxi acquisition batch" />
+          <attvalue for="FullLabelZh" value="DH003 安西追加取得批次" />
+          <attvalue for="FullLabelEn" value="Additional acquisition batch received at Anxi" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="62.845680678806495" y="-75.13635202003013" z="0" />
+      </node>
+      <node id="DH004" label="DH004 British Museum deposit">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH004" />
+          <attvalue for="Action" value="physical_deposit" />
+          <attvalue for="DateOriginal" value="1909年抵英；至1910年初夏已在BM" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_range" />
+          <attvalue for="ObjectId" value="B0004" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="Locator" value="S07：印刷825页末；摘录PDF3&#10;S07：印刷916页；摘录PDF6；扫描0412&#10;S03：印刷63–64页；PDF8–9&#10;S17：AAM/PDF16页及20页注61" />
+          <attvalue for="Notes" value="同一总括存放事件；不是1907–1908的两次入馆。；实物存放不等于正式入藏；S17注61指出所述阶段尚未正式入藏。YearStart/End是证据界限，并非持续两年。" />
+          <attvalue for="FullLabel" value="DH004 斯坦因材料存放英国博物馆" />
+          <attvalue for="LabelZh" value="DH004 斯坦因材料存放英国博物馆" />
+          <attvalue for="LabelEn" value="DH004 British Museum deposit" />
+          <attvalue for="FullLabelZh" value="DH004 斯坦因材料存放英国博物馆" />
+          <attvalue for="FullLabelEn" value="Physical deposit of Stein materials at the British Museum; not formal accession" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="172.15404684317173" y="-332.0088596009972" z="0" />
+      </node>
+      <node id="DH005" label="DH005 Pelliot acquisition">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="Action" value="acquisition" />
+          <attvalue for="DateOriginal" value="1908年；3月查看与选择，交接日未定" />
+          <attvalue for="YearStart" value="1908" />
+          <attvalue for="YearEnd" value="1908" />
+          <attvalue for="DatePrecision" value="year" />
+          <attvalue for="ObjectId" value="B0005" />
+          <attvalue for="SourceRef" value="S01;S15;S22" />
+          <attvalue for="Locator" value="S22：印刷13页；PDF19；扫描0019&#10;S15：正文3 mars 1908及négocia l’acquisition段&#10;S01：印刷839页；PDF19" />
+          <attvalue for="Notes" value="15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。" />
+          <attvalue for="FullLabel" value="DH005 伯希和从王圆箓处取得写本" />
+          <attvalue for="LabelZh" value="DH005 伯希和从王圆箓处取得写本" />
+          <attvalue for="LabelEn" value="DH005 Pelliot acquisition" />
+          <attvalue for="FullLabelZh" value="DH005 伯希和从王圆箓处取得写本" />
+          <attvalue for="FullLabelEn" value="Pelliot expedition acquisition of manuscripts from Wang Yuanlu" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="-125.85060344578565" y="222.36702532768612" z="0" />
+      </node>
+      <node id="DH006" label="DH006 Paris library receipt">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH006" />
+          <attvalue for="Action" value="institutional_receipt" />
+          <attvalue for="DateOriginal" value="1909年底" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_end" />
+          <attvalue for="ObjectId" value="B0005" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Locator" value="S15：正文Les documents rapportés…段" />
+          <attvalue for="Notes" value="30000 fascicules是另购印本，不是敦煌写本批次数量。；来源将写本与卢浮宫接收的对象／绘画／纺织品分流。具体交接凭证和正式登记日尚缺。" />
+          <attvalue for="FullLabel" value="DH006 伯希和写本抵巴黎并由国立图书馆接收" />
+          <attvalue for="LabelZh" value="DH006 伯希和写本抵巴黎并由国立图书馆接收" />
+          <attvalue for="LabelEn" value="DH006 Paris library receipt" />
+          <attvalue for="FullLabelZh" value="DH006 伯希和写本抵巴黎并由国立图书馆接收" />
+          <attvalue for="FullLabelEn" value="Arrival of Pelliot manuscripts in Paris and receipt by the National Library" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="-298.71784544463884" y="384.8766586218026" z="0" />
+      </node>
+      <node id="DH007" label="DH007 Sample submission">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH007" />
+          <attvalue for="Action" value="sample_submission" />
+          <attvalue for="DateOriginal" value="1909年；根据1910年文书“上年”回推" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_inferred" />
+          <attvalue for="ObjectId" value="O0002" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Locator" value="S19：一、档案录文（一）；二、第一先呈样本" />
+          <attvalue for="Notes" value="样本的后续返还不能再次算作一件新增收藏。；端点接收机构由S19文书上下文落实为学部；档案原件影像未取得；不推定王→总督的未知交接。" />
+          <attvalue for="FullLabel" value="DH007 陕甘总督送样本至学部" />
+          <attvalue for="LabelZh" value="DH007 陕甘总督送样本至学部" />
+          <attvalue for="LabelEn" value="DH007 Sample submission" />
+          <attvalue for="FullLabelZh" value="DH007 陕甘总督送样本至学部" />
+          <attvalue for="FullLabelEn" value="Submission of a sample scroll by the Shaan-Gan Governor-General office to the Qing Ministry of Education" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="2304.0886830973973" y="-102.40797491602575" z="0" />
+      </node>
+      <node id="DH008" label="DH008 Jingshi main-batch receipt">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH008" />
+          <attvalue for="Action" value="institutional_receipt" />
+          <attvalue for="DateOriginal" value="1910年；早于宣统二年十一月十二日行文" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_with_terminus" />
+          <attvalue for="ObjectId" value="B0006" />
+          <attvalue for="SourceRef" value="S11;S19" />
+          <attvalue for="Locator" value="S19：一、（一）学部行文；二、第二两次调拨&#10;S11：PDF1页末–2页首" />
+          <attvalue for="Notes" value="箱数不等于手稿件数；不得替换为今日国家图书馆16516号。；学部为拨送主体、京师图书馆派员取运；具体主批接收日期未知。原文同时回述陕甘总督解运，不能按同一句拆出多个未证实中间交接。" />
+          <attvalue for="FullLabel" value="DH008 京师图书馆取运主批十八箱" />
+          <attvalue for="LabelZh" value="DH008 京师图书馆取运主批十八箱" />
+          <attvalue for="LabelEn" value="DH008 Jingshi main-batch receipt" />
+          <attvalue for="FullLabelZh" value="DH008 京师图书馆取运主批十八箱" />
+          <attvalue for="FullLabelEn" value="Collection of the eighteen-case main batch by Jingshi Library" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="2187.8198308700853" y="117.95704164443417" z="0" />
+      </node>
+      <node id="DH009" label="DH009 Jingshi supplementary receipt">
+        <attvalues>
+          <attvalue for="NodeType" value="Event" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="EventId" value="DH009" />
+          <attvalue for="Action" value="supplementary_receipt" />
+          <attvalue for="DateOriginal" value="宣统二年十一月十四日（公历1910-12-15，历表换算）" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="day_from_transcription_calendar" />
+          <attvalue for="ObjectId" value="B0007" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="Locator" value="S19：一、（二）京师图书馆接收底账&#10;S19：一、（一）；三、（二）样本&#10;S25：1910对照表第1页；公历12月行；第13、15列" />
+          <attvalue for="Notes" value="底账只记22卷与2本；23卷说法含既有样本1卷，不计新增23件。；公历日期是本次据历表换算，保留原纪年；档案转录仍需核原件。不把清历十一月十四写作公历1910-11-14。" />
+          <attvalue for="FullLabel" value="DH009 京师图书馆接收续交批次" />
+          <attvalue for="LabelZh" value="DH009 京师图书馆接收续交批次" />
+          <attvalue for="LabelEn" value="DH009 Jingshi supplementary receipt" />
+          <attvalue for="FullLabelZh" value="DH009 京师图书馆接收续交批次" />
+          <attvalue for="FullLabelEn" value="Receipt of the supplementary batch by Jingshi Library" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="126" g="142" b="153" a="1.0" />
+        <viz:size value="10" />
+        <viz:position x="2081.1427782561664" y="10.396607495462112" z="0" />
+      </node>
+      <node id="N002" label="Wang Yuanlu">
+        <attvalues>
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S01;S03;S07;S15;S22" />
+          <attvalue for="Notes" value="仅表示来源描述的保管和交易角色，不裁定所有权。" />
+          <attvalue for="FullLabel" value="王圆箓" />
+          <attvalue for="LabelZh" value="王圆箓" />
+          <attvalue for="LabelEn" value="Wang Yuanlu" />
+          <attvalue for="FullLabelZh" value="王圆箓" />
+          <attvalue for="FullLabelEn" value="Wang Yuanlu" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="-3.959474424231897" y="51.74960087870653" z="0" />
+      </node>
+      <node id="N004" label="Jiang Xiaowan">
+        <attvalues>
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S01;S07" />
+          <attvalue for="Notes" value="在事件参与图呈现；不能因搬运而推定个人保管权。" />
+          <attvalue for="FullLabel" value="蒋孝琬" />
+          <attvalue for="LabelZh" value="蒋孝琬" />
+          <attvalue for="LabelEn" value="Jiang Xiaowan" />
+          <attvalue for="FullLabelZh" value="蒋孝琬" />
+          <attvalue for="FullLabelEn" value="Jiang Xiaowan" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="92.947822866588" y="-123.04377764774961" z="0" />
+      </node>
+      <node id="N005" label="Aurel Stein">
+        <attvalues>
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Notes" value="个人与考察队是两类分析单位；个人角色不另算一笔取得。" />
+          <attvalue for="FullLabel" value="斯坦因" />
+          <attvalue for="LabelZh" value="斯坦因" />
+          <attvalue for="LabelEn" value="Aurel Stein" />
+          <attvalue for="FullLabelZh" value="斯坦因" />
+          <attvalue for="FullLabelEn" value="Aurel Stein" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="81.90463396814224" y="-25.908920526239537" z="0" />
+      </node>
+      <node id="N006" label="Stein expedition">
+        <attvalues>
+          <attvalue for="NodeType" value="Expedition" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S01;S03;S07;S17" />
+          <attvalue for="Notes" value="以行动组织作为接收主体；并非法律实体认定。" />
+          <attvalue for="FullLabel" value="斯坦因考察队" />
+          <attvalue for="LabelZh" value="斯坦因考察队" />
+          <attvalue for="LabelEn" value="Stein expedition" />
+          <attvalue for="FullLabelZh" value="斯坦因考察队" />
+          <attvalue for="FullLabelEn" value="Stein expedition" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="0" g="114" b="178" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="121.53747048080703" y="-161.6085327502518" z="0" />
+      </node>
+      <node id="N007" label="British Museum">
+        <attvalues>
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="Notes" value="历史存放不等于正式入藏；不把1973年后的British Library回填至1909年。" />
+          <attvalue for="FullLabel" value="英国博物馆" />
+          <attvalue for="LabelZh" value="英国博物馆" />
+          <attvalue for="LabelEn" value="British Museum" />
+          <attvalue for="FullLabelZh" value="英国博物馆" />
+          <attvalue for="FullLabelEn" value="British Museum" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="241.8486760647648" y="-419.43893880323077" z="0" />
+      </node>
+      <node id="N009" label="Jingshi Library">
+        <attvalues>
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S11;S19;S25" />
+          <attvalue for="Notes" value="沿用旧N009但落实为具体历史机构；现代国家图书馆名称只作沿革说明。" />
+          <attvalue for="FullLabel" value="京师图书馆" />
+          <attvalue for="LabelZh" value="京师图书馆" />
+          <attvalue for="LabelEn" value="Jingshi Library" />
+          <attvalue for="FullLabelZh" value="京师图书馆" />
+          <attvalue for="FullLabelEn" value="Jingshi Library (Capital Library, Beijing)" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="2096.920727410752" y="101.57758119261221" z="0" />
+      </node>
+      <node id="N010" label="Shaan-Gan Governor-General">
+        <attvalues>
+          <attvalue for="NodeType" value="Government" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Notes" value="机构节点；具体承运人和王圆箓向该机构交出样本的环节未证实。" />
+          <attvalue for="FullLabel" value="陕甘总督机构" />
+          <attvalue for="LabelZh" value="陕甘总督机构" />
+          <attvalue for="LabelEn" value="Shaan-Gan Governor-General" />
+          <attvalue for="FullLabelZh" value="陕甘总督机构" />
+          <attvalue for="FullLabelEn" value="Office of the Governor-General of Shaanxi and Gansu" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="117" g="83" b="153" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="2405.2936376307657" y="-120.36891179734441" z="0" />
+      </node>
+      <node id="N011" label="Qing Ministry of Education">
+        <attvalues>
+          <attvalue for="NodeType" value="Government" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S11;S19;S25" />
+          <attvalue for="Notes" value="替代旧版抽象的清中央政府节点；命令与实物交接分别建模。" />
+          <attvalue for="FullLabel" value="清学部" />
+          <attvalue for="LabelZh" value="清学部" />
+          <attvalue for="LabelEn" value="Qing Ministry of Education" />
+          <attvalue for="FullLabelZh" value="清学部" />
+          <attvalue for="FullLabelEn" value="Qing Ministry of Education (Xuebu)" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="117" g="83" b="153" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="2202.9397519532276" y="-3.3682649988982716" z="0" />
+      </node>
+      <node id="N012" label="Paul Pelliot">
+        <attvalues>
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S15;S22" />
+          <attvalue for="Notes" value="个人角色不与考察队之间再生成一次取得。" />
+          <attvalue for="FullLabel" value="伯希和" />
+          <attvalue for="LabelZh" value="伯希和" />
+          <attvalue for="LabelEn" value="Paul Pelliot" />
+          <attvalue for="FullLabelZh" value="伯希和" />
+          <attvalue for="FullLabelEn" value="Paul Pelliot" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="-92.45076585620922" y="316.4958220615" z="0" />
+      </node>
+      <node id="N013" label="Pelliot expedition">
+        <attvalues>
+          <attvalue for="NodeType" value="Expedition" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S01;S15;S22" />
+          <attvalue for="Notes" value="与斯坦因队使用一致的组织分析单位。" />
+          <attvalue for="FullLabel" value="伯希和考察队" />
+          <attvalue for="LabelZh" value="伯希和考察队" />
+          <attvalue for="LabelEn" value="Pelliot expedition" />
+          <attvalue for="FullLabelZh" value="伯希和考察队" />
+          <attvalue for="FullLabelEn" value="Pelliot expedition" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="0" g="114" b="178" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="-241.7508866639239" y="292.82576735663224" z="0" />
+      </node>
+      <node id="N014" label="National Library, Paris">
+        <attvalues>
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Notes" value="原候选N014现有机构正文支持；不把卢浮宫接收艺术品混入写本主图。" />
+          <attvalue for="FullLabel" value="法国国家图书馆" />
+          <attvalue for="LabelZh" value="法国国家图书馆" />
+          <attvalue for="LabelEn" value="National Library, Paris" />
+          <attvalue for="FullLabelZh" value="法国国家图书馆" />
+          <attvalue for="FullLabelEn" value="National Library, Paris (Bibliotheque nationale)" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="-374.38753800570976" y="462.0" z="0" />
+      </node>
+      <node id="N015" label="Ibrahim Beg">
+        <attvalues>
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Notes" value="只录原文姓名；国籍与生卒未核，不补写。" />
+          <attvalue for="FullLabel" value="Ibrahim Beg" />
+          <attvalue for="LabelZh" value="Ibrahim Beg" />
+          <attvalue for="LabelEn" value="Ibrahim Beg" />
+          <attvalue for="FullLabelZh" value="Ibrahim Beg" />
+          <attvalue for="FullLabelEn" value="Ibrahim Beg" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="-43.410807228083776" y="-66.90112145138269" z="0" />
+      </node>
+      <node id="N016" label="Tila Bai">
+        <attvalues>
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="实体登记" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Notes" value="只录原文姓名；身份细节未核。" />
+          <attvalue for="FullLabel" value="Tila Bai" />
+          <attvalue for="LabelZh" value="Tila Bai" />
+          <attvalue for="LabelEn" value="Tila Bai" />
+          <attvalue for="FullLabelZh" value="Tila Bai" />
+          <attvalue for="FullLabelEn" value="Tila Bai" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="19" />
+        <viz:position x="5.911834538640563" y="-164.26278838251528" z="0" />
+      </node>
+      <node id="O0002" label="O0002 Sample scroll">
+        <attvalues>
+          <attvalue for="NodeType" value="Object" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="RecordStatus" value="原卷（身份待核）" />
+          <attvalue for="EpistemicStatus" value="registered_analytical_unit" />
+          <attvalue for="ObjectId" value="O0002" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Locator" value="见对应阅读记录及既有event_evidence.csv" />
+          <attvalue for="Notes" value="BD06825；羽025（S19鉴定，未独立核原物）；自建分析ID；不是馆藏号。样本1卷；样本身份、原档和影像待核；不把既有样本返还计作新增收藏。" />
+          <attvalue for="FullLabel" value="1909年送呈样本卷（S19鉴定线索）" />
+          <attvalue for="LabelZh" value="O0002 1909年送呈样本卷（S19鉴定线索…" />
+          <attvalue for="LabelEn" value="O0002 Sample scroll" />
+          <attvalue for="FullLabelZh" value="1909年送呈样本卷（S19鉴定线索）" />
+          <attvalue for="FullLabelEn" value="Sample scroll submitted in 1909; identification suggested by S19, not independently verified" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+        <viz:color r="163" g="120" b="39" a="1.0" />
+        <viz:size value="15" />
+        <viz:position x="2324.3527474529064" y="-203.12034278045635" z="0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="E_DH001_B0001_DH001" source="B0001" target="DH001" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0001;RD0002;RD0003" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷824–825页；摘录PDF2–3；扫描0312–0313&#10;S03：印刷59–60页；PDF4–5；Ac1及夜间取回段&#10;S07：印刷824末–825首；摘录PDF2–3" />
+          <attvalue for="Notes" value="不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH001_DH001_N006" source="DH001" target="N006" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0001;RD0002;RD0003" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷824–825页；摘录PDF2–3；扫描0312–0313&#10;S03：印刷59–60页；PDF4–5；Ac1及夜间取回段&#10;S07：印刷824末–825首；摘录PDF2–3" />
+          <attvalue for="ParticipationIds" value="WP001B" />
+          <attvalue for="Notes" value="不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH001_N002_DH001" source="N002" target="DH001" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0001;RD0002;RD0003" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷824–825页；摘录PDF2–3；扫描0312–0313&#10;S03：印刷59–60页；PDF4–5；Ac1及夜间取回段&#10;S07：印刷824末–825首；摘录PDF2–3" />
+          <attvalue for="ParticipationIds" value="WP001A" />
+          <attvalue for="Notes" value="不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH001_N004_DH001" source="N004" target="DH001" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="negotiator;transport_assistant" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0001;RD0002;RD0003" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="ParticipationIds" value="P004" />
+          <attvalue for="Notes" value="谈判与两次搬运属同一取得过程。；不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH001_N005_DH001" source="N005" target="DH001" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="acquiring_expedition_leader" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0001;RD0002;RD0003" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="ParticipationIds" value="P001" />
+          <attvalue for="Notes" value="人物与其所属考察队不另生成交接。；不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH001_N015_DH001" source="N015" target="DH001" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0001;RD0002;RD0003" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷825页首" />
+          <attvalue for="ParticipationIds" value="P005" />
+          <attvalue for="Notes" value="不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH001_N016_DH001" source="N016" target="DH001" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH001" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年5月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0001;RD0002;RD0003" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷825页首" />
+          <attvalue for="ParticipationIds" value="P006" />
+          <attvalue for="Notes" value="不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH002_B0002_DH002" source="B0002" target="DH002" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年6月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0004;RD0005" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第二段；摘录PDF3&#10;S03：印刷60页；73页注24；PDF5、18" />
+          <attvalue for="Notes" value="20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH002_DH002_N006" source="DH002" target="N006" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年6月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0004;RD0005" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第二段；摘录PDF3&#10;S03：印刷60页；73页注24；PDF5、18" />
+          <attvalue for="ParticipationIds" value="WP002B" />
+          <attvalue for="Notes" value="20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH002_N002_DH002" source="N002" target="DH002" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年6月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0004;RD0005" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第二段；摘录PDF3&#10;S03：印刷60页；73页注24；PDF5、18" />
+          <attvalue for="ParticipationIds" value="WP002A" />
+          <attvalue for="Notes" value="20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH002_N005_DH002" source="N005" target="DH002" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="acquiring_expedition_leader" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH002" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年6月" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month" />
+          <attvalue for="ReadingIds" value="RD0004;RD0005" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="ParticipationIds" value="P002" />
+          <attvalue for="Notes" value="人物与其所属考察队不另生成交接。；20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH003_B0003_DH003" source="B0003" target="DH003" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ReadingIds" value="RD0006;RD0007;RD0008" />
+          <attvalue for="SourceRef" value="S01;S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第三段；摘录PDF3&#10;S03：印刷60页Ac2、73页注26；PDF5、18&#10;S01：印刷837–838页；PDF17–18" />
+          <attvalue for="Notes" value="不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH003_DH003_N006" source="DH003" target="N006" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ReadingIds" value="RD0006;RD0007;RD0008" />
+          <attvalue for="SourceRef" value="S01;S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第三段；摘录PDF3&#10;S03：印刷60页Ac2、73页注26；PDF5、18&#10;S01：印刷837–838页；PDF17–18" />
+          <attvalue for="ParticipationIds" value="WP003B" />
+          <attvalue for="Notes" value="不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH003_N002_DH003" source="N002" target="DH003" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ReadingIds" value="RD0006;RD0007;RD0008" />
+          <attvalue for="SourceRef" value="S01;S03;S07" />
+          <attvalue for="Locator" value="S07：印刷825页第三段；摘录PDF3&#10;S03：印刷60页Ac2、73页注26；PDF5、18&#10;S01：印刷837–838页；PDF17–18" />
+          <attvalue for="ParticipationIds" value="WP003A" />
+          <attvalue for="Notes" value="不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH003_N004_DH003" source="N004" target="DH003" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="negotiator" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ReadingIds" value="RD0006;RD0007;RD0008" />
+          <attvalue for="SourceRef" value="S07;S01" />
+          <attvalue for="Locator" value="S07印刷825；S01印刷837–838" />
+          <attvalue for="ParticipationIds" value="P007" />
+          <attvalue for="Notes" value="不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH003_N005_DH003" source="N005" target="DH003" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="acquiring_expedition_leader" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ReadingIds" value="RD0006;RD0007;RD0008" />
+          <attvalue for="SourceRef" value="S07" />
+          <attvalue for="Locator" value="印刷824–825页" />
+          <attvalue for="ParticipationIds" value="P003" />
+          <attvalue for="Notes" value="人物与其所属考察队不另生成交接。；不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH003_N015_DH003" source="N015" target="DH003" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ReadingIds" value="RD0006;RD0007;RD0008" />
+          <attvalue for="SourceRef" value="S03" />
+          <attvalue for="Locator" value="印刷73页注26（日记转引）" />
+          <attvalue for="ParticipationIds" value="P008" />
+          <attvalue for="Notes" value="日记原件未独立取得。；不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH003_N016_DH003" source="N016" target="DH003" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="transport_assistant" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH003" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1907年10月；取得与到安西日区分" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="DatePrecision" value="month_conflicting_days" />
+          <attvalue for="ReadingIds" value="RD0006;RD0007;RD0008" />
+          <attvalue for="SourceRef" value="S03" />
+          <attvalue for="Locator" value="印刷73页注26（日记转引）" />
+          <attvalue for="ParticipationIds" value="P009" />
+          <attvalue for="Notes" value="日记原件未独立取得。；不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH004_B0004_DH004" source="B0004" target="DH004" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH004" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年抵英；至1910年初夏已在BM" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_range" />
+          <attvalue for="ReadingIds" value="RD0009;RD0010;RD0011;RD0012" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="Locator" value="S07：印刷825页末；摘录PDF3&#10;S07：印刷916页；摘录PDF6；扫描0412&#10;S03：印刷63–64页；PDF8–9&#10;S17：AAM/PDF16页及20页注61" />
+          <attvalue for="Notes" value="同一总括存放事件；不是1907–1908的两次入馆。；实物存放不等于正式入藏；S17注61指出所述阶段尚未正式入藏。YearStart/End是证据界限，并非持续两年。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH004_DH004_N007" source="DH004" target="N007" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH004" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年抵英；至1910年初夏已在BM" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_range" />
+          <attvalue for="ReadingIds" value="RD0009;RD0010;RD0011;RD0012" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="Locator" value="S07：印刷825页末；摘录PDF3&#10;S07：印刷916页；摘录PDF6；扫描0412&#10;S03：印刷63–64页；PDF8–9&#10;S17：AAM/PDF16页及20页注61" />
+          <attvalue for="ParticipationIds" value="WP004B" />
+          <attvalue for="Notes" value="同一总括存放事件；不是1907–1908的两次入馆。；实物存放不等于正式入藏；S17注61指出所述阶段尚未正式入藏。YearStart/End是证据界限，并非持续两年。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH004_N006_DH004" source="N006" target="DH004" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH004" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年抵英；至1910年初夏已在BM" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_range" />
+          <attvalue for="ReadingIds" value="RD0009;RD0010;RD0011;RD0012" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="Locator" value="S07：印刷825页末；摘录PDF3&#10;S07：印刷916页；摘录PDF6；扫描0412&#10;S03：印刷63–64页；PDF8–9&#10;S17：AAM/PDF16页及20页注61" />
+          <attvalue for="ParticipationIds" value="WP004A" />
+          <attvalue for="Notes" value="同一总括存放事件；不是1907–1908的两次入馆。；实物存放不等于正式入藏；S17注61指出所述阶段尚未正式入藏。YearStart/End是证据界限，并非持续两年。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH005_B0005_DH005" source="B0005" target="DH005" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1908年；3月查看与选择，交接日未定" />
+          <attvalue for="YearStart" value="1908" />
+          <attvalue for="YearEnd" value="1908" />
+          <attvalue for="DatePrecision" value="year" />
+          <attvalue for="ReadingIds" value="RD0013;RD0014;RD0015" />
+          <attvalue for="SourceRef" value="S01;S15;S22" />
+          <attvalue for="Locator" value="S22：印刷13页；PDF19；扫描0019&#10;S15：正文3 mars 1908及négocia l’acquisition段&#10;S01：印刷839页；PDF19" />
+          <attvalue for="Notes" value="15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH005_DH005_N013" source="DH005" target="N013" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1908年；3月查看与选择，交接日未定" />
+          <attvalue for="YearStart" value="1908" />
+          <attvalue for="YearEnd" value="1908" />
+          <attvalue for="DatePrecision" value="year" />
+          <attvalue for="ReadingIds" value="RD0013;RD0014;RD0015" />
+          <attvalue for="SourceRef" value="S01;S15;S22" />
+          <attvalue for="Locator" value="S22：印刷13页；PDF19；扫描0019&#10;S15：正文3 mars 1908及négocia l’acquisition段&#10;S01：印刷839页；PDF19" />
+          <attvalue for="ParticipationIds" value="WP005B" />
+          <attvalue for="Notes" value="15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH005_N002_DH005" source="N002" target="DH005" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1908年；3月查看与选择，交接日未定" />
+          <attvalue for="YearStart" value="1908" />
+          <attvalue for="YearEnd" value="1908" />
+          <attvalue for="DatePrecision" value="year" />
+          <attvalue for="ReadingIds" value="RD0013;RD0014;RD0015" />
+          <attvalue for="SourceRef" value="S01;S15;S22" />
+          <attvalue for="Locator" value="S22：印刷13页；PDF19；扫描0019&#10;S15：正文3 mars 1908及négocia l’acquisition段&#10;S01：印刷839页；PDF19" />
+          <attvalue for="ParticipationIds" value="WP005A" />
+          <attvalue for="Notes" value="15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH005_N012_DH005" source="N012" target="DH005" type="directed" weight="1" label="Participant">
+        <attvalues>
+          <attvalue for="Relation" value="participant_in_event" />
+          <attvalue for="Role" value="selector;negotiator" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH005" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1908年；3月查看与选择，交接日未定" />
+          <attvalue for="YearStart" value="1908" />
+          <attvalue for="YearEnd" value="1908" />
+          <attvalue for="DatePrecision" value="year" />
+          <attvalue for="ReadingIds" value="RD0013;RD0014;RD0015" />
+          <attvalue for="SourceRef" value="S15;S22" />
+          <attvalue for="Locator" value="S15选择谈判段；S22印刷13页" />
+          <attvalue for="ParticipationIds" value="P010" />
+          <attvalue for="Notes" value="15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。" />
+          <attvalue for="LabelZh" value="参与角色" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH006_B0005_DH006" source="B0005" target="DH006" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH006" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年底" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_end" />
+          <attvalue for="ReadingIds" value="RD0016" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Locator" value="S15：正文Les documents rapportés…段" />
+          <attvalue for="Notes" value="30000 fascicules是另购印本，不是敦煌写本批次数量。；来源将写本与卢浮宫接收的对象／绘画／纺织品分流。具体交接凭证和正式登记日尚缺。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH006_DH006_N014" source="DH006" target="N014" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH006" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年底" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_end" />
+          <attvalue for="ReadingIds" value="RD0016" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Locator" value="S15：正文Les documents rapportés…段" />
+          <attvalue for="ParticipationIds" value="WP006B" />
+          <attvalue for="Notes" value="30000 fascicules是另购印本，不是敦煌写本批次数量。；来源将写本与卢浮宫接收的对象／绘画／纺织品分流。具体交接凭证和正式登记日尚缺。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH006_N013_DH006" source="N013" target="DH006" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH006" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年底" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_end" />
+          <attvalue for="ReadingIds" value="RD0016" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Locator" value="S15：正文Les documents rapportés…段" />
+          <attvalue for="ParticipationIds" value="WP006A" />
+          <attvalue for="Notes" value="30000 fascicules是另购印本，不是敦煌写本批次数量。；来源将写本与卢浮宫接收的对象／绘画／纺织品分流。具体交接凭证和正式登记日尚缺。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH007_DH007_N011" source="DH007" target="N011" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH007" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年；根据1910年文书“上年”回推" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_inferred" />
+          <attvalue for="ReadingIds" value="RD0017" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Locator" value="S19：一、档案录文（一）；二、第一先呈样本" />
+          <attvalue for="ParticipationIds" value="WP007B" />
+          <attvalue for="Notes" value="样本的后续返还不能再次算作一件新增收藏。；端点接收机构由S19文书上下文落实为学部；档案原件影像未取得；不推定王→总督的未知交接。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH007_N010_DH007" source="N010" target="DH007" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH007" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年；根据1910年文书“上年”回推" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_inferred" />
+          <attvalue for="ReadingIds" value="RD0017" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Locator" value="S19：一、档案录文（一）；二、第一先呈样本" />
+          <attvalue for="ParticipationIds" value="WP007A" />
+          <attvalue for="Notes" value="样本的后续返还不能再次算作一件新增收藏。；端点接收机构由S19文书上下文落实为学部；档案原件影像未取得；不推定王→总督的未知交接。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH007_O0002_DH007" source="O0002" target="DH007" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH007" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1909年；根据1910年文书“上年”回推" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="DatePrecision" value="year_inferred" />
+          <attvalue for="ReadingIds" value="RD0017" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Locator" value="S19：一、档案录文（一）；二、第一先呈样本" />
+          <attvalue for="Notes" value="样本的后续返还不能再次算作一件新增收藏。；端点接收机构由S19文书上下文落实为学部；档案原件影像未取得；不推定王→总督的未知交接。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH008_B0006_DH008" source="B0006" target="DH008" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH008" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1910年；早于宣统二年十一月十二日行文" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_with_terminus" />
+          <attvalue for="ReadingIds" value="RD0018;RD0019" />
+          <attvalue for="SourceRef" value="S11;S19" />
+          <attvalue for="Locator" value="S19：一、（一）学部行文；二、第二两次调拨&#10;S11：PDF1页末–2页首" />
+          <attvalue for="Notes" value="箱数不等于手稿件数；不得替换为今日国家图书馆16516号。；学部为拨送主体、京师图书馆派员取运；具体主批接收日期未知。原文同时回述陕甘总督解运，不能按同一句拆出多个未证实中间交接。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH008_DH008_N009" source="DH008" target="N009" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH008" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1910年；早于宣统二年十一月十二日行文" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_with_terminus" />
+          <attvalue for="ReadingIds" value="RD0018;RD0019" />
+          <attvalue for="SourceRef" value="S11;S19" />
+          <attvalue for="Locator" value="S19：一、（一）学部行文；二、第二两次调拨&#10;S11：PDF1页末–2页首" />
+          <attvalue for="ParticipationIds" value="WP008B" />
+          <attvalue for="Notes" value="箱数不等于手稿件数；不得替换为今日国家图书馆16516号。；学部为拨送主体、京师图书馆派员取运；具体主批接收日期未知。原文同时回述陕甘总督解运，不能按同一句拆出多个未证实中间交接。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH008_N011_DH008" source="N011" target="DH008" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH008" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="1910年；早于宣统二年十一月十二日行文" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="year_with_terminus" />
+          <attvalue for="ReadingIds" value="RD0018;RD0019" />
+          <attvalue for="SourceRef" value="S11;S19" />
+          <attvalue for="Locator" value="S19：一、（一）学部行文；二、第二两次调拨&#10;S11：PDF1页末–2页首" />
+          <attvalue for="ParticipationIds" value="WP008A" />
+          <attvalue for="Notes" value="箱数不等于手稿件数；不得替换为今日国家图书馆16516号。；学部为拨送主体、京师图书馆派员取运；具体主批接收日期未知。原文同时回述陕甘总督解运，不能按同一句拆出多个未证实中间交接。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH009_B0007_DH009" source="B0007" target="DH009" type="directed" weight="1" label="Subject of event">
+        <attvalues>
+          <attvalue for="Relation" value="subject_of_event" />
+          <attvalue for="Role" value="对象／批次关联" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH009" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="宣统二年十一月十四日（公历1910-12-15，历表换算）" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="day_from_transcription_calendar" />
+          <attvalue for="ReadingIds" value="RD0020;RD0021;RD0022" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="Locator" value="S19：一、（二）京师图书馆接收底账&#10;S19：一、（一）；三、（二）样本&#10;S25：1910对照表第1页；公历12月行；第13、15列" />
+          <attvalue for="Notes" value="底账只记22卷与2本；23卷说法含既有样本1卷，不计新增23件。；公历日期是本次据历表换算，保留原纪年；档案转录仍需核原件。不把清历十一月十四写作公历1910-11-14。" />
+          <attvalue for="LabelZh" value="所涉对象" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH009_DH009_N009" source="DH009" target="N009" type="directed" weight="1" label="Recipient">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_to" />
+          <attvalue for="Role" value="接收行动／机构" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH009" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="宣统二年十一月十四日（公历1910-12-15，历表换算）" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="day_from_transcription_calendar" />
+          <attvalue for="ReadingIds" value="RD0020;RD0021;RD0022" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="Locator" value="S19：一、（二）京师图书馆接收底账&#10;S19：一、（一）；三、（二）样本&#10;S25：1910对照表第1页；公历12月行；第13、15列" />
+          <attvalue for="ParticipationIds" value="WP009B" />
+          <attvalue for="Notes" value="底账只记22卷与2本；23卷说法含既有样本1卷，不计新增23件。；公历日期是本次据历表换算，保留原纪年；档案转录仍需核原件。不把清历十一月十四写作公历1910-11-14。" />
+          <attvalue for="LabelZh" value="接收关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+      <edge id="E_DH009_N011_DH009" source="N011" target="DH009" type="directed" weight="1" label="Transfer source">
+        <attvalues>
+          <attvalue for="Relation" value="transfer_from" />
+          <attvalue for="Role" value="转出／拨送主体;转出／拨送主体（按事件定义）" />
+          <attvalue for="Layer" value="实物流转" />
+          <attvalue for="EventId" value="DH009" />
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="ReviewRequired" value="0" />
+          <attvalue for="RecordStatus" value="可整理事件" />
+          <attvalue for="EpistemicStatus" value="reported_activity" />
+          <attvalue for="DateOriginal" value="宣统二年十一月十四日（公历1910-12-15，历表换算）" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="DatePrecision" value="day_from_transcription_calendar" />
+          <attvalue for="ReadingIds" value="RD0020;RD0021;RD0022" />
+          <attvalue for="SourceRef" value="S19;S25" />
+          <attvalue for="Locator" value="S19：一、（二）京师图书馆接收底账&#10;S19：一、（一）；三、（二）样本&#10;S25：1910对照表第1页；公历12月行；第13、15列" />
+          <attvalue for="ParticipationIds" value="WP009A" />
+          <attvalue for="Notes" value="底账只记22卷与2本；23卷说法含既有样本1卷，不计新增23件。；公历日期是本次据历表换算，保留原纪年；档案转录仍需核原件。不把清历十一月十四写作公历1910-11-14。" />
+          <attvalue for="LabelZh" value="转出／拨送关联" />
+          <attvalue for="LayerEn" value="Physical circulation" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

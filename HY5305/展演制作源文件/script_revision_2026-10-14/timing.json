@@ -1,0 +1,37 @@
+{
+  "english_words": 615,
+  "estimate_90_wpm_plus_20_seconds": 430,
+  "suggested_seconds": 410,
+  "slides": [
+    {
+      "slide": 1,
+      "words": 74,
+      "start_seconds": 0,
+      "end_seconds": 50
+    },
+    {
+      "slide": 2,
+      "words": 129,
+      "start_seconds": 50,
+      "end_seconds": 135
+    },
+    {
+      "slide": 3,
+      "words": 135,
+      "start_seconds": 135,
+      "end_seconds": 225
+    },
+    {
+      "slide": 4,
+      "words": 135,
+      "start_seconds": 225,
+      "end_seconds": 315
+    },
+    {
+      "slide": 5,
+      "words": 142,
+      "start_seconds": 315,
+      "end_seconds": 410
+    }
+  ]
+}

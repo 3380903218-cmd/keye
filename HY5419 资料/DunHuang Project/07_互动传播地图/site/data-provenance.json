@@ -1,0 +1,11 @@
+{
+  "input_hashes": {
+    "\u5730\u70b9_\u9ed8\u8ba4\u53c2\u8003\u70b9.csv": "a45b2f2e86d20a7cd96404a19bb89f9289c302e3da77dad5267542226e2b25ef",
+    "\u5b9e\u7269\u6d41\u8f6c_\u793a\u610f\u7ebf.csv": "070e1d697c1eab809486cecf24a97a5294163e6fc3bd0c5a43af96ac4d44f576",
+    "\u77e5\u8bc6\u4f20\u64ad_\u793a\u610f\u7ebf.csv": "31dc13c90f417a5a6ccbf19289c3ab178d6de21502f9be672c63dab7ad996269"
+  },
+  "excluded_summary_link": "MAP_SG011",
+  "added_overview": "WEB_QING_1910",
+  "originals_modified": false,
+  "modern_collection_level_mapping": true
+}

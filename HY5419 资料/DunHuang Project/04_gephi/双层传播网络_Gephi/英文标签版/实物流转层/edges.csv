@@ -1,0 +1,77 @@
+﻿Id,Source,Target,Type,Weight,Label,Relation,Role,Layer,EventId,EventCount,ReviewRequired,RecordStatus,EpistemicStatus,DateOriginal,YearStart,YearEnd,DatePrecision,ReadingIds,SourceRef,Locator,Notes,LabelZh,LayerEn,ParticipationIds
+E_DH001_B0001_DH001,B0001,DH001,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH001,1,0,可整理事件,reported_activity,1907年5月,1907,1907,month,RD0001;RD0002;RD0003,S03;S07,"S07：印刷824–825页；摘录PDF2–3；扫描0312–0313
+S03：印刷59–60页；PDF4–5；Ac1及夜间取回段
+S07：印刷824末–825首；摘录PDF2–3",不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。,所涉对象,Physical circulation,
+E_DH001_DH001_N006,DH001,N006,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH001,1,0,可整理事件,reported_activity,1907年5月,1907,1907,month,RD0001;RD0002;RD0003,S03;S07,"S07：印刷824–825页；摘录PDF2–3；扫描0312–0313
+S03：印刷59–60页；PDF4–5；Ac1及夜间取回段
+S07：印刷824末–825首；摘录PDF2–3",不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。,接收关联,Physical circulation,WP001B
+E_DH001_N002_DH001,N002,DH001,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH001,1,0,可整理事件,reported_activity,1907年5月,1907,1907,month,RD0001;RD0002;RD0003,S03;S07,"S07：印刷824–825页；摘录PDF2–3；扫描0312–0313
+S03：印刷59–60页；PDF4–5；Ac1及夜间取回段
+S07：印刷824末–825首；摘录PDF2–3",不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。,转出／拨送关联,Physical circulation,WP001A
+E_DH001_N004_DH001,N004,DH001,Directed,1,Participant,participant_in_event,negotiator;transport_assistant,实物流转,DH001,1,0,可整理事件,reported_activity,1907年5月,1907,1907,month,RD0001;RD0002;RD0003,S07,印刷824–825页,谈判与两次搬运属同一取得过程。；不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。,参与角色,Physical circulation,P004
+E_DH001_N005_DH001,N005,DH001,Directed,1,Participant,participant_in_event,acquiring_expedition_leader,实物流转,DH001,1,0,可整理事件,reported_activity,1907年5月,1907,1907,month,RD0001;RD0002;RD0003,S07,印刷824–825页,人物与其所属考察队不另生成交接。；不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。,参与角色,Physical circulation,P001
+E_DH001_N015_DH001,N015,DH001,Directed,1,Participant,participant_in_event,transport_assistant,实物流转,DH001,1,0,可整理事件,reported_activity,1907年5月,1907,1907,month,RD0001;RD0002;RD0003,S07,印刷825页首,不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。,参与角色,Physical circulation,P005
+E_DH001_N016_DH001,N016,DH001,Directed,1,Participant,participant_in_event,transport_assistant,实物流转,DH001,1,0,可整理事件,reported_activity,1907年5月,1907,1907,month,RD0001;RD0002;RD0003,S07,印刷825页首,不是55件，也不是该阶段全部取得总数；日记和后出报告口径不同。；夜间搬运纳入同一次取得过程；不另算蒋→考察队的一次交接。,参与角色,Physical circulation,P006
+E_DH002_B0002_DH002,B0002,DH002,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH002,1,0,可整理事件,reported_activity,1907年6月,1907,1907,month,RD0004;RD0005,S03;S07,"S07：印刷825页第二段；摘录PDF3
+S03：印刷60页；73页注24；PDF5、18",20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。,所涉对象,Physical circulation,
+E_DH002_DH002_N006,DH002,N006,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH002,1,0,可整理事件,reported_activity,1907年6月,1907,1907,month,RD0004;RD0005,S03;S07,"S07：印刷825页第二段；摘录PDF3
+S03：印刷60页；73页注24；PDF5、18",20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。,接收关联,Physical circulation,WP002B
+E_DH002_N002_DH002,N002,DH002,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH002,1,0,可整理事件,reported_activity,1907年6月,1907,1907,month,RD0004;RD0005,S03;S07,"S07：印刷825页第二段；摘录PDF3
+S03：印刷60页；73页注24；PDF5、18",20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。,转出／拨送关联,Physical circulation,WP002A
+E_DH002_N005_DH002,N005,DH002,Directed,1,Participant,participant_in_event,acquiring_expedition_leader,实物流转,DH002,1,0,可整理事件,reported_activity,1907年6月,1907,1907,month,RD0004;RD0005,S07,印刷824–825页,人物与其所属考察队不另生成交接。；20与13并列保存，未取得日记原件；不把两种数量算作两个事件。；这里采用旧试点可审计的取得阶段，未把S03的每个Ac1细分拆为独立转移。,参与角色,Physical circulation,P002
+E_DH003_B0003_DH003,B0003,DH003,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH003,1,0,可整理事件,reported_activity,1907年10月；取得与到安西日区分,1907,1907,month_conflicting_days,RD0006;RD0007;RD0008,S01;S03;S07,"S07：印刷825页第三段；摘录PDF3
+S03：印刷60页Ac2、73页注26；PDF5、18
+S01：印刷837–838页；PDF17–18",不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。,所涉对象,Physical circulation,
+E_DH003_DH003_N006,DH003,N006,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH003,1,0,可整理事件,reported_activity,1907年10月；取得与到安西日区分,1907,1907,month_conflicting_days,RD0006;RD0007;RD0008,S01;S03;S07,"S07：印刷825页第三段；摘录PDF3
+S03：印刷60页Ac2、73页注26；PDF5、18
+S01：印刷837–838页；PDF17–18",不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。,接收关联,Physical circulation,WP003B
+E_DH003_N002_DH003,N002,DH003,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH003,1,0,可整理事件,reported_activity,1907年10月；取得与到安西日区分,1907,1907,month_conflicting_days,RD0006;RD0007;RD0008,S01;S03;S07,"S07：印刷825页第三段；摘录PDF3
+S03：印刷60页Ac2、73页注26；PDF5、18
+S01：印刷837–838页；PDF17–18",不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。,转出／拨送关联,Physical circulation,WP003A
+E_DH003_N004_DH003,N004,DH003,Directed,1,Participant,participant_in_event,negotiator,实物流转,DH003,1,0,可整理事件,reported_activity,1907年10月；取得与到安西日区分,1907,1907,month_conflicting_days,RD0006;RD0007;RD0008,S07;S01,S07印刷825；S01印刷837–838,不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。,参与角色,Physical circulation,P007
+E_DH003_N005_DH003,N005,DH003,Directed,1,Participant,participant_in_event,acquiring_expedition_leader,实物流转,DH003,1,0,可整理事件,reported_activity,1907年10月；取得与到安西日区分,1907,1907,month_conflicting_days,RD0006;RD0007;RD0008,S07,印刷824–825页,人物与其所属考察队不另生成交接。；不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。,参与角色,Physical circulation,P003
+E_DH003_N015_DH003,N015,DH003,Directed,1,Participant,participant_in_event,transport_assistant,实物流转,DH003,1,0,可整理事件,reported_activity,1907年10月；取得与到安西日区分,1907,1907,month_conflicting_days,RD0006;RD0007;RD0008,S03,印刷73页注26（日记转引）,日记原件未独立取得。；不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。,参与角色,Physical circulation,P008
+E_DH003_N016_DH003,N016,DH003,Directed,1,Participant,participant_in_event,transport_assistant,实物流转,DH003,1,0,可整理事件,reported_activity,1907年10月；取得与到安西日区分,1907,1907,month_conflicting_days,RD0006;RD0007;RD0008,S03,印刷73页注26（日记转引）,日记原件未独立取得。；不择一当精确值；安西为接收／运输地点，不把王圆箓写成在安西亲自交付。；蒋孝琬赴敦煌取得并送抵安西的叙述与各记录日数分别保留。,参与角色,Physical circulation,P009
+E_DH004_B0004_DH004,B0004,DH004,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH004,1,0,可整理事件,reported_activity,1909年抵英；至1910年初夏已在BM,1909,1910,year_range,RD0009;RD0010;RD0011;RD0012,S03;S07;S17,"S07：印刷825页末；摘录PDF3
+S07：印刷916页；摘录PDF6；扫描0412
+S03：印刷63–64页；PDF8–9
+S17：AAM/PDF16页及20页注61",同一总括存放事件；不是1907–1908的两次入馆。；实物存放不等于正式入藏；S17注61指出所述阶段尚未正式入藏。YearStart/End是证据界限，并非持续两年。,所涉对象,Physical circulation,
+E_DH004_DH004_N007,DH004,N007,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH004,1,0,可整理事件,reported_activity,1909年抵英；至1910年初夏已在BM,1909,1910,year_range,RD0009;RD0010;RD0011;RD0012,S03;S07;S17,"S07：印刷825页末；摘录PDF3
+S07：印刷916页；摘录PDF6；扫描0412
+S03：印刷63–64页；PDF8–9
+S17：AAM/PDF16页及20页注61",同一总括存放事件；不是1907–1908的两次入馆。；实物存放不等于正式入藏；S17注61指出所述阶段尚未正式入藏。YearStart/End是证据界限，并非持续两年。,接收关联,Physical circulation,WP004B
+E_DH004_N006_DH004,N006,DH004,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH004,1,0,可整理事件,reported_activity,1909年抵英；至1910年初夏已在BM,1909,1910,year_range,RD0009;RD0010;RD0011;RD0012,S03;S07;S17,"S07：印刷825页末；摘录PDF3
+S07：印刷916页；摘录PDF6；扫描0412
+S03：印刷63–64页；PDF8–9
+S17：AAM/PDF16页及20页注61",同一总括存放事件；不是1907–1908的两次入馆。；实物存放不等于正式入藏；S17注61指出所述阶段尚未正式入藏。YearStart/End是证据界限，并非持续两年。,转出／拨送关联,Physical circulation,WP004A
+E_DH005_B0005_DH005,B0005,DH005,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH005,1,0,可整理事件,reported_activity,1908年；3月查看与选择，交接日未定,1908,1908,year,RD0013;RD0014;RD0015,S01;S15;S22,"S22：印刷13页；PDF19；扫描0019
+S15：正文3 mars 1908及négocia l’acquisition段
+S01：印刷839页；PDF19",15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。,所涉对象,Physical circulation,
+E_DH005_DH005_N013,DH005,N013,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH005,1,0,可整理事件,reported_activity,1908年；3月查看与选择，交接日未定,1908,1908,year,RD0013;RD0014;RD0015,S01;S15;S22,"S22：印刷13页；PDF19；扫描0019
+S15：正文3 mars 1908及négocia l’acquisition段
+S01：印刷839页；PDF19",15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。,接收关联,Physical circulation,WP005B
+E_DH005_N002_DH005,N002,DH005,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH005,1,0,可整理事件,reported_activity,1908年；3月查看与选择，交接日未定,1908,1908,year,RD0013;RD0014;RD0015,S01;S15;S22,"S22：印刷13页；PDF19；扫描0019
+S15：正文3 mars 1908及négocia l’acquisition段
+S01：印刷839页；PDF19",15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。,转出／拨送关联,Physical circulation,WP005A
+E_DH005_N012_DH005,N012,DH005,Directed,1,Participant,participant_in_event,selector;negotiator,实物流转,DH005,1,0,可整理事件,reported_activity,1908年；3月查看与选择，交接日未定,1908,1908,year,RD0013;RD0014;RD0015,S15;S22,S15选择谈判段；S22印刷13页,15000所阅卷与选取约三分之一是自述口径；S15分语言数量不当精确总数。；合并旧版地点→队和队→个人的重复编码为一笔有保管者和接收行动的取得。,参与角色,Physical circulation,P010
+E_DH006_B0005_DH006,B0005,DH006,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH006,1,0,可整理事件,reported_activity,1909年底,1909,1909,year_end,RD0016,S15,S15：正文Les documents rapportés…段,30000 fascicules是另购印本，不是敦煌写本批次数量。；来源将写本与卢浮宫接收的对象／绘画／纺织品分流。具体交接凭证和正式登记日尚缺。,所涉对象,Physical circulation,
+E_DH006_DH006_N014,DH006,N014,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH006,1,0,可整理事件,reported_activity,1909年底,1909,1909,year_end,RD0016,S15,S15：正文Les documents rapportés…段,30000 fascicules是另购印本，不是敦煌写本批次数量。；来源将写本与卢浮宫接收的对象／绘画／纺织品分流。具体交接凭证和正式登记日尚缺。,接收关联,Physical circulation,WP006B
+E_DH006_N013_DH006,N013,DH006,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH006,1,0,可整理事件,reported_activity,1909年底,1909,1909,year_end,RD0016,S15,S15：正文Les documents rapportés…段,30000 fascicules是另购印本，不是敦煌写本批次数量。；来源将写本与卢浮宫接收的对象／绘画／纺织品分流。具体交接凭证和正式登记日尚缺。,转出／拨送关联,Physical circulation,WP006A
+E_DH007_DH007_N011,DH007,N011,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH007,1,0,可整理事件,reported_activity,1909年；根据1910年文书“上年”回推,1909,1909,year_inferred,RD0017,S19,S19：一、档案录文（一）；二、第一先呈样本,样本的后续返还不能再次算作一件新增收藏。；端点接收机构由S19文书上下文落实为学部；档案原件影像未取得；不推定王→总督的未知交接。,接收关联,Physical circulation,WP007B
+E_DH007_N010_DH007,N010,DH007,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH007,1,0,可整理事件,reported_activity,1909年；根据1910年文书“上年”回推,1909,1909,year_inferred,RD0017,S19,S19：一、档案录文（一）；二、第一先呈样本,样本的后续返还不能再次算作一件新增收藏。；端点接收机构由S19文书上下文落实为学部；档案原件影像未取得；不推定王→总督的未知交接。,转出／拨送关联,Physical circulation,WP007A
+E_DH007_O0002_DH007,O0002,DH007,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH007,1,0,可整理事件,reported_activity,1909年；根据1910年文书“上年”回推,1909,1909,year_inferred,RD0017,S19,S19：一、档案录文（一）；二、第一先呈样本,样本的后续返还不能再次算作一件新增收藏。；端点接收机构由S19文书上下文落实为学部；档案原件影像未取得；不推定王→总督的未知交接。,所涉对象,Physical circulation,
+E_DH008_B0006_DH008,B0006,DH008,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH008,1,0,可整理事件,reported_activity,1910年；早于宣统二年十一月十二日行文,1910,1910,year_with_terminus,RD0018;RD0019,S11;S19,"S19：一、（一）学部行文；二、第二两次调拨
+S11：PDF1页末–2页首",箱数不等于手稿件数；不得替换为今日国家图书馆16516号。；学部为拨送主体、京师图书馆派员取运；具体主批接收日期未知。原文同时回述陕甘总督解运，不能按同一句拆出多个未证实中间交接。,所涉对象,Physical circulation,
+E_DH008_DH008_N009,DH008,N009,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH008,1,0,可整理事件,reported_activity,1910年；早于宣统二年十一月十二日行文,1910,1910,year_with_terminus,RD0018;RD0019,S11;S19,"S19：一、（一）学部行文；二、第二两次调拨
+S11：PDF1页末–2页首",箱数不等于手稿件数；不得替换为今日国家图书馆16516号。；学部为拨送主体、京师图书馆派员取运；具体主批接收日期未知。原文同时回述陕甘总督解运，不能按同一句拆出多个未证实中间交接。,接收关联,Physical circulation,WP008B
+E_DH008_N011_DH008,N011,DH008,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH008,1,0,可整理事件,reported_activity,1910年；早于宣统二年十一月十二日行文,1910,1910,year_with_terminus,RD0018;RD0019,S11;S19,"S19：一、（一）学部行文；二、第二两次调拨
+S11：PDF1页末–2页首",箱数不等于手稿件数；不得替换为今日国家图书馆16516号。；学部为拨送主体、京师图书馆派员取运；具体主批接收日期未知。原文同时回述陕甘总督解运，不能按同一句拆出多个未证实中间交接。,转出／拨送关联,Physical circulation,WP008A
+E_DH009_B0007_DH009,B0007,DH009,Directed,1,Subject of event,subject_of_event,对象／批次关联,实物流转,DH009,1,0,可整理事件,reported_activity,宣统二年十一月十四日（公历1910-12-15，历表换算）,1910,1910,day_from_transcription_calendar,RD0020;RD0021;RD0022,S19;S25,"S19：一、（二）京师图书馆接收底账
+S19：一、（一）；三、（二）样本
+S25：1910对照表第1页；公历12月行；第13、15列",底账只记22卷与2本；23卷说法含既有样本1卷，不计新增23件。；公历日期是本次据历表换算，保留原纪年；档案转录仍需核原件。不把清历十一月十四写作公历1910-11-14。,所涉对象,Physical circulation,
+E_DH009_DH009_N009,DH009,N009,Directed,1,Recipient,transfer_to,接收行动／机构,实物流转,DH009,1,0,可整理事件,reported_activity,宣统二年十一月十四日（公历1910-12-15，历表换算）,1910,1910,day_from_transcription_calendar,RD0020;RD0021;RD0022,S19;S25,"S19：一、（二）京师图书馆接收底账
+S19：一、（一）；三、（二）样本
+S25：1910对照表第1页；公历12月行；第13、15列",底账只记22卷与2本；23卷说法含既有样本1卷，不计新增23件。；公历日期是本次据历表换算，保留原纪年；档案转录仍需核原件。不把清历十一月十四写作公历1910-11-14。,接收关联,Physical circulation,WP009B
+E_DH009_N011_DH009,N011,DH009,Directed,1,Transfer source,transfer_from,转出／拨送主体;转出／拨送主体（按事件定义）,实物流转,DH009,1,0,可整理事件,reported_activity,宣统二年十一月十四日（公历1910-12-15，历表换算）,1910,1910,day_from_transcription_calendar,RD0020;RD0021;RD0022,S19;S25,"S19：一、（二）京师图书馆接收底账
+S19：一、（一）；三、（二）样本
+S25：1910对照表第1页；公历12月行；第13、15列",底账只记22卷与2本；23卷说法含既有样本1卷，不计新增23件。；公历日期是本次据历表换算，保留原纪年；档案转录仍需核原件。不把清历十一月十四写作公历1910-11-14。,转出／拨送关联,Physical circulation,WP009A

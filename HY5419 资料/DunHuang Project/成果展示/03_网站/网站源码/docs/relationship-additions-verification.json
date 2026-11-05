@@ -1,0 +1,940 @@
+{
+  "version": "2.8.0",
+  "base": "http://localhost:8780/",
+  "date": "2026-10-30T13:17:08.752Z",
+  "checks": [
+    {
+      "name": "expanded graph and immutable base 1280/en",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 1280/en",
+      "passed": true
+    },
+    {
+      "name": "readable record text 1280/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1280/en",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 1280/en",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 1280/en",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 1280/en",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 1280/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 1280/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 1280/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 1280/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 1280/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 1280/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 1280/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 1280/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 1280/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 1280/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 1280/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 1280/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 1280/en",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 1280/en",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 1280/en",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 1280/en",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "readable record text 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 1280/zh",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 1440/en",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 1440/en",
+      "passed": true
+    },
+    {
+      "name": "readable record text 1440/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440/en",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 1440/en",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 1440/en",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 1440/en",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 1440/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 1440/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 1440/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 1440/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 1440/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 1440/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 1440/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 1440/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 1440/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 1440/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 1440/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 1440/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 1440/en",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 1440/en",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 1440/en",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 1440/en",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "readable record text 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 768/en",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 768/en",
+      "passed": true
+    },
+    {
+      "name": "readable record text 768/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768/en",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 768/en",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 768/en",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 768/en",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 768/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 768/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 768/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 768/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 768/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 768/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 768/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 768/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 768/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 768/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 768/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 768/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 768/en",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 768/en",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 768/en",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 768/en",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 768/zh",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 768/zh",
+      "passed": true
+    },
+    {
+      "name": "readable record text 768/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768/zh",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 768/zh",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 768/zh",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 768/zh",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 768/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 768/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 768/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 768/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 768/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 768/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 768/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 768/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 768/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 768/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 768/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 768/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 768/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 768/zh",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 768/zh",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 768/zh",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 390/en",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 390/en",
+      "passed": true
+    },
+    {
+      "name": "readable record text 390/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/en",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 390/en",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 390/en",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 390/en",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 390/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 390/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 390/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 390/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 390/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 390/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 390/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 390/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 390/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 390/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 390/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 390/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 390/en",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 390/en",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 390/en",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 390/en",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 390/zh",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 390/zh",
+      "passed": true
+    },
+    {
+      "name": "readable record text 390/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/zh",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 390/zh",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 390/zh",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 390/zh",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 390/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 390/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 390/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 390/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 390/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 390/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 390/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 390/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 390/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 390/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 390/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 390/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 390/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 390/zh",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 390/zh",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 390/zh",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 320/en",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 320/en",
+      "passed": true
+    },
+    {
+      "name": "readable record text 320/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 320/en",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 320/en",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 320/en",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 320/en",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 320/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 320/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 320/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 320/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 320/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 320/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 320/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 320/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 320/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 320/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 320/en",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 320/en",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 320/en",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 320/en",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 320/en",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 320/en",
+      "passed": true
+    },
+    {
+      "name": "expanded graph and immutable base 320/zh",
+      "passed": true
+    },
+    {
+      "name": "visible reading without opening controls 320/zh",
+      "passed": true
+    },
+    {
+      "name": "readable record text 320/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 320/zh",
+      "passed": true
+    },
+    {
+      "name": "six activities within scope; known overlap retained 320/zh",
+      "passed": true
+    },
+    {
+      "name": "specific reported news direction 320/zh",
+      "passed": true
+    },
+    {
+      "name": "request not completed viewing 320/zh",
+      "passed": true
+    },
+    {
+      "name": "later evidence date distinguished from event 320/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_CONTACT1909 320/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_CONTACT1909 320/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_VIEW1909 320/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_VIEW1909 320/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_LETTER19091222 320/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_LETTER19091222 320/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REPLY1910 320/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REPLY1910 320/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_PARIS191005 320/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_PARIS191005 320/zh",
+      "passed": true
+    },
+    {
+      "name": "locate SUP_REQUEST19101203 320/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record includes addition and proof SUP_REQUEST19101203 320/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch retains new selection 320/zh",
+      "passed": true
+    },
+    {
+      "name": "translated reading rerenders 320/zh",
+      "passed": true
+    },
+    {
+      "name": "supplement Gephi and CSV downloads 320/zh",
+      "passed": true
+    },
+    {
+      "name": "no script errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no failed assets",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "passed": true
+}

@@ -1,0 +1,11 @@
+{
+  "artifact_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+  "required_layers": [
+    "content",
+    "package",
+    "rendered",
+    "delivery-package"
+  ],
+  "scope": "Two locally annotated paragraphs; all other text and media preserved.",
+  "native_plan": "Close the saved original before replacing it, reopen the updated original in Microsoft Word, inspect both changed passages and visible layout."
+}

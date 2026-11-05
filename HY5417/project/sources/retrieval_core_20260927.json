@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A02",
+    "date": "2026-09-27",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0261517799001089/pdfft?isDTMRedir=true&download=true",
+    "kind": "http_error",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "response_excerpt": "<!DOCTYPE html>\n<html lang='en-us'>\n<head>\n  <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\" >\n  <meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\" >\n  <meta content=\"1\" name=\"tdm-reservation\" >\n  <meta content=\"https://www.elsevier.com/tdm/tdmrep-policy.json\" name=\"tdm-policy\" >\n  <meta content=\"width=device-width, initial-scale=1\" name=\"viewport\" >\n  <meta content=\"NOARCHIVE"
+  },
+  {
+    "id": "A04chapter",
+    "date": "2026-09-27",
+    "url": "https://www.degruyterbrill.com/document/doi/10.1515/9789048514373-009/pdf",
+    "status": 202,
+    "final_url": "https://www.degruyterbrill.com/document/doi/10.1515/9789048514373-009/pdf",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 2024,
+    "kind": "not_pdf",
+    "response_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title></title>\n    <style>\n        body {\n            font-family: \"Arial\";\n        }\n    </style>\n    <script type=\"text/javascript\">\n    window.awsWafCookieDomainList = [];\n    window.gokuProps = {\n\"key\":\"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AGLl45WZjIDWWips3goYbk7AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMjWyJ1tSR0R99jhMPAgEQgDuqY2wOIKIA5aQzq5HUgWVYs2ljdL/J9NulTuGXGaoqNRp6HhhGTmFjW0nlrs4LfTnX3KJ3/59a8HnPVg=="
+  },
+  {
+    "id": "A04",
+    "date": "2026-09-27",
+    "url": "https://www.ssoar.info/ssoar/bitstream/document/31509/1/ssoar-2011-heng_et_al-Singapore_in_global_history.pdf",
+    "status": 200,
+    "final_url": "https://www.ssoar.info/ssoar/bitstream/document/31509/1/ssoar-2011-heng_et_al-Singapore_in_global_history.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 24731,
+    "kind": "not_pdf",
+    "response_excerpt": "<!doctype html><html lang=\"en\"><head><title>Making sure you&#39;re not a bot!</title><link rel=\"stylesheet\" href=\"/.within.website/x/xess/xess.min.css?cachebuster=v1.27.0+dirty\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta name=\"robots\" content=\"noindex,nofollow\"><style>\n        body,\n        html {\n            height: 100%;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            margin-left: auto;\n            margin-right: auto;\n        }\n\n        .centered-div {\n            text-align: center;\n        }\n\n    "
+  },
+  {
+    "id": "A03",
+    "date": "2026-09-27",
+    "url": "https://brill.com/downloadpdf/book/9789004512986/BP000013.xml",
+    "status": 202,
+    "final_url": "https://brill.com/downloadpdf/book/9789004512986/BP000013.xml",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 2224,
+    "kind": "not_pdf",
+    "response_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title></title>\n    <style>\n        body {\n            font-family: \"Arial\";\n        }\n    </style>\n    <script type=\"text/javascript\">\n    window.awsWafCookieDomainList = ['manchesterhive.com','brill.com','daredictionary.com','jnccn.org','akjournals.com','loebclassics.com','elgaronline.com','ajtmh.org','jurabibliotek.dk','elibrary.imf.org','berghahnjournals.com','bristoluniversitypressdigital.com','thejns.org'];\n    window.gokuProps = {\n\"key\":\"AQIDAHj"
+  }
+]

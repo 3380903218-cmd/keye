@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "file": "双层传播网络_中文记录工作簿.xlsx",
+  "sha256": "b8bb6f76177aa3a3f85e09d454d8d20caab84ca844e1fd17d6eafa1c383fba1e",
+  "sheet_count": 6,
+  "blank_entry_sheets": [
+    "阅读记录",
+    "事件整理"
+  ],
+  "example_rows": 3,
+  "existing_entities": 14,
+  "existing_sources": 25,
+  "source_of_examples": "S07 printed825 and916; previously visually checked scans",
+  "example_object_ids_are_teaching_markers": true,
+  "new_historical_events_added_to_Gephi": 0,
+  "scope": "Workbook reopening, empty input sheets, example separation, ID/source snapshot counts and data validations."
+}

@@ -1,0 +1,65 @@
+HY5419 PPT图片选择与插入方案
+日期：2026-09-14
+
+结论
+当前项目文件夹中没有独立的照片素材库，只有04_gephi/dunhuang_pilot_stein_qing.svg。现有PPT第1页已经内嵌一张800×600的莫高窟照片。为了保证来源可核查和版式简洁，建议只在第1、4、5页使用视觉材料：第1页照片，第4页网络图，第5页史料摘录或原书扫描。第2、3、6页不需要强行添加图片。
+
+第1页：保留当前照片
+素材：当前PPT内嵌的ppt/media/image1.png。它显示莫高窟内部，并在右侧可见“017”标记，适合作为研究对象的空间背景。
+插入方式：保持右侧大图位置；使用裁剪填充，不要拉伸；不要在其他页面重复使用。
+图下注释建议：Mogao Cave 17 context image. Source and image rights to be verified before submission.
+中文说明：莫高窟第17窟语境照片，图片来源及使用权待核实。
+注意：除非你能确认照片确实拍摄于第17窟，否则不要写“Interior of Cave 17”；当前可以使用较谨慎的“Cave 17 context image”。
+
+第2页：不插图片
+原因：这一页的功能是提出研究问题和工作假设。插图会分散注意力，也无法比文字更清楚地表达“中介者”和“来源措辞”。
+页面重点：主问题、两个子问题、工作假设。
+不要添加：敦煌风景图、人物肖像、博物馆建筑图。这些材料不能直接支持这一页的研究问题。
+
+第3页：不插外部图片
+原因：这一页已经有三个数据结构区块。额外图片会削弱nodes、event records、sources之间的逻辑关系。
+页面重点：三张表的关系和三条编码规则。
+可选做法：如果需要视觉元素，只保留模板中的数字区块和箭头，不再加入照片。箭头表示数据关联，不表示实际历史路线。
+
+第4页：插入Gephi网络图
+首选素材：04_gephi/dunhuang_pilot_stein_qing.svg
+文件链接：../04_gephi/dunhuang_pilot_stein_qing.svg
+为什么选它：它包含7个节点、9条源关联记录、节点名称、主体类型图例和关系标签，远比当前Gephi画布截图更适合汇报。SVG在PowerPoint中仍可编辑和放大，不会像截图一样模糊。
+插入方式：放入左侧大图区域，保持横向比例；不要裁掉标题、图例和底部说明；右侧数字单独保留为文字。
+图注英文：Exploratory directed network of documented transfer records; layout distance is not geographic distance.
+图注中文：有来源记录的探索性有向网络；布局距离不代表地理距离。
+来源小字：Stein 1921; Doumy 2025; Terzi and Whitfield 2024. Data files: nodes.csv, edges.csv, sources.csv.
+必须口头说明：Gephi视图把相同Source→Target组合汇总为唯一连接，因此图中显示6条连接，而事件表目前有9行初步记录。当前图的边色沿用起点颜色，不要在图注中说“边色代表Relationship”。
+替代素材：如果PowerPoint无法正确显示SVG，使用Gephi中打开节点标签后的高清截图；不要使用没有节点名称的当前画布截图。
+
+第5页：优先使用史料摘录，不要使用普通装饰图
+首选方案：左侧放Serindia原文的可编辑摘录，右侧保留三个关键词。当前项目中的Serindia_1921_Volume_2_OCR.tar只包含OCR文本，没有原书页面图像，所以不要把OCR文字伪装成“文献截图”。
+建议摘录：
+“The agreement arrived at assured me fifty compact bundles” (p. 824)
+“Two midnight trips ... allowed the huge sackfuls to be safely removed to my store-room” (p. 825)
+“rescue for Western scholarship” (p. 825)
+来源：M. Aurel Stein, Serindia, vol. 2 (1921), pp. 824–825.
+中文说明：三段摘录分别对应交易叙述、物理搬运和探险者的正当化语言。
+
+第5页可选图像方案（只有在你能取得并核对原版扫描时使用）
+从Internet Archive的Serindia, vol. 2扫描中截取第824–825页，左侧使用一张连续跨页的原书截图，右侧保留agreement、safely removed、rescue三个关键词。截图必须显示印刷页码，并在页脚注明Internet Archive链接和访问日期。若没有核实版权或扫描来源，使用可编辑文本摘录更安全。
+
+第6页：不插图片
+原因：这一页是行动计划和预期成果。图片会让“下一步”显得像已完成成果，也会挤压文字空间。
+页面重点：Audit pilot dataset、Extend the routes and evidence、Complete the analysis and publication，以及四项预期成果。
+不要添加：网站截图、Datawrapper截图或未来的伯希和网络图，因为这些目前仍属于计划成果。
+
+不建议使用的图片
+1. 未核实来源的敦煌网络图片或博物馆建筑照片。
+2. 将莫高窟其他洞窟的照片标成Cave 17。
+3. 将现代博物馆展柜照片当作1900—1910年转移事件的证据。
+4. 没有节点名称的Gephi截图。
+5. 用网络图装饰第2、3、6页。
+
+最终推荐表
+第1页：现有莫高窟照片，保留并补来源。
+第2页：无图片。
+第3页：无外部图片，保留结构化数据流程。
+第4页：插入04_gephi/dunhuang_pilot_stein_qing.svg。
+第5页：Serindia第824—825页原书扫描；若没有扫描，使用可编辑史料摘录。
+第6页：无图片。

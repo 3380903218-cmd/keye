@@ -1,0 +1,14 @@
+Gephi pilot parameters v1
+Date: 2026-09-13
+Input event table: ../03_data_clean/nodes.csv + ../03_data_clean/edges.csv
+Graph type: Directed
+Nodes: 7; unique links shown by Gephi: 6; source-linked event rows: 9; source records: 5
+Important: Gephi aggregates repeated Source -> Target pairs in the GEXF view. Edge weight and EventCount preserve the number of event rows represented by each unique link. The event-level audit remains in edges.csv.
+Node color: NodeType (SourceSite, Person, Expedition, Institution)
+Node size: total degree, exploratory only
+Edge color: Relationship
+Layout intended: ForceAtlas2 with Prevent Overlap, then Noverlap; labels and arrows visible
+Export: dunhuang_pilot_stein_qing.svg is the event-level static presentation view; the Gephi GEXF view shows weighted unique links.
+Interpretive limits: layout distance is not geographic distance; degree/betweenness are sample- and catalogue-dependent; edges do not encode legal ownership, consent, responsibility, or cultural affiliation.
+Reproducibility: import the two CSV files in Gephi, run the settings above, and compare event rows in edges.csv with EventCount and EventIds in the GEXF edge attributes.
+Environment note: Gephi required Rosetta on Apple Silicon; it now opens after Rosetta installation.

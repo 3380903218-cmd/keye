@@ -1,0 +1,513 @@
+Page 417 →
+Qing Statesmen, Archivists, and Historians and the Question of 
+Memory
+Beatrice S. Bartlett
+The great government book-collecting project of eighteenth-century China, the “Complete Library in Four 
+Branches of Literature,”1 offered the Qing government (1644-1912) an opportunity to proscribe and even destroy 
+works it found offensive, particularly those that expressed antigovernment or anti-Qing sentiments. An imperial 
+edict deputed high officials to supervise the burning of the works on the government's Index Expurgatorius at a 
+site outside the capital city, Peking. After that, except for a remnant surviving in Japan or Europe, the presumption 
+was that all copies of these works were permanently lost, just as the court had intended.
+But the story has a happy ending: when the Qing archives were opened after the fall of the dynasty in 1912, the 
+forbidden and supposedly destroyed books were found safely secreted inside the Grand Council archival vaults in 
+the imperial palace. These works had survived because an unknown eighteenth-century hero—probably a high 
+official with archive-supervisory responsibilities—defied the court's directive. He could not bear to destroy books. 
+Apparently he was more concerned with memory than with obedience.2
+A second story illustrates a similar archival impulse. In some Qing reports to the throne, the three characters for 
+the name of Sun Yat-sen, the rebel leader who eventually rose to be extolled as the founding father of modern 
+China, were disparaged by being written with a dog signific to the left of each character—a common form of 
+derision (in our parlance, probably similar to calling someone “a dirty dog”). The repository, a Republic of China 
+government organization, felt it had to prohibit such sacrilege—mocking the founder of the nation could not be 
+allowed. I am told that the reports in question have been removed from the open collection and are now hidden 
+away in the Taibei Palace Museum, available only by special permission.3 Again, the evidence was not destroyed 
+but secreted.
+These stories allow us to see one of the driving principles behind Qing archival preservation—save everything. As 
+demonstrated by the preservation of the forbidden books and the documents with the derogatory dog symbols, this 
+imperative included saving items not necessarily in the government's interest. This has been fortunate for the 
+cause of preserving social memory. Although the Qing government made very little effort to reach out into the 
+society and collect what might be regarded as items of social memory, and although these did not survive well 
+when left beyond the government's protection, if such items did reach the archives, there was little risk of discard 
+or loss. Fortunately, the concept of pre-archivage—weeding out documents deemed of minimal interest before 
+turning them over for storage—was not known to the archivists of Qing times.4
+Yet another feature of the Qing archives illustrated by these stories was that many Chinese government archival 
+installations—and there are very few private holdings—are pleasingly eclectic, with contents going far beyond the 
+category of government documents. As in the tale of the eighteenth-century books saved from burning, Chinese 
+archives may even preserve printed books.5 In addition, artifacts (not just drawings of the artifacts, which are also 
+preserved, but in some cases the artifacts themselves) were saved, as well as song-sheets, court circulars, and even 
+a few private papers. Newspapers and other items we might not consider appropriately archival frequently turn up. 
+A Chinese archive is likely to be a repository of Page 418 → a vast assortment of items. Anything may be held in 
+its vaults.
+A Chinese Definition of Social Memory?
+In writing this essay, I have not found a clear definition of Chinese or even Qing “social memory” that might find 
+favor with the archival profession. Because the discussion of memory has been a debate conducted primarily 
+among historians in the West, their definitions do not precisely fit the Chinese case. Maurice Halbwachs, one of 
+the earliest Western historians to grapple with the problem, drew his main distinction between “individual 
+
+memory” on the one hand and “collective” or “social memory” on the other.6 Some analysts have found the two 
+principal kinds of memory to be “private” and “public.”7 Two comparative historians discussing memories of 
+twentieth-century wars in Japan, Germany, and the United States equate memory of the wars with the official 
+versions that dominate news stories and textbooks and suggest that social memory is unofficial memory.8 For the 
+Chinese case, however, my own findings are quite different.9
+From my study of archival practice in Qing times, I observe that Qing officials did not frame their discussions of 
+archival practice in terms of individual and collective memories, nor did they employ any of the other Western 
+dichotomies outlined above. Instead, they divided their holdings into two large groups of archived materials, one 
+in the outer court (waichao ), and one in the inner court (neiting ). The first consisted of what the government 
+wanted known, a form of memory that might be described as “managed,” “authorized,” or “official.” Documents 
+in this category expressed the state's version of events and were allowed to circulate in the vast, open, outer-court 
+bureaucracy; eventually most of these came to be housed in the vaults of the Grand Secretariat Great Treasury 
+(Neige daku ). The second, for want of a better term, may be said to have consisted of “everything else”—official 
+secrets, personnel evaluations, heterodox rebel confessions, unofficial materials, documents too cumbersome to 
+circulate, miscellany, and the like.10 These were held in the inner-court archives, chiefly in the Office of Military 
+Archives (Fanglueguan 11 In this scheme, both outer- and inner-court materials could be official, but in addition, 
+documents of social or unofficial memory might be deposited in both kinds of archival holdings.12 In a broad 
+sense, unofficial memory embraced all kinds of background information helpful in understanding both the official 
+and the alternative or unofficial views. Much of that information would have been collected by Qing government 
+personnel acting in their official capacities. Because of Qing archivists' laudable willingness to save almost 
+everything, I tell my graduate students that they should not ignore the official archives even when collecting 
+materials for studying the unofficial side of history, as well as local archives if those are appropriate.13
+But what about nongovernment and nonofficial sources of information that were not held in government archives? 
+Would these be fruitful sources of social memory? The answer is that they surely would be—but only if we can 
+locate them, a dubious prospect indeed. During the Qing, little effort was made to preserve the unofficial or the 
+private. Much has been lost. The reader may well ask why present-day archivists and historians in search of Qing 
+social memory do not zealously scour the country for privately held collections of personal papers.14 But aside 
+from printed book collections, Qing policy discouraged families from holding on to such papers.
+One eighteenth-century example of the court's accusation against an individual will suffice to demonstrate the 
+dangers that might lurk in a private hoard. In the Yongzheng reign (1723-35), a government examination 
+commissioner chose one of the topics from an ancient classical text—what we would call an essay question—with 
+the subject, “Where the people rest” (weimin suozhi ). The Yongzheng emperor, or someone in his entourage, 
+looked at this quotation and observed that its first and last characters resembled those of the emperor's reign title 
+(Yongzheng ) but with a significant difference: in the quotation the tops of the characters resembling the reign-
+title characters “Yong” and “Zheng” were removed. By a tortured process of reasoning, the selected quotation was 
+then viewed as recommending that the emperor have his own top—or head—lopped off. Indeed, in the eighteenth 
+century this was assumed to be the motive behind the official's choice of examination question.
+As a result, the hapless official was forthwith cast into prison, where he died. His male family members were also 
+imprisoned and his widow consigned to internal exile.15 The story of this official's fall became well known at the 
+time and warned others against harboring anti-Qing sentiments—or at least against committing them to paper. 
+Ridding one's home of anything that might some day be the object of a twisted interpretation and taken to be 
+incriminating evidence of antigovernment views was a necessity in the face of an imperial paranoia so strong it 
+Page 419 → could wreck an entire family. Although in China periods of official paranoia have alternated with 
+occasional mild relaxations, in general it may be said that private papers and letters did not survive well. Few 
+private and unpublished family or business papers from Qing times are today available for consultation.16
+So for social memory from Qing times, the Chinese official archives must be our chief recourse. There, memories 
+rising from the society take many forms. Although much evidence that we would eagerly read today never found 
+its way into official archival storage, nevertheless, even a haphazard search of government archives may retrieve 
+
+valuable materials. One of the most obvious examples of social memory in the Qing archives is rebel 
+confessions—these often describe the heterodox beliefs that inspired rebellions and identify the master-disciple 
+networks that transmitted those beliefs throughout the countryside. Another example lies in the records of criminal 
+cases preserved in the archives, which might also contain antigovernment anguish. Many officials sent in the 
+information basic to social memory or essential for illuminating context when fulfilling reporting requirements on 
+prices, weather, harvests, and earthquakes. I once came across an official provincial document that described a 
+plague of grasshoppers, complete with an enclosed drawing of the nasty creatures' nests.17 Such a report served an 
+official purpose in the Qing and yet today can help us understand the unofficial.
+It is probable that in the end, neither official nor unofficial memories can be preserved in all their fullness of de-
+tail—they are ideal types that cannot be fully assembled and grasped in all their diversity. In many instances it is 
+more difficult to dredge up social memories than to become informed on the well-publicized and widely circulated 
+official statements of government-managed memory. The retrieval and preservation of social or unofficial 
+memory may be eased for archivists who assemble materials on the twentieth century, for which we have much 
+more documentation in the form of newspapers, letters to newspaper and journal editors, historical movies, 
+television programs, textbooks, personal reminiscences, oral histories, and interviews, almost none of which 
+survive for the Qing.
+A Manual of Qing Archival Policy
+Let us imagine that the Qing statesmen, archivists, and historians in charge of supervising the archives were to 
+compose a rule book of prescribed archival practice, particularly in relation to social memory. What prescriptions 
+would such books contain? The Qing's high official supervisors were committed to upholding the approved 
+views—in some situations they might even have determined what these should be. In what follows I have used 
+both the archival supervisors' arrangements and storage methods as well as their occasional explanations of policy 
+to pull together some of the advice and regulations they might have written had they composed an office training 
+manual for instructing the next generation of archivists.18
+In the imaginary guide, the primary aim of archival preservation would have been, of course, to protect the regime 
+and allow no antigovernment views to circulate widely, even if inscribed in government documents. Next would 
+have been the aim of preserving the imperial face. The emperor had to be portrayed in the best possible light: 
+losses of the imperial temper or evidence of imperial incompetence or even of indecision had to be treated as 
+national secrets. A tertiary consideration would have been to preserve the face of officials, provided that such did 
+not conflict with the first or second aim. When the Yongzheng emperor, for instance, scathingly wrote to a local 
+official, “You are just one of those mediocre provincial officials appointed on a trial basis because I could not find 
+anyone better,” although this put the official in an unfavorable light, the document was allowed to circulate and 
+even appear in print.19 Supervising officials may have decided that the emperor's withering insight was more 
+worthy of publication than any secret handling that might have been sensitive to the official's need for face. Or the 
+official may not have possessed enough clout at court to prevent publicizing this stroke of imperial wit.
+The archival supervisors' aims, if carried out, guaranteed a view of the government as all-powerful, effective, and 
+orderly. The government was to be portrayed as offering thoroughgoing control from the center and organized to 
+discourage challenges. Such an outlook offered little hope to those who championed alternative views—and of 
+course that was precisely what was intended. On rare occasions an archivist might save some prohibited books or 
+documents, but for the most part the archives were designed to preserve the government's story.
+The chief curatorial method was to create a structure that accomplished the same thing as our classification 
+systems—top secret, secret, and so forth. The Qing government achieved this with its two parallel but separate 
+communication systems, one—the old open, outer-court (waichao), nonsecret system inherited from the previous 
+dynasty (the Ming)—and the secret one created in the early Qing that operated in the inner court (neiting). Page 
+420 → The two systems possessed separate document streams, separate methods for processing the documents on 
+their arrival at the capital, separate storage systems for archiving the documents, and separate systems for using 
+documents to write official historical works.20 This strict division had the advantage of compartmentalizing not 
+
+only the documents but also the personnel allowed to see them.
+The two systems were not exactly alike. By mid-Qing times (the eighteenth century), the old outer-court system 
+was a structure operated by a vast bureaucracy through which documents could circulate easily. This structure 
+included methods for making selected documents available to the officials and in cases of certain public 
+announcements to the population of the country at large. The best-known of the vehicles fulfilling this purpose 
+was the Peking Gazette (Tangbao ), a court circular that was regularly dispatched to government offices in the 
+provinces to make selected documents widely available in a timely fashion. Many official historical works were 
+also compiled from documents that circulated in the outer court.
+The inner court possessed almost the same structure, but one in which access to its secret documents and facilities 
+was limited to a small coterie of Grand Council high officials, clerks, errand runners, and other staff—possibly 
+little more than two hundred men.21 Accordingly, the inner court had its own document stream (the palace 
+memorials),22 its own processing offices (the Chancery of Memorials [Zoushichu ] and the Grand Council), its 
+own archive (the Office of Military Archives [Fan-glueguan], which actually contained much more than just 
+military reports), and its own publications (chiefly the campaign histories [fanglue ]).
+But it was not a case of the left hand not knowing what the right hand was doing. The separation between the two 
+systems was not rigid—there were crossovers. These were achieved not by bureaucratic regulations or traditional 
+routines but personally, through the high supervising officials. By means of personal directives—sometimes 
+emanating from a source as high as the emperor himself—documents could flow between the two courts, although 
+the main direction was from the secrecy of inner-court storage to the openness of the outer court. As just about 
+everything that came to hand was saved, the primary issue was not what to save but what to disseminate.
+Having provided the background necessary to understand how the system might have been manipulated, I shall 
+take up four principal methods of restricting or allowing circulation of documents as these developed over the 
+course of the middle Qing (eighteenth and early nineteenth centuries): first, reducing opportunities for publication; 
+second, direct action to arrange circulation; third, a secret enclosure system; and fourth, in some cases arranging 
+that a report conveyed information needed to protect the government. The training manual that I have envisioned 
+might well have described several more ruses for ensuring that the archives told the government's story rather than 
+raising specters of social memory—but my four examples will suffice.
+The earliest method that the imaginary rule-book might have treated was the reduction of opportunities for 
+publishing archival documents. Toward the end of the Yongzheng period (1723-35), at a point when nearly all 
+palace memorials, and indeed the entire system, were kept secret, the court decided to celebrate the 
+accomplishments of the reign by publishing considerable numbers of edicts and reports to the throne.23 The 
+centerpiece of this publication effort was a printed edition of thousands of the emperor's own handwritten 
+responses (vermilion rescripts) on the provincial palace memorials (Yongzheng Zhupi yuzhi ), an enormous 
+compilation that publicized the emperor's painstaking concern for government affairs.24 In permitting such 
+publications, high officials, archivists, and editors ruled out state secrets, concealed imperial weakness, and 
+allowed certain officials to enjoy a high reputation because of their inclusion in a work sponsored by the throne.
+In particular, the printing of the Yongzheng palace memorials offered an opportunity to use selected documents to 
+display an active, effective government, headed by an emperor whose lengthy vermilion rescripts showed him to 
+be devoted to duty. In the Yongzheng-period inner court, documents were packed for archival storage in three 
+separate groups: “published” (yilu ), “yet to be published [in a new edition that in the end was never undertaken]” 
+(weilu ), and “not to be published” (bulu ). The final prohibited category concealed not only national secrets but 
+also the emperor's and the officials' weaknesses—these also a kind of national secret. This final category is also a 
+good place to look for evidence of unofficial memory.
+For example, a report early in the reign from one of the Six Boards at the capital described the lamentable results 
+of an examination to identify translators well versed in both Manchu and Chinese. When the results were graded, 
+only 9 men of the 414 who originally took the test were deemed truly capable of accomplishing the desired 
+translation work, while 116 individuals were rated only “ordinary” (pingchang ). A large bottom group consisted 
+
+of 289 men who did not qualify at all— Page 421 → 47 of these had turned in totally blank test papers.25 Such a 
+dire state of translation proficiency would not have reflected well on the government. It was reasonable to 
+suppress such a report.
+Other secrets eliminated in the publication of the Yongzheng palace memorials suggest how desirable it may be to 
+go through the list of prohibited items.26 A proscribed report of YZ7 (1729) listed the “nourish-honesty” 
+(yanglian ) stipends then being paid to Gansu provincial officials.27 Also prohibited were many staff memoranda 
+written to suggest a recommendation or path of action for the emperor's consideration. Frequently Yongzheng 
+would simply copy these with scarcely a change into his vermilion rescripts on the memorials, which would then 
+be returned to the author so he would learn the imperial views. Such staff recommendations had to be concealed, 
+lest the emperor appear incapable of framing the policies regularly attributed to him alone.28 Often these 
+memoranda dealt with the thorny details of government finance and are well worth examining today. In fact, I 
+developed a habit of identifying the prohibited memorials in the files and scrutinizing them with especial care.29
+Another midreign communication on military encampments was probably denied outer-court circulation because 
+it revealed that at the highest levels in the inner court, the government had connived to deceive the outer court 
+about the existence of the then-secret palace memorial system. The imperial calligraphy on this report begins with 
+a recital of current regulations (doubtless known only in the inner court) for sending important information to the 
+outer court without revealing the existence of the palace memorials: “What ought to be reported in a routine 
+memorial [i.e., a report in the outer-court stream], accordingly report. It is not permitted because of [something in] 
+a palace memorial not to send in a routine version.” But in the final section, after this lecture on regulations, the 
+emperor suddenly reversed himself and concluded: “In this case, that temporarily need not be done.”30 This 
+confusing rescript may have been withheld because it showed the government in a thoroughly bad light, not only 
+because of the conniving that produced duplicate reports—one for each communication system—but also because 
+of the revelation of imperial indecision, qualities deemed unsuitable for publication.
+An example of how officials' face was taken care of appears in a report from the end of the reign. Here, the 
+emperor kept up his sarcastic needling on the subject of official inadequacies: “This memorial has much glossing,
+” he wrote, “You [surely] did not read it over.”31 What had probably happened was that the provincial governor-
+general had simply forwarded the local financial official's report without checking. The memorial was withheld 
+from circulation, possibly because this official was highly regarded and as a result was given protection against 
+unfavorable publicity. In fact, many candid personnel reports from the Yongzheng period were secreted lest the 
+emperor's and the reporting official's comments should become widely known. In one exposition, a provincial 
+memorialist described a subordinate as only ordinary, beside which the emperor exclaimed: “Yes” (shi ). Later the 
+emperor castigated another official with the statement, “I fear his sense of integrity needs looking into,” and 
+agreed with the memorialist's frank assessment of a third as “scatterbrained” (qingtiao ).32 Revelation of such 
+candid comments could have been extremely damaging to morale throughout the bureaucracy.
+Another kind of tinkering with the archival record appears in documents purportedly published from archival 
+originals. The published Yongzheng-period memorials exhibit curious differences between the archival originals 
+and their published forms. When I compared about two hundred reports with their published versions, I found 
+only five instances in which the published versions did not display differences. Some of the changes were utterly 
+insignificant; nevertheless, researchers would like to be assured of verisimilitude. The eighteenth-century editors 
+frequently condensed a provincial author's verbiage and even rewrote the emperor's comments. Apparently the 
+editors sought to give the imperial writing an elevated tone. For instance, one published rescript had the emperor 
+quoting the classical philosopher Mencius, but the archival original yields no imperial reference to the sage or his 
+works.33 This editorial strategy was intended to reinforce the image of deep classical learning as part of the public 
+imperial persona.
+Later in the eighteenth century, the system came to be manipulated in another way—which our imaginary 
+guidebook of prescriptions might have described—when the palace memorials had become both more numerous 
+and less secret. This was accomplished by having high supervising officials, or sometimes the emperor himself, 
+determine which palace memorials would be released to the outer court. Release was a serious matter, because it 
+
+not only made the memorial content available to the many potential readers in the large outer-court bureaucracy, 
+but also allowed the document contents to be included in the court circular (Peking Gazette) as well as more 
+formal official publications. Reports thus fated Page 422 → would be ordered “turned over” (jiao ) to the outer 
+court.34 Occasional imperial rescripts also prescribed release of memorial enclosures to the outer court with the 
+formula “Also send the enclosure” (dan bingfa ). In this way, large numbers of once secret palace memorials 
+reached the outer-court bureaucracy. Our hypothetical manual would show that inaction easily preserved archival 
+secrets—a special determination was needed to forward each individual memorial, and another to send on an 
+enclosure.
+A third kind of manipulation that may be observed in the middle to late eighteenth century was the practice of 
+writing covering palace memorials that summarized situations but left the details—often significant details—to 
+enclosures. The covering document—but not its enclosure—would then be released to the outer court. We know 
+this practice had become prevalent by the end of the eighteenth century because it excited the imperial alarm, 
+causing the Jiaqing emperor (r. 1796-1820) to caution officials against excessive use of what he called the “secret 
+enclosure” (jiapian ) system.35
+How did the secret enclosure system work? Enclosure content was filled with what officials in the field had 
+decided should be treated as unofficial memory. Frequently enclosures were written to convey details that might 
+otherwise have clogged the narratives in the covering memorials—long lists of local crop and harvest conditions, 
+for instance, food grain price levels, rain and weather facts, earthquake and flood reports, and maps. Another 
+candidate for enclosure treatment was the confessions of captured rebels. Confession enclosures usually contained 
+seditious information that had to be secretly stored in the inner-court archives and kept out of general circulation. 
+Hundreds of such confessions, usually submitted as enclosures, today survive in one or two copies only from the 
+late eighteenth and nineteenth centuries. They detail the organizations, beliefs, and hopes behind dozens of rebel 
+groups all over China. Twenty-five years ago, a Yale graduate student, Susan Naquin (now teaching at Princeton), 
+was the first to make substantial use of such documents, studying a set from an 1813 attack on the palace. Rebels 
+were rounded up in and around Peking and extensively debriefed under Grand Council auspices, possibly with the 
+use of torture. Naquin was able to tease out an entire book that for the first time in English or Chinese published a 
+narrative and analysis of the nature of a Chinese sectarian rebellion.36 Of course, the evidence of such sedition 
+could not be permitted to circulate to the outer court, appear in the Peking Gazette, or be inscribed in the official 
+historical works. Accordingly, today most confessions are still to be found in the secret inner-court archival 
+holdings.
+Archival materials can only be as good as the quality of information collected. A fourth kind of limitation that 
+might have been prescribed in our imaginary manual involved restricting the kind of information collected in the 
+first place. This practice met the larger goal of managing information so that it told the government's, rather than 
+any other, story. For example, as it was thought desirable to protect officials, a report on a local uprising had to be 
+composed to clear those involved of any and all dereliction of duty. The aim was to ensure that nothing damaging 
+about the officials would be on file even in the top secret archives, and with high inner-court grandees supervising 
+the taking of depositions, this was not difficult to arrange.
+An example of this occurs in the Zhong Renjie case of 1841, when the captured leader was asked in the course of 
+his interrogation if his uprising had been long in the planning. Of course, no rebel leader would be recorded as 
+having answered such a question in the affirmative, lest the officials on the spot be accused of failing to uncover a 
+rebellion in its planning stages. Zhong Renjie's confession complied very clearly with this requirement: “We were 
+terrified and seized the town because we had killed an official, definitely not because we had plotted the rebellion 
+beforehand.” With this statement firmly incorporated in Zhong's deposition, the local officials (who may very well 
+have been carrying out the initial interrogations) ensured that they would be off the hook. As a result, we shall 
+never know if Zhong's small uprising really did erupt spontaneously, as the confessions piously attest, or was 
+long-planned and carried out right under the noses of unobservant and lazy local officials.37 In similar fashion, 
+managed confessions might control other aspects of the reporting on an uprising. Much information we might like 
+to have is forever lost, and the information that survives in the archives has to be interpreted in the light of the 
+suspicion that some of it may have been noted to clear officials of blame rather than to determine facts.
+
+Deliberate Forgetting
+With the Qing archives so well managed and so much memory preserved, if not necessarily circulated, mention 
+must be made of some of the few examples of deliberate official discard of documents. In these cases it apparently 
+was not enough to bury an incriminating document in a Page 423 → secret holding—the document had to be 
+destroyed. One instance concerns a missing archival record of an important imperial decision. In 1748, the grand 
+councillor, Noqin, was sent to the southwest front to lead the Qing armies against the Jinchuan rebels. 
+Unfortunately, Noqin was soon forced to admit defeat. When his reports of defeat reached the Qianlong emperor, 
+Noqin was scheduled—without the formality of a trial—to be beheaded. To make matters worse, the sword of his 
+brave grandfather, a hero of the Manchu conquest years, was hastily dispatched to the southwest to be employed 
+in carrying out the execution, which was ordered to take place in full view of the assembled Qing armies.38
+The archival record of this tale would surely make interesting reading, but one of the key pieces of evidence for 
+the entire year of Noqin's demise, the “Record Book of [Grand Councillors'] Deliberations,” a compilation of 
+probably several hundred pages, is missing.39 What is more, the file was not lost after the fall of the Qing, when 
+so many other palace relics were stolen by eunuchs—it has been missing at least since the first Grand Council 
+archives inventory was compiled in the late eighteenth century.40 This early disappearance of a potentially 
+embarrassing record in contrast with very few other losses of Grand Council documents strongly suggests the use 
+of that special archival oubliette—an archivist's purposeful destruction of a set of documents. In this case the 
+proscribed topic was probably the terrible evidence and consequences of keen imperial frustration, 
+disappointment, and even loss of temper.41 For the Qing archivists, protecting the imperial face was the all-
+important goal.
+Another deliberate example of archival forgetting that plagues our research today is the Grand Council archivists' 
+failure to preserve the alternate position papers composed in response to the imperial order for a high-level 
+deliberation.42 In each instance, the final agreed-on position paper was copied for various files and preserved, but 
+the alternatives appear to have been destroyed. This may have happened because of an unwritten “unanimity rule” 
+to the effect that if the deliberating officials presented one unanimous position paper, the emperor was all but 
+bound to accept it and did so in nearly every case. On the other hand, if the officials presented more than one 
+position, the emperor was free to decide for himself. Bureaucratic solidarity could thus trump imperial will; 
+bureaucratic disunity—and any surviving evidence of it—handed the decision-making power to the monarch.43
+Accordingly, to preserve an official dissent that had been registered along the way to final unanimity was to risk 
+destroying the officials' opportunity to decide. There was no question but that records pertaining to dissent had to 
+be destroyed.44
+Conclusion
+In relation to the Qing archives, social memory may be defined as a document-based remembrance different from 
+or even in opposition to the official version of events. The government's authorized tales were the ones that 
+circulated most freely. Nevertheless, with some crucial limitations, Qing government archivists also preserved 
+many alternative views and accounts. This is a boon to present-day researchers because private papers do not 
+survive well in China.
+When using these materials, researchers must be aware of the nature of the limitations on Qing data 
+collection—the poor survival rate of private papers, the management of reporting at the source, the special aims of 
+archival collection and preservation, and the restrictions on circulation and publication. There were many such 
+limitations—I have been able to describe only a few of the most notorious.
+NOTES
+In the notes below, the abbreviation TPM signifies documents in the Qing archive holdings of the Taibei Palace 
+Museum. At the museum, a report to the throne may be retrieved by its assigned number; a document that has 
+been published may usually be retrieved in the printed edition by its date. In the following notes, I supply this 
+information, plus the name of each document's author.
+
+I am grateful for the assistance of the late Chao Chung-fu of the Taiwan Academia Sinica, Chuang Chi-fa of the 
+Taibei Palace Museum, Ju Deyuan of Beijing's Number One Historical Archives, and Wei Qingyuan of the 
+People's University Archives Department in Beijing. I also happily acknowledge the suggestions of two Yale 
+graduate students, Edward Melillo and Shou-chih Yen. I thank Professor Keith Wrightson for arranging for me to 
+present an earlier version of this essay at a Yale History Department lunch. Chinese terms and names in this essay 
+are romanized according to the pinyin system, with modern personal names rendered according to the personal 
+preference—Wade-Giles or pinyin—of the individuals named.
+1. Chinese: Siku quanshu .
+2. In the 1980s, an enterprising Taiwan publishing house printed the forbidden works.
+3. I know this only as a story and do not claim to have inspected the reports themselves.
+4. Had certain Grand Council documents been weeded, I might never have come across lists of tables of 
+food ordered each day for the council, which I employed to estimate the number of staff members on duty 
+there each day. See my Monarchs Page 424 → and Ministers: The Grand Council in Mid-Ch'ing China, 
+1723–1820 (Berkeley: University of California Press, 1991), 172. The Grand Council archives also yielded 
+other kinds of information that in different archival situations might have been discarded. On pre-archivage, 
+see Guy Dubosq, The Records Center: Idea and Instrument (Washington: VIII International Congress on 
+Archives, 1976). In contrast to weeding, occasional deliberate destruction of certain materials did take 
+place, a subject I discuss later in this essay.
+5. After the fall of the Qing dynasty (1912), many printed books, some from as early as the Song dynasty 
+(960-1279), were also discovered in the Grand Secretariat archives.
+6. Maurice Halbwachs, The Collective Memory, trans. Francis J. Ditter and Vida Yazdi Ditter (French 
+edition, 1950; New York: Harper & Row, 1980), passim; see also Paul Connerton, How Societies 
+Remember (French edition, 1950; New York: Cambridge University Press, 1989), 1 and passim.
+7. For example, Charles S. Maier, The Unmasterable Past: History, Holocaust, and German National 
+Identity (Cambridge, Mass.: Harvard University Press, 1988), 149.
+8. Laura Hein and Mark Selden, “The Lessons of War, Global Power, and Social Change,” in Laura Hein 
+and Mark Selden, eds., Censoring History: Citizenship and Memory in Japan, Germany, and the United 
+States (Armonk, N.Y.: M. E. Sharpe, 2000), 3-50. Western historians of China have not dealt much with 
+questions of memory, but when they do, the focus is usually on twentieth-century events such as the 
+Nanjing Massacre and the Cultural Revolution. See, for example, Vera Schwarcz, “How to Make Time 
+Real: From Intellectual History to Embodied Memory,” in Gail Hershatter et al., eds., Remapping China: 
+Fissures in Historical Terrain (Stanford: Stanford University Press, 1996), 13-24, and Schwarcz's “The 
+Burden of Memory: The Cultural Revolution and the Holocaust,” China Information 11, no. 1 (summer 
+1996): 1-12.
+9. My focus on the Qing rather than archival policy through all of China's dynastic history is largely due to 
+the fact that few original documents survive for dynasties before the Qing. For instance, about five thousand 
+archival items survive for the Ming period (1368-1643), whereas the figure commonly given for Qing 
+holdings is approximately 10 million items (Qingzhu Zhongguo diyi lishi dang'anguan chengli liushi 
+zhounian, 1925-1985 [Felicitations to the Number One Historical Archives of China on the sixtieth 
+anniversary of its founding, 1925-1985] [Beijing, 1985], 9). Note that the latter is only a very general figure: 
+it enumerates materials only at the Number One and does not differentiate between a single “item” of three 
+lines and a six-hundred-page record book, also rated a single “item.” Yet the six-hundred-page album might 
+contain as many as five hundred separate documents.
+10. One kind of formal and not very descriptive personnel evaluation (the kaoyudan) was stored in the outer 
+court.
+11. Before the Qing inner-court system was developed, there was a way of holding secret documents in the 
+outer-court vaults known as the Grand Secretariat Great Treasury (Neige daku). Such documents were 
+specially labeled “secret” in the Great Treasury logbook, the “Record of Silken [i.e., imperial] Words” 
+(Silunbu ). Once the inner-court system was developed, however, the designation “secret” only rarely 
+appeared in these outer-court logbooks.
+12. I described the Qing outer and inner courts in Monarchs and Ministers, chap. 1 and passim. After the 
+Kangxi reign (1661-1722), the inner-court repositories were generally used for documents that may be 
+
+described as consisting of unofficial memory.
+13. Unfortunately, as a result of the civil wars that have beset China in recent centuries, local archives have 
+survived much less well than those of the central government. Frequently a local archive's holdings date not 
+from the beginning of the dynasty but only near the end, and even then contain only a few documents from 
+before the twentieth century. For a highly useful bibliography of descriptions of the local archives of China, 
+see Ye Wa and Joseph W. Esherick, comps., Chinese Archives: An Introductory Guide (Berkeley: 
+University of California Institute for East Asian Studies, 1995).
+14. In fact, in recent years Chinese archivists and historians have investigated old libraries and other 
+holdings and have located a few lesser-known works.
+15. L. Carrington Goodrich, “Cha Ssu-t'ing” (Ja Siting), in Eminent Chinese of the Ch'ing Period
+(Washington, D.C.: U.S. Government Printing Office, 1944), 22. The quotation comes from the Chinese 
+classic, The Great Learning (chap. 3, 1). There is nothing in the original text to suggest sedition. See The 
+Chinese Classics, trans. James Legge (reprint, Tabei: Wenxing Shudian, 1966), 1:362.
+16. Even when government officials' private papers have been published, they rarely reveal confidential 
+information of any kind. An example from my own research on the founding of the Qing Grand Council 
+(the equivalent of a central government high privy council) is the autobiography of Zhang Tingyu, a Qing 
+statesman closely involved in the council's founding and early growth. His autobiography reports hardly a 
+word about the great event, and in some respects may be viewed as deliberately misleading, yet this key 
+official certainly must have been well informed on the subject. See Chenghuaiyuan zhuren ziding nianpu
+[Chronological autobiography of [Zhang Tingyu]], 6 juan, preface dated 1749 (reprint, 2 vols., Taibei: 
+Wenhai, 1970).
+17. TPM, Palace Memorial YZ 016212 and enclosure, YZ2/8/7 (Sept. 23, 1724), Chen Shiguan. I am 
+indebted to Professor Frederick W. Mote of Princeton University for identifying the depicted bugs as 
+grasshoppers when I showed a slide of the document in the course of speaking at Princeton in 1979. 
+Professor Mote assured me that plagues of grasshoppers as well as locusts do occur. The covering memorial 
+has been published in Gongzhongdang Yongzhengchao Zouzhe [Palace memorials of the Yongzheng reign] 
+(Taibei: Palace Museum, 1977), 3:24-26, but without its very interesting enclosure.
+18. In fact, such booklets explaining some of the Qing government's archival practices are held in the 
+Beijing Number One Historical Archives. Unfortunately, however, these guides are silent on many of the 
+subjects of interest in this essay. Additional explanations most often appear in memoranda (zou-pian ) 
+addressed to the emperor and composed by high statesmen, archivists, and historians. By the early 
+nineteenth century one such manual of prescriptions for Grand Council practice had been printed: Shuyuan 
+jilue [Materials on Grand Council history], comp. Liang Zhangju (reprint, 2 vols., Taibei: Wenhai, 1967). 
+The archives also contain earlier, unpublished rule books: see for example the record book held in the 
+Beijing Page 425 → Number One Historical Archives, “Junjichu guizhu jizai” [Notations of Grand Council 
+regulations] and TPM, “Junjichu wenyi dang” [Record book of Grand Council lateral communications 
+[dispatched from the council's archives office]].
+19. TPM, handwritten imperial rescript (excerpt) on the yellow summary (tiehuang ) for Palace Memorial 
+YZ 018965, YZ 7/10/28 (Dec. 18, 1729), Futai. The document was first circulated in the Yongzheng Zhupi 
+yuzhi [Vermilion rescripts [and palace memorials] of the Yongzheng [emperor]], first appearing in an 
+experimental edition printed in 1732.
+20. For a table explaining these structures, see Monarchs and Ministers, 18-19.
+21. Calculation from Monarchs and Ministers, 172.
+22. “Memorial” is a nineteenth-century translation of the Chinese term for “report to the throne.”
+23. Edicts first appeared in collections such as the “Yongzheng Shangyu Neige” [[Open] edicts to the Grand 
+Secretariat] and “Baqi Shangyu” [Edicts to the Eight Banners].
+24. On this work see my “The Secret Memorials of the Yung-cheng Period (1723-1735): Archival and 
+Published Versions,” [Taibei] National Palace Museum Bulletin 9, no. 4 (Sept.-Oct. 1974).
+25. TPM, Palace Memorial YZ 021955, YZ1/2/16 (Mar. 22, 1723), Board of Civil Office report. In fact, 
+nearly all memorials from officials posted at the capital were put in the prohibited category. This memorial 
+has recently been published in Gongzhongdang Yongzhengchao Zouzhe [Palace memorials of the 
+Yongzheng reign] (Taibei: Palace Museum, 1977), 1:90. The emperor's Manchu rescript, omitted from this 
+edition (this was the museum's editorial policy for all Manchu rescripts), stated that the 116 second-class 
+
+candidates should be sent for a further year of training to see if they might qualify.
+26. When I made a close study of the Yongzheng government, I paid particular attention to the reports in the 
+“prohibited” category. This can best be accomplished in the Taibei Palace Museum, whose card catalog 
+provides this information as well as records of provenance for Yongzheng palace memorials. Long ago the 
+Beijing Number One Historical Archives refiled its palace memorials according to eighteen large subject 
+categories, a labor that also destroyed the documents' provenance.
+27. TPM, Palace Memorial YZ 011817, undated, Xu Rong. The memorial can be dated approximately by 
+examining the surrounding memorials in Xu Rong's archival packet, which bear the dates YC7/R7/9 
+(Sept.1, 1729) and YZ8/1/26 (Mar. 14, 1730).
+28. See for example TPM, Palace Memorial YZ 019792, undated, Yinxiang and others, printed in 
+Gongzhongdang Yongzhengchao Zouzhe 26:259. The imperial rescript that largely incorporated the high 
+officials' recommendations appears in YZ 008880, YZ7/4/[no day] (1729), Yang Kun, and was published in 
+the Palace Museum's Yongzheng palace memorials (13:102). The Taibei Palace Museum has many such 
+pairs from the Yongzheng period. A different system for providing the emperor with advice was developed 
+under the Qian-long emperor (r. 1736-95).
+29. The Taibei Palace Museum's excellent memorial card files for the Yongzheng palace memorials include 
+information on the publication status of each memorial—that is, their yilu, weilu, and bulu categorizations.
+30. TPM, handwritten vermilion comment on Palace Memorial YZ 011573, YZ7/9/17 (Nov. 7, 1729), 
+Maizhu. There are several such Yongzheng rescripts suggesting an imperial willingness to operate beyond 
+regulations.
+31. TPM, imperial marginalia on Palace Memorial YZ 011676, YZ13/7/15 (Sept. 1, 1735), Maizhu.
+32. TPM, imperial marginalia on Palace Memorial YZ 011822, undated slip lacking author identification. It 
+is reassuring to know that Yongzheng sometimes waxed enthusiastic about subordinates, as when he wrote 
+in this same document of a circuit intendant: “. . . I can completely vouch for him. You must not be hard on 
+him, he is someone who will work hard. Tell him what I have said.”
+33. TPM, Palace Memorial YZ 008020, YZ13/2/9 (Mar. 3, 1735). Publication of the circulated memorial 
+cited here was in the Yongzheng Zhupi yuzhi (see n. 19).
+34. A notation to this effect would have been inscribed in the inner-court logbook, picturesquely known as 
+“Register for Keeping Up with Matters as They Come to Hand” [Suishou dengji . On this record book, see 
+my “Ch'ing Documents in the National Palace Museum Archives: Document Registers: The Sui-shou 
+tengchi,” [Taibei] National Palace Museum Bulletin 10, no. 4 (Sept.-Oct. 1975).
+35. Jiaqing Shilu 24/19a-20a, JQ2/11/24 (Jan. 10, 1798). Although only the word jiapien was employed, the 
+rest of the passage shows that the enclosures of imperial concern contained secret information. There are 
+other uses of the term jiapian.
+36. See Susan Naquin, Millenarian Rebellion in China: The Eight Trigrams Uprising of 1813 (New Haven: 
+Yale University Press, 1976). See also Naquin's “True Confessions: Criminal Interrogations as Sources for 
+Ch'ing History,” [Taibei] National Palace Museum Bulletin 11, no. 1 (Mar.-Apr. 1976): 1-14 plus 
+frontispiece. Confessions were not always handled uniformly. Some of this type of information arrived in 
+the memorials themselves (zhengben ), some in enclosures.
+37. See Philip A. Kuhn and John K. Fairbank, with the assistance of Beatrice S. Bartlett and Chiang Yung-
+chen, Reading Documents: The Rebellion of Chung Jen-chieh, 2 vols. (Cambridge, Mass.: Harvard 
+University John King Fairbank Center for East Asian Research, 1986; rev. ed., 1993), 17. I thank Professor 
+Kuhn for this insight, which I first encountered when, as a postdoctoral fellow, I participated in his Qing 
+documents class at Harvard in 1981-83.
+38. Alfred Kühn, “Chang Kuangssu” (Zhang Guangsi), in Eminent Chinese of the Ch'ing Period
+(Washington, D.C.: U.S. Government Printing Office, 1944), 43-45.
+39. This would be the Yifu dang  for QL14 (1749).
+40. See the Grand Council archival inventory (Beijing Number One Historical Archives #2258), “Han Junji 
+dang'an zongce,” passim. The last item inventoried is dated QL55 (1790), which suggests an inventory done 
+in QL56 (1791), but the record also breaks in the middle with a last middle item of QL42 (1777), suggesting 
+an inventory carried out in QL43 (1778).
+41. Noqin was a distant imperial connection and had been a trusted member of the Grand Council, so the 
+emperor may all the more keenly have despaired at the news of the military defeat.
+42. These were known as “Memorials of Deliberation in Response [to the imperial order]” (yifu zouzhe ). 
+
+Such Page 426 → discussions were usually carried out by grand councillors, but were sometimes done in 
+conjunction with a board or other group.
+43. There were some exceptions to this pattern, but the fact of the many imperial requests for more than one 
+position certify that in the Yongzheng and for most of the Qianlong reign the unanimity rule prevailed. See 
+an instance of the Yongzheng emperor's desperate attempt to divide his officials so that he might decide a 
+case: “If [the deliberating officials] are unable to come to a unanimous position, there is no objection to 
+[their producing] two recommendations, or three recommendations—all are permissible.” TPM, Palace 
+Memorial YZ 020204, YZ2/6/8 (July 27, 1724), imperial rescript on the envelope of a Gao Chengling 
+memorial. The issue here was the particularly vexing one of condemning men to death.
+44. We know of other kinds of purposeful destruction of materials by Qing archivists. Sometimes when the 
+storage vaults became too crowded, documents regarded as nonessential might be burned to make space for 
+newcomers. This happened more in the Grand Secretariat than in the Grand Council archives. For an early 
+example see Gongzhongdang Kangxichao zouzhe [Palace memorials of the Kangxi reign] (Taibei: Palace 
+Museum, 1976), vol. 8, Manwen yuzhi [Manchu documents], 14-17, document of KX16/3/10 (April 21, 
+1677).

@@ -1,0 +1,80 @@
+{
+  "stance": "Focused course problem-solution essay based on assigned readings, not an exhaustive literature review.",
+  "scope": "University students: separation from home, disrupted class relationships, academic pressure and uncertainty about future careers; maintaining familiar relationships, developing hobbies, and volunteering or internships.",
+  "external_search": "None: assigned full texts and reference metadata supplied locally.",
+  "sources": [
+    {
+      "id": "Quinn2025",
+      "file": "Assignment_Guidelines_export/2. Reducing Loneliness on College Campuses_Psych Today.pdf",
+      "sha256": "3d8c6fa5e099fbb877689b22ac5bbebb5a13a1bf19f897f2c2f46ef5a1dc4970",
+      "locator": "pp. 1–2: distinction between social isolation and loneliness; fitting in versus belonging",
+      "role": "Definition and relationship quality; expert commentary rather than an intervention trial."
+    },
+    {
+      "id": "Ellard2023",
+      "file": "Assignment_Guidelines_export/5. Addressing loneliness amongst university students.pdf",
+      "sha256": "377b070af150b2768101d20e1506200bb09d11ccec828e9c603e36c8d1fa80a1",
+      "locator": "pp. 512–513, 517–519",
+      "role": "Systematic review: transition pressures, reported mental health associations, social connectedness interventions, stigma and uncertain lasting effects."
+    }
+  ],
+  "claim_map": [
+    {
+      "paragraph": 1,
+      "claim": "Unmet needs for connection and belonging, beyond physical isolation.",
+      "source": "Quinn2025",
+      "locator": "pp. 1–2"
+    },
+    {
+      "paragraph": 2,
+      "claim": "University transition involves academic and social pressures; the paragraph now progresses through context, question, solution and conclusion.",
+      "source": "Ellard2023; student reasoning",
+      "locator": "p. 513, Background; user comments 21 October 2026",
+      "limit": "Class stability and career uncertainty remain qualified student interpretations."
+    },
+    {
+      "paragraph": 3,
+      "claim": "Social connectedness interventions show promise; magnitude of benefits unclear.",
+      "source": "Ellard2023",
+      "locator": "p. 512, Abstract; pp. 517–518, Discussion",
+      "limit": "Calls to family and hobby examples are student proposals; the paper is not claimed to have tested those exact activities."
+    },
+    {
+      "paragraph": 4,
+      "claim": "Interventions promoting social interaction show promise in reducing student loneliness.",
+      "source": "Ellard2023",
+      "locator": "p. 512, Abstract; pp. 517–518, Discussion",
+      "limit": "Volunteering and internships are introduced as applications of the general principle, not interventions specifically tested by this review. Career exploration and skill development remain conditional student suggestions."
+    }
+  ],
+  "screening": [
+    {
+      "resource": 1,
+      "decision": "Background only",
+      "reason": "Global public health scope exceeds the chosen student-belonging focus."
+    },
+    {
+      "resource": 2,
+      "decision": "Included",
+      "reason": "Directly discusses university belonging and relationship quality."
+    },
+    {
+      "resource": 3,
+      "decision": "Background only",
+      "reason": "Technology and living alone do not directly address the chosen campus programme."
+    },
+    {
+      "resource": 4,
+      "decision": "Background only",
+      "reason": "Shared lunches are an illustrative activity, without importing meal-sharing health claims."
+    },
+    {
+      "resource": 5,
+      "decision": "Included",
+      "reason": "Provides full-text synthesis of university loneliness interventions and their limitations."
+    }
+  ],
+  "contrary_or_limits": "Uncertain benefit magnitude is retained in paragraph 3. The review also finds uncertain persistence; no lasting cure is claimed. Excessive practical commitments may add pressure.",
+  "citation_delta": "Added an in-text Ellard et al. (2023) citation to paragraph 4 with an explicit evidence-to-application transition. No bibliography entries added or removed.",
+  "student_input": "User reasoning supplied on 20 October 2026 governs all three responses and the argument about changing classmates and career uncertainty. No personal experience was invented."
+}

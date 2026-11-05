@@ -1,0 +1,4 @@
+project_id = "dunhuang-in-motion"
+
+[functions.dunhuang-discussion]
+verify_jwt = false

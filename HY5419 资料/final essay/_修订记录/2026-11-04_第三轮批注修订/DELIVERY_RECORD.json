@@ -1,0 +1,131 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5419-dunhuang-essay-20261104-round3",
+  "state": "candidate",
+  "content_authority": "批注原稿备份.docx with five latest user comments; official IDP About page for one added context paragraph.",
+  "format_authority": "Current annotated Word original; existing styles, fields, figures and APA reference formatting preserved.",
+  "synchronization_direction": "word-to-markdown",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "essay-round3",
+      "role": "candidate",
+      "path": "修订候选.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "requested_output_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_中文稿.docx",
+        "requested_output_byte_identical": true,
+        "preview_evidence": {
+          "path": "visual-check.json",
+          "sha256": "568e66fb016828f723c1870253d9e8a75744b00727804d6059e0955c548d9fea"
+        },
+        "baseline_sha256": "ac1931155845d6d7945f9248af46d9d2ceb9642be654ec552ddb70b0b0000748"
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "essay-round3",
+      "artifact_sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+      "performed_at": "2026-11-04T12:47:22.433792+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "content-check.json",
+        "sha256": "b976acb43d52635545bb1479f7f786b94bd1ad19228065fe02d259322333a39f",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "essay-round3",
+      "artifact_sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+      "performed_at": "2026-11-04T12:47:22.433792+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "package-check.json",
+        "sha256": "99885a5d895ba751deea6ca78d440d89e764d08c3ee2c666992067c6a7f74b16",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer.",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "unavailable",
+      "artifact_id": "essay-round3",
+      "artifact_sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+      "performed_at": "2026-11-04T12:47:22.433792+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "native-check.json",
+        "sha256": "27e04991d737ba9706b0a1ff7c1c25b375ef815a3b21fc46bc7cd7a3c8a7b33d",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Native Word unavailable; separate ten-page proxy preview inspected.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "essay-round3",
+      "artifact_sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+      "performed_at": "2026-11-04T12:47:22.433792+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "delivery-package-check.json",
+        "sha256": "9c51c00696afaa16ba3ec717020cfebdca423d233805786c45e7a06ad4023e82",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer.",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "essay-round3"
+  ],
+  "invalidated_checks": [
+    "All previous-draft content and rendering checks superseded by this revision."
+  ],
+  "unresolved_risks": [
+    "Native Word verification unavailable; current proxy preview has been inspected."
+  ],
+  "next_action": "User reviews the revised original in Microsoft Word and confirms native layout before submission.",
+  "extensions": {
+    "adjudication_file": "批注处理.json",
+    "linked_previous_revision": "2026-11-04_第二轮批注修订",
+    "backup_file": "批注原稿备份.docx"
+  }
+}

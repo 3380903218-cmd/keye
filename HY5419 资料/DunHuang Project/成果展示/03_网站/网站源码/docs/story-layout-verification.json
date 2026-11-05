@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-29",
+  "version": "2.0.0",
+  "url": "http://localhost:8780/",
+  "checks": [
+    {
+      "name": "initial guided views 320/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 320/en",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 320/en",
+      "passed": true
+    },
+    {
+      "name": "large reading text 320/en",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 320/en",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 320/en",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 320/en",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 320/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 320/zh",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 320/zh",
+      "passed": true
+    },
+    {
+      "name": "large reading text 320/zh",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 320/zh",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 320/zh",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 320/zh",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 390/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 390/en",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 390/en",
+      "passed": true
+    },
+    {
+      "name": "large reading text 390/en",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 390/en",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 390/en",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 390/en",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 390/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 390/zh",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 390/zh",
+      "passed": true
+    },
+    {
+      "name": "large reading text 390/zh",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 390/zh",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 390/zh",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 390/zh",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 768/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 768/en",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 768/en",
+      "passed": true
+    },
+    {
+      "name": "large reading text 768/en",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 768/en",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 768/en",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 768/en",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 768/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 768/zh",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 768/zh",
+      "passed": true
+    },
+    {
+      "name": "large reading text 768/zh",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 768/zh",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 768/zh",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 768/zh",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 1440/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1440/en",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 1440/en",
+      "passed": true
+    },
+    {
+      "name": "large reading text 1440/en",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 1440/en",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 1440/en",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 1440/en",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "large reading text 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 1920/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1920/en",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 1920/en",
+      "passed": true
+    },
+    {
+      "name": "large reading text 1920/en",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 1920/en",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 1920/en",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 1920/en",
+      "passed": true
+    },
+    {
+      "name": "initial guided views 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "three chapters and five collections 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "large reading text 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "one main title and language 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "advanced controls collapsed 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "language and selection retained 1920/zh",
+      "passed": true
+    },
+    {
+      "name": "route pelliot",
+      "passed": true
+    },
+    {
+      "name": "route qing",
+      "passed": true
+    },
+    {
+      "name": "route all",
+      "passed": true
+    },
+    {
+      "name": "route stein",
+      "passed": true
+    },
+    {
+      "name": "current holdings view",
+      "passed": true
+    },
+    {
+      "name": "knowledge map layer",
+      "passed": true
+    },
+    {
+      "name": "1900 map stage",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data",
+      "passed": true
+    },
+    {
+      "name": "London cataloguing guided view",
+      "passed": true
+    },
+    {
+      "name": "telegram guided view",
+      "passed": true
+    },
+    {
+      "name": "global search exits limited guide",
+      "passed": true
+    },
+    {
+      "name": "physical network layer",
+      "passed": true
+    },
+    {
+      "name": "knowledge network layer",
+      "passed": true
+    },
+    {
+      "name": "keyboard node selection",
+      "passed": true
+    },
+    {
+      "name": "telegram links to map",
+      "passed": true
+    },
+    {
+      "name": "event to route integration",
+      "passed": true
+    },
+    {
+      "name": "institution to map integration",
+      "passed": true
+    },
+    {
+      "name": "map presentation mode",
+      "passed": true
+    },
+    {
+      "name": "network presentation mode",
+      "passed": true
+    },
+    {
+      "name": "original GEXF download available",
+      "passed": true
+    },
+    {
+      "name": "no JavaScript errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "core exhibition has no third-party requests",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "externalRequests": []
+}

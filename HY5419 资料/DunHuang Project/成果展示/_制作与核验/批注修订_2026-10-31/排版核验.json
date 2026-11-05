@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "native_report": "修订完成Word核验.json",
+  "native_source_hash": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "native_open": "passed",
+  "native_app": "16.114.1",
+  "source_unchanged": true,
+  "pdf": "修订完成排版.pdf",
+  "pdf_sha256": "3593a675bc5d7627456ba0be2897946827bd20ebc888c89046f001bbba424ab3",
+  "pages": 7,
+  "visual_reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "visual_checks": [
+    "No blank pages",
+    "No clipped text or overlapping lines",
+    "All bilingual pairs legible",
+    "Timing table fits margins",
+    "Optional Excel cue stays with the methods section",
+    "StoryMaps closing and fallback fit together",
+    "Resolved comment balloons hidden in the normal reading render"
+  ],
+  "export_mode": "Per-document print revisions and review display disabled in the read-only native Word session; no global print preferences changed."
+}

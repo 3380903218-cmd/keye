@@ -1,0 +1,7 @@
+HTTP Status 400 – Bad Request
+HTTP Status 400 – Bad Request
+Type
+Status Report
+Description
+The server cannot or will not process the request due to something that is perceived to be a client error (e.g., malformed request syntax, invalid request message framing, or deceptive request routing).
+Apache Tomcat/7.0.109

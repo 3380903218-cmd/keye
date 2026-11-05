@@ -1,0 +1,18 @@
+{
+  "artifact_sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+  "status": "passed",
+  "office_package": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx",
+    "sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+    "xml_parts_checked": 18,
+    "issues": [],
+    "read_errors": [],
+    "status": "passed",
+    "package_errors": [],
+    "external_relationships": 0
+  },
+  "namespace_check_sha256": "a0c543a2cd9be7a4b7fb2a8504303b475adeff7904bef13cd6c856ecca6819ac",
+  "audit_sha256": "f087ae0e8e24956196160aa44d59c671fb8a89cd1c57e7892aae79b110b33b39",
+  "review_markup": "all four addressed comments and associated parts removed; no tracked changes",
+  "footnotes": "five references preserved; removed only classroom-notes reference six"
+}

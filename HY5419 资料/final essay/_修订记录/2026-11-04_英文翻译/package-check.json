@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "performed_at": "2026-11-04T23:30:50.414619+08:00",
+  "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+  "zip_and_xml_parse": true,
+  "preserved_media": {
+    "word/media/image1.png": "ae2a34b8fea6c96dd52929ed38b4f88c50a6b16f32001248c55a75e1891ca2c5",
+    "word/media/image2.png": "b7db708b97f90f246b5e994360f97ecd4f26ad64cf3411cfe8424ef283c0b9ed"
+  },
+  "footer_and_fields_preserved": true,
+  "styles_preserved": true,
+  "comments": 0,
+  "revisions": 0,
+  "drawings": 2,
+  "source_and_output_doi_sets_equal": true,
+  "reference_hanging_indent_and_double_spacing": true
+}

@@ -1,0 +1,226 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T20:12:05Z",
+      "timestamp": 1791835925073,
+      "version": "4.3.4"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1093/ahr/122.2.400",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2017-04-13T09:13:27Z",
+      "timestamp": 1492074807000
+    },
+    "page": "400-424",
+    "source": "Crossref",
+    "is-referenced-by-count": 66,
+    "title": [
+      "Historical Research in a Digital Age: Reflections from the Mapping the Republic of Letters Project"
+    ],
+    "prefix": "10.1093",
+    "volume": "122",
+    "author": [
+      {
+        "given": "Dan",
+        "family": "Edelstein",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paula",
+        "family": "Findlen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giovanna",
+        "family": "Ceserani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Caroline",
+        "family": "Winterer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicole",
+        "family": "Coleman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          30
+        ]
+      ]
+    },
+    "container-title": [
+      "The American Historical Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/ahr/article-pdf/122/2/400/25736565/zah400.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2018-09-14T20:07:29Z",
+      "timestamp": 1536955649000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/ahr/article/122/2/400/3096208"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          30
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            3,
+            30
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            4,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/ahr/122.2.400",
+    "relation": {},
+    "ISSN": [
+      "0002-8762",
+      "1937-5239"
+    ],
+    "issn-type": [
+      {
+        "value": "0002-8762",
+        "type": "print"
+      },
+      {
+        "value": "1937-5239",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          30
+        ]
+      ]
+    }
+  }
+}

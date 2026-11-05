@@ -1,0 +1,47 @@
+﻿批次,日期,后端,动作,查询或入口,目的与修正,原始记录
+1,2026-09-22,内置web工具,search_query,"{""q"": ""site.nlc.cn 敦煌 遗书 1910 运京 学部 接收""}",北京运京、伦敦到馆、法国接收入口,sources/search_01.json
+1,2026-09-22,内置web工具,search_query,"{""q"": ""Stein manuscripts British Museum 1909 arrived cases 1908 1909""}",北京运京、伦敦到馆、法国接收入口,sources/search_01.json
+1,2026-09-22,内置web工具,search_query,"{""q"": ""\""敦煌\"" \""学部\"" \""解京\""""}",北京运京、伦敦到馆、法国接收入口,sources/search_01.json
+1,2026-09-22,内置web工具,search_query,"{""q"": ""\""Pelliot\"" \""1909\"" \""Bibliothèque nationale\"" manuscrits entrée""}",北京运京、伦敦到馆、法国接收入口,sources/search_01.json
+2,2026-09-22,内置web工具,search_query,"{""q"": ""\""百年前的一桩公案\"" 敦煌 荣新江""}",沿引用查中文档案和伦敦整理史；最初检索作者联想为荣新江，后核实S19作者为方广锠,sources/search_02.json
+2,2026-09-22,内置web工具,search_query,"{""q"": ""\""敦煌\"" \""学部\"" \""八千\"" \""宣统\""""}",沿引用查中文档案和伦敦整理史；最初检索作者联想为荣新江，后核实S19作者为方广锠,sources/search_02.json
+2,2026-09-22,内置web工具,search_query,"{""q"": ""\""Stein papers\"" \""1909\"" \""January\"" museum Helen Wang pdf""}",沿引用查中文档案和伦敦整理史；最初检索作者联想为荣新江，后核实S19作者为方广锠,sources/search_02.json
+2,2026-09-22,内置web工具,search_query,"{""q"": ""\""Dunhuang textiles in London\"" pdf""}",沿引用查中文档案和伦敦整理史；最初检索作者联想为荣新江，后核实S19作者为方广锠,sources/search_02.json
+2,2026-09-22,内置web工具,open,"{""ref_id"": ""https://www.nlc.cn/pcab/zx/xw/20200416_191121.shtml""}",沿引用查中文档案和伦敦整理史；最初检索作者联想为荣新江，后核实S19作者为方广锠,sources/search_02.json
+2,2026-09-22,内置web工具,open,"{""ref_id"": ""https://ueaeprints.uea.ac.uk/id/eprint/76988/""}",沿引用查中文档案和伦敦整理史；最初检索作者联想为荣新江，后核实S19作者为方广锠,sources/search_02.json
+2,2026-09-22,内置web工具,open,"{""ref_id"": ""https://www.persee.fr/doc/befeo_0336-1519_1908_num_8_1_4297""}",沿引用查中文档案和伦敦整理史；最初检索作者联想为荣新江，后核实S19作者为方广锠,sources/search_02.json
+3,2026-09-22,内置web工具,search_query,"{""q"": ""\""百年前的一桩公案\"" filetype:pdf""}",中文原刊PDF、Stein档案目录和法国机构记录,sources/search_03.json
+3,2026-09-22,内置web工具,search_query,"{""q"": ""\""Catalogue of the Sir Aurel Stein papers\"" pdf""}",中文原刊PDF、Stein档案目录和法国机构记录,sources/search_03.json
+3,2026-09-22,内置web工具,search_query,"{""q"": ""site.nlc.cn \""学部\"" \""何彦升\""""}",中文原刊PDF、Stein档案目录和法国机构记录,sources/search_03.json
+3,2026-09-22,内置web工具,search_query,"{""q"": ""site.dha.ac.cn \""百年前\"" \""公案\""""}",中文原刊PDF、Stein档案目录和法国机构记录,sources/search_03.json
+3,2026-09-22,内置web工具,open,"{""ref_id"": ""https://www.persee.fr/doc/befeo_0336-1519_1908_num_8_1_4297"", ""lineno"": 20}",中文原刊PDF、Stein档案目录和法国机构记录,sources/search_03.json
+3,2026-09-22,内置web工具,open,"{""ref_id"": ""https://agorha.inha.fr/ark%3A/54721/85f38a16-31af-4757-8f53-eb7371821cb0""}",中文原刊PDF、Stein档案目录和法国机构记录,sources/search_03.json
+3,2026-09-22,内置web工具,open,"{""ref_id"": ""https://www.nlc.cn/pcab/zx/xw/20200416_191121.shtml"", ""lineno"": 10}",中文原刊PDF、Stein档案目录和法国机构记录,sources/search_03.json
+4,2026-09-22,内置web工具,search_query,"{""q"": ""\""Stein\"" \""CE32/23/5\""""}",具体档案号与方广锠原刊；机构扫描库入口,sources/search_04.json
+4,2026-09-22,内置web工具,search_query,"{""q"": ""\""Sir Aurel Stein\"" \""2004\"" \""37-62\"" pdf""}",具体档案号与方广锠原刊；机构扫描库入口,sources/search_04.json
+4,2026-09-22,内置web工具,search_query,"{""q"": ""\""敦煌\"" \""学部\"" \""何彦升\"" \""1910\"" \""档案\""""}",具体档案号与方广锠原刊；机构扫描库入口,sources/search_04.json
+4,2026-09-22,内置web工具,search_query,"{""q"": ""\""百年前的一桩公案\"" 方广锠 敦煌研究 2009 64""}",具体档案号与方广锠原刊；机构扫描库入口,sources/search_04.json
+4,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/""}",具体档案号与方广锠原刊；机构扫描库入口,sources/search_04.json
+4,2026-09-22,内置web工具,open,"{""ref_id"": ""https://www.fjdh.cn/wumin/2010/12/071837135094.html""}",具体档案号与方广锠原刊；机构扫描库入口,sources/search_04.json
+4,2026-09-22,内置web工具,open,"{""ref_id"": ""https://heritage.bnf.fr/france-chine/paul-pelliot-1878-1945-et-dunhuang""}",具体档案号与方广锠原刊；机构扫描库入口,sources/search_04.json
+5,2026-09-22,内置web工具,search_query,"{""q"": ""site.dsr.nii.ac.jp/toyobunko Serindia 825""}",Stein具体页码及中文原刊继续检索,sources/search_05.json
+5,2026-09-22,内置web工具,search_query,"{""q"": ""\""百年前的一桩公案\"" \""敦煌研究\"" site.cnki.net""}",Stein具体页码及中文原刊继续检索,sources/search_05.json
+5,2026-09-22,内置web工具,search_query,"{""q"": ""\""Dunhuang Textiles\"" \""19_Wang\""""}",Stein具体页码及中文原刊继续检索,sources/search_05.json
+5,2026-09-22,内置web工具,search_query,"{""q"": ""site.nlc.cn \""1910年11月\"" \""敦煌\""""}",Stein具体页码及中文原刊继续检索,sources/search_05.json
+6,2026-09-22,内置web工具,search_query,"{""q"": ""\""百年前的一桩公案\"" \""dh\""""}",机构全文与Pelliot1910扫描库,sources/search_06.json
+6,2026-09-22,内置web工具,search_query,"{""q"": ""\""敦煌研究\"" \""2009\"" \""方广锠\"" \""公案\"" pdf""}",机构全文与Pelliot1910扫描库,sources/search_06.json
+6,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/""}",机构全文与Pelliot1910扫描库,sources/search_06.json
+6,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/""}",机构全文与Pelliot1910扫描库,sources/search_06.json
+6,2026-09-22,内置web工具,open,"{""ref_id"": ""https://nclfile.ncl.edu.tw/nclhistory/public/Data/5102716244471.pdf""}",机构全文与Pelliot1910扫描库,sources/search_06.json
+6,2026-09-22,内置web工具,open,"{""ref_id"": ""https://ueaeprints.uea.ac.uk/id/eprint/76988/1/Accepted_Manuscript.pdf""}",机构全文与Pelliot1910扫描库,sources/search_06.json
+7,2026-09-22,内置web工具,search_query,"{""q"": ""\""Serindia\"" \""vol.2\"" \""dsr.nii.ac.jp\""""}",核对书目及中文录文线索,sources/search_07.json
+7,2026-09-22,内置web工具,search_query,"{""q"": ""\""敦煌\"" \""学部行文\"" \""图\""""}",核对书目及中文录文线索,sources/search_07.json
+7,2026-09-22,内置web工具,search_query,"{""q"": ""\""百年前的一桩公案\"" \""期刊\""""}",核对书目及中文录文线索,sources/search_07.json
+7,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/"", ""lineno"": 1}",核对书目及中文录文线索,sources/search_07.json
+7,2026-09-22,内置web工具,find,"{""ref_id"": ""https://nclfile.ncl.edu.tw/nclhistory/public/Data/5102716244471.pdf"", ""pattern"": ""方廣""}",核对书目及中文录文线索,sources/search_07.json
+7,2026-09-22,内置web工具,find,"{""ref_id"": ""https://ueaeprints.uea.ac.uk/id/eprint/76988/"", ""pattern"": ""Whitfield""}",核对书目及中文录文线索,sources/search_07.json
+8,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/"", ""lineno"": 23}",核对1910报告机构题录,sources/search_08.json
+9,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/page/0301.html.en""}",核对卷级扫描入口与中文PDF,sources/search_09.json
+9,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/""}",核对卷级扫描入口与中文PDF,sources/search_09.json
+9,2026-09-22,内置web工具,open,"{""ref_id"": ""https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/V-1/""}",核对卷级扫描入口与中文PDF,sources/search_09.json
+9,2026-09-22,内置web工具,open,"{""ref_id"": ""https://www.nlc.cn/upload/attachments/2023-01-31/7f8581ea.pdf""}",核对卷级扫描入口与中文PDF,sources/search_09.json

@@ -1,0 +1,5 @@
+﻿PlaceId,Label,LabelZH,Longitude,Latitude,CRS,PointRole,Precision,SourceURL,Note,MapUse,AuthorityId,ReferenceFor,SourceId
+PL_BM_REF,British Museum (premises reference),英国博物馆（建筑参考）,-0.1267051,51.5193118,EPSG:4326,现代建筑参考／历史候选,建筑标注／中心参考；非交接房间,https://www.openstreetmap.org/relation/177044,现代建筑位置查询成功，但当年具体交接／整理行动与此址的对应仍待证。,candidate_off,OSM relation/177044,PL_BM_HIST,R09
+PL_NHM_REF,Natural History Museum (candidate venue),自然史博物馆（待核线索）,-0.1760019,51.4965109,EPSG:4326,现代建筑参考／历史候选,建筑标注／中心参考；非交接房间,https://www.openstreetmap.org/way/24436446,现代建筑位置查询成功，但当年具体交接／整理行动与此址的对应仍待证。,candidate_off,OSM way/24436446,,R09
+PL_BNF_REF,BnF Richelieu (premises reference),法国国家图书馆Richelieu（场址参考）,2.3381642,48.8672823,EPSG:4326,现代建筑参考／历史候选,建筑标注／中心参考；非交接房间,https://www.openstreetmap.org/relation/545655,现代建筑位置查询成功，但当年具体交接／整理行动与此址的对应仍待证。,candidate_off,OSM relation/545655,PL_BN_HIST,R09
+PL_GUANGHUASI_REF,Guanghua Temple (candidate venue),广化寺（1910接收场址待核）,116.384606,39.9398918,EPSG:4326,现代建筑参考／历史候选,建筑标注／中心参考；非交接房间,https://www.openstreetmap.org/way/929752805,现代建筑位置查询成功，但当年具体交接／整理行动与此址的对应仍待证。,candidate_off,OSM way/929752805,PL_JINGSHI,R09

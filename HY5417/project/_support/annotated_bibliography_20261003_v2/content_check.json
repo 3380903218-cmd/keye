@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+  "body_han": 3357,
+  "body_characters_with_punctuation_and_author_names": 3879,
+  "bibliography_excluded_from_length": true,
+  "annotations": 5,
+  "annotation_paragraphs": 15,
+  "synthesis_paragraphs": 1,
+  "body_matches_authority": true,
+  "personal_notes_and_prior_draft_unchanged": true,
+  "first_person_reflection_in_every_annotation_paragraph": true
+}

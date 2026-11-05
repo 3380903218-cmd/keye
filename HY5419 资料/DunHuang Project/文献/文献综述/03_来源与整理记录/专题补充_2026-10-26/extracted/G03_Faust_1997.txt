@@ -1,0 +1,2831 @@
+
+[PDF PAGE 1]
+ELSEVIER 
+Social Networks 19 (1997) 157-191 
+SOCIAL 
+NETWORKS 
+Centrality in affiliation networks 
+Katherine Faust 
+Department of Sociology, University of South Carolina, Columbia, SC 29208, USA 
+Abstract 
+This paper discusses the conceptualization, measurement, and interpretation of centrality in affiliation 
+networks. Although centrality is a well-studied topic in social network analysis, and is one of the most widely 
+used properties for studying affiliation networks, virtually all discussions of centrality and centralization have 
+concerned themselves with one-mode networks. Bonacich's work on simultaneous group and individual 
+centralities is a notable exception (Social Networks, 1991, 13, 155-168). I begin by outlining the distinctive 
+features of affiliation networks and describe four motivations for centrality indices in affiliation networks. I 
+then consider properties of some existing centrality indices for affiliation networks, including the relationship 
+between centralities for actors and events in these networks, and present a new conceptualization of centrality 
+that builds on the formal properties of affiliation networks and captures important theoretical insights about the 
+positions of actors and events in these networks. These centralities are then illustrated on Galaskiewicz's data 
+on club and board memberships of a sample of corporate executive officers (Social Organization of an Urban 
+Grants Economy. New York: Academic Press, 1985). The conclusion to this paper discusses strengths and 
+weaknesses of centrality indices when applied to affiliation networks. © 1997 Elsevier Science B.V. 
+Keywords." Affiliation networks," Membership networks," Dual networks; Two-mode networks; Non-dyadic 
+networks; Centrali~ 
+1. Affiliation networks 
+Many social network relations consist of the linkages among actors through their joint 
+participation in social activities or membership in collectivities. This common activity 
+creates a network of ties among actors. Similarly, collectivities, communities, or social 
+occasions are linked to each other through the multiple memberships of actors. Such 
+networks of actors tied to each other through their participation in collectivities, and 
+collectivities linked through multiple memberships of actors, are referred to as affiliation 
+networks, membership networks, dual networks, or hypernetworks (Breiger, 1974, 1990; 
+Seidman, 1981, 1985; McPherson, 1982; Wasserman and Faust, 1994). 
+Formally, an affiliation network consists of two key elements: a set of actors and a 
+collection of subsets of actors (called events). Thus, an affiliation network is a 
+two-mode, non-dyadic network. The two modes are the set of actors and the set of 
+0378-8733/97/$17.00 Copyright © 1997 Elsevier Science B.V. All rights reserved. 
+PH S0378-873 3(96)00300-0 
+
+
+[PDF PAGE 2]
+158 
+K. Faust/Social Networks 19 (1997) 157 191 
+events. An affiliation network is non-dyadic because the affiliation relation relates each 
+actor to a subset of events, and relates each event to a subset of actors. Affiliation 
+networks have been referred to as dual networks because of the complementary 
+perspectives through which actors are linked to each other as members of collectivities, 
+and collectivities are linked to each other through shared members (Breiger, 1974, 
+1990). 
+Substantive examples of affiliation networks are widespread, and include, for exam- 
+ple, interlocking boards of directors (Levine, 1972; Mariolis, 1975; Sonquist and 
+Koenig, 1975; Mintz and Schwartz, 1981a,b; Allen, 1982; Mizruchi, 1982; Bearden and 
+Mintz, 1987); memberships in voluntary organizations (McPherson, 1982); club mem- 
+berships (Bonacich, 1978); social gatherings (Davis et al., 1941; Homans, 1950; Breiger, 
+1974); ceremonial events attended by community members (Foster and Seidman, 1984; 
+Schweizer et al., 1993); observations of informal social interactions (Bernard et al., 
+1980, 1982; Freeman and Romney, 1987; Freeman et al., 1987; Freeman et al., 1989) 
+and so on. Regardless of their substance, these applications share a formal similarity in 
+that each consists of a set of actors and a collection of subsets of actors. 
+In this paper I will use two examples of affiliation networks as illustrations. The first 
+is a hypothetical affiliation network of six actors and three events from Wasserman and 
+Faust (1994). The second example is a subset of the data collected by Galaskiewicz 
+(1985) for his study of the urban grants economy in the Minneapolis-St. Paul area. This 
+affiliation network consists of 26 corporate executive officers and their membership in 
+15 clubs, boards of cultural organizations, and corporate boards. (See Galaskiewicz, 
+1985; Wasserman and Faust, 1994, for further discussion of these data.) 
+To illustrate an affiliation network, consider the hypothetical example of six actors 
+and three events. The set of actors is denoted by ~'= {ni,n 2 ..... ng}, and the set of 
+events is denoted by ~'= {mi,m 2 ..... mh}. There are g actors and h events. The 
+affiliation network matrix for this example is presented in Table 1. This matrix, denoted 
+by A = {aik}, shows the affiliation of the actors with the events. A '1' in row i, column 
+k of A indicates that actor n i is affiliated with event m k. Table 2 gives the one-mode 
+matrix of actor co-memberships. This matrix, denoted by X ~, indicates the number of 
+memberships shared by each pair of actors. Table 3 gives the one-mode matrix of event 
+overlaps, denoted by X ~', which gives the number of actors shared by each pair of 
+events. 
+Table 1 
+Affiliation network matrix 
+n 1 
+/'12 
+/'13 
+n 5 
+?16 
+m I 
+m 2 
+m 3 
+1 
+0 
+1 
+0 
+1 
+0 
+0 
+1 
+1 
+0 
+0 
+1 
+1 
+1 
+1 
+1 
+1 
+0 
+
+
+[PDF PAGE 3]
+K. Faust/Social Networks 19 (1997) 157-191 
+159 
+Table 2 
+Actor co-membership matrix 
+n I 
+n 2 
+/'13 
+n 4 
+1"/5 
+n 6 
+nl 
+n2 
+n3 
+/'/4 
+n5 
+n6 
+2 
+0 
+1 
+1 
+2 
+1 
+0 
+1 
+1 
+0 
+1 
+1 
+1 
+l 
+2 
+1 
+2 
+1 
+1 
+0 
+1 
+1 
+l 
+0 
+2 
+1 
+2 
+1 
+3 
+2 
+l 
+l 
+1 
+0 
+2 
+2 
+As Breiger (1974) has noted, the affiliation matrix is related to the actor co-member- 
+ship matrix and to the event overlap matrix through the following equations: 
+X X =aa' 
+(1) 
+and 
+X~r= A'A. 
+(2) 
+The affiliation network matrix uniquely determines both X ~r and X ~, but the reverse is 
+not true. A given actor co-membership matrix or event overlap matrix may be generated 
+by a number of different affiliation network matrices (Breiger, 1990). 
+An affiliation network can also be represented as a bipartite graph (Wilson, 1982). In 
+a bipartite graph nodes can be partitioned into two subsets and all lines are between 
+nodes from different subsets. In the bipartite graph for an affiliation network the two sets 
+of nodes are the set of actors, ~', and the set of events, ~', so there are g + h nodes. 
+Since the lines indicate ties of affiliation they are always between actors and events. Fig. 
+1 shows the hypothetical affiliation network as a bipartite graph. 
+The bipartite graph can also be presented in a sociomatrix, denoted by X ~r. This 
+matrix has g + h rows and columns indexing actors and events, and has the form: 
+where actors occupy the first g rows and columns and events occupy the last h rows 
+and columns. 
+In studying an affiliation network one can look at properties of actors in the 
+one-mode relation of actor co-memberships, properties of events in one-mode relation of 
+event overlaps, or properties of both actors and events in the two-mode affiliation 
+relation. 
+Table 3 
+Event overlap matrix 
+ml 
+m2 
+m 3 
+m t 
+3 
+2 
+2 
+m 2 
+2 
+4 
+2 
+m 3 
+2 
+2 
+4 
+
+
+[PDF PAGE 4]
+160 
+K. Faust/Social Networks 19 (1997) 157-191 
+72 2 
+?~2 1 
+~3 
+7752 
+n 4 
+n5 
+T?~3 
+T~ 6 
+Fig. 1. Bipartite graph of affiliation network. 
+Centrality is one network property that frequently has been used to study actors or 
+events in affiliation networks (Bonacich, 1972, 1991; Mariolis, 1975; Stokman, 1977; 
+Bonacich and Domhoff, 1981; Mintz and Schwartz, 1981a,b; Mizruchi and Bunting, 
+1981; Mariolis and Jones, 1982; Mizruchi, 1982, 1992; Rosenthal et al., 1985; Mizruchi 
+et al., 1986; Fernandez and McAdam, 1988). However, virtually all analyses of 
+centrality in affiliation networks neglect the inherent properties of these networks: the 
+presence of two modes, the duality of actors and events, and the non-dyadic affiliation 
+relation. In the following sections I address the issue of conceptualization and measure- 
+ment of centrality in affiliation networks, with special attention to the interpretation of 
+existing centrality measures as applied to affiliation networks and to possible future 
+directions for developing centrality approaches that are especially appropriate for 
+affiliation networks. 
+2. Centrality 
+The general notion of centrality encompasses a number of different aspects of the 
+'importance' or 'visibility' of actors within a network. Discussions of centrality can be 
+found in Freeman (1979), Knoke and Burt (1983), Friedkin (1991), Faust and Wasser- 
+man (1992) and Wasserman and Faust (1994). In general, there are four common 
+motivations for centrality in one-mode dyadic networks: 
+actors are central if they are active in the network (motivating degree centrality); 
+actors are central if they can contact others through efficient (short) paths (motivating 
+closeness centrality); 
+• actors are central if they have the potential to mediate flows of resources or 
+information between other actors (motivating betweenness centrality); and 
+actors are central if they have ties to other actors that are themselves central 
+(motivating eigenvector centrality). 
+
+
+[PDF PAGE 5]
+K. Faust/Social Networks 19 (1997) 157-191 
+161 
+Freeman (1979) presents three sets of indices that formalize the ideas of degree 
+(activity), closeness (efficiency), and betweenness (control) actor centrality and graph 
+centralization. From a slightly different perspective, Friedkin (1991) reviews the theoret- 
+ical basis for centrality measures within the framework of models of interpersonal 
+influence. Within this framework he distinguishes between 'total', 'immediate', and 
+'mediative' effects centrality, roughly analogous to the total influence of an actor, an 
+actor's closeness to others, and the betweenness of the actor. At the conclusion of his 
+paper Friedkin cites Coombs's position on the theoretical basis for measurement and 
+scaling models in general, commenting: 
+Coombs reminds us that 'a measurement or scaling model is actually a theory 
+about behavior, admittedly on a miniature level, but nevertheless theory' [Coombs, 
+1964, p. 5]. By this criterion, every new proposal of a centrality measure presents 
+new theoretical material. (Friedkin, 1991, p. 1498.) 
+It is in this spirit that I intend to review centrality measures for affiliation networks. The 
+theoretical foundations for affiliation networks as well as their formal properties differ in 
+important ways from the more usual one-mode dyadic networks. Thus, centrality indices 
+that have been developed for one-mode dyadic social networks may or may not be 
+appropriate for studying affiliation networks. In addition, there may be theoretical 
+insights gained from affiliation networks that will suggest new centrality approaches. 
+In the next section I discuss four motivations for centrality in affiliation networks, 
+with special attention to those features of affiliation networks that are distinctive and 
+lead to centrality motivations that are different from centrality motivations for one-mode 
+networks. 
+3. Centrality motivations for affiliation networks 
+This section presents four ideas that can motivate centralities in affiliation networks. 
+Two of these ideas arise from the formal properties of affiliation networks (two-mode, 
+non-dyadic networks), and two arise from empirical and theoretical insights suggested 
+by researchers who have studied affiliation networks. The four ideas that I present below 
+are: centralities for both actors and events, centralities for subsets of actors and/or 
+subsets of events, the importance of linkages created by actors and events, and the 
+importance of subset-superset relationships in actors' affiliations and events' member- 
+ships. 
+3.1. Centralities for actors and events 
+Since affiliation networks are two-mode networks, a complete analysis should give 
+centrality indices for both actors and events. As we shall see below, calculating indices 
+for both actors and events is straightforward. The important question is: what, if 
+anything, is the relationship between the centralities of events and the centralities of the 
+actors that belong to the events? Different authors have taken different perspectives on 
+this question. In their discussion of the relationship between the centrality of corporate 
+
+
+[PDF PAGE 6]
+162 
+K. Faust/Social Networks 19 (1997) 157-191 
+boards and the centrality of individuals who sit on the boards, Perrucci and Lewis (1989, 
+p. 216) argue that 
+These two networks can reveal considerable overlap in that the organizations that 
+occupy central positions in their network are also those organizations that are the 
+primary affiliations of the leaders that hold central positions in their network. On 
+the other hand, the two networks can be independent in that the central organiza- 
+tions and the central leaders are drawn from two different subgroups. 
+Perrucci and Lewis view the relationship between the centrality of an actor and the 
+centralities of the events to which the actor belongs as an empirical question. In their 
+view, a given network may or may not show any relationship between actor and event 
+centralities. Bonacich (1991, p. 256) takes exactly the opposite position. He argues that 
+Centrality involves ... the 'duality' of groups and individuals. A central firm gets 
+its central position from the board membership patterns of its members .... Dually 
+a central individual should be one who belongs to a variety of important firms. 
+One kind of centrality cannot be defined without reference to the other. 
+Bonacich's argument builds on the theoretically important duality in the relationship 
+between actors and events. In keeping with this perspective, Bonacich (1991) presents a 
+centrality measure for which the centrality of an event is proportional to the sum of the 
+centralities of the actors that are members of the event, and the centrality of an actor is 
+proportional to the sum of the centralities of the events to which it belongs. I discuss this 
+measure, eigenvector centrality, in detail below. 
+Thus, the first important feature of centralities for affiliation networks is that there 
+should be centrality scores for both actors and events. Furthermore, there should be a 
+clearly specifiable relationship between these quantities. 
+3.2. Centralities for subsets 
+Another important feature of an affiliation network is that the affiliation relation is 
+non-dyadic (Wilson, 1982; Seidman, 1985). Unlike a dyadic relation that links pairs of 
+actors (and thus is binary), a non-dyadic relation links members of subsets of arbitrary 
+size (and is thus n-ary). The affiliation relation relates each event to a subset of actors 
+and relates each actor to a subset of events. 
+What does this imply for centralities in these networks? Existing centrality measures 
+apply to one of two levels: centrality indices for actors or centralization indices for 
+whole networks (Freeman, 1979). But if we take seriously the idea that actors in 
+affiliation networks are defined by the collection of the events to which they belong and 
+events are defined by their collection of members (Simmel, 1955; Breiger, 1974), then 
+the centrality of an actor should be a function of the collection of events to which it 
+belongs and the centrality of an event should be a function of the centrality of its 
+collection of members. In contrast to a centrality index for a node in a graph, a centrality 
+index for a collection of nodes should quantify the importance of that collection within 
+the entire graph. For example, a centrality index for an event in an affiliation network 
+
+
+[PDF PAGE 7]
+K. Faust/Social Networks 19 (1997) 157-191 
+163 
+should quantify the importance of the collection of actors belonging to that event. The 
+idea is to extend centrality indices for individual nodes to centrality indices for 
+collections of nodes in a graph (or actors or events in an affiliation network). 
+These proposals of centralities for two modes and for subsets of entities build on 
+formal properties of affiliation networks. Next I discuss theoretical ideas and empirical 
+insights that have been used to describe the 'importance' of actors and events in 
+affiliation networks, and which thus suggest theoretically and substantively grounded 
+motivations for centralities in affiliation networks. 
+3.3. Linkages between actors and events 
+A theoretically important property of an affiliation network is that actors create 
+linkages between events and events create linkages between actors. Multiple member- 
+ships of actors provide conduits for the flow of information between events or for the 
+coordination of activities between events. Events as collections of actors provide the 
+opportunity for contacts between actors, for sharing of information or other resources 
+among actors, and facilitate formation of pair-wise ties between actors (McPherson, 
+1982; McPherson and Smith-Lovin, 1982). Bonacich and Domhoff (1981) observe that 
+"no groups are directly related to each other; they are only indirectly related to each 
+other through individuals" (p. 178), and similarly "central individuals link groups 
+which tend to be disjoint" (p. 179). 
+The linking function of actors and events means that an actor is central in an 
+affiliation network if it creates ties between events and an event is central if it creates 
+ties between actors. An actor that belongs only to one event creates no ties between 
+events. Thus, an actor's multiple memberships contribute to its centrality because that 
+actor creates linkages between events. It is not simply the number of memberships that 
+an actor has that is important. An actor that belongs to few events may nevertheless 
+create a critical tie between two or more events that otherwise would not be linked. 
+Similarly, an event is important because it creates linkages between its members. 
+Although events with large membership lists create more ties between pairs of actors 
+than do events with small membership lists, it is not simply the size of an event that is 
+important. Even a small event may bring together actors that would not meet otherwise. 
+Thus, the linkages between events created by actors' multiple affiliations, and the 
+linkages between actors created by events' collections of members are important 
+considerations in determining the centrality of both actors and events in an affiliation 
+network. Actors are always between events and events are always between actors. This 
+suggests that some form of betweenness centrality will be appropriate for studying 
+affiliation networks. 
+3.4. Subset-superset inclusions of actors and events 
+A fourth distinctive motivation for centrality in affiliation networks arises from 
+observations about the structure of memberships in these networks. Memberships in 
+affiliation networks can be viewed as patterns of inclusions among events' membership 
+
+
+[PDF PAGE 8]
+164 
+K. Faust/Social Networks" 19 (1997) 157-191 
+lists, as patterns of inclusions among actors' affiliations, or both (Bonacich, 1978). Here, 
+we shall want to look not at the number of overlaps for events or co-memberships for 
+actors, but at the patterns of inclusions among memberships. Specifically, a number of 
+authors have observed that in terms of their participation in events, some actors' 
+affiliations are included within the affiliations of other actors. This leads to the 
+distinction between 'primary' and 'secondary' actors (Davis et al., 1941; Doreian, 
+1979a,b; Freeman and White, 1993). Many of these insights have come from analyses of 
+the data of Davis et al. (1941) on social activities of a community of Southern women. 
+In their original analysis of these data, Davis et al. arrange the affiliation network matrix 
+not only to highlight two 'cliques' of women, but also to indicate which women were 
+primary and which were secondary within each 'clique'. In his reanalysis of these data 
+using q-connectivity to locate cohesive subgroups, Doreian (1979a) finds essentially the 
+same two subgroups that Davis et al. had found, and, moreover, he describes the internal 
+structure of these subgroups. Doreian (1979a, pp. 224-225) comments that 
+each of the subgroups can be viewed as having a core and a periphery, with higher 
+connectivity within the core, lower connectivity with the periphery. 
+Furthermore, Doreian identifies one of the women as a 'central core member' of one 
+of the cliques based on her high level of connectivity to others. In their reanalysis of 
+these data using Galois lattices (which I discuss below), Freeman and White (1993) 
+specifically describe the nature of the internal structure of the subgroups. They observe 
+that for secondary actors 
+the events they attended are all subsets of the events attended by one or more 
+primary actors. (p. 138.) 
+Freeman and White also note that events' memberships can be characterized by 
+similar subset-superset relationships. 
+These observations suggest that centrality indices for affiliation networks should 
+capture the subset-superset relationships in the affiliations of actors and events. The 
+distinction between primary and secondary actors means that secondary actors are more 
+likely to participate in events when primary actors are also present, and are unlikely to 
+participate on their own. Primary actors, on the other hand, participate in events even 
+when secondary actors are not present. The participation of secondary actors is condi- 
+tional on the participation of primary actors, implying that the events to which secondary 
+actors belong are a subset of the events to which primary actors belong (Freeman and 
+White, 1993). In terms of centrality in affiliation networks, less central actors participate 
+in events only in the presence of more central actors. Importantly, it is not simply the 
+greater number of events to which more or less central actors belong, but the patterning 
+of these events such that the events to which less central actors belong are a subset of 
+the events to which more central actors belong (Bonacich, 1978). Similarly, one can 
+consider the relative centrality of events using these ideas. Less central events have 
+membership lists that are contained within the memberships of more central events. 
+Again, it is not simply the size of the events that determines their centrality, but rather it 
+is the patterning of memberships in these events that is important. 
+
+
+[PDF PAGE 9]
+K. Faust/Social Networks 19 (1997) 157-191 
+165 
+3.5. Summary 
+In summary, the properties of affiliation networks suggest that centralities for these 
+networks should do four things: 
+1. give centrality indices for both actors and events; 
+2. be extendable to subsets of actors and events; 
+3. focus on the linkages between actors and events through overlapping memberships; 
+4. capture subset-superset inclusion relations between actors and events. 
+Analyses of affiliation networks have seldom used these ideas to study the centrality 
+of actors and events in affiliation networks. Rather, more conventional centrality 
+motivations for one-mode networks have been widely employed to study affiliation 
+networks. 
+In addition, virtually all analyses of affiliation networks study one-mode networks of 
+actors or events derived from the original affiliation network. For example, many 
+researchers have studied the affiliation of corporate executives with the corporate boards 
+on which they sit. With the exception of Bonacich (1991) and Bonacich and Domhoff 
+(1981), centrality analyses of these data always study either the board member ties of 
+co-membership or the corporation ties of interlocking directorates, but do not study both 
+simultaneously. 
+Studying only a single mode from the two-mode network ignores the fundamental 
+duality inherent in the affiliation relation. The relationship between the centrality of 
+actors and the centrality of the events to which they belong, or the relationship between 
+the centrality of events and the centrality of their members, cannot be studied directly by 
+looking at the one-mode networks separately. 
+In the next sections I consider five centrality indices: degree, eigenvector, closeness, 
+betweenness, and flow betweenness. For each I describe the application of the index to 
+affiliation network data and discuss the results with respect to the centrality motivations 
+introduced above. 
+4. Centralities for afrdiation networks 
+A review of analyses of centrality in affiliation networks reveals that virtually all 
+applications use one of two approaches to centrality: (1) some form of degree centrality 
+or (2) some form of eigenvector centrality. I begin by discussing degree and eigenvector 
+centrality, since they have been widely used to study centrality in affiliation networks. I 
+then discuss closeness, betweenness, and flow betweenness centralities. As we shall see, 
+calculating basic centrality measures for both actors and events in an affiliation network 
+is straightforward. To study both actors and events one can analyze the bipartite graph 
+using standard centrality approaches. An important issue for each measure is to specify, 
+if possible, the relationship between actor and event centralities. 
+Since centrality indices will be defined for several different kinds of graphs and 
+networks (a one-mode dyadic network, a bipartite graph, a one-mode actor co-member- 
+ship relation, or a one-mode event overlap relation) and indices will be presented for 
+nodes in a graph, and for actors and events in affiliation networks, we shall need 
+
+
+[PDF PAGE 10]
+166 
+K. Faust~Social Networks 19 (1997) 157-191 
+notation that reflects these distinctions. CA(Q) will refer to centrality definition 'A' for 
+entity 'O'. For example, Cc(O) will refer to closeness centrality. The entity for which 
+the centrality is defined can be an actor, denoted by n i, an event, denoted by m~, or a 
+node in a generic graph, denoted Pi. In addition, when the centrality definition applies to 
+a specific kind of relation or matrix (for example the bipartite graph, or the actor 
+co-membership relation) I will use the following superscripts: JT~" for the bipartite 
+graph, J/~ for the one-mode actor co-membership relation, and ~t" for the one-mode 
+event overlap relation. Thus, CcH~{(ni) will refer to the closeness centrality of an actor 
+calculated on the bipartite graph. In the absence of a superscript, the definition refers to 
+a one-mode dyadic graph or network. 
+4.1. Degree centralities 
+Degree centrality, denoted by CD(Pi), is one of the most straightforward centrality 
+indices. In an affiliation network motivations for degree centrality are that actors are 
+important because of their level of activity or the number of contacts that they have, and 
+events are important because of the size of their memberships (Stokman, 1977; Mizruchi 
+and Bunting, 1981; Mariolis and Jones, 1982; Fernandez and McAdam, 1988). 
+In a graph for a single dichotomous relation, the degree of a node is the number of 
+nodes adjacent to it. For a nondirectional relation the degree of a node is equal to the 
+sum of the values in the row (or column) of the sociomatrix; Co(Pi ) = E g I Xij" In an 
+affiliation network there are several ways to calculate degree centrality depending on 
+whether one focuses on the bipartite graph (including both actors and events) or on the 
+one-mode networks of actor co-memberships or event overlaps. Interpretations of the 
+results will differ. 
+First, focus on the bipartite graph in which both actors and events are represented as 
+nodes and lines represent affiliation ties between actors and events. In the bipartite graph 
+the degree centrality of an actor is the number of events with which it is affiliated and 
+the degree centrality of an event is the number of actors affiliated with it. These 
+quantities are also equal to the entries on the main diagonal of the actor co-membership 
+matrix X yr (for actors) or the event overlap matrix X ~r (for events), or to the row total 
+(for actors) or the column total (for events) of the affiliation matrix A. Thus, actor and 
+event degree centralities in the bipartite graph are: 
+g+h 
+C~A(lli) 
+~ 
+~ 
+ik 
+= X~i = ai+ 
+(4) 
+k=l 
+g+h 
+Co~'(mk) = E Xik --Xkk-- a+k. 
+(5) 
+i=l 
+Although degree centrality is usually defined for dichotomous relations, there are also 
+a number of ways to define degree-like centralities for the one-mode valued relations of 
+actor co-memberships and event overlaps. Both of these are valued, nondirectional 
+relations where the values indicate the number of co-memberships for pairs of actors or 
+the number of overlaps for pairs of events. 
+
+
+[PDF PAGE 11]
+K. Faust~Social Networks 19 (1997) 157-191 
+167 
+Consider the entries in a given row (or column) of the actor co-membership matrix, 
+X e". The number of non-zero off-diagonal entries in the row gives the number of 
+distinct actors with which the actor shares any event in common. However, we can also 
+define other possible degree-like measures for this relation. Suppose we take the sum of 
+the entries in a row. For actors in the co-membership relation this degree centrality is: 
+g 
+./v 
+jV 
+C~(ni) = E Xij = Xi+" 
+(6) 
+j=l 
+Interestingly, this quantity is equal to the sum of the sizes of the events to which the 
+actor belongs: 
+~= 
+~V'a+ 
+(7) 
+ni~m k 
+ni~m k 
+We can think of C~(n i) as the actor's total 'volume' of activity. It is the number of 
+contacts that an actor has with other actors, counting other actors each time they are 
+encountered. 
+For events, the similar degree centrality is equal to 
+h 
+(8) 
+/=1 
+This quantity can be thought of as the total participation of the actors that belong to the 
+event, and is equal to the sum of the number of memberships for all actors in the event: 
+Cff(mk) = Y'~ xf = 
+Y'~ a,+. 
+(9) 
+t~i~m k 
+niEm k 
+If these centralities are calculated including the diagonal elements of X :r or X ~e, 
+then they are also equal to the number of two-step walks from the actor or event node in 
+the bipartite graph. 
+Taken together, Eqs. (7) and (9) show that for the one-mode networks of actor 
+co-memberships and event overlaps there is a specifiable relationship between an actor's 
+centrality and the centrality of the events to which it belongs, and between an event's 
+centrality and the centrality of its members: 
+C~(n,) = ~_~ CD~(mk) 
+(lO) 
+niC m k 
+C~(mk) = E C~'(ni) . 
+(11) 
+niEm k 
+The degree centrality of an actor is equal to the sum of the sizes of its events (the 
+degrees of these events in the bipartite graph) and the degree centrality of an event is 
+equal to the sum of the number of memberships of its actors (the degrees of these actors 
+in the bipartite graph). 
+Degree centrality indices for actors and events in the bipartite graph for the 
+hypothetical example are presented in Table 4. Table 5 presents the degree centralities 
+
+
+[PDF PAGE 12]
+168 
+Table 4 
+Centrality of 
+K. Faust~Social Networks 19 (1997) 157-191 
+actors and events in the bipartite graph 
+Measure of centrality 
+C~ ~" 
+Ed(i,k) 
+Ci ~.'~ 
+CB ~" 
+C~f* 
+C~ ~'~ 
+n I 
+2 
+17 
+0.4706 
+1.75 
+5 
+0.286 
+n 2 
+l 
+21 
+0.3810 
+0.00 
+0 
+0.154 
+n 3 
+2 
+15 
+0.5333 
+3.00 
+5 
+0.309 
+n 4 
+1 
+21 
+0.3810 
+0.00 
+0 
+0,154 
+n 5 
+3 
+13 
+0.6154 
+6.50 
+3 
+0A40 
+n 6 
+2 
+17 
+0.4706 
+1.75 
+5 
+0,286 
+m I 
+3 
+16 
+0.5000 
+4.00 
+12 
+0,365 
+m 2 
+4 
+14 
+0.5714 
+10.50 
+19 
+0.428 
+m 3 
+4 
+14 
+0.5714 
+10.50 
+19 
+0.428 
+Table 5 
+Centrality measures for actors and events in one-mode networks 
+Measure of centrality 
+c; ~ 
+c; ~b 
+c~ ~°' 
+c~." 
+c~ 
+c; 'a 
+c; 'b 
+c~ °1 
+cf 
+c;' 
+n I 
+n2 
+n 3 
+n4 
+n5 
+n 6 
+?n i 
+m 2 
+m3 
+5 
+7 
+0.33 
+7 
+0.404 
+3 
+4 
+0.00 
+4 
+0.218 
+6 
+8 
+1.17 
+10 
+0.437 
+3 
+4 
+0.00 
+4 
+0.218 
+8 
+11 
+1.17 
+13 
+0.622 
+5 
+7 
+0.33 
+7 
+0,404 
+4 
+7 
+0.00 
+2 
+0,515 
+4 
+8 
+0.00 
+2 
+0.606 
+4 
+8 
+0.00 
+2 
+0,606 
+aExcludes diagonal, blncludes diagonal. 
+for the one-mode networks of actor co-memberships and event overlaps, calculated both 
+with diagonal entries included and with diagonal entries excluded. 1 
+A number of authors have used versions of degree centrality to study centrality in 
+affiliation networks. Romney and Weller (1984) use this index to measure the overall 
+level of people's observed behavioral interaction in data from three groups studied by 
+Bernard et al. (1980, Bernard et al., 1982). In their study of corporate interlock 
+networks, Mariolis and Jones (1982) use this index as one measure of a firm's centrality, 
+referring to it as 'the number of interlocks'. Similarly, in his study of delegations' 
+co-sponsorship of bills within the United Nations, Stokman (1977) uses the number of 
+co-sponsorship ties that a delegation has as an index of the delegation's centrality in the 
+co-sponsorship network. 
+Some authors have criticized degree centrality because it does not consider the 
+centrality of the actors (or events) to which an actor (or event) is adjacent. According to 
+l Centrality indices were calculated using UCINET IV (Borgatti et al., 1992). 
+
+
+[PDF PAGE 13]
+K. Faust / Social Networks 19 (1997) 157-191 
+169 
+this argument, two actors may be adjacent to the same number of others, but an actor is 
+more central if it has ties to actors that themselves are quite central. One way to deal 
+with this issue is to incorporate the centrality of the actors to which a given actor is 
+adjacent into the centrality index. This is what eigenvector centrality does. 
+4.2. Eigenvector centrality 
+The rationale for eigenvector centrality in a one-mode network is that the centrality of 
+an actor should be proportional to the strength of the actor's ties to other network 
+members and the centrality of these other actors (Bonacich, 1972; Mizruchi, 1982; 
+Mizruchi et al., 1986). Originally, Bonacich (1972) motivated this centrality index as a 
+measure of popularity, related to the measures of relative standing or status proposed by 
+Katz (1953) and Hubbell (1965). Recently, people have defended the use of this index as 
+a measure of the extent to which actors are in a position to influence others in the 
+network (Mizruchi and Bunting, 1981 ; Fernandez and McAdam, 1988; Friedkin, 1991). 
+Friedkin (1991) describes this index as 'total effects centrality' in the context of network 
+influence models. 
+Eigenvector centrality is widely used in studies of interlocking corporate boards of 
+directors (Mariolis, 1975; Mintz and Schwartz, 1981 a,b; Mizruchi and Bunting, 1981; 
+Mariolis and Jones, 1982; Mizruchi, 1982; Roy, 1983; Rosenthal et al., 1985). For many 
+of these researchers centrality is eigenvector centrality (Mariolis, 1975; Mintz and 
+Schwartz, 1981a,b; Roy, 1983; Rosenthal et al., 1985). 
+In this section I review eigenvector centrality in general and then show how the 
+centrality indices for actors are related to the centrality indices for events in an 
+affiliation network. 
+Denoting the eigenvector centrality of node Pi in a one-mode network by CE(pi), 
+eigenvector centrality is expressed as 
+CE(P~) = CE(Pj) xij. 
+(12) 
+The centrality of a node is proportional to the centrality of the nodes to which it is 
+adjacent, weighted by the value of the tie between the nodes. 
+Finding centrality values, CE(p), that satisfy this equation for all nodes in a graph 
+involves solving a system of simultaneous linear equations. This standard eigenvector- 
+eigenvalue problem is expressed by the equation 
+xc = 
+(13) 
+where X is a g × g sociomatrix, A is its largest eigenvalue, and c is a vector of 
+centrality scores (the eigenvector corresponding to the largest eigenvalue). 
+I will denote the vector of eigenvector centrality scores for actors by c ~r and the 
+vector of eigenvector centrality scores for events by c ~'. One can find these scores by 
+analyzing the one-mode actor co-membership matrix and the one-mode event overlap 
+matrix: 
+X~rc ~r =AA'c ~r = A2c ~ 
+(14) 
+X~c~r= A'Ac~= A2c ~. 
+(15) 
+
+
+[PDF PAGE 14]
+170 
+K. Faust~Social Networks 19 (1997) 157-191 
+Bonacich suggests that the scores be scaled so that EC~(ni) 2 = ECE~(mk) 2 = 1, though 
+other scalings are possible. The actor and event eigenvector centralities are related to 
+each other through the set of equations: 
+Ac X = Ac ~ 
+(16) 
+A'c ~r = Ac ~. 
+(17) 
+Eqs. (16) and (17) show the duality of actor and event centralities for the affiliation 
+network. The centrality of an actor is proportional to the centralities of the events with 
+which it is affiliated, and the centrality of an event is proportional to the centralities of 
+its members. 
+Bonacich (1991) shows that for an affiliation network one can find the actor and 
+event centrality scores by analyzing a number of different matrices. Specifically, one can 
+analyze the affiliation network matrix, A, the pair of one-mode matrices, X Jr and X '~r 
+(Eqs. (14) and (15)), or the matrix for the bipartite graph, X ~r~. Analysis of the bipartite 
+graph is expressed in the equation: 
+(Bonacich, 1991, p. 158). The generality of this approach is apparent in the fact that the 
+eigenvector centrality scores from any of these analyses are equivalent, once they are 
+identically scaled. 
+For eigenvector centralities there is a clear and specifiable relationship between the 
+centralities for actors and the centralities for events. This relationship is more apparent if 
+we rewrite Eqs. (16) and (17) in terms of individual actor and event centrality indices. 
+An actor's centrality is a function of the centralities of the events to which it belongs: 
+1 
+h 
+C~(n,) = -~,~= C~(mk) a,~. 
+(19) 
+Similarly, the centrality of an event is a function of the centralities of its members: 
+1 
+g 
+C~( ink) = ~ i~ CEAr (1li) aik. 
+(20) 
+Eigenvector centrality explicitly incorporates the duality between actor and event 
+centralities (Bonacich, 1991). This duality is expressed in the pairs of Eqs. (16) and (17) 
+or Eqs. (19) and (20) in which actors' centralities are proportional to the centralities of 
+the events to which they belong, and events' centralities are proportional to the 
+centralities of their members. 
+A similar relationship between actor and event scores results from a correspondence 
+analysis of the affiliation matrix, A (Bonacich, 1991; Wasserman and Faust, 1994). One 
+of the goals of correspondence analysis is to assign scores to the rows and columns of a 
+data array so that a row's score is proportional to the weighted average of the column 
+scores and a column's score is proportional to the weighted average of the row scores; 
+the weights are the relative frequencies in the columns or rows, respectively. For an 
+affiliation network, an actor's score is proportional to the average of the scores for the 
+events with which it is affiliated and an event's score is proportional to the average of 
+
+
+[PDF PAGE 15]
+K. Faust / Social Networks 19 (1997) 157-191 
+171 
+the scores for the actors that belong to the event. Correspondence analysis of an 
+affiliation matrix, A, results in three sets of information: 
+• a set of g actor scores on each of W dimensions {Ug w} for i= 1,2 ..... g and 
+w = 1,2,...,W; 
+a set of h event scores on each of W dimensions {v~w} for k= 1,2 ..... h and 
+w = 1,2 ..... W, and 
+a set of W principal inertias {r/~2~} for w = 1,2 ..... W. 
+Correspondence analysis scores for rows (actors) and columns (events) are related to 
+each other through the following equations: 
+h 
+TIwUiw 
+E 
+aik 
+-- 
+Pkw 
+k= 1 ai+ 
+(21) 
+g 
+aik 
+~w Pkw 
+E 
+Uiw. 
+i= 1 a+k 
+These row and column scores are found through a singular value decomposition of an 
+appropriately scaled affiliation matrix: P~= {ai~ / ~ } .  
+Although the relationship 
+between actor and event correspondence analysis scores, Eq. (21), appears similar to the 
+relationship between actor and event eigenvector centrality scores, Eqs. (19) and (20), 
+the resulting scores can be quite different. This difference is due to the fact that 
+eigenvector centralities result from a decomposition of A whereas correspondence 
+analysis scores result from a decomposition of A. 
+The eigenvector centralities for actors and events in the hypothetical example are 
+presented in Table 4 (for the bipartite graph) and Table 5 (for the one-mode relations of 
+actor co-memberships and event overlaps). To illustrate the duality of actor and event 
+eigenvector centralities, consider the eigenvector centrality of n~. For the one-mode 
+actor co-membership relation, h = 2.775 and C~r(nl)= 0.404. Actor nl is affiliated 
+with events m 1 and m3, with centralities in the event overlap relation of C~(m~) = 0.515 
+and CEae(m3 ) = 0.606. Thus, nl's centrality is equal to 
+(0.515)(1) + (0.606)(0) + (0.606)(1) 
+0.404 = 
+2.775 
+(22) 
+A number of people have argued that the magnitudes of eigenvector centralities for 
+events in the event overlap relation are undesirably affected by differences in the sizes 
+of events (Mariolis, 1975; Mizruchi and Bunting, 1981; Mariolis and Jones, 1982; 
+Mizruchi, 1982; Bonacich, 1991). Thus, they argue, steps should be taken to remove this 
+effect. Two approaches have been proposed: (1) standardize the event overlap measure 
+x~ prior to analysis, or (2) remove from the centrality index that component which is 
+due to the degree (i.e. the size) of the event. 
+The first way to accommodate different event sizes is to standardize the entries in the 
+event overlap matrix, X ~e, prior to finding eigenvector centralities. Mariolis (1975) 
+suggests that standardized values X * ~ = {x~( } be defined as: 
+. ~¢" 
+Xk~¢/ 
+(23) 
+
+
+[PDF PAGE 16]
+172 
+K. Faust/Social Networks 19 (1997) 157-191 
+Since x~ and xff are the sizes of events m k and m I respectively, this standardization 
+takes event sizes into account by dividing the measure of overlap by the square root of 
+the product of the event sizes. However, Bonacich (1991) demonstrates that this 
+standardization fails to remove size differences. Moreover, the event eigenvector 
+centralities from this standardized overlap measure will not be identical to event 
+eigenvector centralities for the bipartite graph, unless entries in X~¢~ are also appropri- 
+ately standardized. The appropriate standardization defines a new affiliation network 
+matrix A * = {a/k} where ai~ = aik / v"a+k. The new sociomatrix for the bipartite graph, 
+X * ~'g, then has the form 
+A~t 
+" 
+The event eigenvector centralities for X * ~~" will be identical to the event eigenvector 
+centralities for X * ~', once they are scaled as described above. However, the actor 
+eigenvector centralities from X * ~A will not be identical to actor eigenvector centrali- 
+ties from X x, Thus, by standardizing X ~" to 'remove' differences in event sizes, one 
+loses the important duality between actor and event centralities. 
+A second way to deal with differences in event sizes exploits information about the 
+components of the eigenvector centrality index. Bonacich (1991) shows that this index is 
+the sum of a weighted series of components, each of which quantifies the contribution to 
+the overall centrality of the node due to paths of length 1,2 ..... ~ from the node. One 
+can remove the effect of event sizes by 'removing' the component of centrality due to 
+paths of length 1 (the size of the even0. The advantage of this approach is that one can 
+analyze the bipartite graph and obtain both actor and event centrality scores, thus 
+maintaining the duality between actor and event centralities. 
+One potentially undesirable feature of eigenvector centralities for studying affiliation 
+networks is that actors that belong to a single event (and thus create no ties between 
+events) and events that have only a single member (and thus create no ties between 
+actors) can have non-zero eigenvector centrality. For example, in the hypothetical 
+affiliation network, n 2, which belongs to only one event, has eigenvector centrality of 
+0.154. This is due to the centrality that actors and events derive from their ties to others 
+that are central. Non-zero centrality is inconsistent with the theoretical argument that 
+actors in affiliation networks are central to the extent that they link events, and events 
+are central to the extent that they link actors. However, it is consistent with the 'status' 
+or 'popularity' motivation for this index that central actors derive their centrality 
+through their ties to central actors. 
+Both degree centrality and eigenvector centrality have been widely used to study 
+affiliation networks. However, only Bonacich and Domhoff (1981) and Bonacich (1991) 
+consider both actor and event centralities and the relationship between them. In the next 
+sections I discuss centralities that were not designed to study affiliation networks and 
+have not been used to analyze these networks. 
+4.3. Closeness centrality 
+Closeness centrality is based on the geodesic distances between nodes in a graph, and 
+is not applicable to valued relations. Thus, I will restrict my attention to closeness 
+
+
+[PDF PAGE 17]
+K. Faust/Social Networks 19 (1997) 157-191 
+173 
+centralities for the bipartite graph. The basis for the closeness centrality index is the 
+average geodesic distance that a node is from all other nodes in the graph. Thus it begins 
+with the 'farness' of a node from other nodes in the graph. Distances between nodes are 
+summarized in the matrix D = {d(i,j)}, where the entry in cell (i,j) of this matrix is the 
+geodesic distance from node i to node j. In other words, it is the length of any shortest 
+path between the nodes. Since the bipartite graph is nondirectional, the distance from i 
+to j is the same as the distance from j to i, and D is symmetric. 
+In general, c!oseness centrality, Cc(Pi), is the inverse of the average geodesic 
+distance between the node and all other nodes in the graph, and is calculated as 
+= 
+-g_ 
+. 
+(25) 
+If the graph is disconnected, then closeness centrality is undefined, since some pairs of 
+nodes are unreachable and the distance between them is infinite. 
+The numerator of Eq. (25) is the sum of the distances from node i to all other nodes 
+in the graph. For an actor in an affiliation network this is the distance from the actor to 
+other actors plus the distance from the actor to all events. However, since the affiliation 
+network is a bipartite graph, actors are only adjacent to events, and all paths emanating 
+from an actor must first pass through the events to which the actor belongs. Similarly, 
+since events are only adjacent to actors, all paths from events must pass through the 
+actors that are their members. 
+Consider the relationship between the closeness centrality of an actor and the 
+closeness centralities of the events to which the actor belongs, and the relationship 
+between the closeness centrality of an event and the closeness centralities of its actors. 
+First focus on the distances from an actor in the bipartite graph as a function of the 
+distances from the events to which it belongs. The distance from node i representing an 
+actor to any node j (either actor or event) is d(i,j) = 1 + min~ d(k,j), for event nodes k 
+adjacent to i. Given this property, the numerator of Eq. (25) for the closeness centrality 
+of an actor in the bipartite graph can be expressed as a function of the distances from the 
+actor's events, k: 
+g+h 
+g+h 
+g+h 
+_2,d(ij) = 2[l +mind( ,j) l =g+ h-l+ 
+~mind(k,j) 
+(26) 
+j= 
+j= 
+k 
+j=l 
+k 
+for k adjacent to i, and j not equal to i. Combining Eqs. (25) and (26) gives the 
+following expression for the closeness centrality of an actor as a function of the geodesic 
+distances from its events to other actors and events: 
+Xj~,hmink d(k,j) -' 
+C~r(ni) = 
+I + 
+(27) 
+g+h-1 
+for events k adjacent to actor i. Thus, the closeness centrality of an actor is a function of 
+the minimum distances from any of its events to other actors and events in the bipartite 
+graph. 
+
+
+[PDF PAGE 18]
+174 
+K. Faust/Social Networks 19 (1997) 157-191 
+Similarly, the closeness centrality of an event is a function of the minimum distances 
+from its actors to other actors and to other events. Eq. (27) can be written for events as: 
+~ig=~minj d(i,j) -1 
+= 
+1 + 
+- 
+(28) 
+g+h-I 
+for actors i adjacent to event k. 
+The combination of Eqs. (27) and (28) shows that there is a clear relationship 
+between the closeness centralities of actors and the closeness centralities of events in an 
+affiliation network. The closeness centrality of an actor is a function of the minimum 
+distances to its events, and the closeness centrality of an event is a function of the 
+minimum distances to its actors. 
+Table 4 gives the closeness centralities for actors and events in the bipartite graph for 
+the hypothetical example. 
+4.4. Betweenness centrality 
+Betweenness centrality for a one-mode dyadic network focuses on the extent to which 
+actors sit on geodesic paths between other pairs of actors (Freeman, 1979). Since 
+calculating betweenness centrality requires considering all geodesics in a graph, it 
+seems unlikely that it will be possible to express the betweenness of a node in a graph 
+(an actor or event in an affiliation network) as a function simply of the betweenness of 
+the nodes to which it is adjacent. Nevertheless, this section presents some informal 
+observations about the relationship between actor and event betweenness centralities in 
+affiliation networks. Betweenness centrality is defined for dichotomous, nondirectional 
+relations, so I will concentrate betweenness of actors and events in the bipartite graph 
+for the affiliation network. However, at the end of this section I consider what would 
+happen if one were to analyze the one-mode relations of actor co-memberships or event 
+overlaps. 
+An intermediate step in calculating betweenness centrality is to find the 'partial 
+betweenness' of nodes in the network (Freeman, 1979). Node pi's partial betweenness 
+counts the number of pairs of other nodes whose geodesic(s) contain node Pi. If there is 
+more than one geodesic between a given pair of nodes, then pi receives fractional credit, 
+where the fraction is reciprocal of the number of geodesics between the pair. Let gjk be 
+the number of geodesics between pj and Pk, and let gj~(p~) be the number of geodesics 
+between pj and Pk that contain Pi. If all geodesics are equally likely, then the 
+probability that a geodesic between pj and p~ contains node pi is equal to gak(P)/gik" 
+The betweenness centrality of node p~, denoted by CB(p~), is defined as the sum of 
+these quantities across all pairs of nodes: 
+CB( Pi) = E gjk( Pi) 
+(29) 
+j < k 
+gjk 
+For a graph with g nodes, C~(pi) reaches its maximum value of (g- 
+1)(g- 2)/2 
+when node pg is on geodesics between all other pairs of nodes. 
+Returning to an affiliation network, recall that linkages between pairs of actors are 
+always through actors' participation in events, thus events are always on geodesics 
+
+
+[PDF PAGE 19]
+K. Faust/Social Networks 19 (1997) 157-191 
+175 
+between actors. Similarly, linkages between pairs of events are always through the joint 
+memberships of actors, thus actors are always on geodesics between events. Consider 
+the relationship between the betweenness centrality of an actor and the betweenness 
+centrality of the events with which it is affiliated, and the relationship between the 
+betweenness centrality of an event and the betweenness of its members. 
+In calculating the betweenness centrality of an event, rn k, in an affiliation network, 
+focus on the collection of actors that belong to that event. Event m~ is on a geodesic 
+between all pairs of actors that are members of it. Since event m k has a+k members, 
+2 
+pairs of actors that have a geodesic that contains m k. If a given pair of 
+there are a+ 
+jr= 1) then m~ is on the only 
+actors, (ni,nj), only shares event rn k in common (thus xij 
+geodesic between them, and mk's betweenness is incremented by 1. Actually, n i and nj 
+/r memberships, thus mk's betweenness is incremented by 1/xi~ for each pair 
+share xij 
+of actors (ni,n j) in m k. Thus, a portion of the betweenness centrality of event m k can be 
+expressed in terms of the number of co-memberships of pairs of its members as: 
+1 
+1 
+-~ 
+E 
+jr- 
+(30) 
+ninjE mk Xij 
+From this we see that an event gains betweenness centrality to the extent that pairs of its 
+members meet only in that event. 
+In addition, an event gains betweenness centrality if an individual actor belongs only 
+to that event. In that case, all geodesics from such an actor must contain the event. Since 
+there are g + h nodes (actors and events) in the affiliation network, an event gains 
+g + h - 2 betweenness 'points' for each of its members that belongs to no other event. 
+This quantity is not independent of the count in Eq. (30). 
+These observations suggest that the betweenness centrality of an event increases to 
+the extent that its members belong to no other events. Since such single-membership 
+actors are not between any pairs of events, an event gains betweenness centrality if it 
+contains 'non-central' actors. Also, the betweenness centrality of an event increases to 
+the extent that pairs of actors share only that event in common. 
+Similar properties of betweenness centrality hold for actors. An actor gains g + h - 2 
+betweenness centrality 'points' if it is the only member of an event. An actor gains 
+l/xft 
+betweenness 'points' for all pairs of events to which it belongs. 
+Betweenness centralities for the actors and events in the bipartite graph for the 
+hypothetical example are presented in Table 4. Notice that Cs(n 2) = CB(n 4) = 0.00 
+since actors n 2 and n 4 each belong to only one event, and thus create no linkages 
+between either actors or events. 
+As mentioned above, betweenness centrality is defined for networks in which 
+relations are dichotomous and nondirectional. However, sometimes it is tempting to 
+analyze valued nondirectional relations by dichotomizing the original values and analyz- 
+ing the new dichotomous relation. For example, one could define a dichotomous actor 
+co-membership relation, ,-d(0, where 
+{~ 
+if 
+~e 
+0 
+~:~°' = 
+xij 
+= 
+(31) 
+-'J 
+if 
+xij 
+> 
+O. 
+
+
+[PDF PAGE 20]
+176 
+K. Faust/Social Networks" 19 (1997) 157-191 
+/21 
+/2 6 
+72 2 
+?2 5 
+L 12 3 
+T~ 4 
+a. Dichotomous actor co-membership relation 
+712 2 
+b. Dichotomous event overlap relation 
+Fig. 2. Graphs for dichotomous one-mode relations. 
+In this dichotomous relation actors are adjacent if they ever belong to the same event. 
+This relation has been defined by Seidman (1985, p. 368) as the 'q-overlap graph', 
+where actors are adjacent if they share at least q events, and q = 1. Doreian (1969) 
+presents a similar idea for valued graphs. One could also define a dichotomous event 
+overlap relation x~ 0' where 
+if 
+= 
+0 
+xS,°'= 
+if 
+x5 
+> 
+0. 
+(32) 
+In this dichotomous relation events are adjacent if they share any actor in common. 
+Stokman (1977) describes either of these relations as creating a new graph by 'induc- 
+tion' where nodes in the new graph are adjacent if they are adjacent to the same node in 
+the original graph. 
+Graphs for these two dichotomous relations for the hypothetical example are pre- 
+sented in Fig. 2 Notice that the graph for the dichotomous event overlap relation is 
+complete (all events are adjacent) since each pair of events shares at least one actor. 
+Since the graph is complete there is no differentiation among events; all are equally 
+central in this graph. In contrast, the actor co-membership graph is not complete (some 
+pairs of actors never belong to the same event). 
+What happens if we now find actor and event betweenness centralities, C~ o~ (n i) and 
+C~°'(mi ), for these relations? These centralities are presented in Table 5. Several points 
+are important to note about these results. First, as anticipated above, all events in this 
+
+
+[PDF PAGE 21]
+K. Faust/Social Networks 19 (1997) 157-191 
+177 
+example have equal betweenness centrality for the dichotomous one-mode network of 
+event overlaps. In contrast, in the bipartite graph, events m 2 and m 3 are clearly more 
+central than is event m 1. The dichotomous event overlap relation lacks information 
+about the number of actors shared by pairs of events, and thus lacks information about 
+the number of geodesics between events. Second, notice that for the dichotomous actor 
+co-membership relation, actors n 2 and 174 have betweenness centrality equal to 0. These 
+actors are adjacent to other actors on this relation but they are not on geodesics between 
+them. Actors n 2 and rt 4 are each affiliated with only a single event. Thus, if one of these 
+'single-membership' actors is adjacent to two other actors (for example, n 2 is adjacent 
+to n 5 and n 6) those two actors must be adjacent to each other since all three must 
+belong to the single event to which the 'single-membership' actor belongs. Actors that 
+belong to only one event cannot be on geodesics between other actors. 
+These observations about betweenness centrality in affiliation networks are informal. 
+Clearly, it remains for further research to express the exact relationship between actor 
+and event betweenness centrality. 
+4.5. Flow betweenness centrality 
+Recently, Freeman et al. (1991) have proposed an extension of betweenness centrality 
+that is applicable to valued relations. For a pair of actors, the value of the relation might 
+be "their amount of interaction, the time they spend in one another's company, the 
+range of different social settings in which they interact..." (Freeman et al., 1991, p. 
+145). Thus, this approach is clearly applicable to one-mode relations of actor co-mem- 
+berships or event overlaps. 
+Flow betweenness centrality extends betweenness centrality in two ways. First it 
+considers all paths between nodes, rather than just geodesics. Second, it is appropriate 
+for both graphs and valued graphs in which larger values indicate stronger ties between 
+actors. Values in the graph are considered to represent the potential for 'flow' of 
+information or resources between nodes, with the following constraints. First, the flow 
+between a pair of adjacent nodes, .f~j, is constrained to be less than or equal to the value 
+of the tie between the nodes: f,.j _< x~. Second the flow 'into' a node is equal to the flow 
+'out of' the node. The fact that this approach focuses on the betweenness of nodes in a 
+graph and can be used to study valued relations suggests that it should be quite 
+appropriate for studying centrality in affiliation networks. 
+To define the flow betweenness centrality of node Pi, one considers the extent to 
+which the maximum flow between other pairs of nodes in the graph depends on paths 
+that include node pl. Roughly, the flow centrality index for a node in a valued graph 
+quantifies the extent to which flow between other pairs of nodes in the graph would be 
+reduced if that node were removed from the graph. Defining F~(p~) as the amount of 
+flow between nodes Pk and p~ that passes through Pi, the flow betweenness centrality 
+of p~ is defined as the total flow between all pairs of nodes that depends on node Pi. 
+The flow betweenness for node p~, denoted by CF(P~), is calculated as: 
+CF(p~) = ~2 F,.,(p,). 
+(33) 
+k<l 
+
+
+[PDF PAGE 22]
+178 
+K. Faust / Social Networks 19 (1997) 157-191 
+This index is described in detail in Freeman et al. (1991). Flow betweenness may be 
+calculated for the one-mode networks of actor co-memberships and event overlaps, or 
+for the bipartite graph. 
+Table 4 presents flow betweenness for actors and events in the bipartite graph. Table 
+5 presents results for the one-mode networks of actor co-memberships and event 
+overlaps. Two results are worth noting in these tables. First, notice that actors n 2 and n 4 
+which each belong to only a single event have flow betweenness centralities equal to 
+zero in the bipartite graph, but have flow centralities equal to four in the actor 
+co-membership relation. In the one-mode network these actors cannot reside on geodesics 
+between other actors, but they can reside on paths between other actors. Since flow 
+betweenness considers 'flows' along all paths (not just geodesics), actors that belong to 
+a single event can have non-zero flow betweenness in the one-mode actor co-member- 
+ship relation. 
+A second puzzling result is seen in Table 4. Notice that for the bipartite graph actor 
+n 5 (which is affiliated with all three events) has flow betweenness centrality equal to 
+three, but actors n~ and n 3 (which are each affiliated with two events) have centralities 
+equal to five. However, looking at either the bipartite graph (Fig. 1) or the affiliation 
+network matrix (Table 1), we see that the events to which actors n~ and n 3 belong are 
+subsets of the events to which n 5 belongs; n~ and n 3 are never in an event unless n 5 is 
+also a member. This anomalous result deserves further investigation. 
+5. Extensions 
+The centrality approaches discussed so far (degree, eigenvector, closeness, between- 
+ness, and flow betweenness) were all designed for one-mode networks. As we have 
+seen, all can be used to study affiliation networks by analyzing the bipartite graph. In 
+this section I present two possible extensions of centrality using Galois lattices and 
+graph covers. Both of these approaches are designed to study two-mode data, both focus 
+on subsets and relations between subsets, and both allow insights into the difference 
+between 'primary' and 'secondary' actors and events. Thus, these extensions incorporate 
+the distinctive features of affiliation networks and might lead to centrality approaches 
+that more naturally capture important features of these networks. 
+5.1. Galois lattices 
+Patterns of inclusion and overlap in events' memberships and in actors' affiliations 
+are theoretically and empirically important components of actor and event centrality. As 
+an early attempt to capture these relationships, Bonacich (1978) proposed using homo- 
+morphisms of Boolean algebras. The resulting homomorphisms were represented as 
+lattices showing unions and intersections of events' members (with respect to a subset of 
+actors), or of actors' affiliations (with respect to a subset of events). As noted by 
+Bonacich, the height of an event or an actor in the lattice is related to its relative 
+centrality. Bonacich's representation nicely shows the structure of inclusions among 
+actors or among events, but it is limited in that it requires two separate representations 
+
+
+[PDF PAGE 23]
+K. Faust~Social Networks 19 (1997) 157-191 
+179 
+(one for actors and one for events). In addition, it captures only a portion of the 
+inclusions among actors and events because the lattice for actors is constructed with 
+respect to only a subset of events, and the lattice for events is constructed with respect to 
+only a subset of actors. A Galois lattice provides a more appropriate approach since a 
+single representation presents patterns of inclusions for all actors and events simultane- 
+ously. 
+Galois lattices have only recently been used to study affiliation networks (Schweizer, 
+1991; Freeman and White, 1993; Wasserman and Faust, 1994), though applications to 
+other kinds of data are more widespread. General discussions of Galois lattices can be 
+found in Birkhoff (1940) and Wille (1984). 
+A Galois lattice represents the relationship between two sets of objects in terms of 
+inclusion mappings between subsets of objects from each set. For an affiliation network 
+we have the two sets: A/= {n I,n2 ..... ng} and ~¢.= {m l,m 2 ..... mh}. We also have the 
+affiliation relation, denoted by a, from JV to A', where niam k if n i 'is affiliated with' 
+m k. Thus niam k if actor n i belongs to event m,. The inverse relation, a -I, is a 
+mapping from ~" to A r, where m ka 
+In i if event m, includes actor ni. 
+Extending the relations a and a-r 
+from individual actors and events to subsets of 
+actors and events, we get two complementary mappings: 1' from subsets of actors to 
+subsets of events and $ from subsets of events to subsets of actors. The ~' mapping 
+maps a subset of entities in JV" to a subset of entities in ~'. For subsets ~/'s c Ar and 
+~'s ~Z/, we define ~/V s 1" -Z/s if nio~m k for all n i EJUS, and m k ~,. 
+For an affiliation 
+network, the $ mapping maps a subset of actors to the subset of events attended by all 
+of the actors in that subset. 
+The dual mapping, $, goes from subsets of ~" to subsets of A r. For subsets ~A/~. c A/ 
+and l~'s c~', we define ~fsSA/s if mka-lni 
+for all ni~J/s 
+and mk~/Z/s. In an 
+affiliation network the ,1. mapping maps a subset of events to the subset of actors all of 
+which attend all events in the subset. 
+A Galois lattice represents the relation between the sets JV and ~¢" in terms of the $ 
+and $ mappings between subsets of entities from each set. A Galois lattice is presented 
+in a diagram in which points represent entities or subsets of entities from the two sets, 
+and lines represent subset-superset relations in the following way. There is a line or 
+sequence of lines in the diagram ascending from object n~ e S" to object m k evg/ if 
+nio~m k, and there is a line or sequence of lines descending from object m k ~g" to object 
+n i ~/" 
+if mko~-lnl. 
+Fig. 3 presents the Galois lattice for the hypothetical example of six actors and three 
+events (this figure is adapted from Wasserman and Faust, 1994, p. 333). In this figure an 
+ascending line or sequence of lines connects each actor to the subset of events with 
+which it is affiliated and a descending line or sequence of lines connects each event to 
+the actors that are affiliated with it. One can also look at lines or sequences of lines 
+between actors or between events. A line or sequence of lines ascending from actor n i to 
+actor nj means that the events to which actor t/j belongs are a subset of the events to 
+which actor ni belongs. Similarly, a line or sequence of lines descending from event m k 
+to event m~ means that the actors that are affiliated with event m t are a subset of the 
+actors that are affiliated with event m k. 
+Viewing centrality in terms of subset-superset relations, actors that are relatively low 
+
+
+[PDF PAGE 24]
+180 
+K, Faust / Social Networks 19 (1997) 157-191 
+~4 
+T~ 3 
+~2 5 
+•2 
+Tt2 2 
+/2 6 
+Fig. 3. Galois lattice for hypothetical example. 
+in the diagram are relatively more central than are actors that are relatively high in the 
+diagram. Similarly, events that are relatively high in the diagram are relatively more 
+central than are events that are relatively low in the diagram (Freeman and White, 1993), 
+For the hypothetical example in Fig. 3, actor n 5 is the most central actor, followed by 
+n~, n 3, and n6; n 4 and n 2 are least central. In this example the events are indistinguish- 
+able in terms of their centrality. 
+A Galois lattice is especially appropriate for studying affiliation networks because it 
+explicitly represents the non-dyadic relation of inclusion between subsets of entities 
+from the two modes. Furthermore, it represents an aspect of centrality in these networks, 
+the subset-superset inclusions between actors and events, that is not represented by 
+other centrality approaches. Freeman and White (1993) use Galois lattices in their 
+reanalysis of the data of Davis et al. (1941) on Southern club women. Their results 
+clearly showed which actors and events were primary and which were secondary in 
+terms of the upward containment structure for actors and the downward containment 
+structure for events. 
+5.2. Graph covers 
+The idea of graph covers was introduced by Seidman (1985) to formalize the extent 
+to which actors potentially have access to information about different kinds of structural 
+features of an affiliation network. An actor that is located in such a way that it can 'see' 
+important features of other actors' membership patterns (such as pair-wise attendances 
+or cohesive subgroups) might be well located to initiate or coordinate actions within the 
+network. Seidman uses the idea of a graph cover to formalize exactly what features of an 
+affiliation network an actor or a set of actors 'sees'. 
+We begin with a hypergraph ~(J,~') 
+consisting of a set of points JK and a set of 
+edges ~', where each edge is a subset of points from ~'. For an affiliation network it 
+seems natural to start with the set of points being the set of actors, X, and the set of 
+edges being the set of events, ~'. (We could also reverse the roles of X and .~" and 
+have the dual hypergraph ~* (~/,~¢').) We next define a duality function, 6(n i) for 
+points. This duality function is a mapping from point n i to the set of all edges with 
+which it is incident. In an affiliation network, this function for actors maps the actor to 
+
+
+[PDF PAGE 25]
+K. Faust~Social Networks 19 (1997) 157-191 
+181 
+the set of all events with which it is affiliated. Formally we can express this duality 
+function as 
+6(ni) = {m k ~'ln i ~ ink}. 
+(34) 
+Using the notation from Galois lattices (above), 6(n,) is the subset of events ~¢'s for 
+which nicem k. 
+Seidman (1985) then uses this duality function to define two different kinds of graph 
+covers: a strict coL'er and a wide cover. A set is a wide (or strict) cover (as defined 
+below) of some set of objects o~', where the objects are a specified set of entities. For 
+example, the set ~ 
+might be a subset of actors {n~,nz,n 3} or it might be a subset of 
+pairs of actors {(n 1,n2),(nl,n3),(nz,n3)}. 
+In general, for some set of objects d, a set J//~ is a wide cover of ,ae if the union of 
+the duals of elements of d 
+is included in the union of the duals of elements of J!/. 
+Formally, for object set ~¢ (a set of actors), j/F is a wide cover of ~ if 
+U 
+U 8(,,,). 
+(35) 
+a~A 
+niece" ~ 
+Since the duality function 6(a) maps an actor to the set of events with which it is 
+affiliated, for a subset of actors the union of these mappings is the collection of all 
+events with which any actor in the subset is affiliated. Consider the case in which 
+X = J, 
+(a subset of actors). Another subset of actors, X s, is a wide cover of Jt 
+if 
+some actor in A/I,, was present at each and every event at which any actor from ~ 
+was 
+present. The events to which members of @ belong are a subset of the events to which 
+members of A/" s belong. If J~ consists of a single actor, J//'s = {ni}, then n i is a wide 
+cover of the set of all actors that were never present unless n i was present. 
+To illustrate, in the hypothetical affiliation network of six actors and three events, n 5 
+is a wide cover of the set consisting of the remaining five actors, {n~,n 2,n3,n 4,n6}; n 3 is 
+a wide cover of the set {n2,n4}; n 6 is a wide cover of {nz}; and n I is a wide cover of 
+{n4}. The set {nl,n 6} is a wide cover of the set {n2,nz}. 
+The second kind of graph cover is a strict couer. A strict cover is more general than 
+a wide cover. For object set ~¢ (a set of actors), JYs is a strict cover of d if there exists 
+some ni ~ ~ 
+such that 
+6(ni) ~ 
+6(a) -¢:Q. 
+(36) 
+a~S¢" 
+This means that for each object a ~ d there exists some /7 i E "//#s such that the dual of a 
+intersects the dual of n,. In an affiliation network, ~, is a strict cover of sg if, for every 
+actor in J, some actor in J//~ belongs to some event with that actor. To illustrate, for 
+the hypothetical example n 6 is a strict cover of {nl,n2,n3,ns}. 
+Every wide cover is a strict cover, but the reverse is not true. In an affiliation 
+network, if JK, is a wide cover of s~¢, some actor from ~1/'~ is present each and every 
+time any member of sg is present. In other words, a member of J 
+is never in an event 
+unless a member of JK s is also present. In contrast, if ~//s is a strict cover of ,~, then 
+each member of o~ must belong to at least one event with some member of ~4/i~, though 
+members of s¢ might belong to events where no member of Jf'~ is present. 
+Returning to the Galois lattice diagram for an affiliation network, we see that a single 
+
+
+[PDF PAGE 26]
+182 
+K. Faust/Social Networks 19 (1997) 157-191 
+actor, n i, is a wide cover of the set of all actors that reside on lines ascending from it. 
+The events to which any of these other actors belong are a subset of the events to which 
+n i belongs. A set of actors is a wide cover of that set of actors that reside on lines 
+ascending from any of the actors in the set. A single actor is a strict cover of the set of 
+all actors with which it is ever a co-member. In the Galois lattice this is the set of all 
+actors from which lines intersect either ascending or descending lines from n i at any 
+point before the topmost point in the diagram. Any subset of actors is a strict cover of 
+the set of all actors that ever belonged to any event with any actor in the set. In the 
+Galois lattice this is the set of all actors whose lines (ascending or descending) intersect 
+a line from any member of the cover subset of actors, before the topmost point in the 
+diagram. 
+Seidman (1985) elaborates in detail how graph covers can be used to study structural 
+features of hypergraphs by varying the definition of the elements of 5g. For example, if 
+5a¢ consists of a set of pairs of actors, then a wide cover of 5~' is a set of actors that are 
+always present at any event at which any pair of actors in 5g is present. 
+5.3. Summary 
+Both the Galois lattice and the concept of graph covers nicely present subset-superset 
+relationships among actors and events. This subset-superset relation is exactly the 
+centrality idea of primary and secondary actors, as suggested by Davis et al. (1941), 
+Doreian (1979a) and Freeman and White (1993). The Galois lattice incorporates the 
+duality in the relation between actors and events in a single representation and makes the 
+relative centrality of actors and events quite apparent in their vertical positions in the 
+diagram. The distinction between primary events and actors and secondary events and 
+actors is easily seen in the relative vertical positions of actors and events and in the 
+patterns of inclusions among them. 
+The concept of graph cover formalizes the idea of the 'importance' of an actor (or a 
+subset of actors) in terms of the 'view' that the actor has of the network. One might 
+think of a graph cover in terms of the kind and extent of information about an affiliation 
+network that is available to an actor or to a subset of actors. An actor that 'covers' a 
+large number of other actors, or 'covers' a large portion of the co-memberships between 
+pairs of actors potentially has access to information about those features of the network. 
+Both Galois lattices and graph covers provide a set of concepts for thinking about 
+centrality in affiliation networks that is not provided by any of the other centrality 
+indices. Both are naturally appropriate for two-mode non-dyadic networks and focus on 
+subset-superset relations between actors and/or events in a way that captures theoreti- 
+cal and empirical insights about the relative importance of actors in these networks. 
+Neither the Galois lattice nor the formalism of a graph cover provides an index or 
+quantification of actors' or events' centrality. One possibility would be to define a new 
+relation between actors based on subset-superset relationships between their member- 
+ships. For example, one could define Xij = 
+1 if 6(nj) c t~(ni) , and xij = 0 otherwise. 
+The quantity Ejxq would give the number of actors for which n~ is a wide cover, while 
+S, jxj~ would give the number of actors that are wide covers of n~. Exploring other 
+possible indices is a fruitful arena for further research. 
+Now let us turn to another illustration. 
+
+
+[PDF PAGE 27]
+K. Faust/Social Networks 19 (1997) 157-191 
+183 
+6. Another 
+example 
+As another example, consider the affiliation network of club and board memberships 
+of corporate executive officers studied by Galaskiewicz (1985) as part of his extensive 
+research on the urban grants economy in Minneapolis-St.Paul. I will focus on a subset of 
+26 CEOs and 15 clubs/boards 
+from Galaskiewicz's data. The affiliation network matrix 
+for this example is presented in Table 6. Centralities for CEOs and for the boards/clubs 
+are in Table 7 (for the bipartite graph) and Table 8 (for the one-mode relations). 
+Overall there is considerable agreement among 
+the centrality measures in their 
+identification of which clubs and CEOs are relatively central. Tables 9-11 
+present 
+correlation matrices for the five centrality indices, calculated on the bipartite graph 
+(including all nodes, and for clubs and CEOs separately) and on the one-mode relations 
+of club overlaps and actor co-memberships. The correlations between the measures of 
+centrality for the clubs in the bipartite graph range from a low of 0.890 to a high of 
+0.992 with a median of 0.968; for CEOs in the bipartite graph the range is from 0.041 to 
+0.867 with a median of 0,643. For the one-mode relations, the correlation between the 
+centrality measures for clubs ranges from 0.918 to 0.993 with a median of 0.954, and for 
+CEOs the range is from 0.348 to 0.989 with a median of 0.711. It appears that there is 
+Table 6 
+Affiliation network matrix for CEOs and clubs 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+0 
+0 
+1 
+l 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+l 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+l 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+l 
+1 
+0 
+1 
+0 
+l 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+0 
+1 
+1 
+0 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+1 
+0 
+l 
+1 
+0 
+1 
+1 
+0 
+0 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+I 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+1 
+0 
+0 
+l 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+0 
+1 
+1 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+1 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+
+
+[PDF PAGE 28]
+184 
+K. Faust~Social Networks 19 (1997) 157-191 
+Table 7 
+Centrality of CEOs and clubs in the bipartite graph 
+Measure of centrality 
+Cff ~" 
+~d(i,k) 
+C~, ~" 
+C~ ~" 
+C~ ~" 
+C~ ~ 
+m 1 
+3 
+112 
+35.71 
+5.53 
+0.057 
+49 
+m 2 
+l 1 
+90 
+44.44 
+52.57 
+0.276 
+235 
+m 3 
+22 
+62 
+64.52 
+374.10 
+0.476 
+527 
+m 4 
+12 
+84 
+47.62 
+139.41 
+0.236 
+271 
+m 5 
+3 
+112 
+35.71 
+3.91 
+0.064 
+64 
+m 6 
+4 
+110 
+36.36 
+5.76 
+0.102 
+60 
+m 7 
+4 
+114 
+35.09 
+12.61 
+0.049 
+125 
+m s 
+4 
+110 
+36.36 
+13.16 
+0.068 
+106 
+m 9 
+6 
+104 
+38.46 
+17.13 
+0.114 
+156 
+into 
+3 
+116 
+34.48 
+5,32 
+0.037 
+79 
+mlt 
+4 
+110 
+36.36 
+5.52 
+0.118 
+45 
+ml2 
+5 
+108 
+37.04 
+11.01 
+0.120 
+98 
+m13 
+5 
+106 
+37.74 
+12.56 
+O. 119 
+100 
+mr4 
+3 
+122 
+32.79 
+2.63 
+0.057 
+85 
+ml5 
+9 
+94 
+42.55 
+37.77 
+0.237 
+146 
+n I 
+3 
+89 
+44.94 
+9.36 
+0.126 
+7 
+n 2 
+3 
+93 
+43.01 
+20.88 
+0.090 
+58 
+n3 
+2 
+97 
+41.24 
+3.46 
+0.091 
+14 
+n 4 
+3 
+95 
+42.11 
+3.24 
+0.151 
+5 
+n 5 
+3 
+95 
+42.11 
+14.37 
+0.099 
+50 
+n 6 
+3 
+97 
+41.24 
+11.75 
+0.123 
+38 
+n 7 
+4 
+87 
+45.98 
+36.34 
+0.132 
+58 
+n s 
+3 
+117 
+34.19 
+9.09 
+0.049 
+59 
+n 9 
+4 
+111 
+36.04 
+17.55 
+0.061 
+93 
+nl0 
+2 
+97 
+41.24 
+3.12 
+0.090 
+6 
+nit 
+3 
+95 
+42.11 
+7.21 
+0.132 
+8 
+n12 
+2 
+119 
+33.6• 
+3.02 
+0,043 
+23 
+n13 
+4 
+87 
+45,98 
+23.26 
+0.136 
+43 
+n 14 
+7 
+81 
+49,38 
+49.62 
+0.241 
+52 
+n15 
+5 
+91 
+43.96 
+18.19 
+0.184 
+39 
+hi6 
+5 
+91 
+43.96 
+35.86 
+O. 149 
+79 
+nl 7 
+6 
+89 
+44.94 
+34.20 
+O. 197 
+75 
+n 18 
+5 
+91 
+43.96 
+24.93 
+0.126 
+35 
+n j9 
+5 
+85 
+47.06 
+44.54 
+O. 142 
+64 
+n2o 
+5 
+85 
+47.06 
+23.79 
+0.205 
+27 
+n21 
+3 
+89 
+44.94 
+14.25 
+0.119 
+23 
+n22 
+3 
+93 
+43.01 
+11.12 
+0.119 
+25 
+nz~ 
+4 
+93 
+43.01 
+10.11 
+0.166 
+26 
+n24 
+5 
+85 
+47.06 
+37.87 
+O. 169 
+61 
+n25 
+3 
+95 
+42.11 
+5.75 
+0.133 
+16 
+n26 
+3 
+95 
+42.11 
+6.08 
+O. 133 
+16 
+greater consistency across centrality measures in the identification of central clubs than 
+in the identification of central CEOs. 
+We can also look at the relationship between centrality measures for the bipartite 
+graph and for the one-mode networks. Table 12 presents the correlation between each 
+
+
+[PDF PAGE 29]
+K. Faust~Social Networks 19 (1997) 157-191 
+Table 8 
+Centrality measures for CEOs and clubs in one-mode networks 
+185 
+Measure of centrality 
+c~ ~ 
+c~ b 
+c~ °' 
+c~ 
+c~ 
+m I 
+11 
+14 
+1.85 
+0.080 
+55 
+m 2 
+36 
+47 
+4.07 
+0.391 
+122 
+m 3 
+62 
+84 
+10.70 
+0.673 
+280 
+m 4 
+38 
+50 
+6.97 
+0.333 
+200 
+m 5 
+10 
+13 
+1.09 
+0.091 
+35 
+m 6 
+15 
+19 
+1.27 
+0.144 
+52 
+m 7 
+9 
+13 
+0.70 
+0.070 
+45 
+m 8 
+11 
+15 
+2.10 
+0.096 
+49 
+m 9 
+16 
+22 
+1.99 
+0.162 
+51 
+mlo 
+8 
+11 
+0.95 
+0.052 
+41 
+m ll 
+18 
+22 
+1.51 
+O. 167 
+55 
+ml2 
+18 
+22 
+0.29 
+0.170 
+51 
+ml3 
+18 
+23 
+2.11 
+0.169 
+57 
+mr4 
+8 
+11 
+0.17 
+0.080 
+28 
+m15 
+34 
+43 
+3.24 
+0.336 
+106 
+n I 
+37 
+40 
+3.85 
+O. 178 
+407 
+n 2 
+26 
+29 
+2.60 
+O. 127 
+278 
+n 3 
+25 
+27 
+O. 15 
+O. 128 
+248 
+n 4 
+39 
+42 
+0.15 
+0.213 
+337 
+n 5 
+27 
+30 
+O. 15 
+O. 140 
+274 
+n 6 
+33 
+36 
+0.00 
+O. 174 
+312 
+n 7 
+37 
+41 
+3.85 
+0.187 
+392 
+n 8 
+16 
+19 
+O. 13 
+0.069 
+207 
+n 9 
+18 
+22 
+0.43 
+0.086 
+206 
+njo 
+26 
+28 
+0.15 
+0.127 
+269 
+nlj 
+36 
+39 
+0.15 
+0.187 
+345 
+nl2 
+14 
+16 
+0.13 
+0.061 
+172 
+n13 
+39 
+43 
+3.85 
+O. 192 
+429 
+n14 
+61 
+68 
+3.85 
+0.341 
+586 
+nj5 
+46 
+51 
+0.15 
+0.261 
+406 
+n16 
+39 
+44 
+1.09 
+0.211 
+387 
+nl 7 
+48 
+54 
+O. 15 
+0.278 
+431 
+nl8 
+32 
+37 
+3.09 
+0.178 
+294 
+n19 
+42 
+47 
+3.85 
+0.201 
+504 
+n2o 
+53 
+58 
+3.85 
+0.289 
+483 
+n21 
+35 
+38 
+3.85 
+0.168 
+388 
+rt22 
+32 
+35 
+1.24 
+0.168 
+301 
+n23 
+42 
+46 
+0.15 
+0.235 
+354 
+nz4 
+45 
+50 
+3.85 
+0.239 
+437 
+n25 
+35 
+38 
+0.15 
+0.188 
+323 
+n26 
+35 
+38 
+O. 15 
+O. 188 
+324 
+aExcludes diagonal, blncludes diagonal. 
+kind of centrality index calculated on the bipartite graph and on the one-mode relation, 
+for CEOs and clubs separately. For example, the first line in the body of the table gives 
+the correlation between the degree centralities for CEOs and for clubs in the bipartite 
+
+
+[PDF PAGE 30]
+186 
+Table 9 
+Correlations between centrality 
+K. Faust/Social Networks 19 (1997) 157-191 
+measures: clubs and CEOs in the bipartite graph 
+CJ 
+C# ~" 
+CJ 
+C[ ~' 
+c~ 
+All nodes 
+0.694 
+Clubs 
+0.992 
+CEOs 
+0.627 
+c~ ~ 
+All nodes 
+0.928 
+0.752 
+Clubs 
+0.948 
+0.968 
+CEOs 
+0.867 
+0.659 
+cF' 
+All nodes 
+0.889 
+0.872 
+Clubs 
+0.980 
+0.967 
+CEOs 
+0.780 
+0.823 
+All nodes 
+0.938 
+0.485 
+Clubs 
+0.977 
+0.969 
+CEOs 
+0.572 
+0.041 
+0.816 
+0.890 
+0.576 
+0.892 
+0.696 
+0.960 
+0.921 
+0.696 
+0.045 
+Table 10 
+Correlations between centrality measures: one-mode matrix of club overlaps 
+c~ 
+cl 
+c~ 
+c[ 
+C~ 
+0.958 
+C~ r 
+0.937 
+0.954 
+Cff 
+0.993 
+0.930 
+0.918 
+C~ 
+0.959 
+0.954 
+0.985 
+0.936 
+Table 11 
+Correlations between centrality measures: one-mode matrix of CEO co-memberships 
+c~ 
+c~ 
+c[ 
+c{ 
+C~ 
+0.734 
+C~" 
+0.449 
+0.687 
+C~ 
+0.989 
+0.664 
+0.348 
+C~ 
+0.942 
+0.788 
+0.641 
+0.888 
+Table 12 
+Correlations between centralities for the bipartite graph and the one-mode relations, for CEOs and clubs 
+Centrality measure 
+CEOs 
+Clubs 
+Degree 
+0.767 
+0.979 
+Betweenness a 
+0.634 
+0.946 
+Eigenvector 
+1.000 
+1.000 
+Flow 
+0.137 
+0.944 
+aBetweenness centralities for dichotomized one-mode relation. 
+
+
+[PDF PAGE 31]
+K. Faust~Social Networks 19 (1997) 157-191 
+187 
+Fig. 4. Galois lattice for CEOs and clubs. 
+graph and in the one-mode actor co-membership relation (the CoX~(ni) and the C~(n i) 
+and the Co~(m~) and the C~(mk)). For these data, there is greater discrepancy for 
+actors (the CEOs) than for events (the clubs) between the centralities from the bipartite 
+graph and the centralities from the one-mode relation. 
+Fig. 4 presents the Galois lattice for the CEOs and clubs. 2 First, consider the relative 
+centrality of the clubs. Clubs 3 and 4 are the only clubs whose memberships contain the 
+memberships of other clubs (club 4 contains clubs 1 and 10; club 3 contains clubs 2, 5, 
+6, 11 and 14). Clubs 3 and 4 are located toward the top of the diagram in Fig. 4 and the 
+containments are indicated by the lines descending from these clubs. More complicated 
+patterns of containment are present among the CEOs. CEO 14 contains 25, 26 and 20 
+(who in turn contains 4); 15 contains 23 and 25; 17 contains 26 (who in turn contains 3); 
+8 contains 12; 11 contains 10; 13 contains l (who in turn contains 10); 19 contains both 
+1 and 12; and 16 contains 6. This suggests at least three levels of centrality for CEOs. 
+The most central CEOs are 8, 11, 13, 14, 15, 16, 17 and 19; second are l, 6, 12, 20, 23, 
+25 and 26; and at the third level are 3, 4 and 23. The memberships of the remaining 
+CEOs are not included within the memberships of others, nor do they include others, 
+thus, their centrality relative to others cannot be determined using this approach. Further 
+analyses show that other indices of centrality for the CEOs are consistent with these 
+three levels in the Galois lattice. CEOs in the first level have higher centrality on other 
+indices than do CEOs in the second level. CEOs in the second level have higher 
+centrality values than do the CEOs in the third level. CEOs whose centrality is 
+2 This figure was produced using the program DIAGRAM (Vogt and Bliegener, 1990). 
+
+
+[PDF PAGE 32]
+188 
+K. Faust/Social Networks 19 (1997) 157-191 
+indeterminate in the Galois lattice have moderate to high levels of centrality on other 
+centrality indices. 
+In conclusion, let us consider some of the strengths and weaknesses of centrality 
+indices for studying affiliation networks. 
+7. Discussion 
+The introduction to this paper presented four ideas that might motivate centrality 
+approaches that would be especially appropriate for affiliation networks. Let us now 
+consider existing centrality indices and possible extensions in light of these ideas. 
+First, it is important to have centrality scores for both actors and events in an 
+affiliation network. This is not a problem for any of the approaches, since all can be 
+used to analyze the bipartite graph. However, because of the duality in the relationship 
+between actors and events, we might hope that the centralities of actors should be related 
+in specifiable ways to the centralities of the events with which they are affiliated, and 
+similarly the centralities of events should be related in specifiable ways to the centrali- 
+ties of the actors they include. These relationships hold for degree centralities calculated 
+on the one-mode networks of actor co-memberships and event overlaps (Eqs. (10) and 
+(11)), for closeness centrality in the bipartite graph (Eqs. (27) and (28)), and for 
+eigenvector centralities in the bipartite graph or in the pair of one-mode matrices (Eqs. 
+(16) and (17) or Eqs. (19) and (20)). Relationships between actor and event centralities 
+are not as straightforward for betweenness centrality and flow betweenness centrality. 
+A second feature of affiliation networks is that the affiliation relation is non-dyadic, 
+and thus focuses on subsets. To what extent do centralities in affiliation networks allow 
+us to quantify the centrality of a subset of actors or a subset of events? In one sense, any 
+index for which an actor's centrality is a function of the centralities of its events, or an 
+event's centrality is a function of the centralities of its members, does capture the 
+centralities of subsets. An actor' s centrality is a function of the centrality of the subset of 
+events to which it belongs. An event's centrality is a function of the subset of actors 
+belonging to it. As noted above, these properties hold for degree, closeness, and 
+eigenvector centralities, but not for betweenness and flow betweenness. 
+A third important theoretical property of an affiliation network is that actors create 
+linkages between events and events create linkages between actors. Central actors should 
+link events and central events should link actors. Theoretically, actors that do not link 
+events, and events that do not link actors, should not be considered central. The property 
+of linkages among actors and/or events seems most naturally embodied in betweenness, 
+flow betweenness, and eigenvector centrality, but is also most problematic for these 
+approaches. Part of the problem is that misleading results arise when one analyzes the 
+one-mode relations of actor co-memberships or event overlaps. These relations lack 
+important information about the pattern of affiliation ties. When used to analyze the 
+bipartite graph, betweenness centrality and flow betweenness centrality give centralities 
+equal to zero for actors that belong only to one event and to events with only a single 
+member, as desired. However, eigenvector centrality gives non-zero values to such 
+actors and events, even in the bipartite graph. This property is consistent with the 
+
+
+[PDF PAGE 33]
+K. Faust/Social Networks 19 (1997) 157-191 
+189 
+intuitive motivation for eigenvector centrality that a node's centrality is a function of the 
+centralities of the nodes to which it is adjacent, but is inconsistent with the idea that 
+centrality in affiliation networks is a result of the linkages created by actors and events. 
+The fourth empirically and theoretically important aspect of centrality in an affiliation 
+network is the subset-superset (i.e. inclusion) relationships between actors' affiliations 
+and events' memberships. These relationships capture the distinction between 'primary' 
+and 'secondary' actors and events observed by numerous researchers. However, this 
+distinction is not quantified by any of the existing centrality indices reviewed here. 
+Subset-superset relationships are nicely displayed in the Galois lattice and are formal- 
+ized by the idea of graph covers. Developing a centrality index based on these inclusion 
+relations seems like a fruitful area for future research. 
+A final practical note is in order. Seidman (1981) discusses the misleading conclu- 
+sions that can result when one studies one-mode networks of actor co-memberships or 
+event overlaps for an affiliation network. Specifically, he demonstrates that cliques of 
+actors in the co-membership relation (or events in the overlap relation) are not 
+necessarily complete subgraphs in the affiliation relation. Thus, one is not necessarily 
+justified in drawing conclusions about collections larger than pairs from the one-mode 
+relations. As we have seen, similar cautions are in order for centrality analyses of the 
+one-mode networks derived from the affiliation network. In going from the affiliation 
+relation to either the actor co-membership relation or the event overlap relation, one 
+loses information about the patterns of affiliation between actors and events. Thus, one 
+needs to be cautious when interpreting centralities for these one-mode relations. 
+Acknowledgements 
+This research was supported in part by a Research and Productive Scholarship grant 
+from the University of South Carolina. I am grateful to Phillip Bonacich, Lin Freeman, 
+Shin-Kap Han, and Stanley Wasserman for comments on an earlier draft and to Karin 
+Willert for research assistance. A version of this paper was presented at the International 
+Social Network Conference, London, England, July 1995. 
+References 
+Allen, M.P., 1982, The identification of interlock groups in large corporate networks: Convergent validation 
+using divergent techniques, Social Networks 4, 349-366. 
+Bearden, J. and B. Mintz, 1987, The structure of class cohesion: The corporate network and its dual, in: M.S. 
+Mizruchi and M. Schwartz, Intercorporate relations: The structural analysis of business (Cambridge 
+University Press, Cambridge) 187-207. 
+Bernard, H.R., P. Killworth and L.D. Sailer, 1980, Informant accuracy in social network data IV: A 
+comparison of clique-level structure in behavioral and cognitive network data, Social Networks 2, 
+191-218. 
+Bernard, H.R., P. Killworth and L.D. Sailer, 1982, Informant accuracy in social network data V: An 
+experimental attempt to predict actual communication from recall data, Social Science Research 11, 
+30-66. 
+Birkhoff, G., 1940, Lattice theory (American Mathematical Society, Providence). 
+
+
+[PDF PAGE 34]
+190 
+K. Faust/Social Networks 19 (1997) 157-191 
+Bonacich, P., 1972, Technique for analyzing overlapping memberships, in: H. Costner, ed., Sociological 
+methodology 1972 (Jossey-Bass, San Francisco) 176-185. 
+Bonacich, P., 1978, Using Boolean algebra to analyze overlapping memberships, in: K.F. Schuessler, ed., 
+Sociological methodology 1978 (Jossey-Bass, San Francisco) 101-115. 
+Bonacich, P., 1991, Simultaneous group and individual centralities, Social Networks 13, 155-168. 
+Bonacich, P. and G.W. Domhoff, 1981, Latent classes and group membership, Social Networks 3, 175-196. 
+Borgatti, S.P., M. Everett and L.C. Freeman, 1992, UCINET IV version 1.6/X (Analytic Technologies, 
+Columbia). 
+Breiger, R.L., 1974, The duality of persons and groups, Social Forces 53, 181-190. 
+Breiger, R.L., 1990, Social control and social networks: A model from Georg Simmel, in: C. Calhoun, M.W. 
+Meyer, and W.R. Scott, eds., Structures of power and constraint: Papers in honor of Peter M. Blau 
+(Cambridge University Press, Cambridge) 453-476. 
+Coombs, C., 1964, A theory of data (Wiley, New York). 
+Davis, A., B. Gardner and M.R. Gardner, 1941, Deep South (University of Chicago Press, Chicago). 
+Doreian, P., 1969, A note on the detection of cliques in valued graphs, Sociometry 32, 237-242. 
+Doreian, P., 1979a, On the delineation of small group structures, in: H.C. Hudson, ed., Classifying social data 
+(Jossey-Bass, San Francisco) 215-230. 
+Doreian, P., 1979b, On the evolution of group and network structure, Social Networks 2, 235-252. 
+Faust, K. and S. Wasserman, 1992, Centrality and prestige: A review and synthesis, Journal of Quantitative 
+Anthropology 4, 23-78. 
+Fernandez, R.M. and D. McAdam, 1988, Social networks and social movements: Multiorganizational fields 
+and recruitment to Mississippi Freedom Summer, Sociological Forum 3, 357-382. 
+Foster, B.L. and S.B. Seidman, 1984, Overlap structure of ceremonial events in two Thai villages, Thai 
+Journal of Development Administration 24, 143-157. 
+Freeman, L.C., 1979, Centrality in social networks: Conceptual clarification, Social Networks 1,215-239. 
+Freeman, L.C. and A.K. Romney, 1987, Words, deeds and social structure: A preliminary study of the 
+reliability of informants, Human Organization 46, 330-334. 
+Freeman, L.C. and D.R. White, 1993, Using Galois lattices to represent network data, in: P.V. Marsden, ed., 
+Sociological methodology 1993 (Blackwell, Oxford) 127-146. 
+Freeman, L.C., A.K. Romney and S.C. Freeman, 1987, Cognitive structure and informant accuracy, American 
+Anthropologist 89, 310-325. 
+Freeman, L.C., S.C. Freeman and A.G. Michaelson, 1989, How humans see social groups: A test of the 
+Sailer-Gaulin models, Journal of Quantitative Anthropology 1, 229-238. 
+Freeman, L.C., S.P. Borgatti and D.R. White, 1991, Centrality in valued graphs: A measure of betweenness 
+based on network flow, Social Networks 13, 141-154. 
+Friedkin, N., 1991, Theoretical foundations for centrality measures, American Journal of Sociology 6, 
+1478 - 1504. 
+Galaskiewicz, J., 1985, Social organization of an urban grants economy (Academic Press, New York). 
+Homans, G.C., 1950, The human group (Routledge and Kegan Paul, London). 
+Hubbell, C.H., 1965, An input-output approach to clique detection, Sociometry 28, 277-299. 
+Katz, L., 1953, A new status index derived from sociometric analysis, Psychometrika 18, 39-43. 
+Knoke, D. and R.S. Burt, 1983, Prominence, in: R.S. Burt and M.J. Minor, eds., Applied network analysis 
+(Sage, Newbury Park, CA) 195-222. 
+Levine, J., 1972, The sphere of influence, American Sociological Review 37, 14-27. 
+Mariolis, P., 1975, Interlocking directorates and control of corporations: The theory of bank control, 
+Sociological Quarterly 56, 425-439. 
+Mariolis, P. and M.H. Jones, 1982, Centrality in corporate interlock networks: Reliability and stability, 
+Administrative Science Quarterly 27, 571-584. 
+McPherson, J.M., 1982, Hypernetwork sampling: Duality and differentiation among voluntary organizations, 
+Social Networks 3, 225-249. 
+McPherson, J.M. and L. Smith-Lovin, 1982, Women and weak ties: Differences by sex in the size of voluntary 
+organizations, American Journal of Sociology 87, 883-904. 
+Mintz, B. and M. Schwartz, 1981a, The structure of intercorporate unity in American business, Social 
+Problems 29, 87-103. 
+
+
+[PDF PAGE 35]
+K. Faust/Social Networks 19 (1997) 157-191 
+191 
+Mintz, B. and M. Schwartz, 1981b, Intedocking directorates and interest group formation, American 
+Sociological Review 46, 851-869. 
+Mizruchi, M.S., 1982, The American corporate network 1904-1974 (Sage, Beverly Hills). 
+Mizruchi, M.S., 1992, The structure of corporate political action: Interfirm relations and their consequences 
+(Harvard University Press, Cambridge). 
+Mizruchi, M.S. and D. Bunting, 1981, Influence in corporate networks: An examination of four measures, 
+Administrative Science Quarterly 26, 475-489. 
+Mizruchi, M.S., P. Mariolis, M. Schwartz and B. Mintz, 1986, Techniques for disaggregating centrality scores 
+in social networks, in: N.B. Tuma, ed., Sociological methodology 1986 (Jossey-Bass, San Francisco) 
+26-48. 
+Perrucci, R. and B.L. Lewis, 1989, Interorganizational relations and community influence structure: A 
+replication and extension, Sociological Quarterly 30, 205-223. 
+Romney, A.K. and S.C. Weller, 1984, Predicting informant accuracy from patterns of recall among 
+individuals, Social Networks 6, 59-88. 
+Rosenthal, N., M. Fingrutd, M. Ethier, R. Karant and D. McDonald, 1985, Social movements and network 
+analysis: A case study of nineteenth-century women's reform in New York state, American Journal of 
+Sociology 90, 1022-1054. 
+Roy, W.G., 1983, The unfolding of the interlocking directorate structure of the United States, American 
+Sociological Review 48, 248-257. 
+Schweizer, T., 1991, The power struggle in a Chinese community, 1950-1980: A social network analysis of 
+the duality of actors and events, Journal of Quantitative Anthropology 3, 19-44. 
+Schweizer, T., E. Klemm and M. Schweizer, 1993, Ritual as action in a Javanese community: A network 
+perspective on ritual and social structure, Social Networks 15, 19-48. 
+Seidman, S.B., 1981, Structures induced by collections of subsets: A hypergraph approach, Mathematical 
+Social Sciences 1,381-396. 
+Seidman, S.B., 1985, Structural consequences of individual position in nondyadic social networks, Journal of 
+Mathematical Psychology 29, 367-386. 
+Simmel, G., 1955, Conflict and the web of group affiliations (Free Press, New York). 
+Sonquist, J.A. and T. Koenig, 1975, Interlocking directorates in the top U.S. corporations: A graph theory 
+approach, Insurgent Sociologist 5, 196-230. 
+Stokman, F.N., 1977, Roll calls and sponsorship: A methodological analysis of Third World group formation 
+in the United Nations (A.W. Sijthoff, Leyden). 
+Vogt, F. and J. Bliegener, 1990, DIAGRAM (Technische Hochschule, Darmstadt; Fachhochschule, Darmstadt). 
+Wasserman, S. and K. Faust, 1994, Social network analysis: Methods and applications (Cambridge University 
+Press, Cambridge). 
+Wille, R., 1984, Line diagrams of hierarchical concept systems, International Classification 11, 77-86. 
+Wilson, T.P., 1982, Relational networks: An extension of sociometric concepts, Social Networks 4, 105-116. 

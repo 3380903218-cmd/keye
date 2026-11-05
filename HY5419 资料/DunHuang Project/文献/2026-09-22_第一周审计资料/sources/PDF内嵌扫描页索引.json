@@ -1,0 +1,346 @@
+{
+  "date": "2026-10-27",
+  "method": "Original JPEG bytes retained in PDF image streams; standalone duplicate images removed",
+  "images": [
+    {
+      "original_image": "sources/scan-images/S07_scan_0311.jpg",
+      "original_image_sha256": "131f76aa081a345a9520624ec42a4592127f1059a90ba953392f0fc464d5e0f8",
+      "original_image_bytes": 1335021,
+      "retained_pdf": "full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+      "retained_pdf_sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022",
+      "pdf_page": 1,
+      "image_xref": 3,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S07_scan_0312.jpg",
+      "original_image_sha256": "96d65aa10fd93037d49abe035f11d1e0e6760280a5ded139fa18d75ce988bdd6",
+      "original_image_bytes": 1371244,
+      "retained_pdf": "full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+      "retained_pdf_sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022",
+      "pdf_page": 2,
+      "image_xref": 6,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S07_scan_0313.jpg",
+      "original_image_sha256": "627d90734463acd5468d826bd7e0b8c615c0e133b48a561243e2c71c9b978e4c",
+      "original_image_bytes": 1315150,
+      "retained_pdf": "full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+      "retained_pdf_sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022",
+      "pdf_page": 3,
+      "image_xref": 9,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S07_scan_0317.jpg",
+      "original_image_sha256": "2cbdf39b12dd6b13795a150b41b1bd297850f70dfdc1ef1a43140c691436f9f8",
+      "original_image_bytes": 1346143,
+      "retained_pdf": "full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+      "retained_pdf_sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022",
+      "pdf_page": 4,
+      "image_xref": 12,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S07_scan_0318.jpg",
+      "original_image_sha256": "fe6ce0fb5cf9e3dbea9afc964e0402113d3d256ac5a072d202ed36fc1ec7e9f5",
+      "original_image_bytes": 1115792,
+      "retained_pdf": "full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+      "retained_pdf_sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022",
+      "pdf_page": 5,
+      "image_xref": 15,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S07_scan_0412.jpg",
+      "original_image_sha256": "8f6c9e96deafee074be816ccf5350e9316656d5e169e1b915a9f0aa61cee5b6a",
+      "original_image_bytes": 1377212,
+      "retained_pdf": "full-text/S07_Serindia_审计关键页_823-825_829-830_916.pdf",
+      "retained_pdf_sha256": "5ea8aff97f4f7874ccf72767f45ddfe5f60e2d6a1f96bcce0a5c3e54ade02022",
+      "pdf_page": 6,
+      "image_xref": 18,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0001.jpg",
+      "original_image_sha256": "e32c493416e8812cb80045cc352800d74d094651d5cc027b5b189d19a9b6171e",
+      "original_image_bytes": 1973245,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 1,
+      "image_xref": 3,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0002.jpg",
+      "original_image_sha256": "6d931d1a2d2a70471438d3ef9ed8a06d34f724032bb667ff482f846764c5c0e3",
+      "original_image_bytes": 985096,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 2,
+      "image_xref": 6,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0003.jpg",
+      "original_image_sha256": "be3b2bf079b89619c6f5798ee3cd70674716086aba513594253efcfef676dbdc",
+      "original_image_bytes": 1376879,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 3,
+      "image_xref": 9,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0004.jpg",
+      "original_image_sha256": "f5cf09b0874c07b6486397adcad6d9726f4a3a3ac283d15244fccfaba9ac73e8",
+      "original_image_bytes": 1162173,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 4,
+      "image_xref": 12,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0005.jpg",
+      "original_image_sha256": "b6ea3abf4858ca231af30389d1a6cda04a675f9d1fe0cd872a1becd49a8d0620",
+      "original_image_bytes": 1618518,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 5,
+      "image_xref": 15,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0006.jpg",
+      "original_image_sha256": "c12c3fd065f2001d7ee36259486d09887a2bbb47d1f28fc0bd12d46f8fda7612",
+      "original_image_bytes": 1565901,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 6,
+      "image_xref": 18,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0007.jpg",
+      "original_image_sha256": "da87da7afc797e99ead09b0925df28fb71f6c2a4330830243498e7c2c53ad863",
+      "original_image_bytes": 1305190,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 7,
+      "image_xref": 21,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0008.jpg",
+      "original_image_sha256": "dcf7bf85094e9cbd5b77ad2991251d325041821f48b7f902d9fe1f5b3c6ddcfb",
+      "original_image_bytes": 1194597,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 8,
+      "image_xref": 24,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0009.jpg",
+      "original_image_sha256": "e18e2687159b1b7c2589b3616a740b1dc4a03184fec9e72b21c7d7a669ed6402",
+      "original_image_bytes": 1611755,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 9,
+      "image_xref": 27,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0010.jpg",
+      "original_image_sha256": "0ecbe0a19410a64c6e640a81d0e9e5a85079cf1881706d9591d2ab809a5fde6e",
+      "original_image_bytes": 2013373,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 10,
+      "image_xref": 30,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0011.jpg",
+      "original_image_sha256": "d7a93dcee7390a1d02ff32a21892a2f825986200b29fa9f36b91d52a0f11ef71",
+      "original_image_bytes": 1867671,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 11,
+      "image_xref": 33,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0012.jpg",
+      "original_image_sha256": "6abe2e51b9f1f8c4b35ef4d20cbe44030e18959bc12c628d63a4d0dfdddfd5de",
+      "original_image_bytes": 2025113,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 12,
+      "image_xref": 36,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0013.jpg",
+      "original_image_sha256": "27c3887fdbd159ffa4f265b264c0433479b1cf093b5b7b7adc76c0ceebe289ee",
+      "original_image_bytes": 1992873,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 13,
+      "image_xref": 39,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0014.jpg",
+      "original_image_sha256": "98adb313a4d6d15a894d8b7681aab8dfd5081dd8e949c23010fb1c70655254b6",
+      "original_image_bytes": 2106793,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 14,
+      "image_xref": 42,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0015.jpg",
+      "original_image_sha256": "e24adcf94a2670d1ba29b1cdc67cd9d32ca41496623860283c9d9f50b7b0bb56",
+      "original_image_bytes": 1977006,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 15,
+      "image_xref": 45,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0016.jpg",
+      "original_image_sha256": "0224893c11b32beace7b8a437097b15208fe7f9a4cb761aaad0e76d0819bfa3d",
+      "original_image_bytes": 1985772,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 16,
+      "image_xref": 48,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0017.jpg",
+      "original_image_sha256": "c1a9fac3e30b14d9e6d357763f0342a7be29add26bbec9a639d9610753f4f21b",
+      "original_image_bytes": 2199568,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 17,
+      "image_xref": 51,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0018.jpg",
+      "original_image_sha256": "1629fcec2f23a4ed923a5420fae625f287f18bfd65c9fdc76ca3b7e82a40aed2",
+      "original_image_bytes": 1964591,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 18,
+      "image_xref": 54,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0019.jpg",
+      "original_image_sha256": "b45726d718629742a909d94ec6145f979049ba1d883a0a30608d6ebef61f2d28",
+      "original_image_bytes": 2042000,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 19,
+      "image_xref": 57,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0020.jpg",
+      "original_image_sha256": "9bdbec0b3b6864963a295d5309537662100f31d89ba763801f56b6cde19b8f45",
+      "original_image_bytes": 2017998,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 20,
+      "image_xref": 60,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0021.jpg",
+      "original_image_sha256": "15163b7d7ff4c05b0620c3520ab12eb6d40f5c6ca058415cbea53c2754401ca6",
+      "original_image_bytes": 1960503,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 21,
+      "image_xref": 63,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0022.jpg",
+      "original_image_sha256": "dc65032ad988e55da0f332673f6984e4814be2339febccb064b60f086676bd97",
+      "original_image_bytes": 1526388,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 22,
+      "image_xref": 66,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0023.jpg",
+      "original_image_sha256": "73c12d1e6f3192d6a5b03dc0b1f805da1b6abc1ada178fc8f8828b2adbb50666",
+      "original_image_bytes": 1545437,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 23,
+      "image_xref": 69,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0024.jpg",
+      "original_image_sha256": "753c0054838d8e36437bdad90224d257903faf802ca0893eeaddef425689529b",
+      "original_image_bytes": 1533980,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 24,
+      "image_xref": 72,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0025.jpg",
+      "original_image_sha256": "90d7cd40dbb88d1c37b72c2bfedd7fda074b3fa049dfa90e3e1678cba6806942",
+      "original_image_bytes": 1143074,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 25,
+      "image_xref": 75,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0026.jpg",
+      "original_image_sha256": "20dc54856d909725360cc80246a67ce18974779b79ebd91f1865263cac72be02",
+      "original_image_bytes": 1401358,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 26,
+      "image_xref": 78,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0027.jpg",
+      "original_image_sha256": "41f9c11d1afd6ddff77c79667cae65ff08fa9939011780637d4c5d146e952dd4",
+      "original_image_bytes": 977567,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 27,
+      "image_xref": 81,
+      "storage": "raw JPEG bytes embedded without change"
+    },
+    {
+      "original_image": "sources/scan-images/S22_scan_0028.jpg",
+      "original_image_sha256": "2a39075cd7102ba27521f7ed075de03d0e50081bd2ceabd42d284ad8fb7f91d0",
+      "original_image_bytes": 1993372,
+      "retained_pdf": "full-text/S22_Pelliot_1910_Trois_ans_完整扫描.pdf",
+      "retained_pdf_sha256": "3a84612e55f8e8cc888d0ef60af29b2683385f1a96a669426588ed594a38735b",
+      "pdf_page": 28,
+      "image_xref": 84,
+      "storage": "raw JPEG bytes embedded without change"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "docx_sha256": "71a4a897028ecffa3f4dda7dba4af5db13f48bc3f06ccb3c0929caf15c30fcb2",
+  "authoritative_application": "Microsoft Word for Mac",
+  "authoritative_status": "unavailable",
+  "reason": "AppleEvent timed out (-1712) during opening; no PDF exported. Existing Word process was left untouched.",
+  "fallback": "macOS Quick Look HTML and thumbnail; full HTML visually inspected via separate headless Chrome instance. Chinese/English glyphs, five references, all paragraphs, and synthesis are legible without overlap in this preview.",
+  "fallback_limit": "Quick Look does not validate Word pagination, page breaks, or footer layout.",
+  "preview_sha256": "ef8e2b1ff46902be56b1a655b52092041b7c3065f87adb2ab9bdfa7200d64b64",
+  "inspection_time": "2026-10-03T00:47:52.180043+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-15",
+  "validator": "evidence-traceable-literature-review/scripts/validate_review_bundle.py",
+  "arguments": [
+    "--format",
+    "json",
+    "--strict-release"
+  ],
+  "result": {
+    "status": "ok",
+    "error_count": 0,
+    "warning_count": 0,
+    "issues": []
+  },
+  "note": "结构校验通过；不认证历史论断的真实性。8篇PDF另经pypdf和PyMuPDF独立解析。"
+}

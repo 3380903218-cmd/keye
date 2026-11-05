@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-20",
+  "workbook_sha256": "78268c0cb573d4d36a0826e04579ae5c49d4f55863251ef8dca79038734af2b8",
+  "original_20_event_rows_first_21_columns_unchanged": true,
+  "zip_integrity": true,
+  "geojson_single_geometry_per_file": true,
+  "exports": {
+    "地点_建筑候选_默认关闭.csv": {
+      "bytes": 1690,
+      "sha256": "cb3cf7c59f2576dd7a54bb113e467d864990e76adefc47cd4c7ea437be16101a"
+    },
+    "知识与实物活动点.csv": {
+      "bytes": 8352,
+      "sha256": "2948a71192974b3a2e88c9d9c9332dc6ccd2de1ae302d9290cba64872eb8456b"
+    },
+    "知识传播_示意线.csv": {
+      "bytes": 1211,
+      "sha256": "31dc13c90f417a5a6ccbf19289c3ab178d6de21502f9be672c63dab7ad996269"
+    },
+    "地点_默认参考点.csv": {
+      "bytes": 6121,
+      "sha256": "a45b2f2e86d20a7cd96404a19bb89f9289c302e3da77dad5267542226e2b25ef"
+    },
+    "对象与馆藏号对应.csv": {
+      "bytes": 8940,
+      "sha256": "e0b55bb5fcbe2a3e40ca269494082fcdc1119388a8b8eb4a2cd2006bd0529567"
+    },
+    "使用说明.md": {
+      "bytes": 3086,
+      "sha256": "36d8e00fca6be05d163ab5f06a42b91fd16c3754718a55dc60ce31a4db80d4f9"
+    },
+    "实物流转_示意线.geojson": {
+      "bytes": 19995,
+      "sha256": "a61e5b2233d00cb07110a258af3871c91ba7c3bbecb33eefd8d516b56c608f13"
+    },
+    "实物流转_示意线.csv": {
+      "bytes": 8262,
+      "sha256": "070e1d697c1eab809486cecf24a97a5294163e6fc3bd0c5a43af96ac4d44f576"
+    },
+    "地点_默认参考点.geojson": {
+      "bytes": 14665,
+      "sha256": "ffce913799f15124433af430141bd1d14d0b252cdb0ecaa2372f08fa8f095117"
+    },
+    "知识传播_示意线.geojson": {
+      "bytes": 2545,
+      "sha256": "6f84335a50543b3c701c15219920411b15e4a74b67fdf42e2167bab02eaf9d37"
+    }
+  }
+}

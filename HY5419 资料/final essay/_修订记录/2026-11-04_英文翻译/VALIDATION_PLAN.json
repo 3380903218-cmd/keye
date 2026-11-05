@@ -1,0 +1,12 @@
+{
+  "source_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+  "required_layers": [
+    "content",
+    "package",
+    "cross-format",
+    "rendered",
+    "delivery-package"
+  ],
+  "output": "HY5419_敦煌项目_批判性反思_英文稿.docx",
+  "scope": "Faithful English translation, APA 7 citation formatting, original figures preserved."
+}

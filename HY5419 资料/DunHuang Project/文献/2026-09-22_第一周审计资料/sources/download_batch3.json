@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "S22_MANIFEST",
+    "filename": "S22_Pelliot_IIIF_manifest.json",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/V-1/manifest.json"
+  },
+  {
+    "source_id": "S22_VOLUME",
+    "filename": "S22_Pelliot_1910_volume.html",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/V-1/"
+  },
+  {
+    "source_id": "S07_VOLUME",
+    "filename": "S07_Serindia_volume.html",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/"
+  },
+  {
+    "source_id": "S17_METADATA",
+    "filename": "S17_UEA_metadata.html",
+    "url": "https://ueaeprints.uea.ac.uk/id/eprint/76988/"
+  }
+]

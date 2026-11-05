@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-13",
+  "approach": "Original editable composition based on visual inspection of public template previews; no template assets imported",
+  "references": [
+    {
+      "title": "Art Exhibition — Envato / SlideFactory",
+      "url": "https://elements.envato.com/art-exhibition-google-slides-PHLAGPK",
+      "used": "Detail crops and varied image-to-text hierarchy",
+      "not_used": "Stock artwork, layouts, logos and template file"
+    },
+    {
+      "title": "Museum Gallery PowerPoint — Envato / Yanstd",
+      "url": "https://elements.envato.com/museum-gallery-powerpoint-DJJZ8SJ",
+      "used": "Comparison of collection displays and typographic levels"
+    },
+    {
+      "title": "Art Museum Theme — Slidesgo",
+      "url": "https://slidesgo.com/theme/art-museum-theme",
+      "used": "Comparison of large image-led opening and light/dark page rhythm"
+    }
+  ]
+}

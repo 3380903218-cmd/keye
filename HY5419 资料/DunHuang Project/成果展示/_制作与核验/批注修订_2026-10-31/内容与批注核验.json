@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "comments_accepted": 3,
+  "unresolved_comments": 0,
+  "comment_threads_retained": 3,
+  "comments_marked_resolved": 3,
+  "main_spoken_words": 486,
+  "bilingual_items_checked": 54,
+  "optional_excel_demo": true,
+  "main_timing": "Five-minute target; optional spreadsheet demonstration only if ahead of schedule; not a measured live rehearsal.",
+  "baseline_sha256": "108a0739796bf5a146a2ba2d3c93c5fd256f665c930b1967ed0cd19f2d4cca85",
+  "same_original_path": true,
+  "changed_zip_parts": [
+    "word/document.xml",
+    "word/settings.xml",
+    "word/commentsExtended.xml"
+  ]
+}

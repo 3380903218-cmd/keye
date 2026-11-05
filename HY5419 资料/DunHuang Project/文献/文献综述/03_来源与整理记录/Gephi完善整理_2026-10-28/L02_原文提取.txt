@@ -1,0 +1,2431 @@
+=== 原PDF第1页 ===
+RESEARCH
+CORRESPONDING AUTHOR:
+Susan Whitfield
+Professor in Silk Road Studies, 
+SISJAC, University of East 
+Anglia, UK
+s.whitfield@uea.ac.uk
+KEYWORDS:
+Aurel Stein; Dunhuang; 
+manuscripts; Silk Road; 
+Buddhism
+TO CITE THIS ARTICLE:
+Terzi, P., & Whitfield, S. (2024). 
+Reconstructing a Medieval 
+Library? The Contents of 
+the Manuscript Bundles in 
+the Dunhuang Library Cave. 
+Silk Roads Archaeology and 
+Heritage, 1(1), 56–76. DOI: 
+https://doi.org/10.5334/srah.8
+Reconstructing a Medieval 
+Library? The Contents of the 
+Manuscript Bundles in the 
+Dunhuang Library Cave
+PASCHALIA TERZI 
+SUSAN WHITFIELD 
+*Author affiliations can be found in the back matter of this article
+ABSTRACT
+Various theories have been offered for the original purpose of the cache of manuscripts, 
+paintings and other material discovered in July 1900 at Dunhuang. The original order 
+of the cache was not documented but, as several curators and scholars have observed, 
+the documentary evidence made by Aurel Stein, seven years after the discovery, might 
+provide some clues. Despite the potential importance of this for our understanding of 
+this unique find and, more broadly, for life in Dunhuang at this time, to date there has 
+been no systematic attempt to collate the data and test this. 
+In this paper we attempt to review all known evidence concerning the original 
+deposition of the contents of the Dunhuang library cave, looking to distinguish between 
+Stein’s different documentary systems and to explain their rationale through study of 
+Stein’s extensive published and unpublished writings. We conclude that there is strong 
+evidence to show that Stein’s documentation can be used to reconstruct the contents 
+of some of the bundles in the cave as he found them, although not the order of the 
+bundles in the cave itself. The purpose of this paper is to provide the data for other 
+scholars to use, not to propose any new theory. We apply this system to a subset of 
+material to show the potential of this for future research.
+
+=== 原PDF第2页 ===
+57
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+1. THE DUNHUANG CAVE DISCOVERY 
+AND EARLY DISPERSAL OF MATERIAL
+One of the richest discoveries for early medieval history 
+of central and east Asia and their links to cultures beyond 
+was made in June 1900 when a hidden chamber was 
+uncovered at a Buddhist rock-cut temple complex near 
+the town of Dunhuang, in what is now Gansu Province in 
+the Peoples’ Republic of China (PRC). This small chamber, 
+hereafter referred to as the library cave, contained tens 
+of thousands of manuscripts, hundreds of paintings, 
+textiles, artefacts and some printed documents. Dating 
+from the fifth to the eleventh centuries, most texts 
+were Buddhist scriptures in Literary Sinitic and Old 
+Tibetan, reflecting the dominant powers in this region 
+in this period. But there were also manuscripts showing 
+Dunhuang’s links to the wider world, both geographical 
+and cultural, among then Sanskrit manuscripts on palm 
+leaf, as well as Khotanese, Old Uyghur, Sogdian and 
+Judeo-Persian fragments (Galambos 2020: 13–17; van 
+Schaik & Galambos 2012: 29–34).
+No evidence has been found to confirm why this 
+material was placed in this chamber. As van Schaik and 
+Galambos discuss (2012: 18–28), various hypotheses 
+have been offered, from it being a cache of sacred waste 
+to being the contents of a library from a local Buddhist 
+monastery awaiting conservation. The reason and date 
+for its sealing and disguise are also conjecture: Rong 
+notes the various scholars who have suggested that it 
+might have been prompted by threats of invasion (1999: 
+254). Van Schaik and Galambos suggest that it might 
+have been rather a considered act because the storage 
+space was full and no longer of use (2012: 26–28). This 
+is the theory originally offered by M. Aurel Stein (1862–
+1943), in 1907 the first foreign explorer on the scene 
+following the cave’s discovery. This paper is based largely 
+on Stein’s annotations on the manuscripts he acquired, 
+his accounts of his 1907 visit published in 1912 and 1921 
+(the former a popular narrative and the latter a detailed 
+report) and on his archives now in the Bodleian Library, 
+Oxford (hereafter MSS Stein). The archives include his 
+diaries (typewritten copy at MSS Stein 204–5) and pocket 
+notebooks (MSS Stein 141–4), but also several other 
+sources, such as letters to friends and colleagues and 
+later official reports. Although many accounts have been 
+written of his visit, culminating in the excellent work of 
+Rong Xinjiang (1999 and 2013: 79–108), previous authors 
+did not have access to all this documentation and thus 
+their accounts are not comprehensive.  
+According to the reports we have, the cache was 
+discovered by accident on 22–3 June 1900 by the 
+resident self-appointed custodian of the cave, a monk 
+from central China named Wang Yuanlu 王圓籙 (c.1849–
+1931), when workmen under his direction were clearing 
+out sand from the corridor to another chamber. However, 
+it is important to stress that there is no known direct 
+documentary evidence for this account: it is based on 
+later oral reports. Nor is there any known documentary 
+or visual evidence of the chamber when first discovered. 
+The earliest known photographs and written records of 
+the cave are from Stein when he visited in May 1907.1 
+Despite Rong’s assertion that it was the visit of Stein 
+that led to the disruption of the cave’s original order 
+(2013: 115), there is compelling evidence to suggest that 
+Wang had removed and replaced the cave’s contents 
+well before Stein’s visit. It is also without doubt, as Stein 
+mentioned, that Wang examined and then gave away 
+material on several occasions from 1900 onwards (Stein 
+1912: 167–8; Fujieda 1966–70; Rong 2013). 
+Rong explores this in some detail, based mainly on 
+the diary of a contemporary local official Ye Changchi 
+葉昌熾 (1849–1917), Gansu Provincial Commissioner of 
+Education in Lanzhou, and on the writings of the painter 
+Xie Zhiliu 謝稚柳 (1910–97), from the latter’s time at 
+Dunhuang in 1942–3 (Xie 1949). Xie’s account records 
+several dispersals of the manuscripts before Stein, 
+starting from 1900 when Wang sent material to Yan Dong 
+延棟, an official based in Jiuquan east of Dunhuang. Yan 
+Dong gave some to ‘a Belgian man’ from the tax office 
+who, in turn, presented some to General Changgeng 
+(長庚) (2013: 85).2 Recent research published here by 
+Foong Ping tracks a Dunhuang manuscript fragment in 
+the Seattle Art Museum collection back to an official, Rao 
+Yingqi 饒應祺 (1837–1903), and the evidence suggests 
+that he might have acquired the scroll from a ‘Belgian’, 
+Paul Splingaerd (1842–1906), or from other people in 
+Rao’s circle in Xinjiang and Gansu. Rong also explores 
+also how other manuscripts remaining with Yan Dong 
+were later dispersed, ending up in several private and 
+public collections. 
+There were other recipients over the following years, 
+including Ye Changchi, who was presented by Wang 
+Zonghan 汪宗翰 (magistrate of Dunhuang from 1902–
+06), with four manuscripts, a painting and a rubbing 
+in December 1903.3 In 1904, as detailed in his diary, 
+Ye received more material, this time from another 
+Dunhuang official, Wang Zonghai 王宗海, including 
+leaves from a Sanskrit manuscript pothi (Rong 1999: 
+89–91).4 Rong reviews those items now in collections 
+worldwide from this and other pre-1907 dispersals by 
+Wang and although ‘we do not know for sure how much 
+material came out of the cave during this early period’ 
+(102), he suggests that it was hundreds of Chinese scrolls 
+and paintings. He further suggests that some of this 
+material, such as the paintings presented to Ye Changchi, 
+must have been nearer the top of the cave’s contents 
+because they were in excellent condition, that is, they 
+had not been crushed by a weight of material piled on 
+top of them for centuries (92). However, Monique Cohen 
+(2002: 26–30) also discusses paintings now in the Freer 
+Gallery of Art possibly from Ye Changchi and discusses 
+the hypothesis that some are forgeries.
+
+=== 原PDF第3页 ===
+58
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+Of course, it is possible that Wang could simply have 
+examined and given away some of the most accessible 
+material rather than remove the cave’s contents in their 
+entirety, but Rong’s appraisal that ‘in comparison with the 
+contents of the entire cave library, which has been nearly 
+completely published by now, some of the manuscripts 
+and paintings removed by Abbot Wang are still among 
+the best pieces’ (101) would suggest that Wang had 
+looked through a considerable amount of  material to 
+find good examples. It would have been natural for him 
+to remove all the contents on the cave’s initial discovery 
+both to find out what it contained, as well as to uncover 
+any wall paintings and statues, his main interest. This is 
+corroborated by Stein who writes: ‘any indications that 
+the original position of the bundles might have afforded 
+at the time of discovery, had been completely effaced 
+when the recess was cleared out, as the Tao-shih [Wang] 
+admitted, to search for valuables, and again for the 
+purpose of removing the big inscribed slab from the west 
+wall into the passage outside.’ (1912: 182; 1921: 808–9). 
+Stein noted the slab in the corridor during his 1907 visit: 
+‘The inscrn. now walled in on l. of passage was also first 
+discovered in recess. The date is T’ai Ching 9 = 855 A.D.’ 
+(May 23, MSS Stein 294/307).’ Stein’s Chinese assistant, 
+Jiang Xiaowan 蔣孝琬 (d.1922), made a transcription, 
+while Stein made a rubbing, and the text was later 
+translated by the French scholar, Édouard Chavannes 
+(1865–1918) and published in Stein’s expedition report 
+(1921: Pl. CLXXV, Appendix A.).5 Given the dimensions 
+of the cave, it would have been very difficult if not 
+impossible for the stele to have been removed without 
+the cave having been cleared of its contents.
+Although Stein was not allowed to photograph the 
+cave, Wang let him look in and he gave the following 
+description: ‘Heaped up in layers, but without any 
+order, there appeared … a solid mass of manuscript 
+bundles rising to a height of nearly ten feet, and filling, 
+as subsequent measurement showed, close on 500 
+cubic feet.’ (1912: 172).6 He further noted that those 
+‘bundles filled with miscellaneous text, painting fabrics, 
+ex-votos, papers of all sorts .…by their irregular shape 
+and fastening …could readily be distinguished from the 
+uniform packets containing rolls of Buddhist texts in 
+Chinese and Tibetan. Fortunately their very irregularity 
+had caused the Tao-shih to put them on the top when he 
+had built up the wall-like array of what I may call ‘library 
+bundles.’ (182–3) He suggests that several such bundles 
+had been placed at the very bottom of the cave by Wang 
+‘to turn a low clay platform into a level foundation for 
+the manuscript wall above’ (190).7 They contained many 
+paintings and some embroideries. 
+ Apart from the initial disruption, dispersal and 
+probable reordering of cave contents without any 
+documentation prior to Stein’s visit, there are other 
+complicating issues. First is the fact that, as noted by 
+Stein, material was stored in other caves and some of this 
+was almost certainly placed in Cave 17 after its discovery 
+by Wang but no record had been made to distinguish 
+this material from that found in Cave 17, or to note its 
+original find site (1921: 828–9).8 This is corroborated by 
+French Sinologist Paul Pelliot (1878–1945) During his 
+1908 visit he carried out a survey of other caves and 
+found more manuscripts. Yet more were discovered in 
+excavations by the Dunhuang Academy of the northern 
+caves between 1988 and 1995 (Peng and Wang 2000–
+4).9 Pelliot also thought that some material had been 
+placed in Cave 17 after its opening: ‘Pelliot...thinks there 
+were two strata of mss. in the library of Tunhuang—the 
+first consisting of the bundles, all of which were sealed 
+up before the end of the 11th century, and the second 
+a miscellaneous lot brought in from collections of the 
+Mongol period, 14th–15th cent., and thrown loosely on 
+top of the Ancient Fonds.’ (MSS Stein 65/28–9)10 Some of 
+the material clearly dates from later.11 
+2. STEIN’S ACQUISITIONS AND 
+DOCUMENTATION
+A. THE ORDER/DISORDER OF MATERIAL IN THE 
+LIBRARY CAVE
+We will first look at what we can tell of the ordering 
+of the contents of the cave from Stein’s writings and 
+photographs of the cave’s entrance and of various 
+manuscript bundles during his visit in May–June 1907. 
+The earliest known photographs of the interior of the 
+cave were not by Stein but taken in 1908 by Charles 
+Nouette (1869–1910), the photographer on Pelliot’s 
+expedition. These show Pelliot sitting in the cave 
+surrounded by manuscripts (Figure 1). The manuscripts 
+appear to be largely in three formats: piles of flat items, 
+marked A in Figure 1, are most probably formed from 
+piles of largely Tibetan pothi; scrolls which are wrapped 
+together in bundles, marked B, are what Stein called 
+‘regular library bundles’; finally, messier bundles, marked 
+C in the picture.
+Two questions immediately present themselves. First, 
+when Stein arrived in 1907, were all the bundles in the 
+same place as when the cave was opened in 1900? 
+Secondly, did most of the bundles still contain the same 
+manuscripts and paintings as when found in 1900?
+Stein considered these questions. Regarding the first, 
+he concluded that Wang had replaced the material in a 
+different order: ‘The utter confusion prevailing in these 
+bundles and their careless fastening, often without an 
+outer cloth cover, clearly showed that no trouble had 
+been taken to preserve the materials in whatever kind 
+of arrangement they might have originally been found’12 
+(1921: 811). He noted that the ‘miscellaneous bundles’ 
+were on top and concluded that Wang had left these 
+last when replacing material in the cave after his initial 
+discovery and emptying of the cave. 
+
+=== 原PDF第4页 ===
+59
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+On the second question, which is key to our argument 
+here, Stein describes ‘regular bundles’ wrapped in hemp 
+covers, which were mostly sewn up, and considers 
+whether these covers were original or added by Wang 
+(1912: 190).13 He notes that Wang asserted the former. 
+Several of Stein’s photographs shows piles of bundles 
+(Photo 392/27(587–9) and see Figure 9), sewn but ‘the 
+ends are generally left open.’ (1912: 190; 1921: 823). The 
+wrappers shown in these photographs appear to be no 
+more than pieces of cloth with little shaping while other 
+scrolls have no outer wrapper. 
+There is the additional issue of several more 
+sophisticated purpose-made scroll wrappers which were 
+among the finds. Such wrappers were usually made of 
+several layers, with silk or hemp outers reinforced with 
+layers of paper inside, often pieces cut from presumably 
+discarded manuscripts. Some were made with a bamboo 
+outer layer or only from paper. One end was sometimes 
+triangular and had a fabric tie extending from its point 
+to secure the wrapper around the scrolls. Others were 
+rectangular and had ties both inside and out. Very 
+few have survived in their original state: once it was 
+discovered that they contained fragments of manuscripts 
+in their structure, most were taken apart. Two exceptions 
+of the finer type are MAS.858 (Ch.xlviii.001) and MAS.859 
+(Ch.xx.006), both in the British Museum and originally 
+found in miscellaneous bundles by Stein. It is, of course, 
+possible that they originally enclosed manuscripts 
+removed by Wang and it is plausible that he would 
+have focussed on these—their quality compared to the 
+hemp wrappers might have suggested to him that they 
+contained the finer scrolls.14
+Wang Yuanlu had no shortage of time or opportunity 
+to open all the bundles if he had wished. Given that, as 
+discussed above, he gave away several hundred scrolls 
+which were of good quality, he must have looked at a 
+reasonable number. But we argue here that he left many 
+untouched, based on Stein’s observation that many of 
+the covers were still sewn up.15 And while he must have 
+opened some, it is also probable, we argue, given the 
+number of scrolls remaining in many bundles visible both 
+from photographs and from Stein’s documentation, that 
+he only removed one or two of the finest scrolls from 
+these, if any.16 Since Wang’s  knowledge and interest 
+was with the Chinese material, it is also reasonable to 
+conclude that he ignored most, if not all, of the Tibetan 
+material.17 
+We therefore do not address here the issue of how the 
+bundles of the manuscripts and paintings were originally 
+placed in the cave but rather look at whether it is possible 
+to reconstruct any of the individual bundles from the 
+annotations Stein made on the manuscripts, based on 
+the assumption that the contents of most of the regular 
+bundles were as originally placed in the cave. 
+B. STEIN’S ACQUISITIONS FROM THE LIBRARY 
+CAVE
+To understand Stein’s annotations, it is first important 
+to be clear about how and when he acquired material 
+from the cave, especially as there were at least four 
+separate times of acquisition: we call these ‘acquisition 
+events’.18 These are listed (in the form Acn, Ac for 
+Acquisition, 
+followed 
+by 
+number), 
+dated—when 
+known— and explained below. Ac1 is subdivided into 
+four parts, important for understanding the annotations, 
+as discussed later.  While in a very few cases Stein’s 
+published and unpublished records do not always tally 
+exactly and are not always clear, they nevertheless 
+give an almost complete and consistent account.19 Not 
+included in this list is his initial brief visit to Mogao on 
+16 March 1907 when Wang was absent and Stein was 
+shown one Chinese scroll by a young monk (1912: vol. 2, 
+20–31). 
+Ac1: Dunhuang Mogao, 22–30 May, 1907 [see 
+diary and notebook MSS Stein 141]
+Stein arrives 21 May 1907 ‘by 4pm’. (MSS Stein 204/355). 
+On May 22, he takes photographs of the giant Buddha 
+and other caves. Wang shows Jiang the entrance to the 
+cave which he has bricked up and later that night gives 
+Jiang a bundle previously removed from the cave to take 
+to Stein’s tent ’for inspection.’ May 23: Wang has opened 
+the entrance, shows Jiang and Stein the cave and agrees 
+to show them some material. Stein and Wang move to 
+the antechamber to Cave 16 which had a door to the 
+corridor and papered-over windows to the outside so 
+that they could not be seen by any visitors. Wang brings 
+material to them which they examine during the day. 
+Figure 1 Paul Pelliot examining manuscripts inside the library 
+cave in 1908. Photograph: Charles Nouette. Musée Guimet 
+AP8187, with annotation by authors.
+
+=== 原PDF第5页 ===
+60
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+The start of the entry in Stein’s notebook (MSS Stein 
+141/58) reads: 
+‘First explored huge MSS. Hoard. Convolute with 
+Skr. Pothis emerged at 3P.M. Texts in confusion. 
+Large MS 21” × 4”. C.A. [Central Asian] – Prototibn. 
+[Prototibetan] MS. 14” × 2”. Brahmi compl. 32ff. 
+8 packets of Pothi foll.
+1 packet of large sheets (3)
+2 Tibetan rolls.
+Painted cloth, 28” × 18”, perhaps intended for 
+book wrapper. Chin. Inscriptn.’
+Wang was bringing them ‘miscellaneous bundles’ which 
+Stein surmised that he had left until last when replacing 
+material in the cave after his initial discovery and 
+emptying of the cave.20 As mentioned above, material 
+in these bundles might also have come from different 
+caves and/or been the remaining contents from bundles 
+which Wang had previously unpacked for gifting. 
+After Stein and Wang had made their selections in 
+Cave 16 during the day and left there ‘a big bundle of 
+properly packed manuscripts and painted fabrics’ (1912: 
+179) they returned to their quarters—Stein to his tent 
+pitched in front of the caves and Jiang to the camp he had 
+made at the foot of the large Buddha in Cave 130.21  Their 
+daily selections were then taken by Jiang to Stein’s tent 
+under cover of darkness. The bundles contained many 
+paintings and banners as well as material in languages 
+other than Chinese or Tibetan (1921: 801ff). (Ac1a)   
+Wang then mostly emptied the cave and stacked 
+the bundles in the corridor of Cave 16 (by nightfall 28 
+May) and these were counted and photographed by 
+Stein (Figure 3). Stein and Jiang set aside paintings and 
+other non-Chinese textual material from the bundles. 
+Stein then examined the few bundles left in the cave 
+and extracted more paintings and textiles on May 28 
+and 29 (1912: 193). On the morning of May 29 Stein 
+and Jiang took their latest selections to Wang. Wang 
+had meanwhile returned the bundles to the Library 
+Cave ‘except 30–40 less well preserved rolls.’(MSS Stein 
+204/319). The material replaced by Wang in the cave 
+seems to have included some previously selected by Stein 
+as he writes ‘but I managed to extract from it [assuming 
+here he means the Library Cave] about half of formerly 
+selected bundles. First taken by Sieh [Jiang] to be added 
+to 54 now laid out and marked.’(Ibid.) He then gives 
+an inventory. In addition Wang also presented them 
+with ‘several broken bundles, also large embroidered 
+Buddha curtain, app. lifesize.’ The latter is the piece now 
+commonly known as the Vulture Peak embroidery.22 
+‘Transaction settled by 11.10 A.M. to mutual satisfaction’, 
+ie payment agreed. At 10.30 pm, when it was dark, Jiang 
+went with two others to retrieve the material agreed and 
+they returned ‘by streambed’ to Stein’s tent at 1130pm 
+with ‘two huge bag fulls. Brought in two more Taghars 
+[bags] on second trip…. Bags left outside tent at 1215 am 
+and carried to house later.’23 (MSS Stein 204/321)
+On May 30 the MSS were placed in the storage hall 
+and Wang visited to thank Stein for the payment. He 
+then left for begging alms in the town. Stein visited and 
+photographed some of the rock-cut temples, sorted and 
+packed the manuscripts and paintings (note on June 3, 
+141/61) and also took photographs of some material 
+(June 4, 141/61 and see British Library, Photo 392/27(565, 
+567, 580ff)).
+On June 6 Wang has returned and Stein was allowed 
+to make further selections from the miscellaneous 
+bundles: ‘previously overlooked silk paintings eg C.lx.-C.
+lxvi.- also some others from C.i.’ … ‘Which I had left some 
+fine silks in shyness the first day’ (MSS Stein 204/338). 
+(Ac1b) and was also presented with ‘13 bundles of 
+Chinese rolls containing mainly Chinese scrolls and 
+Tibetan pothi.’24 (Ac1c) There was a further group of 
+miscellaneous bundles below these which also contained 
+many paintings and textiles, which Stein set aside and 
+to which he gave site and bundle numbers to over the 
+following day. Regular bundles were added by Wang 
+to this material during the negotiations for purchase, 
+but there was no opportunity to give these site-marks 
+at the time.’ (Ac1d: probably about 40–50 bundles, see 
+below). In total, Ac1a-d consisted of over 300 paintings/
+embroideries, a case of Tibetan and other non-Chinese 
+material, and 90 bundles of Chinese/Tibetan manuscripts 
+containing about 1200 items which altogether were 
+packed in 16–17 cases.25
+Ac2:  Anxi, 1 October, 1907 (see diary)
+Jiang returns to Dunhuang from Anxi and acquires more 
+bundles from Wang which he takes to Anxi, variously 220 
+or 230 bundles, approx. 3000 text rolls … mostly Chinese 
+sutras and Tibetan buddhist works  .. single Sanskrit MS. 
+on palm leaf.’ (MSS Stein 4/139).26 These were originally 
+packed in huge bags and transferred to crates in Khotan 
+in July 1908 (see below). They were almost certainly not 
+given any numbers until Khotan (see Id2 below).
+Ac3: Dunhuang Mogao, 2–7 April 1914
+570 Chinese scrolls: five cases (MSS Stein 216/28, 7/4/14: 
+AS to PA, 11/4/14, MSS Stein 11/49–50).‘each as large as 
+a pony could conveniently carry.’27 (Stein 1928: 358) In 
+the packing list for the 3rd expedition, he lists these as 
+bundles, namely 53 bundles and detached rolls from 5 
+bundles, although this presumably includes the material 
+from Ac4, at least 46 rolls.  
+Ac4: Various, 1913–16
+Stein mentions purchasing manuscripts with Dunhuang 
+as their purported provenance during his 3rd expedition 
+from several sources. The first were offered to him by ‘an 
+
+=== 原PDF第6页 ===
+61
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+unknown Chinese well-wisher’ on his arrival at Dunhuang 
+town on 1st April 1914, ‘Ching [rolls] 21’ for which he paid 
+a ‘modest’ sum (not recorded in his accounts unless 
+included in the payment on the following day). The same 
+person returned the following day with ‘fresh bundle of 
+c.25’ for which Stein paid 5 taels of silver.28 Stein also 
+noted that many officials, including McCartney, had such 
+manuscripts.29 It is not clear whether he was given any 
+of these. It is possible that some of these were forgeries.
+C: STEIN’S INVENTORIES OF HIS 
+ACQUISITIONS
+Stein had a system for inventorying his finds. When 
+he visited a new archaeological site, most previously 
+unrecorded, he would give it a site id. So, for example, 
+the site of Niya, the  kingdom of Cadota in the southern 
+Tarim to the west of Dunhuang, was N.  He would make 
+a survey and plan of the site and assign an upper-case 
+roman numeral to each discrete location at the site, such 
+as a house or temple, so N.I., N.II., marked on his plan. 
+If applicable, he then used a lower-case roman numeral 
+to indicate the rooms or sections of the house/temple. 
+Any finds discovered were numbered sequentially after 
+this and annotated with this site id. This work was usually 
+carried out every evening by Stein and he also prepared 
+separate lists of the items. When the items were later 
+sent to London, his assistants there could check off the 
+annotated objects as they unpacked them against the 
+lists. Any missing items would immediately be evident. 
+The excavated items were then listed in the index to his 
+expedition reports under this number.
+Stein was generally meticulous in this work and 
+curators and scholars have benefitted from it since. Given 
+the amount of material and logistics in the field, there are 
+surprising few cases when items are not annotated. But 
+the rock-cut temples at Mogao, Dunhuang, was not an 
+archaeological site. Although much neglected it was still 
+active as Stein himself noted.30 And, as described above, 
+Stein acquired the material from the library cave in rushed 
+and clandestine circumstances. Unlike other material, 
+therefore, there was no complete master list to use for 
+checking when unpacking the Dunhuang manuscripts 
+and paintings in London, nor were all annotated with a 
+site id.31 Consequently, relatively few, about 600 out of 
+several thousand, were listed in the index to Serindia. 
+Nevertheless, Stein tried as far as possible to annotate 
+and document what he could in the time available. In 
+order to understand this documentation, we found it 
+helpful to break down the systems used by Stein and 
+others over the periods of acquisition and when and 
+to which groups of material they were applied. For 
+convenience, we label these identifications as Idn.
+Id1: Ch.i.001, ie Ch. following by Roman number, 
+lower case, and then Arabic number with two 
+leading zeros. We also include under this category 
+Id1a and Id1b, in both of which the final serial 
+number is missing, eg Ch.ix.. The second part is 
+sometimes given in upper case Roman numerals, 
+see especially Tibetan manuscripts.  In some 
+cases, Ch is not present or C is used. Stein noticed 
+this when visiting the British Museum in 1910 
+and clarified that all Mogao material should be 
+prefixed ‘Ch.’ (MSS Stein 147/20). Listed in the 
+index of Stein’s 1921 report. (See Figure 2a-d).
+Id2: mazi number, usually in red, often also in 
+Arabic numbers in blue pencil. Not in 1921 index 
+(but see below). (See Figure 4).
+Id3: Ch.1 ie. Ch. followed by number with no 
+leading zeros. In 1921 index.
+Id4: Ch. + Arabic numeral + Roman numeral + 
+(Arabic numeral), eg. Ch.78.X.(1). Not in 1921 
+index.
+Id5: Ch.001, ie Ch. with number with two leading 
+zeros. In 1921 index. Chinese/Khotanese/Sanskrit
+Id6: Ch.01, ie Ch. with one leading zero, used on 
+2nd and 3rd expedition. In 1921 index. 
+Id7: Chien.0001, ie Chien. followed by number with 
+3 leading zeros. Not in 1921 index.
+Id8: other numbers written on the manuscripts in 
+various formats.
+A survey and documentation of the annotations on all 
+the material in the Stein collection is not yet complete 
+but we are confident that this list is comprehensive 
+as it is based on an examination of several thousand 
+manuscripts as well as the other documentation and 
+working with the manuscripts and other material for 
+many years. Ch. is the site id. assigned by Stein, short for 
+Ch’ien-fo’-t’ung, the common romanisation at the time 
+for the Chinese 千佛洞 ‘Thousand Buddha Caves’. Below 
+Figure 2 Examples of Id1: the top three, are almost certainly 
+in Stein’s hand and made in situ; the bottom two were 
+made on unpacking in the British Museum or copied from 
+Stein’s annotation when the item was conserved. From 
+1919,0101,0.125; 1919,0101,0.162; IOL San 389; IOL Khot 
+19; IOL Khot 2. The bottom two also show the addition of 
+cataloguing numbers.
+
+=== 原PDF第7页 ===
+62
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+we examine the identifications and try to identify when, 
+where and by whom they were applied.
+Id1 (eg. Ch.i.001): is the system which Stein applied 
+on his second expedition to the manuscripts, paintings 
+and textiles retrieved first from what he called the 
+miscellaneous bundles, Ac1a, and which he had time to 
+annotate on the ground, as was his usual practice. He 
+originally used ‘C’ for Ch’ien-fu-t’ung, as seen in his diary 
+and on some manuscripts, eg. C.i. - C.lvii. given in his diary 
+(MSS Stein 294/308–17). It is probable that he also labelled 
+items in Ac1b and Ac1c at this time (but see below), with 
+the same system, but the system then fell apart owing 
+to the amount of material and the very limited time 
+available. This id. records the material by bundle, as 
+noted by Takeuchi, the bundle number shown by the 
+Roman number (2012: 210). The items in the bundle are 
+then given a serial number, 001 etc. However, the serial 
+number was added on unpacking at the British Museum.32 
+Items with id. in this format are listed in Serindia as 
+‘paintings, woodcut, textiles, and miscellaneous antiques’ 
+(Stein 1921: 544) from Dunhuang, eg. the sutra wrapper 
+mentioned above, MAS.858 (Ch.xlviii.001). 
+In some cases, the final part of the id. is not given: 
+we only have the site and bundle number, the latter 
+sometimes in lower case and sometimes upper case, eg. 
+Ch.ix (Id.2a), Ch.IX (Id.2b). In others, the number is on 
+later repair paper and in a different hand: but this almost 
+certainly copied from Stein’s notation which was lost or 
+covered over during the repair. 
+The last bundle number found recorded on Chinese, 
+Khotanese and manuscripts other than Tibetan is cvi 
+(106).33 Tibetan manuscripts contain ‘CCC’ but these 
+notations are not in Stein’s hand and evidence suggests 
+that these were added later by the cataloguer (la Vallée 
+Poussin 1962: 109) and are not part of Stein’s original 
+system. The Tibetan manuscripts show several such 
+discrepancies, discussed below.
+From Stein’s diary we can see the bundles he looked 
+at each day: May 23rd: C.i. to C.ii.; 24th: C.iii.to C.xxi.; 25th: 
+C.xxii. to C.xxx; 26th: C.xxxi to C.xli; 27th: C. xlii to C.xlvi; 28th: 
+C.xlvii. to C.lvii (MSS Stein 294/308–17).Thus the bamboo 
+sutra wrapper mentioned above, MAS.859, which has the 
+id. Ch.xx.006, was one of the items selected on 24th May 
+1907 from bundle 20 (xx) while viewing material brought 
+to him by Wang Yuanlu in the antechamber to cave 16. 
+It was then the sixth item annotated from this bundle by 
+Stein’s assistants when unpacked at the British Museum. 
+The miscellaneous or mixed bundles were brought 
+out first because they were on top, placed there, Stein 
+assumed, by Wang after he had emptied and then 
+refilled the cave, because of ‘their very irregularity.’  This 
+suited Stein as they contained many manuscripts, in both 
+scroll and pothi format, with Brahmi script, generally 
+to transcribe Sanskrit and Khotanese languages. They 
+also contained many Tibetan pothi mixed up in varying 
+sizes ‘in great confusion’ (1921: 816) as well as texts 
+in Old Uyghur and Sogdian. As Stein notes, because of 
+lack of time, ‘no classification of the different objects 
+(manuscripts, paintings, decorated fabrics etc.) found 
+in the same bundle could be attempted.’ (Stein 1921: 
+814 n.2).34 Nor, as Stein admits, was this system 
+comprehensive: when numbering took place later many 
+paintings and manuscripts were not part of any bundle 
+and therefore simply given a serial number, preceded by 
+two zeros (Id5 below, eg Ch.001)35
+As noted above, Stein spent from 23–27 May examining 
+these miscellaneous bundles, interested in anything 
+dated and in languages and scripts other than Chinese. 
+On 28 May, Wang Yuanlu removed the remaining regular 
+bundles of Chinese and Tibetan manuscripts from the 
+cave and placed them in the corridor of Cave 16 where 
+they were photographed by Stein (Figure 3), although 
+this negative was double-exposed.36 Stein also counted 
+Figure 3 The double exposed image showing some of the 
+bundles of manuscripts in the corridor of Cave 16. Stein 1907. 
+The British Library, Photo 392/59(2).37
+Figure 4 Detail of the verso of manuscript Or.8210/S.101 
+showing the mazi number in red and title in black added by 
+Jiang and the corresponding Arabic number in blue pencil 
+added on unpacking or later. The British Library.
+
+=== 原PDF第8页 ===
+63
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+them, noting there were 1,050 Chinese bundles each 
+containing about a dozen manuscripts, as well as eighty 
+packets of Tibetan scrolls and pothi and eleven large 
+Tibetan pothi (Stein 1921: 822–3).
+There were more large mixed bundles originally 
+beneath these in the cave which Stein examined on 28 
+and 29 May and assigned bundle numbers Ch.xlvii-lvii. He 
+hypothesized that these had been placed at the bottom 
+of the cave by Wang to level the floor: whether this was 
+their original position in the cave is impossible to say. 
+These largely contained paintings which he noted were 
+very difficult to extract because the bundles had been 
+crushed. He also selected more material from the earlier 
+bundles at this time and presumably annotated them 
+accordingly. The additional bundles in Ac1c and Ac1d 
+were not annotated at this time.
+Id2: refers to annotations made in red found on 
+a proportion of the Chinese manuscripts which use 
+a Chinese numbering notation often called Suzhou 
+mazi, which was the traditional system used in 
+accounting and mathematics in China (Figure 4). 
+Many manuscripts also have this as an Arabic number 
+written in blue or black pencil. Given the use of this 
+Chinese system, these numbers were almost certainly 
+written on the manuscripts by Jiang. The start of 
+the sequence shows Chinese titles written in red ink, 
+same as the mazi, and probably in Jiang’s hand. As 
+Stein records, this work was done in Khotan in June-
+July 1908 at the end of the expedition and before 
+the material was packed for dispatch to London 
+(1921: 916 and Figure 5).38 The Arabic numbers were 
+presumably added in London to help the non-mazi 
+reading assistants. It is possible that some were 
+added when the material was unpacked on the visit 
+of Paul Pelliot in 1910.39
+Jiang was most probably working on Chinese material 
+in Ac1c, Ac1d and Ac2 which had not been annotated by 
+Stein. Stein’s packing list (for case 72) states that Jiang 
+reached number 1318 (MSS Stein 37/119).40 Stein notes 
+also that Jiang prepared an index slip list of these 1318 
+manuscripts, which presumably included the number 
+and title and which was packed in box 91, but this has 
+not been located. No bundle information is included with 
+these (but see below).
+Further support for these mazi numbers being added 
+by Jiang while in Khotan is given by lists of dated 
+manuscripts he came across while doing this numbering 
+and which Stein recorded in his notebooks (eg. MSS. Stein 
+272/59, Figure 6). So, for example, on 27 June 1908 in 
+Khotan Stein noted the manuscript 778 which had the 
+date 743. This corresponds to Or.8210/S.316 which, 
+indeed, has 778 written in mazi in red ink and in roman 
+numbers in blue crayon.41
+Id3 (eg. Ch.1): Found in the text and index to Serindia 
+but not generally on items in this form (but see below on 
+Tibetan) and used for eighteen manuscripts selected with 
+the help of Paul Pelliot and Lionel Giles for reproduction in 
+Plates CLXVI to CLXIX in Serindia because of their ‘exactly 
+fixed dates, their palaeographical features or contents, 
+or for other reasons may claim some special interest.’ 
+(1921: 917–8). The number conforms to the mazi number 
+[Id2]. So, for example Or.8210/S.2199, a nun’s will dated 
+Figure 5 Jiang Xiaowan annotating the Chinese material near 
+the end of the second expedition. Khotan, 31 July 1908.  The 
+British Library, Photo 392/26(831).
+Figure 6 Stein’s notes from 27 June 1908 in Khotan listing 
+dated manuscripts identified by Jiang (MSS Stein 272/59). 
+
+=== 原PDF第9页 ===
+64
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+to 865, has the mazi number 1283 on the manuscript 
+itself. It is referred to as Ch.1283 in Serindia (1921: 918 
+and Plate CLXVIII): similarly, Or.8210/S.367 [Ch.917], 
+Or.8210/S.1524 (Ch.1181] and Or.8210/S.2724 (Ch.401). 
+In some cases, we have not found a corresponding mazi 
+number on the manuscript but this is probably a case of 
+it having been inscribed on a section of the manuscript 
+which has since been lost, e.g. a fragmentary section 
+at the beginning, or on original backing paper, since 
+removed.42 So we can hypothesize with some confidence 
+that Id2 and Id3 give the same information. 
+Using the mazi number with the Ch. prefix gave them 
+a site identification before systematic numbering was 
+carried out. Because the numbers after Ch. correspond 
+to existing mazi numbers, they are not consecutive. They 
+are all Chinese.
+Some Tibetan manuscripts are also inscribed with 
+an id. which starts with this form, eg IOL Tib J 37 has 
+Ch.2.D. And IOL Tib J 42, Ch.2.fr 1. These are not in Stein’s 
+handwriting nor part of this sequence. 
+Id4 (eg. Ch.78.ix.001):  This id. incorporates the site 
+id with the number of the case in which the material 
+was packed in Khotan from June 9 to July 18, 1908, to 
+send to London: Stein prepared a packing list for each 
+numbered crate (MSS Stein 37/117–20, Figure 7).43 So, 
+for example, Ch.78.ix.001, is the first item from bundle 9 
+found in packing case 78. This only seems to have been 
+used for the manuscripts and not for paintings, most of 
+which had an id1 (the paintings were packed in cases 41 
+to 45 and the manuscripts in cases 67 to 91. Cases 67 
+to 71 contained Chinese manuscripts numbered by Jiang 
+in Khotan, ie Id2, and therefore did not receive an Id4.44 
+Case 72 contained manuscripts with Id2, but also two 
+additional bundles which were presumably given an Id4., 
+eg Or.8210/S.692 which has the Id4, Ch.72.VIII.22. 
+These numbers were added to the manuscripts on 
+unpacking in the British Museum by Stein’s assistants 
+there— as we have seen from Stein’s comments above, 
+there was no time to carry out this annotation in Khotan 
+before they were dispatched. The cases started to be 
+unpacked in 1909 (MSS Stein 37/116) but the numbering 
+continued at least into 1914.45
+The ids. on the manuscripts confirm to this system up 
+to case 87. But after this there is some confusion. There 
+is one manuscript on the database marked as from case 
+88, namely IOL Tib J 753, with id. Ch.88.VI. The fact that 
+the bundle number is VI. Suggests that there should be 
+others with bundles number I-V. It is possible that these 
+were Chinese manuscripts and these ids have not yet 
+been recorded. But this is strange as, according to Stein’s 
+packing case lists, cases 73 to 91 contained Tibetan 
+material. We might expect a a few Chinese manuscripts 
+mixed among them, but not many. Similarly, case 89 
+has only two manuscripts, both Chinese: Or.8210/S.2217 
+with Ch.89.V.5 and Or.8210/S.7111 with Ch.89.XII.13/19. 
+Again, the bundle numbers suggest many more 
+manuscripts were annotated with this case number. 
+There are no manuscripts with case number 90, and four 
+—none of which are Tibetan —with case number 91 and 
+bundles numbers I, II, and VII.
+So where are the missing Tibetan manuscripts? There 
+are 90 Tibetan manuscripts with case 9. We know from 
+Stein’s lists that case 9 did not contain manuscripts, so 
+it is a reasonable assumption that these might belong 
+to case 90 or 91. Looking at the id written on these, it 
+becomes more confusing as several of them have clearly 
+been changed from the original annotation or are in 
+different handwriting from many others (see Figure 8a–d). 
+So IOL Tib J 588, for example, was probably Ch.IX.  There 
+are also two manuscripts with Ch.8, one Chinese and 
+one Tibetan, and fifteen Tibetan ones with Ch.2. The last 
+are in a different format, so not followed by a bundles 
+number in Roman numerical, but by a capital letter or 
+fragment number: Ch.2.E. or Ch.2.fr.1.  
+As Stein notes of the Tibetan material, ‘owing to 
+a variety of causes, including their great mass which 
+is second only to that of the Chinese, no sufficiently 
+extensive examination has as yet been possible.’ (1912: 
+218) It is not certain that all of them were numbered 
+immediately on unpacking, possibly because of the fact 
+that, unlike the Chinese scrolls, which each received 
+a distinct number even if they were, strictly speaking, 
+only sections of a longer text which consisted of several 
+scrolls, it was more difficult for the assistants in the 
+British Museum to distinguish distinct texts or sections 
+of text among the mixed up individual pothi leaves. The 
+Figure 7 Part of the list of packing cases from 2nd expedition 
+prepared by Stein in Khotan and with annotations made on 
+unpacking at the British Museum in 1909. The Bodleian Library. 
+MSS Stein 37/120. 
+
+=== 原PDF第10页 ===
+65
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+assistants did not read Chinese or Tibetan.  It is therefore 
+possible that they were set aside at this initial unpacking 
+until they could be sorted by relevant scholars and given 
+other ids later and that those from cases 90 and 91 
+were mainly conflated. Some Tibetan manuscripts were 
+sent to Dr F. W. Thomas (1857–1956), a Tibetologist 
+and Librarian of the India Office, in November 1909.46 
+Manuscripts started to be sent to Louis de la Vallée 
+Poussin (1869–1938) from October 1910 after Stein and 
+he had met in Paris (MSS Stein 102/153). Slips, made in 
+London, were also sent for identification. 
+Caroline Ridding (1962–1941) looked at some of the 
+manuscripts in this early period and then worked with 
+la Vallée Poussin on cataloguing them between 1914–
+18 when he was living in Cambridge (although la Vallée 
+Poussin was named as sole author of the subsequent 
+catalogue 1962).47 It is probable that the manuscripts 
+were sent to Cambridge for this.48 Thomas was to 
+inventory them for the India Office Library, to which 
+they were all assigned and most of the volumes contain 
+index cards signed by Thomas dating to the 1920s 
+which give the LVP catalogue number and id.49 Looking 
+at a random sample shows that the ids recorded in la 
+Vallée Poussin do not always appear on the manuscript; 
+or are partial and sometimes on different pothi. They are 
+also in different handwritings, not Stein’s.50 All of these 
+anomalies support the hypothesis that they were not 
+systematically annotated on the initial unpacking. It 
+might be possible to make more sense of these ids with 
+further study, including comparison of handwriting, but 
+this is the subject for another paper.
+Id5 (eg. Ch.001): used for ‘for 2nd expedition ‘objects 
+which were recovered amongst manuscript bundles 
+etc., at the British Museum’ but not obviously part of 
+any bundle (1921: 836, n. 13). Stein goes on to say, they 
+‘are marked with consecutive numbers, preceded by 00, 
+after the general ‘site-mark’ Ch. (e.g. Ch.0017, Ch.00452 
+etc.).51 Items with this id are listed before those with 
+Id1 in the Serindia list ‘paintings, woodcut, textiles, and 
+miscellaneous antiques’ from Dunhuang. This id. was 
+only inscribed on the objects at the British Museum. The 
+published list continues to Ch.00522. The database of 
+Stein items in London collections includes 691 items with 
+this Id. but many are multiple fragments with same id. no. 
+Stein noted some of the non-Chinese material with 
+these ids when in the British Museum in August 1917 
+(MS Stein 272/132–133) His comment that these were 
+‘not obviously part of any bundle’ is not strictly accurate. 
+There are several manuscripts which contain an id4 and 
+an id5, such as Or.8210/S.2404 and IOL Khot S 14. In both 
+cases the ids are written next to each other in different 
+hands. In the latter case, id4 is scored out. 
+Id6 (eg. Ch.011): This was used by Stein on both his 
+second and third expeditions. In the second expedition it 
+was used for eleven Tibetan manuscripts items, all pothi 
+except Ch.011 which was a collection of scrolls. They 
+appear under this id. in Appendix I of Serindia (1470–1) 
+prepared by Thomas of the India Office, from the catalogue 
+prepared by la Vallée Poussin. The manuscripts are shown 
+on Plates CLXXIII and CLXXIV. They are now catalogued in 
+the IOL Tib J sequence.  The Appendix notes that Ch.011 
+was part of ‘bundle 86.1–4: P. 99’ suggesting this was 
+originally a separate sequence as is suggested by an outlier, 
+Ch.0180, in the index which refers to a Tibetan manuscript, 
+perhaps suggesting that the Tibetan manuscripts had 
+been assigned Ch.012 to Ch.0180, if not beyond. 
+The same id. was then used by Stein on his third 
+expedition for a small group of clay plaques which were 
+given to him by Wang in April 1914, Ch.01–034 (1928: 
+359, 361–2).52 Most of these are now in the New Delhi 
+collection, eg 99/7/19 is Ch.024.53
+Id7 (eg. Chien.0599): material from Stein’s 3rd 
+expedition (Ac3) in which he used the alternative 
+site abbreviation, ‘Chien.’ to distinguish this material 
+from that obtained on previous expedition. This is also 
+corroborated by the position of most of this material at 
+the end of the registration sequence, assigned at the 
+British Museum, of the form Or.8210/S.nn  Although 
+including the prefix, S.8210, which generally refers 
+to material from the 2nd expedition, the manuscripts 
+marked with ‘Chien,’  are primarily found at the end of 
+this sequence, so from Or.8210/S.6350 onwards. This 
+was noted by Fujieda Akira (1911–1998) who believed 
+that many of these were forgeries.54 It is also clear when 
+looking at the manuscripts in storage. The manuscripts 
+get smaller and more various, including booklets etc in 
+various languages. Then, around Or.8210/S.6350, we 
+see complete scrolls again in Chinese, some very long. 
+This concurs with Stein’s observation when negotiating 
+for this material in Dunhuang in 1914.55 In Innermost 
+Asia Stein shows photographs of eight of the scrolls, all 
+labelled ‘Chien.nnnn’ (1928: Plates LXV, LXVI).
+The highest Chien. number we recorded during our 
+initial survey was Chien.0599. This is slightly more than 
+Stein’s count of 570 rolls but it is probable that he includes 
+that c.46 rolls purchased from his ‘well-wisher’ [Ac4] 
+with this material.56 There is probably little information to 
+be had from these about the original order of the scrolls 
+unless we assume that the Chien numbers were given 
+sequentially as each bundle was opened so that we can 
+assume, for example, that Chien 1–10 might belong 
+to the same bundle. But it is still then uncertain how 
+many were in each bundle and so when each bundles 
+starts and ends, so the system soon falls down. They are 
+therefore not discussed further here.57 
+Id8: some items bear different or additional 
+numbering. For example, Or.8210/S.529 has 912 in mazi 
+and Arabic numbers. but also 882 written in black pencil. 
+Sometimes these refer to the catalogue number as given 
+by Giles for the Chinese manuscripts. In other cases, their 
+purpose is not clear, but it is most probable that these 
+were inscribed on the material when it was in the British 
+
+=== 原PDF第11页 ===
+66
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+Museum and being sorted and catalogued. They are not 
+discussed further here.
+Some manuscripts contain ids from more than one 
+system. For example, Or.8210/S.6263, has the numbers 
+Ch.00187 and 80.XI, ie id1 and id5. Given the length of 
+time taken with numbering and the number of different 
+people working on this material this is not surprising. 
+Some cases are discussed below.
+D. TESTING THE DOCUMENTATION 
+To some degree, we can test the validity of the above 
+analysis from the types of material found with the 
+different id numbers. We would expect material with 
+id1&4 to contain manuscripts in all languages along with 
+paintings and banner material, id2-3 to be almost, if not 
+exclusively, Chinese, whereas those with id5 to be mainly 
+smaller, fragmentary pieces. If this model holds up, we 
+can potentially use the ids to reconstruct some of the 
+bundles which Stein acquired. Stein certainly believed 
+this to be the case. On the examination of material after 
+it was sent to the British Museum, he notes: ‘the way in 
+which banners belonging to particular groups have turned 
+up from bundles bearing proximate numbers proves the 
+utility of the care taken in preserving the original ‘site-
+marks’, given by me to the bundles successively brought 
+to light. It also shows that the original contents of the 
+bundles are not likely to have been mixed up altogether 
+by Wang…’ (1921: 852, n.33).
+First, to continue Stein’s reasoning and to test 
+further the above interpretation and accuracy of the 
+documentation, we look below at samples from each id.
+Id1
+This gives information on the contents of the 
+miscellaneous bundles which, Stein notes, were on top of 
+the cave placed there, Stein assumed, by Wang after he 
+has emptied and then refilled the cave, because of ‘their 
+very irregularity.’  He also notes that these might have 
+contained objects brought from other caves, as discussed 
+above. Wang Yuanlu brought them out first for Stein. This 
+suited Stein as they contained many manuscripts, in both 
+scroll and pothi format, with Brahmi script, generally to 
+transcribe Sanskrit and Khotanese languages. They also 
+contained many Tibetan pothi leaves mixed up in varying 
+sizes as well as texts in Old Turkic and Sogdian. 
+Despite the uncertainty over whether they were in 
+this form when originally placed in the cave, it would 
+still be useful to reconstruct these to see if there is any 
+pattern. Since most of this material consists of paintings, 
+non-Chinese documents and other objects, such as the 
+sutra wrapper, id1 has been comprehensively recorded 
+in the various catalogues. Below is what we know of Ch.i. 
+from the IDP database, the catalogues and the index to 
+Serindia — It might be useful if a reconstruction of each 
+bundle was attempted in this way.
+Miscellaneous bundle 1, Id1, namely Ch.i.
+This bundle was brought to Stein on 23 May, and he 
+records that he selected the following 14 items:
+‘6 silk gauze paintings, small;
+2 painted cotton flags, small
+3 large silk paintings;
+2 paintings on paper;
+1 large painting on cotton.’ (MSS Stein 204/306–8)
+He further notes that on 6 June he made further 
+selections 
+‘some others from C.i. …which I had left some fine 
+silks in shyness the first day.’ (MSS Stein 204/338–339)
+If we look at Serindia, Ch.i.001 to 023 are recorded, all 
+paintings except Ch.i.021. Ch.i.021 consists of four items, 
+a-d, namely Khotanese and Sanskrit manuscripts. These 
+can be readily identified with manuscripts in the BL, 
+namely IOL Khot S.19-S.21, S.47 and IOL San 389.  Four 
+of the paintings are on paper (009, 017, 018 and 023); 
+three noted by Stein as on linen (014, 015, 016); the 
+remainder, 15 items, are banners and paintings on silk. 
+This loosely tallies with Stein’s list above.  But there are 
+some issues. Interestingly, the location of Ch.i.001 cannot 
+be confirmed: it does not tally with any of the paintings 
+listed in the BM or NMI collections. It was described in 
+Serindia, published in 1921, but the manuscript for this 
+was finished before the paintings were acquisitioned into 
+the BM collections in 1919, Stein working on it during his 
+extended stay in England from 1916–17. The painting 
+is not listed in the report produced by Raphael Petrucci 
+by 1915 on a division of the collections (Wang 2004: 
+CE32/23/62/2&3).58 To add to the confusion, there are 
+other items with this id: namely Tibetan manuscripts (IOL 
+Tib J 310–1034 and IOL Tib J 363). We discuss the issue of 
+variant Tibetan ids below. The seemingly mislaid painting 
+is more problematic and will be explored further in a 
+future article.59 However, broadly speaking the contents 
+of bundle I. confirm to Stein’s description as given on the 
+ground. It might be worth looking at them in more detail 
+to see if there is anything linking their contents—as Stein 
+suggested for the banners from one bundle, quoted 
+above—but we leave that to others.
+Id2 and id3
+Although no specific bundle number is recorded on these 
+items, it is reasonable to assume that Jiang worked on 
+them by unwrapping and numbering a bundle at a time. 
+This is supported by the annotation of two of the few 
+surviving wrappers with a sequence in mazi. The first is a 
+hemp wrapper, Or.8210/S.11464, and Jiang’s inscription 
+reads ‘Tibetan sutras (番經) from 1081 to 1098’. This 
+is interesting as it suggests that Jiang might have 
+
+=== 原PDF第12页 ===
+67
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+annotated some non-Chinese material. Currently, we 
+have no records of mazi in this sequence on the database, 
+but they have not been checked so this does not mean 
+it does not appear on some. The second, however, is 
+more helpful. It is a wrapper made of layers of paper, the 
+outer layer having a blue-dyed border (Or.8210/S.11049, 
+Figure 8). According to Jiang’s annotation, it contains Id2, 
+605 to 622.  Fourteen manuscripts with mazi numbers 
+in this sequence can be identified in the database: see 
+Table 1.
+This suggests that we would therefore be able to 
+retrieve some bundle information as contiguous numbers 
+would, in many cases, belong to the same bundle. It is 
+difficult to test this further until all the mazi numbers are 
+recorded, but we can say that this sequence may provide 
+some useful information.
+Id4
+This is probably the most useful id to explore as it 
+describes material kept in what Stein called the ‘regular 
+bundles’ in the body of the Library Cave, those whose 
+contents are most unlikely to have been substantially 
+disturbed or rearranged by Wang and thus most likely 
+to be as originally placed there. At present, we can only 
+do an initial test as the database does not yet contain 
+complete data on this id. But, looking  at Ch.76, i.e. 
+material in case 76, we find 202 records on the database 
+with records for 11 bundles, i.e. c.18 items per bundle. 
+Stein described this case as containing 12 bundles of 
+Chinese manuscripts, unsorted. It is not clear if the case 
+originally contained 12 bundles and one of these was 
+accidentally mixed up with another on unpacking; if it 
+contained material which has not yet been recorded on 
+the database; or whether Stein’s original packing list is 
+mistaken. We look at one bundle here (Bundle A and see 
+Table 2 below) and discuss this and two other bundles (B 
+and C) in the next section.
+The highest serial number recorded on a scroll in 
+Bundle A is 37 and the database search brings up 33 
+items; we can reasonably assume that the sequence is 
+near complete. In addition, all the scrolls are also mostly 
+complete — there are no fragments. They all contain 
+the Chinese translation, Wuliangshoujing [佛說無量壽經], 
+of a Buddhist sutra (Sukhāvatīvyūhasūtra, The Infinite 
+Life Sutra), some containing up to four copies.60 All are 
+on medium quality buff paper, c. 31–2cm high.61 Many 
+have a copyist’s name at the end. These names are all 
+found on several other manuscripts, all copies of this 
+sutra. This would seem to support our conclusion and 
+Figure 8 Paper scroll wrapper from Dunhuang, Or.8210/S.11049 
+with annotations by Jiang Xiaowen. The British Library.
+MAZI
+BL MSS. NO.
+TEXT (GILES 1957 NO.)
+DATING
+605
+Or.8210/S.238
+Daoist text: Jin zhen yu guang ba jing fei jing 金眞玉光八景飛經 (6834)
+Empress Wu characters in colophon
+606
+Or.8210/S.244
+Saddharmapuṇḍarı̄kasūtra, ch. 6, sections 23 (end only), 24 (3024)
+606
+Or.8210/S.245
+Saddharmapuṇḍarı̄kasūtra, ch. 2, sections 3, 4 (2429)
+606
+Or.8210/S.246
+Saddharmapuṇḍarı̄kasūtra, ch. 5, section 17 (2891)
+606
+Or.8210/S.247
+Saddharmapuṇḍarı̄kasūtra, ch. 6, sections 18, 19 (2910)
+606
+Or.8210/S.248
+Saddharmapuṇḍarı̄kasūtra, ch. 9, sections 22, 23 (3008)
+607
+Or.8210/S.243
+Mahāprajñāpāramitāsūtra, pt. 1, ch. 31, pin 7 (21) (41)
+609
+Or.8210/S.241
+Vimalakı̄rtinirdeśasūtra, ch. 2, sections 8 (end only), 9 (3442)
+612
+Or.8210/S.235
+Buddhāvataṃsakasūtra, ch. 48 [=ch. 58 (mid.)] (1645)
+616
+Or.8210/S.229
+Sarvadurgatipariśodhana Uṣṇı̄ṣa Vijaya Dhāraṇı̄ Sūtra (N.348) (3828)
+618
+Or.8210/S.236
+Li chan wen, 禮懺文 (6468)
+981?
+619
+Or.8210/S.232
+Guan shi yin bu kong juan suo wang xin shen zhou gong de fa men ming bu 
+kong cheng jiu wang fa 觀世音不空羂索王心神呪攻德法門名不空成就王 (5161)
+621
+Or.8210/S.228
+Saddharmapuṇḍarı̄kasūtra*, ch. 2] section 3 (2375)
+621
+Or.8210/S.233
+Suvarṇaprabhāsottamasūtrendrarājasūtra*, section 16, 17 (2110)
+Table 1 Manuscript scrolls so far identified as contained in the paper wrapper pictured in Figure 8.
+
+=== 原PDF第13页 ===
+68
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+other documentation, that at least some of the bundles 
+when acquired by Stein had retained mainly the same 
+contents—even if Wang had removed some—in which 
+they were placed in the cave. It would also support Rong 
+Xinjiang’s conclusion that ‘these “regular library bundles” 
+were in fact Buddhist sutras stored in traditional bundles.’ 
+However, not all bundles are so consistent, as shown by 
+the two bundles, B and C discussed below.
+Id5
+Searching the IDP database for this id brings up 691 
+items, most of which are fragmentary pieces of textiles, 
+now in the V&A, or small paintings, now in the BM, which 
+supports the narrative. But the sequence also contains 
+manuscripts in Khotanese, Sogdian, Tibetan and Turkic. 
+The Khotanese texts are almost all single pothi while 
+the Tibetan texts consist of one to three pothi. All the 
+Tibetan manuscripts contain at least one other number 
+written in a different hand in pencil, so IOL Tib. J 667 is 
+a single pothi from a Tibetan text. It also contains the 
+annotations: ‘Ch.0017’ 641 B’ and ‘comp. 466’, the first 
+in ink and the others in pencil, in different hands.  ‘IOL 
+Tib J 689 similarly has ‘Ch.0021’ and ‘670’; IOL Tib J 550, 
+has ch.0033 and 527; IOL Tib J 75 has Ch.001 and 72. 
+Although the second number is not the same as the 
+eventual catalogue number, they are all close and so this 
+could represent, we would suggest, an early ordering of 
+the manuscripts for cataloguing prepared by la Vallée 
+Poussin and Ridding between 1914–18. The work was 
+only completed much later by F.W. Thomas and after 
+both their deaths. The Khotanese manuscripts were not 
+fully catalogued until much later, hence no sign of their 
+early ordering in this way.
+Several items also contain an id4: Or.82128/80(B), 
+a Sogdian text which is annotated with ‘Ch.0093.B’ in 
+red ink, which has also been used to score out the id4, 
+namely Ch.87.XIII.001[?]’; Or.8212/81, Ch.83.IX and 
+Ch.00349; and Or.8212/82 (Chinese and Sogdian), with 
+Ch.82.XVI. and Ch.00335. These are identified in a list of 
+Sogdian manuscripts by their id5 in Serindia (924), along 
+with lists of Turkic Texts, also identified by their id1 or id5 
+(924–5). It seems as if these two ids— the first inscribed 
+by Stein on the scene and the latter on their unpacking in 
+the BM—were used in place of id4, despite thereby losing 
+bundle information.
+Although it was determined quite early that, in the 
+division of material between the BM and India, the 
+Chinese manuscripts would go to the former and the 
+Tibetan ones to the latter, there was discussion about the 
+other material until 1914.62 When Stein sent the proofs 
+for Serindia, items such as Ch.0013, a Uyghur text, and 
+Ch.0015, a Manichaean scroll, were assigned to India 
+even though this later changed. The BM non-Chinese 
+material was eventually acquisitioned with material from 
+Stein’s third expedition (1916–18), given the Or.8212 
+prefix and the Keeper, Lionel Barnett, made a handlist 
+(Barnett nd). He did not record the other numbers nor 
+distinguish between 2nd and 3rd expedition material.
+4. RESTORING THE BUNDLES
+Stein noted four types of bundles: B1, miscellaneous 
+bundles; B2, relics of worship; B3, library waste; and B4, 
+regular bundles. It is possible to reconstruct at least some 
+of these from his documentation. What he termed the 
+‘miscellaneous bundles’ (B1) were collections of material 
+brought together by Wang Yuanlu, possibly some from 
+other caves, and possibly some from bundles he had 
+previously unwrapped. Further reconstruction of some 
+of these bundles might be interesting to explore to see 
+whether they can be linked to a specific shrine or period, 
+although there simply might not be sufficient evidence.
+The contents of B2, which he described as ‘relics of 
+worship swept up from different shrines and put aside 
+on account of religious scruple’ (1921: 820), do not have 
+a specific bundle number and it would therefore be 
+difficult to reconstruct them in most cases.
+Stein further hypothesised that some of the larger 
+bundles contained ‘library waste’ such as Ch.xxxv and xxxvii, 
+which contained ‘torn ends of Sutra rolls stiffened with thin 
+sticks of wood; of wooden rollers once used in manuscript 
+rolls; silk tapes; cloth wrappers and similar library “waste”’ 
+(1921: 812). Much of the fragmentary material found at the 
+British Library in the pressmarks Or.6981 onwards fits this 
+description, although some of this sequence also comes 
+from paper fragments removed from other objects. It is 
+unlikely that we can reconstruct these.
+Turning to his final classification, B4, the regular 
+bundles, were many of these, as Rong has argued, 
+‘Buddhist sutras stored in traditional bundles.’? (2013: 
+113) Rong based this conclusion partly on a photograph 
+taken by Stein in 1907 and reproduced below, which 
+shows a pile of bundles still in their hemp covers. An 
+inscription on one of the bundles is clearly visible. It 
+reads: ‘Mohe bore 摩訶般渃—海.’ Rong writes: ‘This is 
+Figure 9 Several regular bundles in their hemp covers, one with 
+an inscription. British Library, Photo 392/27(589).
+
+=== 原PDF第14页 ===
+69
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+precisely the sutra name and bundle number according 
+to the catalogue of canonical texts in the Kaiyuan lu 開元
+錄 catalogue. Indeed, this bundle must contain Bundle 2 
+of the forty-juan version of the Mohe bore jing 摩訶般渃 
+which appears under the character Hai 海.’ (2013: 112)63
+Bundle A, examined below (Table 2), shows that indeed 
+some bundles seem to have been comprised of Buddhist 
+sutras (see Table 2 below), although further work would 
+be needed to see if they were also catalogued according 
+to Kaiyuanlu. Now that we can be reasonably confident 
+that Stein’s Id4 provides information about the original 
+contents of the regular bundles and, based on Rong’s 
+argument and the example in Table 2, that some of them 
+are collections of Buddhist scrolls, here we look at two 
+more bundles for which we have reasonably complete 
+data to see if they also fit this description. 
+The first is that comprising manuscripts with the id4 
+prefix, Ch.84.III, ie bundle 3 in case 84, hereafter referred 
+STEIN BUNDLE
+BL REG. NO.
+TITLE (GILES 1957 NO.)
+HEIGHT/cm
+LENGTH/cm
+COPIER
+Ch.79.IX.1
+Or.8210/S.1875
+Sukhāvatīvyūhasūtra (4911)
+30.8
+528.22
+Lu Rixing
+Ch.79.IX.2
+Or.8210/S.1834
+Sukhāvatīvyūhasūtra (4889)
+31
+497.74
+Fan Zisheng
+Ch.79.IX.3
+Or.8210/S.2019
+Sukhāvatīvyūhasūtra (4930)
+31
+167.74
+Ch.79.IX.4
+Or.8210/S.1838
+Sukhāvatīvyūhasūtra (4892)
+31
+354.34
+Lu Rixing
+Ch.79.IX.6
+Or.8210/S.2012
+Sukhāvatīvyūhasūtra (4923)
+31
+815.34
+Ch.79.IX.7
+Or.8210/S.1862
+Sukhāvatīvyūhasūtra (4901)
+31.2
+172.52
+Song Sheng 
+Ch.79.IX.8
+Or.8210/S.1982
+Sukhāvatīvyūhasūtra (5092)
+30.5
+205.74
+Wang Han
+Ch.79.IX.9
+Or.8210/S.1990
+Sukhāvatīvyūhasūtra (4916)
+31
+678.18
+Zheng Jing
+Ch.79.IX.10
+Or.8210/S.1870
+Sukhāvatīvyūhasūtra (4906)
+31.2
+167.64
+Piliang
+Ch.79.IX.11
+Or.8210/S.2013
+Sukhāvatīvyūhasūtra (4924)
+31.5
+213.36
+Song Sheng
+Ch.79.IX.12
+Or.8210/S.1843
+Sukhāvatīvyūhasūtra (4898)
+31.2
+497.74
+Ch.79.IX.13
+Or.8210/S.1836
+Sukhāvatīvyūhasūtra (4890)
+31.6
+599.24
+Ch.79.IX.14
+Or.8210/S.1866
+Sukhāvatīvyūhasūtra (4902)
+31
+213.36
+Song Sheng
+Ch.79.IX.16
+Or.8210/S.1842
+Sukhāvatīvyūhasūtra (4897)
+31.4
+213.36
+Ma Feng  
+Ch.79.IX.17
+Or.8210/S.1840
+Sukhāvatīvyūhasūtra (4895)
+31.2
+213.36
+Ma Feng
+Ch.79.IX.18
+Or.8210/S.2014
+Sukhāvatīvyūhasūtra(4925)
+31
+441.96
+Ch.79.IX.19
+Or.8210/S.1872
+Sukhāvatīvyūhasūtra (4908)
+31
+162.46
+Lu Rixing
+Ch.79.IX.20
+Or.8210/S.1837
+Sukhāvatīvyūhasūtra (4891)
+31.8
+518.16
+Yao Liang
+Ch.79.IX.21
+Or.8210/S.1868
+Sukhāvatīvyūhasūtra (4904)
+31.3
+213.36
+Ma Feng
+Ch.79.IX.22
+Or.8210/S.2015
+Sukhāvatīvyūhasūtra (4926)
+32
+167.64
+Zhang Juanzi
+Ch.79.IX.23
+Or.8210/S.1861
+Sukhāvatīvyūhasūtra (4900)
+30.2
+182.88
+Ch.79.IX.24
+Or.8210/S.1873
+Sukhāvatīvyūhasūtra (4909)
+31.5
+175.26
+Lu Rixing 
+Ch.79.IX.25
+Or.8210/S.2018
+Sukhāvatīvyūhasūtra (4929)
+31
+198.12
+Ch.79.IX.26
+Or.8210/S.1869
+Sukhāvatīvyūhasūtra (4905)
+32.2
+335.28
+Zhang Juanzi
+Ch.79.IX.27
+Or.8210/S.2017
+Sukhāvatīvyūhasūtra (4928)
+30.5
+162.46
+Ch.79.IX.30
+Or.8210/S.1994
+Sukhāvatīvyūhasūtra (4920)
+31
+731.52
+Ch.79.IX.31
+Or.8210/S.1871
+Sukhāvatīvyūhasūtra (4907)
+30.5
+335.28
+Lu Bao
+Ch.79.IX.32
+Or.8210/S.1867
+Sukhāvatīvyūhasūtra (4903)
+31.3
+335.28
+Ch.79.IX.33
+Or.8210/S.1874
+Sukhāvatīvyūhasūtra (4910)
+30.8
+213.36
+Song Sheng
+Ch.79.IX.34
+Or.8210/S.1995
+Sukhāvatīvyūhasūtra (4921)
+30.5
+213.36
+Song Sheng
+Ch.79.IX.35
+Or.8210/S.1839
+Sukhāvatīvyūhasūtra (4993)
+31.5
+213.36
+Song Sheng
+Ch.79.IX.36
+Or.8210/S.1841
+Sukhāvatīvyūhasūtra (4896)
+31.2
+198.12
+Song Sheng
+Ch.79.IX.37
+Or.8210/S.1844
+Sukhāvatīvyūhasūtra (4899)
+31.1
+167.64
+Fan Zisheng
+Table 2 Bundle A: Contents of Bundle 9 in case 79 (Ch.79.IX).
+
+=== 原PDF第15页 ===
+70
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+to as Bundle B). The highest number recorded with this 
+bundle id. is 14 and 14 items are recorded in the BL 
+collection. They are all in Chinese and in scroll format and 
+all but two are complete. However, as can be seen from 
+Table 3, they do not confirm to any systematic Buddhist 
+cataloguing system, comprising a range of Buddhist 
+texts including both apocrypha and sutras from across 
+the canon.64 Two scrolls are dated to the 7th century. 
+Or.8210/S.1456 has a tabulated colophon, suggesting it 
+was made in the capital of China, Chang’an. It is dated, 
+to 29 June 676, and records that the editor, ‘Fajie (法界) 
+is from Huadu Monastery’ (化度寺 ). Huadu is a known 
+Sanjie (Three Stages) monastery in Chang’an and thus 
+it is probable that the manuscript came from there. The 
+Three Stages school developed in the sixth century and 
+prospered during the seventh and eighth centuries in 
+central China. Among the texts studied by its followers 
+were some which are usually termed ‘apocryphal’ 
+although, as Charles Muller (1998) has discussed, the 
+term covers a variety of texts some of which were later 
+accepted into the Chinese canon. The height of the paper, 
+c.26–28 cm, suggests an early dating (Fujieda 2002: 
+104). But one has a club circular on the verso dating to 
+886, suggesting later reuse of this Buddhist manuscript 
+by the lay community.65 The question then arises as to 
+why this club circular ended up in a bundle with earlier 
+manuscripts. Does this suggest that they were only 
+bundled together after this date? 
+There are many avenues to pursue here, including a 
+more detailed look at the paper and wooden rollers—
+which might also help with dating—and at the mix of 
+texts. Further research might suggest why this group of 
+manuscripts were kept together.
+Bundle 4 from case 80 (Bundle C) is another another 
+bundle for which we have almost complete data, listed 
+in Table 4, but which is much more heterogenous. It 
+contains a mixture of Tibetan and Chinese material in 
+different formats, comprising Buddhist texts, including 
+Tantric invocations, and divination texts. The Tibetan texts 
+and the concertina form of several of the manuscripts, 
+point to a tenth century date, although one of the other 
+texts contains characters mainly used during the reign 
+of Empress Wu (r. 695–701), but not much thereafter. 
+This possibly suggests a much earlier date for this 
+manuscript—or it is a copy of an earlier manuscript 
+by someone unaware of the changed conventions of 
+regimes in China.
+We can see that the manuscripts in the above two 
+bundles (B&C) are certainly not grouped together 
+according to any Buddhist cataloguing system. Based 
+on this initial study, there seem to be three possible 
+conclusions: 1) Stein’s numbering is not consistent; 2) 
+the contents of the bundles are not as originally placed 
+in the cave; or 3) not all the bundles comprised contents 
+selected according to a catalogue or other system. It is 
+impossible to be certain about 1) or 2) but, as discussed 
+above, the evidence we have goes against either of these 
+conclusions. We explore 3) further hereafter.
+Rong suggested that many bundles comprised 
+manuscripts 
+discarded 
+by 
+other 
+monasteries 
+or 
+collected elsewhere to fill in gaps in the Sanjie 
+Monastery collection. He traces the activities of Daozhen 
+(道真), a tenth-century monk who was known to have 
+made acquisitions for the monastery. Or.8310/S.6225 
+(Ch.75.V.3), for example, is a list of such texts with a 
+handwritten note on back from Daozhen.66 It is certainly 
+feasible that this bundle and some of others comprised 
+manuscripts collected by Daozhen. Another possibility 
+is that manuscripts were placed randomly in bundles 
+once considered to be ‘finished with’: a form of sacred 
+BUNDLE
+BL MSS. NO.
+TITLE (GILES 1957 NO.)
+HEIGHT/cm
+WIDTH/cm
+DATE
+Ch.84.III.1
+Or.8210/S.2686
+Foshuoxianghaojing 佛說相好經 (5344)
+ 
+198.12
+Ch.84.III.2
+Or.8210/S.1448
+Mahāprajñāpāramitāsūtra (71)
+26.5
+883.92
+Ch.84.III.3/4
+Or.8210/S.1450
+Buddhanama sutras (4684)
+27.8
+266.7
+Ch.84.III.5.
+Or.8210/S.1445
+Pañcaviṃśatisāhasrikāprajñapāramitasūtra (783)
+26.5
+441.96
+Ch.84.III.6.
+Or.8210/S.1444
+Mahāvaipulyamahāsamnipātasūtra (1590)
+25.4
+701.04
+7th c.
+Ch.84.III.7
+Or.8210/S.2692
+Foshuofawangjing 佛說法王經 (5311)
+ 
+822.96
+Ch.84.III.8
+Or.8210/S.1456
+Saddharmapuṇḍarı̄kasūtra (2818)
+26
+952.5
+676
+Ch.84.III.9.
+Or.8210/S.1446
+Buddhabhasitamahabhisekarddhidharanisutra (3550)
+25.9
+533.4
+Ch.84.III.10
+Or.8210/S.1453
+Vajracchedikāprajñāpāramitāsūtra (1118)
+27.2
+499
+Ch.84.III.11
+Or.8210/S.1447
+Caturvarga-bhikṣunı̄-prātimokṣa (4197)
+25.6
+304.8
+Ch.84.III.12
+Or.8210/S.1457
+Suvarṇaprabhāsottamarajasūtra (2059)
+26
+426.72
+Ch.84.III.13
+Or.8210/S.1458
+Visesacintabrahmapariprcchasūtra  (3683)
+26.1
+952.5
+Ch.84.III.14
+Or.8210/S.1449
+Prajñāpāramitāhṛdayasūtra  (1417)
+27.9
+45.72
+Table 3 Bundle B: Bundle 3 from case 84 (Ch.84.III).
+
+=== 原PDF第16页 ===
+71
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+waste. But a further hypothesis worth exploring is that 
+some were deliberate collections, possibly for example, 
+made by individuals, whether monks or lay believers, 
+and that perhaps they were placed in the cave after the 
+owner’s death.67 Or perhaps the owner had died many 
+years previously and the manuscript bundle kept for 
+safekeeping elsewhere, for example, in a monastery 
+library, until transferred to the cave. It is, of course, 
+almost impossible to test this hypothesis especially with 
+the very sparse samples to date but there is one bundle 
+that provides some tantalising supporting evidence, 
+although far too tentative at present to draw any 
+conclusions. 
+The printed almanac, Or.8210/P.6, can be linked to 
+a local astronomer and almanac writer, Zhai Fengda 
+(c. 883–966). Several of his manuscript calendars are 
+found in the Library Cave (Teiser 1994). The almanac 
+survived as two incomplete parts which had been joined 
+together on the back with paper fragments. As Giles 
+discusses (1939: 1034), these contained text, including 
+the end of a contract with the names of the landlord 
+and two witnesses. Two other parts both mention a man 
+named Zhai. One has a line in black ink reading ‘…written 
+by Zhai, Group Head, Erudite/Doctor in the Prefectural 
+School, and Vice-President of the Censorate, on the 26th 
+day of the fourth month.’ The last character has been 
+corrected in red and there is a shorter line following, also 
+in red which reads: ‘For the attention of bhadanta Qu out 
+of gratitude for his fatherly care.’ The second text consists 
+of four lines reading: ‘Presented by city governor Zhai on 
+the journey east… ‘. Zhai is almost certainly Zhai Fengda 
+and it is a reasonable hypothesis that he acquired this 
+almanac and reused paper with rough copies of notes 
+he had made as backing to extend its life. The almanac 
+probably dates to 877 and was not made locally. Zhai 
+would certainly have been interested in it professionally 
+for its content but also, possibly, by the fact it was 
+printed: none of Zhai’s own calendars are printed.  The 
+Stein id4 on the almanac is Ch.91.I.3. The only other item 
+with this bundle number currently recorded on the IDP 
+database is IOL San 1446 (Ch.91.I.2). This is a sheet of 
+paper containing stamps of Buddhist figures and Sanskrit 
+dhāraṇī on one side. Stamps are, of course, also a form 
+of printing.
+BUNDLE
+BL MSS NO.
+TITLE (LVP/GILES/ENOKI CAT. NO.)
+LANG.
+FORMAT
+HEIGHT/cm
+WIDTH/cm
+Ch.80.IV.
+IOL Tib J 1589
+Aparimitāyurjñāna Sūtra
+Tib.
+scroll
+Ch.80.IV.
+IOL Tib J 384
+Maṇḍalakramavidhi and 
+Amoghapāśamaṇḍala (LVP 384)
+Tib.
+concertina
+9
+29
+Ch.80.IV.
+IOL Tib J 716
+Tantric invocations, Vajrayāna (LVP 716)
+Tib.
+scroll
+25
+158
+Ch.80.IV.
+IOL Tib J 741.1
+[Not clear that exists]
+Tib./Ch.
+scroll
+26
+135
+Ch.80.IV.
+IOL Tib J 452
+1. Suvarṇaprabhāsottamakīrtivarṇana; 
+2. Anuśayapraṇidhāna?; 
+3. Amitābhaguṇayogāsana (LVP 452)
+Tib.
+concertina
+9
+30.5
+Ch.80.IV.b
+IOL Tib J 463
+1. Aṣṭadarśananāmamahāyānasūtra; 
+2. Aparimitāyurnāmamahāyānasūtra (LVP 463)
+Tib.
+concertina
+9
+28.5
+Ch.80.IV.c
+IOL Tib J 441
+Āryasarvabuddhaaṅgavatīnāmadhāraṇī
+Tib.
+pothi
+6.2
+21
+Ch.80.IV.d
+IOL Tib J 337
+1. ĀryaCandanapratimāṅga; 
+2. Ākāśagarbhahṛdaya; 
+3. ĀryaAmṛtacakravidhi; 
+4. BhagavadAvalokiteśvarahṛdaya
+5. Namaskāras (LVP 337)
+Tib.
+concertina
+4.7
+17.8
+Ch.80.IV.f
+IOL Tib J 460
+1. Aṣṭadarśananāmasūtra; 
+2. ĀryaKanakavatīnāmadhāraṇī (LVP 460)
+Tib.
+concertina
+8.5
+25.5
+Ch.80.IV.g
+IOL Tib. 741.2
+Divination text (LVP 741)
+Saddharmapuṇḍarı̄kasūtra (Enoki C26)
+Tib.
+scroll
+26
+135
+Ch.80.IV.h
+IOL Tib J 748
+Prognostications for different years
+Tib.
+scroll
+26
+96
+Ch.80.IV.4
+Or.8210/S.2554
+Commentary on a work of the 
+Dharmalaksana School (Giles 5846)
+Ch.
+scroll
+29
+1706.8
+Ch.80.IV.5
+Or.8210/S.5009
+Prajñāpāramitāsūtra (Giles 1549)
+Ch.
+scroll
+28.1
+45.72
+Ch.80.IV.7
+Or.8210/S.5044
+Mahāprajñāpāramitāsūtra (Giles 25)
+Ch.
+scroll
+777.24
+Ch.80.IV.12
+Or.8210/S.5013
+Saddharmapuṇḍarı̄kasūtra (Giles 2312)
+Ch.
+scroll
+25.7
+840
+Ch.80.IV.13
+Or.8210/S.4640
+List of Buddhist works (Giles 7903)
+Ch.
+scroll
+30.7
+29.4
+Table 4 Bundle C: Bundle 4 from case 80 (Ch.80.IV).
+
+=== 原PDF第17页 ===
+72
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+One of Zhai’s manuscript calendars, probably for the 
+year 956, was presented to the then-ruler of Dunhuang, 
+Cao Yuanzhong (r.944–74) (Tesier 1994: 120–1).68  By this 
+time printed texts were being produced at Dunhuang 
+under Cao’s patronage. Several copies of a Buddhist 
+prayer sheet survive, showing a Buddhist figure in the 
+top half and text in the lower and commissioned by 
+Cao on the occasion of the Ghost Festival in 947.69 
+The woodblock carver is named as Lei Yanmei.70 Two 
+years later Cao commissioned Lei to produce a printed 
+Diamond Sutra ‘to promote high moral standards’.71 
+Interestingly, this is a codex — more like  a modern bound 
+book — rather than scroll format. This might show Cao’s 
+interest in changing technology: the codex form was 
+being developed at this time. But it is also relatively small 
+format, 14 × 10 cm, requiring a smaller woodblock and 
+smaller sheet of paper than for printing a scroll (where 
+each panel of paper was c.46 × 31–32 cm).72 The paper 
+is quite coarse, almost certainly of local production, and 
+the printing is nowhere near the quality of the Diamond 
+Sutra of 868 (The British Library, Or.8210/P.6). Fine quality 
+paper, which we know was often obtained from China 
+and not necessarily locally produced, might have been 
+in short supply or perhaps this production was deemed 
+experimental and not worthy of using the finest paper. 
+All this suggests that Dunhuang was starting to develop 
+printing technology at this time but that it was still a 
+long way behind Tang China: or indeed Korea and Japan 
+where printing is seen from around 700.
+As mentioned above, case 91 is problematic. If we 
+look at Stein’s packing list for case 91, he notes that 
+it contains ‘MSS, from Ch., 1 large Tib. bundle; 2 Chin. 
+bundles; Tib. pothi.’ (MSS Stein 37/120) The almanac 
+was presumably from one of the Chinese bundles. There 
+is one other Chinese manuscript recorded with the id4, 
+Ch.91.II., but these are the only 3 manuscripts so far 
+recorded with this id. (Although, as mentioned above, 
+some might have the id. Ch.9.) We will have to wait to 
+see if more manuscripts/printed documents emerge. 
+Until we have more data, the hypothesis that this bundle 
+contained items associated with Zhai Fengda, if not in his 
+possession, remains extremely tentative. 
+CONCLUSION
+Based 
+on 
+an 
+extensive 
+examination 
+of 
+the 
+documentation relating to the Library Cave, we show 
+that Stein’s documentation is helpful in reconstructing 
+the contents of some of the bundles as they were found 
+in the cave in 1907 when Stein arrived. We further argue 
+that it is probable that many of these regular bundles 
+contained their original contents, although in some 
+cases incomplete as some items might have been 
+previously removed by Wang to send to local officials. 
+From examination of a small — but random — sample, 
+and building on Stein’s original description of four types 
+of bundles, we suggest an at least one additional type, 
+B5 below:
+B1: Miscellaneous bundles of painted and textual 
+material, often in languages other than Literary 
+Sinitic and Tibetan, and some of it from sites other 
+than the Library Cave.
+B2: Miscellaneous bundles of paintings, textiles, 
+banner staves etc, which comprised temple sacred 
+‘waste’ (eg. Ch.xxxv. and xxxvii.).
+B3: Miscellaneous bundles of torn ends of sutra 
+rolls; wooden rollers, silk tapes; cloth wrappers 
+which comprised library ‘waste’.
+B4: Regular bundles, probably mainly in hemp covers 
+some of which were inscribed, containing Buddhist 
+sutras, some catalogued according to the Kaiyuanlu.
+B5: Groups of largely textual material in different 
+categories, possibly including items collected by 
+Daozhen—and maybe others—for the monastic 
+holdings, individual collections or items brought 
+together for other, non-random reasons, yet to 
+be proposed.
+The next step is to complete the recording of the Stein 
+site numbers from the manuscripts and make these 
+fully accessible with the other data held on the IDP 
+database. It should then be possible to reconstruct 
+more of the bundles and to test further these 
+hypotheses and/or propose new ones. Stein was alert 
+to this possibility, the reason he tried to document 
+this material as comprehensively as possible in the 
+very limited time available. Over a century later, 
+and we are still to make full use of this important 
+legacy to understand more about Wang Yuanlu’s 
+exceptional discovery and to move beyond studying 
+the manuscripts and their texts in isolation and place 
+them in their Library context. 
+NOTES
+1	 Other Europeans had visited before 1900, including St George 
+(1851–1931) and Teresa (1839–1928) Littledale in 1895; a 
+Hungarian team, under Count Bela Széchenyi (1837–1918), who 
+produced line drawings and written descriptions of the cave site 
+after their visit in 1879 (see Russell-Smith, 2000); and, a few 
+months later, Nikolai Mikhailovich Przhevalsky (1839–88) who 
+made drawings of the site (1883). But these visits were all before 
+the Library Cave was discovered. Lajos de Lóczy (1849–1920), a 
+member of the Hungarian expedition, described the site to Stein 
+in 1902, one reason for Stein’s visit. Charles-Eudes Bonin (1865–
+1929) visited in 1900 before the discovery of the Library Cave. He 
+took rubbings of some of the Chinese inscriptions in the caves 
+(Bonin (1901) and Doumy’s paper here). See also Enoki (1980).  
+	
+	  Stein first went to the Buddhist site for a day on March 16, 
+1907, and looked at the corridor of Cave 16, but the door to cave 
+17 was ‘locked with a rough wooden door.’ (The Bodleian Library, 
+MSS Stein 1862–1943: 294/267 (hereafter MSS Stein); Stein 
+1912, p.165, n.19). He did, however, see a Chinese Buddhist 
+manuscript from the cave which was held in an adjacent 
+modern Buddhist shrine (Stein 1921, 802).
+
+=== 原PDF第18页 ===
+73
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+2	 He also notes that this accords with Stein 1921: 802, 803–4. 
+3	 Rong traces the two paintings in the Freer Gallery of Art back to 
+Ye Changchi.
+4	 Stein’s reports from his third expedition also corroborate this.
+5	 Correspondence between Stein and Chavannes concerning this 
+dating to July and August 1917 is in MSS Stein 70/18–21 and 
+59–64. See Annick, forthcoming, for further discussion. A copy 
+of Jiang’s original transcription is in MSS Stein 283/79. I have not 
+found the rubbing: it was possibly sent to Chavannes in Paris for 
+translation.
+6	 He was allowed in later after Wang had removed most of the 
+scrolls and he took measurements then for his plan (1921: 
+Plan 4).
+7	 This is the platform built for the statue of Hong Bian (洪辯 
+d.862): the cave was originally excavated as his memorial 
+chapel, as shown by the inscription on the slab (Ma 1978). The 
+statue is believed to have been removed many centuries before 
+when the cave was originally filled with manuscripts. Again, 
+there is no conclusive evidence for this. Of course, it is possible 
+that this was the original position of the miscellaneous bundles 
+and not one chosen by Wang.
+8	 It is, of course, also possible that the cave was in fact sealed 
+later than generally assumed and that this material was added 
+on the top over the following centuries although, as Stein noted, 
+the style of the painting over the hidden door challenges this.
+9	 Also see Rong 1999–2000: 270, who suggested Cave 464 as the 
+source of some of the material and his comments on 272 about 
+other material.
+10	From Laurence Binyon’s letter to Stein, dated 7/3/1913. See also 
+Pelliot 1908: 529 and Stein 1921: 828–9,
+11	For a clear example, see the painting now in the British Museum, 
+1919,0101,0.140, Ch.lii.001 (https://www.britishmuseum.org/
+collection/object/A_1919-0101-0-140). The discussion on this 
+is summarized in Whitfield and Sims-Williams, 2004: cat 243, 
+with further references. There is the further issue of forgeries. 
+Forgeries had been produced before the cave’s discovery, 
+notably by Islam Akhun and others from Khotan who sold 
+their creations to the British and Russian consuls in Kashgar. 
+See Sims-Williams and Waugh 2010 for further discussion. For 
+Dunhuang forgeries see the papers in Whitfield 2002, especially 
+Cohen, cited above, who potentially identifies one of the pre-
+Stein dispersal paintings as a forgery. However, since material 
+acquired by Stein in 1907 is well-provenanced, they are not 
+relevant to the argument presented here. 
+12	Although this, of course, assumes that the ‘confusion prevailing’ 
+was not as they were originally placed. But he thought not as 
+he notes that: ‘Several small bundles of “waste stuff” examined 
+yesterday & today were fully sewn up. This suggests that they 
+were deposited at leisure, not at time of commotion & danger.’ 
+(MSS Stein 204/319). Also 1912: 188. 
+13	‘The bundles were almost all sewn up tightly in coarse covers of 
+linen.’ Stein elsewhere described them as canvas. Given linen 
+is not found at Dunhuang and hemp is, we assume these were 
+hemp. There are several hemp sutra wrappers from the Stein 
+collection in the British Library, eg. Or.8210/S.11463, some 
+undoubtedly used to wrap the ‘regular bundles’, but others of 
+which might have come from bundles which Stein described as 
+‘waste’.  See discussion below and thanks to Mélodie Doumy for 
+locating and discussion on these.
+14	https://www.britishmuseum.org/collection/object/A_MAS-858 
+and https://www.britishmuseum.org/collection/object/A_MAS-
+859. ‘MAS’, Stein’s initials, is the prefix given by the British 
+Museum to artefacts from Stein’s second expedition. Paintings 
+and some textiles have the prefix 1907 to indicate the year 
+of their registration into the British Museum collection, while 
+Chinese manuscripts, which were part of a different department, 
+have the prefix Or.8210 – ‘Or.’ indicating the ‘Oriental collections’ 
+and 8210 the serial number assigned to Stein’s 2nd expedition. 
+Stein material was also sent to India.
+15	If we assume 15 scrolls per bundle, even if he gave away most 
+of the contents of each bundle he examined, then he still would 
+have opened 20–50 bundles. 
+16	A Stein himself notes, it was possible to examine and remove 
+material from the wrappers with open ends leaving the 
+remainder of the bundle intact. Stein found much of his non-
+Chinese material by doing this.
+17	The Tibetan and Chinese language material was probably almost 
+equal in the space it took in the cave. 
+18	There has been confusion over this narrative in some previously 
+published accounts which is a reason to present a detailed 
+chronology here along with the documentary support.
+19	The discrepancies are minor and most convincingly explained 
+by the rushed nature of Stein’s activities over that period, rather 
+than any attempt to mislead. The main narrative source is from 
+MSS Stein 204–5, which are typed transcripts of his field diaries 
+(the original diary for his 1907 time at Dunhuang is MSS Stein 
+199), but also MSS Stein 141–2, which are his pocket notebooks 
+from February to October 190 and various letters to friends.
+20	Although on the top, they still required effort to retrieve as Stein 
+notes: [Wang] ‘grew visibly tired climbing over manuscript heaps 
+and dragging out heavy bundles’ (1912: 179).
+21	Stein describes Jiang’s camp as ‘at the very feet of a colossal 
+seated Buddha reaching through three storeys, and with his 
+innate sense of neatness promptly turned it into quite a cosy 
+den with his camp rugs.’ (1912: 164–5).
+22	British Museum, MAS.0.1129 (https://www.britishmuseum.
+org/collection/object/A_MAS-0-1129). Given its fragmentary 
+state, this might have well been one of the pieces which Stein 
+mentions as having been placed on the floor.
+23	By ‘the house’ he means a hall in one of the two unoccupied 
+houses next to the caves, which is ‘still possessed of a door and 
+trellised windows’ (Stein 1912: 164).
+24	In his diary he says ’13 bundles of Chin. rolls (mostly intact).’ 
+MSS Stein 204/339. In his 1912 and 1921 accounts he says ’20 
+bundles’ (193/825).
+25	He gives these figures in his official report on his second 
+expedition submitted to the government of India on 13 
+November 1908. He asked for the section on Dunhuang to be 
+kept confidential in case he had further opportunity to acquire 
+more material from Dunhuang (Wang 2004: CE32/23/16/2]. 
+Stein’s diaries note 12 cases of manuscripts and 4 of paintings. 
+(MSS Stein 204/344–45). His later published works give slightly 
+different figures: eg in Desert Cathay (1912 II:193) he writes:  ‘He 
+agreed to let me have fifty well-preserved bundles of Chinese 
+text rolls and five of Tibetan ones, besides all my previous 
+selections from the miscellaneous bundles.’ […] we succeeded in 
+making him stretch a point further, and allow me to add some 
+twenty more bundles of manuscripts to my previous selections,’ 
+ie 75 bundles plus previous selections. But he did not always 
+have all his original documentation to hand so these differences 
+in figures are not surprising.
+26	AS to Percy Allen (hereafter PA), 14 October 1907. Also letter 
+to Fred Andrews (hereafter FA), 230 bundles 1 October 1907 
+(MS Stein 37/104 ). And in his report: ‘acquisition of 220 more 
+bundles of manuscripts just received at An-shi. October 1. The 
+number of texts is raised thereby to close on 4.000’. (Wang 
+2004: CE32/23/16/2.) His diary for 5 Oct.: ‘’Last night [ie Oct 4] 
+Ibrahim Beg arrived at 10 PM with 4 camels bringing purchases 
+from Tao-shi, 230 bundles (among them 20 Tibetan). Convoy 
+had marched all night to avoid attention. 7 big Taghars [bags] 
+full of MSS. were unloaded behind temple & warily brought in by 
+Tila & Ibraham between 10–11 PM.’ (MSS. Stein 205/94–5). Stein 
+(1921) also gives 230 (825).
+27	‘Settled business at last by adding the extra weight in bullion. 
+600 odd rolls were to be delivered, and no payment asked for 
+“Pusas”.’
+28	 ‘At Tun-huang it was not long before some unknown Chinese 
+well-wisher presented himself with a fairly large packet of 
+manuscript rolls from the same source which he was anxious to 
+dispose of. Judging from the very modest compensation which 
+induced him to return later with more, I was able to conclude 
+that the article was not altogether a rarity in the local market.’ 
+(1928: 355). Also see MSS Stein 216/21 and 22, dated 1/4/1914 
+and 2/4/1914 and, confirming the purchase, Stein’s account 
+books for these dates are at MSS Stein 152/24.
+29	‘at Kashgar and Khotan, through scattered rolls of Buddhist 
+chings, manifestly derived from the Ch’ien-fo-t’ung hoard, which 
+had found their way in the hands of Chinese officials and in a 
+few instances had been presented to George Macartney and 
+others.’ (Stein 1928: 355); and again ‘numerous specimens of 
+such rolls … which were subsequently shown to me at different 
+Ya-mens along the route.’  (356).
+
+=== 原PDF第19页 ===
+74
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+30	‘The temples have remained places of worship for the pious 
+of Tunhuang down to the present day, and the removal from 
+them of any fresco paintings of sculptures could not have been 
+thought of even if technically practicable.’ Letter from Stein to 
+Secretary to the Government of India, Home Dept. 26/9/1907, 
+Wang 2004:  CE32/23/10.
+31	It is regrettable that the site id, when given, was not always 
+recorded in catalogues and databases of the material. A notable 
+omission is in Giles’s catalogue of the Chinese manuscripts (Giles 
+1957). IDP started recording this information on its database at 
+the British Library, but the work has not yet been completed.
+32	‘I may note here that when the marking with serial numbers 
+was made at the British Museum …’ (1921: 814 n.2).
+33	eg. includes IOL Khot 140/1.
+34	1921: Appendix F gives a listing of the manuscripts.
+35	‘Only in a few cases, e.g. Ch.0079. a, b; 00275, have Brahmi texts 
+been described without an indication of the “mixed” bundles in 
+which they had originally come to light.’ (1921: 814 n.2).
+36	The photograph usually reproduced (as in Stein, 1912: fig 188 
+and Rong, 2013), is a forgery, although with no intent to deceive. 
+Stein took an image but it was double exposed, as shown here. 
+He therefore recreated it later by drawing the manuscripts on 
+an image of the empty Cave 16. The original double-exposed 
+print and the forgery are in the British Library collections (Photo 
+392/59(1 & 2)).
+37	The photograph shown here has hundreds of bundles but not 
+over 1000; also no visible pothi, so there must have been more 
+material piled in the corridor outside the shot.
+38	‘The number of individual rolls in the 270 of regular bundles 
+which I secured in the end in addition to previous “selections” 
+proved so great that, when at last in July, 1908, there was 
+leisure to set Chiang Ssu-yeh to work on them, the weeks 
+available before my final departure from Khotan sufficed only 
+for a first rapid listing of less than a third of them.’ (1921: 916). 
+The mention of 270 bundles presumably refers to those acquired 
+in Ac1d and Ac2. Given that the number of bundles in Ac2 is 
+variously given as 220 or 230 bundles, then we can assume that 
+Ac1d contained 40–50 bundles.
+	  Also, Stein to PA, 23/6/1908: Jiang ‘half smothered under piles 
+of text rolls and bundles of “Misc. MSS.”…’ (MSS Stein 5/122–3). 
+‘catalogued about a third, to over no. 1100.’ (MSS Stein 5/128, 
+6/7/1908).
+39	‘Pelliot at work on Chinese MSS. agreeing to take up inventory.’ 
+AS to PA, 1 July 1910. MSS Stein 7/72–3.
+40	The mazi numbers currently recorded include 1301 
+(Or.8210/S.554) which would accord with Stein’s note in his 
+letter cited above. A few later mazi numbers are recorded but, 
+from checking a few, these are probably errors in reading the 
+mazi and need to be corrected. Many of the mazi numbers are 
+transcribed in blue pencil in Arabic numbers. There are also 
+Chinese manuscripts without mazi but with Arabic numbers in 
+blue pencil in the 1500s and 1600s. A reasonable hypothesis 
+would be that these are a continuation of the mazi sequence 
+made in London, but then we would hope to find them in 1300s 
+and 1400s. Or they could be misreadings of the original mazi. A 
+further complicating factor is that blue pencil Arabic numbers 
+are also found on manuscripts without mazi, but this could be 
+that the mazi were written on fragments on the manuscripts 
+which have since been removed. Until more data is available, it 
+is not possible to test these hypotheses.
+41	Giles helpfully published a series of articles of the dated 
+manuscripts in the Stein collection (Giles 1935a, 1935b, 
+1937, 1940, 1943). See http://idp.bl.uk/database/oo_loader.
+a4d?pm=Or.8210/S.316 for the image.
+42	eg Or.8210/S.80, noted as Ch.480 in Stein 1921: 672. 
+Importantly, of the checked manuscripts, to date no other has 
+contained this mazi number.
+43	This copy contains annotations by Andrews from 1910. There is 
+an earlier copy at 155–8 without these.
+44	Or.8210/S.88 has mazi 6 in red ink. According to the packing list, 
+this manuscript would have been in case 67. The Id5 is unclear 
+and not in usual format, as there is no Ch. but the number 74 (or 
+possibly 76) with a line below and, below that CLXVII OR ChXVIII.
+45	Report of Laurence Binyon to BM Trustees 5 August 1914 in 
+Archives of the Oriental Dept ORIS 1913–16, 44.
+46	‘Thomas called last week and it was arranged between him and 
+Barnett that Thomas should examine the Tibetan manuscripts 
+and “unknown’ scripts. Accordingly, yesterday I made up a small 
+packet of Tibetan mss. for the IO [India Office] messenger.’ MSS 
+Stein 37/219, letter from FA to Stein, dated 14/11/1909.
+47	Caroline Ridding’s contribution is mentioned in the preface. 
+See Huett 2012 for her work on manuscripts from the 
+Younghusband expedition. She is acknowledged as joint author 
+on the University Library of Cambridge catalogue of Sanskrit 
+manuscripts: they completed this together in 1916.
+48	It is implied in the introduction to the catalogue: thanks to Sam 
+van Schaik for this observation.
+49	This separation of the manuscripts between the BM and the IOL 
+was discussed and, in October 1914, Barnett proposed that the 
+British Museum retain most of the Chinese manuscripts while 
+all the Tibetan manuscripts were ‘assigned to the share of the 
+Secretary of State for India.’ Wang 2004:  CE32/23/57, letter 
+from Thomas to Kenyon, dated 21 October, 1914. Thanks to 
+Sam van Schaik for information on the index cards.
+50	As Sam van Schaik points out, the ids in the catalogue were the 
+result of further work by Assistant Keeper Miss A. F. Thompson 
+who compiled the index. van Schaik suggests that she might 
+have been responsible for adding and editing the ids before 
+publication in 1960. Also see van Schaik 2007.
+51	‘Only in a few cases, e.g. Ch.0079. a, b; 00275, have Brahmi texts 
+been described without an indication of the “mixed” bundles in 
+which they had originally come to light.’
+52	For examples, see British Museum, 1928,1022.24 (Ch.05) and 
+The National Museum, New Delhi, 2003/1875 (Ch.024).
+53	http://www.nationalmuseumindia.gov.in/en/collections/index/15.
+54	As argued above, the issue of possible forgeries from Stein’s 
+third expedition is not relevant to the discussion but, for 
+Fujieda’s argument (2002) and other  papers in Whitfield 2002.
+55	[Wang] now produced two big boxes crammed with well-
+preserved manuscript rolls. By the careful appearance of their 
+writing and the superior quality of the paper it was easy to 
+recognize that the specimens I was able rapidly to examine 
+belonged to that great stock of canonical texts, mostly 
+Buddhist…’  (1928: 358).
+56	Stein normally distinguished purchased–and thus less well 
+provenanced—material from that which he excavated, but since, 
+in this case, acquisitions from both Wang and others were, in 
+effect, not directly seen to be from the library cave, he might 
+well have used a single system.
+57	Stein notes that the bundles containing the 570 scrolls showed 
+evidence of being opened by Pelliot which would accord with 
+Pelliot’s assertion that he examined everything in the cave [MSS 
+Stein 216/28].
+58	with letter from Binyon dated 3 February 1915 and reply from 
+Ross (War Office) on 26 Feb. 1915 agreeing to modifications. 
+Binyon points out some items missing from Petrucci’s report, but 
+these do not include Ch.i.001.
+59	It might not be the only one. Binyon’s correspondence with Stein 
+from October 1927 notes: ‘And in fact on each occasion when 
+the collection has been handed over some items have been 
+reported missing thought they usually reappear.’ Whitfield will 
+write further on this in her blog post:  SilkRoaddigressions.com.
+60	T12, no. 360, also known in English as the Larger Sutra on 
+Amitāyus, the title used by Giles.It was translated into Chinese in 
+the middle of the 3rd century by Saṃghavarman / Kang Sengkai 
+康僧鎧.
+61	Fujieda Akira (2002) and J.P. Drege (2002) were among the first 
+to note the importance of the paper, type and size, in grouping 
+and dating manuscripts. As Fujieda notes, 31–32 cm is the 
+height of paper used for official documents prior to the Tibetan 
+period in Dunhuang after which it starts to be used for Buddhist 
+manuscripts as well: Buddhist texts are previously mainly on 
+paper which is 26–28 cm high (2002: 104).
+62	Wang 2004: CE32/23/57 Letter from Barnett to Kenyon dated 21 
+October 1914.
+63	Also see Rong (1999–2000: 253). The sutra is the forty fascicle 
+version of the Mahāprajñāpāramitāsūtra. The Kaiyuanlu catalogue 
+used characters from the Chinese text, Qianzijing (The Thousand 
+Character Classic) as a short identification of the catalogue 
+sections.
+
+=== 原PDF第20页 ===
+75
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+64	The existence of apocryphal sutra in the bundle is not evidence, 
+however, that this did not belong to a Buddhist monastery, 
+as Rong discusses. He notes that ‘in the tenth century, many 
+apocryphal sutras circulated at Dunhuang.’ (1999–2000: 262).
+65	The Buddhist community might also have reused lay documents 
+for copying practice, but the dates of the club circular suggest 
+the sutra was written first.
+66	We have looked at other items in the Ch.75.V. bundle, but only 
+a few are recorded and they are at the end of the Or.8210/S.  
+sequence which comprises fragments of manuscripts only 
+catalogued from the 1980s (Rong 1998). Many of these 
+‘fragments’ were in fact pieces which had originally been pasted 
+onto other manuscripts and removed by conservators.
+67	This hypothesis emerged following discussions with Sam van 
+Schaik.
+68	The British Library Or.8210/S.95.
+69	The British Library, Or.8210/P.8, Or.8210/P.9 (Lei Yanmei 
+mentioned in the latter); Le Bibliothèque nationale de France, 
+Pelliot chinois 4514 (Rong, 2004: 62). As Giles points out, the 
+Chinese year name used in this text ‘4th year of Kaiyuan of the 
+Great Jin dynasty’ was incorrect, the dynasty having changed in 
+the 2nd month, but the news had not reached Dunhuang (Giles, 
+1943: 149). It is worth noting that Or.8210/P.9, like P.6, is pasted 
+onto other paper, possibly to extend its life. Some other Dunhuang 
+manuscripts present the same kind of discrepancies, but others 
+from the same years are correct (Arrault and Martzloff 2003: 93).
+70	As Giles points out, he is called the ‘artificer’ in this first text but, 
+two years later, has the official title ‘ya-ya’ (1943: 152).
+71	The British Library, Or.8210/P.11; Le Bibliothèque nationale de 
+France, Pelliot chinois 4515 and 4516 (Rong 2004: 62).
+72	Fujieda 2002: 104.
+FUNDING INFORMATION
+Paschalia Terzi carried out this work by getting an 
+Erasmus training placement grant.
+COMPETING INTERESTS
+The authors have no competing interests to declare.
+AUTHOR AFFILIATIONS
+Paschalia Terzi 
+ orcid.org/0000-0001-6543-0923 
+Georgetown University in Qatar, Library, Qatar
+Susan Whitfield 
+ orcid.org/0000-0002-9460-167X
+Professor in Silk Road Studies, SISJAC, University of East Anglia, UK
+REFERENCES
+Arrault, A., & Martzloff, C.-F. (2003). Les calendriers. In 
+M. Kalinowski (Ed.), Divination et société dans la Chine 
+medieval (pp. 86–211). Paris: Bibliotheque nationale de 
+France.
+Barnett, L. D. (nd). List of Manuscripts in languages of Central 
+Asia and Sanskrit.  Unpublished. Retrieved Feb. 24, 2023 
+from https://idp.bl.uk/references/Barnett_unpub/
+Bonin, C. E. (1901). Les grottes des Mille Bouddhas. Comptes 
+rendus des séances de l’Académie des Inscriptions et 
+Belles-Lettres, 2, 209–217. DOI: https://doi.org/10.3406/
+crai.1901.16780
+British Museum Central Archives (BM/CE). Sir Aurel Stein 
+Papers. See Wang 2004.
+Cohen, M. (2002). Genuine or Fake? In S. Whitfield (Ed.). 
+Dunhuang manuscript forgeries (pp. 22–31). London: The 
+British Library.
+Drege, J. P. (2002) Dunhuang papers: preliminary 
+morphological analysis of dated Chinese manuscripts. In 
+S. Whitfield (Ed.). Dunhuang manuscript forgeries (pp.115–
+39). London: The British Library.
+Enoki, K. 榎一雄 (1980). Gaikokujin no kiroku ni mieru Tonkō 外
+国人の記録に見える敦煌, In Kōza Tonkō (Ed.) 講座敦煌, 
+vol. 1, Tonkō no shizen to genjō 敦煌の自然と現状 (pp.303–
+354), Tōkyō Daitō.
+Fujieda, A. (1966–70). The Dunhuang manuscripts: a general 
+description: parts I and II. Zinbun, 9, 1–32; 10, 17–39. 
+Fujieda, A. (2002). Chronological classification of Dunhuang 
+Buddhist manuscripts. In S. Whitfield (Ed.). Dunhuang 
+manuscript forgeries (pp. 103–114). London: The British Library.
+Galambos, I. (2020). Dunhuang manuscript culture. Berlin: De 
+Gruyter. DOI: https://doi.org/10.1515/9783110726572
+Giles, L. (1935a). Dated Chinese manuscripts in the Stein 
+collections I: fifth and sixth centuries AD. Bulletin of the 
+School of Oriental Studies. 7(4), 809–836. http://www.
+jstor.org/stable/608272. DOI: https://doi.org/10.1017/
+S0041977X00086183
+Giles, L. (1935b). Dated Chinese manuscripts in the Stein 
+collections II: seventh century AD. Bulletin of the 
+School of Oriental Studies, 8(1), 1–26. http://www.
+jstor.org/stable/608098. DOI: https://doi.org/10.1017/
+S0041977X00081052
+Giles, L. (1937). Dated Chinese manuscripts in the Stein collections 
+III: eighth century AD. Bulletin of the School of Oriental 
+Studies, 9(1), 1–25. http://www.jstor.org/stable/608171. DOI: 
+https://doi.org/10.1017/S0041977X00070701
+Giles, L. (1939). Dated Chinese manuscripts in the Stein 
+collections IV: ninth century AD. Bulletin of the School 
+of Oriental Studies, 9(4), 1023–1046. http://www.
+jstor.org/stable/607982. DOI: https://doi.org/10.1017/
+S0041977X0013513X
+Giles, L. (1940). Dated Chinese manuscripts in the Stein 
+collections V: tenth century AD (To end the of the Later 
+Chin dynasty). Bulletin of the School of Oriental Studies, 
+10(2), 317–344, http://www.jstor.org/stable/608394. DOI: 
+https://doi.org/10.1017/S0041977X00087541
+Giles, L. (1943). Dated Chinese manuscripts in the Stein 
+collections VI: tenth century (AD 947–995). Bulletin of the 
+School of Oriental Studies, 11(1), 148–173. http://www.
+jstor.org/stable/609211. DOI: https://doi.org/10.1017/
+S0041977X00071275
+Giles, L. (1957). Descriptive catalogue of the Chinese 
+manuscripts from Tunhuang in the British Museum. London: 
+The British Museum.
+Huett, B. (2012). A Woman of books: Miss C.M. Ridding and the 
+Younghusband-Waddell Collection. Inner Asia, 14(1), 173–
+187. http://www.jstor.org/stable/24572152. DOI: https://
+doi.org/10.1163/22105018-990123784
+
+=== 原PDF第21页 ===
+76
+Terzi and Whitfield Silk Roads Archaeology and Heritage DOI: 10.5334/srah.8
+TO CITE THIS ARTICLE:
+Terzi, P., & Whitfield, S. (2024). Reconstructing a Medieval Library? The Contents of the Manuscript Bundles in the Dunhuang Library 
+Cave. Silk Roads Archaeology and Heritage, 1(1), 56–76. DOI: https://doi.org/10.5334/srah.8
+Submitted: 05 March 2023     Accepted: 03 November 2023     Published: 12 April 2024
+COPYRIGHT:
+© 2024 The Author(s). This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 
+International License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original 
+author and source are credited. See http://creativecommons.org/licenses/by/4.0/.
+Silk Roads Archaeology and Heritage is a peer-reviewed open access journal published by Ubiquity Press.
+la Vallée Poussin, Louis d. (1962). Catalogue of the Tibetan 
+Manuscripts from Tun-huang in the India Office Library. 
+Oxford: Oxford University Press.
+Ma, S. 馬世長 (1978). Guanyu Dunhuang cangjingdong de jige 
+wenti 關於敦煌藏經洞的機個問題. Wenwu, 12, 21–33.
+MSS Stein see Stein (1862–1943). DOI: https://doi.org/10.1002/
+mmnd.47918620314
+Muller, C. (1998). East Asian Apocryphal Scriptures: Their Origin 
+and Role in the Development of Sinitic Buddhism. Bulletin 
+of Toyo Gakuen University, 6, 63–76. http://www.acmuller.
+net/articles/1998-03-apocrypha.html
+Pelliot, P. (1908). Une bibliotheque médiévale retrouvées aux 
+Kansu. BEFEO, 8, 501–529. https://www.persee.fr/doc/
+befeo_0336-1519_1908_num_8_1_4297. DOI: https://doi.
+org/10.3406/befeo.1908.4297
+Peng Jinzhang 彭金章 & Jianjun, W. 王建軍 (Eds). (2000-4). 
+Dunhuang Mogaoku Beiqu Shiku 敦煌莫高窟北區石窟 
+(Northern Caves of Mogaoku, Dunhuang), 3 vols. Beijing: 
+Wenwu chubanshe.
+Przhevalsky, N. M. (1883). Iz Zaĭsana cherez Khami v Tibet i na 
+verkhovʹia Zheltoĭ rieki (From Zaysansk through Hami to 
+Tibet). St Petersburg. https://iiif.lib.harvard.edu/manifests/
+view/drs:9616688$1i
+Rong, X. (1998). The historical importance of the Chinese 
+fragments from Dunhuang in the British Library. The 
+British Library Journal, 24(1), 78–89. http://www.jstor.org/
+stable/42554489
+Rong, X. (1999). The nature of the Library Cave and the reasons 
+for its sealing. (V. Hansen, Trans.) Cahiers d’Extrême-Asie, 
+11, 247–75. (Original work published 1997). http://www.
+jstor.org/stable/44167329. DOI: https://doi.org/10.3406/
+asie.1999.1155
+Rong, X. (2013). Eighteen Lectures on Dunhuang (I. Galambos, 
+Trans). Leiden: Brill. (Original work published 2001). DOI: 
+https://doi.org/10.1163/9789004252332
+Russell-Smith, L. (2000). Hungarian Explorers in Dunhuang. 
+Journal of the Royal Asiatic Society, 10(3), 341–362. www.
+jstor.org/stable/25188034. DOI: https://doi.org/10.1017/
+S1356186300012943
+Sims-Williams, U., & Waugh, D. (2010). The Old Curiosity 
+Shop in Khotan. The Silk Road, 8, 69–96. http://www.
+silkroadfoundation.org/newsletter/vol8/
+Stein, M. A. (1862–1943). The Papers of Sir Marc Aurel Stein 
+(1862–1943). MSS. Stein, 1–458. Oxford: Bodleian Library.
+Stein, M. A. (1912). Ruins of Desert Cathay: Personal narrative of 
+explorations in central Asia and westernmost China, 2 vols. 
+London: Macmillan and Co.
+Stein, M. A. (1921). Serindia: Detailed report of explorations in 
+central Asia and westernmost China. Oxford: Clarendon Press.
+Stein, M. A. (1928). Innermost Asia. Oxford: Clarendon Press.
+Takeuchi, T. (2012). Old Tibetan texts from the post-Tibetan 
+imperial period (mid-9 c. to late 10 c.). In C. Scherrer-
+Schaub (Ed.), Proceedings of the Tenth Seminar of the IATS, 
+2003. Volume 14: Old Tibetan Studies (pp. 205–214). Leiden: 
+Brill. DOI: https://doi.org/10.1163/9789004233485_012
+Teiser, S. F. (1994). The Scripture on the Ten Kings’ and the 
+Making of Purgatory in Medieval Chinese Buddhism. 
+Honolulu: University of Hawaii Press. DOI: https://doi.
+org/10.1515/9780824846541
+van Schaik, S. (2007). Manuscript Numbers in the Stein 
+Collection. Early Tibet blog post. https://earlytibet.com/
+about/numbers/
+van Schaik, S., & Galambos. I. (2012). Manuscripts and 
+Travellers: The Sino-Tibetan Documents of a Tenth-
+Century Chinese Pilgrim. Berlin: De Gruyer. DOI: https://doi.
+org/10.1515/9783110225655
+Wang, H.  (Ed.) (2004). Catalogue of the Sir Aurel Stein papers 
+in the British Museum Central Archives: Catalogue and 
+Photocopies of all the papers. London: Helen Wang
+Whitfield, S. (Ed.) (2002). Dunhuang Manuscript Forgeries. 
+London: The British Library.
+Whitfield, S., & Sims-Williams, U. (2004). The Silk Road: Trade, 
+Travel, War and Faith. London: The British Library.
+Xie, Z. 謝稚柳. (1949). Dunhuang shishi ji 敦煌石室記.

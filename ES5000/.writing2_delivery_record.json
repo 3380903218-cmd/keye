@@ -1,0 +1,145 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "ES5000-WA2-2026-10-21-comment-revision",
+  "state": "candidate",
+  "content_authority": "Current Word annotations, student reasoning from 20 October 2026, and .writing2_work/content_master.json",
+  "format_authority": "第二周/2.3 ES5000 Assignment Style Sheet 2610.pdf and official Assignment Declaration.docx",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "wa2-draft-docx",
+      "role": "draft",
+      "path": "writing 2/G6_WANG XIWEN_p-s essay.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "wa2-draft-docx",
+      "artifact_sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+      "performed_at": "2026-10-21T20:46:09.067584+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".writing2_work/content_validation.json",
+        "sha256": "f537f7b644d7d3255b39d8646131e30c6a017357702f953736d646b5032cc26b",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Naming task only; current file remains a draft.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "wa2-draft-docx",
+      "artifact_sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+      "performed_at": "2026-10-21T20:46:09.067584+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".writing2_work/package_audit.json",
+        "sha256": "01edfdd247bbc6b1b4737d9510f82d0b598c26b3b109bd6a05eb2c647f2023ca",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Naming task only; current file remains a draft.",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "unavailable",
+      "artifact_id": "wa2-draft-docx",
+      "artifact_sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+      "performed_at": "2026-10-21T20:46:09.067584+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".writing2_work/render_validation.json",
+        "sha256": "cd68ec5c5b8e5a8dffe0b64201e2e49b7d009eefed36de61288c07a1960e9061",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Current saved file was not newly rendered. Previous PDF and images apply only to the historical hash.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "wa2-draft-docx",
+      "artifact_sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+      "performed_at": "2026-10-21T20:46:09.067584+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".writing2_work/delivery_package_validation.json",
+        "sha256": "1cf0ae08daeff78a39b3b91691658662a4fa5f9342e4251bd39257b86c64204c",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Naming task only; current file remains a draft.",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "wa2-draft-docx"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [
+    "Final student review and AI declaration confirmation remain pending.",
+    "Current saved file has not been newly rendered; historical rendering must not be attributed to the new hash."
+  ],
+  "next_action": "Use writing 2/G6_WANG XIWEN_p-s essay.docx as the current file. Open it normally; rerender before any later fully validated delivery.",
+  "extensions": {
+    "ai_tool": "OpenAI Codex",
+    "client_timezone": "Asia/Singapore",
+    "body_word_count": 456,
+    "revision_mode": "Rename to course submission pattern after saving pending Word state",
+    "prior_revision": {
+      "date": "2026-10-21",
+      "annotated_baseline_sha256": "6d09a754588e4e1c2be3063835d1d1b954c714b4ca60bfa5b8d5097410840d8e",
+      "prior_local_commit": "16d8fdbbb59dd9ec6fddad460c1f1c59ff951573"
+    },
+    "backup": "/var/folders/_m/4vdgxlpd4qn69gmj_8df0r480000gn/T/es5000-wa2-annotated-2026-10-21-o1h3hw66/G6_WANG XIWEN_Writing Assignment 2 Draft.docx",
+    "comments": {
+      "current_saved_comment_parts": 0,
+      "prior_resolved_threads": 2,
+      "prior_review_commit": "8597ffd5527d767cfdc823b294daebc5b8859781"
+    },
+    "student_checkbox_selections": "preserved",
+    "filename_change": {
+      "from": "G6_WANG XIWEN_Writing Assignment 2 Draft.docx",
+      "to": "G6_WANG XIWEN_p-s essay.docx",
+      "rule": "tutorial group number_name_assignment",
+      "example": "G10_Teo Wei Jie_p-s essay",
+      "date": "2026-10-21",
+      "rename_preserved_saved_bytes": true,
+      "hash_before_rename": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+      "hash_after_rename": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f"
+    }
+  }
+}

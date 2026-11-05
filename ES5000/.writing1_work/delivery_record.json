@@ -1,0 +1,19 @@
+{
+  "status": "revised_for_student_review",
+  "checked_at": "2026-09-15T15:09:51.085074+08:00",
+  "render_application": "Microsoft Word for Mac",
+  "visual_review": "Both current pages inspected; body, citations, reference italics and hanging indents, links, page numbers and unchecked native declaration controls display correctly.",
+  "body_total": 298,
+  "remaining_user_action": "Review wording and personally complete AI declaration; Canvas submission not performed.",
+  "artifacts": {
+    "G06_WANG XIWEN_Writing Assignment 1_revised.pdf": "f0cec1f0a5d525b5853657771b39c342fc21ed92e6545a6f0c9ad5cf84a3f970",
+    "修改说明.md": "fbd982a1dfa6ed7cd37dbe0d05dca9d8f42a4771b8621c0cf9b94c5afa2dd0a2",
+    "G06_WANG XIWEN_Writing Assignment 1_revised.docx": "178da02bea43cfeeb37f8ea60e973da7b15fe475a1eabd84f1ffda2c9909bf48"
+  },
+  "evidence": {
+    "content_validation.json": "8d87f3989eef91b90c10f994577a97bb0395dbdd4c602d7325c4b060d0dbf6e2",
+    "package_audit.json": "00a45a35a2b73e5afcf79bfbf88d784580eb5eb3dc2038b7c323040694fc1ea5",
+    "page-1.png": "b7def38add265eee223324c663c490fcc4e0521b0d4f6935225546a485cc40b5",
+    "page-2.png": "aa680d88d2b2e05cb93b12837db9c4cf763ffcea6cb11c93338d3c5b6f448f01"
+  }
+}

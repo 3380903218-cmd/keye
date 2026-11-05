@@ -1,0 +1,24 @@
+{
+  "version": "2.9.1",
+  "result": "pass",
+  "date": "2026-11-03",
+  "scope": "Frontend language and writing-direction check with isolated fixture data; no public comments created.",
+  "checks": [
+    {
+      "width": 1440,
+      "any_language_invitation": "EN and ZH",
+      "original_messages_preserved": true,
+      "rtl_rendering_and_input": true,
+      "language_switch_keeps_draft": true,
+      "horizontal_overflow": false
+    },
+    {
+      "width": 390,
+      "any_language_invitation": "EN and ZH",
+      "original_messages_preserved": true,
+      "rtl_rendering_and_input": true,
+      "language_switch_keeps_draft": true,
+      "horizontal_overflow": false
+    }
+  ]
+}

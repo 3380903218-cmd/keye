@@ -1,0 +1,8 @@
+{
+  "question": "根据现有综述文献完善1900–1910年敦煌实物流转与知识传播Gephi数据，并预备英文网页展示",
+  "stance": "本地文献证据与数据修改映射；不作穷尽综述或新增检索",
+  "input_boundary": "当前阅读清单20条；原文可用与待取分开；复用原有SourceID与EventID",
+  "threshold": "历史修订回到原文；研究转引与作者推断分开；方法文献不生造历史边",
+  "deliverable": "新增可编辑Excel，不回写既有Gephi、Excel、QGIS、网页",
+  "date": "2026-10-28"
+}

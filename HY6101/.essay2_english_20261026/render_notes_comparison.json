@@ -1,0 +1,6 @@
+{
+  "match": true,
+  "normalization": "NFKC and whitespace; font-size separation of main text, notes, headers, footers and note numbers",
+  "source_docx_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+  "render_pdf_sha256": "95c2e99766383e244afa01e810566db0b59f98f221b06946acc72478c379a35c"
+}

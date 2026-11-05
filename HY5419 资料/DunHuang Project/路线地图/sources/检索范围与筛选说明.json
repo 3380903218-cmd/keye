@@ -1,0 +1,18 @@
+{
+  "snapshot_id": "HY5419-map-resources-20261020",
+  "question": "为1900–1910年敦煌实物流转与知识活动地图选择需要采集的信息、工具及来源入口",
+  "stance": "证据整理、工具比较与补证任务表；不是系统综述或路线全复原",
+  "scope": {"historical_years": "1900–1910", "languages": "中文、英文、法文既有来源", "include": ["项目既有事件与可定位文献", "官方软件文档", "原始地图与历史地名索引", "现代坐标提供者的条目"], "exclude_as_route_proof": ["今日导航路径", "仅凭探险者个人行程推断实物运输", "只据今日馆藏机构地址回填历史接收点", "检索摘要中的未经原文核验的路线细节"]},
+  "reuse": "沿用既有EventId、ObjectId和Sxx来源编号；Mxx为新增地图及工具资源。未修改原项目文件。",
+  "screening": [
+    {"candidate": "Storymap.cc", "decision": "排除", "reason": "软件产品规划工具，与本项目叙事地图工具不同"},
+    {"candidate": "博客及第三方软件教程", "decision": "不作为技术能力的主要依据", "reason": "优先采用QGIS、Google、Esri官方文档"},
+    {"candidate": "北京西城区广化寺介绍", "decision": "不作为1910实际接收建筑的确认依据", "reason": "人物年代信息有可疑之处，且馆史与某批物品接收地不是同一命题"},
+    {"candidate": "UNESCO莫高窟条目参考坐标", "decision": "保留来源原值但不导入点位", "reason": "未核实其与第17窟、16窟、帐篷等具体空间对象的对应"},
+    {"candidate": "GeoNames和田机场、县域、地区条目", "decision": "不用于和田工作场所定位", "reason": "要素类型不同；只采1281019作现代城区背景参考，保留当前主名与异名"},
+    {"candidate": "Bodleian档案目录与IDP对象专题", "decision": "保留为补采入口", "reason": "检索摘要可见，但原站分别出现访问拦截和403；不声称已取得所引档案或对象影像"},
+    {"candidate": "QGIS地理配准／输出章节", "decision": "不标为已阅读全文", "reason": "部分文档URL返回空页面或访问错误；制图功能参照已读官方Overview，配准作为后续步骤建议"}
+  ],
+  "limitations": ["5个已填坐标均为现代参考点", "10个历史地点或机构场址尚未填数值坐标", "12个候选移动段没有可直接导入的实际路径几何", "工具文档已查，但未替用户安装软件、登录账号、上传数据或发布地图"],
+  "search_records": "map_search_01.json至map_search_11.json；前6组保存原始请求，后5组的实际请求另见web_requests_07_11.json。"
+}

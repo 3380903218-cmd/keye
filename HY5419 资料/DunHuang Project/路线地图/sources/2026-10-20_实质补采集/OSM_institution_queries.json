@@ -1,0 +1,168 @@
+[
+  {
+    "query": "British Museum London",
+    "url": "https://nominatim.openstreetmap.org/search?q=British+Museum+London&format=jsonv2&limit=3&addressdetails=1",
+    "http": 200,
+    "results": [
+      {
+        "place_id": 281248322,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 177044,
+        "lat": "51.5193118",
+        "lon": "-0.1267051",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 0.7000751554322315,
+        "addresstype": "tourism",
+        "name": "British Museum",
+        "display_name": "British Museum, Great Russell Street, St Giles, Bloomsbury, London Borough of Camden, Greater London, England, WC1B 3DG, United Kingdom",
+        "address": {
+          "tourism": "British Museum",
+          "road": "Great Russell Street",
+          "neighbourhood": "St Giles",
+          "suburb": "Bloomsbury",
+          "city_district": "London Borough of Camden",
+          "ISO3166-2-lvl8": "GB-CMD",
+          "city": "Greater London",
+          "state": "England",
+          "ISO3166-2-lvl4": "GB-ENG",
+          "postcode": "WC1B 3DG",
+          "country": "United Kingdom",
+          "country_code": "gb"
+        },
+        "boundingbox": [
+          "51.5180651",
+          "51.5205596",
+          "-0.1288843",
+          "-0.1248691"
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Natural History Museum London",
+    "url": "https://nominatim.openstreetmap.org/search?q=Natural+History+Museum+London&format=jsonv2&limit=3&addressdetails=1",
+    "http": 200,
+    "results": [
+      {
+        "place_id": 279137779,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 24436446,
+        "lat": "51.4965109",
+        "lon": "-0.1760019",
+        "category": "tourism",
+        "type": "museum",
+        "place_rank": 30,
+        "importance": 0.6830288343931763,
+        "addresstype": "tourism",
+        "name": "Natural History Museum",
+        "display_name": "Natural History Museum, Cromwell Road, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW7 5BD, United Kingdom",
+        "address": {
+          "tourism": "Natural History Museum",
+          "road": "Cromwell Road",
+          "suburb": "Brompton",
+          "city_district": "Royal Borough of Kensington and Chelsea",
+          "ISO3166-2-lvl8": "GB-KEC",
+          "city": "Greater London",
+          "state": "England",
+          "ISO3166-2-lvl4": "GB-ENG",
+          "postcode": "SW7 5BD",
+          "country": "United Kingdom",
+          "country_code": "gb"
+        },
+        "boundingbox": [
+          "51.4958528",
+          "51.4970577",
+          "-0.1780630",
+          "-0.1739815"
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Bibliothèque nationale de France Richelieu Paris",
+    "url": "https://nominatim.openstreetmap.org/search?q=Biblioth%C3%A8que+nationale+de+France+Richelieu+Paris&format=jsonv2&limit=3&addressdetails=1",
+    "http": 200,
+    "results": [
+      {
+        "place_id": 98624821,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 545655,
+        "lat": "48.8672823",
+        "lon": "2.3381642",
+        "category": "amenity",
+        "type": "library",
+        "place_rank": 30,
+        "importance": 0.2521482229732802,
+        "addresstype": "amenity",
+        "name": "Bibliothèque nationale de France, Richelieu",
+        "display_name": "Bibliothèque nationale de France, Richelieu, 58, Rue de Richelieu, Vivienne, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",
+        "address": {
+          "amenity": "Bibliothèque nationale de France, Richelieu",
+          "house_number": "58",
+          "road": "Rue de Richelieu",
+          "quarter": "Vivienne",
+          "suburb": "Paris 2e Arrondissement",
+          "city_district": "Paris",
+          "city": "Paris",
+          "ISO3166-2-lvl6": "FR-75C",
+          "state": "Île-de-France",
+          "ISO3166-2-lvl4": "FR-IDF",
+          "region": "France métropolitaine",
+          "postcode": "75002",
+          "country": "France",
+          "country_code": "fr"
+        },
+        "boundingbox": [
+          "48.8664044",
+          "48.8681624",
+          "2.3374787",
+          "2.3394331"
+        ]
+      }
+    ]
+  },
+  {
+    "query": "广化寺 北京",
+    "url": "https://nominatim.openstreetmap.org/search?q=%E5%B9%BF%E5%8C%96%E5%AF%BA+%E5%8C%97%E4%BA%AC&format=jsonv2&limit=3&addressdetails=1",
+    "http": 200,
+    "results": [
+      {
+        "place_id": 221499246,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 929752805,
+        "lat": "39.9398918",
+        "lon": "116.3846060",
+        "category": "amenity",
+        "type": "place_of_worship",
+        "place_rank": 30,
+        "importance": 8.344167238875436e-05,
+        "addresstype": "amenity",
+        "name": "广化寺",
+        "display_name": "广化寺, 鸦儿胡同, 什刹海, 什刹海街道, 首都功能核心区, 西城区, 北京市, 100032, 中国",
+        "address": {
+          "amenity": "广化寺",
+          "road": "鸦儿胡同",
+          "neighbourhood": "什刹海",
+          "suburb": "什刹海街道",
+          "city": "西城区",
+          "ISO3166-2-lvl4": "CN-BJ",
+          "postcode": "100032",
+          "country": "中国",
+          "country_code": "cn"
+        },
+        "boundingbox": [
+          "39.9394392",
+          "39.9406487",
+          "116.3840695",
+          "116.3851794"
+        ]
+      }
+    ]
+  }
+]

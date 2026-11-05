@@ -1,0 +1,904 @@
+Published with license by Koninklijke Brill BV | doi:10.1163/23521341-12340188
+© Rong Xinjiang, 2025 | ISSN: 2352-1341 ( online)
+This is an open access article distributed under the terms of the CC BY  4.0 license.
+Journal of chinese humanities 11 (2025) 4–26
+brill.com/joch
+Rewriting the Silk Road: a New Chapter for 
+Dunhuang Manuscript Studies
+Rong Xinjiang 榮新江
+Professor, History Department, Peking University, Beijing, China
+rxj@pku.edu.cn
+Received 23 November 2024 | Accepted 10 December 2024 |  
+Published online 9 June 2025
+Abstract
+This article examines how the Dunhuang manuscript s, discovered in 1900 and gradu-
+ally published throughout the twentieth centur y, have fundamentally reshaped our 
+understanding of Silk Road networks during the fifth through eleventh centurie s. 
+While traditional Chinese sources have long provided a basic framework for under -
+standing trans-Eurasian exchange during this perio d, the Dunhuang materials offer 
+unprecedented insights into the actual mechanisms of cultural and commercial inter-
+action. Drawing on both Chinese and non-Chinese documents from the Dunhuang 
+corpus, this study focuses on four key aspect s: the westward transmission of Chinese 
+textual traditions, particularly Buddhist manuscript s; the eastward spread of multi -
+ple religious traditions including Zoroastrianis m, Christianity, and Manichaeism; the 
+establishment and operation of Sogdian trading network s; and the maintenance of 
+Silk Road commerce under Tibetan and Guiyi Circuit administration during the ninth 
+and tenth centurie s. Through analysis of these material s, this article challenges the 
+conventional view that Silk Road exchange was severely disrupted after the An Lushan 
+rebellion, demonstrating instead the continuation of vigorous commercial and cultural 
+interactions throughout this period. The Dunhuang manuscripts thus provide crucial 
+evidence for understanding the Silk Road not merely as a trade route but also as a com-
+plex network facilitating multi-directional cultural exchange across medieval Eurasia.
+Keywords
+Dunhuang manuscripts – Silk Road – Sogdian merchants – Guiyi Circuit (Guiyijun)
+
+5Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+The discovery of documents in the Dunhuang Library Cave in 1900 has pro -
+vided historians with invaluable primary sources dating from the early 5th 
+to early 11th centurie s. As these manuscripts have only gradually become 
+available over the course of the twentieth centur y, their utilization by his -
+torians has also been incrementa l. Now that nearly all the cave manuscripts 
+have been released across a number of publication s, researchers can plot 
+out a broader picture of their implications and can fully use these materials 
+in reconstructing the historical landscape of medieval Chin a. Dunhuan g’s 
+location at a crucial junction of the Silk Road has resulted in particularly 
+rich documentation of cross-cultural exchang e. Beyond Chinese-language 
+documents, the trove includes texts in various languages used by different 
+peoples along the trade route s, offering unprecedented insights into cultural 
+interactions, religious practice s, and daily life along the Silk Road—aspects 
+often absent from received historical source s. Building on previous scholar -
+ship as well as my own research, this article examines several important ways 
+in which the Dunhuang manuscripts have revised our understanding of the  
+Silk Road.
+1 The Eastward Spread of Buddhism and the Westward Transmission 
+of Chinese Texts
+The period from the Han dynasty (202 BCE –220 CE ) to the Tang dynasty 
+(618–907) marked a crucial era for the transmission of Buddhism from India 
+to China. This is evidenced in texts such as the Gaoseng zhuan  高僧傳 and 
+Xu gaoseng zhuan 續高僧傳, as well as by the numerous cave temples stretch-
+ing from Xinjiang through the Hexi Corridor to the northern reaches of the 
+Central Plains. While Dunhuang served as a significant way station along this 
+eastward transmission rout e, surprisingly, no early Sanskrit or Central Asian 
+language Buddhist texts have been found among the Dunhuang manuscript s. 
+Instead, the evidence reveals a different patter n: from the Sixteen Kingdoms 
+(304–439) to the Northern Dynasties (439–581) period, the region was a locus 
+for the circulation of Chinese-language Buddhist text s, which were subse -
+quently transmitted further westward to the kingdom of Gaochang 高昌 in the  
+Turpan Basin.
+1.1 Early Buddhist Transmission along the Silk Road
+According to traditional source s, the introduction of Buddhism to China can 
+be traced back to 2 BCE, when the Yuezhi 月氏 envoy Yicun 伊存 is recorded to 
+have orally transmitted Buddhist sutras to Jing Lu 景盧, a student of the Han 
+
+6 Rong
+Journal of chinese humanities 11 (2025) 4–26
+imperial academy.1 Excavated texts provide further evidence of early transmis-
+sion, with the early Eastern Han dynasty (25–220) bamboo slips unearthed at 
+the Xuanquan 懸泉 site documenting the presence of what is likely a Buddhist 
+monastic structure, suggesting that Dunhuang had an early role in Buddhism’s 
+eastward transmissio n.2 By the Western Jin period (266–316), Dharmarak ṣa  
+竺法護 (ca. 231–310), a Dunhuang-born monk with Yuezhi heritage, had traveled 
+to various Central Asian kingdoms to study Buddhism and collect scripture s. 
+Upon returning to Dunhuan g, he translated these works with his disciple s,  
+for which he became known as the “Bodhisattva of Dunhuan g” (Dunhuang 
+pusa 敦煌菩薩). Dharmarak ṣa later traveled to Chan g’an 長安 and Luoyang  
+洛陽 to continue his wor k, producing translations of Sanskrit works that 
+included the Zhengfa hua jing  正法華經 (an early recension of the  Lotus 
+Sutra) and the Guangzan bore jing  光讚般若經 (Pañcaviṃśatisāhasrikā 
+Prajñāpāramitā Sutr a). Following thi s, during the Sixteen Kingdoms and 
+Northern and Southern (420–589) Dynasties periods, Buddhist masters from 
+India and the Western Regions  (xiyu 西域) regularly passed through Dunhuang 
+and other Hexi Corridor towns en route to the Central Plains, where they trans-
+lated scriptures and spread Buddhist teachings. Logically, one might therefore 
+expect that Dunhuang would have preserved a substantial number of Sanskrit 
+or Central Asian-language Buddhist texts brought by these early missionaries. 
+However, to date, no such evidence has been found . Instead, what survives is 
+a substantial corpus of Chinese-language Buddhist scriptures circulating con-
+tinuously since the Sixteen Kingdoms perio d. The following is a list of several 
+representative manuscripts (excluding those of questionable authenticit y), 
+along with information on their translation dates and locations.
+1. Faju jing 法句經 (Dharmapada)
+Cataloged as Gansu Provincial Museum Manuscript N o. 00 1, this copy 
+is based on a translation attributed to the Indian monk Weiqinan  
+維祇難3 and Zhu Jiangyan 竺將炎 during the Kingdom of Wu (222–280). 
+1 For a discussion of this event as recorded in Pei Songzhi’s 裴松之 commentary on the Sanguo 
+zhi 三國志, see Erik Zürcher, The Buddhist Conquest of Chin a: The Spread and Adaptation of 
+Buddhism in Early Medieval China (Leiden: Brill, 2007), 24–25.
+2 Hao and Zhang suggest that the phrase identified on the bamboo slips— xiao futu li  小浮 
+屠里—is likely a referent to a place that had a Buddhist tower or temple. See Hao Shusheng 
+郝樹聲 and Zhang Defang 張德芳, Xuanquan Hanjian yanjiu  懸泉漢簡研究 (Lanzhou: 
+Gansu wenhua chubanshe, 2009), 191.
+3 Though often rendered as “Vighna,” the reconstruction of the name Weiqinan is now con -
+tested. See Jan Nattie r, A Guide to the Earliest Chinese Buddhist Translation s: Texts from  
+the Eastern Han and Three Kingdoms Periods (Tokyo: Meiwa Printing, 2008), 113.
+
+7Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+The manuscript contains two colophons by the novice monk Jingming 
+淨明, dated to 368 and 373 during the Former Liang dynasty (318–376), 
+suggesting it was copied in the Former Liang capital of Guzang 姑臧 
+(modern-day Wuwei 武威) and later found its way to Dunhuang.
+2. Weimojie jing 維摩詰經 (Vimalakīrti sutra), Juan One
+Held at the Shanghai Museum, this manuscript preserves a version trans-
+lated by Zhi Qian 支謙 during the Kingdom of W u. It bears a colophon 
+by Wang Xianggao 王相高 dated to 393 during the Later Liang dynasty 
+(386–403), indicating that it was copied by someone from the Later Liang 
+using Zhi Qian’s southern translation and then transmitted to Dunhuang.
+3. Shisong biqiu jie ben 十誦比丘戒本 (Sarvâstivāda bhikṣu pratimokṣa 
+sutra)
+British Library S.797. The oldest dated manuscript in the Stein collection, 
+this copy bears a colophon indicating that it was transcribed in 406 by 
+the bhikshu Deyou 德祐 in southern Dunhuang during the Western Liang 
+(400–421).
+4. Jin guangming jing 金光明經 (Suvarṇaprabhâsa sutra),  Juan Two
+Bibliothèque nationale de France P.4506. A silk copy of a translation by 
+Dharmakṣema 曇無讖 (385–433) made during the Northern Liang dynasty 
+(397–460). This manuscript includes a colophon by Zhang Chaozhu  
+張
+ 主, a man from Zhongshan 中山 Commandery in Dingzhou 定州 
+(present-day Hebei provinc e), dated to 471 during the Northern Wei 
+dynasty (386–534). Zhang, originally from Liangzhou 涼州, had silk cop-
+ies made of this text and other sutras, including the Lotus Sutra, with the 
+intent of having them sent back to his native Liangzho u. This suggests 
+that a set of high-quality yellow silk manuscripts copied in Dingzhou 
+were sent back to Liangzhou, with one of them eventually finding its way 
+to Dunhuang.
+5. Za apitan xin jing  雜阿毗曇心經 (Saṃyuktābhidharma h ṛdaya 
+sutra), Juan Six
+British Library S.9 96. A translation by the Kashmiri Tripi ṭaka mas -
+ter Sa ṃghadeva 僧伽提婆 in the early Eastern Jin dynasty (317–420).  
+It includes a colophon by Feng Jinguo 馮晉國 (also known as Feng Xi  
+馮熙), Prince of Changli 昌黎王 and regional inspector of Luozhou 洛州, 
+dated to 479 during the Northern Wei dynast y. The colophon states that 
+he “commissioned ten copies of the complete Buddhist canon, with each 
+
+8 Rong
+Journal of chinese humanities 11 (2025) 4–26
+set consisting of 1,464 juan.” This would have totaled 1 4,640 juan, and it 
+is likely that this manuscript was part of one of these sets that was trans-
+mitted to Dunhuang.
+6. Weimo yi ji 維摩義記 (Commentary on the Vimalakīrti sutra)
+British Library S.2 106. An anonymous commentary on Kum ārajīva’s  
+鳩摩羅什 (343–413) translation of the Weimojie suoshuo jing  維摩詰 
+所說經. The manuscript includes a colophon by the bhikshu Tanxing  
+曇興 dated to 500 during the Northern Wei dynast y, noting that it was  
+copied at Fengle Temple 豐樂寺 in Dingzho u. This indicates that it  
+was copied in Hebei and later transmitted to Dunhuang.4
+1.2 The Westward Flow of Chinese Buddhist Culture
+The manuscripts discussed above—dated examples of Buddhist scriptures pre-
+served in Dunhuang from the fourth and fifth centuries—include some early 
+Hinayana works, though most are Mahayana sutra s, supplemented by Vinaya 
+texts and commentaries. In many cases, these manuscripts were not copied in 
+Dunhuang but were brought in from areas such as Liangzho u, Luozhou, and 
+Dingzhou. A substantial number of additional Dunhuang fragments without 
+dates or colophons likewise fall into these same categorie s, and calligraphic 
+analysis suggests that many may have originated from other areas within the 
+Central Plains as well. This situation stands in marked contrast to the Sanskrit 
+and Central Asian-language Buddhist texts unearthed in the Tarim Basin sites 
+of Kucha and Khotan. Accordingly, it appears that following Dunhuang’s incor-
+poration into the Han empire under Emperor Wu 漢武帝 (r. 141–87 BCE), the  
+area effectively became a frontier outpost of Central Plains cultur e, with  
+the Buddhist manuscripts circulating in the region primarily consisting 
+of copies of texts that originated closer to the center of empir e. As local lit -
+eracy and scribal activity gre w, the number of manuscripts produced in the 
+Dunhuang region increased, yet their base texts were invariably derived from 
+those created in the Central Plain s. This pattern likely holds true for othe r, 
+non-Buddhist texts as wel l. Thus, from the Han and Wei (220–265) dynasties 
+onward, Dunhuang served as a locus for the dissemination of Central Plains 
+culture along the Silk Road.
+Although the wider flow of Buddhism is typically described as traveling 
+eastward from India into Chin a, Dunhuan g’s own Buddhist tradition largely 
+arrived from the eas t, taking root and flourishing on the desert frontie r.  
+4 See Jao Tsung-I 饒宗頤 [Rao Zongy i], Xuantang jili n: Dunhuangxue  選堂集林•敦煌學 
+(Hong Kong: Zhonghua shuju, 2015), 13–17, 38–42, 84.
+
+9Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+This dynamic parallels developments in Buddhist art. From the time the monk 
+Le Zun 樂僔 is said to have begun work on the Mogao Caves in 366, Dunhuang’s 
+artistic styles consistently show influences from the east—starting with the 
+westward spread of the “Liangzhou type” cave temples 5 under the Northern 
+Liang and continuing through the sculptural techniques associated with the 
+Northern Wei at the Yungang Grottoe s. In this respec t, Dunhuang remained 
+deeply connected to the broader currents of Buddhist culture emanating from 
+central China.
+Dunhuang’s legacy of Chinese classical culture and Central Plains Bud -
+dhist scriptures not only shaped local religious life but also traveled onward 
+to Gaochang in the Turpan Basi n. Established as a commandery (j un 郡) 
+in 32 7, Gaochang successively came under the jurisdiction of numerous  
+regimes—including the Former Liang, Former Qin (351–394), Later Liang, the 
+short-lived Northern Liang under Duan Ye 段業 (r. 397–401), Western Liang, 
+and again Northern Liang—each of which helped funnel Central Plains culture 
+westward via the Hexi Corridor. Much of this cultural transmission would have 
+passed through Dunhuan g. After the fall of the Northern Liang in 439 at the 
+hands of the Northern Wei, members of the Northern Liang royal family, includ-
+ing brothers Juqu Wuhui 沮渠無諱 (r. 442–444) and Juqu Anzhou 沮渠安周  
+(r. 444–460), fled from Dunhuang through Shanshan 鄯善 to Gaochang, where 
+they established the Greater Liang 大涼 regime (440–460). They brought with 
+them eminent monk s, literat i, and artisans from the Hexi regio n, with evi -
+dence of this cultural transmission seen in an inscription discovered at the 
+Gaochang ruins commemorating the construction of a Buddhist temple by the 
+“Great Juqu Anzho u, King of Lian g.”6 Written in elegant classical Chinese by 
+Xiahou Can 夏侯粲 (dates unknown), a noted scholar from a prestigious Cen-
+tral Plains family, the inscription records that the templ e’s principal icon was 
+the Maitreya, a fact that—along with sculptural details—supports the modern 
+scholar Su Ba i’s 宿白 theory regarding the westward diffusion of Liangzhou 
+temple architectur e. Some of the craftsmen who created these Buddhist 
+5 “Liangzhou type” (Liangzhou moshi 涼州模式) serves as an appellation to identify a unique 
+style of cave temple architecture that emerged in the Liangzhou region (stretching across the 
+areas of the Hexi Corridor east of Dunhuang and centering on modern day Wuwe i, Gansu). 
+This cave temple type is characterized by square or rectangular caves with tapering central 
+pillars and statues of Sakyamuni and Maitrey a. See Su Bai 宿白, “Liangzhou shiku yiji he 
+‘Liangzhou moshi’” 涼州石窟遺蹟和 “涼州模式”,  Kaogu xuebao 考古學報, no. 4 (1986): 
+441–42.
+6 The full title of this inscription is the Liang wang da Juqu Anzhou zao ci gongde bei 涼王大且
+渠安周造祠功德碑.
+
+10 Rong
+Journal of chinese humanities 11 (2025) 4–26
+images had themselves migrated or fled from Dunhuang.7 Although later San-
+skrit fragments have been unearthed in the Turpan Basin, the earliest Buddhist 
+texts there, much like those at Dunhuang, are in Chinese. This widespread cir-
+culation of Chinese-language sutras attests to the strong influence of Central 
+Plains culture along the Silk Roa d. Indeed, it appears that Chinese Buddhist 
+scriptures reached as far as Kucha—the hometown of the eminent Buddhist 
+translator Kum ārajīva—though no comparable early Chinese manuscripts 
+have yet been discovered in Khotan.
+2 The Eastward Migration of Sogdian Merchants
+The Sogdian s, an ancient Iranian peopl e, inhabited oasis city-states in the 
+region between the Amu Darya and Syr Darya rivers in Central Asia. Traditional 
+Chinese historical records refer to them as the “Nine Zhaowu Lineage s” 
+(Zhaowu jiuxing 昭武九姓).8 While the presence of Sogdians in China has long 
+been known from traditional Chinese sources, the discovery of the Dunhuang 
+manuscripts has provided a more systematic understanding of Sogdian mer -
+chants’ involvement in trade and their integration into Chinese society during 
+the medieval period.
+2.1 Sogdian Trade Networks and the Ancient Letters
+Eight Sogdian-language letters, dating to around 312 and discovered in a mail 
+pouch beneath a watchtower northwest of Dunhuan g, offer a glimpse into 
+these activitie s. These “Sogdian Ancient Letter s,” as they are know n, were 
+sent from Sogdian traders stationed in the Hexi Corridor to correspondents 
+in the Western Regions. One of these letters—designated as Letter N o. 2—is 
+particularly revealing. Written by a Sogdian caravan leader based in Guzang 
+to his financial backers in Samarkan d, it details the activities of merchant 
+7 See Rong Xinjiang, “Juqu Anzhou’s Inscription and the Daliang Kingdom in Turfan,” in Turfan 
+Revisited: The First Century of Research into the Arts and Cultures of the Silk Road, ed. Desmond 
+Durkin-Meisterernst et al. (Berlin: Dietrich Reimer Verlag, 2004), 268–75.
+8 Chinese traditional documents frequently record the native homelands of foreign peoples as 
+the surname when transliterating their names. These surnames could then be used to iden -
+tify the geographical places from which non-Chinese people were said to have originated 
+from. Surnames used for Sogdians in traditional sources include Kang 康 (Samarkand), An 
+安 (Bukhara), Shi 石 (Shash), Shi 史 (Kish), Mi 米 (Maimargh), Cao 曹 (Kabudhanjakath), 
+and He 何 (Kushaniyah). See Jonathan Karam Skaf f, “The Sogdian Trade Diaspora in East 
+Turkestan during the Seventh and Eighth Centurie s,” Journal of the Economic and Social 
+History of the Orient 46 (2003): 479–80.
+
+11Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+agents he had dispatched to various Chinese cities including Yecheng 鄴城 
+(modern-day Anyan g 安陽), Luoyan g, Jincheng 金城 (modern-day Lanzho u  
+蘭州), Jiuquan 酒泉, and Dunhuan g. Despite reporting difficulties caused by 
+local warfare, the letter indicates that these merchants were actively engaged 
+in exchanging Central Asian precious metal s, spices, and medicinal materials 
+for Chinese silk and other commoditie s.9 This letter highlights how Sogdian 
+caravans operating from bases in major Silk Road entrepôts would send smaller 
+groups to conduct trade in other citie s. When combined with additional 
+sources, we can reconstruct how these merchant ventures operate d.10 After 
+securing financial backing in their homeland, Sogdian leaders would organize 
+substantial trading caravans and establish enclave settlements in key Silk Road 
+cities such as Gaochan g, Yizho u, Dunhuan g, Jiuqua n, Liangzho u, Chan g’an, 
+Luoyang, and Yecheng. These settlements served both as Sogdian residential 
+communities and as trading depots for their caravan s. Documents excavated 
+from Turpan, including a royal treasury customs register 11 and various com -
+mercial contracts, reveal that Sogdian merchants often traded exclusively with 
+other Sogdians in the Gaochang marketplac e. Through this networ k, they 
+transported precious metal s, spice s, medicine s, rare plant s, exotic animal s, 
+and even slaves from Central Asia into Chinese markets. By establishing settle-
+ments along the Silk Road, the Sogdians gradually built a sophisticated trading 
+network that gave them considerable control over trans-Eurasian commerce. 
+This may explain the relative scarcity of evidence for Indian or Persian mer -
+chants on the Silk Road between the third and tenth centuries.
+2.2 Religious and Social Life in Sogdian Settlements
+The records preserved in the “Sogdian Ancient Letters” suggest that Sogdian set-
+tlements exhibited considerable autonomy and typically included Zoroastrian 
+temples. In the Sogdian states themselves, religious and political authority were 
+intertwined, with temple leaders playing a significant role in administrative 
+9  See Nicholas Sims-Williams, “The Sogdian Ancient Letter II,” in Philologica et Linguistica: 
+Historia, Pluralitas, Universitas. Festschrift f ür Helmut Humbach zum 8 0. Geburtstag am  
+4. Dezember 2001, ed. Maria Gabriela Schmidt and Walter Bisang (Trier: Wissenschaftlicher 
+Verlag Trier, 2001), 267–80.
+10  See especially the Shazhou tujing 沙州圖經 and Shazhou Yizhou dizhi 沙州伊州地志—
+two Dunhuang manuscripts which document Sogdian settlements led by Kang Yandian 
+康艷典 (fl. 627–649) near Lake Puchang 蒲昌 (modern-day Lop Nur) and by Shi Wannian 
+石萬年 (fl. 630) in Yizhou 伊州 (modern-day Hami 哈密).
+11  Full titl e: Gaochang neicang zoude chengjiaqian zhang  高昌內藏奏得稱價錢帳, 
+(73TAM51 4). See  Tulufan chutu wenshu  吐魯番出土文書, e d. Tang Zhangru 唐長孺  
+et al. (Beijing: Wenwu chubanshe, 1992), 1: 450–53.
+
+12 Rong
+Journal of chinese humanities 11 (2025) 4–26
+functions. This interplay between religious and political spheres is illustrated 
+by a passage in the Weishu 魏書 concerning Samarkand:
+They have a foreign legal code (hulu 胡律), stored in the Zoroastrian tem-
+ples. Whenever punishments are to be decide d, the code is consulte d. 
+Serious crimes are punished by exterminating the entire famil y, while 
+lesser crimes warrant execution. Thieves have their feet amputated.12
+Letters No. 1 and 3 provide a poignant example of these temple s’ social rol e. 
+They describe how a woman who had followed her merchant husband to 
+Dunhuang found herself destitute after he failed to return from a prolonged 
+trading expeditio n. With no means of suppor t, she appealed to the temple 
+priest for assistanc e, with the priest arranging for her and her daughter to 
+return home with another merchant carava n.13 This episode illustrates how 
+Sogdian merchant communities and their Zoroastrian temples operated as 
+part of an integrated system, with religious and community leaders managing 
+both commercial operations and social welfare.
+The Dunhuang manuscripts provide our most detailed documentation of 
+Sogdian settlements along the Silk Road, offering observations of their internal 
+organization and social structure that are unobtainable from other source s.  
+The term “settlement” (j uluo 聚落) itself appears in manuscript S.367, the 
+Shazhou Yizhou dizhi  沙州伊州地志, which describes how the ancient site 
+of Shicheng 石城—originally part of the Han dynasty kingdom of Loulan 樓
+蘭 and later a Sui dynasty (581–618) garrison town—was resettled during the 
+Tang dynasty’s Zhenguan 貞觀 era (627–649) when the Sogdian leader Kang 
+Yandian led his people to occupy the abandoned city, establishing a settlement 
+there.14 These Sogdian immigrant s, originally from Samarkan d, went on to 
+inhabit neighboring territories and establish new settlements to the east and 
+west of Shanshan, with their substantial numbers leading to the foundation of 
+12  See the “Xiyu zhua n” 西域傳 chapter in the Weishu 魏書 (Beijing: Zhonghua shuj u, 
+1974), 102.2281.
+13  Nicholas Sims-Williams, “Towards a New Edition of the Sogdian Ancient Letters: Ancient 
+Letter 1,” in Les sogdiens en chin e, ed. Étienne de la Vaissi ère and Éric Trombert (Paris: 
+École française d’Extrême-Orient, 2005), 181–93.
+14  See Dunhuang shehui jingji wenxian zhenji shilu 敦煌社會經濟文獻真蹟釋錄, ed. Tang 
+Geng’ou 唐耕耦 and Lu Hongji 陸宏基 (Beijing: Shumu wenxian chubanshe, 1986), 1: 39. 
+For an English translation of the entire Shazhou Yizhou dizhi see Lionel Giles, “A Chinese 
+Geographical Text of the Ninth Century,” Bulletin of the School of Oriental Studies 6 (1932): 
+825–46.
+
+13Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+additional urban centers, including Putao 蒲桃 and Sapi 薩毗. The same text 
+notes that in the Yiwu 伊吾 commandery of the Yizhou regio n, which came 
+under Sogdian rule after the fall of the Su i, another Sogdian leader named Shi 
+Wannian submitted to Tang authority in 63 0, bringing seven cities under his 
+control into the Tang fol d.15 Shi, likely originating from the Tashkent regio n, 
+evidently commanded significant influence over these Sogdian settlement s. 
+The term for settlement leader used in these texts was the Sogdian word s’rtp’w 
+(leader), the Chinese transcriptions of which were commonly given as sabao 
+薩保 (or 薩寶 during the Tang) and safu 薩甫. Initially designating the head of 
+a merchant caravan, this title eventually came to signify the leader of a settle -
+ment. As autonomous Sogdian settlements were gradually incorporated into 
+the imperial administrative structure as military garrisons (zhechongfu 折衝
+府) or rural districts (xiangli 鄉里) during the late Northern Dynasties and 
+early Tang period, these settlement leaders were integrated into the bureau -
+cratic hierarchy as local officials or community head s. The title of sabao was 
+eventually formalized as part of the imperial bureaucracy and recognized as 
+a nominal grade (liuwai guan 流外官) in the central and local official system.16
+Included among the Dunhuang documents is a labor service register  
+(P.3559) dated 751 which provides details of a Sogdian settlement in Cong hua 
+從化 townshi p, one of Dunhuan g’s thirteen administrative districts during 
+the High Tang perio d. The predominance of Sogdian-style names in this reg -
+ister suggests that the township evolved from an earlier Sogdian settlemen t, 
+and that it continued to attract new Sogdian arrival s. Analysis of related 
+Dunhuang documents reveals that these residents were primarily engaged 
+in commerce rather than agriculture, with their official corv ée duties (seyi  
+色役) often including roles such as that of market supervisor (shibishi 市壁
+師). The township’s location, one li east of Dunhuang city prope r, coincided  
+with the site of the Zoroastrian temple mentioned in the Shazhou tujing   
+沙州圖經, marking it as the spiritual center of the Sogdian communit y. By the  
+mid-eighth centur y, howeve r, turmoil in Sogdian a, internal strife within  
+the Tang empire, and Tibetan occupation of the Hexi Corridor led to a gradual 
+15  See Dunhuang shehui jingji wenxian zhenji shilu, 1: 40.
+16  Rong Xinjiang 榮新江, “Sabao yu sabo: Beichao Sui Tang huren juluo shouling wenti de 
+zhenglun yu bianx i” 薩保與薩薄：北朝隋唐胡人聚落首領問題的爭論與辨析, in 
+Yilangxue zai Zhongguo lunwenji 伊朗學在中國論文集, ed. Ye Yiliang 葉奕良 (Beijing: 
+Beijing daxue chubanshe, 2003), 3: 123–43. For an English analysis of the sabao, see Rong 
+Xinjiang, “Sabao or Sabo: Sogdian Caravan Leaders in the Wall-Paintings in Buddhist 
+Caves,” in Les sogdiens en chine, ed. Étienne de la Vaissière and Éric Trombert (Paris: École 
+française d’Extrême-Orient, 2005), 207–30.
+
+14 Rong
+Journal of chinese humanities 11 (2025) 4–26
+decline in the townshi p’s population until it eventually ceased to exist as a 
+distinct entity.17
+2.3 From Merchants to Patrons and Leaders
+Despite the dissolution of Conghua townshi p, Sogdian communities contin -
+ued to persist in various parts of Dunhuan g, where they played increasingly 
+significant roles as they gradually acculturated to Chinese societ y. During 
+the Tibetan occupation of Dunhuang (786–848), many Sogdians abandoned 
+their ancestral Zoroastrian faith in favor of Buddhism, which was actively pro-
+moted by the Tibetan Kingdom (633–842). The discovery of Sogdian-language 
+Buddhist texts in the Dunhuang Library Cave provides compelling evidence 
+of this religious transition . These text s, primarily translated from Chinese 
+Buddhist sources, include popular Mahayana works such as the Diamond Sutra 
+and the Vimalakīrti sutra, as well as dhāraṇī texts and apocryphal sutras com-
+posed by Chinese monks.18 This reliance on Chinese Buddhist sources suggests 
+that the Dunhuang Sogdians embraced Buddhism through Chinese rather 
+than Indian transmission networks.19
+The wealth amassed by Sogdian merchants enabled them to become gener-
+ous patrons of Buddhism in Dunhuan g. A notable example of this patronage 
+can be found in Dunhuang manuscript P.2912, which records a donation made 
+by the Sogdian Kang Xiuhua 康秀華 on the occasion of the Buddh a’s birthday 
+in 821. The text reads:
+One written copy of the Great prajñāpāramitā sutra, donated together 
+with three swirled silver plate s, weighing thirty-five liang 兩, one hun -
+dred shi 碩 of grai n, fifty shi of millet and four jin 斤 of flour. As for the 
+previously mentioned donations given with the scriptur e, Master Xuan 
+炫和尚 was respectfully requested to oversee their resale for the purpose 
+of supporting the copying of scripture s. He is to supply pape r, ink, and 
+17  Ikeda On 池田温, “Hachi seiki chūyō-ni okeru Tonkō-no sogudo-jin jurak u” 8 世紀中
+葉における敦煌のソグド人聚落, Yūrasha bunka kenky ū ユ－ラシア文化研究 1 
+(1965): 49–92.
+18  For a comprehensive list of Sogdian-language Buddhist text s, see Yoshida Yutak a,  
+“A Handlist of Buddhist Sogdian Texts,” Memoirs of the Faculty of Letters Kyoto University 54 
+(2015): 167–80.
+19  See Yoshida Yutaka 吉田豊, “Sogudogo Butten kaisets u” ソグド語仏典解説, Nairiku 
+Ajia gengo no kenkyū 内陸アジア言語の研究 7 (1992): 95–119.
+
+15Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+brush himsel f. Respectfully submitted by disciple Kang Xiuhua on the 
+eighth day of the fourth month.20
+This passage is followed by a detailed record regarding Master Xuan’s proceeds 
+from the resale of the flour for the funding of the copying project. The scale of  
+this undertaking was considerable—Xuanzan g’s 玄奘 (602–664) translation  
+of the Great praj ñāpāramitā sutra  comprises six hundred juan and would 
+require significant financial resources to reproduce in its entirety. Kang Xiuhua’s 
+donation of silver plate s, grai n, and flour entrusted to the Master Xuan for 
+resale, would have provided part of the necessary funds for this endeavor. Kang 
+Xiuhua’s prominence is further attested by his donor inscription in Cave 44 of 
+the Mogao Grottoes, which identifies him as a “commissioner” (shi 使) and thus 
+an influential member of the local Sogdian elite. Other influential Sogdians of 
+this period included An Wushe 安勿賒 (dates unknown) , who donated over 
+fifty shi of wheat to Ba o’en Temple 報恩寺, and numerous other individuals 
+who held significant religious administrative position s.21 Collectivel y, these 
+figures exemplify the immense influence of Sogdians in Dunhuang during the 
+Tibetan period, as well as their substantial support for Buddhist institutions  
+in Dunhuang.
+In 848, Zhang Yichao 張議潮 (799–872), a local magnate in Shazho u 沙州, 
+took advantage of internal turmoil within the Tibetan Kingdom to stage an 
+uprising. Joining forces with the Sogdian An Jingmin 安景旻 and the district 
+commissioner Yan Yingda 閻英達, he successfully expelled the Tibetan garri -
+son and recaptured Dunhuang and Guazhou 瓜州, subsequently dispatching 
+envoys to report these developments to the Tang court. In 851, the Tang estab-
+lished the Guiyi Circuit 歸義軍 (the Army which Returns to Righteousness) at 
+Dunhuang, appointing Zhang as military commissioner and concurrent sur -
+veillance commissioner of eleven prefectures in the regio n. During the Guiyi 
+Circuit period (851–1035), Sogdians continued to wield considerable influence 
+in both political and religious spheres. Notable figures included Kang Tongxin  
+20  Translation taken from Rong Xinjiang, “Khotanese Felt and Sogdian Silve r: Foreign Gifts 
+to Buddhist Monasteries in Ninth- and Tenth-Century Dunhuang,” Asia Major 17 (2004): 
+15–34.
+21  These included Kang Zhiquan 康智詮 who served as general administrator of the sangha 
+in Dunhuan g; Kang Zhiding 康志定, abbot of Lingtu Temple 靈圖寺; Mi Jingbian  
+米淨辯, who served as a commissioner for the religious division of Buddhist monks 
+and nuns; and district commissioner Kang Zairong 康再榮. See Zheng Binglin 鄭炳林, 
+“Tang Wudai Dunhuang de Suteren yu Fojiao” 唐五代敦煌的粟特人與佛教, Dunhuang  
+yanjiu 敦煌研究, no. 2 (1997): 151–68.
+
+16 Rong
+Journal of chinese humanities 11 (2025) 4–26
+康通信, who served as military inspector under Zhang Yicha o, An Hua i’en  
+安懷恩, who held the position of a military inspector , and Cao Fajing 曹法鏡  
+(d. 883), who succeeded the Tibetan Buddhist master Chos grub (ca. 755–849) 
+as the senior Buddhist officer of the regio n. Perhaps most significantl y, Cao 
+Yijin 曹議金 (d. 93 5), who succeeded Zhang Yicha o’s grandson as military 
+commissioner in 914, may himself have been of Sogdian descen t.22 Through a 
+calculated policy of marriage alliances—taking a daughter of the Ganzhou 甘州 
+Uyghur khagan as his wife and giving his own daughter in marriage to the king 
+of Khotan Li Shengtian 李聖天 (in Khotanese Vi śa’ Saṃbhava, r. 912–966)— 
+Cao and his descendants cultivated diplomatic relations with neighboring 
+powers through intermarriag e. These policies helped reestablish the ancient 
+route through the Hexi Corridor, effectively reopening the Silk Road to trade.
+Traditional Chinese historical sources, with their focus on official matters of 
+state, rarely documented the activities of merchants and foreign immigrant s. 
+Without the Dunhuang manuscript s, our understanding of the Sogdian pres -
+ence in medieval China would be considerably diminished.
+3 The Entry of West Asian Religions into China
+The medieval period witnessed the successive arrival of three West Asian 
+religions in Chin a: Zoroastrianism (known in Chinese sources as Xianjiao 
+祆教), the East Syriac Church (known as Jingjiao 景教), and Manichaeis m.  
+While these traditions significantly influenced Chinese religious and social 
+life, traditional Chinese sources offer only limited documentation of these reli-
+gions, much of it colored by Buddhist polemic s. The Dunhuang manuscript s, 
+however, provide firsthand accounts written by adherents of these faiths, along 
+with incidental references that substantially enrich our understanding of their 
+historical development in China.
+3.1 Zoroastrian Communities along the Silk Road
+Zoroastrianism arose in Persia around the sixth century BCE  and was pro -
+claimed the state religion under the Achaemenid Empire (550–330 BCE).  
+As the empire expanded to Bactria and Gandh āra, Zoroastrian teachings 
+reached northwestern India and even further to the Tianshan 天山 regio n, 
+where they were adopted by certain Saka (Scythian) communities. This initial 
+22  Rong Xinjiang 榮新江, “Dunhuang Guiyijun Caoshi tongzhizhe wei Sute houyi shu o”  
+敦煌歸義軍曹氏統治者爲粟特後裔說, Lishi yanjiu 歷史研究, no. 1 (2001): 65–72.
+
+17Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+wave of eastward expansio n, howeve r, does not appear to have extended 
+beyond the Yumen Pass and into Chinese territory.
+Zoroastrianism’s arrival in China proper was closely tied to the eastward 
+trading activities of Sogdian merchants, for whom Zoroastrianism was the pre-
+dominant faith. One of the earliest attestations for this comes from the ancient 
+Sogdian letters, with Letter N o. 1 containing the term βγnpt in reference to a 
+Zoroastrian temple officia l,23 likely translatable as “priest” or “head of the 
+temple.” Several personal names in the other letters incorporate Zoroastrian 
+theonyms, such as Nanai-Vandak, the sender of Letter N o. 2, whose name 
+means “servant of the goddess Nana i,”24 with these naming practices under -
+scoring the role of Zoroastrian faith in Sogdian merchant society. According to 
+the Shazhou tujing, when the Sogdian leader Kang Yandian settled in Shanshan 
+during the early Tang, his followers established a xianshe 祆舍, or Zoroastrian 
+temple, in the cit y.25 Similarly, in Yizhou, the Sogdian chieftain Shi Wannian 
+sponsored a temple dedicated to Zoroastrian deities that was apparently replete 
+with numerous wall paintings and maintained by a priest named Di Pantuo  
+翟槃陀 (dates unknown).26 In Dunhuang prope r, a Zoroastrian temple stood 
+one li east of the cit y. Notabl y, its deities (xianshen 祆神) were officially 
+recognized alongside Chinese gods of wind and rain as part of the “Four 
+Miscellaneous Deitie s” (si suo zashen  四所雜神) of Dunhuan g, and received 
+regular ritual sacrifices. The Shazhou tujing provides a detailed description of 
+this temple: “They erected halls and painted the various Zoroastrian gods. There 
+is a total of twenty niches. Its courtyard extends one hundred paces around.”27 
+This is an exceptionally rare description of a Zoroastrian place of worship 
+in China. Even after Tibetan occupation of Dunhuang and the conversion of 
+many local Sogdians to Buddhis m, Zoroastrian ritual practices continued to 
+persist as part of local folk tradition s. Activities such as the saixian 賽祆 folk 
+cult continued into the Guiyi Circuit perio d, highlighting the enduring influ -
+ence of Zoroastrianism in the region, even as its formal practice waned.
+3.2 East Syriac Christianity in Medieval China
+The Nestorian Stele (Da Qin Jingjiao liuxing Zhongguo bei  大秦景教流行中 
+國碑) unearthed in the suburbs of X i’an in 1625 provides an important record 
+23  W. B. Henning, “The Date of the Sogdian Ancient Letters,” Bulletin of the School of Oriental 
+and African Studies 12 (1948): 602–5.
+24  W. B. Henning, “A Sogdian Go d,” Bulletin of the School of Oriental and African Studies 28 
+(1965): 252–53.
+25  See Dunhuang shehui jingji wenxian zhenji shilu, 1: 37.
+26  Ibid., 1: 40.
+27  Ibid., 1: 13.
+
+18 Rong
+Journal of chinese humanities 11 (2025) 4–26
+of the arrival of the East Syriac Churc h, also known as the Church of the Eas t, 
+to the Tang empir e. The stele recounts how in 635 the Persian monk Alopen 
+arrived in the Tang capital of Chang’an carrying with him East Syriac Christian 
+scriptures and images. Within three years, Alopen had received imperial per -
+mission to establish a church and conduct missionary activities in China. Over 
+the next century, this East Syriac branch of Christianity flourished in Tang ter-
+ritory, receiving particular favor after a clergyman from this religion Yazdbozid 
+(Chinese name Yisi 伊斯) provided crucial material support to Tang forces dur-
+ing the An Lushan rebellio n. In 781, Yazdbozid erected a stele at the Da Qin 
+Monastery 大秦寺 in Yining District, Chang’an, commemorating both the his-
+tory of the spread of Christianity and his own achievements. Although records 
+of Christian activities become scarce after this perio d, especially following 
+Emperor Wuzong’s 唐武宗 (r. 840–846) sweeping campaign to suppress for -
+eign religions in 84 5, the Dunhuang manuscripts help fill critical gaps in our 
+historical understanding, offering glimpses into the continued presence of this 
+community well beyond official notice.
+While the Nestorian Stele primarily chronicles the development of Chris -
+tianity during the Tang dynast y, texts unearthed at Dunhuang allow for a 
+much more detailed understanding of Christianity in Chin a. One of thes e, 
+the Zunjing 尊經, provides a catalog of thirty-five Christian texts translated 
+into Chinese from the time of Alope n’s entry into China to that of Ada m’s 
+stele inscription. Three of these works survive in Dunhuang copie s, offering 
+invaluable insights into East Syriac Christianity and allowing us to trace ear -
+lier textual layer s.28 Several additional titles mentioned in the Zunjing have 
+yet to be located in manuscript form, though some can be cross-referenced in 
+other sources. For instance, the Simen jing 四門經 may be related to the Duli-
+yusi jing 都利聿斯經, which consisted of five juan said to have been brought 
+from “Western India” (Xi tianzhu 西天竺) by Li Miqian 李彌乾 (fl. 785–804), 
+and later redacted by Chen Fu 陳輔 (dates unknown) at the Hanlin Acad -
+emy ( hanlin yuan  翰林院) into one volume under the title Yusi simen jing   
+聿斯四門經.29 Modern research suggests that “Duliyusi” may have been a 
+28  These three texts are the Xuanyuan zhiben jing  宣元至本經 (Sutra on the Origin 
+of Origin s), the Zhixuan anle jing  志玄安樂經 (Sutra of Ultimate and Mysterious 
+Happiness), and the Sanwei zan jing 三威贊經 (Hymn of Perfection of the Holy Trinity). 
+For a detailed exposition of these three text s, see Zhu Donghu a, “The Chronology of 
+the Tang Dynasty Jingjiao Nestorian Theologian Jingjin g’s Writings and Translations in 
+Relation to His Though t,” in Beyond Indigenization: Christianity and Chinese History in a 
+Global Context, ed. Tao Feiya (Leiden: Brill, 2022), 25–45.
+29  See the “Yiwenzhi sa n” 藝文志三 chapter of the Xin Tangshu 新唐書. Xin Tangshu  
+新唐書 (Beijing: Zhonghua shuju, 1975), 59.1548.
+
+19Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+Middle Persian transliteration of Ptolemy (PTLMYW S), implying that this 
+Simen jing  was likely a Chinese adaptation of the Tetrabiblos, Ptolem y’s  
+(ca. 100–175) treatise on horoscopic astrolog y.30 Much like later Jesuit mis -
+sionaries such as Matteo Ricc i (1552–1610), Syriac Christian monks evidently 
+used Western scientific knowledge to support their evangelical endeavors—a 
+strategy that inadvertently contributed to the transmission of Western scien -
+tific knowledge to Chin a. Notably, the Tibetan Kingdom did not oppose the 
+Church of the East. Some Tibetan-language manuscripts from Dunhuang even 
+feature Christian crosses and divinatory passages with Christian elements, sug-
+gesting at least a limited level of tolerance for the Church under Tibetan rule.31 
+Although Buddhism monopolized much of the religious landscape in Dun -
+huang during the Guiyi Circuit perio d, Christianity was not entirely eclipse d. 
+Intact copies of works such as the Sanwei mengdu zan  三威蒙度贊 and the 
+Zunjing itself remained in the cave library at Moga o, indicating tha t, even in 
+the late tenth and early eleventh centuries, this East Syriac Christian tradition 
+still retained a readership on the Silk Road frontier.
+3.3 Dunhuan g’s Manichaean Legacy
+Manichaeism, founded in the third century by the Persian prophet Mani 
+(ca. 216–274), drew upon the dualism of Zoroastrianism to formulate its dis -
+tinctive doctrine of the “Two Principles and Three Time s.”32 Howeve r, its 
+world-renouncing tendencies often led political authorities to view it with sus-
+picion, with many ruling regimes branding it a heterodox cree d. Following its 
+proscription under the Sasanian Empire (224–651), Mani’s disciples embarked 
+30  See Rong Xinjiang 榮新江, “Yige rushi Tangchao de Bosi Jingjiao jiaz u” 一個入仕唐
+朝的波斯景教家族, in Yilangxue zai Zhongguo lunwenji  伊朗學在中國論文集, e d. 
+Ye Yiliang 葉奕良 (Beijing: Beijing daxue chubansh e, 1998), 2: 82–90; and Yano Michio,  
+“A Note on Ptolemy in Chin a,” in Documents et Archives provenant de l’Asie Centrale, ed. 
+Akira Haneda (Kyoto: Association Franco-Japonaise des Études Orientales, 1990), 217–20. 
+For an alternative reconstruction “Duliyusi” as “Dorotheus,” see Bill M. Mak, “Greek Astral 
+Sciences in China,” in Overlapping Cosmologies in Asia: Transcultural and Interdisciplinary 
+Approaches, ed. Bill M. Mak and Eric Huntington (Leiden: Brill, 2022), 55–56.
+31  Géza Ura y, “Tibet’s Connections with Nestorianism and Manicheism in the 8 th–10th 
+Centuries,” in Contributions on Tibetan Language, History and Culture, ed. Ernst Steinkeller 
+and Helmut Tauscher (Delhi: Motilal Banarsidass Publishing, 1995), 399–429.
+32  The doctrine of the Two Principles (Light and Darkness) and Three Times remained con-
+stant in Manichaeism from Europe to East Asia, despite the religion’s complex evolution. 
+These Three Times comprise: the primordial separation of Light and Darknes s, the pres-
+ent era of their intermingling, and the future permanent division. See Johannes van Oort, 
+“Manichaeism,” in Dictionary of Gnosis and Western Esotericism, ed. Wouter J. Hanegraaff 
+(Leiden: Brill, 2006), 763.
+
+20 Rong
+Journal of chinese humanities 11 (2025) 4–26
+on a mission of global proselytizatio n, establishing an eastern diocese of the 
+Manichaean church in Khorasan and Khwarazm by the late third century 
+and further extending its reach across Sogdiana and Tokharistan between 
+the fourth and seventh centuries. Paradoxically, while Persia and Central Asia 
+have yielded no surviving Manichaean text s, the Buddhist cave temples of 
+Dunhuang have preserved three substantial Manichaean texts, offering invalu-
+able glimpses into this enigmatic faith.
+A brief mention in juan 40 of the Fozu tongji 佛祖統紀 offers a glimpse into 
+Manichaeism’s arrival in China:
+In the first year of the Yanzai 延載 er a, a “bishop” (f oduodan 拂多誕) 
+from the state of Persia maintaining the false teachings of the Erzong jing 
+二宗經 (Sutra of the Two Principles) came to the court.33
+This Buddhist chronicle, despite dismissing Manichaeism as heres y, never-
+theless provides a precise account of its arrival into China during the reign of 
+Empress Wu Zetian 武則天 (r. 690–705). Wu Zetia n, known for her religious 
+eclecticism, not only welcomed this heterodox faith but also sanctioned the 
+establishment of temples and the translation of its scripture s, of which three 
+extant works have been preserved at Dunhuang. These include:
+1. Monijiao can jing 摩尼教殘經 (A Fragmentary Manichaean Treatise)
+Beijing National Library BD0025 6. Though incomplete and lacking both 
+beginning and en d, this manuscript retains 345 lines of text and is an 
+early Chinese translation of a foundational Manichaean scriptur e. Its 
+doctrinal content provides crucial insights into the religion’s core tenets.
+2. Moni guangfo jiaofa yil üe 摩尼光佛教法儀略 (Compendium of the 
+Doctrines and Styles of the Teaching of Mani, the Buddha of Light)
+British Library S.3 969 and Biblioth èque nationale P.3884. This wor k, 
+dated to 16 July 731,  carries a heading attributing its compilation to a  
+Manichaean bisho p, who was ordered by the Tang court to produce it 
+33  This passage can be found in the “Fayun tongsai zh i” 法運通塞志 (Monograph on 
+Success and Obstructions in the Spread of the Dharm a)—a section towards the end of 
+the Fozu tongji that provides an annalistic chronicle of Buddhism in China. It is recorded 
+within juan 39 in the Taisho Tripitaka recensio n. Translation taken with modifications 
+from Thomas J ülch, Zhipan’s Account of the History of Buddhism in Chin a, vo l. 2: Fozu 
+tongji, juan 39–42: From the Sui Dynasty to the Wudai Era (Leiden: Brill, 2021), 116. See Shi 
+Daofa 釋道法, Fozu tongji jiaozhu 佛祖統紀校注 (Shanghai: Shanghai guji chubansh e, 
+2012), 931.
+
+21Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+at the College of (the Hall) of Gathered Worthies (j ixian yuan 集賢院).34  
+The text i s, in fac t, not a translation but rather an original exposition 
+on Manichaean histor y, doctrin e, liturg y, and monastic rule s. Its com -
+position may have been commissioned by Emperor Xuanzong 唐玄宗  
+(r. 712–756) in response to perceived threats from the religion— notably, 
+he issued an edict the following year outlawing Manichaeis m, albeit 
+exempting Central Asians (Xihu 西胡) from this prohibitio n. Today, the 
+Compendium serves as a foundational text for the study of Manichaeism.
+3. Xiabu zan 下部讚 (Hymns of the Lower Section)
+British Library S. 2659. Also known as the Hymnscroll, this text com -
+prises of a collection of Manichaean devotional hymns extending over 
+four hundred line s. Rendered in elegant classical Chines e, it preserves 
+a substantial corpus of Manichaean poetry and offers insights into the 
+liturgical practices and spiritual world of Manichaean monasteries.
+Although the body of Manichaean, Syriac Christian, and Zoroastrian materials 
+in the Dunhuang manuscripts pales in comparison to its voluminous Buddhist 
+holdings, these documents are of extraordinary importanc e. Without the m, 
+our current understanding of how these three West Asian religions entered 
+and evolved in China would be considerably diminished.
+4 Tibetan and Guiyi Circuit Contributions to the Ninth- and 
+Tenth-Century Silk Road
+A prevailing historical narrative has argued that the Tibetan occupation of the 
+Hexi Corridor and Western Regions following the An Lushan 安祿山 rebel -
+lion (755–763) severed the arteries of communication along the Silk Roa d. 
+According to this vie w, exchanges between China and Central Asia remained 
+dormant from 790—when the monk Wukong 悟空 was forced to circumvent 
+Tibetan-held territories via the Uyghur Khaganate (744–840) north of the Gobi 
+on his return to Chan g’an—until the early Northern Song dynast y. However, 
+this perspective, rooted in the Sino-centric narratives of traditional Chinese 
+sources, is contradicted by abundant evidence from Dunhuan g’s Chinese and 
+Tibetan documents, which reveal a vibrant Silk Road continuing to function 
+throughout the ninth and tenth centuries.
+34  See Samuel N.  C. Lie u, Manichaeism in the Later Roman Empire and Medieval Chin a:  
+A Historical Survey (Manchester: Manchester University Press, 1985), 204.
+
+22 Rong
+Journal of chinese humanities 11 (2025) 4–26
+4.1 Tibetan Networks and Cultural Exchange
+Building upon its power base on the Tibetan Platea u, the Tibetan Kingdom 
+capitalized on the internal strife that engulfed the Tang dynasty following 
+the An Lushan rebellion to first seize the Longyou 隴右 region (modern-day 
+southwestern Gansu), and then systematically advance westward along the 
+Hexi Corrido r. By 786, they had forced the military and civilian population 
+of Shazhou (Dunhuang) to form an alliance and surrender under the condi -
+tion that they would not be relocated elsewher e. The Tibetans subsequently 
+transformed Dunhuang into a center of Buddhist devotion, actively promoting 
+Buddhist institutions and communitie s. Eminent monks from both Chinese 
+and Tibetan traditions—from Tan Kuang 曇曠 (fl. 763) of Ximing Monastery 
+西明寺 in Chan g’an to the Tibetan Tripi ṭaka master Chos grub—translated 
+scriptures and expounded Buddhist doctrine ther e. Dunhuang also served as 
+a springboard for the spread of Chan Buddhism to Tibet, which was accompa-
+nied by the widespread transmission of other Chinese secular texts.
+Along its northern frontie r, the Tibetan Kingdom established a series of 
+military garrison s, stretching from Maqu 瑪曲 (southern Gans u) in the east 
+to Little Balur (modern-day Gilgit-Baltistan) in the west, that were connected 
+by a sophisticated transportation syste m. Couriers and messengers known as 
+“winged envoys” (f einiao shi 飛鳥使) traversed the vast distances between the 
+Tsenpo’s court and these garrison s, their unimpeded communication facili -
+tating both the dissemination of Buddhism and broader cultural exchang e.  
+The effectiveness of these networks is demonstrated by the lineage record  
+of the Tibetan Chan master Nam-kha’i snying-po (fl. 8th–9th century) pre -
+served in Dunhuang manuscript Pelliot tib étain 99 6. This text documents a 
+route of religious instruction that stretched from India and Kucha through to 
+Dunhuang and Ganzhou35—evidence that the traditional Silk Road corridors 
+were by no means sealed off. Moreover, the old Tang-Tibet road, established in 
+the early Tang, became even more active during this period. As the inscription 
+of the Sino-Tibetan Treaty (erected in Lhasa in 822) records, diplomatic envoys 
+from both sides “shall travel back and forth along established route s.”36 These 
+routes saw a substantial number of Chinese texts circulate into Tibetan area s, 
+with extant Tibetan manuscripts from Dunhuang encompassing Confucian 
+classics and Chinese character primer s, as well as several Chan lineage 
+35  Cai Rang 才讓, Puti yizh u: Dunhuang zangwen Fojiao wenxian de zhengli yu jiedu   
+菩提遺珠：敦煌藏文佛教文獻的整理與解讀 (Shanghai: Shanghai guji chubansh e, 
+2006), 457–501.
+36  For a complete English translation of the stele inscriptio n, see Li Fang-Kuei, “The 
+Inscription of the Sino-Tibetan Treaty of 821–822,” T’oung Pao 44 (1956): 1–99.
+
+23Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+genealogies.37 Such manuscripts reveal the robust flow of textual exchange 
+that continued between the Chinese and Tibetan realms throughout the ninth 
+and tenth centurie s, long after traditional historical sources would have us 
+believe the region lay isolated.
+4.2 New Political Order and Trade
+With the decline of Tibetan power over Hexi and Central Asia precipitated 
+by the assassination of Tsenpo Langdarma (d. 842) and the internal conflict  
+that followed, a new polity—the Guiyi Circuit led by military commissioner 
+Zhang Yichao—emerged in the Dunhuang regio n. After a decade of cam -
+paigns, Zhang successfully reopened the old Hexi Corridor route and captured 
+Liangzhou in 86 1, breaking Tibetan control of the regio n. This achievement 
+restored Dunhuang’s connections with the Tang dynasty and facilitated the 
+establishment of diplomatic relations with the Uyghur kingdom of Qocho 
+(866–early 13th centur y) in Turpan and the Kingdom of Khotan along the 
+southern rim of the Tarim Basi n. When the Cao family assumed control of 
+the Guiyi Circuit in 91 4, these connections deepene d, particularly with the 
+Ganzhou and Qocho Uyghur polities and the Kingdom of Khota n. These rela-
+tionships facilitated the burgeoning of trans-regional trade along the Silk Road. 
+Jade from Khotan once again found a ready market in the Central Plains, while 
+sal ammoniac (naosha 硇砂) from the Uyghur domains in Turpan was funneled 
+into China via Dunhuan g. Documentary evidence of this trade survives in  
+numerous Dunhuang manuscript s, including one record (P.4638) dated 916  
+in which “one lump of jade weighing one jin and one liang, five pairs of ante -
+lope horns, and five jin of sal ammoniac” were sent from Dunhuang as a tribute 
+to the Chinese court.38 Another text (S.4398) from 949 similarly records a trib-
+ute of “ten jin of sal ammonia c” sent by the new military commissioner of 
+Guiyi Circuit Cao Yuanzhong 曹元忠.39
+37  Such Tibetan texts included translated copies of the Shangshu 尚書 (Pelliot tibétain 986), 
+Chunqiu houyu 春秋後語 (Pelliot tibétain 1291), Zachao 雜抄 (Pelliot tibétain 1238) and 
+Qianziwen 千字文 (Pelliot tibétain 1046). For a detailed overview of these Tibetan cop -
+ies see Imre Galambo s, “Chinese Primers Along the North-Western Frontier,” Journal of 
+the Royal Asiatic Society 34 (2024): 718–21. Chan genealogies included the Lengqie shizi ji  
+楞伽師資記 (IOL  Tib J 710) and the Lidai fabao ji 歷代法寶記 (attested in Pelliot tibé-
+tain 116 among others).
+38  See Dunhuang shehui jingji wenxian zhenji shilu 敦煌社會經濟文獻真蹟釋錄, ed. Tang 
+Geng’ou 唐耕耦 and Lu Hongji 陸宏基 (Beijing: Quanguo tushuguan wenxian suowei 
+fuzhi zhongxin, 1990), 4: 387.
+39  Ibid., 4: 398.
+
+24 Rong
+Journal of chinese humanities 11 (2025) 4–26
+4.3 Dunhuang Pilgrims and Khotanese Sources
+During the Cao famil y’s governance of the Guiyi Circui t, the military com -
+missioners not only patronized Dunhuan g’s Buddhist communities but also 
+generously supported monks who traveled westward in search of sacred texts. 
+The Dunhuang manuscripts reveal a steady stream of such pilgrims pass -
+ing through the oasis throughout the early and mid-tenth centur y. Records 
+mention various distinguished figures making this journe y, including temple 
+abbots, local śramaṇas and imperially recognized masters, with these travelers 
+hailing not only from monasteries in the Dunhuang region but also from major 
+Buddhist centers across the empir e.40 A particularly significant development 
+came in 96 6, when the founding Song emperor Taizu 宋太祖 (r. 96 0–976), 
+as part of his program to revitalize Buddhis m, sponsored a major official pil -
+grimage which saw 157 monks depart from the Song capital Kaifeng 開封 for  
+India. The Dunhuang manuscripts record several of these pilgrims pass -
+ing through the region between 968 and 99 5, demonstrating the continuing 
+vitality of this pilgrimage rout e.41 Among these documents is a fascinating 
+twenty-one-line text (S.383) titled Xitian lu jing  西天路竟 (Route to Indi a) 
+which provides a detailed itinerary from Kaifeng to South India—likely the 
+travel notes of one such pilgri m.42 While traditional Chinese sources have 
+largely overlooked these pilgrims, their occasional appearances in Dunhuang 
+documents suggest that many more monks—whose names we do not have—
+must likewise have traversed Dunhuang en route to study the Dharma in India.
+The Dunhuang manuscripts also include a significant corpus of docu -
+ments in the Khotanese language, reflecting the close diplomatic ties between 
+40  These pilgrims included Zhiyan 智嚴 (S.5981), abbot of the Guanyin Monastery 觀音院  
+at Kaiyuan Temple 開元寺 in Fuzhou 鄜州 (present-day Fuxia n 富縣, Shaanx i), and 
+Guiwen 歸文 (S.529), a monk from Kaiyuan Temple in Dingzho u, who both set out for 
+India in 924. They were followed by Yanxi 彥熙 (P.2605), a śramaṇa from the Fuxian 福先 
+Temple in Luoyang, who traveled to India between 931 and 935. In 944, the sangha regula-
+tor Shanguang 善光 (S.4537) of Shazhou embarked on his pilgrimage, followed by Fazong 
+法宗 (BD0206 2), the abbot of the Western Cloister 西院 of the Great Shanxing Temple 
+善興大寺 in Xichuan 西川, in 958. Daoyuan 道圓 (S.6264), a śramaṇa and recipient of 
+the purple robe, departed during the Later Jin dynasty (936–47) and returned in 965. See 
+Rong Xinjiang, The Silk Road and Cultural Exchanges Between East and West, trans. Sally K. 
+Church et al., ed. Sally K. Church and Imre Galambos (Leiden: Brill, 2023), 155–68.
+41  Dated manuscripts record the names of Jicong 繼從 (BD13802  and P.3023) in 968, Fajian 
+法堅 (P.2726) during the period from 96 4–74, Yongjin 永進 (BD1538 7) in 97 1, Zhijian  
+志堅 (S.3424) in 989 and Daoyou 道猷 (BD0190 4) in 99 5. Rong Xinjian g, The Silk Road 
+and Cultural Exchanges, 168–72.
+42  Huang Shengzhang 黃盛璋, Zhong-wai jiaotong yu jiaoliushi yanjiu 中外交通與交流史
+研究 (Hefei: Anhui jiaoyu chubanshe, 2002), 88–110.
+
+25Rewriting the Silk Road
+Journal of chinese humanities 11 (2025) 4–26
+Dunhuang and Khotan throughout the tenth centur y. These relations were 
+strengthened through marriage alliances between the ruling houses, resulting 
+in extended stays in Dunhuang by Khotanese envoy s, monks, and royal fam -
+ily members. This prolonged interaction left behind a number of Khotanese 
+documents, many of which provide invaluable records of Silk Road activi -
+ties. One particularly significant manuscrip t, formerly in the collection of 
+Alexander von Staël-Holstein (1877–1937), preserves a detailed itinerary from 
+around 925 recording place names along the route from Khotan through 
+Shazhou to Shuofang 朔方. The document also lists settlements along both the 
+northern and southern branches of the Tianshan route s, providing a precious 
+snapshot of Silk Road geography in the tenth centur y.43 Another remarkable 
+document chronicles a journey from Khotan to Kashmi r, providing one of 
+our earliest firsthand accounts of travel between these two region s.44 Due to 
+Khotan’s diplomatic ties with Dunhuang, a substantial portion of the remain -
+ing Khotanese documents consist of envoy report s. These texts offer detailed, 
+first-hand insights into the conditions, political dynamics, and trade networks 
+that shaped the region during the tenth century.
+The library cave at Dunhuang was likely sealed around 100 6, which  
+explains the relatively abundant preservation of ninth-  and tenth-century  
+documents that provide us with invaluable records of the Silk Road during this 
+period. Yet we must also recognize that many of these manuscripts are frag -
+mentary, and most were not created with the specific purpose of documenting 
+Silk Road activities. The actual volume and variety of trans-Eurasian exchange 
+during this period was likely far greater than even these rich sources reveal.
+This article has demonstrated how the Dunhuang manuscripts fundamen -
+tally reshape our understanding of medieval Silk Road network s. Through 
+examination of these document s, we can trace multiple concurrent devel -
+opments: the westward transmission of cultural traditions from the Central 
+Plains; the flourishing of multiple religious traditions including Zoroastrianism, 
+Christianity, and Manichaeism; the establishment of Sogdian trading colonies 
+and their eventual integration into Chinese societ y; and the maintenance of 
+robust commercial and diplomatic networks under both Tibetan and Guiyi 
+Circuit administration. These materials challenge the conventional view that 
+43  See Huang Shengzhang 黃盛璋, “Yutianwen ‘Shi Hexi j i’ de lishi dili yanji u” 于闐
+文《使河西記》的歷史地理研究, Dunhuangxue jikan 敦煌學輯刊, no. 2 (1986): 1–18. 
+Continued in Dunhuangxue jikan 敦煌學輯刊, no. 1 (1987): 1–13.
+44  See Huang Shengzhang 黃盛璋, “Dunhuang xiejuan Yutianwen ‘Keshimier xingchen g’ 
+lishi dili yanjiu” 敦煌寫卷于闐文《克什米爾行程》歷史地理研究, Xinjiang wenwu 
+新疆文物, no. 4 (1994): 27–48.
+
+26 Rong
+Journal of chinese humanities 11 (2025) 4–26
+Silk Road exchange was severely disrupted after the An Lushan rebellio n, 
+demonstrating instead the continuation of vigorous commercial and cultural 
+interactions throughout the ninth and tenth centuries.
+The evidence presented here suggests that we must reconceptualize the Silk 
+Road not as a simple trade route periodically interrupted by political upheaval, 
+but as a resilient network of cultural and commercial exchange that adapted 
+to changing political circumstance s. The Dunhuang manuscripts reveal how 
+local actors—whether Sogdian merchant s, Buddhist pilgrim s, or regional 
+ administrators—maintained these networks even during periods of apparent 
+political fragmentatio n. As research continues on both the Chinese manu -
+scripts and documents in various Central Asian languages, we will undoubtedly 
+uncover even richer and more colorful chapters in the history of the Silk Road.
+Translated by Michael Broughton and Claude Sonnet 3.5

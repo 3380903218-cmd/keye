@@ -1,0 +1,9 @@
+﻿Id,Label,LabelEN,NodeType,Place,HistoricalPolity,Role,Alias,SourceRef,Core,Notes,GraphView,InLinks,OutLinks,Degree,RecordedEvents,Route
+N002,王圆箓,Wang Yuanlu,Person,敦煌,清,地方保管者；道士；修缮者,Wang Tao-shih; Wang Yüan-lu; 王圓籙; 王道士,S01;S07;S22;S15,1,仅表示来源描述的保管和交易角色，不裁定所有权。,actor_transfer_aggregated,0,2,2,4,Pelliot;Stein
+N006,斯坦因考察队,Stein expedition,Expedition,敦煌／安西／和田,英属印度支持的考察行动,1907年取得与运输行动,Stein Central Asian Expedition,S03;S07,1,以行动组织作为接收主体；并非法律实体认定。,actor_transfer_aggregated,1,1,2,4,Stein
+N007,英国博物馆,British Museum,Institution,伦敦,英国,实物存放与整理地点,British Museum; 大英博物馆,S03;S07;S17,1,历史存放不等于正式入藏；不把1973年后的British Library回填至1909年。,actor_transfer_aggregated,1,0,1,1,Stein
+N009,京师图书馆,Jingshi Library,Institution,北京,清,历史接收机构,京師圖書館; Metropolitan Library; Imperial Library,S11;S12;S13;S19,1,沿用旧N009但落实为具体历史机构；现代国家图书馆名称只作沿革说明。,actor_transfer_aggregated,1,0,1,2,Qing
+N010,陕甘总督机构,Shaan-Gan Governor-General office,Government,甘肃／北京运输路线,清,1909样本的送出机构,陕甘总督; 陝甘總督,S19,1,机构节点；具体承运人和王圆箓向该机构交出样本的环节未证实。,actor_transfer_aggregated,0,1,1,1,Qing
+N011,清学部,Qing Ministry of Education,Government,北京,清,拨送与行政管理机构,学部; 學部; Ministry of Education,S11;S19,1,替代旧版抽象的清中央政府节点；命令与实物交接分别建模。,actor_transfer_aggregated,1,1,2,3,Qing
+N013,伯希和考察队,Pelliot expedition,Expedition,敦煌／巴黎路线,法国,1908年取得与带回行动,Mission Pelliot; Pelliot expedition,S15;S22,1,与斯坦因队使用一致的组织分析单位。,actor_transfer_aggregated,1,1,2,2,Pelliot
+N014,法国国家图书馆,Bibliothèque nationale (Paris),Institution,巴黎,法国,伯希和敦煌写本的接收机构,Bibliothèque Nationale; BnF; Bibliothèque nationale de France,S15,1,原候选N014现有机构正文支持；不把卢浮宫接收艺术品混入写本主图。,actor_transfer_aggregated,1,0,1,1,Pelliot

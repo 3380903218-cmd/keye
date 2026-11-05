@@ -1,0 +1,16 @@
+GIT_STATE: available
+WORKSPACE: /Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project
+GIT_AVAILABLE: true
+REPOSITORY[1]: /Users/arourouwed/Desktop
+  RELATIVE_ROOT: external:/Users/arourouwed/Desktop
+  STATE: available
+  BRANCH: main
+  HEAD: 81d73fd620fd390e173db1a8f11fa50bd9b208c9
+  CLEAN: false
+  CHANGES: staged=0, unstaged=77, untracked=8, conflicted=0
+  REMOTES: (none)
+  COMMIT: 81d73fd620fd 2026-10-26T15:26:29+08:00 Save HY6101 essay revisions, Dunhuang maps, and course materials
+  COMMIT: bfb5473e7f60 2026-10-21T20:46:46+08:00 Rename ES5000 essay to course submission format
+  COMMIT: 8597ffd5527d 2026-10-21T18:50:46+08:00 Address ES5000 essay structure and citation comments
+  COMMIT: 5f47253e7fcf 2026-10-20T15:28:22+08:00 Save Dunhuang route research, reorganized literature, and coursework updates
+  COMMIT: 16d8fdbbb59d 2026-10-20T11:31:14+08:00 Revise ES5000 loneliness essay using student reasoning

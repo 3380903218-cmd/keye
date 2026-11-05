@@ -1,0 +1,42 @@
+{
+  "workbook": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述/Gephi传播网络_可直接使用.xlsx",
+  "workbook_sha256": "6f5e3be48787622a1f56dc5d1920421c95ad734e7e594690e121ae0d437d733a",
+  "workbook_bytes": 119047,
+  "nodes": 122,
+  "edges": 136,
+  "events": 42,
+  "sources": 21,
+  "evidence": 49,
+  "sheets": [
+    "00_数据概览",
+    "01_传播关系",
+    "02_事件数据",
+    "03_人物机构",
+    "04_文献载体",
+    "05_来源依据",
+    "06_证据定位",
+    "07_Gephi_Nodes",
+    "08_Gephi_Edges",
+    "09_未纳入记录",
+    "10_字段与使用"
+  ],
+  "formulas": 0,
+  "imports": {
+    "敦煌双层传播网络.gexf": "15e322c3155c4ad21baac219ba33707ae3b15b5f808a91527e0d3cf2d7876aec",
+    "使用说明.txt": "85a27f9578af2e7c16724ecbe645fc62443d5d9a6c32b87144f78b2d6bb1f04f",
+    "nodes.csv": "7670b66eeb3c7acff3fdb50cc0a6130f20152ad1c8f1e67261cbc9a7b6645b6c",
+    "web_network_data.json": "c7914bf2de5ce955919391ed23310b9a8deedaf6f1c3a9f20aeecbde29da9ad3",
+    "events.csv": "c0d6e36172ff846c3a10bd7929536a1e9ee2a06b2cf1ab58a0f19df2554b3cc7",
+    "edges.csv": "097856a93a5e6a6d022e537182aa0e934fb974e334c0cabf614ca4d449c52283",
+    "sources.csv": "29a8719e0e4c9f81409fcabcc71fef8346101eb868a740eee5ffc98fc64d3d37"
+  },
+  "curated_sha256": "89ae6ad06014bdd448d08d6d1ace620a24c1db3ab65787b9d338ed54212bab7e",
+  "native_open": "passed; target opened and closed without saving; other workbooks preserved",
+  "visual_check": "11 saved-file-derived sheet previews rendered and inspected; no cell overflow; not a native Excel pixel/print acceptance",
+  "completed_at": "2026-10-29T10:23:39.519415+08:00",
+  "ooxml_check": "passed",
+  "evidence_anchors": "49 checked in cited page/text; keyword presence is locator, not proof of claim",
+  "cross_format_check": "passed",
+  "gexf_schema_check": "passed official 1.2draft XSD",
+  "original_inputs": "13 original files and previous review workbook unchanged; reading list updated separately with backup"
+}

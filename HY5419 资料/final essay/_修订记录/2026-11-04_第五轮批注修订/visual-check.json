@@ -1,0 +1,60 @@
+{
+  "artifact_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+  "performed_at": "2026-11-04T22:51:02.423906+08:00",
+  "status": "passed",
+  "pages": 10,
+  "method": "documents/render_docx.py LibreOffice-to-PDF proxy; all ten PNG pages visually inspected.",
+  "checks": [
+    "Changed interaction rationale appears clearly at start of page 7.",
+    "Programming background and author-created skills are stated together in the AI collaboration paragraph on page 8.",
+    "Unchanged text, two figures, captions and APA references remain intact.",
+    "No clipping, overlapping text, missing glyphs or orphaned headings observed."
+  ],
+  "page_evidence": [
+    {
+      "path": "预览/page-1.png",
+      "sha256": "b9b686a199971316f798c237489363c2d12f56119963245eccf9127bf85a3d64"
+    },
+    {
+      "path": "预览/page-2.png",
+      "sha256": "9fc2905674a31b89a3ae423c64eead13449e5d22e0b97c5b73a2f02020e596e6"
+    },
+    {
+      "path": "预览/page-3.png",
+      "sha256": "7227bd8edca82fb7ac64ad2184b25b04e2f1cad975562826488a89e97b754ea9"
+    },
+    {
+      "path": "预览/page-4.png",
+      "sha256": "c95c3152b865ea0c286697ec916ed2a19d3a91c8667abda3fac6cb7b6645e485"
+    },
+    {
+      "path": "预览/page-5.png",
+      "sha256": "244263a26704f30cd1bdb520a9e9d8cb29842e64c239978267d991b71315301a"
+    },
+    {
+      "path": "预览/page-6.png",
+      "sha256": "eaf16f717859b91ad49a4fc18d473178f64f613f6cdeb2e062f1dd2a885e2c60"
+    },
+    {
+      "path": "预览/page-7.png",
+      "sha256": "536617218a8a2e17c0ec5f25a4c6885400c7fa8e231372f699e47d374661839f"
+    },
+    {
+      "path": "预览/page-8.png",
+      "sha256": "6e5367626c5e12197cfb19cd1c20f301d7927abaa24c4cba5c21172db049790f"
+    },
+    {
+      "path": "预览/page-9.png",
+      "sha256": "eb3b0472639768133ca2a2375094ca5f681b567f08c023935d6eeec996738c54"
+    },
+    {
+      "path": "预览/page-10.png",
+      "sha256": "fa417f1e75cb0387a0fafebc6892b9b810ca3e3dfb8c5acd39e933e6c0368a0d"
+    }
+  ],
+  "pdf": {
+    "path": "预览/修订候选.pdf",
+    "sha256": "5a156e041cfcc93e7493eaf78d4ecb6829ad1492a455b4ce489c22df62f27a53"
+  },
+  "limitations": "Proxy rendering; separate Word-native verification will be recorded."
+}

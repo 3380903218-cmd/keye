@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-27",
+  "condition": "Existing TSV has irregular extra columns; general CSV rewrite interrupted",
+  "recovered_from": "read-only Git HEAD bytes; SHA256 exactly matches inventory taken before cleanup",
+  "recovered_sha256": "85777879a2ba041fd69e7ab81edba677fbdfd0d760f42851df58ecd2488b7476",
+  "change": "Only S07 local path, format note and limitation changed; all other lines preserved exactly",
+  "all_other_lines_unchanged": true
+}

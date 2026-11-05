@@ -1,0 +1,392 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2025-10-27T08:14:20Z",
+      "timestamp": 1761552860561,
+      "version": "build-2065373602"
+    },
+    "reference-count": 42,
+    "publisher": "Ubiquity Press, Ltd.",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.5334/srah.8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2024-04-12T08:47:07Z",
+      "timestamp": 1712911627000
+    },
+    "page": "56-76",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Reconstructing a Medieval Library? The Contents of the Manuscript Bundles in the Dunhuang Library Cave"
+    ],
+    "prefix": "10.5334",
+    "volume": "1",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6543-0923",
+        "authenticated-orcid": false,
+        "given": "Paschalia",
+        "family": "Terzi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9460-167X",
+        "authenticated-orcid": false,
+        "given": "Susan",
+        "family": "Whitfield",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "3285",
+    "reference": [
+      {
+        "first-page": "86",
+        "volume-title": "Divination et société dans la Chine medieval",
+        "year": "2003",
+        "key": "key20240412090826_B1"
+      },
+      {
+        "key": "key20240412090826_B2",
+        "unstructured": "Barnett, L. D. (nd). List of Manuscripts in languages of Central Asia and Sanskrit. Unpublished. Retrieved Feb. 24, 2023 from https://idp.bl.uk/references/Barnett_unpub/"
+      },
+      {
+        "key": "key20240412090826_B3",
+        "first-page": "209",
+        "article-title": "Les grottes des Mille Bouddhas",
+        "volume": "2",
+        "year": "1901",
+        "journal-title": "Comptes rendus des séances de l’Académie des Inscriptions et Belles-Lettres"
+      },
+      {
+        "author": "British Museum Central Archives (BM/CE)",
+        "key": "key20240412090826_B4",
+        "article-title": "Sir Aurel Stein Papers. See Wang 2004"
+      },
+      {
+        "first-page": "22",
+        "volume-title": "Dunhuang manuscript forgeries",
+        "year": "2002",
+        "key": "key20240412090826_B5"
+      },
+      {
+        "volume-title": "Dunhuang manuscript forgeries",
+        "year": "2002",
+        "key": "key20240412090826_B6"
+      },
+      {
+        "first-page": "303",
+        "volume-title": "Tonkō no shizen to genjō",
+        "year": "1980",
+        "key": "key20240412090826_B7"
+      },
+      {
+        "key": "key20240412090826_B8",
+        "first-page": "1",
+        "article-title": "The Dunhuang manuscripts: a general description: parts I and II",
+        "volume": "9",
+        "year": "1966–70",
+        "journal-title": "Zinbun"
+      },
+      {
+        "first-page": "103",
+        "volume-title": "Dunhuang manuscript forgeries",
+        "year": "2002",
+        "key": "key20240412090826_B9"
+      },
+      {
+        "volume-title": "Dunhuang manuscript culture",
+        "year": "2020",
+        "key": "key20240412090826_B10"
+      },
+      {
+        "key": "key20240412090826_B11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giles, L. (1935a). Dated Chinese manuscripts in the Stein collections I: fifth and sixth centuries AD. Bulletin of the School of Oriental Studies. 7(4), 809–836. http://www.jstor.org/stable/608272. DOI: 10.1017/S0041977X00086183",
+        "DOI": "10.1017/S0041977X00086183"
+      },
+      {
+        "key": "key20240412090826_B12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giles, L. (1935b). Dated Chinese manuscripts in the Stein collections II: seventh century AD. Bulletin of the School of Oriental Studies, 8(1), 1–26. http://www.jstor.org/stable/608098. DOI: 10.1017/S0041977X00081052",
+        "DOI": "10.1017/S0041977X00081052"
+      },
+      {
+        "key": "key20240412090826_B13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giles, L. (1937). Dated Chinese manuscripts in the Stein collections III: eighth century AD. Bulletin of the School of Oriental Studies, 9(1), 1–25. http://www.jstor.org/stable/608171. DOI: 10.1017/S0041977X00070701",
+        "DOI": "10.1017/S0041977X00070701"
+      },
+      {
+        "key": "key20240412090826_B14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giles, L. (1939). Dated Chinese manuscripts in the Stein collections IV: ninth century AD. Bulletin of the School of Oriental Studies, 9(4), 1023–1046. http://www.jstor.org/stable/607982. DOI: 10.1017/S0041977X0013513X",
+        "DOI": "10.1017/S0041977X0013513X"
+      },
+      {
+        "key": "key20240412090826_B15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giles, L. (1940). Dated Chinese manuscripts in the Stein collections V: tenth century AD (To end the of the Later Chin dynasty). Bulletin of the School of Oriental Studies, 10(2), 317–344. http://www.jstor.org/stable/608394. DOI: 10.1017/S0041977X00087541",
+        "DOI": "10.1017/S0041977X00087541"
+      },
+      {
+        "key": "key20240412090826_B16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Giles, L. (1943). Dated Chinese manuscripts in the Stein collections VI: tenth century (AD 947–995). Bulletin of the School of Oriental Studies, 11(1), 148–173. http://www.jstor.org/stable/609211. DOI: 10.1017/S0041977X00071275",
+        "DOI": "10.1017/S0041977X00071275"
+      },
+      {
+        "volume-title": "Descriptive catalogue of the Chinese manuscripts from Tunhuang in the British Museum",
+        "year": "1957",
+        "key": "key20240412090826_B17"
+      },
+      {
+        "key": "key20240412090826_B18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huett, B. (2012). A Woman of books: Miss C.M. Ridding and the Younghusband-Waddell Collection. Inner Asia, 14(1), 173–187. http://www.jstor.org/stable/24572152. DOI: 10.1163/22105018-990123784",
+        "DOI": "10.1163/22105018-990123784"
+      },
+      {
+        "volume-title": "Catalogue of the Tibetan Manuscripts from Tun-huang in the India Office Library",
+        "year": "1962",
+        "key": "key20240412090826_B19"
+      },
+      {
+        "key": "key20240412090826_B20",
+        "first-page": "21",
+        "article-title": "Guanyu Dunhuang cangjingdong de jige wenti 關於敦煌藏經洞的機個問題",
+        "volume": "12",
+        "year": "1978",
+        "journal-title": "Wenwu"
+      },
+      {
+        "author": "MSS Stein see Stein (1862–1943)",
+        "key": "key20240412090826_B21"
+      },
+      {
+        "key": "key20240412090826_B22",
+        "unstructured": "Muller, C. (1998). East Asian Apocryphal Scriptures: Their Origin and Role in the Development of Sinitic Buddhism. Bulletin of Toyo Gakuen University, 6, 63–76. http://www.acmuller.net/articles/1998-03-apocrypha.html"
+      },
+      {
+        "key": "key20240412090826_B23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pelliot, P. (1908). Une bibliotheque médiévale retrouvées aux Kansu. BEFEO, 8, 501–529. https://www.persee.fr/doc/befeo_0336-1519_1908_num_8_1_4297. DOI: 10.3406/befeo.1908.4297",
+        "DOI": "10.3406/befeo.1908.4297"
+      },
+      {
+        "volume-title": "Dunhuang Mogaoku Beiqu Shiku",
+        "year": "2000-4",
+        "author": "Peng Jinzhang",
+        "key": "key20240412090826_B24"
+      },
+      {
+        "key": "key20240412090826_B25",
+        "unstructured": "Przhevalsky, N. M. (1883). Iz Zaĭsana cherez Khami v Tibet i na verkhovʹia Zheltoĭ rieki (From Zaysansk through Hami to Tibet). St Petersburg. https://iiif.lib.harvard.edu/manifests/view/drs:9616688$1i"
+      },
+      {
+        "key": "key20240412090826_B26",
+        "unstructured": "Rong, X. (1998). The historical importance of the Chinese fragments from Dunhuang in the British Library. The British Library Journal, 24(1), 78–89. http://www.jstor.org/stable/42554489"
+      },
+      {
+        "key": "key20240412090826_B27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rong, X. (1999). The nature of the Library Cave and the reasons for its sealing. (V. Hansen, Trans.) Cahiers d’Extrême-Asie, 11, 247–75. (Original work published 1997). http://www.jstor.org/stable/44167329. DOI: 10.3406/asie.1999.1155",
+        "DOI": "10.3406/asie.1999.1155"
+      },
+      {
+        "volume-title": "Eighteen Lectures on Dunhuang",
+        "year": "2013",
+        "key": "key20240412090826_B28"
+      },
+      {
+        "key": "key20240412090826_B29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Russell-Smith, L. (2000). Hungarian Explorers in Dunhuang. Journal of the Royal Asiatic Society, 10(3), 341–362. www.jstor.org/stable/25188034. DOI: 10.1017/S1356186300012943",
+        "DOI": "10.1017/S1356186300012943"
+      },
+      {
+        "key": "key20240412090826_B30",
+        "unstructured": "Sims-Williams, U., & Waugh, D. (2010). The Old Curiosity Shop in Khotan. The Silk Road, 8, 69–96. http://www.silkroadfoundation.org/newsletter/vol8/"
+      },
+      {
+        "first-page": "1",
+        "volume-title": "Stein",
+        "year": "1862–1943",
+        "key": "key20240412090826_B31"
+      },
+      {
+        "volume-title": "Ruins of Desert Cathay: Personal narrative of explorations in central Asia and westernmost China",
+        "year": "1912",
+        "key": "key20240412090826_B32"
+      },
+      {
+        "volume-title": "Serindia: Detailed report of explorations in central Asia and westernmost China",
+        "year": "1921",
+        "key": "key20240412090826_B33"
+      },
+      {
+        "volume-title": "Innermost Asia",
+        "year": "1928",
+        "key": "key20240412090826_B34"
+      },
+      {
+        "first-page": "205",
+        "volume-title": "Proceedings of the Tenth Seminar of the IATS, 2003",
+        "year": "2012",
+        "key": "key20240412090826_B35"
+      },
+      {
+        "volume-title": "The Scripture on the Ten Kings’ and the Making of Purgatory in Medieval Chinese Buddhism",
+        "year": "1994",
+        "key": "key20240412090826_B36"
+      },
+      {
+        "key": "key20240412090826_B37",
+        "unstructured": "van Schaik, S. (2007). Manuscript Numbers in the Stein Collection. Early Tibet blog post. https://earlytibet.com/about/numbers/"
+      },
+      {
+        "year": "2012",
+        "key": "key20240412090826_B38"
+      },
+      {
+        "volume-title": "Catalogue of the Sir Aurel Stein papers in the British Museum Central Archives: Catalogue and Photocopies of all the papers",
+        "year": "2004",
+        "key": "key20240412090826_B39"
+      },
+      {
+        "volume-title": "Dunhuang Manuscript Forgeries",
+        "year": "2002",
+        "key": "key20240412090826_B40"
+      },
+      {
+        "volume-title": "The Silk Road: Trade, Travel, War and Faith",
+        "year": "2004",
+        "key": "key20240412090826_B41"
+      },
+      {
+        "journal-title": "Dunhuang shishi ji",
+        "year": "1949",
+        "key": "key20240412090826_B42"
+      }
+    ],
+    "container-title": [
+      "Silk Roads Archaeology and Heritage"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://storage.googleapis.com/jnl-up-j-srah-files/journals/1/articles/8/66192cef3fb09.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2025-10-27T08:00:40Z",
+      "timestamp": 1761552040000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://silkroadsarchaeoheritage.org/articles/10.5334/srah.8/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.5334/srah.8"
+    ],
+    "URL": "https://doi.org/10.5334/srah.8",
+    "relation": {},
+    "ISSN": [
+      "2753-3697"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2753-3697"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  }
+}

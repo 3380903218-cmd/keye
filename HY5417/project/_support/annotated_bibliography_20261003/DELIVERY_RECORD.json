@@ -1,0 +1,128 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5417-annotated-bibliography-zh-20261003",
+  "state": "candidate",
+  "content_authority": "../../文献综述个人思考.docx; source_manifest.json; draft_content.json",
+  "format_authority": "build_docx.py; A4 editable Chinese academic draft",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "zh-word-draft",
+      "role": "draft",
+      "path": "../../HY5417_Annotated_Bibliography_中文修改稿_20261003.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "71a4a897028ecffa3f4dda7dba4af5db13f48bc3f06ccb3c0929caf15c30fcb2",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "71a4a897028ecffa3f4dda7dba4af5db13f48bc3f06ccb3c0929caf15c30fcb2",
+      "performed_at": "2026-10-03T00:47:52.180043+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "content_check.json",
+        "sha256": "d6fce5ef708d8b53268f179383d74e786d42a1f835e24e1704aa01dc42b7c75a",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "71a4a897028ecffa3f4dda7dba4af5db13f48bc3f06ccb3c0929caf15c30fcb2",
+      "performed_at": "2026-10-03T00:47:52.180043+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "package_check.txt",
+        "sha256": "e2e12a5c34ec4aa487abbd55a92dc6da48c17593623300c7ea6148a4d5ae5c32",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "unavailable",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "71a4a897028ecffa3f4dda7dba4af5db13f48bc3f06ccb3c0929caf15c30fcb2",
+      "performed_at": "2026-10-03T00:47:52.180043+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "render_check.json",
+        "sha256": "7455e19818971db5aa3601b6ad308777af922aa73362f0055b8b5cfc3ab5aee1",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Word native pagination not verified; Quick Look fallback inspected.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "zh-word-draft",
+      "artifact_sha256": "71a4a897028ecffa3f4dda7dba4af5db13f48bc3f06ccb3c0929caf15c30fcb2",
+      "performed_at": "2026-10-03T00:47:52.180043+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "delivery_package_check.json",
+        "sha256": "ee90d2b7cdefc7aab0f7b8107051fa8462c2e20165b9428b236cd8734c6140ed",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "zh-word-draft"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [
+    "Native Microsoft Word pagination was not verified because the application timed out."
+  ],
+  "next_action": "Open the draft in Word to review and revise the text, and confirm page breaks before submission.",
+  "extensions": {
+    "length": {
+      "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/HY5417_Annotated_Bibliography_中文修改稿_20261003.docx",
+      "sha256": "71a4a897028ecffa3f4dda7dba4af5db13f48bc3f06ccb3c0929caf15c30fcb2",
+      "nonspace_characters_including_bibliography": 3406,
+      "characters_with_spaces_and_newlines": 3555,
+      "chinese_characters": 2180,
+      "academic_entries": 5,
+      "synthesis_paragraphs": 1
+    },
+    "evidence_audit": "evidence_audit.json"
+  }
+}

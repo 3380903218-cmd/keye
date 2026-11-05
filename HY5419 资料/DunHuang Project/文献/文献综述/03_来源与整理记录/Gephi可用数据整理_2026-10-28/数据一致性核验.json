@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "workbook_sha256": "6f5e3be48787622a1f56dc5d1920421c95ad734e7e594690e121ae0d437d733a",
+  "counts": {
+    "nodes": 122,
+    "edges": 136,
+    "events": 42,
+    "sources": 21,
+    "evidence": 49
+  },
+  "source_anchors": 49,
+  "csv_excel_parity": "passed; numeric weight 1 and 1.0 equivalent",
+  "gexf_ids_endpoints": "passed",
+  "original_inputs_preserved": {
+    "04_gephi/双层传播网络_Gephi/英文标签版/nodes.csv": true,
+    "04_gephi/双层传播网络_Gephi/英文标签版/edges.csv": true,
+    "04_gephi/双层传播网络_Gephi/英文标签版/含待核记录/nodes.csv": true,
+    "04_gephi/双层传播网络_Gephi/英文标签版/含待核记录/edges.csv": true,
+    "04_gephi/双层传播网络_Gephi/事件原始记录.csv": true,
+    "04_gephi/双层传播网络_Gephi/主体原始记录.csv": true,
+    "04_gephi/双层传播网络_Gephi/参与角色原始记录.csv": true,
+    "04_gephi/双层传播网络_Gephi/对象原始记录.csv": true,
+    "04_gephi/双层传播网络_Gephi/复制品原始记录.csv": true,
+    "04_gephi/双层传播网络_Gephi/作品原始记录.csv": true,
+    "04_gephi/双层传播网络_Gephi/来源目录.csv": true,
+    "路线地图/敦煌项目_路线地图资料与制作指南.xlsx": true,
+    "06_notes/2026-10-13_双层传播网络补采集/整理版_2026-10-13/双层传播网络_中文记录工作簿_整理版.xlsx": true
+  },
+  "old_review_workbook_sha256": "4ed62bad99be74a117becbc48a4a5a60cad343915d383f8908cb658a8565c687"
+}

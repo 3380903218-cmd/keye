@@ -1,0 +1,237 @@
+HY5419 PPT逐页填充建议（中英对照）
+日期：2026-09-14
+依据：HY5419_数字史进度汇报_可编辑极简模板.pptx（6页）、HY5419_敦煌数字史项目方案.pdf（8页），以及当前CSV、GEXF、已保存的Gephi项目和Stein本地OCR。
+
+使用方式
+中文用于理解和修改，英文短句用于替换模板中的占位文字。口头补充不必全部放到幻灯片。保留6页结构，删除“一页只讲一个主问题”等模板指导语。本文是内容建议，没有修改PPT文件。
+总体定位：原方案研究北京、伦敦、巴黎三条路径；本次展示斯坦因与清政府路径的初步编码和Gephi试点。Datawrapper时间线、三件文献或三个关键事件的个案研究、最终网页仍属于下一阶段。
+建议用时：35、60、75、90、85、65秒，合计6分50秒。正式7分钟英文汇报需另用英文讲稿计时，不能以中文字符数推算。
+
+第1页：研究对象与当前范围（35秒）
+页面位置：顶部主标题、副标题；左侧研究对象与本次汇报内容；右侧现有图片。
+
+主标题
+中文：1900—1910年敦煌文献的早期流散
+英文：Early Dispersal of Dunhuang Manuscripts, 1900–1910
+
+副标题
+中文：斯坦因路径与清政府路径试点
+英文：A Pilot Study of the Stein and Qing Government Routes
+
+Research focus
+中文：莫高窟第17窟（藏经洞）文献
+英文：Manuscripts from Mogao Cave 17 (the Library Cave)
+中文：1900—1910年；当前试点为斯坦因路径和清政府路径
+英文（分行）：1900–1910 / Current pilot: Stein and Qing government routes
+
+左下角小标题
+中文：本次进度汇报
+英文：Progress report
+三项内容
+中文：数据编码；Gephi试点；下一步与反馈
+英文（分行）：Data coding / Gephi pilot / Next steps and feedback
+
+图片说明：核实右侧照片的来源与具体洞窟编号。未核实前，不要把莫高窟其他洞窟或展示空间的照片标成“Cave 17”。如只是背景图，可标为Mogao context image，并补来源。
+口头补充：完整项目包括北京、伦敦和巴黎。本次先用两条路径检验数据结构与证据规则。
+英文：The full project covers Beijing, London and Paris. This presentation uses two routes to test the data structure and evidence rules.
+
+第2页：研究问题与工作假设（60秒）
+页面位置：上方一个主问题，中间两个子问题，下方工作假设。
+
+标题
+中文：研究问题
+英文：Research Questions
+副标题
+中文：完整项目覆盖北京、伦敦和巴黎
+英文：Full project: Beijing, London and Paris
+
+MAIN QUESTION
+中文：谁在1900—1910年藏经洞文献的早期流散中承担了中介作用？
+英文：Who mediated the early dispersal of Library Cave manuscripts, 1900–1910?
+
+子问题01
+中文：哪些中介者？
+英文：Which intermediaries?
+说明中文：地方保管者、翻译、官员与收藏机构
+说明英文：Custodians, translators, officials and collecting institutions
+
+子问题02
+中文：来源如何描述转移？
+英文：How do sources describe transfers?
+说明中文：取得、搬运与保存的措辞
+说明英文：Language of acquisition, removal and preservation
+
+WORKING HYPOTHESIS
+中文：中介者与收藏机构共同塑造了早期流散。
+英文：Intermediaries and collecting institutions jointly shaped early dispersal.
+
+口头补充：这是待检验的假设。后续将比较中、英、法资料中的事件叙述，考察目录是否省略早期经手人。公开数据和来源的目标，是让观众能检查每条连接的依据。
+英文：This remains a working hypothesis. I will compare Chinese, British and French accounts and examine which intermediaries collection catalogues omit. Publishing the data and sources will let readers check each connection.
+
+第3页：数据与方法（75秒）
+页面位置：三个并列区块及底部三条规则。区块之间表示数据关联，不代表历史时间顺序。
+
+标题
+中文：数据与方法
+英文：Data and Methods
+副标题
+中文：三张关联表支撑Gephi有向网络
+英文：Three linked tables support a directed network in Gephi
+
+区块01
+中文标题：主体表
+英文标题：Nodes
+中文关键词：遗址、人物、考察队、机构
+英文关键词：Site / People / Expeditions / Institutions
+口头对应文件：nodes.csv
+
+区块02
+中文标题：事件记录
+英文标题：Event Records
+中文关键词：转出者、接收者、日期、关系
+英文关键词：Source / Target / Date / Relationship
+口头对应文件：edges.csv。当前仍是待复核的事件编码。
+
+区块03
+中文标题：来源表
+英文标题：Sources
+中文关键词：引文、页码、原始措辞
+英文关键词：Citation / Page / Original wording
+口头对应文件：sources.csv。它与事件表中的SourceRef关联。
+
+规则A
+中文：原始措辞与研究者编码分开
+英文：Separate wording from coding
+规则B
+中文：保留日期范围和数量单位
+英文：Retain date ranges and units
+规则C
+中文：每条记录关联来源
+英文：Link every record to a source
+
+口头补充：节点代表保管或接收主体，边表示编码的保管或转移关系。“捆”“箱”“卷”分别保留，不能直接加总为边权。已经完成Gephi导入、ForceAtlas2试布局与节点类型配色。清政府命令与实际交接的编码还需区分。
+英文：Nodes represent custodians and receiving bodies. Edges encode custody or transfer relations. I retain bundles, cases and rolls as separate units. I have imported the pilot into Gephi, tested ForceAtlas2 and coloured nodes by type. Government orders still need to be distinguished from physical handovers.
+
+第4页：Gephi初步成果（90秒）
+页面位置：左侧大图；右侧数字、两项观察、一个证据缺口。
+
+标题
+中文：Gephi试点网络
+英文：Gephi Pilot Network
+副标题
+中文：斯坦因与清政府路径的初步编码
+英文：Provisional coding of the Stein and Qing government routes
+
+左侧：放当前Gephi的带名称图。可保留软件窗口边缘以表明实际操作，但节点名称必须能读。至少能识别Cave 17、Wang Yuanlu、Jiang Xiaowan、Stein expedition、British Museum、Qing government和Beijing receiving system。
+
+右侧大数字：7 / 6 / 9
+数字下方中文：节点 / 唯一连接 / 初步记录
+数字下方英文：nodes / links / draft records
+
+OBSERVATION 1（替换FINDING 1）
+中文：王圆箓在试点中连接两条路径。
+英文：Wang links both routes in the pilot.
+
+OBSERVATION 2（替换FINDING 2）
+中文：蒋孝琬出现在搬运环节。
+英文：Jiang appears in the removal stage.
+
+GAP
+中文：运京命令与实际交接仍需分别核实。
+英文：Qing orders and handovers need separate evidence.
+
+图注中文：节点颜色表示主体类型；布局距离不代表地理距离。
+图注英文：Node colours indicate entity types. Layout distance is non-geographic.
+小字来源：Stein 1921, vol. 2, pp. 824–825, 829–830; Doumy 2025; Terzi and Whitfield 2024.
+
+口头补充：当前图文件把同一节点对的多行记录汇总为唯一连接，所以7个节点、6条连接与9行记录是不同统计口径。9行仍是草稿记录数，需要核查独立事件数。王圆箓连接两条路径是这个试点的结构观察，尚不足以证明整个流散网络的机制。
+英文：The current graph groups records with the same source and target into unique links. It therefore shows seven nodes and six links from nine draft records. I still need to verify which records represent distinct events. These observations describe the pilot and do not yet establish a general pattern.
+
+不可忽略的复核事项：E004与E007引用同一“24箱存入英国博物馆”叙述，目前不能据此断言有两次入藏。E008、E009不能只根据运京命令就认定清政府先实物接收、再另行交付。这里不改动已有数据，只将PPT表述限定为初步编码。
+实际图例：已保存的Gephi项目edgeColorMode为SOURCE，即边沿用起点颜色；不要写“边颜色表示Relationship”。统计模型没有保存分析报告，当前汇报不要声称已经完成中心性分析。
+
+第5页：史料近读与编码（85秒）
+页面位置：左侧原文材料，右侧三个原词与解释，底部一句方法结论。
+
+标题
+中文：斯坦因如何叙述取得过程
+英文：Stein’s Account of Acquisition
+副标题
+中文：Serindia第二卷，第824—825页
+英文：Serindia, vol. 2, pp. 824–825
+
+左侧材料：优先放原书扫描中的相关段落，保留印刷页码并突出以下短语。若手头只有OCR，可把这些经过本地OCR核对的短语排成可编辑的引文摘录，并标明Text excerpts；不要把重排的文字伪装为原书扫描。正式使用扫描图前再核对原版。
+摘录1（p. 824）：The agreement arrived at assured me fifty compact bundles
+摘录2（p. 825）：Two midnight trips；safely removed to my store-room
+摘录3（p. 825）：rescue for Western scholarship
+出处：M. Aurel Stein, Serindia, vol. 2 (1921), pp. 824–825.
+
+右侧01
+原词：agreement
+中文：斯坦因对交易的叙述
+英文：Stein’s account of the transaction
+
+右侧02
+原词：safely removed
+中文：夜间搬运与中介者参与
+英文：Night removal involving intermediaries
+
+右侧03
+原词：rescue（完整短语留在左侧）
+中文：以学术价值正当化取得行为
+英文：A justification based on scholarly value
+
+底部结论
+中文：原始措辞与事件编码分别保留。
+英文：Source wording and event coding remain separate.
+
+口头补充：这三个原词描述不同层面：交易叙述、物理过程和正当化。“agreement”本身不足以证明合法所有权或所有相关方的同意。蒋孝琬参与夜间搬运，但原文同时写到Ibrahim Beg和Tila Bai，因此当前图仍省略了一部分经手人。
+英文：These phrases describe a transaction, a physical process and a justification. Agreement alone does not establish legal ownership or the consent of everyone involved. Stein also names Ibrahim Beg and Tila Bai in the removal passage, so the pilot still omits some participants.
+
+第6页：下一步与课堂反馈（65秒）
+页面位置：上方三个工作项，下方三个反馈问题。
+
+标题
+中文：下一步与反馈
+英文：Next Steps and Feedback
+副标题
+中文：复核证据，扩展路径，完成项目成果
+英文：Evidence review and remaining project outputs
+
+工作01
+中文：复核试点记录
+英文：Audit pilot records
+说明中文：重复记录与运京交接
+说明英文：Duplicate entries and Qing handovers
+
+工作02
+中文：扩展路径比较
+英文：Extend comparisons
+说明中文：伯希和记录与中文资料
+说明英文：Pelliot records and Chinese sources
+
+工作03
+中文：完成最终成果
+英文：Build final outputs
+说明中文：时间线、三个个案、网页
+说明英文：Timeline, three case studies and website
+
+课堂反馈 / Questions for feedback
+问题1中文：哪些记录应算作独立事件？
+问题1英文：Which records count as distinct events?
+问题2中文：深入两条路径，还是比较三条？
+问题2英文：Two routes in depth, or three for comparison?
+问题3中文：怎样表示不确定的连接？
+问题3英文：How should I show uncertain links?
+
+口头补充：先校正事件定义和证据等级，再扩充网络并计算入度、出度和中介中心性。按原方案补充Datawrapper时间线、三个文献或关键事件个案，以及附数据下载的项目网页。这些属于下一步，不应标成已完成。
+英文：After reviewing event definitions and evidence levels, I will expand the network and calculate degree and betweenness. I will also build a Datawrapper timeline, develop three case studies and publish a project website with downloadable data.
+
+提交前统一口径
+1. 目前是两条路径试点，完整三条路径是计划范围。
+2. 当前7节点、6连接、9草稿记录；9不等于已核实的独立转移事件数。
+3. sources.csv共5条来源记录，其中主试点直接引用S01、S03、S07三项。S04用于背景，S08用于扩展。
+4. 现有Gephi边色跟随起点，不能标为关系类型配色；不要把当前图说成已完成中心性结果。
+5. 图例和文字标注属于解释必要内容。没有节点名称的图不足以支持路径讲解。
+6. 三条路径、Datawrapper、微观个案与网站不要写成已完成成果。
+7. 时间范围指文献的早期流散阶段，非文献写成年代。莫高窟1987年才列入世界遗产，不使用“1900年从世界遗产地转移”的时代错置表述。

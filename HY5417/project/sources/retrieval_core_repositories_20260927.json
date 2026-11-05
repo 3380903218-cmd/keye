@@ -1,0 +1,29 @@
+[
+  {
+    "id": "A04uva",
+    "date": "2026-09-27",
+    "url": "https://arno.uva.nl/cgi/arno/show.cgi?fid=221325",
+    "kind": "error",
+    "error": "URLError(gaierror(8, 'nodename nor servname provided, or not known'))"
+  },
+  {
+    "id": "A04oapen",
+    "date": "2026-09-27",
+    "url": "https://www.oapen.org/search?identifier=381653",
+    "kind": "http_error",
+    "status": 404,
+    "error": "HTTP Error 404: Not Found",
+    "response_excerpt": "<!doctype html>\n<html lang=\"en\" data-bulma-theme=\"light\">\n\n<head>\n\n\t<meta charset=\"utf-8\"/>\n\t<meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n\t\n\t<title>OAPEN Web - 404 Not Found | OAPEN</title>\n\n  <!-- Preconnect to DSpace -->\n  <link rel=\"preconnect\" href=\"https://library.oapen.org\" crossorigin>\n  <link re"
+  },
+  {
+    "id": "A03display",
+    "date": "2026-09-27",
+    "url": "https://brill.com/display/book/9789004512986/BP000013.pdf",
+    "status": 202,
+    "final_url": "https://brill.com/display/book/9789004512986/BP000013.pdf",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 2224,
+    "kind": "not_pdf",
+    "response_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title></title>\n    <style>\n        body {\n            font-family: \"Arial\";\n        }\n    </style>\n    <script type=\"text/javascript\">\n    window.awsWafCookieDomainList = ['manchesterhive.com','brill.com','daredictionary.com','jnccn.org','akjournals.com','loebclassics.com','elgaronline.com','ajtmh.org','jurabibliotek.dk','elibrary.imf.org','berghahnjournals.com','bristoluniversitypressdigital.com','thejns.org'];\n    window.gokuProps = {\n\"key\":\"AQIDAHj"
+  }
+]

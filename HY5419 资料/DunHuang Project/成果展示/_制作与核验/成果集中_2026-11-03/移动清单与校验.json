@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-03",
+  "destination": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示",
+  "operation": "move originals; old locations retain relative symlinks",
+  "files_deleted": 0,
+  "moves": [
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/展示图.gephi",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/01_Gephi/展示图.gephi",
+      "content_verified": true,
+      "identity": "9ac17640814ba12fa40b14d2b464e33e2b0329a19deda19ad41bb0881a5bb795",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/Untitled.gexf",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/01_Gephi/敦煌双层网络_原始122节点136关系.gexf",
+      "content_verified": true,
+      "identity": "edf3f7dd37e31d7f23e500b23d16a438b712574d338e5d0a4bb51baf40714c90",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/路线地图/敦煌传播地图-区域详图.pdf",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/敦煌传播地图-区域详图.pdf",
+      "content_verified": true,
+      "identity": "a06b0feb90bc04f5c0d81d2d77754ee98570f1ab433b4f25b0954b9ed780d477",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/路线地图/敦煌传播地图_区域详图.qgz",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/敦煌传播地图_区域详图.qgz",
+      "content_verified": true,
+      "identity": "2bac8e77884332093591290206b50823d635956ea2b70af2f5f54fee79e40e7d",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/路线地图/敦煌传播地图.qgz",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/敦煌传播地图.qgz",
+      "content_verified": true,
+      "identity": "047d39009ab89aed1b4cc096b922b3a1ce3e17a8ced5efb1d11212c00f3699d2",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/路线地图/地图导入数据",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/地图导入数据",
+      "content_verified": true,
+      "identity": {
+        "files": 10,
+        "sha256": "0bc9f57668845744782b9a84b18e7b1202e8bfef9c29120f466bfadafc7f1188",
+        "git_directory": "preserved by directory rename; source tree digest excludes Git internals"
+      },
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述/Gephi传播网络_可直接使用.xlsx",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/04_Excel数据/原始数据/Gephi传播网络_可直接使用_122节点136关系.xlsx",
+      "content_verified": true,
+      "identity": "6f5e3be48787622a1f56dc5d1920421c95ad734e7e594690e121ae0d437d733a",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/路线地图/敦煌项目_路线地图资料与制作指南.xlsx",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/04_Excel数据/敦煌项目_路线地图资料与制作指南.xlsx",
+      "content_verified": true,
+      "identity": "78268c0cb573d4d36a0826e04579ae5c49d4f55863251ef8dca79038734af2b8",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/GitHub发布/dunhuang-in-motion",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/03_网站/网站源码",
+      "content_verified": true,
+      "identity": {
+        "files": 104,
+        "sha256": "cf137b04f71f5e1aae30b42a30bc08c29e92163ec69ef1a0fa1481a5daefc9ee",
+        "git_directory": "preserved by directory rename; source tree digest excludes Git internals"
+      },
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/国内外访问版/敦煌传播地图_离线中文版.html",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/03_网站/敦煌传播地图_离线中文版.html",
+      "content_verified": true,
+      "identity": "7d363de9f2cc2be472e973dd4f13688625866a903403efeabc5a2b5a9c40ea97",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/国内外访问版/敦煌传播地图_离线英文版.html",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/03_网站/敦煌传播地图_离线英文版.html",
+      "content_verified": true,
+      "identity": "3f91ea4266b07e5440f598f50d1de108d015ace748609fa6a300cd0bd225ed04",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/国内外访问版/静态托管文件",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/03_网站/静态托管文件",
+      "content_verified": true,
+      "identity": {
+        "files": 48,
+        "sha256": "6c60e89a69070db147815d109c38045da7b267e2a59556e14c23d1e2a2e612e5",
+        "git_directory": "preserved by directory rename; source tree digest excludes Git internals"
+      },
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/国内外访问版/发给家人_中文离线版.zip",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/03_网站/分享与部署包/发给家人_中文离线版.zip",
+      "content_verified": true,
+      "identity": "964ce9217f362a6814fc5a9bae2c02023dd3e7f78ef9374e5bba5d5c63f3674b",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/国内外访问版/国内外网站_静态部署包.zip",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/03_网站/分享与部署包/国内外网站_静态部署包.zip",
+      "content_verified": true,
+      "identity": "5797309baac4d57e64aa192659ce041b536642b491bc6434fe263a1d53e44c80",
+      "old_path": "relative symlink"
+    },
+    {
+      "from": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/07_互动传播地图/GitHub发布/敦煌网站_GitHub发布包.zip",
+      "to": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/03_网站/分享与部署包/敦煌网站_GitHub发布包.zip",
+      "content_verified": true,
+      "identity": "28d5f632a1a683c6636049bce259546c975a46539cd3e3100fe3613b8f148fdf",
+      "old_path": "relative symlink"
+    }
+  ],
+  "quick_access_links": {
+    "01_Gephi/敦煌双层网络_最终132节点157关系.gexf": "03_网站/网站源码/dist/assets/dunhuang-network-expanded.gexf",
+    "01_Gephi/导入CSV/节点_132.csv": "03_网站/网站源码/dist/assets/network-expanded-nodes.csv",
+    "01_Gephi/导入CSV/关系_157.csv": "03_网站/网站源码/dist/assets/network-expanded-edges.csv",
+    "02_QGIS/路线地图Excel.xlsx": "04_Excel数据/敦煌项目_路线地图资料与制作指南.xlsx"
+  },
+  "website_repository_before": {
+    "head": "1b7bdb716fc4fb0097b55137504bb7d2e2b56521",
+    "status": ""
+  },
+  "website_repository_after": {
+    "head": "1b7bdb716fc4fb0097b55137504bb7d2e2b56521",
+    "status": ""
+  },
+  "existing_word_manuscript": "not modified"
+}

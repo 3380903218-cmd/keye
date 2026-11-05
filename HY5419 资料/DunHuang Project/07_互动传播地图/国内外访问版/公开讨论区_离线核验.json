@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-03",
+  "release": "2.9.0",
+  "result": "pass",
+  "mode": "offline",
+  "checks": [
+    {
+      "language": "en",
+      "width": 1440,
+      "core_graph": "132 nodes, 157 edges, 48 activity records",
+      "discussion": "Online discussion link; no API request while offline.",
+      "javascript_errors": 0,
+      "horizontal_overflow": false
+    },
+    {
+      "language": "zh",
+      "width": 390,
+      "core_graph": "132 nodes, 157 edges, 48 activity records",
+      "discussion": "Online discussion link; no API request while offline.",
+      "javascript_errors": 0,
+      "horizontal_overflow": false
+    }
+  ],
+  "mainland_network_test": false
+}

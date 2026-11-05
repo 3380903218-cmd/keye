@@ -1,0 +1,17 @@
+{
+  "artifact_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+  "office_package": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_Reading_Reflection_English.docx",
+    "sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+    "xml_parts_checked": 18,
+    "issues": [],
+    "read_errors": [],
+    "status": "passed",
+    "package_errors": [],
+    "external_relationships": 0
+  },
+  "namespace_evidence_sha256": "01a5e1936aecf436dc6359641883553969b72d2a7b0cd91ae78eff8cae47a2b7",
+  "audit_evidence_sha256": "9cab181efba804afd29659e02e071e7bcc58b72bf24ab12702edc3a9eccfad6a",
+  "native_footnotes": 6,
+  "review_markup": "none"
+}

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://gexf.net/1.2draft" version="1.2">
+  <graph mode="static" defaultedgetype="directed" idtype="string">
+    <attributes class="node">
+      <attribute id="0" title="NodeType" type="string" />
+      <attribute id="1" title="Place" type="string" />
+      <attribute id="2" title="Role" type="string" />
+      <attribute id="3" title="CountryOrRegion" type="string" />
+    </attributes>
+    <attributes class="edge">
+      <attribute id="10" title="Relationship" type="string" />
+      <attribute id="11" title="SourceWording" type="string" />
+      <attribute id="12" title="Confidence" type="string" />
+      <attribute id="13" title="SourceRef" type="string" />
+      <attribute id="14" title="YearStart" type="integer" />
+      <attribute id="15" title="YearEnd" type="integer" />
+      <attribute id="16" title="QuantityApprox" type="string" />
+      <attribute id="17" title="Unit" type="string" />
+      <attribute id="18" title="EventCount" type="integer" />
+      <attribute id="19" title="EventIds" type="string" />
+    </attributes>
+    <nodes>
+      <node id="N001" label="Mogao Cave 17 (Library Cave)">
+        <attvalues>
+          <attvalue for="0" value="SourceSite" />
+          <attvalue for="1" value="Dunhuang" />
+          <attvalue for="2" value="source site; former manuscript deposit" />
+          <attvalue for="3" value="China" />
+        </attvalues>
+      </node>
+      <node id="N002" label="Wang Yuanlu">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="Dunhuang" />
+          <attvalue for="2" value="local custodian; Daoist priest; restorer" />
+          <attvalue for="3" value="China" />
+        </attvalues>
+      </node>
+      <node id="N004" label="Jiang Xiaowan">
+        <attvalues>
+          <attvalue for="0" value="Person" />
+          <attvalue for="1" value="Dunhuang / expedition route" />
+          <attvalue for="2" value="Stein's Chinese secretary and intermediary" />
+          <attvalue for="3" value="China" />
+        </attvalues>
+      </node>
+      <node id="N006" label="Stein Central Asian Expedition">
+        <attvalues>
+          <attvalue for="0" value="Expedition" />
+          <attvalue for="1" value="Dunhuang - Khotan" />
+          <attvalue for="2" value="expedition and collecting operation" />
+          <attvalue for="3" value="British India / Central Asia" />
+        </attvalues>
+      </node>
+      <node id="N007" label="British Museum">
+        <attvalues>
+          <attvalue for="0" value="Institution" />
+          <attvalue for="1" value="London" />
+          <attvalue for="2" value="first receiving institution in Stein's account" />
+          <attvalue for="3" value="United Kingdom" />
+        </attvalues>
+      </node>
+      <node id="N008" label="Qing central government">
+        <attvalues>
+          <attvalue for="0" value="Institution" />
+          <attvalue for="1" value="Beijing" />
+          <attvalue for="2" value="authority ordering transmission to the capital" />
+          <attvalue for="3" value="China" />
+        </attvalues>
+      </node>
+      <node id="N009" label="Beijing receiving system">
+        <attvalues>
+          <attvalue for="0" value="Institution" />
+          <attvalue for="1" value="Beijing" />
+          <attvalue for="2" value="capital receiving and preservation system" />
+          <attvalue for="3" value="China" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="L001" source="N001" target="N002" label="custody" weight="1">
+        <attvalues>
+          <attvalue for="10" value="custody" />
+          <attvalue for="11" value="Wang Yuanlu safeguarded and controlled access to the deposit after discovery" />
+          <attvalue for="12" value="high" />
+          <attvalue for="13" value="S01;S03;S07" />
+          <attvalue for="14" value="1900" />
+          <attvalue for="15" value="1907" />
+          <attvalue for="18" value="1" />
+          <attvalue for="19" value="E001" />
+        </attvalues>
+      </edge>
+      <edge id="L002" source="N002" target="N006" label="acquisition" weight="3">
+        <attvalues>
+          <attvalue for="10" value="acquisition" />
+          <attvalue for="11" value="agreement ... fifty compact bundles of Chinese, and five of Tibetan, text rolls | allow me to acquire some twenty more bundles of Chinese manuscripts ... against an appropriate donation | another big share ... over two hundred and thirty compact bundles" />
+          <attvalue for="12" value="high" />
+          <attvalue for="13" value="S03;S07" />
+          <attvalue for="14" value="1907" />
+          <attvalue for="15" value="1907" />
+          <attvalue for="18" value="3" />
+          <attvalue for="19" value="E002;E005;E006" />
+        </attvalues>
+      </edge>
+      <edge id="L003" source="N004" target="N006" label="physical_transfer" weight="1">
+        <attvalues>
+          <attvalue for="10" value="physical_transfer" />
+          <attvalue for="11" value="Two midnight trips ... allowed the huge sackfuls to be safely removed to my store-room" />
+          <attvalue for="12" value="high" />
+          <attvalue for="13" value="S07" />
+          <attvalue for="14" value="1907" />
+          <attvalue for="15" value="1907" />
+          <attvalue for="18" value="1" />
+          <attvalue for="19" value="E003" />
+        </attvalues>
+      </edge>
+      <edge id="L004" source="N006" target="N007" label="institutional_transfer" weight="2">
+        <attvalues>
+          <attvalue for="10" value="institutional_transfer" />
+          <attvalue for="11" value="deposited in the British Museum | all the twenty-four cases heavy with manuscripts ... deposited in the British Museum" />
+          <attvalue for="12" value="high" />
+          <attvalue for="13" value="S07" />
+          <attvalue for="14" value="1907" />
+          <attvalue for="15" value="1908" />
+          <attvalue for="18" value="2" />
+          <attvalue for="19" value="E004;E007" />
+        </attvalues>
+      </edge>
+      <edge id="L005" source="N002" target="N008" label="state_transfer" weight="1">
+        <attvalues>
+          <attvalue for="10" value="state_transfer" />
+          <attvalue for="11" value="an order was issued by the central Government directing the prompt transmission of the whole library to the capital" />
+          <attvalue for="12" value="high" />
+          <attvalue for="13" value="S01;S07" />
+          <attvalue for="14" value="1909" />
+          <attvalue for="15" value="1910" />
+          <attvalue for="18" value="1" />
+          <attvalue for="19" value="E008" />
+        </attvalues>
+      </edge>
+      <edge id="L006" source="N008" target="N009" label="institutional_transfer" weight="1">
+        <attvalues>
+          <attvalue for="10" value="institutional_transfer" />
+          <attvalue for="11" value="prompt transmission ... to the capital" />
+          <attvalue for="12" value="high" />
+          <attvalue for="13" value="S01;S07" />
+          <attvalue for="14" value="1909" />
+          <attvalue for="15" value="1910" />
+          <attvalue for="18" value="1" />
+          <attvalue for="19" value="E009" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,82 @@
+{
+  "resolved_count": 11,
+  "items": [
+    {
+      "id": "0",
+      "comment": "初衷是服务于展示成果，但是我在建立完网页后，邀请多位使用者使用体验，逐渐增添了想将这个网页作为一个知识传播平台的想法",
+      "status": "implemented",
+      "issue": "网站初衷与后续目标的时序",
+      "implementation": "保留展示成果的初衷，明确知识传播平台的想法是在网页完成、邀请读者体验之后逐渐形成。"
+    },
+    {
+      "id": "1",
+      "comment": "这句话太生硬，直接说使用Excel整理表格会更好",
+      "status": "implemented",
+      "issue": "Excel表述生硬",
+      "implementation": "改成直接说明使用Excel整理搜集到的资料。"
+    },
+    {
+      "id": "2",
+      "comment": "但是斯坦因的一些文献传播路径在最初是被隐藏的，这在我的文献综述个人思考中提到过，这是我在阅读资料时自己的发现",
+      "status": "implemented",
+      "issue": "斯坦因早期流转信息被遮蔽的阅读发现",
+      "implementation": "对照本人文献综述思考和潘晟135–136页，区别流转先后与消息知晓先后；不把个人阅读发现表述为首次学术发现。"
+    },
+    {
+      "id": "3",
+      "comment": "其实我觉得这句话不用说，因为我能查找资料的平台和网站是比较有限的",
+      "status": "implemented",
+      "issue": "不强调NUS取得论文",
+      "implementation": "删除所标记的NUS获取途径描述，保留来源有限的范围说明。"
+    },
+    {
+      "id": "4",
+      "comment": "这里可以采取APA英文文献引用法",
+      "status": "implemented",
+      "issue": "APA引用方式",
+      "implementation": "统一作者—年份及页码写法；参考文献使用作者缩写、年份括号、期刊与卷号斜体及悬挂缩进，保留中文姓名和题名原文。"
+    },
+    {
+      "id": "5",
+      "comment": "这也是professor对我项目的建议",
+      "status": "implemented",
+      "issue": "教授建议加入地图",
+      "implementation": "在QGIS部分开头明确说明教师建议，同时保留同学地图的启发。"
+    },
+    {
+      "id": "6",
+      "comment": "其实是storymap这个工具给我的启发，不需要再额外点出这个具体的网站",
+      "status": "implemented",
+      "issue": "StoryMaps工具启发",
+      "implementation": "改为说明工具的图文叙事方式；删除具体Coquille网站名称及其文后条目。"
+    },
+    {
+      "id": "7",
+      "comment": "我觉得这部分内容可以说明我建立双语网站、上传在github的初衷，而且也可以指出，如果使用其他域名，发布成本和维护成本都较高，我自己修改操作也不方便",
+      "status": "implemented",
+      "issue": "双语和GitHub发布初衷及维护成本",
+      "implementation": "补入NUS英文展示与中文读者需求、平台网址与维护操作的考虑；成本表述限于本人项目，不泛化为所有域名和托管方案都更贵。"
+    },
+    {
+      "id": "8",
+      "comment": "不需要重新介绍讨论区的具体设定，我已经把这个网站分享到课程讨论平台上了，老师可以自行查看",
+      "status": "implemented",
+      "issue": "不重复讨论区设定",
+      "implementation": "删除昵称及语言设定，改为课堂平台分享后继续收集意见的用途。"
+    },
+    {
+      "id": "9",
+      "comment": "我的项目资料来源有限，这个网站更偏向于一个知识初步获取、链接的平台",
+      "status": "implemented",
+      "issue": "初步获取知识和链接资料的平台定位",
+      "implementation": "调整最后一节标题、用途和后续优先事项，明确不代表完整流转史。"
+    },
+    {
+      "id": "10",
+      "comment": "这一段总结过于生硬",
+      "status": "implemented",
+      "issue": "总结生硬",
+      "implementation": "改用从画人物关系到读资料、整理、制图和面向读者的实际过程收束。"
+    }
+  ]
+}

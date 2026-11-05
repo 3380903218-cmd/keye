@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.68333,
+          40.16667
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_DUNHUANG",
+        "Label": "Dunhuang (city reference)",
+        "LabelZH": "敦煌（城市参考）",
+        "Longitude": 94.68333,
+        "Latitude": 40.16667,
+        "CRS": "EPSG:4326",
+        "PointRole": "城市参考",
+        "Precision": "现代城市点；城市级，历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529531/dunhuang.html",
+        "Note": "用于地域概览；不能代替莫高窟、取运地点或营地坐标。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529531",
+        "ReferenceFor": "",
+        "SourceId": "M12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8042114,
+          40.0373163
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_MOGAO",
+        "Label": "Mogao Caves (site reference)",
+        "LabelZH": "莫高窟（遗址范围）",
+        "Longitude": 94.8042114,
+        "Latitude": 40.0373163,
+        "CRS": "EPSG:4326",
+        "PointRole": "遗址",
+        "Precision": "OSM遗址标注点；不代表洞窟或帐篷实测位置",
+        "SourceURL": "https://api.openstreetmap.org/api/0.6/node/512563307.json",
+        "Note": "与UNESCO、Getty及旧图索引存在位置差异，见16；第16、17、130窟及两营地保留独立PlaceId和空坐标。",
+        "MapUse": "reference_default",
+        "AuthorityId": "OSM node 512563307 v12",
+        "ReferenceFor": "",
+        "SourceId": "R09；S03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.93433,
+          37.10927
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_KHOTAN",
+        "Label": "Khotan / Hotan (urban reference)",
+        "LabelZH": "和田／和阗（城区参考）",
+        "Longitude": 79.93433,
+        "Latitude": 37.10927,
+        "CRS": "EPSG:4326",
+        "PointRole": "城区参考",
+        "Precision": "现代城区参考；非1908年装箱建筑",
+        "SourceURL": "https://www.geonames.org/1281019/gujangbagh.html",
+        "Note": "GeoNames检索页称Hotan，当前详情主名为Gujangbagh；保留ID与异名。装箱、列单和笔记仅作城市级位置。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1281019（现名Gujangbagh）",
+        "ReferenceFor": "",
+        "SourceId": "M13；S03；S07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_LONDON",
+        "Label": "London (city reference)",
+        "LabelZH": "伦敦（城市参考）",
+        "Longitude": -0.12574,
+        "Latitude": 51.50853,
+        "CRS": "EPSG:4326",
+        "PointRole": "城市参考",
+        "Precision": "现代城市点；城市级，历史误差未量化",
+        "SourceURL": "https://www.geonames.org/2643743/london.html",
+        "Note": "可概览城市；英国博物馆／India Office整理地点须另核，不自动采用今日英国图书馆地址。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 2643743",
+        "ReferenceFor": "",
+        "SourceId": "M14；S07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_PARIS",
+        "Label": "Paris (city reference)",
+        "LabelZH": "巴黎（城市参考）",
+        "Longitude": 2.3488,
+        "Latitude": 48.85341,
+        "CRS": "EPSG:4326",
+        "PointRole": "城市参考",
+        "Precision": "现代城市点；城市级，历史误差未量化",
+        "SourceURL": "https://www.geonames.org/2988507/paris.html",
+        "Note": "法国国立图书馆接收与伯希和个人收件地点分开；暂时同城不合并为同一场址。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 2988507",
+        "ReferenceFor": "",
+        "SourceId": "M15；S15；S07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.39723,
+          39.9075
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_BEIJING",
+        "Label": "Beijing (city reference)",
+        "LabelZH": "北京（城市参考）",
+        "Longitude": 116.39723,
+        "Latitude": 39.9075,
+        "CRS": "EPSG:4326",
+        "PointRole": "城市参考",
+        "Precision": "现代城市点；城市级，历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1816670/beijing.html",
+        "Note": "只用于城市背景；1909年展示地点、学部发出地点、1910年图书馆接收地点均需各自核实。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1816670",
+        "ReferenceFor": "",
+        "SourceId": "M16；S19；S22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8,
+          40.5
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_ANXI_REF",
+        "Label": "Yuanquan / Anxi (regional reference)",
+        "LabelZH": "渊泉／瓜州（安西区域参考）",
+        "Longitude": 95.8,
+        "Latitude": 40.5,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529004/yuanquan.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。 只代理安西区域，用于小比例尺示意；不代表历史城址已核。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529004",
+        "ReferenceFor": "PL_ANXI",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.50601,
+          42.83393
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_HAMI",
+        "Label": "Hami (city reference)",
+        "LabelZH": "哈密（城市参考）",
+        "Longitude": 93.50601,
+        "Latitude": 42.83393,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529484/hami.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529484",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.20463,
+          42.8675
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_SHANSHAN",
+        "Label": "Shanshan (city reference)",
+        "LabelZH": "鄯善（城市参考）",
+        "Longitude": 90.20463,
+        "Latitude": 42.8675,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529214/shanshan.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529214",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.17886,
+          42.94769
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_TURPAN",
+        "Label": "Turpan (city reference)",
+        "LabelZH": "吐鲁番（城市参考）",
+        "Longitude": 89.17886,
+        "Latitude": 42.94769,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529114/turpan.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529114",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.57185,
+          42.06321
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_YANQI",
+        "Label": "Yanqi / Karashahr (city reference)",
+        "LabelZH": "焉耆（城市参考）",
+        "Longitude": 86.57185,
+        "Latitude": 42.06321,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529031/yanqi.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529031",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.27049,
+          41.77953
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_LUNTAI",
+        "Label": "Luntai / Bugur (city reference)",
+        "LabelZH": "轮台（城市参考）",
+        "Longitude": 84.27049,
+        "Latitude": 41.77953,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529333/luntai.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529333",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.93249,
+          41.71497
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_KUCHA",
+        "Label": "Kucha / Kuqa (city reference)",
+        "LabelZH": "库车（城市参考）",
+        "Longitude": 82.93249,
+        "Latitude": 41.71497,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1529363/xincheng.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1529363",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83987,
+          36.05701
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_LANZHOU",
+        "Label": "Lanzhou (city reference)",
+        "LabelZH": "兰州（城市参考）",
+        "Longitude": 103.83987,
+        "Latitude": 36.05701,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1804430/lanzhou.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。 对应1909-10-05电报目的地，另用于伯希和考察队主批区域行程；不证明1909年清代样本从兰州发出。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1804430",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.64861,
+          34.75778
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_ZHENGZHOU",
+        "Label": "Zhengzhou (city reference)",
+        "LabelZH": "郑州（城市参考）",
+        "Longitude": 113.64861,
+        "Latitude": 34.75778,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1784658/zhengzhou.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1784658",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45806,
+          31.22222
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_SHANGHAI",
+        "Label": "Shanghai (city reference)",
+        "LabelZH": "上海（城市参考）",
+        "Longitude": 121.45806,
+        "Latitude": 31.22222,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1796236/shanghai.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1796236",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.92861,
+          34.25833
+        ]
+      },
+      "properties": {
+        "PlaceId": "PL_XIAN",
+        "Label": "Xi’an (city reference)",
+        "LabelZH": "西安（城市参考）",
+        "Longitude": 108.92861,
+        "Latitude": 34.25833,
+        "CRS": "EPSG:4326",
+        "PointRole": "现代城市／镇参考",
+        "Precision": "城市／区域级；历史误差未量化",
+        "SourceURL": "https://www.geonames.org/1790630/xi-an.html",
+        "Note": "现代城市／镇参考点；历史城门、旅舍和装箱处未定位。",
+        "MapUse": "reference_default",
+        "AuthorityId": "GeoNames 1790630",
+        "ReferenceFor": "",
+        "SourceId": "R11"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-26",
+  "new_full_text_files": 7,
+  "readable_recommendation_entries": 10,
+  "pending_full_text_candidates": 2,
+  "files": [
+    {
+      "file": "full-text/G01_During_2015.md",
+      "bytes": 35217,
+      "sha256": "63b6faa2dfe1a83a9d94f4c19959439cb5dff062c4e5375a55c6256fe1ad6f69",
+      "text_chars": 34898
+    },
+    {
+      "file": "full-text/G02_Ahnert_et_al_2020.pdf",
+      "bytes": 2682731,
+      "sha256": "46765c0d0ec0f838fb15d3837784430d3385aa89729ee15ec3fba6d643269b83",
+      "pages": 128,
+      "extracted_chars": 247862
+    },
+    {
+      "file": "full-text/G03_Faust_1997.pdf",
+      "bytes": 1965598,
+      "sha256": "199d3ca312189c6968f5ce911de3166b671e90204a73a4011b700204d308567d",
+      "pages": 35,
+      "extracted_chars": 99498
+    },
+    {
+      "file": "full-text/G04_Edelstein_et_al_2017.pdf",
+      "bytes": 645967,
+      "sha256": "8c2fe6c55e4cd6e0647d641e1f78b7c3a85db7e74140f57563c74611bda7752c",
+      "pages": 25,
+      "extracted_chars": 96682
+    },
+    {
+      "file": "full-text/G05_Ahnert_Ahnert_2015.html",
+      "bytes": 121396,
+      "sha256": "8960293c245c36cb253cd66923772ee6dc6d9d0d09072c2cb8c9608211e03013",
+      "text_chars": 121267
+    },
+    {
+      "file": "full-text/G13_Wang_ed_2012.pdf",
+      "bytes": 2865415,
+      "sha256": "c66affc74d268084c1d72cc5efefb59e96d2d9a6a936b906e4c14782a75a5d86",
+      "pages": 186,
+      "extracted_chars": 931332
+    },
+    {
+      "file": "full-text/G14_Wang_2020.pdf",
+      "bytes": 3566015,
+      "sha256": "cee7d9be99b38885df3de882768fa736f1f640840e4c9f79f4a0a8a19b93bf1b",
+      "pages": 13,
+      "extracted_chars": 15564
+    }
+  ],
+  "old_files_modified": false
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?attachType=PDF&id=133301",
+  "http": "200",
+  "stderr": "curl: (28) Operation timed out after 45006 milliseconds with 1588309 bytes received\n",
+  "returncode": 28,
+  "bytes": 1588309,
+  "error": "Stream has ended unexpectedly"
+}

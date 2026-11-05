@@ -1,0 +1,36 @@
+{
+  "Henderson": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/fulltexts/1-s2.0-S0261517799001089-main.pdf",
+    "sha256": "728c9b351687b8d1ee51a3c625fc6e71a7e5034e354d2eae4cdb38491b219139",
+    "pages": 10,
+    "words": 8681
+  },
+  "Yeoh_Kong": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/fulltexts/A07_Yeoh_Kong_2012_Singapore_Chinatown.pdf",
+    "sha256": "1db05d4f1116192d08c568aa080f3463e287574698205700a2b945a9e6dfaa89",
+    "pages": 44,
+    "words": 10910
+  },
+  "Poulios": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/fulltexts/A06_Poulios_2014_Past_in_the_Present.pdf",
+    "sha256": "98c0001e16e398ae9789388a5eea77a1c5bb11384ca32b1931041b41b3e38876",
+    "pages": 182,
+    "words": 70229
+  },
+  "Goh": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/between-history-and-heritage-post-colonialism-globalisation-and-the-remaking-of-malacca-penang-and-singapore.pdf",
+    "sha256": "4af95eac0778384eb14a444f43a5f2b90da78e16cd6ac1aefb6b3831161a22b1",
+    "pages": 23,
+    "words": 11625
+  },
+  "URA": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/fulltexts/P06_URA_Chinatown_Historic_District_Trail.pdf",
+    "sha256": "8204297336366fb9f046873835c4546f1cb384da9fb41c57443587ac621dda5e",
+    "pages": 6,
+    "words": 3049
+  },
+  "notes": {
+    "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/文献综述个人思考.docx",
+    "sha256": "789af1745cfc73500750d533cbeb05d604997a4fe69a92ff0dbb2ba725ae3b62"
+  }
+}

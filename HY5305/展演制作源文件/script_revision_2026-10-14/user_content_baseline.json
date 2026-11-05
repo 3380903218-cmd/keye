@@ -1,0 +1,181 @@
+{
+  "source_sha256": "360e8b627b427a2446b6c6c19a5329f18c26d9fd4220f2998aa40dcf53f8798b",
+  "slides": [
+    {
+      "slide": 1,
+      "title": "Poster introduction",
+      "title_zh": "海报与展览主题",
+      "english": [
+        "Today I am presenting Porcelain in Translation: one Chinese porcelain tradition, seen through three worlds—the Chinese past, the Qing court, and European markets. My question is how the same material acquired such different meanings.",
+        "I argue that Qing artisans and court institutions actively reshaped traditions, foreign knowledge, and overseas commissions. I will show this through a red-glazed vase, an enamelled bowl, and an armorial plate."
+      ],
+      "chinese": [
+        "今天我要介绍的展览是“瓷器的转译”：从中国的过去、清代宫廷和欧洲市场这三个世界，观察“瓷器”在这个过程中，发生了哪些变化。我想提出的问题是，这一时期的瓷器，它们是怎么体现文化的传承与交流，它们又为什么会获得如此不同的文化意义？",
+        "我的观点是，清代工匠和宫廷机构主动重塑了传统、外来知识与海外订制需求。我将通过一件红釉观音尊、一件珐琅彩碗和一件纹章瓷盘来说明这一点。"
+      ],
+      "english_indices": [
+        5,
+        6
+      ],
+      "chinese_indices": [
+        8,
+        9
+      ]
+    },
+    {
+      "slide": 2,
+      "title": "Reviving copper-red",
+      "title_zh": "复兴铜红釉：郎窑红观音尊",
+      "english": [
+        "This Langyao-red Guanyin vase belongs to the Kangxi period and is held by the Palace Museum. Its striking copper-red glaze recalls earlier Ming porcelain, especially Xuande-period wares. Jingdezhen potters revived a technique that was difficult to fire successfully.",
+        "For my exhibition, innovation begins by looking back. Qing potters used a renewed technical achievement to express imperial cultural identity. The past became a resource for making something meaningful in a new setting.",
+        "The vase therefore represents the Chinese past. It reminds us that a global history of porcelain begins with local traditions and the institutions that gave them value. These traditions formed the foundation for later exchanges.",
+        "This is the first process in my exhibition: reinventing tradition for Qing imperial culture."
+      ],
+      "chinese": [
+        "这件郎窑红观音尊属于康熙时期，收藏于故宫博物院。它醒目的铜红釉使人联想到更早的明代瓷器，尤其是宣德时期的器物。景德镇工匠复兴了这种难以成功烧制的技术。",
+        "在我的展览中，创新首先表现为对过去的回望。清代工匠通过重新掌握并升级这项技术，表达帝国的文化身份。过去由此成为一种资源，让器物在新的历史环境中获得意义。",
+        "因此，这件观音尊代表了“中国的过去”。它提醒我们，瓷器的全球史首先建立在本地传统，以及赋予这些传统价值的制度之上。这些传统构成了后来跨文化交流的基础。",
+        "这就是我展览中的第一个过程：为了清代帝国文化而继承且重塑传统。"
+      ],
+      "english_indices": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "chinese_indices": [
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "slide": 3,
+      "title": "Enamels at the Qing court",
+      "title_zh": "宫廷珐琅：御制珐琅彩杏林春燕图碗",
+      "english": [
+        "The second object is an imperial falangcai bowl from the Qianlong period. Swallows and flowering branches turn its surface into a Chinese bird-and-flower painting.",
+        "Its production connects several places and skills. Knowledge of European painted enamels and enamel pigments reached the Qing court. Porcelain bodies made at Jingdezhen were combined with this knowledge and Chinese painting in imperial workshops.",
+        "Court institutions selected and adapted foreign techniques to create objects suited to imperial taste. The bowl therefore represents the court as a site of cultural translation.",
+        "The European contribution mattered, alongside Chinese materials, painters, patrons, and workshop organisation. Technologies acquired new purposes and appearances as they entered this setting.",
+        "For my exhibition, the bowl shows that cultural exchange involved active choices. Foreign knowledge became part of a Chinese imperial aesthetic through the work of Chinese makers."
+      ],
+      "chinese": [
+        "第二件文物是一件乾隆时期的御制珐琅彩碗。燕子与开花的枝条，使碗的表面呈现出中国花鸟画的效果。",
+        "它的生产联系着不同的地点与技艺。欧洲画珐琅和珐琅颜料的知识传入清代宫廷。在宫廷作坊中，景德镇制作的瓷胎与这些知识、中国绘画相结合。",
+        "宫廷机构选择并改造外来技术，制作符合帝王审美的器物。因此，这件碗将清代宫廷呈现为一个文化转译的场所。",
+        "欧洲的贡献十分关键，中国的材料、画师、赞助者和作坊组织同样参与其中。技术进入这一环境后，获得了新的用途与外观。",
+        "在我的展览中，这件碗说明文化交流包含主动的选择。通过中国工匠的工作，外来知识成为中国宫廷审美的一部分。"
+      ],
+      "english_indices": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "chinese_indices": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "slide": 4,
+      "title": "A coat of arms, made in China",
+      "title_zh": "在中国制作的欧洲纹章：外销纹章瓷盘",
+      "english": [
+        "The third object is an eighteenth-century Chinese armorial export plate. Its central coat of arms connects the object to European patronage.",
+        "European customers sent heraldic designs and other requirements to China. Chinese artisans interpreted these images on porcelain, and finished wares returned to Europe through maritime trading networks.",
+        "The plate joined Chinese production to European ideas of family identity and social status. It was both a Chinese-made object and a personalised European commission.",
+        "This is the third process: responding to the market. Makers worked with visual conventions and expectations shaped by distant consumers.",
+        "The exchange moved in two directions: designs travelled east, while finished porcelain travelled west. Between those journeys, a drawing became a ceramic object through Chinese skills and decisions.",
+        "The plate shows how trade circulated images and reshaped the social meaning of porcelain."
+      ],
+      "chinese": [
+        "第三件文物是一件十八世纪的中国外销纹章瓷盘。中央的盾徽将这件器物与欧洲赞助者联系起来。",
+        "欧洲顾客把纹章图样和其他要求送到中国。中国工匠将这些图像转译到瓷器上，成品再经由海上贸易网络运往欧洲。",
+        "这件瓷盘将中国的生产与欧洲关于家族身份和社会地位的观念连接起来。它既是一件中国制造的器物，也是一项为欧洲顾客量身定制的委托。",
+        "这就是第三个过程：回应市场。工匠面对的是由远方消费者塑造的视觉惯例与期待。",
+        "交流是双向的：图样向东流动，成品瓷器向西流动。在这两段旅程之间，中国工匠通过自己的技艺与判断，把一张图样转化为一件瓷器。",
+        "这件瓷盘展示了贸易如何传播图像，并重塑瓷器的社会意义。"
+      ],
+      "english_indices": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "chinese_indices": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "slide": 5,
+      "title": "Porcelain changes meaning",
+      "title_zh": "瓷器如何获得不同的意义：与展览主题的关系",
+      "english": [
+        "Together, the objects show three ways porcelain acquired meaning. The vase reworked Chinese tradition. The bowl translated European enamel knowledge within the Qing court. The plate turned European heraldry into an overseas commission.",
+        "Patrons, institutions, production, and use shaped these differences. One porcelain tradition could therefore address three worlds.",
+        "The network connects Jingdezhen, Beijing, Guangzhou, and European markets. It summarises flows of knowledge, designs, porcelain bodies, and finished wares. These are conceptual connections, not a documented shipping route for each object.",
+        "My main argument is that Qing China actively shaped global cultural exchange. Chinese makers revived inherited techniques, adapted foreign knowledge, and interpreted overseas demand.",
+        "Porcelain carried more than goods across borders. It helped technologies, images, aesthetic values, and social identities take new forms. That is the meaning of Porcelain in Translation. Thank you."
+      ],
+      "chinese": [
+        "将三件文物放在一起，我们可以看到瓷器获得意义的三种方式。观音尊重塑了中国传统；珐琅彩碗在清代宫廷中转译了欧洲珐琅知识；纹章盘则把欧洲纹章变成海外订制的器物。",
+        "赞助者、制度、生产和使用方式塑造了这些差异。因此，同一个瓷器传统可以面向三个不同的世界。",
+        "这里的网络连接景德镇、北京、广州和欧洲市场。它概括了知识、图样、瓷胎与成品瓷器的流动。这些是概念性的交流关系，并不是每件文物已经得到证实的运输路线。",
+        "我的核心观点是，清代中国主动塑造了全球文化交流。中国工匠复兴已有技艺，改造外来知识，并诠释海外需求。",
+        "瓷器跨越国界时，传播的不只是商品。它也让技术、图像、审美价值和社会身份获得了新的形式。这就是“瓷器的转译”的含义。谢谢。"
+      ],
+      "english_indices": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "chinese_indices": [
+        72,
+        73,
+        74,
+        75,
+        76
+      ]
+    }
+  ],
+  "user_changes": [
+    {
+      "slide": 1,
+      "language": "chinese",
+      "block": 1,
+      "before": "今天我要介绍的展览是“瓷器的转译”：从中国的过去、清代宫廷和欧洲市场这三个世界，观察同一个中国瓷器传统。我想提出的问题是，同一种材料为什么会获得如此不同的文化意义？",
+      "user_edit": "今天我要介绍的展览是“瓷器的转译”：从中国的过去、清代宫廷和欧洲市场这三个世界，观察“瓷器”在这个过程中，发生了哪些变化。我想提出的问题是，这一时期的瓷器，它们是怎么体现文化的传承与交流，它们又为什么会获得如此不同的文化意义？"
+    },
+    {
+      "slide": 2,
+      "language": "chinese",
+      "block": 2,
+      "before": "在我的展览中，创新首先表现为对过去的回望。清代工匠通过重新掌握这项技术，表达帝国的文化身份。过去由此成为一种资源，让器物在新的历史环境中获得意义。",
+      "user_edit": "在我的展览中，创新首先表现为对过去的回望。清代工匠通过重新掌握并升级这项技术，表达帝国的文化身份。过去由此成为一种资源，让器物在新的历史环境中获得意义。"
+    },
+    {
+      "slide": 2,
+      "language": "chinese",
+      "block": 4,
+      "before": "这就是我展览中的第一个过程：为了清代帝国文化而重塑传统。",
+      "user_edit": "这就是我展览中的第一个过程：为了清代帝国文化而继承且重塑传统。"
+    }
+  ]
+}

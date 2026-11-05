@@ -1,0 +1,31 @@
+{
+  "baseline_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/.seminar11_12_personal_revision_20261103/HY6101_Seminar11-12_阅读思考_中文版_个人思考修订前.docx",
+  "baseline_sha256": "bb000f715b9ea7456fb21cecb22b52124d67b8e9d9dd01e1690ae561d37d09b6",
+  "final_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx",
+  "final_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+  "content_comparison": "passed",
+  "body_paragraphs": 11,
+  "chinese_characters": 2196,
+  "title_preserved": true,
+  "user_group_question_number_preserved": true,
+  "prior_corrections_preserved": true,
+  "existing_run_property_roles_preserved": true,
+  "existing_paragraph_properties_preserved": true,
+  "untouched_package_parts_byte_identical": true,
+  "footnote_ids": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "existing_book_notes_preserved": 5,
+  "new_book_note": 1,
+  "course_notes_citation_absent": true,
+  "source_evidence": "Each revised paragraph is mapped to personal-note paragraphs in revision_source.json; added facts checked against supplied book chapters 4 and 5.",
+  "editorial_pass": "Shortened repeated explanations and book retelling; retained additional personal reasoning and open questions.",
+  "final_exact_body_comparison": "passed",
+  "final_body_run_properties_comparison": "passed",
+  "final_unchanged_parts_comparison": "passed"
+}

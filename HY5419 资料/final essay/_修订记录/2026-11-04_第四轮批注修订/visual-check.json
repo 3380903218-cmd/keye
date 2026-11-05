@@ -1,0 +1,60 @@
+{
+  "artifact_sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+  "performed_at": "2026-11-04T22:32:36.481854+08:00",
+  "status": "passed",
+  "method": "documents/render_docx.py LibreOffice-to-PDF proxy; all ten page PNGs inspected.",
+  "pages": 10,
+  "checks": [
+    "Merged future-work paragraph appears once on page 9 with natural continuity into the unchanged conclusion.",
+    "Both Excel screenshots, captions and source notes remain readable.",
+    "Prior five corrections and IDP reference remain present.",
+    "No clipping, overlap, missing glyphs or orphaned headings observed."
+  ],
+  "page_evidence": [
+    {
+      "path": "预览/page-1.png",
+      "sha256": "8815eb7d24daddea39a65ab6c0c5ecab934bf39dc20496e5a9539e6df6346aa2"
+    },
+    {
+      "path": "预览/page-2.png",
+      "sha256": "9fc2905674a31b89a3ae423c64eead13449e5d22e0b97c5b73a2f02020e596e6"
+    },
+    {
+      "path": "预览/page-3.png",
+      "sha256": "7227bd8edca82fb7ac64ad2184b25b04e2f1cad975562826488a89e97b754ea9"
+    },
+    {
+      "path": "预览/page-4.png",
+      "sha256": "c95c3152b865ea0c286697ec916ed2a19d3a91c8667abda3fac6cb7b6645e485"
+    },
+    {
+      "path": "预览/page-5.png",
+      "sha256": "244263a26704f30cd1bdb520a9e9d8cb29842e64c239978267d991b71315301a"
+    },
+    {
+      "path": "预览/page-6.png",
+      "sha256": "eaf16f717859b91ad49a4fc18d473178f64f613f6cdeb2e062f1dd2a885e2c60"
+    },
+    {
+      "path": "预览/page-7.png",
+      "sha256": "b7f27fbff6c28a0467d24b9fe837044878c132b182a3549ca196a739ee602a8a"
+    },
+    {
+      "path": "预览/page-8.png",
+      "sha256": "045f0986ad3af7207a2cdb8ac91d93ca8790b15fcb0ea3789eea77f9a8ec34d2"
+    },
+    {
+      "path": "预览/page-9.png",
+      "sha256": "050ec0b7086dfcc189a3e9ef553f769b56b5437777280b4520e8394410eaf830"
+    },
+    {
+      "path": "预览/page-10.png",
+      "sha256": "fa417f1e75cb0387a0fafebc6892b9b810ca3e3dfb8c5acd39e933e6c0368a0d"
+    }
+  ],
+  "pdf": {
+    "path": "预览/修订候选.pdf",
+    "sha256": "174252ad5bfcf6c91b53a01de1921975cf27dcd16cd5978c2f32e4aef885f577"
+  },
+  "limitations": "Proxy rendering does not replace native Microsoft Word acceptance."
+}

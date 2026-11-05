@@ -1,0 +1,14 @@
+{
+  "runtime": "ggml-org/llama.cpp b11921",
+  "asset": "llama-b11921-bin-macos-arm64.tar.gz",
+  "sha256": "db7bb86ac6f9b87b9e0f6ea403b1c76dca9cbd3695b6cffb72e7466494ee1163",
+  "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11921/llama-b11921-bin-macos-arm64.tar.gz",
+  "binding": "127.0.0.1 only",
+  "translation_model": {
+    "repo": "tencent/Hy-MT2-7B-GGUF",
+    "model": "Hy-MT2-7B-Q4_K_M.gguf",
+    "commit": "ab8472660ac61fac25f1af43fac2599d52a8a775",
+    "sha256": "9f96256500f3fc1ab4d64336b58f52a949a95ad7516b0c229476eef782f9f77b",
+    "bytes": 4624648896
+  }
+}

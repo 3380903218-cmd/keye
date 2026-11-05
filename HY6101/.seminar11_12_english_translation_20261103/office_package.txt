@@ -1,0 +1,10 @@
+{
+  "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_Reading_Reflection_English.docx",
+  "sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+  "xml_parts_checked": 18,
+  "issues": [],
+  "read_errors": [],
+  "status": "passed",
+  "package_errors": [],
+  "external_relationships": 0
+}

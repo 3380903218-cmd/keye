@@ -1,0 +1,127 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5419-presentation-order-20261103",
+  "state": "candidate",
+  "content_authority": "User request to align spoken manuscript with website reading order; retain Q&A without changes. Website source version 2.9.1 inspected read-only.",
+  "format_authority": "Existing original Word file; preserve paragraph/run styles and all review parts.",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "presentation-docx",
+      "role": "candidate",
+      "path": "HY5419_敦煌项目_8分钟展演稿_中英对照.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+      "performed_at": "2026-11-03T16:33:13.649790+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/顺序调整_2026-11-03/内容与范围核验.json",
+        "sha256": "6b6c3d1a9a4a462611e380f2775f0d770c4d3acf2876f955d6f7e6b8cc292dd0",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Timing estimated, not a measured rehearsal.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+      "performed_at": "2026-11-03T16:33:13.649790+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/顺序调整_2026-11-03/文档结构核验.json",
+        "sha256": "2e2c949f236234271872550c42ac78cd1defbe9419f08c1c314244310a1640b4",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Namespace and package checks do not establish Word acceptance.",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "unavailable",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+      "performed_at": "2026-11-03T16:33:13.649790+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/顺序调整_2026-11-03/排版核验.json",
+        "sha256": "3a7024daeed7e2b53ffdaf94c4d3eb4ca54db1bfca3806dbc04fbc1540ed28dd",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Seven-page third-party preview inspected; native Word acceptance unavailable.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "presentation-docx",
+      "artifact_sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+      "performed_at": "2026-11-03T16:33:13.649790+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "_制作与核验/顺序调整_2026-11-03/交付目录核验.json",
+        "sha256": "38ef58c42b1ad38daf62c3e42a69eac36706706c9f3ad9828a2affe9e9d452bb",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Only original manuscript exposed as the user-facing deliverable.",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "presentation-docx"
+  ],
+  "invalidated_checks": [
+    "All prior artifact-hash checks superseded by this content revision; previous record retained in audit folder."
+  ],
+  "unresolved_risks": [
+    "Native Microsoft Word opening/pagination of revised file remains unverified; seven-page LibreOffice preview and package/content checks passed."
+  ],
+  "next_action": "Content revision is saved in the original requested path. Native Word acceptance remains pending; do not describe it as fully validated.",
+  "extensions": {
+    "hy5419": {
+      "backup_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+      "english_main_words": 447,
+      "preview_pages": 7,
+      "qanda_unchanged": true,
+      "native_word_verified": false
+    }
+  }
+}

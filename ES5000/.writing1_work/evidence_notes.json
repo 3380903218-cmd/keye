@@ -1,0 +1,40 @@
+{
+  "scope": "Targeted verification of two course resource texts for a 298-word student cause-effect assignment; not a systematic literature review.",
+  "sources": [
+    {
+      "id": "ellard_2023",
+      "doi": "10.1111/camh.12614",
+      "local_file": "Assignment_Guidelines_export/5. Addressing loneliness amongst university students.pdf",
+      "sha256": "377b070af150b2768101d20e1506200bb09d11ccec828e9c603e36c8d1fa80a1",
+      "verification": "Full local source; publication metadata also checked through PubMed 36496554 and publisher.",
+      "claims": [
+        {
+          "locator": "p. 513, Background, paragraph beginning University students are in a transitional phase",
+          "claim": "Living away from home and academic, financial and social pressures.",
+          "use": "Cause paragraph contextual support."
+        },
+        {
+          "locator": "pp. 512–513, Background opening definition and continuation",
+          "claim": "Associations with anxiety, stress, depression, sleep problems and lower life satisfaction.",
+          "use": "Effects paragraph; association wording, not a causal estimate."
+        }
+      ]
+    },
+    {
+      "id": "quinn_2025",
+      "url": "https://www.psychologytoday.com/us/blog/optimized/202503/reducing-loneliness-on-college-campuses",
+      "local_file": "Assignment_Guidelines_export/2. Reducing Loneliness on College Campuses_Psych Today.pdf",
+      "sha256": "3d8c6fa5e099fbb877689b22ac5bbebb5a13a1bf19f897f2c2f46ef5a1dc4970",
+      "verification": "Teacher-provided full text and author publication page, 4 March 2025.",
+      "claims": [
+        {
+          "locator": "p. 2, Fitting in versus belonging",
+          "claim": "Meaningful relationships and a sense of belonging matter beyond merely fitting in.",
+          "use": "Cause paragraph explanation."
+        }
+      ]
+    }
+  ],
+  "interpretive_boundary": "Student meal, doctor and party examples adapt the original draft. Fatigue, concentration and coursework examples are cautious illustrations, not measured academic outcomes from Ellard.",
+  "citation_delta": "Final bibliography contains Ellard 2023 and Quinn 2025 only. Earlier broad-scope Hawkley/Cacioppo discovery snapshots remain background research records and are not cited in the deliverable."
+}

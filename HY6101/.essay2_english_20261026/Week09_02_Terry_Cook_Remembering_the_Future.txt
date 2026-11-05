@@ -1,0 +1,679 @@
+Page 169 →
+Remembering the Future
+Appraisal of Records and the Role of Archives in Constructing Social 
+Memory
+Terry Cook
+Appraisal occurs primarily today on the records of yesterday to create a past for tomorrow. What kind of past 
+should the future have? This essay represents in part a narrative about archival appraisal, that function that selects 
+for long-term preservation as society's memory roughly 1-5 percent of the total documentation of major 
+institutions and considerably less from private citizens. In keeping with the internationalism of these seminars, 
+which featured voices from many countries, this essay is perhaps more a postmodern story from Canada than an 
+exposition of appraisal strategy and criteria or a detailed critique of various other narratives (schools of thought?) 
+about appraisal.
+Appraisal imposes a heavy social responsibility on archivists. As they appraise records, they are doing nothing 
+less than shaping the future of our documentary heritage. They are determining what the future will know about its 
+past, which is often our present. As a profession, we archivists need to realize continually the gravity of this task. 
+We are literally creating archives. We are deciding what is remembered and what is forgotten, who in society is 
+visible and who remains invisible, who has a voice and who does not. In this act of creation, we must remain 
+extraordinarily sensitive to the political and philosophical nature of documents individually, of archives 
+collectively, of archival functions, of archivists' personal biases, and especially of archival appraisal. That process 
+defines the creators, functions, and activities to be included in archives by selecting which documents become 
+archives and thus enjoy all subsequent archival processes (description, conservation, exhibition, reference, and so 
+on) and, just as starkly and with finality, which documents are destroyed, excluded from archives, forgotten from 
+memory.
+Appraisal is thus central to the archival endeavor—indeed, it is the only archival endeavor, a continuing activity 
+without end, the heart of archives. And it is controversial. Pioneering archivists and some writers still believe that 
+appraisal is unarchival, wrenching records from their original context of creation. For the majority of archivists, 
+who recognize the necessity of selecting some part from an unmanageable whole, differences abound on the 
+principles or concepts (or theories) that should animate appraisal or that define the “value” or “significance” or 
+“importance” of records—all terms used in archival legislation and by archivists, usually without definition or 
+reflection. “What makes the good?” the Greeks long ago asked. What makes something have value, be worth 
+preserving and remembering? Not surprisingly, without clear first principles, the resulting strategies and 
+methodologies have achieved no consensus.
+Both parts of this essay's title, “Remembering the Future: Appraisal of Records and the Role of Archives in 
+Constructing Social Memory,” might alarm, even frighten, many archivists and indeed historians and other users 
+of archives. Both halves are contrary to archival orthodoxy. Both clash with the stereotype of the archivist's 
+widely accepted role in society. Archivists remember the past, not the future. They deal with history, not current 
+or future events. They do not construct social memory—that is the role of historians and other users of the archive 
+who, through their works, create the stories and Page 170 → narratives, the myths and memories, that underpin 
+our collective identities. Archivists are rather a kind of invisible bridge, or honest broker, between creators and 
+users of records. Archivists are guardians of the past, not its interpreters. Archivists are in the preservation 
+business, not the memory one.
+Indeed, until the 1980s, archivists, at least in Canada, often described themselves—proudly—as “the handmaidens 
+of historians.” In retrospect, that phrase is astonishing for its servility and its gender connotations. Until recently, 
+women remained largely invisible in social and historical memory, relegated as the silent and usually 
+unrecognized supporters of male accomplishment; so too, archivists have remained invisible in the construction of 
+
+social memory, their role also poorly articulated and rarely appreciated. I might go further and say that just as 
+patriarchy required women to be the subservient, invisible handmaidens to male power, historians and other users 
+of archives require archivists to be neutral, invisible, silent handmaidens of historical research.1 I will return to 
+this point later in the essay.
+My message is simple. Archivist are active agents in constructing social and historical memory. In so doing, they 
+have an obligation to remember or consider the needs and expectations of the future as much as to conserve or 
+remember the past. Furthermore, in so doing, archivists must reflect society's “values” rather than those of 
+prominent sponsors or traditional users and must leave a transparent account of the reasons why keep/ destroy 
+decisions were made. And historians and other users of archives need to engage in this archival process rather than 
+deny it, as has heretofore largely been the case.
+My approach here (and to appraisal) is consciously postmodern. My colleague at the University of Manitoba, Tom 
+Nesmith, has written that especially for those of us inheriting the British empirical tradition,
+one of the key things that Western philosophy has sought to marginalize or “efface” is the “sign” or 
+means of communication. . . . [T]his indicates a desire for “pure presence without representation” or a 
+clear understanding of reality without much consideration of the effects of communication processes 
+on what we know. . . . This effacement of the sign has made archives a “ghost” or all but invisible in 
+the knowledge creation process, and thus society.2
+Along this same line, Patrick Geary, a historian of medieval European memory and a previous participant in these 
+seminars, labels as “Phantoms of Remembrance” those scribes and clerics who helped to shape the medieval 
+record through their little-noticed archival activities, ensuring thereby “memory and oblivion” for the events and 
+figures of their times.3 Concerning such translucent “ghosts” of archives, Jacques Derrida counsels that we must 
+recognize and learn how to live “with the ghost . . . how to talk with him, with her, how to let them speak or how 
+to give them back speech.” To make the invisible visible once more, to make the inarticulate articulate, “we must 
+speak,” Derrida says, “to the ghost.”4 So, especially in archival appraisal, we take a journey with these archival 
+memory phantoms.
+Let me expand a little (in I hope a not irrelevant aside) my assertion that archivists remain shadowy ghosts to most 
+historians and other users. Scholars are just lately beginning to see that notions of the objective or “invisible” 
+archive were reinforced by nineteenth-century historians undertaking what they assumed (hoped?) was objective, 
+scientific history in the von Rankean mode. By definition, that required in turn a neutral, impartial, objective, 
+“natural” archives. Yet this blindness toward the ghosts of archives (or their invisibility) continues well past the 
+often-shared origins of the two professions in the 1800s.
+In the past decade or so, a tremendous outpouring of historical writing has concerned memory, how societies 
+chose to commemorate the past, the institutions and symbols that individuals and groups create to reinforce their 
+identity, power, and status in the present. These works range from analyses of historic sites to war memorials, 
+from plaques and markers to public commemorations and holidays, from theater, music, and films to cemeteries, 
+antiques, preserved ruins, even Disneylands and similar pieces of organized nostalgia and heritage tourism. And 
+with rare exceptions, these authors all have one thing in common: they are silent about the role of archives as 
+memory institutions or the function of archives and archiving in society—despite the fact that national, state, and 
+local archives were being created and then defined and shaped at the same time as many of the institutions and 
+movements and celebrations about which such historians write. (The shining exception to this rule are the 
+medievalists, including Michael Clanchy, Patrick Geary, and Jacques Le Goff.) We have a growing shelf of books 
+by historians that analyze the founding, evolution, and animating values of nineteenth- and twentieth-century 
+museums, art galleries, and libraries, even zoos—all institutions engaged in and reflecting the social constructions 
+of cultural memory. Yet as of the turn of this century, Page 171 → no books did the same for archives. Invisible 
+ghosts indeed. In the wake of Derrida's landmark volume (published in English in 1996), this has finally begun to 
+change—as these Sawyer Seminars witness—at the level of journal literature and conference papers. Why?
+
+There is more to this invisibility, this ghostly archive, surely, than mere oversight or historians' kindly trust that 
+archivists go about their business in a responsible way. My former National Archives colleague, Brien Brothman, 
+asserts that historians are collectively—if maybe subconsciously—afraid to venture into this area. This exclusion 
+of archives from historians' consciousness—archives as process and as institution and as records—is, Brothman 
+believes, “a peculiar form of disciplinary repression or blindness.”
+Symptomatic of this blindness is historians' relegation of discussion of archival sources to the margins—to 
+introductions, prefaces, postscripts, or footnotes or endnotes—rather than the integration of them into the text, as 
+is the convention in almost every other social science discipline. Brothman wonders if this may in fact be a 
+“blindness of insight,” an unconscious recognition by historians that “the distancing, the spacing, between 
+archives and history” is essential to the “empowering” traditional discourses of both professions. Without this 
+distance, he continues, “the differentiation between the archival object (the record or document, the artefact) and 
+the historical object (the book, the article, knowledge [of the past]) begins to break down; archives and history 
+begin to transgress each other, pollute each other.” He notes that Canadian historian Susan Mann has mused, in 
+reviewing A. S Byatt's Possession, that “the traditional distinctions between fact and fiction, literature and history 
+had become ‘decidedly blurred.’” She might have added, between archives and history and myth and reality. This 
+blurring frightens both professions as they have traditionally been defined—history working on the edges of 
+archives, archives working on the edges of history, each threatened, if moving too closely together, in Brothman's 
+phrase, by canceling “out the purity of each other's intentions, each other's object[ivity].” That assumes the 
+traditional view for both professions that objectivity is possible.5
+Brothman's insights seem to be borne out inadvertently by the major scholar on that question, Peter Novick. In his 
+influential book, That Noble Dream: The “Objectivity Question” and the American Historical Profession, Novick 
+manages, over 629 pages of text, not to mention the role or impact of archives or of the archival choosing and 
+subsequent (re)arrangement and description of historians' source material as having any influence whatsoever on 
+the question of objectivity.6 Perhaps if for historians the archive needs to be natural, objective, neutral, invisible, 
+in terms of its holdings, then the whole question of how the stuff actually gets in the archive must surely be 
+beyond the pale. A leading Canadian historian, Joy Parr, graphically illustrates this point. In a reflective essay in 
+the Canadian Historical Review, she cautions historians that historical interpretation begins not when they write 
+their texts but long before, when they open boxes in archival reading rooms.7 In those archival boxes, historians 
+choose to read only certain files, to scan only certain images or posters or maps, to focus only on certain authors 
+or groups or regions, to take notes regarding or to photocopy only certain documents. Historians then impose on 
+these chosen, privileged documents a further limitation of a particular narrative and interpretative framework. 
+Actually, the picture is considerably more stark than Parr paints. The major act of historical interpretation occurs 
+not when historians open boxes but when archivists fill the boxes, by implication destroying the 98 percent of 
+records that do not make it into those or any other archival boxes. This is the great silence between archivists and 
+historians. It is called archival appraisal.
+In terms of archives and the future—the “remembering the future” part of my title—let me cite the well-known 
+words of Canadian National Archivist Sir Arthur Doughty, who said in 1924, in a phrase that appears on posters 
+and mugs found in many Canadian archivists' offices as well as on the base of the only statue ever raised officially 
+in Ottawa to honor a civil servant, “Of all national assets, archives are the most precious. They are the gift of one 
+generation to another, and the extent of our care of them marks the extent of our civilization.”8 I focus less on 
+Doughty's archival “assets”—the actual records that form the foundation of American or Canadian studies in a 
+multitude of disciplines—than on Doughty's notion of “care” and his concept of archives as a “gift” to the future. 
+What do archivists do to records—how do they “care” for them, and, perhaps most importantly, how do they 
+choose which archives to place under such “care”? How do they fill Parr's boxes that historians encounter in the 
+reading rooms of a nation's archives? What knowledge and skills are required to do this? What is the collective 
+nature of this “gift” of memory communicated across generations with various technologies? How does the 
+present choose the past by which the future will “know itself”? And in so doing, has Canada developed 
+approaches that are Page 172 → distinctive and perhaps informative to those who practice archiving elsewhere?
+Another Canadian national archivist and past president of the International Council of Archives, Jean-Pierre 
+
+Wallot, has set the inspiring goal for archivists of “building a living memory for the history of our present.” The 
+resulting “houses of memory,” in his words, will contain the “keys to the collective memory” that the world's 
+citizens can use to open doors to the personal and societal well-being that comes from experiencing continuity 
+with the past, from a sense of roots, of belonging, of forming various identities.9 In the rootlessness of the wired 
+global community, in the mobility that undermines extended families and oral traditions, where the speed of life 
+makes yesterday recede quickly into the distant past and tomorrow approaches with so much uncertainty, French 
+historian Pierre Nora responds by asserting that “modern memory is, above all, archival. It relies entirely on the 
+materiality of the trace, the immediacy of the recording, the visibility of the image.”10
+Here there are clear resonances with Marshall McLuhan's and especially Harold Innis's pioneering Canadian work 
+on the history and theory of communications technology from the late 1940s to the late 1960s—long before the 
+postmodern revolution arrived in the English-speaking world. In a long series of historical works, Innis 
+demonstrated the importance of recording media and the technologies of communication in forming and 
+maintaining empires, all of them based on monopolies of knowledge, that allowed for the exercise of power over 
+space and time. All such media have built-in biases in their communication, Innis asserted, leading to his famous 
+student Marshall McLuhan's aphorism that the “medium is the message.”11 Archives are the material traces of just 
+such media, the concrete fragments that form our memories, the way we conquer time across generations, as 
+Doughty said, the way our society legitimizes and memorializes itself, the way we influence the future by shaping 
+the past. What then, in Innis's phrase, are the “biases” of archives as a collective communication medium between 
+the past and the future?
+To address if not definitively answer these questions, I will explore the Canadian archival voice, especially in 
+appraisal, and its broader ramifications for international archiving, but I first will discuss archivists' traditional 
+thinking about archives—probably the views held by most users of archives if they were to think consciously 
+about the institutions in which they do their research. I will then look at radically new formulations about 
+archives—what might be called the “postmodern archive”—and suggest why Canada has taken a lead in its 
+articulation, especially in appraisal. I will then briefly conclude by suggesting that Canadian distinctiveness in this 
+area has global significance in our new century of networked communications, where the realization of 
+McLuhan's “global village” threatens to homogenize all distinctiveness into a universal blandness.
+Traditional archival theory and professional practice was first articulated in nineteenth-century Europe, after 
+centuries of informal development, and then was exported around the world, including to the United States, 
+Canada, Australia, and South Africa.12 This development paralleled the emergence of history as a university-
+based discipline and profession. Most of the early professional archivists were trained as historians at such 
+universities.
+Just as much of the early professional history focused on the political, legal, and economic character of the nation-
+state, so too were the first articulations of archival principles strongly biased in favor of the state. Almost all the 
+classic tomes about archival methodology were written by staff members of national archives. Not surprisingly, 
+most focused on government, public, or corporate records and their orderly transfer to archival repositories to 
+preserve their original order and classification, and most relegated private and personal archives to the purview of 
+libraries and librarians. Indeed, to this day, archives in Europe generally look after only the official records of 
+their sponsoring governments, while national or regional or university libraries take custody of personal 
+manuscripts. That tradition remains strong in most other English-speaking countries, although not in Canada.
+Moreover, these early archival writers lived in an era of document scarcity, where their experience was based on 
+dealing with limited numbers of medieval documents susceptible to careful diplomatic analysis of each page or 
+with records found in well-organized departmental registry systems of the emerging modern nation-state, existing 
+within stable, centralized administrations exhibiting classic Weberian hierarchical structures. Most completely 
+ignored the appraisal and selection of modern archives as these terms are now understood; indeed, such activity by 
+archivists was strongly discouraged as “unarchival.” Clearly influenced by Darwinian thinking and metaphors, the 
+pre-1930 archival pioneer thinkers asserted that records coming to archives from state departments were a kind of 
+natural, organic residue left over from administrative processes. Archivists then kept this residue in pristine order 
+
+in the archival building. Indeed, Page 173 → archivists in Britain were called “keepers,” reflecting that earlier 
+mind-set.
+State officials rather than archivists would therefore decide which records would survive by a process of natural 
+winnowing the wheat from the chaff according to administrative and political needs. The records themselves were 
+viewed as value-free vessels reflecting the acts and facts that caused them to be created. Archivists kept the 
+records, in the words of one early theorist, “without prejudice or afterthought” and were thus viewed—indeed, 
+extolled—as impartial, neutral, objective custodians. A pioneering writer with enormous influence even asserted 
+that the archivist is “the most selfless devotee of Truth the modern world produces.” And notice it is Truth with a 
+capital T.13
+Such traditional approaches sanctioned archives' and archivists' already strong predilection, as state institutions 
+and employees, to support mainstream culture and powerful records creators. Such approaches privilege the 
+official narratives of the state over the documented stories of individuals and groups in society or, indeed, their 
+interaction with and influence on the state. The rules for evidence and authenticity so adopted favor the textual 
+documents from which such rules were derived at the expense of other media for experiencing the present and 
+thus of viewing the past. The positivist and “scientific” values permeating such thinking prevented archivists then 
+and since from adopting and then documenting multiple ways of seeing and knowing. Archivists seek or reimpose 
+an original order rather than allowing for several orders or even disorders to exist among records and thus in their 
+descriptions. Researchers are instead presented with a well-organized, rationalized, monolithic view of a record 
+collection that may never have existed that way in operational reality. And this traditional view seriously hobbles 
+archivists trying to cope with the new technology of electronic records, where archivists' active intervention up 
+front in the processes of record creation rather than passive receipt of records long thereafter is the only hope that 
+today's computer-based history can be written tomorrow. Moreover, the volumes of modern paper records and the 
+electronic record require the archivist to appraise records to choose the typically 1 or 2 percent that will be 
+designated as archival; this active construction of select fragments of the past into social memory is of course 
+completely at odds with the earlier notion of archivists as passive keepers of an entire body or residue of records 
+handed over by their creator. An even greater absence of order or system is apparent in the record-keeping habits 
+of private individuals and organizations.
+In addition to these alterations in recording technologies, a marked change has occurred over recent decades in the 
+reasons why archival institutions exist—or at least public and publicly funded archives (self-funded private 
+business archives do not share fully in these developments). A collective shift has taken place during the past 
+century from a juridical-administrative justification for archives grounded in concepts of the state to a 
+sociocultural justification for archives grounded in wider public policy and public use. Simply stated, it is no 
+longer acceptable to limit the definition of society's memory solely to the documentary residue left over (or 
+chosen) by powerful record creators, whether Richard Nixon or Oliver North, Soviet commissars or state police in 
+apartheid South Africa, Canadian military officers in Somalia or doctors working with tainted blood products for 
+Health Canada, Queensland politicians or Tokyo Olympic Games organizers. Public and historical accountability 
+demands more of archives and of archivists.14
+As a result, Canadian archivists working in publicly funded institutions have begun to think in terms of 
+documenting the process of governance, not just of governments governing.15 “Governance” includes cognizance 
+of the dialogue and interaction of citizens and groups with the state, the impact of the state on society, and the 
+functions or activities of society itself as much as the inner workings of government structures. The archivist in 
+appraisal and all subsequent actions should focus, this argument goes, on the records of governance, not just on 
+records of government, when dealing with institutional records. This perspective also better complements the 
+work of archivists dealing with personal papers or private “manuscript” archives. I will return to this point.
+These various changes make archivists active mediators in shaping the collective memory through archives. 
+Because of the need to research and understand the nature of the functional and structural context in which records 
+are created and in which the record-keeping and media-generating processes take place and because of the need to 
+interpret records' relative importance as the basis for modern archival appraisal and description as well as for 
+
+making choices for preservation, exhibitions, and Web site construction, the traditional notion of the impartial 
+archivist is no longer acceptable—if it ever was. Archivists inevitably will inject their personal values into all such 
+activities and thus will need to examine very consciously their choices in the archive-creating and memory-
+formation processes, and they will need to leave very clear records explaining their choices to posterity. The 
+ghosts must become flesh and blood.16
+Page 174 →
+In this rethinking of the traditional state-centered and positivist framework for archives, and substituting a 
+distinctively postmodern alternative in the ways I have suggested, Canadian archivists have led the way 
+internationally. I would estimate that at least 75 percent of the world's English-language publications on the 
+postmodern archive have been written by Canadians.17 Perhaps it is fair to say that the fiercest opposition to the 
+postmodern archive also comes from Canada. This is not surprising because postmodern archivists have 
+repeatedly challenged five central principles of the traditional archival profession.
+1. Archivists are neutral, impartial custodians of “Truth,” managing records according to universal, value-free 
+theories.
+2. Archives as documents and as institutions are disinterested by-products of actions and administrations.
+3. The origin or provenance of records must be found in or assigned to a single office rather than situated in 
+the complex processes and multiple discourses of creation.
+4. The order and language imposed on records through archival arrangement and description are value-free re-
+creations of some prior reality.
+5. Archives are (or should be) the passively inherited, natural or organic metanarrative of the state.
+Some of these generalizations about postmodern archives are supported by a growing literature on the history of 
+archives as well as the wave of philosophical writing appearing in journals since the late 1990s—as noted earlier, 
+since the publication of Derrida's Archive Fever—all showing archives to be extremely problematic as loci for 
+memory. Historians are at last discovering the historicity of the archive. Maybe more archivists will soon follow. 
+The tone of this work is well set by historian Jacques Le Goff, who notes that “the document is not objective, 
+innocent raw material but expresses past society's power over memory and over the future: the document is what 
+remains.” What is true of each document is true of archives collectively. By no coincidence, the first archives 
+were the royal ones of Mesopotamia, Egypt, China, and pre-Columbian America. The capital city in these and 
+later civilizations becomes, in Le Goff's words, “the center of a politics of memory” where “the king himself 
+deploys, on the whole terrain over which he holds sway, a program of remembering of which he is the center.” 
+First the creation and then the control of memory leads to the control of history and thus mythology and ultimately 
+power. Feminist scholar Gerda Lerner also convincingly demonstrates that such power lay be-hind the first 
+documents, the first archives, and the subsequent formation of societal memory and that it was remorselessly and 
+intentionally patriarchal: women were delegitimized by the archival process in the ancient world, a process that 
+continued well into the twentieth century. During the first major event of the French Revolution, the storming of 
+the Bastille and its rural counterparts in 1789, the Parisian mob was not trying—motivated by ideals of liberty, 
+equality, and fraternity—primarily to free prisoners but rather was intent on destroying the king's tax and feudal 
+land records housed in the old fortress to eliminate evidence of outstanding public debt and servitude. Many other 
+examples are now coming to light (more than a few in papers presented at the Sawyer Seminars) of archives 
+collected—and later weeded, reconstructed, even destroyed—not to keep the best juridical evidence of legal and 
+business transactions, as traditionally supposed in archival mythology, but to serve historical and sacral/symbolic 
+purposes for those figures and events judged worthy of celebrating or memorializing within the context of their 
+time.18 But who is worthy? And who determines worthiness? According to what values? Historical research, in 
+summary, suggests that there is nothing neutral, objective, or “natural” about the process of remembering and 
+forgetting.
+Why have Canadian archivists taken this distinctive lead in reconceptualizing the archive? I think the influence of 
+McLuhan and Innis cannot be discounted; their concerns with nonprint media, communications technologies, and 
+the biases they carried in shaping past civilizations as well as our own are insights that were consciously 
+
+transported to the world of archives and how records and media shape the past. Hugh Taylor, a disciple of 
+McLuhan and a leading Canadian archivist of the 1970s and 1980s, fundamentally influenced a whole generation 
+of young archivists.19 I think too that the same generation of now senior archivists trained as historians that is 
+doing this writing in Canada saw, through the study of the history of records, the central French and English 
+dualism of Canada, and its multicultural and First Nations (or aboriginal) layers what the United Nations has 
+declared to be the most ethnically diverse country in the world; thus, these archivists perceived early on the 
+existence of different stories, mixed narratives about and multiple interpretations of similar past events and even 
+the same past texts, that generated doubts about “Truth” and objectivity in recorded memory. Not just history but 
+the recording of it was filled with diversity and ambiguity.
+A second contributing factor, complementing the first Page 175 → and in some ways its workplace manifestation, 
+is the “total archive” approach. Canada alone of First World nations has developed at the national level the total 
+archives approach, where almost all public archives in the country—national, provincial, territorial, municipal, 
+university, and regional—acquire as part of their mandate, within one archival institution, a total archive of 
+roughly equal extents of both public, government, or sponsoring institution records and related private-sector 
+records and to take into their archives the total record in every recording medium (including film, television, 
+paintings, and sound recordings, which in many countries are divided among several other repositories). In effect, 
+the separated European and American and Australian public archives and historical manuscript traditions are 
+combined inside one institution. Although there are many reasons why total archives evolved in Canada since the 
+nineteenth century, this integration of the public and private reflects the same wider vision of archives I've just 
+mentioned, one sanctioned in and reflective of society at large, of the total historical human experience, rather 
+than limited to a view of archivists solely as the custodians of official state records.20 If Canadian philosopher and 
+novelist John Ralston Saul is right that during the 1840s Canada invented the first postmodern nation, respecting 
+diversity, complexity, and a culture of minorities rather than a monolithic national myth, then perhaps it is only 
+natural that Canada has also invented the postmodern archive.21
+This Canadian approach to archives has manifestations in working reality beyond just the total archives 
+orientation; it is more than an academic exercise in theoretical or postmodern redefinition. And nowhere is this 
+more evident than in new approaches to archival appraisal.
+In the early 1990s, the National Archives of Canada developed the concept, strategy, and practice of “macro-
+appraisal” to select the 1 or 2 percent of government records that have enduring value as archives from among all 
+the documentation created in thousands of information systems in tens of thousands of offices. The National 
+Archives did so within the total archives policy umbrella and postmodern cultural ethos.
+Macroappraisal finds sanction for archival “value” of determining what to keep and what to destroy not in the 
+dictates of the state, as is traditional, or in following the latest trends of historical research, as has been more 
+recent practice, but in trying to reflect society's values through a functional analysis of the citizen's interaction 
+with the state. But macroappraisal is about more than just functional analysis, which is what some other countries 
+have mainly drawn from the Canadian model. Macroappraisal focuses on the functions of governance rather than 
+the structures or activities of government per se, emphasizes the interactive functioning of citizen and group as 
+much as that of the state, encompasses all media rather than privileging text, searches for multiple narratives and 
+hot spots of contested discourse rather than accepting the party line, and deliberately seeks to give voice to the 
+marginalized, to the “other,” to losers as well as winners, by looking anew at case files especially and electronic 
+data. Then, based on such research analysis, macroappraisal chooses the most succinct record in the best medium 
+for documenting these phenomena. Macroappraisal is especially helpful—essential—for appraising electronic 
+records.
+All societies (including the archivists residing in them) assign greater or lesser value to different dimensions of the 
+three-way interplay of social structures, societal functions, and citizens and groups. This interplay is how society 
+functions. And what is important is the process of interplaying rather than the three separate entities per se. And in 
+turn, such value assignment to particular social-functional phenomena will determine, when this insight is 
+transformed into an appraisal model, which related records are declared to be archival or which are not. 
+
+Macroappraisal theory posits that archivists may determine such societal values by specifying the generic 
+functional attributes and points of special intersection, conflict, or interplay among the creators of records (that is, 
+structures, agencies, actors); sociohistorical trends and patterns (that is, revealed through functions, programs, 
+activities); and clients, customers, citizens, or groups on whom both function and structure impinge and who in 
+turn influence both, directly or indirectly, explicitly or implicitly. Macroappraisal theory explores the nature of 
+these agents and acts and the interconnections or interrelationships between them and assigns greater importance, 
+or “value,” to certain functional-structural factors than to others. This is why it is known as “functional appraisal.” 
+Because the functional context of creation and contemporary use determines value, macroappraisal is a 
+provenance-based approach. Because it looks first at functions rather than records, it has been called a “top-down” 
+approach. The fact that appraisal has traditionally focused on the value of records has led this approach, which 
+focuses first on the value of functions, to be called “macroappraisal.” To get people thinking—or just to stir up 
+trouble—I have often said of this approach to appraisal value determination that although archivists have 
+traditionally appraised records for eventual use by Page 176 → researchers, archivists should neither appraise 
+records nor try to anticipate their use.22
+Macroappraisal gives strategic priority to functions and work processes at the top, not to recorded products or 
+records emerging at the bottom from those functions and processes. I hasten to add that “top-down” relates to a 
+functional decomposition methodology, not to administrative hierarchy or to an assumption that records at the top 
+created by the elite inherently carry more value. Corporate and governmental practices have long used such 
+functional strategic thinking (as opposed to theoretical concepts), and it is evident today in business system 
+analysis and system design in the world of computers, in current interest in business process reengineering and 
+government restructuring, as well as increasingly in records management file classification and indexing and 
+financial and human resource planning and measurement systems. And so, I thought back in 1989, why not also 
+consider its applicability in archival appraisal? Macroappraisal, then, represents a congruence of theory and 
+strategy.
+The macroappraisal strategic approach has its greatest value precisely on this point. The reasoning behind the 
+macroappraisal approach is simple enough to state. Institutions have certain formal or internally developed 
+functions assigned or sanctioned by democratic societies; in this way, institutions are a filter for societal trends, 
+activities, needs, and wishes, for the things and concepts that society values. For these assigned functions, the 
+institutions articulate various subfunctions and sub-sub-functions, which are allocated to different administrative 
+structures or offices, each with a mandate to perform or implement such a function, part of a function, or perhaps 
+parts of several functions. These offices in turn create various programs and activities to meet their functional 
+mandates, some continuing, some short term and temporary, which in turn lead to specific actions and individual 
+transactions between the functional office and the citizen, organization, or group in society. For the efficient 
+operation or delivery of these transactional interactions, information systems are built. Citizens, clients, groups, 
+companies, and associations interact with these functions and structures, programs and activities, and, depending 
+on the latitude and flexibility allowed for this interaction, in turn shape, challenge, and modify these programs to 
+varying degrees. Of all these steps and processes, the record itself is the final evidence within those information 
+systems of all these acts and transactions and of citizen/ societal interactions. This means that the contextual 
+milieu in which records are created—what I have called their conceptual rather than their physical provenance—is 
+determined by all these factors: functions, subfunctions, sub-subfunctions, structures, programs, activities, actions, 
+transactions, and client interactions as well as records-creating processes, systems, and technologies. By focusing 
+archival research on analyzing—that is, “appraising”—the importance of manageable numbers of these functions, 
+programs, and activities rather than on appraising billions of records or tens of thousands of systems, series, and 
+collections, the archivist can see the whole forest rather than just a few trees. Seeing the whole context ultimately 
+means that poorer and duplicate records are more easily identified and eliminated and that the most succinct, 
+precise, primary record in the best medium for a particular function is more readily targeted (or “appraised”) for 
+archival preservation. In short, macroappraisal strategy shifts the initial and major focus of appraisal from the 
+record to the functional context in which the record is created.
+Using such knowledge gained by an institutional functional analysis, the main appraisal questions for the archivist 
+
+are not what has been written (or drawn, photographed, filmed, or automated), where it is, and what research value 
+does it has. Rather, based on this kind of functional-structural decomposition or analysis, the key appraisal 
+questions are (1) what functions and activities of the creator should be documented (rather than what 
+documentation should be kept?) and (2) who, in articulating and implementing the key functions, programs, and 
+transactions of the institution, would have had cause to create a document, what type of document would it be, and 
+with whom would that corporate person cooperate or interact in either its creation or its later use? These questions 
+beg a third—really the most important—appraisal question: which records creators or “functions” (rather than 
+which records) have the most importance? Conversely, and just as important from the total archives perspective, 
+which functions are poorly documented in institutional records and must be complemented or supplemented by 
+private manuscripts, other archival media, oral history projects, and nonarchival documentation (publications, 
+“gray literature,” buildings, inscriptions, monuments, museum and gallery artifacts, and so on), none of which are 
+necessarily collected by archivists—or at least by institutional or corporate archivists. Only after these questions 
+are answered can archivists target realistically the records or series of records likely to have greatest potential 
+archival value.
+After the macroappraisal is completed and the series or classes or systems or collections of records are before 
+archivists for appraisal, traditional appraisal criteria can Page 177 → be applied where greater granularity is 
+necessary or desirable. Such criteria are used to refine further the value of individual records or small groupings or 
+series of records within the theoretical-strategic functional-structural matrix. Political, technical, legal, and 
+preservation issues are also considered at this point. Known research uses may also be considered—at this final 
+stage only, not driving the process. If the strategy is called macroappraisal, these record-related criteria constitute 
+microappraisal. Such microappraisal criteria involve assessing such factors as age; uniqueness; aesthetic, intrinsic, 
+or symbolic value; time span; authenticity; completeness; extent; manipulability; fragility; duplication; monetary 
+value; and usefulness. Such appraisal criteria are certainly used now in the daily work of archivists and are well 
+articulated in our literature; thus, no more need be said about them here.
+Macroappraisal in Canada occurs at three levels: first, between all the various institutions or records creators or 
+functions falling under the collection jurisdiction, mandate, or acquisition policy of an archives; second, between 
+the various functional programs of a single institution or records creator; and, finally, between the various 
+functions and activities of a single program or function within that creator—all using various criteria for assessing 
+the importance of functions to institutions' mandates. For a macroappraisal strategy to work based on functional 
+weighting, we found that a whole new relationship between the archives and government agencies was needed to 
+implement what we termed a planned approach to records disposition. This established that records disposition 
+must proceed in a logical manner, that records-creating agencies must be ranked and then approached in priority 
+order, that formal negotiated disposition plans using project management methodology must be in place, and that 
+each appraisal project must proceed comprehensively across a function, not in small administrative fragments, not 
+medium by medium, not (at least at first) by looking at a few isolated examples of records in a few subregistries, 
+and not (as is usual) in response to the latest space crisis in some part of the creating department. We also asked 
+some hard questions about basic past assumptions regarding assigning or approving retention periods for 
+nonarchival records and about focusing on passive records-destruction approvals rather than active archival 
+targeting.23
+Macroappraisal requires a firm commitment by the archives to research by its archivists and transparency to the 
+future concerning its decision making. Choosing the best records requires extensive research by 
+archivists—several months' worth for a large functional appraisal project. I will conclude by focusing on these two 
+corollaries of macroappraisal—research and transparency—since the complexity of research by archivists is 
+sometimes not well understood, thus making it easier to dismiss its importance when defining educational 
+standards or employment competencies and since, given the “blindnesses” referred to previously, more 
+transparency and accountability is evidently required so that we can see what we are doing and so that others can 
+see and hold us to account. More germane to this volume, getting inside such research (even if by generalizations 
+rather than concrete examples) reveals the degree to which archivists subjectively construct the past through 
+appraisal.
+
+To identify the small archival portion from the immense larger records universe, archivists undertake original 
+research to discover the historical and contemporary functions and structures and key individuals that may be 
+considered either representative of the whole or, conversely, special or outstanding in some way. Within 
+governments, corporations, or the larger society, these functions, structures, and individuals are always changing 
+and evolving over time and space, and archivists need through their research to identify and evaluate these 
+changing trends. Archivists do this research in advance of general published historical knowledge because to 
+produce such knowledge, historians depend in part on archivists' prior work. After appraisal and acquisition 
+targets are developed based on this research, additional research into the history of the targeted individuals, 
+groups, associations, communities, and institutions is required to determine which records in the most appropriate 
+medium will best document that individual or institution's activities, including interaction with other individuals, 
+groups, and institutions. Research into communication patterns and the nature and characteristics of recording 
+media is required, as is research into organizational culture and information systems. New insights from 
+organizational theory suggest that the functional-structural-transactional framework that underpins macroappraisal 
+will need to be expanded to include new insights into how radically changing networked organizations work, 
+including how formal memory products such as documents and records and filing and record-keeping systems 
+interact with or exist sometimes entirely separate from informal but effective organizational memory strategies 
+and learning systems and how these in turn are affected by different managerial styles, collaborative workplace 
+discourses, and Page 178 → social networks that increasingly are recognized as animating organizational 
+behavior.
+This complex array of contextual factors of both traditional and new organizational theory will naturally influence 
+the nature of the records being created and thus become factors that the archivist must research carefully to 
+determine the significance or value of the records of a particular organization or creator or function or activity or 
+citizen interaction.
+The macroappraisal approach spends very little time researching and assessing historical themes or the latest 
+trends in historiography and trying to match these to the kinds of records chosen (or appraised) as archival. That 
+was the approach developed by archivists in the United States in the 1940s and copied pretty much worldwide 
+when archivists perceived that the old Darwinian approach of taking custody passively of natural residues 
+designated by administrators was untenable in an age of bureaucratic expansion and voluminous paper records. 
+This was a major step forward from the older passive approach, attempting to perceive the trends and values 
+important to society, if through the filter of academic historians, as the animating force in appraisal rather than 
+leaving the selection of records to the processes and whims of their creator. But setting appraisal or memory 
+values based on past, present, or anticipated historical research use patterns is fraught with conceptual and 
+practical problems. This does not mean that macroappraisal should not be pragmatic or should result in records 
+chosen not being useful. It does mean that archival appraisal, for all its subjectivity, requires a defendable 
+intellectual framework rather than following the shifts of the academic marketplace “moved by the changing 
+winds of historiography.”24
+As a second corollary of macroappraisal, in addition to this extensive research into the records' context, these 
+research results must be made transparent to the future. We archivists must remember the future. We must allow 
+ourselves to be held accountable by revealing the research-based and personal suppositions on which keep/ 
+destroy decisions have been made. We must agree that we will be wrong in some appraisal decisions, that 
+posterity needs to know why we left them the memory legacy that we did.
+Perhaps our ghostly invisibility as archivists exists in part because our clients do not know what we do in terms of 
+authorizing the widespread destruction of sources of possible use to them. Might archivists generally have been 
+very lucky, except for our colleagues at the U.S. National Archives and Records Administration, in escaping close 
+public and legal scrutiny of our appraisal decisions? Might that be because the transparency and accountability for 
+which our profession increasingly calls among record creators is not something that we practice very well 
+ourselves—in terms, for example, of making very widely known our appraisal choices, the reasons for them, and 
+the research documentation supporting those choices? Do we even have well-articulated reasons for those 
+choices? Why do we think researchers, especially in this postmodern environment, are interested only in 
+
+descriptions of the records already in our archives—our well-researched illuminations of the scope, content, and 
+creator context of “our” records—but not in the reasons why we have those particular records and not others?
+For government and institutional records, I propose that we place negative entries in our record group inventories, 
+providing researchers with a description of all the series and collections in all media that we did not acquire from a 
+particular record creator alongside the ones we did acquire and the appraisal reasons why decisions were made 
+both to acquire and to not acquire. I think we should link all our series in descriptive inventories to the extensive, 
+research-based appraisal reports, recognizing that some long-standing open-ended series may be acquired over 
+several decades based on different appraisal decisions or reasoning by different archivists. More stark yet, I 
+propose that appraising archivists should be documented with a vita on file, complemented by biographical and 
+autobiographical details of their values used in appraisal. For private-sector or thematic archives, I think we 
+should provide the equivalent evidence of our choices—perhaps lists of all the possible individuals, groups, and 
+associations falling within the collecting mandate of our institution, as researched and considered by the 
+archivists, contrasted with the much smaller list of those collections or fonds appraised as archival and 
+acquired—and explanations of why those choices were made, using what criteria, based on what concepts of value 
+or significance, employing what methodologies, by which archivists, reflecting what personal and professional 
+values.
+Because we do not generally make such information on our thought processes available, assuming that we even 
+have articulated them to our own satisfaction, researchers see only a predefined universe—predefined by the 
+archivist, among others. What they see is what they get. They do not see what we saw as archivists before the 
+appraisal decisions were made to give them what they get. This perhaps explains why archives, unlike galleries 
+and museums, have generally escaped the culture wars and Page 179 → why our construction of societal memory 
+via appraisal—and subsequent archival actions—so far remains unchallenged, even (as I suggested earlier) 
+ignored. Is what we archivists do so unimportant? Or is it invisible, unknown, inarticulate? Do we shun the 
+challenge of public scrutiny? And if so, why? The ghosts of archives apparently still haunt us. There needs, in 
+short, to be a better integration of the archivist (the subject) with the records (the object) in memory narratives.
+Can this Canadian archival distinctiveness contribute internationally in the twenty-first century? Is there a future 
+for the postmodern archive? I believe the quick answer is yes, and on several levels. If there are benefits of the 
+Canadian way of diversity, ambiguity, tolerance, and multiple identities in John Ralston Saul's postmodern state, 
+then the Canadian parallel way of remembering via macroappraisal, of approaching the creation and preservation 
+of memory in archives, might well speak strongly to the world's citizens concerned in this new century about the 
+homogenizing and globalizing bias of the new media and record-creating technologies. Those desiring to construct 
+archival memory based on celebrating difference rather than monoliths, multiple rather than mainstream 
+narratives, the personal and local as much as the corporate and official, may find in Canada's distinctive approach 
+to appraising archives some useful perspectives and tools for their task.
+Steven Lubar, a specialist in the culture of information technology for the Smithsonian National Museum of 
+American History, reminds us that “we must think of archives as active, not passive, as sites of power, not as 
+recorders of power. Archives don't simply record the work of culture; they do the work of culture.”25 Words such 
+as culture and power are not neutral, but then, neither are Doughty's descriptions of archives as “precious assets” 
+or the greatest gift across generations of our “civilization.” What kind of gift to “civilization” or “culture” does 
+this generation of archivists wish to make? How do archivists want the future to remember them as they construct 
+a past for that future? The answers rest with how we conceive of, set strategies for, develop criteria concerning, 
+implement in practice, and then document our decisions in archival appraisal.
+NOTES
+The heart of this essay was a paper presented at the Sawyer Seminars. Portions of the text have appeared 
+elsewhere; other portions appear here for the first time.
+1. On the invisible or marginalized role of women in the historical enterprise and implicitly in the archival 
+
+one, see Bonnie Smith, The Gender of History: Men, Women, and Historical Practice (Cambridge and 
+London, 1998). See also Gerda Lerner, The Creation of Feminist Consciousness: From the Middle Ages to 
+Eighteen-Seventy (New York and Oxford, 1993), esp. chap. 11, “The Search for Women's History”; Anke 
+Voss-Hubbard, “‘No Documents—No History’: Mary Ritter Beard and the Early History of Women's 
+Archives,” American Archivist 58 (winter 1995): 16–30.
+2. Tom Nesmith, “Still Fuzzy, but More Accurate: Some Thoughts on the ‘Ghosts’ of Archival Theory,” 
+Archivaria 47 (spring 1999): 150 n. 18.
+3. Patrick J. Geary, Phantoms of Remembrance: Memory and Oblivion at the End of the First Millennium
+(Princeton, 1994). Michael Kammen refers to the Mystic Chords of Memory as the main title of his book on 
+the creation of American tradition, memory, and a usable past (New York, 1991).
+4. Nesmith, “Still Fuzzy,” 149.
+5. Brien Brothman, “The Limits of Limits: Derridean Deconstruction and the Archival Institution,” 
+Archivaria 36 (autumn 1993): 205–20.
+6. Peter Novick, That Noble Dream: The “Objectivity Question” and the American Historical Profession
+(Cambridge, U.K., 1988).
+7. Joy Parr, “Gender, History and Historical Practice,” Canadian Historical Review 76 (September 1995): 
+354–76.
+8. Arthur Doughty, The Canadian Archives and Its Activities (Ottawa, 1924), 5.
+9. Jean-Pierre Wallot, “Building a Living Memory for the History of Our Present: Perspectives on Archival 
+Appraisal,” Journal of the Canadian Historical Association 2 (1991): 282.
+10. Pierre Nora, as cited in John R. Gillis, introduction to Commemorations: The Politics of National 
+Identity, ed. Gillis (Princeton, 1994), 15.
+11. See Harold A. Innis, The Bias of Communication (Toronto, 1951); Harold A. Innis, Empire and 
+Communications (Oxford, 1950). For interesting commentaries about McLuhan in terms of memory and 
+communications, see Patrick H. Hutton, History as an Art of Memory (Hanover, Vt., 1993), 13–17; Paul 
+Levinson, Digital McLuhan: A Guide to the Information Millennium (London, 1999). For a new assessment 
+of Innis in light of postmodern sensibilities, see Charles R. Acland and William J. Buxton, eds., Harold 
+Innis in the New Century: Reflections and Refractions (Montreal and Kingston, 2000).
+12. See Terry Cook, “What Is Past Is Prologue: A History of Archival Ideas since 1898, and the Future 
+Paradigm Shift” Archivaria 43 (spring 1997): 17–63. At the risk of facing charges of self-promotion, I 
+believe this may be the best place to start for nonarchivists wishing to explore the history and evolution of 
+archival thinking generally in the English-speaking world and in particular for Canada, and the assertions of 
+the following paragraphs are documented in this article as well.
+13. Sir Hilary Jenkinson flourished in Britain's Public Record office during the first half of the twentieth 
+century and wrote the first major English-language text of archival theory and practice, A Manual of 
+Archive Administration (London, 1922; rev. 2d ed. 1937; reprint 1968). For a discussion and citations, see 
+Cook, “What Is Past,” 23–26.
+Page 180 →14. This paragraph reflects my central argument in “What Is Past.” See also Eric Ketelaar, 
+“Archives of the People, by the People, for the People,” South Africa Archives Journal 34 (1992): 15–26, 
+reprinted in Eric Ketelaar, The Archival Image: Collected Essays (Hilversum, 1997). For a new volume of 
+case studies of the critical role of records and archives in underpinning public accountability in 
+democracies, see Richard J. Cox and David A. Wallace, Archives and the Public Good: Accountability and 
+Records in Modern Society (Westport, Conn., and London, 2002).
+15. See Ian E. Wilson, “Reflections on Archival Strategies,” American Archivist 58 (fall 1995): 414–28. For 
+archivists merely (and meekly) to do what they think their government sponsors want regarding institutional 
+records or what archivists think will please these sponsors and thus show that archivists are good corporate 
+players worthy of continued funding is, as Shirley Spragge says, too easy (and too irresponsible) an 
+abdication of archivists' cultural mission and societal responsibilities. See her “The Abdication Crisis: Are 
+Archivists Giving up Their Cultural Responsibility?” Archivaria 40 (fall 1995): 173–81.
+16. For more detail on the postmodern turn within archives and the archival profession, see, in addition to 
+Cook, “What Is Past,” two complementary articles, Terry Cook, “Archival Science and Postmodernism: 
+New Formulations for Old Concepts,” Archival Science: International Journal on Recorded Information 1.1 
+(2001): 3–24; Terry Cook, “Fashionable Nonsense or Professional Rebirth: Postmodernism and the Practice 
+
+of Archives,” Archivaria 51 (spring 2001): 14–35, which provides more detailed support for the 
+generalizations that follow.
+17. For an extensive list of relevant Canadian and other citations, current to the summer of 2001, see Cook, 
+“Fashionable Nonsense,” 20 n. 14. A very important (and non-Canadian) addition is Carolyn Hamilton, 
+Verne Harris, et al., Refiguring the Archive (Cape Town, 2002).
+18. See Jacques Le Goff, History and Memory, trans. Steven Rendall and Elizabeth Claman (New York, 
+1992), esp. xvi–xvii, 59–60. Feminist scholars are keenly aware of the ways that systems of language, 
+writing, and information recording and the preserving of such information once recorded are social and 
+power based, not neutral, both now and across past millennia. See, for example, Gerda Lerner, The Creation 
+of Patriarchy (New York and Oxford, 1986), esp. 6–7, 57, 151, 200; Riane Eisler, The Chalice and The 
+Blade (San Francisco, 1987), 71–73, 91–93. Lerner's more recent study, Creation of Feminist 
+Consciousness, details the systemic exclusion of women from history and archives and women's attempts 
+starting in the late nineteenth century to correct this by creating women's archives; see esp. chap. 11, “The 
+Search for Women's History.” On the Paris mobs, see Janice Panitch, “Liberty, Equality, Posterity? Some 
+Archival Lessons from the Case of the French Revolution,” American Archivist 59 (winter 1996): 30–47. 
+For other examples and citations, see Cook, “What Is Past,” 18, 50. We have the sad case in our own time of 
+the deliberate records destruction in Kosovo and Bosnia to efface memory and marginalize peoples or to 
+hide illegal or embarrassing behavior, as in Watergate and the Enron scandal, among others. See again 
+many of the studies in Cox and Wallace, Archives and the Public Good.
+19. Taylor was a three-time provincial archivist and influential director in the 1970s at the National 
+Archives of Canada. For but five examples of his important articles bringing McLuhan and contemporary 
+social and cultural theory to bear on archival perspectives, see Hugh Taylor, “The Media of the Record: 
+Archives in the Wake of McLuhan,” Georgia Archive 6 (spring 1978): 1–10; Hugh Taylor, “Information 
+Ecology and the Archives of the 1980s,” Archivaria 18 (summer 1984): 25–37; Hugh Taylor, 
+“Transformation in the Archives: Technological Adjustment or Paradigm Shift?” Archivaria 25 (winter 
+1987–88): 12–28; Hugh Taylor, “My Very Act and Deed: Some Reflections on the Role of Textual Records 
+in the Conduct of Affairs,” American Archivist 41 (fall 1988): 456–69; Hugh Taylor, “Opening Address,” in 
+Documents That Move and Speak: Audiovisual Archives in the New Information Age: Proceedings of a 
+Symposium Organized for the International Council of Archives by the National Archives of Canada
+(Munich, 1992). For aspects of Taylor's major impact, see Tom Nesmith, “Hugh Taylor's Contextual Idea 
+for Archives and the Foundation of Graduate Education in Archival Studies,” in The Archival Imagination: 
+Essays in Honour of Hugh A. Taylor, ed. Barbara Craig (Ottawa, 1992), as well as many of the essays by 
+Taylor's disciples and admirers in this Festschrift in his honor. The volume also contains a bibliography of 
+his work to that date. An annotated collection of his best archival essays is forthcoming: see Terry Cook and 
+Gordon Dodds, eds., Imagining Archives: Essays and Reflections by Hugh A. Taylor (Lanham, MD, 2003).
+20. For detailed analysis of its historical evolution and future prospects, see Laura Millar, “Discharging Our 
+Debt: The Evolution of the Total Archives Concept in English Canada,” Archivaria 46 (fall 1998): 103–46; 
+Laura Millar, “The Spirit of Total Archives: Seeking a Sustainable Archival System,” Archivaria 47 (spring 
+1999): 46–65. For a critical overview, see Terry Cook, “The Tyranny of the Medium: A Comment on Total 
+Archives,” Archivaria 9 (winter 1979–80): 141–49; Terry Cook, “Media Myopia,” Archivaria 12 (summer 
+1981): 146–57.
+21. John Ralston Saul, “The Inclusive Shape of Complexity,” keynote address presented at the International 
+Conference on Canadian Studies, “The Canadian Distinctiveness into the Twenty-first Century,” University 
+of Ottawa, 18 May 2000, published in The Canadian Distinctiveness into the XXIst Century, ed. Chad 
+Gaffield and Karen L. Gould (Ottawa, 2003), 13–27. See also John Ralston Saul, The Unconscious 
+Civilization (Concord, Ont., 1995).
+22. The initial texts on macroappraisal are Terry Cook, The Archival Appraisal of Records Containing 
+Personal Information: A RAMP Study with Guidelines (Paris, 1991); Terry Cook, “‘Many Are Called but 
+Few Are Chosen’: Appraisal Guidelines for Sampling and Selecting Case Files,” Archivaria 32 (summer 
+1991): 25–50; Terry Cook, “Mind over Matter: Towards a New Theory of Archival Appraisal,” in Archival 
+Imagination, ed. Craig. Other important conceptual analyses are Richard Brown, “Macro-Appraisal Theory 
+and the Context of the Public Records Creator,” Archivaria 40 (fall 1995): 121–72; Richard Brown, 
+“Records Acquisition Strategy and Its Theoretical Foundation: The Case for a Concept of Archival 
+
+Hermeneutics,” Archivaria 33 (winter 1991–92): 34–56; Richard Brown, Page 181 → “The Value of 
+‘Narrativity’ in the Appraisal of Historical Documents: Foundation for a Theory of Archival Hermeneutics,” 
+Archivaria 32 (summer 1991): 152–56; Terry Cook, “Macroappraisal and Functional Analysis: Appraisal 
+Theory, Strategy, and Methodology for Archivists,” in L'evaluation des archives: Des necessites de la 
+gestion aux exigences du temoignage, Groupe Interdisciplinaire de Recherche en Archivistique, 3d 
+symposium (Montreal, 1998). For its historical context, see Cook, “What Is Past.” Both Cook and Brown 
+drew inspiration from Hans Booms, “Society and the Formation of a Documentary Heritage: Issues in the 
+Appraisal of Archival Sources,” trans. Hermina Joldersma and Richard Klumpenhouwer, Archivaria 24 
+(summer 1987): 69–107; originally published 1972; and from the structuration theory of British sociologist 
+Anthony Giddens. Several published case studies of implementing macroappraisal are Jim Suderman, 
+“Appraising Records of the Expenditure Management Function: An Exercise in Functional Analysis,” 
+Archivaria 43 (spring 1997): 129–42; Catherine Bailey, “From the Top Down: The Practice of Macro-
+Appraisal,” Archivaria 43 (spring 1997): 89–128; Candace Loewen, “From Human Neglect to Planetary 
+Survival: New Approaches to the Appraisal of Environmental Records,” Archivaria 33 (winter 1991–92): 
+87–103; Jean-Stephen Piche and Sheila Powell, “Counting Archives In: The Appraisal of the 1991 Census 
+of Canada,” Archivaria 45 (spring 1998): 27–43; Jean-Stephen Piche,”Macro-Appraisal and Duplication of 
+Information: Federal Real Property Management Records,” Archivaria 39 (spring 1995): 39–50; Ellen 
+Scheinberg, “Case File Theory: Does It Work in Practice?,” Archivaria 38 (fall 1994): 45–60.
+23. For the strategic “disposition” as opposed to the appraisal side of the macroappraisal approach, see, in 
+addition to the sources in n. 22, Eldon Frost, “A Weak Link in the Chain: Records Scheduling as a Source 
+of Archival Acquisition,” Archivaria 33 (winter 1991–92): 78–86; Bruce Wilson, “Systematic Appraisal of 
+the Records of the Government of Canada at the National Archives of Canada,” Archivaria 38 (fall 1994): 
+218–31.
+24. F. Gerald Ham, “The Archival Edge,” in A Modern Archives Reader: Basic Readings on Archival 
+Theory and Practice, ed. Maygene F. Daniels and Timothy Walch (Washington, D.C., 1984), 328–29. 
+Appraisal by use is most closely identified with American appraisal theory as pioneered principally by T. R. 
+Schellenberg and his colleagues from the 1940s onward. Schellenberg's fullest statement of his oft-cited 
+principles appears in “The Appraisal of Modern Public Records,” National Archives Bulletin 8 (1956), an 
+extract of which is more readily available in Daniels and Walch, Modern Archives Reader, 57–70. The 
+Society of American Archivists also sanctioned this approach: see Maynard J. Brichford, Archives and 
+Manuscripts: Appraisal and Accessioning (Chicago, 1977). Schellenberg's inbuence remains strong; a 
+recent textbook chapter asserted that his secondary values relating to “research uses” remain “the principal 
+concern of archivists” in appraising records (Maygene F. Daniels, “Records Appraisal and Disposition,” in 
+Managing Archives and Archival Institutions, ed. James Gregory Bradsher [Chicago, 1988], 60).
+25. Steven Lubar, “Information Culture and the Archival Record,” American Archivist 62 (spring 1999): 15.

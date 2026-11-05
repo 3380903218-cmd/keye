@@ -1,0 +1,229 @@
+One of the First to Emerge from the Library Cave: The Seattle Art Museum Sutra Fragment | Silk Roads Archaeology and Heritage (https://silkroadsarchaeoheritage.org/articles/10.5334/srah.7)
+citeturn142view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://silkroadsarchaeoheritage.org/articles/10.5334/srah.7","lineno":null}); Total lines: 706
+L0: 【0†Skip to main content】
+L1: 
+L2:   * 【1†Home】
+L3:   * 【2†About】
+L4: 
+L5:   * 【3†Submissions】
+L6: 
+L7:   * 【2†Content】
+L8: 
+L9:   * 【4†Contact】
+L10: 
+L11:   * 【5†Research Integrity】
+L12: 
+L13: Open navigation
+L14: 
+L15:   * 【1†Home】
+L16: 
+L17:   * 【2†About】
+L18:     * 【6†About the Journal】
+L19:     * 【7†Editorial Team】
+L20:     * 【8†Editorial Policies】
+L21: 
+L22:   * 【3†Submissions】
+L23: 
+L24:   * 【2†Content】
+L25:     * 【9†Articles】
+L26:     * 【10†Issue Archive】
+L27: 
+L28:   * 【4†Contact】
+L29: 
+L30:   * 【5†Research Integrity】
+L31: 
+L32: [Input: Search…]
+L33: 
+L34:   * 【11†Account†account.silkroadsarchaeoheritage.org】
+L35: # Silk Roads Archaeology and Heritage
+L36: 
+L37: 【12†Start Submission†account.silkroadsarchaeoheritage.org】【13†Become a Reviewer†account.silkroadsarchaeoheritage.org】
+L38: 
+L39: Reading: One of the First to Emerge from the Library Cave: The Seattle Art Museum Sutra Fragment
+L40: 
+L41:   * Download
+L42: 
+L43: 【14†PDF (English)】【15†XML (English)】
+L44: 
+L45:   *   *   *   * 【16†Print】
+L46:   * Alt. Display
+L47: 
+L48:   *   * Taxonomy:【17†East Asia】
+L49: 
+L50: # One of the First to Emerge from the Library Cave: The Seattle Art Museum Sutra Fragment
+L51: ## Research
+L52: 
+L53: Authors
+L54: 
+L55:   * Foong Pingpfoong@seattleartmuseum.org
+L56: ## Abstract
+L57: The biography of a Tang-dynasty Buddhist sutra manuscript fragment in the Seattle Art Museum collection is unique because its provenance can be reliably traced from the discovery of the Library Cave at Mogao in June 1900 to the fragment’s arrival in Hawaii around 1938. For decades, the fragment was mounted together with an English-language gift letter dated 1932.
+L58: The fortuitous retrieval of the author’s identity—a twenty-year old student at Tsinghua University—leads us to their grandfather, provincial governor of Xinjiang and Gansu province, Rao Yingqi 饒應祺, who owned the scroll until his death in January 1903. The fragment’s ownership history is thus conclusively established between 1900 and 1903, before the arrival of Marc Aurel Stein at Mogao in 1907.
+L59: Governor Rao Yingqi probably obtained his scroll from one of three people who gained early access to the Library Cave’s contents: Governor-General Wei Guangdao 魏光燾; the Manchu prince Aisin Gioro Zailan 愛新覺羅 · 載瀾; and Belgian tax collector Paul Splingaerd 林輔臣, a long-term Gansu resident who appears the most likely source.
+L60: This foreigner is known from Dunhuang oral history recorded by artist Xie Zhiliu 謝稚柳 in the 1940s, where Splingaerd was rumored to have received Library Cave scrolls from Manchu circuit intendant Yan Dong 延棟, which he then regifted to officials in Xinjiang. Xie Zhiliu’s description is substantiated by Splingaerd’s letters and that of Scheut missionaries in Gansu and Mongolia kept in the CICM archives.
+L61: The European correspondence indeed places Splingaerd guiding an expedition in Northern Gansu in June 1900, coinciding with the Library Cave’s discovery, before reaching Xinjiang in July on the eve of the Boxer Uprising. This study of the SAM sutra fragment illuminates the Library Cave’s early dispersal period by recovering the heretofore unknown connection between Splingaerd and Governor Rao Yingqi.
+L62: Keywords:
+L63: 
+L64:   * 【18†Dunhuang】
+L65:   * 【19†Mogao】
+L66:   * 【20†Library Cave】
+L67:   * 【21†Cave 17】
+L68:   * 【22†Rao Yingqi】
+L69:   * 【23†Paul Splingaerd】
+L70:   * 【24†Xie Zhiliu】
+L71:   * 【25†James and Lucy Lo】
+L72:   * 【26†Luo Jimei】
+L73:   * 【27†Anna Matilda Bille】
+L74:   * 【28†Fook-tan Ching】
+L75:   * 【29†Sutra on the Solemn Attainment of Buddhahood by means of Repentance】
+L76:   * 【30†Buddhanama sutra】
+L77: 
+L78: Year: 2023
+L79: 
+L80: 【31†Volume: 1 Issue: 1】
+L81: 
+L82: Page/Article: 77–99
+L83: 
+L84: 【32†DOI: 10.5334/srah.7†doi.org】
+L85: 
+L86: Submitted on Mar 7, 2023
+L87: 
+L88: Accepted on Nov 4, 2023
+L89: Published on Apr 16, 2024
+L90: 
+L91: Peer Reviewed
+L92: 
+L93: 【33†CC Attribution 4.0†creativecommons.org】
+L94: ## Metrics
+L95: 
+L96: Click on the tabs below to view various metrics for this article.
+L97: After a thousand years of efflorescence, the cave temples of Mogao near Dunhuang waned along with the Silk Roads trade and were forgotten over the centuries until the so-called Library Cave was accidentally found in 1900 (【34†Figure 1】). Monk Wang Yuanlu 王圓籙 (c. 1849–1931) was the unofficial guardian of the Mogao caves who solicited donations to maintain the temples and restore their statues (【35†Figure 2】).
+L98: According to later accounts, Wang made the momentous discovery on the evening of June 22, 1900 (Guangxu era 26, Gengzi fifth month, 26th day 光緒二十六年庚子五月二十六日). While clearing sand from Cave 16 together with a workman surnamed Yang 楊, he noticed a hollow wall along the corridor (【36†Xie 1949: 3】). Removing the wall, they found a door leading into a small cave filled in an orderly manner with stacks and bundles of scrolls (【37†Figure 3】).
+L99: There were tens of thousands of ancient manuscripts in Chinese, Tibetan, Sanskrit, Uyghur, Sogdian, and Khotanese, as well as textiles and paintings on silk, hemp, and paper.^{【38†1】} Now numbered Cave 17, the Library Cave was sealed in the eleventh century for reasons unclear and still vigorously debated by scholars.^{【39†2】} Once opened, the contents immediately began to disperse to the Dunhuang-area local community, although the details on exactly how continue to elude us.
+L100: 【40†Image: Door to the Library Cave from Cave 16. Photograph by Aurel Stein, 1907†storage.googleapis.com】
+L101: 
+L102: Figure 1
+L103: 
+L104: Door to the Library Cave (Cave 17) once hidden behind a hollow wall in Mogao Cave 16, Dunhuang. Photographed by Marc Aurel Stein, 1907, combining a negative of empty Cave 16 with an image of manuscripts. © British Library, Photo 392/59(1) & Photo 392/59(2).
+L105: 
+L106: 【41†Image: Monk Wang Yuanlu. Photograph by Aurel Stein, June 11, 1907†storage.googleapis.com】
+L107: 
+L108: Figure 2
+L109: Wang Yuanlu in front of the main hall of the Lower Temples. Mogao, Dunhuang. Photographed by Marc Aurel Stein, June 11, 1907. © British Library, Photo 392/26(327).
+L110: 
+L111: 【42†Image: “Regular bundles” of Library Cave manuscripts. Photograph by Aurel Stein, 1907†storage.googleapis.com】
+L112: 
+L113: Figure 3
+L114: 
+L115: A group of what Aurel Stein termed “regular” bundles of manuscripts in the Library Cave. Photographed by Marc Aurel Stein, 1907. © British Library, Photo 392/27(589).
+L116: ## The early period of dispersal
+L117: In his foundational Eighteen Lectures on Dunhuang, Chinese historian Rong Xinjiang 榮新江 emphasized the importance of researching the earliest removals of paintings and manuscripts from the Library Cave, including investigating the circumstances and individuals involved.^{【43†3】} Rong defines “early dispersal” as occurring between June 1900 and March 1907—that is, the period beginning with the Library Cave’s discovery and ending with the arrival of British-Hungarian explorer and archaeologist Marc Aurel Stein (1862–1943) at Mogao in 1907, followed by French sinologist Paul Pelliot (1878–1945) eight months later.
+L118: The works that Stein and Pelliot obtained during their expeditions and other major collections have mostly been published. However, a great deal less is known about Library Cave works that entered private hands prior to 1907.
+L119: Rong Xinjiang discussed the implications of studying the period 1900 to 1907. The first concerns Wang Yuanlu and his criteria and motivations for selecting some of the finest pieces from the cache as gifts for others. The second concerns Wang’s impact on the integrity of the stacks and bundles that had been deposited since the original order may lead us to better comprehend why the Library Cave was sealed in the eleventh century.
+L120: Rong also noted the earliest pieces removed as reliably authentic and therefore informative for evaluating forgeries. Thus, he expressed hope to rediscover materials that first came out of the Library Cave and whose whereabouts remain unknown.^{【44†4】}
+L121: A Tang dynasty (618–907) fragment of a Buddhist sutra manuscript in the collection of the Seattle Art Museum (henceforth SAM) fits Rong Xinjiang’s definition precisely (【45†Figure 4】).^{【46†5】} This essay describes the process of recovering the fragment’s ownership history, one which conclusively places its origins in the early dispersal period. When it was first brought to SAM by the owner, the fragment came mounted with a letter, in English (【47†Figure 5】).
+L122: The letter was addressed to “Professor Anne Bille,” signed by an unidentified person, and dated May 15, 1932 (【48†Figure 6】). After determining the identity of the letter-writer, I traced the family line to their grandfather—none other than Rao Yingqi 饒應祺 (1837–1903), provincial governor of Xinjiang and Gansu province.
+L123: The SAM fragment derived from a scroll owned by Governor Rao from around 1900 to his passing in January 1903 in Xinjiang province; the date and location of death serves as proof that the fragment’s provenance predates Aurel Stein’s first visit to Mogao.
+L124: 【49†Image: Seattle Art Museum Library Cave sutra manuscript fragment†storage.googleapis.com】
+L125: 
+L126: Figure 4
+L127: Manuscript fragment of Datong fangguang chanhui miezui zhuangyan chengfo jing (Sutra on solemn attainment of Buddhahood by means of repentance to extinguish sins in a great, thorough, and broad way), 8th century, Tang dynasty (618–907), Mogao, Dunhuang. Ink on mulberry-fibre paper, 27 × 49 cm (10 5/8 × 19 5/16 in.). Seattle Art Museum, Gift of Anna M. Bille, Fook-Tan, and Clara Ching, 2017.21. Photo: Scott Leen.
+L128: 【50†Image: Sutra manuscript fragment mounted with a gift letter, collection of Yi-chuan Ching†storage.googleapis.com】
+L129: 
+L130: Figure 5
+L131: 
+L132: Manuscript fragment from Dunhuang mounted with a gift letter while in the collection of Yi-chuan Ching. Photo: Elizabeth Mann.
+L133: 
+L134: 【51†Image: Gift letter from Jao Yü Ai to Prof. A. M. Bille, May 15, 1932†storage.googleapis.com】
+L135: 
+L136: Figure 6
+L137: Letter from Jao Yü Ai to Prof. Anna Matilda Bille, 1932, Republic period (1912–49). Ink on paper. Seattle Art Museum, Gift of Anna M. Bille, Fook-Tan, and Clara Ching, accessory of 2017.21. Photo: Scott Leen.
+L138: Governor Rao Yingqi acquired this Library Cave scroll during the early dispersal period, but we do not know for sure how he came by it. The below identifies three possible people amongst his acquaintances and colleagues who acquired Library Cave manuscripts and who may have passed along scrolls to him. Already known through the research of Rong Xinjiang and others, the first two are Governor-General Wei Guangdao 魏光燾 (1837–1916) and the Manchu prince Aisin Gioro Zailan 愛新覺羅 · 載瀾 (1856–1916).
+L139: The third person is a foreigner whose presence predates Stein, a Belgian man who resided near Dunhuang serving as a Qing dynasty (1644–1912) official and tax collector. He is not always recognized by scholars as having possessed manuscripts from the Library Cave, but missionary letters confirm that he was guiding a group of Belgians prospecting for quartz and gold in northern Gansu when Wang Yuanlu discovered the Library Cave.
+L140: Given this important coincidence, I will revisit this rather colourful figure as one of the three possible conduits through which some scrolls entered local circulation shortly after the Library Cave’s discovery—but appears the most likely source for Governor Rao’s scroll that produced the SAM fragment.
+L141: ## The early circulation of Library Cave manuscripts
+L142: Several local officials and gentry in the Gansu and Xinjiang regions came into possession of Library Cave contents, and it is important to review some of this background prior to discussing SAM’s sutra fragment. Rong Xinjiang discovered the names recorded by Ye Changchi 葉昌熾 (zi Songlu 頌魯, 1849–1917). Appointed Provincial Education Commissioner of Gansu in 1902, Ye arrived in Lanzhou, the provincial capital, in the fifth month of that year.
+L143: He kept a diary, diligently writing nearly every day: His entry for December 30, 1903 contains the earliest mention of the Library Cave in extant records.^{【52†6】} In the same entry, he describes his own acquisition of silk paintings and Tang-period sutra manuscripts from the Library Cave. These artefacts were given to him by Wang Zonghan 汪宗翰 (zi Li’an 栗庵, b. 1845), who went to see the Mogao caves in 1902 as the newly appointed Dunhuang County Magistrate (Dunhuang sheng ling 敦煌省令).
+L144: Ye Changchi noted that monks and laypeople acquired pieces, as did these three officials: Dunhuang County Magistrates Heng Shou 恆壽 (hao Jiemei 介眉, 1853–1903) and Zhang Tingwu 張庭武 (hao Youlü 又履, ?–1917), and an official from Shaanxi named Zhang Yuanchan 張元潹 (zi Xiaoshan 篠珊, dates unknown).^{【53†7】} In the diary entry for October 13, 1904, Ye describes how Wang Zonghai 王宗海, Assistant Instructor at Dunhuang county’s Confucian school, offered him some pieces, which Ye refused, but he accepted two scrolls and one painting from the Mogao caves.^{【54†8】}
+L145: By mid-1902, the Library Cave had clearly garnered lively community interest in Gansu, but we can trace even earlier instances of Library Cave scrolls in the hands of private individuals. One of the first persons monk Wang Yuanlu contacted was a Manchu official named Yan Dong 延棟, Circuit Intendant of Anxi-Suzhou (An-Su daotai 安肅道台). Wang traveled 800 li (about 400 kilometres) from Mogao to Suzhou 肅州 (today’s Jiuquan 酒泉) with a crate full of material from the Library Cave.
+L146: Yan Dong dismissed the manuscripts, purportedly saying that his own handwriting was better. In any case, scholars agree that Yan Dong likely owned the first and largest private collection of Dunhuang manuscripts numbering many hundreds of scrolls (【55†Rong 2001, trans. 2013: 85–89】; 【56†Wang 2008/06: 2】).
+L147: Yan Dong’s role in the history of the Library Cave was reported by painter Xie Zhiliu 謝稚柳 (1910–1997), who conveyed the stories he heard while visiting the Mogao caves between autumn 1942 to 1943. The impression of Wang Yuanlu’s motives was less than favourable by the 1940s. Xie’s account portrayed Wang as someone hoping for financial gain from the Library Cave’s contents:
+L148: > Daoist monk Wang was quite sly and tried to make some money with his discovery. He secretly loaded a case with scrolls and shipped them to Jiuquan, where he presented those to the Manchu Yan Dong, the Daotai [circuit intendant] of An-Su circuit. Yan Dong did not realize what these were, he thought that the calligraphy of the scrolls was inferior to his own, thus he did not value them much. Wang felt greatly disheartened by this; he left the manuscripts behind and returned home.
+L149: >
+L150: > Then a Belgian man from the tax office at Jiayuguan was about to return home to his country and came to visit Yan Dong. When he was about to leave, Yan Dong brought out numerous scrolls and presented them to him. When this Belgian man was passing through Xinjiang, he visited General Changgeng (also a Manchu) and the Daotai by the surname Fan, told them what happened at Dunhuang, then divided the scrolls and gave those to Changgeng and Fan Daotai.^{【57†9】}
+L151: >
+L152: > 王道士頗機詐，思借之貿利，私載經卷一箱至酒泉，獻於安肅道道台滿人廷棟。廷棟不省，以為此經卷其書法乃出己下，無足重。王道士頗喪沮，棄之而去。嘉峪關稅務司比國人某將回國，來謁廷棟。臨行，廷棟出數卷贈之。此比國人行過新疆，复謁長庚將軍（亦滿人）及道台潘某，相與道敦煌事，復以經卷分贈長庚與潘道台 。
+L153: In these passages, Xie Zhiliu describes how manuscripts passed from hand to hand—first from the Manchu official Yan Dong at Suzhou to a Belgian man from the tax office at Jiayuguan, the mountain pass near Suzhou, and this Belgian man then offered some of his “numerous scrolls” to officials in Xinjiang, namely General Changgeng and Circuit Intendant Fan. Obviously, Xie’s decades-later reportage of the events must be compared with contemporaneous testimony to confirm accuracy.
+L154: Historian Rong Xinjiang, for example, says that Xie’s account “does not seem to be unfounded” given Aurel Stein’s corroboration (【55†Rong 2001, trans. 2013: 85, ft. 6】).
+L155: Aurel Stein indeed makes several points pertinent to understanding the early disposition of Library Cave scrolls in his detailed archaeological report, Serindia. For example, he writes that the Library Cave door was walled up as a “precaution” to guard against the curiosity of pilgrims who “had recently flocked to the site in their thousands.”^{【58†10】} In the below, Stein specifically relates that the Suzhou daotai (ie.
+L156: Yan Dong) reported the discovery to their superior, the “Viceroy of Gansu,” who in turn ordered some Library Cave scrolls be taken to his Viceregal Yamen at Lanzhou. Stein’s “Viceroy” appears to be Wei Guangdao, who was Governor-General of Shaanxi and Gansu (Shaan-Gan zongdu 陝甘總督, Rank 2a) in 1900 (acting 1899):
+L157: > From statements heard by us at Dunhuang it had appeared likely that, when the great find of manuscripts had been officially reported through the Daotai at Suzhou to the Viceroy of Gansu, orders had been issued from the latter’s Yamen for the transmission of specimens, and subsequently for the safe keeping of the whole collection… Some rolls of Chinese texts, apparently Buddhist, had indeed been taken from him and sent to the Viceregal Yamen at Lanzhou.^{【59†11】} But they had failed to attract any interest there, and to Wang’s undisguised chagrin no further notice had been taken of his treasured old manuscripts or, indeed, of his pious labours which had led to their discovery.
+L158: Officialdom had been content with a rough statement that the manuscripts would make up seven cart-loads, and, evidently grudging the cost of transport or the trouble of close examination, had left the whole undisturbed in charge of the Daoshi [Wang], as self-constituted guardian of the temple.
+L159: Xie Zhiliu’s 1940s oral history thus echoes Aurel Stein’s understanding that Yan Dong, the “Daotai at Suzhou,” was one of the first to know about manuscripts from the Library Cave. Yan’s official report up the chain of command led to orders for the transmission of “some rolls of Chinese texts” from Mogao to Lanzhou, into the hands of the “Viceroy of Gansu” Wei Guangdao.
+L160: We return later to examine Xie’s other claim that Yan Dong presented a Belgian tax collector with numerous scrolls, and who in turn gave them away to Xinjiang-area officials.
+L161: ## Serendipity in Seattle
+L162: Xie Zhiliu had been invited to Dunhuang by prominent artist Zhang Daqian 張大千 (1899–1983), who was there from 1941 to 1943 on an ambitious project to study the cave murals. Zhang also recorded local recollections related to the Library Cave’s discovery (【60†Li 2001】). James C.M. Lo (1902–1987, Luo Jimei 羅寄梅) and his wife Lucy Lo (b. 1920, Liu Xian 劉氏 · 羅先) arrived in 1943. James was a photojournalist for the Central News Agency, and he had taken a year’s leave to photograph Dunhuang.
+L163: Lucy was also a photographer. Under challenging conditions, the couple produced meticulous photographic documentation of the Mogao caves during their eighteen-month stay.^{【61†12】}
+L164: In 2016, the Seattle Art Museum organized Journey to Dunhuang: Buddhist Art of the Silk Road Caves with Princeton University Art Museum (【62†Figure 7】). This exhibition presented the interrelated creative activities of James and Lucy Lo: The technical virtuosity and aesthetic sensibility of their photographs; their collection of sutra and paper fragments; and the Lo’s full-scale painted renderings of Dunhuang’s cave murals (【63†Foong 2016】).
+L165: After moving to Taiwan, they produced these renditions in a workshop-like setting by projecting their black-and-white photographs on the wall. The addition of a subtle color palette depended on Lucy Lo’s excellent memory and her meticulous notebook records.^{【64†13】}
+L166: 【65†Image: Installation view of Journey to Dunhuang: Buddhist Art of the Silk Road Caves, Seattle Asian Art Museum, 2016†storage.googleapis.com】
+L167: 
+L168: Figure 7
+L169: 
+L170: Installation view of Journey to Dunhuang: Buddhist Art of the Silk Road Caves, Seattle Asian Art Museum, March 5–June 12, 2016. Photo: Mark Woods.
+L171: This special exhibition held at the Seattle Asian Art Museum resulted in a lasting impact on the museum’s collection. SAM acquired four Lo workshop renditions (【66†Figure 8】) and Lucy Lo later gifted four Buddhist sutra fragments from her collection (【67†Figure 9】). In addition, engagement with Seattle’s museum-going community caused, quite unexpectedly, a collector named Yi-chuan Ching to come forward.
+L172: A respected medical doctor in his community, Dr Ching heard about the Lo exhibition from his son Andrew Ching, a Seattle resident, and wrote to the SAM, “I have a page of scripture that may be from the Mogao caves at Dunhuang.”^{【68†14】} After a year of correspondence and planning, Dr Ching offered it as a gift to SAM, making a plea for the museum to look after the fragment henceforth: “The manuscript probably left China around 1938 and has been in Hawaii in a trunk with moth balls and at ambient temperatures and humidity ever since.”^{【69†15】} Before SAM could accept his generosity, I undertook necessary steps to establish authenticity and provenance, and to determine whether it was appropriate for this piece to enter the museum’s collection.
+L173: 【70†Image: Rendition of a mural in Mogao Cave 217 by the James C. Lo Workshop, 1958–63†storage.googleapis.com】
+L174: 
+L175: Figure 8
+L176: 
+L177: Parable of the Illusory City from the Lotus Sutra, 1958–63, copy after Mogao Cave 217, Dunhuang, High Tang dynasty (704–781), James C. Lo Workshop. Ink and color on paper, 96 × 127 cm (37 13/16 × 50 in.). Seattle Art Museum, Gift of Lucy L. Lo, 2017.22.1. Photo: Elizabeth Mann.
+L178: 
+L179: 【71†Image: Tang-dynasty sutra manuscript fragment, collection of Lucy L. Lo†storage.googleapis.com】
+L180: Figure 9
+L181: 
+L182: Manuscript fragment of Da zhidu lun (Treatise on the Great Perfection of Wisdom Sutra), Tang dynasty (618–907), Mogao, Dunhuang. Ink on paper, 11.1 × 9.2 cm (4 3/8 × 3 5/8 in.). Seattle Art Museum, Gift of Lucy L. Lo, 2022.11.1. Photo: Scott Leen.
+L183: ## The sutra
+L184: The text of this manuscript is a sutra originally compiled before the middle of the sixth century, titled Datong fang guang chanhui miezui zhuangyan chengfo jing 大通方廣懺悔滅罪莊嚴成佛經. The name can be translated as “Sutra on the solemn attainment of Buddhahood by means of repentance, to extinguish sins in a great, thorough, and broad way.” This sutra is a manual for calling out to Buddha for salvation.
+L185: It provides combinations of Buddha’s many names and contains instructions for conducting confession rites to eliminate sins. The repentance ritual must be conducted over seven days without sleep, six times per twenty-four hours, reciting the entire sutra three times a day (【72†Radich 2009】). Kuo Li-ying studied records of the forms and practices of various Buddha-name rites, of which Japanese historical texts are particularly rich.
+L186: For example, the so-called hōkō-zanka (Fang guang chan’guo 方廣懺過) rite of confession of 823 CE was celebrated on the twenty-third day of the twelfth moon in Kyoto, when a ritual called daitsū hōkō-ho 大通方廢法 was performed all night in a hall of the palace by the great master Kūkai 空海 (774–835).^{【73†16】}
+L187: Based on three Library Cave manuscripts, it became possible to reconstruct three chapters of the “Sutra on the solemn attainment of Buddhahood” (【74†Makita 1976: 290】; 【75†Ono 1964–1967, vol. 7: 371 b–d】).^{【76†17】} The SAM sutra fragment preserves part of chapter two, and it remains to be seen whether it is of further use to Buddhologists beyond what is already known from the other three manuscripts.
+L188: Between nine to twelve pieces of this sutra survive and are recorded in catalogues.^{【77†18】} Indeed the rarity of extant manuscripts and the sutra’s obscurity are both to the benefit of SAM’s manuscript since a forger would more likely copy a more popular sutra, like the Lotus Sutra or the Diamond Sutra, and perhaps even add a date to enhance the value of their forgery.
+L189: ## The calligraphy
+L190: There are several ways of dating a sutra. One is to examine the manuscript’s calligraphic style. Another is to check the morphology of the paper sheet. Sutras are copied in order to gain karmic merit. The SAM sutra fragment also shows significant artistry while conforming to the Tang-dynasty imperial standard of kaishu 楷書 that was based on the personal hand of court official and imperial curator Chu Suiliang 褚遂良 (596–658).
+L191: His elegant style was favoured for promulgations and stone stelea at the Tang capital of Chang’an (today’s Xi’an), for instance, in “Preface to the holy teachings at Great Goose Pagoda” (Yanta shengjiao xu 雁塔聖教序) (【78†Figure 10】). This work commemorates the words and deeds of two Tang emperors honoring the Master of the Tripiṭaka, Xuanzang 玄奘 (602–664).
+L192: It is preserved in the original pair of limestone stelea in situ at the Great Goose Pagoda in Xi’an, and through ink rubbings taken from the stones during the Song dynasty (960–1279).
+L193: Chu’s handwriting is also reflected in many surviving seventh-century clay tablets with a twelve-character inscription in his style stamped on one side, testifying to donors’ and imperial merit-making.^{【79†19】} Schooling in this court-calligraphy style was clearly widespread since it was practised by Dunhuang’s professional scribes nearly 1500 kilometres (about 900 miles) distant from the Tang capital.
+L194: 【80†Image: Song-dynasty rubbing of calligraphy by Chu Suiliang, Tokyo National Museum†storage.googleapis.com】
+L195: 
+L196: Figure 10
+L197: Chu Suiliang (596–658). Calligraphy for the “Preface to the holy teachings at Great Goose Pagoda” (Yanta Shengjiao xu) by Emperor Tang Taizong, Song dynasty (960–1279) rubbing. Album, ink rubbing on paper, 24.5 × 14 cm (9 10/16 × 5 8/16 in.). Tokyo National Museum, TB-1363. With permission from the Integrated Collections Database of the National Museums, Japan <【81†https://colbase.nich.go.jp/collection_items/tnm/TB-1363?locale=zh†colbase.nich.go.jp】>.
+L198: The person who wrote the SAM fragment had sophisticated calligraphic skills: Strokes in each character are compositionally balanced with elements of the more complicated characters knitted together in asymmetry (【82†Figure 11】). We detect small finger and wrist movements in the finely flicking and turning brush tip. This liveliness is seen in the dots of xin 心. Horizontal strokes vary for visual interest, going from thin to thick and to thin again.
+L199: The corner turns are executed with drama and flair, yet with firm precision, for example in chang 常, and the writer masterfully maintains the same level of brush control even when the characters increase in number within columns and become smaller in size (【83†Figure 12】). Brush complexities like these are not semantically necessary; they enhance beauty rather than meaning.
+L200: More importantly, the calligraphy’s features—a supple brush tip, fluctuating stroke widths, sophisticated character structures—decidedly affiliate it with the court style of Chu Suiliang, which in turn creates a connection between the desert oasis of Dunhuang to the cosmopolitan Tang capital at Chang’an.
+L201: 【84†Image: Detail of the SAM Library Cave sutra manuscript fragment†storage.googleapis.com】
+L202: 
+L203: Figure 11
+L204: 
+L205: Detail of 【45†Figure 4】.
+L206: 
+L207: 【85†Image: Detail of the SAM Library Cave sutra manuscript fragment†storage.googleapis.com】
+L208: 
+L209: Figure 12
+L210: 
+L211: Detail of 【45†Figure 4】.
+L212: The same sutra in the British Library’s Stein Collection (Or.8210/S.1847) shows a different calligraphic style, one that appears to predate the SAM version. The character compositions are slightly squatter, the brushwork is plumper and less attenuated (eg. shi 十), and the flicking brush-tip complexity so prominent in the SAM fragment is not discernable (【86†Figure 13】).^{【87†20】}
+L213: 
+L214: 【88†Image: Detail of the British Library Buddhanāma-sūtra manuscript†storage.googleapis.com】
+L215: 
+L216: Figure 13
+--------------------------------------------------------------------------------
+File:Paul Pelliot examining manuscripts in Cave 17 at Mogao Caves in 1908.jpg - Wikimedia Commons (https://commons.wikimedia.org/wiki/File%3APaul_Pelliot_examining_manuscripts_in_Cave_17_at_Mogao_Caves_in_1908.jpg)
+citeturn142view1 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: click({"ref_id":"turn141view0","id":91}); Redirected to URL: https://commons.wikimedia.org/wiki/File:Paul_Pelliot_examining_manuscripts_in_Cave_17_at_Mogao_Caves_in_1908.jpg; Total lines: 278
+--------------------------------------------------------------------------------
+File:Aurel Stein’s 1907 view of Mogao Cave 16, with a portion.jpg - Wikimedia Commons (https://commons.wikimedia.org/wiki/File%3AAurel_Stein%E2%80%99s_1907_view_of_Mogao_Cave_16%2C_with_a_portion.jpg)
+citeturn142view2 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: click({"ref_id":"turn141view0","id":56}); Redirected to URL: https://commons.wikimedia.org/wiki/File:Aurel_Stein%E2%80%99s_1907_view_of_Mogao_Cave_16,_with_a_portion.jpg; Total lines: 242
+--------------------------------------------------------------------------------
+File:Dunhuang Cave 16.jpg - Wikimedia Commons (https://commons.wikimedia.org/wiki/File%3ADunhuang_Cave_16.jpg)
+citeturn142view3 [wordlim: 200] Crawled: 6 days ago; Content type: text/html; Source: click({"ref_id":"turn141view0","id":71}); Redirected to URL: https://commons.wikimedia.org/wiki/File:Dunhuang_Cave_16.jpg; Total lines: 287
+

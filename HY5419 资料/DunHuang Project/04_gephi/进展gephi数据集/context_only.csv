@@ -1,0 +1,3 @@
+﻿ContextId,Source,Target,Relationship,YearStart,YearEnd,SourceRef,Locator,MainGraphIncluded,Notes
+CTX001,N001,N002,custody_and_access_context,1900,1908,S01;S22,S01印刷821、825；S22印刷13,0,这里只列观察范围，不是保管关系起止；地点不是转出持有人。
+CTX002,N011,,administrative_order,1909,1910,S07;S11,S07印刷829–830；S11 PDF1–2,0,收令运输层级及具体交接未完整核实；不制造未知Target。

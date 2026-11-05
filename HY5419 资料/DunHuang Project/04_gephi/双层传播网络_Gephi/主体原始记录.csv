@@ -1,0 +1,16 @@
+﻿实体ID,中文名称,英文名称,节点类型,角色,别名,注意事项
+N001,藏经洞（第17窟）,Library Cave (Cave 17),SourceSite,来源地点；保管背景,Cave 17; Library Cave; Ch’ien-fo-tung; 藏经洞,来源地点不是上一任持有人；不进入主体交接主图。
+N002,王圆箓,Wang Yuanlu,Person,地方保管者；道士；修缮者,Wang Tao-shih; Wang Yüan-lu; 王圓籙; 王道士,仅表示来源描述的保管和交易角色，不裁定所有权。
+N004,蒋孝琬,Jiang Xiaowan,Person,翻译；谈判及搬运中介,Chiang Ssu-yeh; Jiang Shiye; 蔣孝琬; 蔣師爺,在事件参与图呈现；不能因搬运而推定个人保管权。
+N005,斯坦因,M. Aurel Stein,Person,考察队负责人；叙述者,Marc Aurel Stein; Aurel Stein; 斯坦因,个人与考察队是两类分析单位；个人角色不另算一笔取得。
+N006,斯坦因考察队,Stein expedition,Expedition,1907年取得与运输行动,Stein Central Asian Expedition,以行动组织作为接收主体；并非法律实体认定。
+N007,英国博物馆,British Museum,Institution,实物存放与整理地点,British Museum; 大英博物馆,历史存放不等于正式入藏；不把1973年后的British Library回填至1909年。
+N010,陕甘总督机构,Shaan-Gan Governor-General office,Government,1909样本的送出机构,陕甘总督; 陝甘總督,机构节点；具体承运人和王圆箓向该机构交出样本的环节未证实。
+N011,清学部,Qing Ministry of Education,Government,拨送与行政管理机构,学部; 學部; Ministry of Education,替代旧版抽象的清中央政府节点；命令与实物交接分别建模。
+N009,京师图书馆,Jingshi Library,Institution,历史接收机构,京師圖書館; Metropolitan Library; Imperial Library,沿用旧N009但落实为具体历史机构；现代国家图书馆名称只作沿革说明。
+N012,伯希和,Paul Pelliot,Person,选择与谈判者；考察队负责人,Paul Pelliot; 伯希和,个人角色不与考察队之间再生成一次取得。
+N013,伯希和考察队,Pelliot expedition,Expedition,1908年取得与带回行动,Mission Pelliot; Pelliot expedition,与斯坦因队使用一致的组织分析单位。
+N014,法国国家图书馆,Bibliothèque nationale (Paris),Institution,伯希和敦煌写本的接收机构,Bibliothèque Nationale; BnF; Bibliothèque nationale de France,原候选N014现有机构正文支持；不把卢浮宫接收艺术品混入写本主图。
+N015,Ibrahim Beg,Ibrahim Beg,Person,搬运参与者,Ibrahim Bég; Ibraham,只录原文姓名；国籍与生卒未核，不补写。
+N016,Tila Bai,Tila Bai,Person,搬运参与者,Tila; Tila Bai,只录原文姓名；身份细节未核。
+N017,Frederick Henry Andrews,Frederick Henry Andrews,Person,受India Office Library雇用的材料整理者,Fred Andrews,新增至此工作簿；依据S17 AAM/PDF14、16；对象范围待核，不修改旧Gephi实体表。

@@ -1,0 +1,175 @@
+{
+  "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_中文稿.docx",
+  "sha256": "1f194c317fad506ea2a2bf6b285a65ab59a0a6580afea15cde30fb2b716f80f8",
+  "backup": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/_修订记录/2026-11-04_第二轮批注修订/批注原稿备份.docx",
+  "workdir": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/_修订记录/2026-11-04_第二轮批注修订",
+  "parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "word/_rels/document.xml.rels",
+    "word/document.xml",
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/footer1.xml",
+    "word/comments.xml",
+    "word/media/image1.png",
+    "word/media/image2.png",
+    "word/theme/theme1.xml",
+    "word/settings.xml",
+    "word/styles.xml",
+    "word/webSettings.xml",
+    "word/commentsExtended.xml",
+    "word/commentsIds.xml",
+    "word/commentsExtensible.xml",
+    "word/fontTable.xml",
+    "word/people.xml",
+    "docProps/core.xml",
+    "docProps/app.xml",
+    "customXml/itemProps1.xml",
+    "customXml/item1.xml",
+    "customXml/_rels/item1.xml.rels",
+    "word/numbering.xml"
+  ],
+  "body_paragraphs": 72,
+  "tables": 0,
+  "drawings": 2,
+  "revisions": 0,
+  "comments": [
+    {
+      "id": "0",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:52:00Z",
+      "text": "初衷是服务于展示成果，但是我在建立完网页后，邀请多位使用者使用体验，逐渐增添了想将这个网页作为一个知识传播平台的想法",
+      "anchored_paragraphs": [
+        {
+          "index": 3,
+          "text": "本文介绍这个项目的形成与修改，重点说明我为什么选择网络和地图、怎样将文献整理成可以使用的数据，以及这些成果如何进入网页。网页最初服务于课堂成果展示，后来经过多位读者试用，逐渐转向让不熟悉敦煌文献的人也能阅读和查找资料。我对数字史的认识，主要体现在这些具体选择中：一条线应该表示什么，时间和地点能确定到哪一步，怎样让读者理解图形并找到依据。这些问题也构成了我评价项目的标准。"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:53:00Z",
+      "text": "这句话太生硬，直接说使用Excel整理表格会更好",
+      "anchored_paragraphs": [
+        {
+          "index": 7,
+          "text": "我把Excel作为史料阅读与Gephi之间的整理环节。人物、机构、事件和文献对象分别编号，关系表记录起点、终点、角色和证据编号，再与来源表对应。姓名异写需要统一，同一个人在不同事件中的身份则需要分别保留。将一项记录放入Source和Target字段之前，我必须判断箭头说明的是文献转交、参加活动，还是形成某种记录。这个过程比调整颜色更费心，却决定了网络是否能够被解释。"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:54:00Z",
+      "text": "但是斯坦因的一些文献传播路径在最初是被隐藏的，这在我的文献综述个人思考中提到过，这是我在阅读资料时自己的发现",
+      "anchored_paragraphs": [
+        {
+          "index": 8,
+          "text": "斯坦因在网络中的连接较多，但其报告较容易取得、记述也较详细，能够拆分的活动自然更多。一些官员、翻译和运输人员只在个别记述中出现。因此，我把连接当作继续查阅的线索，保留来源范围，不单凭图上位置确认谁具有更大的历史权力。"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:56:00Z",
+      "text": "其实我觉得这句话不用说，因为我能查找资料的平台和网站是比较有限的",
+      "anchored_paragraphs": [
+        {
+          "index": 22,
+          "text": "最初搜集文献时，我比较容易被题目相关、能够下载的材料吸引。后来发现，一般性的敦煌介绍虽然有助于了解背景，却未必能回答谁在什么时间做了什么。我开始按关系需要寻找能够定位页码、文书和对象的研究，通过NUS入口取得部分论文和章节，再与已有中文研究、考察报告及机构资料对照。筛选标准逐渐从“谈到敦煌”变为“能支持哪一项记录”。据此整理的表格既服务于导入，也保留我作出判断时使用的材料。"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:56:00Z",
+      "text": "这里可以采取APA英文文献引用法",
+      "anchored_paragraphs": [
+        {
+          "index": 25,
+          "text": "某个环节暂时缺少证据时，我现在会写明缺什么、目前的依据是什么，而不是生成一个猜测节点。潘晟对早期流散史事的考订，也使我注意到行动发生、消息被知晓和后来记述并不处于同一时间（潘晟，2025）。如果把它们压成同一个日期，网络和地图就会共同放大误差。来源较少的人物，不会因为没有进入图中就失去历史作用；图的边界应当说明我整理到了哪里。"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:57:00Z",
+      "text": "这也是professor对我项目的建议",
+      "anchored_paragraphs": [
+        {
+          "index": 30,
+          "text": "加入QGIS，是因为Gephi能够呈现角色和联系，却不能直接表现实际空间与路线顺序。Yihan展示卡伦设置变化的地图时，原来抽象的地域问题变得清晰；老师对路线图的建议，则让我考虑自己的文献流转能否获得类似帮助。我希望读者能够直观看到文献在什么时间经过哪些地方，同时与网络中的人物和活动对照。QGIS因此补充了项目原来缺少的空间表达，也让我必须重新检查地点与事件之间的对应。"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:58:00Z",
+      "text": "其实是storymap这个工具给我的启发，不需要再额外点出这个具体的网站",
+      "anchored_paragraphs": [
+        {
+          "index": 42,
+          "text": "Storying on the Coquille River给了我组织页面的参照。我借鉴它的章节、图文节奏和滚动阅读思路，而没有直接把项目搬入StoryMaps平台。网页围绕文献流转、知识传播、今日馆藏逐步展开，再通向来源和讨论。这个顺序让读者先认识对象去了哪里，再了解哪些人参与检查和整理，最后继续查具体收藏。它为地图和网络提供语境，也避免首页堆满软件和文件名称。"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T01:02:00Z",
+      "text": "我觉得这部分内容可以说明我建立双语网站、上传在github的初衷，而且也可以指出，如果使用其他域名，发布成本和维护成本都较高，我自己修改操作也不方便",
+      "anchored_paragraphs": [
+        {
+          "index": 53,
+          "text": "公开访问也改变了我对“完成”的理解。家人最初在国内打不开网站，说明已经上线并不等于实际可访问。调整资源加载与发布方式后，家人反馈网页、地图与网络均能打开；但这次测试不能代表所有网络环境。中英文切换与离线文件，也是在设备、语言和网络条件不同的情况下扩大使用机会的尝试。"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T01:01:00Z",
+      "text": "不需要重新介绍讨论区的具体设定，我已经把这个网站分享到课程讨论平台上了，老师可以自行查看",
+      "anchored_paragraphs": [
+        {
+          "index": 54,
+          "text": "讨论区允许读者用昵称留言、查看建议并回复，且不限制发言语言。设置它，是因为试用反馈已经实际改变了网页：有些问题涉及字号、布局和箭头，有些则促使我增加保存现状等内容。我希望网站公开以后仍能收到这样的意见。不过，留言区只是提供交流的入口，不能据此声称公众已经共同完成历史解释。读者提供的新线索仍需核查，不能直接成为网络关系；公开发言也需要管理，并避免收集和展示不必要的个人信息。"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T01:00:00Z",
+      "text": "我的项目资料来源有限，这个网站更偏向于一个知识初步获取、链接的平台",
+      "anchored_paragraphs": [
+        {
+          "index": 55,
+          "text": "尚未解决的问题与下一步"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "author": "Wang Xiwen",
+      "date": "2026-11-04T00:59:00Z",
+      "text": "这一段总结过于生硬",
+      "anchored_paragraphs": [
+        {
+          "index": 59,
+          "text": "这一学期的数字史学习，使我从尝试使用软件，走到了思考资料怎样被整理、图形怎样表达问题、读者怎样理解成果。敦煌项目把这些学习连接成了一次完整实践：Gephi帮助我梳理传播者及其参与关系，QGIS把时间和路线放入空间，网页则让这些成果能够被不使用专业软件的人阅读。我的判断仍需要改进，但它已经落实在姓名合并、单位选择、未画出的线和来源说明之中。Dunhuang, in Motion既是本学期的学习成果，也为我今后继续核查材料、完善解释和接收读者意见保留了一个具体起点。"
+        }
+      ]
+    }
+  ],
+  "media_hashes": {
+    "word/media/image1.png": "ae2a34b8fea6c96dd52929ed38b4f88c50a6b16f32001248c55a75e1891ca2c5",
+    "word/media/image2.png": "b7db708b97f90f246b5e994360f97ecd4f26ad64cf3411cfe8424ef283c0b9ed"
+  }
+}

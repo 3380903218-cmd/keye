@@ -1,0 +1,53 @@
+﻿Id,LabelZh,FullLabelZh,LabelEn,FullLabelEn,NodeType
+B0001,B0001 斯坦因首次协议取得所涉材料,斯坦因首次协议取得所涉材料,B0001 First acquisition batch,Materials associated with Stein's first acquisition agreement,Collection
+B0002,B0002 斯坦因莫高窟追加取得所涉材料,斯坦因莫高窟追加取得所涉材料,B0002 Additional Mogao batch,Materials associated with Stein's additional acquisition at Mogao,Collection
+B0003,B0003 安西追加取得批次所涉材料,安西追加取得批次所涉材料,B0003 Anxi batch,Materials associated with the additional acquisition batch received at Anxi,Collection
+B0004,B0004 斯坦因材料存放英国博物馆所涉材料,斯坦因材料存放英国博物馆所涉材料,B0004 BM deposit batch,Materials associated with Stein's physical deposit at the British Museum,Collection
+B0005,B0005 伯希和从王圆箓处取得写本所涉材料,伯希和从王圆箓处取得写本所涉材料,B0005 Pelliot acquisition batch,Manuscripts acquired by the Pelliot expedition from Wang Yuanlu,Collection
+B0006,B0006 京师图书馆取运主批十八箱所涉材料,京师图书馆取运主批十八箱所涉材料,B0006 Jingshi main batch,Materials in the eighteen-case main batch collected for Jingshi Library,Collection
+B0007,B0007 京师图书馆接收续交批次所涉材料,京师图书馆接收续交批次所涉材料,B0007 Jingshi supplementary batch,Materials in the supplementary batch received by Jingshi Library,Collection
+B0008,B0008 1908年和田列单、编号与索引所涉材…,1908年和田列单、编号与索引所涉材料,B0008 Khotan working set,"Materials associated with listing, numbering and indexing in Khotan in 1908",Collection
+B0009,B0009 1909年抵英后由Andrews整理…,1909年抵英后由Andrews整理的Stein材料,B0009 Andrews working set,Stein materials handled by Andrews after their arrival in Britain in 1909; scope unresolved,Collection
+B0010,B0010 1910年伯希和在伦敦检查的Stei…,1910年伯希和在伦敦检查的Stein中国写本,B0010 London inspection set,Chinese manuscripts from the Stein collection inspected by Pelliot in London in 1910,Collection
+B0011,B0011 1910年秋送巴黎编目的first …,1910年秋送巴黎编目的first instalment,B0011 Paris catalogue consignment,First instalment sent to Paris for cataloguing in autumn 1910; members and receipt unresolved,Collection
+B0012,B0012 1909年伯希和在北京出示的少量写本,1909年伯希和在北京出示的少量写本,B0012 Beijing display set,Small selection of manuscripts shown by Pelliot in Beijing in 1909,Collection
+DH001,DH001 斯坦因首次协议取得,DH001 斯坦因首次协议取得,DH001 First acquisition,Stein's first acquisition agreement,Event
+DH002,DH002 斯坦因莫高窟追加取得,DH002 斯坦因莫高窟追加取得,DH002 Additional Mogao acquisition,Stein's additional acquisition at Mogao,Event
+DH003,DH003 安西追加取得批次,DH003 安西追加取得批次,DH003 Anxi acquisition batch,Additional acquisition batch received at Anxi,Event
+DH004,DH004 斯坦因材料存放英国博物馆,DH004 斯坦因材料存放英国博物馆,DH004 British Museum deposit,Physical deposit of Stein materials at the British Museum; not formal accession,Event
+DH005,DH005 伯希和从王圆箓处取得写本,DH005 伯希和从王圆箓处取得写本,DH005 Pelliot acquisition,Pelliot expedition acquisition of manuscripts from Wang Yuanlu,Event
+DH006,DH006 伯希和写本抵巴黎并由国立图书馆接收,DH006 伯希和写本抵巴黎并由国立图书馆接收,DH006 Paris library receipt,Arrival of Pelliot manuscripts in Paris and receipt by the National Library,Event
+DH007,DH007 陕甘总督送样本至学部,DH007 陕甘总督送样本至学部,DH007 Sample submission,Submission of a sample scroll by the Shaan-Gan Governor-General office to the Qing Ministry of Education,Event
+DH008,DH008 京师图书馆取运主批十八箱,DH008 京师图书馆取运主批十八箱,DH008 Jingshi main-batch receipt,Collection of the eighteen-case main batch by Jingshi Library,Event
+DH009,DH009 京师图书馆接收续交批次,DH009 京师图书馆接收续交批次,DH009 Jingshi supplementary receipt,Receipt of the supplementary batch by Jingshi Library,Event
+KE001,KE001 初步列单,KE001 初步列单,KE001 Initial listing,Initial listing of manuscripts,Event
+KE002,[待核] KE002 手稿编号（归属推定）,[待核] KE002 手稿编号（归属推定）,[Review] KE002 Manuscript numbering,"Manuscript numbering; attribution inferred by the researcher, requiring verification",Event
+KE003,KE003 编制索引卡清单,KE003 编制索引卡清单,KE003 Index-slip compilation,Compilation of manuscript index slips,Event
+KE004,KE004 笔记记录,KE004 笔记记录,KE004 Notebook recording,Recording a manuscript in a notebook,Event
+KE005,[待核] KE005 拆箱整理与列单,[待核] KE005 拆箱整理与列单,[Review] KE005 Unpacking and listing,"Unpacking, sorting and listing Stein materials; scope requiring verification",Event
+KE006,KE006 检查写本,KE006 检查写本,KE006 Manuscript inspection,Inspection of manuscripts by Pelliot,Event
+KE007,KE007 形成检查备忘录,KE007 形成检查备忘录,KE007 Inspection memorandum,Preparation of an inspection memorandum,Event
+KE008,KE008 编目意向（有条件）,KE008 编目意向（有条件）,KE008 Cataloguing (intention),Conditional expression of willingness to catalogue; not completed cataloguing,Event
+KE009,KE009 展示／查看,KE009 展示／查看,KE009 Display and examination,Display and examination of manuscripts,Event
+KE010,KE010 摄影／复制,KE010 摄影／复制,KE010 Photography,Photography of manuscripts; individual images and photographers unresolved,Event
+N002,王圆箓,王圆箓,Wang Yuanlu,Wang Yuanlu,Person
+N004,蒋孝琬,蒋孝琬,Jiang Xiaowan,Jiang Xiaowan,Person
+N005,斯坦因,斯坦因,Aurel Stein,Aurel Stein,Person
+N006,斯坦因考察队,斯坦因考察队,Stein expedition,Stein expedition,Expedition
+N007,英国博物馆,英国博物馆,British Museum,British Museum,Institution
+N009,京师图书馆,京师图书馆,Jingshi Library,"Jingshi Library (Capital Library, Beijing)",Institution
+N010,陕甘总督机构,陕甘总督机构,Shaan-Gan Governor-General,Office of the Governor-General of Shaanxi and Gansu,Government
+N011,清学部,清学部,Qing Ministry of Education,Qing Ministry of Education (Xuebu),Government
+N012,伯希和,伯希和,Paul Pelliot,Paul Pelliot,Person
+N013,伯希和考察队,伯希和考察队,Pelliot expedition,Pelliot expedition,Expedition
+N014,法国国家图书馆,法国国家图书馆,"National Library, Paris","National Library, Paris (Bibliotheque nationale)",Institution
+N015,Ibrahim Beg,Ibrahim Beg,Ibrahim Beg,Ibrahim Beg,Person
+N016,Tila Bai,Tila Bai,Tila Bai,Tila Bai,Person
+N017,Frederick Henry Andrews,Frederick Henry Andrews,F. H. Andrews,Frederick Henry Andrews,Person
+O0001,O0001 S03所举Or.8210/S.316…,S03所举Or.8210/S.316写本,O0001 Or.8210/S.316,Manuscript Or.8210/S.316 discussed in source S03,Object
+O0002,O0002 1909年送呈样本卷（S19鉴定线索…,1909年送呈样本卷（S19鉴定线索）,O0002 Sample scroll,"Sample scroll submitted in 1909; identification suggested by S19, not independently verified",Object
+PE001,[待核] PE001 为编目目的临时送寄,[待核] PE001 为编目目的临时送寄,[Review] PE001 Catalogue consignment,"Temporary dispatch of manuscripts for cataloguing; sender, receipt and return requiring verification",Event
+R0001,R0001 写本照片组（逐张待识别）,写本照片组（逐张待识别）,R0001 Manuscript photographs,Group of manuscript photographs reported in the sources; individual images unidentified,Representation
+W001,W001 伯希和关于Stein中国写本检查的m…,伯希和关于Stein中国写本检查的memorandum（工作命名）,W001 Inspection memorandum,Pelliot's memorandum on his inspection of Stein's Chinese manuscripts (working title),Work
+W002,W002 蒋孝琬所制手稿索引卡清单（工作命名）,蒋孝琬所制手稿索引卡清单（工作命名）,W002 Manuscript index slips,Manuscript index slips prepared by Jiang Xiaowan (working title; original not located),Work
+W003,W003 Stein笔记MSS Stein27…,Stein笔记MSS Stein272/59,W003 Stein notebook,Stein notebook MSS Stein 272/59,Work

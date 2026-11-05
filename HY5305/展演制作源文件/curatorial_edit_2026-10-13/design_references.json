@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-13",
+  "approach": "Original editable composition based on visual inspection of public template previews; no template assets imported",
+  "references": [
+    {
+      "title": "Art Exhibition — Envato / SlideFactory",
+      "url": "https://elements.envato.com/art-exhibition-google-slides-PHLAGPK",
+      "used": "Detail crops and varied image-to-text hierarchy",
+      "not_used": "Stock artwork, layouts, logos and template file"
+    },
+    {
+      "title": "Museum Gallery PowerPoint — Envato / Yanstd",
+      "url": "https://elements.envato.com/museum-gallery-powerpoint-DJJZ8SJ",
+      "used": "Comparison of collection displays and typographic levels"
+    },
+    {
+      "title": "Art Museum Theme — Slidesgo",
+      "url": "https://slidesgo.com/theme/art-museum-theme",
+      "used": "Comparison of large image-led opening and light/dark page rhythm"
+    }
+  ],
+  "light_cover_update": {
+    "date": "2026-10-14",
+    "visual_references_inspected": [
+      {
+        "title": "Art Gallery — Envato",
+        "url": "https://elements.envato.com/art-gallery-VYYQALT",
+        "used": "Light editorial backgrounds, serif typography, artwork margins"
+      },
+      {
+        "title": "Art Gallery Presentation — Envato",
+        "url": "https://elements.envato.com/art-gallery-presentation-YJP5Z8K",
+        "used": "Comparison of bright presentation layouts"
+      }
+    ],
+    "palette": {
+      "porcelain_white": "#FAFAF7",
+      "light_stone": "#E8E6E1",
+      "warm_ink": "#3E3731",
+      "terracotta": "#8A5345"
+    },
+    "assets_imported_from_templates": false
+  }
+}

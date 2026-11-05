@@ -1,0 +1,1518 @@
+ 545 
+NEW WINE FRoM AN old BoTTlE: REMAINING 
+”THE dUNHUANG lIBRARY CAVE” THRoUGH THE 
+loNG TWENTIETH CENTURY 
+Zhenru Zhou
+The famous Dunhuang library cave epitomizes not only the adaptive reuse of 
+caves in late-medieval China, but also, as I would argue, the epistemological shifts 
+from religious artifacts to works of art and cultural heritage in the long twen-
+tieth century. Multiple interventions in the library cave were conducted by the 
+local clergy and laity who aimed to revitalize the sacred site, by explorers who 
+searched for antiquities, by artists who looked for lost art, and by researchers who 
+retrospectively narrated the history of the legendary cave. Despite their different 
+goals and means, all claimed to have restored the cave and revealed some truths 
+about it. As byproducts of the restorations, the inscribed objects were mobilized, 
+rewritten, added, and made to refer and respond to one another. By analyzing the 
+inscriptions and the inscription-bearing objects, the study shows the triangulation 
+of international, national, and local interventions that have been continuously 
+reshaping the library cave. 
+Keywords: Dunhuang Library Cave, Mogao Cave 17, restoration, inscriptional 
+space, Twentieth century 
+1. Introduction 
+The Dunhuang library cave at Mogao near Dunhuang in northwest China is a 
+veritable Pandora’s box in the field of Silk Road studies, a container whose open-
+ing by curious hands released into the world twelve decades of scholastic dispute 
+and discord. One of the most curious features of the library cave is its changing 
+functionality. Constructed originally as a space for pragmatic functions (e.g., 
+dwelling, food storage, or meditation) and then adapted into a memorial chapel 
+in the second half of the ninth century, the cave was eventually repurposed as a 
+DOI: 10.5507/ff.23.24463476.19
+
+546 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+depository for manuscript scrolls and artifacts and then concealed in the eleventh 
+century for unknown reasons (Shih 1962a; Liu 2000, 30; Rong 2002, 15; Sha 2006, 
+70). On the one hand, the nature of the cave and the date and the reason for its 
+concealment have been fiercely debated and no consensus have been reached 
+(e.g., Pelliot 1908; Stein 1921, vol. 2, 807–830; Ma 1978; Fang 1991; Rong 1997; Dohi 
+1996; Sha 2006; Ueyama 2002; Imaeda 2008). On the other hand, only very few 
+have questioned the seemingly unmediated integrity of the cave's art (Su 1979; 
+Wang 2007, 140–145; Wang 2020, 172–199), and their doubts have hardly been 
+taken seriously (Li 1981, 76–79; Rong 1996, 280; Sha 2017, 259–280). 
+Rather than seeking to reconstruct the ”original” cave as many have attempted, 
+this study considers the process of the cave’s becoming, its continuous evolution 
+and reconceptualization. It discusses how the cave has been restored to sustain a 
+variety of cultural imaginations, including as a time capsule of Medieval China and 
+the Silk Road, a testimony to ancient Chinese art accomplishments, a monument 
+of Dunhuang history, and a demonstrative work of cultural heritage management. 
+The transformation of the library cave throughout the twentieth century was ac-
+companied by the reconstruction and renovation of the built environment to 
+which it belongs. Three stelae that document the construction and renovation of 
+the site, two stelae that express the authoritative recognition by the country, and 
+four visitors’ graffiti were either added or modified during the modern interven-
+tions. These stelae and inscriptions, some of which are hitherto unstudied, are key 
+to the tensions that have redefined the cave’s spaces and conceptual framing. By 
+analyzing the inscriptions and the inscription-bearing objects, this study shows 
+the triangulation of international, national, and local interventions that have re-
+shaped the library cave and the built environment around it. The library cave now 
+exceeds the cave space and has become an agglomeration of images, buildings, 
+and cultural memory.
+2. overview: space, timeline, and inscriptions of the library cave
+Around the year 1900, a muraled cave cracked open, revealing a long-forgotten 
+hoard of ancient scrolls (Figure 1). The retouched photograph has become a classic 
+image of the cave in the eyes of modern beholders. Of the nearly five hundred 
+decorated caves constructed from the fifth to the fourteenth centuries, that con-
+stitute the Mogao complex, the Dunhuang library cave, as it came to be called, is 
+one of the most important. A small cave chapel sealed for almost a millennium, 
+its accidental discovery gained worldwide attention for its invaluable deposit of 
+Medieval Buddhist scriptures and artifacts. The deposit that was globally dissem-
+inated gave rise to academic studies in a wide variety of fields, including history, 
+art history, and religious studies that together became loosely united under the 
+
+ 547 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+umbrella term Dunhuang studies (Chinese 敦煌學 Dunhuang xue; Japanese Tonkō 
+gaku) (Ishihama 1925; Chen [1930] 1980, 236; Rong 2013, 1–5). As the largest de -
+posit of documents and artifacts discovered anywhere along the Silk Road, the 
+cave has been praised as ”the time capsule of Silk Road history” (Hansen 2012, 167).
+ 
+Figure 1: A number of manuscript scrolls from Mogao Cave 17 bundled on the floor of 
+the corridor of Cave 16 as seen by Aurel Stein, 1907
+ (Source: Stein 1921, vol. 2, pl. 200) 
+The library cave has almost never been, however, a fixed entity. The shape of the 
+cave seems normal and modest; its square chamber, with a truncated pyramidal 
+ceiling, is no larger than 2.75 m (l) x 2.84 m (w) x 2.35–3.00 m (h) (Shih 1996, vol. 
+2, pl. 125; Ma 1978, 22–23). Yet several features – the mural painting on the north 
+wall, a platform against the north (rear) wall, and a shallow niche in the center 
+of the west wall – distinguish the library cave from typical storage rooms and 
+hint at its functional change. The art-historical problems of the cave emerged 
+with early investigators and were furthered by Chinese artists who came with 
+the hope of rediscovering it. Leading the archaeological investigation of the cave 
+in the mid-twentieth century, the latter altered the cave’s contents, rearranged 
+its interior features, and redefined its functional attributes. Although when dis-
+covered, it was a manuscript-filled cave (Figure 2), when the emptied room was 
+
+548 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+restored in 1965, it was envisioned as a late-Tang (851–907) memorial cave chapel 
+built for a Buddhist monk. In this new iteration, a reliquary statue representing an 
+aged monk sitting in meditation was set on a rock-cut platform against the north 
+(rear) wall that bears the mural painting of a girl and a nun in attendance beside 
+two trees (Figure 3). On the west (left) wall is embedded a stone stele recording 
+the appointment decree of 洪辯 (Hongbian, dated 862), the monk who is believed 
+to be represented by the statue. Henceforth, the modified cave gained another 
+identity—the ”shadow cave of Hongbian” (洪辯影窟 Hongbian yingku) (Ma 1978; 
+Imaeda 2008, 86–91; Han 2007; Sun 2015).  Because no single name adequately 
+conveys the complex nature of the cave, it is often referred to simply as Mogao 
+Cave 17, a nondescript designation that offers no hint of the cave’s archaeological 
+trove or its many incarnations. 
+ 
+Figure 2: French Sinologist Paul Pelliot reading under candlelight in the ”niche 
+containing manuscripts,” 1908
+ (Source: Pelliot 1914–1924, vol. 6, pl. 368) 
+
+ 549 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 3: Current photo inside Mogao Cave 17, showing the north and west walls; 
+photo by Wu Jian 
+(Source: Courtesy of Dunhuang Academy) 
+A contextualized reading of Cave 17’s becoming must be based on the building 
+history of its immediate built environment. Architecturally speaking, Cave 17 be-
+longs to an intricate set of cave spaces that can be described at three scales: cave 
+suite, vertical cave group and cave-cloister complex. As an auxiliary cave, Cave 
+17 is cut into the north corridor wall of Cave 16, the largest hall cave in the Mogao 
+cave complex. The cave suite comprising Caves 16 and 17 is topped by two small-
+er caves, numbered 365 and 366, one above another, forming a three-level cave 
+group, modernly called the three-story pavilion (三層樓 Sanceng lou, hereafter the 
+pavilion) (Ma 1996, 98–99). The architectural compound has been extended at the 
+beginning of the twentieth century; a two-courtyard cloister was built in front 
+of the pavilion. The major activities that intervened this cave-cloister complex 
+throughout the twentieth century are listed below:
+
+550 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+Table 1: Major activities related to the cave-cloister complex  
+1900 Daoist priest Wang Yuanlu (王圓籙, 1849–1931) and coworker Yang (楊) accident-
+ally discovered Mogao Cave 17.
+1906 The refurbishment of the three-story pavilion, commissioned by Priest Wang, was 
+completed. 
+1907 Hungarian-born British explorer and archaeologist Aurel M. Stein (1862–1943) 
+examined Cave 17.
+1908 French Sinologist Paul Pelliot (1878–1945) examined Cave 17. Priest Wang com-
+pleted the construction of the cloister.
+1941 Chinese painter Zhang Daqian (張大千, 1899–1983) wrote a commentary in Cave 17.
+1945 Chinese painter Pan Jiezi (潘絜茲, 1915–2002) wrote a response to Zhang’s com-
+mentary in Cave 17.
+1965 Chang Shuhong (常書鴻, 1904–94), the first director of the Dunhuang Art Institute, 
+and coworkers moved a stele and a monk reliquary statue to Cave 17.
+2000 Dunhuang Academy repurposed the cloister built by Wang as an exhibition hall 
+about the library cave. 
+Source: Author 
+In particular, the restorational practices in the twentieth century around Cave 
+17, the pavilion, and the cloister resulted in the production or relocation of seven 
+inscribed objects and, accordingly, the inscriptional spaces for them. These in-
+scriptions, made by various historical subjects, are indexes of the changing status 
+of the library cave. The inscribed objects are as follows: 
+1. Hongbian’s appointment decree stele dated to the Dazhong era (hereafter, 
+the Dazhong stele), on the back of which Chang Shuhong added an in-
+scription in 1965.
+2. Fragments of a stele recording Wu Sengtong’s patronage of Cave 365 dated 
+to the Tibetan period (781–847), known as the Wu Sengtong stele or the 
+Tibetan stele. 
+3. A stele recording Priest Wang’s renovation of the pavilion, dated 1906.
+4. Two Tibetan inscriptions at the entrance of Cave 17, likely written before 
+its concealment.
+5. Two visitor’s inscriptions in Cave 17 by, respectively, Zhang Daqian in 1941 
+and Pan Jiezhi in 1945. 
+6. An inscribed rock placed in the front courtyard of the cloister during a 
+renovation in 2000.
+7. Another stele recording the Dunhuang Academy’s renovation of the 
+cloister in 2000 (Figure 4). 
+
+ 551 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 4: Location of the stelae and inscriptions and the change in their placement 
+(Source: Drawing by the author based on Shih 1996, 3, fig. 125)
+These inscriptions are located within Cave 17, immediately outside it, and in or 
+outside the cloister, creating the ”aura” of the cave in the cave-cloister compound. 1 
+The stelae present the successive ”authorship” and historical reception of the cave 
+group during the longue durée, while the visitors’ inscriptions in Cave 17 and 
+the inscribed stones outside the pavilion reveal the site’s transformation. 2 These 
+objects and their spaces constitute the focus of this study, which addresses three 
+ 1 My use of ”aura” follows Walter Benjamin’s (2004, 251–283) conception of the term, which 
+is the effect of a work of art fully present in space and time.
+ 2 this study uses ”authorship” inclusively to signify the fact of being influential in the production 
+of an artifact at any point in its life cycle. Here authorship is not an exclusive character of 
+the cave owner, because the design and construction of a cave most likely involve multiple 
+participants and the renovation and maintenance of a cave inevitably project the vision of 
+the renovator and keeper onto the initial design. therefore, the honorary owner, the actual 
+maker, the renovator, and even the keeper may claim partial authorship of a cave on a case-
+by-case basis. For an inspiring, inclusive conception of authorship in Medieval Chinese art. 
+For more information see Wu (2022, 243–247).
+
+552 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+related questions: What events sequentially directed these discourses and con-
+ceptual shifts? What historical trends were reflected by the seemingly random 
+events? If the library cave is a modern construct, how is the process indicated by 
+material traces? Through reading the inscriptions and interpreting the visual and 
+spatial properties of the inscription-bearing objects, this study will show that the 
+modern conception of the library cave is not just built on the dissemination and 
+restoration of artifacts found in the cave but also concerns the transformation 
+of the pavilion into a historical monument and the cloister into a picture gallery.
+3. Renovation Activities as Religious Piety, 1900–06
+The reopening of Cave 17 was a story that many have reconstructed based on 
+hearsay and scarce textual records. Despite variations in the details, it is generally 
+accepted that on 22 June 1900, the Daoist priest Wang Yuanlu and a coworker by 
+the surname Yang unexpectedly discovered an auxiliary cave behind a cracked 
+mural wall when they were cleaning the sand from the corridor of Cave 16 
+(Xie 1949, 3; Rong 2013, 81–84).  Priest Wang, despite being illiterate, was aston-
+ished by the contents that filled the cave, which included a stele dated to the fifth 
+year of Dazhong (大中, 851 CE) of the Tang dynasty (618–907 CE). 
+Ink rubbings of the stele began to be taken immediately after the cave’s open-
+ing whereas the stele was moved from inside the cave to the corridor outside 
+for easier viewing. Among the earliest rubbings of the Dazhong stele and the 
+fragmented Wu Sengtong stele were those acquired in 1903 by official-scholar 
+Ye Changchi (葉昌熾, 1849–1917) through an understrapper, Wang Zonghan ( 汪
+宗翰, ca. 1890–1909), who was the magistrate of Dunhuang County in 1902–6 
+(Ye 1909, 89). The rubbings were disseminated to testify to the miraculous nature 
+of the cave, although the cave’s historical value was not yet fully recognized.
+Through fundraising in the local Buddhist communities, Priest Wang was 
+able to refurbish the main cave and neighboring caves by 1906 and reconstruct 
+a three-story timber façade that covers the cave group to which Cave 17 belongs. 
+The three-story porch turned the ”three levels of caves” into a ”three-story pavil-
+ion” (DHSZ 1994, 658–659).  In addition, with the money paid by Stein and Pel-
+liot for their illicit acquisitions of the Dunhuang documents, Priest Wang and 
+two disciples were able to complete the construction of the cloister in May 1908 
+(Sha 2000). The preparatory work for the former construction conditioned the 
+discovery of the hidden hoard, and the discovery in return stimulated and con-
+tributed to the construction of both structures.
+While modern scholarship mainly focuses on Wang’s roles in discovering 
+the library cave, the contemporary local reception reveals another dimension of 
+Wang’s religious piety. Like many cave patrons in both ancient and modern times, 
+
+ 553 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+Priest Wang had a commemorative stele erected in the renovated caves. At the 
+completion of the renovation in 1906, the Stele Recording the Merit of Renovating 
+the Three-Story Pavilion at the Thousand-Buddha Caves (重修千佛洞三層樓功德碑
+記 Chongxiu qianfo dong sanceng lou gongde bei ji), whose text was compiled by 
+a Dunhuang local gentlemen, Guo Lin (郭璘), was added to the corridor of Cave 
+16 where the Dazhong stele had been relocated. The text narrates the recent local 
+gentry’s effort to revive the abandoned historical site and Priest Wang’s – an out-
+sider – pious work at the northern part of the Mogao caves during which he found 
+the “sub-cave”. It summarizes Wang’s merit as follows: 
+Afterward, [Wang] Yuanlu measured the Sutra Storing Buddha Niche and 
+constructed the Three-Story Pavilion. Following Dai Fengyu’s call, he 
+revived [the northern Buddhist caves]. The appearance of the temples is 
+refreshed and restored (DHSZ 1994, 658–659). 3
+The merit record was inscribed on a large wooden stele measuring 2.3 × 0.89 m, 
+which has been attached to the south wall of the corridor of Cave 16 since 1906. 
+Placed in the middle of the wall, the 1906 stele appears to the east side of the 
+smaller Dazhong stele, which measures 1.49 × 0.66 m. The formal juxtaposition of 
+the contemporary stele and the Dazhong stele is a presentation of Wang and his 
+peers’ continuing practice of ”reviving the abandoned” (廢者復興 feizhe fuxing), a 
+thousand-year tradition underlying the survival of the cave complex. 
+Following the reopening of Cave 17 and the relocation of the deposited goods, 
+the placement of the renovation stele and the displacement of the Dazhong stele 
+extended the aura of Cave 17.  4 The stelae activated a spatial composition of the 
+inscribed monument – threshold – main chamber. This composition echoes that 
+of the cave group. Two fragments of the Wu Sengtong stele were likely surfaced 
+during Priest Wang’s renovation projects and placed on a pedestal in the porch of 
+Cave 16 for public viewing and ink rubbing making. The fragments were placed 
+in the porch to look at before entering the corridor and the main chamber (Fig-
+ure 5). 5 Despite the fragmented status, the text of the stele has been transcribed 
+and preserved in the library cave and numbered as P. 4640 (Fujieda 1964, 92–98; 
+Zheng and Zheng 2019, 273–291), and thereby making it possible for the present 
+author to make a theoretical reconstruction of the stele (Figure 6). By convention 
+ 3 original text: ”已園祿測度藏經佛龕，結造三層樓，仍屬戴君奉鈺提倡而振作之，廟貌煥乎維新.”
+ 4 For the relocation and dissemination of the Dunhuang manuscripts and artifacts, see Wang 
+(2020, 56–75) and rong (2013, 84–101).
+ 5 Chinese archaeologist Chen Wanli encountered the stele fragments at the Mogao caves 
+in 1924. in addition, Japanese scholars ishihama Juntaro and Fujieda Akira saw the stele in 
+Dunhuang County school in the early 1960s. Afterwards, the location of the stele becomes 
+a mystery.
+
+554 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+since the Tang period (618–907), a stele commemorating the cave construction 
+or renovation was to be placed in the antechamber of a cave, reminding visitors 
+before they passed through the corridor to the main chamber of the history of the 
+Mogao caves and the merit of its patrons. 6 In this special case, the Dazhong stele 
+and the 1906 stele diagonally face the entrance to Cave 17, adding a new function 
+to the corridor of Cave 16, an inscription-filled space for displaying the contem-
+porary and past stories of the sutra-storing cave. 
+Two historical photographs record the visual presentation of the stelae as well 
+as the modern receptions of the stelae. The early visual representations of the 
+Dazhong stele include a rubbing collected in 1907 by Aurel Stein (Stein 1921, vol. 4, 
+pl. 175) and an image taken in 1908 by Pelliot’s photographer, Charles Nouette 
+(1869–1910) (Figure 7). 7 In comparison, the earliest photograph of the 1906 stele 
+was taken almost four decades later, in 1943–44, by Chinese journalist and photo-
+grapher James Lo (1902–87) (Figure 8). 8 Visitors who enter the corridor confront 
+the 1906 stele first, before the Dazhong stele, the former dwarfing the latter, the 
+niche edges of which are visible in the photo. Despite being visually predominant, 
+the 1906 stele has less age value than the Dazhong stele, and hence less historical 
+significance is attached to it by modern viewers. This differentiation is indicative 
+of an epistemological tension that emerged shortly after the renovation, a tension 
+between the cave as a religious work, which is constantly or contingently renewed 
+but that nonetheless developed out of its past, and the cave as a historical artifact, 
+through which one sees the past from a critical distance.
+ 6 Examples of this practice include the steles in Caves 323 (698 CE), 148 (776 and 894 CE), 196 
+(9–10th century), 143 (9–10th century), 94 (1351), 96 (1935). the only two exceptions are the 
+steles on the south corridor wall of Caves 16 (1906) and 146 (1916).
+ 7 in addition to stein’s Chinese assistant Jiang Xiaowan’s transcription of the text which was 
+later published in stein 1921, transcriptions of the text were first published in China by Luo 
+Zhenyu in Luo (1914), and thus it was possible that the ink rubbings of the stele – the trace 
+of which is evident in the photograph – was circulated among Chinese scholars around the 
+end of the first decade of the twentieth century.
+ 8 the Lo Photo Archive was donated by Lo’s wife, Lucy Lo, to Princeton University. the photos 
+were digitized through the Mellon Dunhuang image Archive and then published as a nine-
+volume set (Ching 2021).
+
+ 555 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 5: Stein’s photo of a monk standing in the south bay of the porch of Cave 16 
+(1907); it is showing the two fragments of the Wu Sengtong stele placed on a 
+pedestal against the corner pillar
+ (Source: Stein 1912, vol. 2, fig. 190)
+
+556 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 6: Theoretical reconstruction of the now-lost Wu Sengtong stele with a stele 
+head showing at the bottom
+(Source: The photograph of the stele fragments is adapted from Pelliot 1914–24, vol. 4, 
+pl. 354; image by the author) 
+
+ 557 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 7: The Dazhong Stele, also known as Hongbian’s Appointment Decree Stele; 
+embedded on the north wall of the corridor of Mogao Cave 16 from before 1906 to 
+1965; photo by Charles Nouette (1908)
+ (Source: Pelliot 1914–24, vol. 6, pl. 363)
+
+558 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 8:The Renovation Stele embedded in the middle of the south wall, corridor of 
+Cave 16; Lo Archive photograph (1943–44) 
+(Source: Princeton University, Lo 016-1; © Trustees of Princeton University)
+4. Three Art-Historical Questions, 1907
+Over the following two decades, the stelae bore silent witness to the confiscation 
+of scrolls and artifacts from the library cave by the British archaeologist Aurel 
+Stein, the French sinologist Paul Pelliot, the Russian archaeologist S. F. Olden-
+burg, the Japanese Buddhist priest Ōtani Kozui (大穀光瑞, 1876–1948), and the US 
+art historian Langdon Warner (1881–1955), among others, as occurred in other 
+archaeological raids along the eastern silk routes (Hopkirk 1980). The embedded 
+stelae, protected by their unportability, also saw the refilling of the cave space.
+
+ 559 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+Aurel Stein, a scholar trained in archaeology and Oriental studies and an ex-
+perienced explorer of archaeological sites across Xinjiang, visited the Mogao caves 
+in 1907. Searching for antiquities bearing lost knowledge of humankind, Stein 
+was immediately attracted to the newly discovered deposit and acquired as many 
+items as he could from Priest Wang through a half-religious, half-commercial 
+negotiation (Stein 1912, 2:171–172; Stein 1921, 823–824). As the first European to 
+enter Cave 17, Stein saw the cave in its least altered condition since its reopening 
+and provided the most detailed and accurate description of the cave before the 
+1940s. Stein surveyed and measured Cave 17 on 28 May 1907, and wrote a detailed 
+account about his findings in his diary of that day (Wang 2020,168–9). 9 He later 
+published a plan drawing of the cave suite (Figure 9) and a revised description in 
+Serindia (Stein 1921, 821). The accounts of Cave 17 describe a recess for a stele, a 
+raised platform, and some ”decorative tracery work.” Since Stein’s two accounts 
+were contradictory, however, and because they differed from the actual conditions 
+scholars later observed, Stein’s description has subsequently raised three questions 
+about the appearance of the cave as a memorial chapel. 
+ 
+Figure 9: Plan drawing of Mogao caves 16 & 17, which Stein numbered as Ch.I
+(Source: Stein 1921, vol. 3, fig. 43) 
+The first problem concerns the limited visibility inside the reopened Cave 17. Al-
+though Stein noticed a ”recess for inscription” that closely matches the Dazhong 
+stele, he hesitated to accept this obvious possibility regarding the viewing ex-
+perience. In Serindia, he negated this possibility by acknowledging that the dim 
+ 9 stein diary on 28 May 1908, stein Manuscript no. 199, 68v, no. 204, 317–9.
+
+560 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+light conditions would afford little visibility to the monument or anything else. 
+Subsequent investigators did not share Stein’s hesitation and accepted the recess 
+as being the original location of the stele. In the modern view, it is not difficult 
+to exorcise the mystic impression by brightening the cave with artificial light. 
+A worth-pondering question for art historians is, however, how could Cave 17 
+have once functioned as a memorial chapel if its visual contents were hidden in 
+darkness? As will be discussed in the next section, ritual enactment was one of 
+the crucial contexts of any lighting for the space.
+The second problem, conditioned by the first, concerns the mural painting 
+on the north wall. Stein unambiguously stated that no painting existed in the 
+room except for ”decorative tracery work in faint colors on the upper portion of 
+the north wall” (Stein 1921, 821). This issue is further complicated by many varied 
+and seemingly absurd accounts about the visual contents in the following three 
+decades. More than one reporter stated, for example, that Buddha images were 
+painted on the four walls in Cave 17, but no visual or archaeological evidence 
+indicates that the cave once bore paintings other than the figures-under-trees 
+painted on the north wall (Chen 1926; Wei 1943, 24). Rather than being records 
+of a now peeled-off layer of paint that once covered the current painting, as one 
+scholar has suggested, the strange accounts are most likely a mental filling-up of 
+the dark space by inferring from the thousand-buddha motifs covering the four 
+walls of Cave 16 (Wang 2020,169). Since the statement disagrees with the condi-
+tion as photographed, copied, and described since 1941, some scholars cast doubt 
+about the authenticity of the mural painting. As will be discussed later, the turning 
+point was Zhang Daqian’s artistic rediscovery of Cave 17.
+The third problem concerns the object or objects that the platform against 
+the north wall was originally designed to contain or support. Stein surveyed and 
+measured the platform yet did not report any hollow space inside.  10 In his diary, 
+Stein speculated that the platform was perhaps used to store some items (Wang 
+2020,169). Stein noticed that the platform was lidded and inferred that it was hol-
+low inside. In Serindia, however, he stated with confidence that judging from its 
+shape and location, the platform ”was intended as an image base” (Stein 1921, 821). 
+Although later studies have considered both possibilities— container and image 
+base, the restoration of the memorial chapel in 1965 has given prominence to the 
+latter thesis (Ma 1978). 
+ 10 stein’s measurements, 5 feet (l) by 2 feet (w) by 1 foot 8 inches (h) (152.4 cm [l] by 61.0 cm [w] by 
+50.8 cm [h]), are slightly different from the actual size of the platform, which measures 178 cm 
+(l) by 89 cm (w) by 45 cm (h) in (Ma 1978, 22–23). Despite the inaccuracy, the measurements 
+nevertheless indicate that stein entered and surveyed most corners of Cave 17.
+
+ 561 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+Although Stein did not intend these art-historical problems, his witness to the 
+altered and incomplete condition of Cave 17 planted a seed in the minds of those 
+searching for historical truth rather than religious thrill.
+5. Two Tibetan Inscriptions, 1908
+A few months after Stein’s visit, Paul Pelliot, a young but erudite sinologist who 
+knew many languages of the Far East, visited the Mogao caves and worked in 
+Cave 17 for about three weeks between March 3 – 26, 1908. During his stay at 
+the Mogao caves, Pelliot systematically cataloged and photographed hundreds 
+of caves and the inscriptions in them (Pelliot 1914–24; Pelliot 2008). He called 
+Cave 17 ”the manuscript niche” and Cave 16 ”the manuscript cave.” 11 Over the next 
+three decades, the concept of the library cave often included the physical spaces 
+of Caves 17 and 16, echoing the fact that the Dazhong stele had been relocated to 
+the corridor of Cave 16.
+Pelliot did not pay attention to the recess or the platform in Cave 17 as Stein 
+did, but he was greatly interested in the text-bearing objects, which for him rep-
+resented the key to historical knowledge. The contents in Cave 17, that Pelliot 
+acknowledged, include the manuscripts scrolls, a visitor’s inscription, and ”a back 
+panel” of a mural painting (Pelliot 2008, vol.5, 19-20). Accordingly, Pelliot had 
+two photographs taken in Cave 17. Apart from the famous photograph of Pelliot 
+posing in front of the piled-up manuscript scrolls against the painted north wall 
+(Figure 2), the other photograph captures a small Tibetan inscription on the west 
+wall of the corridor of Cave 17 (Figure 10). The small inscription appears about 
+one meter above the floor of the corridor and on the north side of a wooden door 
+frame, which was presumably added by Priest Wang shortly after the discovery of 
+the cave (Figure 11, marked as ”#1”).  
+ 11 similarly, several Chinese scholars who visited the Mogao caves in the early 1940s, such as 
+Wang Ziyun and shi Zhangru, referred to the cave group as ”the sutra storing cave” and Cave 
+17 as ”the (sutra storing) stone chamber.” shi even reported that a plaque, inscribed with the 
+characters ”cangjing dong”, was hung on the porch of Cave 16 (Wang et al. [1943] 2006, 182; 
+shih 1962a, 32).
+
+562 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 10: A Tibetan inscription on the west wall of the corridor of Cave 17; photo by 
+Charles Nouette (1908)
+(Source: Pelliot 1914–24, vol. 6, pl. 354-2) 
+ 
+Figure 11: Location of two Tibetan inscriptions #1 & #2 in the plan (left) and section 
+(right) drawings of Cave 17
+ (Source: Ma 1978, 22, fig. 2; annotation added by the author) 
+Pelliot assumed that the Tibetan manuscript was written by ”modern people like 
+the Mongol prince who read Tibetan manuscripts” (Pelliot 2008, vol.5, 20). This 
+supposition was likely based on information he gathered from Priest Wang. Wang 
+told Pelliot that ”a Mongol prince had regularly come to Dunhuang each year to 
+
+ 563 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+see these Tibetan pothis [palm-leaf manuscripts]” (Taam 1942, 693). Associating 
+the inscription with a modern date, Pelliot did not bother to read into the message 
+that the inscription carries.
+What had Pelliot missed? I would suggest that he missed a key to the function 
+of the library cave and the reason for its concealment. A review of the Tibetan 
+inscription reveals more historical information than what might be expected. 
+Following several in-situ investigations in 2021, I transcribed the inscription as 
+follows: ”sha se ch+wa na gy-i gya . . . nga zh-i . . . ma jal nas. . . . jag ga c-ig dang 
+'dang lnga ba cu so . . .” 12 My translation of the inscription is: ”Sha se chwa na met 
+with gya nga shi . . . Then offered one . . . jag ga and fifty silk brocades/banners. . .” 13 
+Despite that fact that much of the inscription, especially the first line, is de-
+faced, it still clearly conveys the message that someone ”met with” (ma jal) an-
+other person and then offered many gifts, including ”fifty silk brocades/banners.” 
+This record of ritual offering reminds us of similar events in the tenth century as 
+recorded in the Dunhuang manuscripts. A Chinese-language Dunhuang man -
+uscript, S.2687, records that Cao Yuanzhong (曹元忠, d. 974), who was military 
+governor of the Guiyijun Circuit (851–1036) in 955–74, and his wife, Lady Zhai 
+(翟), offered ”ten-thousand-colored” and ”five-colored brocade sutra wraps” to the 
+Mogao caves on two festive occasions (Zheng and Zheng 2019, 1236).  14 Another 
+manuscript, S.5663, records that a local monk-official, Daozhen (道真, ca. 934–87), 
+offered dozens of sutra wraps, silk brocades, banners, and ritual vessels to a local 
+monastery in Dunhuang called the Monastery of the Three Realms (三界寺 Sanjie 
+si) and specifically to its sutra storage (經藏 jingzang) during the Spring Lantern 
+Festival in 958 CE (Zheng and Zheng 2019, 1169   –1170). 15 The practice of festive 
+gatherings sponsored by cave patrons was also attested to by an inscription in 
+the auxiliary cave to another large cave at the Mogao complex. Dated 953 CE, the 
+inscription in Cave 469, a cave opened on the north wall of Cave 53, records that a 
+high-ranking official ”made a vegetarian feast for two thousand people” (Pan and 
+Ma 1985, 47–48). The inscription even titles itself as Record inside the Storage (藏
+內記 zangnei ji). Dunhuang scholar Mei Lin (1994) consequently views Cave 469 as 
+another sutra-storing stone chamber of the Mogao caves, a companion to Cave 17.
+ 12 original text: ”ཤ་སེ་ཆྭ་ན་གྱྀ་གྱ་་་ང་ཞྀ་་་་མ་ཇལ་ནས། ་་ཇག་ག་ཅྀག་དང་འདང་ལྔ་བ་ཅུ་སོ་་་ .”
+ 13 i would like to thank Karma Ngodup, instructional professor at the University of Chicago, for 
+helping me identify the tibetan characters and discussing their possible meaning.
+ 14 the Guiyijun Circuit was a tributary state of the t ang empire and its successors during the 
+Five Dynasties. original text: ”敬造萬色錦繡經巾一條，施入宕泉窟，永充供養。歸義軍節度使
+檢校太師兼中書令敦煌王曹公之涼國夫人潯陽翟氏敬造五色繡經巾一，施入窟內.”
+ 15 original text: ”道真發心造大般若[經]祑六十個，並是錦緋綿綾，具全；造銀番（幡）伍拾口，
+並施入三界寺。……道真修大般若一部，修諸經十三部，番二七口，銅令香盧壹，香兼（槏）
+壹，經案壹，經藏一口，經巾一條，花氈壹，已上施入經藏供養.”
+
+564 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+Based on the writing style, such as the use of reversed gigu, Tibetologists who 
+recently examined the inscriptions tend to date it to the last centuries of the first 
+millennium. 16 Taking the content and the dating based on writing style into ac -
+count, we must seriously consider the possibility that the inscription predates the 
+concealment of the cave. Regarding the historical context, the Tibetan inscription 
+in Cave 17 corresponds to the popularity of the festive activities and ritual offer -
+ings at the Mogao complex in the late-medieval period (Mei 1994, 186; Ma 1996, 
+194 –199). The inscription can be viewed as evidence of the functionalities of the 
+caves that evolved during the tenth century; the spacious main cave would have 
+been used for large gatherings and the auxiliary cave for keeping ritual offerings.
+When examining the north wall of the corridor of Cave 17, I noticed another 
+Tibetan inscription. This inscription (Figure 11, marked as ”#2”) is located to the 
+south of the inscription marked #1 and shares the small size of characters and the 
+Medieval writing style. Pelliot did not mention the second inscription, because 
+it was covered by the wooden door frame at the time of his visit. Inscription #2 
+could not have been written after the door frame was installed, which took place 
+shortly after the reopening of the cave. Both inscriptions are located about a meter 
+above the floor of Cave 17, which is about a meter above the floor of Cave 16. This 
+placement would have made both the writing of the inscriptions and the later 
+reading of the inscriptions by visitors easier for those who stood on the elevated 
+ground level of Cave 17 than for those who stood in the corridor of Cave 16. Given 
+that Cave 17 has been either a locked storage space or a railed-off showcase for 
+most of the twentieth century, it is less likely that the inscriptions were written by 
+modern visitors than by Medieval worshipers. The stratigraphic feature and the 
+location support my thesis that the Tibetan inscriptions were written before the 
+concealment of the cave. I transcribed the second inscription as follows: 
+[...] da kam cu'i rnams [...]   
+[...] zhwas phrug dgu bsad [...]  
+[...] m-i tsho'i thel che [...] de [...] phra [...]. 17 
+My translation of the inscription is:
+All of ten [...] kam [...]  
+[...] nine children of [...] zhwas have been killed [...]  
+[...] great seal of the people [...] that [...] jewel [...].
+Inscription #2 is more severely defaced than inscription #1, to the extent that the 
+characters at the margins are illegible. Nonetheless, the keywords in inscription #2 
+ 16 the tibetologists include Karma Ngodup, whom i consulted in 2021, and another unidentified 
+Chinese scholar, whom sha Wutian consulted recently.
+ 17 original text: ”[…] ད་ཀམ་ཅུའི་རྣམས /…ཞྭས་ཕྲུག་དགུ་བསད་ …/…མྀ་ཚོའི་ཐེལ་ཆེ་་་་་་དེ་་་་ཕྲ […]”
+
+ 565 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+indicate an event of a completely different nature from that in inscription #1. ”All 
+of ten” (cu'i rnams), ”nine children” (phrug dgu), and ”people” (m-i tsho) indicate 
+that the event involved a large group of people, including children. The second 
+line, which is the most complete in meaning, reads ”nine children of [...] zhwas  
+have been killed.” In the history of late-medieval Dunhuang, several slaughters 
+of the local ruling families took place during political turmoil (Li 1986; Gai and 
+Yang 2020). One of them involved the killing of six sons of Zhang Huaishen ( 張
+淮深, 831–90), the military governor of the Guiyijun Circuit in 867–90 and an 
+active patron of the cave construction at the Mogao site. 18 While we have not 
+yet identified who or what ”[...] zhwas”, in the Tibetan inscription refers to, the 
+event it describes corresponds to the sense of heaviness and darkness that these 
+historical killings evoke.
+Despite all the ambiguities, whose solutions are impossible to verify now, the 
+two Tibetan inscriptions are the most direct evidence of the religious practices 
+and social contexts in which Cave 17 was adapted, filled and sealed. One suspects 
+that if Pelliot had seen both inscriptions and had a chance to reconsider them, he 
+might have revised his influential hypothesis about the concealment of Cave 17, 
+which proposes that the deposit was treasure hidden by monks fleeing in advance 
+of a feared invasion of Dunhuang (Pelliot 1908).  19 The two Tibetan inscriptions, 
+however, testify to an accumulative process by which the cave was the reposi to-
+ry of ritual artifacts offered in various circumstances. Many items in the deposit 
+were gathered there for other reasons not reflected in the inscriptions, yet the 
+inscriptions at least clarify how some items were accumulated in the continuous 
+or contingent ritual reenactments of the cave before its concealment. 20 
+Pelliot’s uncharacteristic misunderstanding of the historical significance of 
+the Tibetan inscription he saw can perhaps be explained by its location and ap-
+pearance. Inscriptions in the liminal space seem casual, as they are often seen 
+ 18 For an early discussion of Zhang’s biography, please see Xiang (1957, 417–428). 
+ 19 Pelliot thought that the concealment of the cave happened in 1035 on the eve of the t an-
+gut-led Xixia invasion. Many scholars, such as Luo Zhenru, yan Wenru, Bi suojuan, yin Qing, 
+rong Xinjiang, Chen Huan, Bai Bin, and Guan Baiyi, have adopted the foreign-invasion theory 
+and suggested other forces of invasion, ranging from the threads of the i slamic Karakhan-
+ids, the Ganzhou Huihu-Uyghurs, and, less credibly, the Mongols. Pelliot, ”Une bibliothèque 
+médiévale.” For a review of the variants of the foreign invasion theory, please see Liu (2000, 
+30–33).
+ 20 the other reasons scholars have discussed include a repository of sacred waste as proposed 
+by stein, a systematic repair of worn Buddhist scriptures as suggested by Fang Guangchang 
+and shi Pingting, the collection of one or more local monasteries as discussed by rong Xinji-
+ang, and Dohi yoshikazu, the translocation of a clan-kept library as Fujieda Akira argues, and 
+a deposit of dharma-bearing texts and objects for the end-of dharma concern as suggested 
+by sha Wutian. For reviews of the reasons, please see Liu (2000, 33–34) and imaeda (2008).
+
+566 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+with peripheral vision and risk being erased by a door frame or a partition wall. In 
+addition, the small size also suggests a humble voice. In this ironic instance, the 
+scholar of the texts was unwittingly blinded by the visual properties of the texts. 
+On the other hand, Pelliot’s subsequent communication with Chinese scholar-of-
+ficials about the library cave made the latter aware of their inferior position in the 
+international competitions for historical artifacts and modern scholarship (Luo 
+[1909] 1985; Chen 1930). As the uneasiness spread more widely among educated 
+Chinese, some traced the disseminated manuscripts to Europe, while others set 
+off to the cave site to discover it anew.
+6. Artistic Rediscovery of Cave 17 in 1941
+The credit for rediscovering Cave 17 as a fully conceived work of art goes to Zhang 
+Daqian, the first Chinese painter with a national reputation, who in the early 1940s 
+seriously devoted himself to Dunhuang (Silbergeld 2013, 11–12). Zhang came to 
+Dunhuang to copy and study the mural paintings from June, 1941 to May, 1943 
+and his stay was controversial. Motivated by a strong desire to rediscover the long-
+lost techniques of figural painting, Zhang made numerous replicas of the mural 
+paintings and had them colored to show what he imagined to be the original color 
+scheme. His Dunhuang replica exhibitions effectively promoted Dunhuang art in 
+the artist circles in modern China (Sichuan sheng bowu guan 1985, i–iv). Mean-
+while, the artist’s ambition to uncover masterpieces from the Tang period—the 
+figural paintings of the ”golden age” of China—instead of mediocre works from the 
+subsequent times prompted him to ”[peel] off the mural painting’s layers” to reveal 
+the underlayer of earlier works (Fraser 2011, 176–78). Zhang’s interventions, which 
+ultimately caused irreversible damage to the caves’ art, aroused fierce disapproval 
+among the Chinese historians and archaeologists, who already regarded the cave 
+contents as ”cultural relics” (文物 wenwu), that are artifacts that possess historical 
+value and should be preserved intact.
+Zhang’s search for the artistic value of the ancient caves culminated in Cave 
+17. In a literal sense, it was he who discovered the pictorial art in the cave. Zhang 
+was the first to report the mural painting of the attending figures on the north wall 
+of Cave 17, publish his copies of it (Figure 12), and comment on its artistic value 
+in the manner of an art connoisseur. 21 Reporters prior to Zhang had promoted a 
+series of unsupportable accounts about the mural painting, ranging from ”tracery 
+work” in Stein’s accounts (Stein 1921, 821) to ”buddha images” in Chen Wanli’s (陳
+萬里, 1892-1969) and Wei Juxian’s (衛聚賢, 1898-1990) reports (Chen 1926, 201; 
+ 21 the source that shi Zhangru cites is line-drawing replica of the girl-under-tree by Zhang 
+(Zhang and Zhu 2009, 115, fig. 2–94).
+
+ 567 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+Wei 1943, 24). It was Zhang who, in details included in his catalog of the Mogao 
+caves, first recorded the mural as it is seen today (Zhang 1985, 314–315). He de-
+scribed the west-facing Buddhist nun who wears a red monastic robe and holds 
+a long-handled fan painted with the image of a phoenix, and the east-facing girl 
+who wears two buns and holds a staff and a robe. He then described the image 
+between them: the two aged trees from whose broken branches hang a long-neck 
+kettle and a square bag. He even noted two pairs of flying birds above the foliage 
+and the slight damage to the lower half of the mural. These elaborate descriptions 
+were notable departures from Zhang’s typical lists of iconographic motifs and their 
+dimensions, such as appear in his description of Cave 16 (Zhang 1985, 313–314). 
+Here, rather than merely inventorying religious contents, the artist sought to con-
+vey an aesthetic experience.
+ 
+Figure 12: Zhang Daqian’s replication of the mural painting of the two figures-under-
+tree on the north wall in Cave 17, ink and color on paper, ca. 1941
+ (Source: Shih 1962a, 38, plates 5–6) 
+How, then, could Zhang have seen what others before him had missed? My answer 
+is that he literally unveiled the mural in its entirety. The key moment is evident 
+in an inscription Zhang made on the north section of the west wall of Cave 17. 
+Zhang recorded a commentary about the artistic achievement evident in the fe-
+male figure painting (Figure 3). The inscription (Figure 13), written with ink and 
+brush and in Zhang’s characteristic clerical script, reads as follows:
+
+568 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+This painting is the white brow among the mural paintings of the Mogao 
+caves. It is the brushwork of literati and officialdom. Henceforth, Ma 
+Hezhi obtained one or two [tenths] of it and became a famed master. In 
+the ninth lunar month of the year of Xinsi [1941], Zhang Yuan Daqian of 
+the Shu County [Sichuan] came to behold [the painting] and wrote the 
+inscription in admiration. 22 (Li 1998, 194)
+White brow is an idiomatic expression that means the most outstanding one 
+among all peers, an accolade that Zhang, a talented painter, applied after having 
+examined hundreds of mural caves in the previous four or five months. Zhang not 
+only considered the painting to be the best work of the Mogao caves; he also un-
+derstood the ‘literati’ brushwork of this painting to be the inspirational source for 
+master painters in the following dynasties, such as Ma Hezhi (馬和之, 1130–1170), 
+a leading court painter in the Southern Song (1127–1279).
+ 
+Figure 13: Zhang Daqian’s inscription on the west wall in Cave 17 (autumn 1941); 
+Lo Archive photograph (1943–44)
+(Source: Princeton University, Lo 017-3; © Trustees of Princeton University)
+Zhang’s inscription in Cave 17 is dated to the ninth lunar month, or between 
+October 20 and 18 November 1941. Yet according to Zhang’s biographer, Li 
+Yongqiao (李永翹), Zhang had been in Dunhuang since late May or early June 
+1941, having spent his first night in the cloister and then immediately visiting 
+Cave 17 (Li 1998, 188). Why then was his praise inscribed five months after his 
+arrival at Mogao? The time lag is hard to explain unless one considers the timing 
+ 22  original text: ”此莫高窟壁畫之白眉也/是士大夫筆後來馬和之/得其一二亦遂名家辛巳九/月蜀郡
+張爰大千來觀/賛嘆題.”
+
+ 569 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+of Zhang’s discovery of the underlayers of the Dunhuang murals. The earliest 
+occasion on record in which Zhang participated in the peeling off of overpaint-
+ing layers was 5 October 1941. On that day, the fifteenth day of the eighth lunar 
+month, Yu Youren (于右任, 1879–1964), a high official of the Republican gov-
+ernment, toured the Mogao caves in the company of Zhang and other scholars 
+and officials. The group conducted an unplanned removal of the damaged up-
+per layer of the Song-period mural to better view the Tang figure paintings on 
+the corridor wall of Cave 130 (Li 1998, 191–192). This experimental intervention 
+aroused Zhang’s interests in the concealed murals.
+Is it possible that Zhang conducted a similar experiment in Cave 17 in the 
+following lunar month, during which he discovered the painted figures? In the 
+earliest photographs of the north-wall mural taken by James Lo in 1943–44, one 
+finds horizontal scratched lines across the entire north wall, at about the level of 
+the top of the figures’ heads, 1.50 meters high on average. The north half of the 
+east wall also bears horizontal and vertical scratched lines that outline a rectan-
+gular area of about 1.35 m (w) × 1.90 m (h) from the lower left corner of the wall. 
+The fact that a few spots of protruding mud plaster remain in the rectangular 
+area indicates that it was once plastered (Figure 14). The plastered layer might 
+have been added for the purpose of repairing the eroded wall surfaces, whose 
+condition is worse on the lower part of the east and north walls than elsewhere in 
+the cave. The scratched lines on the north and east walls, as evident in both the 
+historical and the current conditions, suggest the possibility that the areas below 
+the lines were covered and then uncovered before 1943. Further considering the 
+strange accounts given by Stein (1921, 821) and historian Wei Juxian (1943, 24), 
+who accompanied Yu Youren’s Dunhuang visit, along with Zhang’s inscription, 
+one would infer that the covered condition remained from the discovery of the 
+cave until after Yu’s visit on 5–7 October 1941.  While we do not know when and 
+by whom the areas were covered, the covering layer was most likely removed 
+by Zhang in a few weeks following Yu’s visit. Unable to contain his exultation 
+over a literal rediscovery of the library cave as a masterpiece of Tang art, Zhang 
+carefully chose the best location for his inscription, which is at the same height 
+as the removed upper layer and right after unpacking the pictorial work. Just like 
+a colophon added by a connoisseur to the end of a scroll painting after having 
+unrolled and viewed it, Zhang’s inscription probably recorded his finding at this 
+special place that had been so often plundered.
+
+570 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 14: The traces of scratched lines, eroded areas, and remains of mud plaster on 
+the north (left) and east walls (right) of Cave 17
+ (Source: Left: Princeton University, Lo 017-1, 017-2; © Trustees of Princeton University; 
+right: Artstor image digitized by Northwestern University, SSID: 18114211;  
+photocollage and annotation by the author)
+Due to the anger that Chinese society expressed about the peeling-off-mural event 
+in Cave 130—an act of vandalism in the critics’ eyes, it is unthinkable that Zhang 
+would have admitted that he applied this method again to study the Dunhuang 
+murals, no matter how crucial the outcome.  23 The inscription, then, is the only 
+clue that he intentionally left about the secret. Zhang’s catalog of the Mogao caves 
+was compiled during his stay in Dunhuang yet published posthumously in 1985. 
+Fortunately, many of Zhang’s ideas have been efficiently disseminated within the 
+field of Dunhuang studies through the publications of Xie Zhiliu (謝稚柳, 1910–97), 
+an artist, connoisseur, and friend of Zhang’s who accepted the latter’s invitation 
+to stay at and study the Mogao caves between 1942 and 1943 and who referred to 
+Zhang’s catalog manuscript when compiling his own (Xie 1949; Xie 1955). In his 
+catalog, Xie Zhiliu commented on the artistic achievement of the mural. Following 
+a description of Cave 17 similar to Zhang’s, Xie wrote in parentheses, ”The painting 
+on the north wall has an honest and sincere brushwork and a spontaneous senti-
+ment. It is a work by a master hand in the high Tang (Xie 1955, 193).”24 
+ 23 in 1942, harsh criticism was expressed by eminent historians and archaeologists who met 
+Zhang at Mogao in 1941, including Xiang Da (向達, 1900–66), Fu sinian (傅斯年, 1896–1950), 
+and Li Ji (李濟, 1896–1979), delivered to y u youren, and widely spread by newspapers. For 
+details, see Fraser (2011, 176 –79).
+
+ 571 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+From a visual analysis perspective, the two contemporary artists Zhang and 
+Xie shared their views about the exquisite brushwork and a consistent manner 
+of articulating pictorial forms that art historians would call ”naturalistic.” From 
+an art critic’s perspective, however, Zhang’s comment appeared to be more am-
+bitious than Xie’s, as the former looked to position the Cave 17 mural not only in 
+Dunhuang art but in the painting history of China. As another Chinese painter, 
+Ye Qianyu (葉淺予, 1907–95), notes, Zhang, a famous painter who renounced his 
+rising career for a secluded life in the Gobi Desert, had to justify his unconven-
+tional devotion to anonymous paintings in ancient Buddhist caves (Sichuan sheng 
+bowu guan 1985, iv). This is particularly because of literati painters’ common dis-
+crimination of Buddhist art by professional painters. During Zhang’s stay at Dun-
+huang, he once sent some twenty copies of the Dunhuang murals to be exhibited 
+in Chengdu. Some viewers considered the murals merely ”artisan’s paintings” 
+for ritual events and even expressed pity for this talented artist who went astray 
+on the ”demonic track” of the “vulgar” art (Sichuan sheng bowu guan 1985, ii; Li 
+1998, 189). In response, Zhang’s main thesis about the artworks of Dunhuang is 
+that they were the work of the master painters. 24 This thesis soon would face new 
+challenges in the changing social contexts of modern China.
+Apart from recognizing the mural, Zhang set two norms for later scholars of 
+the Dunhuang manuscripts and caves. One is the story of the library cave’s dis-
+covery, which was first published in Xie’s account (Zhang 1985, 316–17; Xie 1949, 
+3). Because an ethnographic survey of the story circulated among the Dunhuang 
+locals, details of the story are often cited by later scholars as supplements to Stein’s 
+narrative (Rong 2013, 83). The other is the use of the name ”sutra storing cave” 
+(cangjing dong) to refer to Cave 17 rather than the cave suite. Early explorers and 
+scholars, and Zhang’s contemporaries who visited the Dunhuang Caves in the 
+early 1940s, tended to use the name ”sutra storing cave” when referring to Cave 
+16 and the name ”stone chamber” (shishi) when referring to Cave 17 (Pelliot 2008; 
+Luo [1909] 1985; Chen 1930; Wang et al. [1943] 2006, 182; Shih 1962a, 32). 
+The new norm gradually took over beginning in the 1960s.  25 Since Zhang’s 
+discovery of the Tang figural painting in it, scholars have become more aware 
+of the special status of the cave space, have recognized its earlier date than the 
+refurbished murals in the cave suite, and have pondered the cave’s changing func-
+tionalities and, above all, the new identity of the cave as representative of Tang 
+visual art. Hence, the increased knowledge about Cave 17 per se as opposed to the 
+deposited goods has allowed scholars to conceptually extract this masterpiece of 
+ 24 original text: ”北壁画用笔敦厚，情调自然，盛唐高手之作.”
+ 25 For more information, see Zhang Daqian’s excerpts On Dunhuang Art (Lun dunhuang yishu) 
+reproduced in Zhang and Zhu (2009, 20–23).
+
+572 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+Tang art from Cave 16, which, due to refurbishment, is conventionally regarded 
+as a mediocre work of subsequent periods. 
+7. Receiving the Mural from A socialist Perspective, 1945
+Zhang’s inscription was so provocative that four years later, Pan Jiezi, another 
+painter, was compelled to write a responding inscription right next to Zhang’s, 
+despite Pan’s condemnation of this kind of behavior. Zhang’s and Yu’s appeals 
+eventually led to the establishment in 1944, immediately following Zhang’s Dun-
+huang journey, of the first modern institute based in Dunhuang dedicated to the 
+study and preservation of Dunhuang art. This institute, which would become the 
+Dunhuang Academy, was called the National Research Institute on Dunhuang 
+Art (國立敦煌藝術研究所 Guoli Dunhuang yishu yanjiu suo) in 1944–50. Pan, then 
+a young painter trained at the Bejing Jinghua Art School, was one of the earliest 
+employees of the institute (Liu 2015, 1). He spent the year 1945 at the Mogao caves 
+copying murals with other colleagues. By mid-century, the Cave 17 mural had 
+become one of the most famous pieces of the Dunhuang murals and was copied 
+multiple times by Chinese artists. 26 There is no record that Pan copied the mural; 
+it is his inscription in Cave 17 that reveals his experience there and his opinion 
+on Dunhuang art, which is opposite to Zhang’s.
+In the autumn of 1945, Pan, using extra-small characters, wrote the following 
+text to the left of Zhang’s comment (Figure 15):
+This painting is very nice but not necessarily ”the white brow” of the 
+Mogao caves. Zhang, only because it gives a scent of literati style, used 
+it to obliterate [the merits of] all [other paintings]. This particularly lacks 
+precision and appropriateness. As for the statement ”Ma Hezhi obtained 
+one or two [tenths] of it and became a famed master,” it is especially 
+ridiculous. By writing as shallow and joking as this, how can one com-
+prehend the figure [painting]? Inscribing on the wall is already a bad 
+moral character. Forcibly acting as the interpreter is even more detest-
+able. Therefore, to correct the errors, [I wrote] as above. In the autumn 
+of the thirty-fourth year [of the Republican era] (1945) [by Pan] Jiezhi.  27 
+(Li 1998, 200–1, note 31)
+ 26 For example, an early copy of the female figure under tree attributed to James and Lucy Lo’s 
+art studio Hut of recalling the plum (憶梅庵 Yimei an) was one of the art works displayed in 
+the taiwan Gallery of the 1964 World Exposition in New y ork. For published replicas made 
+by artists of the Dunhuang Academy, please see Dunhuang wenwu yanjiu suo (1960), inside 
+front cover of ouyang, shi, and shi (1995, pl. 203; Dunhuang yanjiu yuan 2005, 49, fig. 48).
+ 27 original text: ”此畫甚佳然未必即莫高窟之白眉張氏以其稍具士氣遽即以此抹殺一切殊欠精當至
+若馬和之得其一二亦遂名家尤其荒謬[…]似此淺戲寫足[?]以讀人物哉題壁本為惡德強作解人尤其
+可惡故為正謬如上三十四年秋 [潘] 絜茲.”
+
+ 573 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 15: Pan Jiezi’s responding inscription (in red frame) in relationship to Zhang’s 
+on the west wall in Cave 17
+ (Source: Courtesy of Dunhuang Academy)
+Pan’s long inscription criticizes almost every idea expressed in Zhang’s inscrip-
+tion— even the practice of inscribing. Pan rejected the top ranking of the figure 
+painting not simply because he found better paintings in other caves but because 
+he disliked the idea of evaluating the painting based on traditional literati taste. 
+Pan’s underlying rationale was to reject the Concept of famed master; such at-
+tribution appropriates the contributions of the anonymous artisans whom Pan 
+credited with the caves’ creation. Pan visualized his conception of the cave-mak-
+ing process in a 1954 painting titled Creators of Cave Art (Pan 1998). The painting, 
+which depicts cave patrons’ visit to a cave under construction, is conspicuously 
+absent of literati-artists; instead, the cave is shown being painted by a group of 
+artisans who wear patched clothes but work skillfully on scaffolding and on the 
+ground (Figure 16). Through verbal and visual critiques, Pan aimed to overturn 
+the notion of Dunhuang murals as the art of the elite and advocated for seeing it 
+as art created by the masses. 
+
+574 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 16: The Creators of Cave Art (color on paper 80 cm × 110 cm), author  
+Pan Jiezi (1954)
+ (Source: China Art Gallery) 
+Pan’s fierce reaction to Zhang’s comment reflects both the socialist discourse of 
+art in the early 1940s and Pan’s own finding about the art of Dunhuang. In May 
+1942, Mao Zedong (毛澤東, 1893–1976) famously remarked that the art of a com-
+munist society should serve the masses and urged artists to repurpose the old 
+art -often counterrevolutionary- to promote the reformed society he envisioned 
+for China (Mao 1967). The remark had a profound impact on the way artists and 
+art theorists regarded the art heritage of China in the following decades. Even 
+in the remote northwest, artists of the Dunhuang Institute began to recognize 
+and appreciate the ‘realistic’ aspects of Dunhuang murals: they were made by 
+the masses, depict scenes of the social life, and express emotions of humankind 
+(Chang 1951, 22, 24–29; Shi 2012, 168–263). Pan’s 1945 inscription is a prelude 
+
+ 575 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+to this consciousness. If Pan’s inscription did not explicitly call out the literati’s 
+manipulation—and degradation—of the mural painting, then his writings over the 
+next three decades clearly revealed the realistic and historically complex charac-
+ter of Dunhuang art. Pan consistently expressed his firm belief that Dunhuang 
+art was the wise creation of the working class (Pan 1956, 5–6; Pan 1981, 111). An 
+article entitled Receiving the Heritage of Dunhuang Art (接受敦煌藝術遺產 Jieshou 
+Dunhuang yishu yichan) systematically theorizes the merits of the Dunhuang art 
+he found (Pan 1985). From a Marxist perspective on historical materialism, the 
+article further treats Dunhuang art as the masses’ artful and spiritual response to 
+social hardships and cultural conditions. While Zhang needed only a few months 
+to recognize the best work of Dunhuang art, it took Pan and many others three 
+decades to justify how the contemporary art world should accept the heritage of 
+the Mogao caves.
+In addition to an antipathy toward the literati’s discourse about painting, Pan’s 
+inscription also expresses a budding notion to preserve the Dunhuang caves. 
+Paradoxically, while Pan recognized ”inscribing on the wall” as a bad habit, he 
+justified his action as being necessary to ”correct the errors” of the previous in-
+scriber. Perhaps out of concern about the practice, he wrote with a much smaller 
+script than Zhang’s. The juxtaposed inscriptions visually manifest the characters 
+of the two writers—romantic versus rational, confident versus concerned. It is 
+interesting that the wall provided the medium for two people who did not meet 
+in real life to communicate and for the exchange to be visible to later viewers. Like 
+an echo frozen in a time capsule, the conceptual confrontation is thus recorded. 
+The notion of preservation would soon raise new questions for the artists and 
+conservators of the Dunhuang Institute, who desired to restore the cave to its 
+original and holistic state while recording the process of its transformation.
+8. Restoration of the statue and the stele in 1965
+Chang Shuhong, a Paris-trained Chinese oil painter, was motivated to study and 
+preserve the Mogao caves by Pelliot’s Dunhuang photographs and painting ac-
+quisition of the 1930s. After returning to China, he became the first director of the 
+Dunhuang Art Institute and subsequently that of the Research Institute on Cultural 
+Relics of Dunhuang (敦煌文物研究所 Dunhuang Wenwu Yanjiu Suo, 1950–1984), as 
+the former was renamed in 1950. 28 In 1965, Chang directed a few coworkers, includ-
+ing the archaeologist Ma Shichang (馬世長, 1936–2013) and the architect Sun Ruxian 
+(孫儒僩, b. 1925) to place the Dazhong stele back into Cave 17. They also placed a 
+monk reliquary statue, which had been found in Cave 362—a small, undecorated 
+ 28 For Chang’s autobiography, see Chang [1994] 1999.
+
+576 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+cave to the north of the pavilion, onto the platform in Cave 17. The placement of 
+the life-size statue on the couch-shaped platform against the muraled wall turned 
+the emptied storage cave into an image shrine. Admittedly, Chang was not the 
+first to discover the previous life of the library cave. In 1962, Shi Zhangru (石璋如, 
+1902–2004), an archaeologist who surveyed the Mogao caves in 1942, proposed 
+that Cave 17 was represented a ”Buddhist priest’s cave” (和尚窟 Heshang ku) (Shih 
+1962a, 6–9). It was Chang who realized, however, the vision by assembling all kinds 
+of available historical artifacts.
+Although Chang himself has not provided any warrant for the work in pub-
+lished writings, two of the participants, Ma and Sun, discussed the supporting 
+evidence almost four decades apart (Ma 1978; Sun 2015). Ma’s article argues that 
+prior to serving as a sutra deposit, Cave 17 had been the shadow cave of Hongbian 
+(Ma 1978, 25). Owing to Ma’s careful formal analysis of the stele/painting/statue 
+relationship and supplementary historical evidence, the significant intervention 
+in the cave has been legitimized. This restoration as Chang envisioned it has 
+become the standard image of Cave 17 (Figure 3). The catalog description of the 
+cave compiled by the Dunhuang Institute introduces this look of the cave, and 
+encyclopedia entries of the cave do not even mention the intervention (Dun-
+huang yanjiu yuan 1982, 6–7; Ji et al. 1990, 60–61; Dunhuang yanjiu yuan 2020, 
+112–114). Any discordant image, such as one that shows the monk statue in Cave 
+362 (Figure 17), have almost faded away from our knowledge. Present-day viewers 
+would not have had a chance to imagine other possibilities of how the statue could 
+have been enshrined, if a copy of this photo were not collected and later donated 
+to the British Library by Raghu Vira (1902–63), a renowned Indian scholar who 
+visited Dunhuang between 30 May and 4 June 1955 (IDP, n.d.).
+Apart from the historical photo, another historical record was withdrawn from 
+public view. During the restoration, Chang added an inscription on the back of 
+the stele about the discovery of the library cave from a nationalist perspective, yet 
+he had the inscription deeply embedded into the living rock. According to Sun, 
+Chang inscribed some text with a brush on the roughly cut backside of the stele 
+before it was embedded in the niche on the west wall of Cave 17. The text was an 
+account of ”the discovery of the library cave and the odious events in which the so-
+called explorers deceitfully and forcibly acquired the cultural relics from there” (Sun 
+2015, 125). This bitter memory must have prompted in Chang and others’ minds a 
+desire to see the legendary cave in a complete state. By associating the statue with 
+the necessary historical contexts, scholars of Dunhuang tried to argue for not just 
+the ”very high historical value and artistic value” of the statue, but also the Chinese 
+scholars’ capability to lead the studies of the library cave (Dunhuang yanjiu yuan 
+1987, 17, 67; Ma 1978, 21–22). Sun also vaguely remembers the inscription’s men-
+tioning of ”the following year, 1966, is the sixteen-hundredth anniversary of the 
+
+ 577 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+establishment of the Mogao caves” (Sun 2015, 125). In preparation for the upcom-
+ing celebration, the Art Department of the Dunhuang Institute planned to make a 
+facsimile of Cave 17 (Dunhuang yanjiu yuan 2004, viii). 29 The timely recognition 
+of the statue as part of Cave 17 would have been a further step to establish Cave 
+17 as an exquisite piece of art and, at least once in its life, a total work of art. Just 
+like the implied ambition, this inscription has been neither photographed nor 
+transcribed; it exists only in the memory of the participants.
+9. A Gallery Representation of the library Cave, 2000
+The deep memory that Chang pressed into the niche of Cave 17 was refreshed 
+in a much more open manner in 2000. The Dunhuang Academy systematically 
+conserved the cave group and made the cloister built by Wang into an exhibition 
+hall for the library cave. During this project, an inscribed stone was placed in 
+the courtyard, and a Chinese-English bilingual stele about the conservation was 
+ 29 According to Fan and Fan (2008, 176–183), this plan was abandoned due to the interruption 
+of the Cultural revolution (1966–1976), just like many other cave-making plans. Eventually 
+in 1984-85 and 1998-2004, Guan youhui, shao Hongjiang, and Wang Kun made a facsimile 
+of Cave 17. 
+ 
+Figure 17: The monk statue in Cave 362; photo beetween 1954–55 by staff of the 
+Dunhuang Institute, likely Li Zhenbo (李貞伯)
+ (Source: Courtesy of the British Library Board, Photo 1274/1, 131)
+
+578 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+erected outside the cloister. The latest intervention not only adapted the cloister 
+into a spatialized representation of the dissemination history of the Dunhuang 
+documents, but also juxtaposed the lament of the past with the vision of the Mogao 
+complex as a world cultural heritage site.
+At the one-hundredth anniversary of its discovery in 2000, the library cave was 
+further conceptualized through a systematic intervention in the cloister, which 
+has been conceptualized to be an extension of the library cave (Sha 2000, 67). 
+After an archaeological excavation and substantial conservation of the cloister, 
+the refurbished rooms were filled with facsimiles of the representative Dunhuang 
+manuscripts, prints, and portable paintings, the originals of which were housed 
+in various institutions throughout the world. Luo Huaqing (羅華慶), a researcher 
+at the Dunhuang Academy and the curator of the exhibition, designed the exhibi-
+tion as a journey of ”discovering the library cave,” a phrase that became the title 
+of his book on the library cave written for a general audience (Luo 2010). The new 
+intervention not only laid out visual representations of artifacts that belonged to 
+the cave at different points of its life but also adapted the cloister into a symbolic 
+space of the history about the reopening of the library cave and the dissemination 
+of its contents.
+The exhibition design repurposes the space of the cloister (Figure 18). The 
+cloister was widened by about one meter to provide more space in the front court-
+yard. 30 Visitors are expected to enter the courtyard complex from the west side 
+gate, after they have had a glimpse into Cave 17. When they walk across the front 
+courtyard to the gallery entrance, they see the inscribed stone on the left. The 
+gallery is adapted from the side halls of the front and back courtyards and the 
+rear main hall, forming a linear space in the shape of a squared-off ”U,” the lines 
+of which are joined at a right angle. The gallery space leads visitors thorough dis-
+play boards of the history of the cave, the distribution of the deposit, and display 
+cases of the replicas of selected paintings, manuscript scrolls, and prints found 
+in Cave 17. The buildings surrounding the rear courtyard are made into a literal 
+demonstration of the concept of the library cave; the contents that had originally 
+been stuffed in a storage room have now been unrolled and hung for display. 
+After a journey through an expanded time capsule, viewers again enter the front 
+courtyard, where they get a closer look at the inscribed stone before they leave 
+the cloister. The bilingual stele outside the cloister marks the end of their tour of 
+the Mogao caves.
+ 30 i would like to thank sun yihua, architectural conservator of the Dunhuang Academy who 
+designed the architecture of the cloister, for informing me of this in a private conversation.
+
+ 579 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 18: Plan diagram and view of the Exhibition Gallery of the Dunhuang library cave
+(Source: Author) 
+The two inscription-bearing objects are well incorporated into the visual dis-
+course about the library cave and Dunhuang studies. The irregular, dark-colored 
+rock is laid horizontally on a low platform in the rear center of the front courtyard 
+(Figure 19). Inscribed on the front of the rock are twelve huge Chinese characters 
+saying ”Dunhuang is the heartbreaking history of the academy of our country” 
+(敦煌者吾國學術之傷心史也 Dunhuang zhe wuguo xueshu zhi shangxin shi ye ), 
+which is a famous quote from pioneering Chinese scholar Chen Yinque’s (陳寅恪, 
+1890–1969) and preface to Chen Yuan’s (陳垣) work Dunhuang Remaining after 
+the Theft (敦煌劫餘錄 Dunhuang jieyu lu, 1930). Although Chen Yique was more 
+critical of the saying uttered by some other mouths, the quote has been widely 
+used as an out-of-context lament on the loss of treasure to the foreign explorers 
+by anti-imperialist Chinese scholars. Chen reiterated the opinion, shared by 
+many Chinese scholars, that Dunhuang studies should be seen as a positive and 
+constructive project; in effect, the famous quote was a provocation to promote 
+the studies as being Chinese (Ning 2012, 10–11). Duan Wenjie (段文傑, 1917–2011), 
+who succeeded Chang and became the first director of the Dunhuang Academy, 
+interpreted the statement as addressing ”a history of shame” that stirs the emo-
+tions of anyone with even a slight sense of ”national self-esteem” (Duan 1985, 
+1–2). This was less a reaction to the dissemination of the Dunhuang manuscripts 
+in the early years of the twentieth century than a response to the deficiencies 
+of modern scholarship until the last quarter of the century. After many years 
+of diligent work at the Mogao caves, scholars of Dunhuang were proud to an-
+nounce their leadership in the field in the 1980s. ”Constructing the highland of 
+Dunhuang studies” continues to be one of the two main goals of the Dunhuang 
+Academy, especially since President Xi Jinping’s (習近平) visit to the Mogao caves 
+on 19 August 2019 (Xi 2020). Although Dunhuang scholars have been successful 
+
+580 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+in their efforts to reframe this cultural heritage site, the stone, inscribed in stand-
+ard script, serves to index the ”historical shame” and the weight of the past, 
+presenting the lament as a timeless statement. As the large rock is laid in the 
+physical center of the cloister, the burden of representing the cultural history of 
+modern China has long been placed on the library cave and its spatial extension, 
+which were originally constructed as works of religious architecture.
+ 
+Figure 19: The stone lying in the rear center of the front courtyard of the cloister 
+(Source: Author) 
+The other stele is placed in the open space in front of the cloister’s main en-
+trance for better public visibility. On the front face of the rectangular plaque on a 
+short platform, the commemorative text is engraved in both Chinese and English 
+(Figure 20). The English title, Record of Sanqinggong, is an abridged version of the 
+Chinese title The stele recording the renovation of the three purity palace (重修三
+清宮碑記 Chongxiu Sanqinggong Beiji). To make a tighter conceptual connection 
+between the cloister and the library cave, the renovation stele tells a beautiful story 
+of its transformation. This narrative portrays the cloister as a quiet witness of the 
+library cave’s becoming since the beginning, and the two “rebuilding” activities, 
+respectively by Priest Wang in 1908 and the Dunhuang Academy in 2000, as recur-
+rent efforts to renew the historical site. For a domestic and international audience, 
+the story was told in both English and Chinese side by side: 
+
+ 581 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+Sanqingong [the Daoist Trinity Temple] is also known as Xia Si [Lower 
+Monastery]. Its fame can be traced back to May of the twenty-sixth year 
+of the Guangxu Emperor of the Qing Dynasty [1900 CE]. The Daoist 
+priest Wang Yuanlu from Macheng City, Hebei Province, discovered 
+a hidden library of ancient manuscripts in Cave 17 adjacent to Xia Si. 
+Wang Yuanlu later sold the manuscript illegally. He used the money 
+from the sale, together with money he had collected from believers, to 
+rebuild the monastery in the thirty-forth year of the Guangxu Emperor 
+(1908 CE). He renamed it Sanqingong. Thus it stands as an important 
+witness to the discovery and also to the loss of the manuscripts from 
+the Hidden Library. Over the past century, the building deteriorated. 
+To commemorate the hundred-year anniversary of the discovery of 
+the Hidden Library, the Sanqingong was reconstructed and restored. 
+Now it is used as a museum to display relics from the Hidden Library 
+and the historical fact of its discovery and of the loss of the important 
+documents from Dunhuang.  31
+Nonetheless, one thing implied by the narrative seems at odds with the facts. 
+Based on the inscription on the original plaque above its main gate, the cloister 
+was completed in the fifth lunar month of 1908. Hence, the cloister’s ”witness” of 
+the dissemination was slightly different from what the stele inscription suggests. 
+The cloister was not yet standing there while Priest Wang and Stein’s exchange 
+took place; it was partly an outcome of the exchange. The narrative of the stele 
+inscription might be interpreted as an attempt to balance the functional trans-
+formation of the cloister with the continuity of place memory. A wish to ”revive 
+the abandoned,” which underlay Priest Wang’s renovation work and religious 
+affairs, resurfaces in the scientific conservation conducted by the Dunhuang 
+Academy.
+ 31 the Chinese version is: ”三清宫俗称下寺光绪二十六年[公元/一九〇〇年]五月湖北麻城人王圆
+籙/道士于该寺侧发现藏经洞后以私售藏/经洞文物和募化所得于光绪三十四年/重修号三清宫该
+寺为藏经洞文物发现此藏经洞/被盗之重要见证岁月即久失于修葺值/此藏经洞发现百年之际修复
+重建辟为/陈列馆展示藏经洞精美文物及发现流/散之史实昭示后人/是为记.”
+
+582 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 20: The stele Record of Sanqinggong was erected in front of the cloister, 
+May, 2000 
+(Source: Author) 
+The content of the stele reenacts the old story for the new era, as does its format. 
+The stele format derives from the stele’s official designation as a ”major historical 
+and cultural site protected at the national level,” a title bestowed on the Mogao 
+caves in 1961. Three stelae bearing the same content have been erected on the site 
+grounds: one at the entrance of the preservation district of the Mogao caves, one in 
+front of the main bridge across the Daquan river, and one in front of the landmark 
+of the Mogao cave complex, the so-called nine-story pavilion (Figure 21). The fact 
+that the stellae inscriptions are bilingual signals the positive attitude toward inter-
+national visitors that the Dunhuang Academy has adopted since the beginning 
+of the Reform era. Prior to the Sanqinggong stele, three other Chinese/English 
+bilingual stele (Figure 22) had been erected at the Mogao caves to commemorate 
+important events, such as when receiving interregional and international spon-
+sorship and when the site was included on the UNESCO world cultural heritage 
+list of 1987 (UNESCO World Heritage Convention n.d.). The Sanqinggong stele 
+thus marks a new phase, one that seeks to express a more complete and nuanced 
+understanding of the site’s present and past, the more virtuous aspects of its cre-
+ation and evolution and the less so. Without a critical distance from the past, one 
+cannot look retrospectively at it.
+
+ 583 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+ 
+Figure 21: The Stele of the Mogao caves as a Major Historical and Cultural Site 
+Protected at the National Level 
+(Source: Author) 
+    
+Figure 22: The Stele of the Mogao caves as a UNESCO World Cultural Heritage Site, 
+front (left) and back (right) sides 
+(Source: Author) 
+
+584 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+10. Conclusion: Renovation, Replication and Restoration
+In the transformation of the abandoned caves into a work of art and cultural 
+heritage, almost no agent has an idea of the whole. Fragmented knowledge of 
+the past nonetheless makes room for modern beholders’ own interests as they 
+are informed by present conditions. The transformation resulted from a series 
+of interventions throughout the long twentieth century that might be defined 
+as renovation, replication and restoration. The renovations conducted by Priest 
+Wang and the Dunhuang Academy caused not just new materials to emerge 
+but also a grander architectural compound to take form. The replications of 
+the stele inscriptions and murals, whether through ink rubbing, photography, 
+or painting, allowed Chinese artists and scholars to rediscover the cave from 
+the perspective of visual art. The subsequent restoration of stelae and statue, as 
+well as the facsimiles of the manuscripts and portable paintings symbolically 
+claimed the local institute’s internationally leading position in the conservation 
+of the Mogao caves and in Dunhuang studies generally. While no agents have 
+full impact over others’ visions, their work built on one another. Although they 
+often did not share each other’s values and interests, it was the devotion to their 
+respective work, done at the risk of their own fortune and lives, that has sus-
+tained the afterlife of Cave 17 and the building complex it belongs to. Through 
+such unintentional collaborations, the idea of the library cave eventually evolved 
+into the architecture of the pavilion-cloister complex. The game of mapping the 
+fragmented images of the library cave will not end, as unnoticed materials, like 
+the two Tibetan inscriptions and the historical photo of the Hongbian statue 
+discussed in this study, would surface.
+The inscriptions inside and outside of Cave 17 form ”an inscriptional space,” 
+a term coined by Mark Halperin (2006, 227). Halperin observes that Song period 
+temples provided ”an inscriptional space” for literati, through recording the con-
+stant temple renovations, to comment on religion, politics, societal values, their 
+personal traditions and so forth. We observed that the pavilion-cloister complex 
+likewise became a shared space for modern viewers to express their own views 
+and interests. Its inscriptions involved a much wider spectrum of social strata in 
+modern China—not just the scholars and artists but also the non-Chinese and the 
+masses. In this space, cave keepers and cave viewers wrote for posterity about his-
+torical events, elaborated on their views of the past and their vision of the future, 
+dialoged with those whom they had never met, and performed rituals that were in-
+tended to be both invisible and visible to others. The discourses eventually created 
+the myths about the cave and the larger historical context in which it is embedded. 
+Furthermore, through the discourses, the visual and material properties of the cave 
+have been repeatedly remade. Unearthed from a densely packed storage space, 
+the historical documents and stelae filled other rooms and made the cave suite, 
+
+ 585 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+the cave group, and even the freestanding cloister an extension of the library cave. 
+The mythical and crucial position of the cave impacted the art-historical views of 
+the images in the cave and those that are thought to have belonged to it. Through 
+unpacking the collaborative, diachronic remodeling of the library cave and the 
+pavilion-cloister complex, this study sheds light on the successful apparatus of a 
+living architecture – that is, filling an old bottle with new wine.  
+References
+Benjamin, Walter. 2004 [1936]. ”The Work of Art in the Era of its Technological 
+Reproducibility.” In Walter Benjamin: Selected Writings, edited by Michael W. 
+Jennings, 251–83. Cambridge, MA: Belknap. 
+Chang, Shuhong. 1951. ”Dunhuang yishu de yuanliu yu neirong [the Genealogy and 
+Contents of Dunhuang Art].” Wenwu cankao ziliao 2, no. 4: 15–36. 
+Chang, Shuhong. 1999 [1994]. Jiushi chunqiu: Dunhuang wushi nian [Ninety Springs 
+and Autumns: Fifty Years in Dunhuang]. Lanzhou: Gansu Culture Publishing 
+House. 
+Chen, Wanli. 2002 [1926]. Xixing riji [Diary of Journey to the West]. Lanzhou: Gansu 
+People’s Publishing House. 
+Chen, Yinque. 1980 [1930]. ”Chen Yuan Dunhuang jieyu lu xu [Preface to the 
+Catalogue of Manuscripts from Dunhuang Remaining after the Theft].” Chen 
+Yinque Wenji, vol 3. Shanghai: Shanghai Classics Publishing House. 
+Chikusa, Masaaki. 1961. ”Tonkō no sōkan seido [The Monks Official System in 
+Dunhuang].” Tōhō gakuhō 31: 117–98. 
+Ching, C. Y. Dora, ed. 2021. Visualizing Dunhuang: Seeing, Studying, and Conserving 
+the Caves. Princeton: Princeton University Press. 
+Dohi, Yoshikazu. 1996. ”Tonko isho fuhei no nazo o megutte [On the Riddle of the 
+Sealing up of Works Left at Dunhuang].” Rekishi to chiri: Sekaishi no kenkyu 
+486: 32–33. 
+Duan, Wenjie, ed. 1985. 1983 nian quanguo Dunhuang xueshu taolunhui wenji shiku 
+yishubian [Proceedings of the domestic conference on Dunhuang studies in 
+1983: Volume on cave art].” Lanzhou: Dunhuang yanjiu yuan. 
+(DHSZ) Dunhuang shi zhi [Gazetteer of Dunhuang City]. 1994. Dunhuang shi zhi 
+biancuan weiyuan hui [Editing Committee of the Gazetteer of Dunhuang City]. 
+Beijing: Xinhua Publishing House. 
+Dunhuang wenwu yanjiu suo [Dunhuang Cultural Relics Research Institute], ed. 1960. 
+Dunhuang bihua ji [Collection of Dunhuang Murals]. Beijing: Wenwu chuban she. 
+
+586 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+Dunhuang wenwu yanjiu suo [Dunhuang Cultural Relics Research Institute], ed. 
+1980–1982. Tonko Bakukokutsu/Dunhuang Mogao ku (5 vols). Tokyo, Beijing: 
+Wenwu chuban she. 
+Dunhuang wenwu yanjiu suo [Dunhuang Cultural Relics Research Institute], 
+ed. 1982. Dunhuang Mogao ku neirong zonglu [Catalogue of the Dunhuang 
+Mogao caves]. Beijing: Wenwu chuban she.  
+Dunhuang yanjiu yuan [Dunhuang Academy], ed. 1987. Zhongguo meishu 
+quanji diaosu bian 7: Dunhuang caisu [Complete Works of Chinese Fine Arts, 
+Sculpture 7: Polychromic Sculpture in Dunhuang]. Beijing: People's Fine Arts 
+Publishing House. 
+Dunhuang yanjiu yuan [Dunhuang Academy], ed. 2004. Li qiqiong linmo Dunhuang 
+bihua xuanji [Selected Collection of the Dunhuang Mural Paintings Copied by Li 
+Qiqiong]. Shanghai: Shanghai guji chuban she. 
+Dunhuang yanjiu yuan [Dunhuang Academy], ed.  2005. Wan gengyu linmo 
+Dunhuang bihua xuanji [Selected Collection of the Dunhuang Mural Paintings 
+Copied by Wan Gengyu]. Shanghai: Shanghai Classics Publishing House. 
+Dunhuang yanjiu yuan [Dunhuang Academy], ed.  2006. Jiangjie Mogao ku 
+[Commenting on the Mogao caves]. Hangzhou: Zhejiang Literature & Art 
+Publishing Housee. 
+Dunhuang yanjiu yuan [Dunhuang Academy] ed. 2020. Dunhuang yishu da cidian 
+[Encyclopedia of Dunhuang Art]. Shanghai: Shanghai Lexicographical Publishing 
+House. 
+Fan, Jinshi, and Fan Dian, eds. 2008. Shengshi heguang: Dunhuang yishu 
+[Prosperous Time, Harmonious Light: the Art of Dunhuang]. Beijing: People's 
+Education Press. 
+Fang, Guangchang. 1991. ”Dunhuang zangjingdong fengbi yuanyin zhi wojian [My 
+Views on the Reasons for the Sealing of the Dunhuang Library Cave].” Zhongguo 
+shehui kexue 5: 213–33. 
+Fraser, S. Elizabeth. 2004. Performing the Visual: The Practice of Buddhist Wall 
+Painting in China and Central Asia, 618–960. Stanford: Stanford University Press. 
+Fraser, S. Elizabeth. 2011. ”Buddhist Archaeology in Republican China: A New 
+Relationship to the Past.” Elsley Zeitlyn Lectures on Chinese Archaeology and 
+Culture. Proceedings of the British Academy 167: 155–98. 
+Fujieda, Akira. 1964. ”Tonkō sembutsudō no chūkō: chōshi shokutsu o chūshin 
+to shita kyūseiki no bukkutsu zōei [Resurgence of the Caves of the Thousand 
+Buddhas at Dunhuang in the Ninth Century].” Tōhō gakuhō 35: 9–139. 
+Fujieda, Akira. 1981. ”Une reconstruction de la 'bibliothèque' de Touen-houang.” 
+Journal Asiatique 269, no.: 1–2: 65–68. 
+Gai, Jiaze, and Yang Fuxue. 2021. Guiyijun shi shang sanqi renlun beiju yiyun 
+pouxi: Wantang wudai jiedu shi jiazu quanli zhengduan zhi yi pin [Analysis of 
+
+ 587 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+Three Moral Tragedies in the Guiyijun History: The Political Negotiations in the 
+Guiyijun Ruling Families During the Late Tang and Five Dynasties]. Shenyang: 
+Wanjuan Publishing House.  
+Gosudarstvennyi Ermitazh, and Shanghai Publishing House of Traditional Books. 
+1997. Eluosi Guo Li Ai'ermitashi Bowuguan cang dunhuang yishupin [Dunhuang 
+Art Collection in the State Hermitage Museum of Russia]. Shanghai: Shanghai 
+Classics Publishing House. 
+Halperin, Mark. 2006. Out of the Cloister: Literati Perspectives On Buddhism in Sung 
+China, 960–1279. Cambridge: Harvard University Press. 
+Han, Chunping. 2007. ”Guanyu cangjing dong wei hongbian yingtang (yingku) 
+de yidian renshi [On the Library Cave as the Shadow Hall (Cave) of Hongbian].” 
+Dunhuang xue jikan 4: 266–272. 
+Hopkirk, Peter. 1980. Foreign Devils on the Silk Road: The Search for the Lost Cities 
+and Treasures of Chinese Central Asia. Amherst: University of Massachusetts 
+Press. 
+Huang, Wenhuan. 1980. ”Ba Dunaghuang 365ku zhangwen tiji [Tibetan Inscription 
+in Mogao Cave 365].” Wenwu 7: 58–76. 
+Imaeda, Yoshiro. 2008. ”The Provenance and Character of the Dunhuang 
+Documents.” Memoirs of the Toyo Bunko 66: 81–102. 
+International Dunhuang Project (IDP). ”News Issue No. 42.” Accessed on December 6, 
+2021. http://idp.bl.uk/archives/news42/idpnews_42.a4d#section5. 
+Ishihama, Juntarō. 1925. Tonkō ishimuro no isho: Kaitokudō kaki kōen [Documents 
+from the Dunhuang Stone Chamber: Kaitoku-do Summer Lectures]. Osaka: 
+Ishihama. 
+Ji, Xianlin, ed. 1990. Dunhuang xue da cidian [A Comprehensive Dictionary of 
+Dunhuang Studies]. Shanghai: Shanghai Lexicographical Publishing House. 
+Li, Yongning. 1981. ”Dunhuang Mogao ku beiwen lu ji youguan wenti [Transcriptions 
+of Stele Inscriptions of Dunhuang Mogao caves and Related Problems].” 
+Dunhuang yanjiu 1: 56–79. 
+Li, Yongning. 1986. ”Shuniu zuonie junzhu jianqi: tan Zhang Huaishen zhi si yu 
+tangmo guiyijun zhizhengzhe zhi gengdie [Shuniu Did Evil and the Lord Was 
+Cheated: On the Succession of the Guiyijun Leaders in the Late-Tang Period].” 
+Dunhuang yanjiu 7, no. 2: 15 –19. 
+Li, Yongqiao. 1998. Zhang Daqian quanzhuan [Complete Biography of Zhang 
+Daqian]. Guangzhou: Huacheng Publishing House. 
+Liu, Jinbao. 2000. ”20 shiji Dunhuang zangjingdong fengbi shijian ji yuanyin yanjiu 
+de huigu [A Review of 20th-century Research on the Date of and Reasons for the 
+Sealing of the Dunhuang Library Cave].” Dunhuang yanjiu [Dunhuang Research] 
+64, no. 2: 29–35. 
+
+588 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+Liu, Lu. 2015. ”Pan Jiezi yu Dunhuang yishu yanjiu [Pan Jiezi and the Studies of 
+Dunhuang Art].” Master's thesis, Nanjing Normal University. 
+Liu, Shipping, and Xianshi Meng. 2022. Dunhuang mengxun: qiannian baozang 
+de jusan yu lihe  [Searching for Dunhuang in the Dream: The Gathering and 
+Dissemination of a Thousand-Year Treasury Deposit]. Hong Kong: Open Page 
+Publishing Co. Ltd. 
+Luo, Huaqing. 2010. Faxian Cangjing dong [Discovering the Library Cave]. Jiedu 
+Dunhuang, no. 28. Shanghai: East China Normal University Press. 
+Luo, Zhenyu. 1985 [1909]. Dunhuang shishi yishu: fu liusha fanggu ji [Lost Books of 
+the Stone Chamber of Dunhuang: Appended with Records of Visits to Historical 
+Sites in Drifting Sand]. Reprinted in Dunhuang yekan chuji [First Collection from 
+the Book Series about Dunhuang], edited by Huang Yongwu, 1–354. Taipei: Shin 
+Wen Feng Print Co. 
+Luo, Zhenyu. 1985 [1913]. Mingsha shihi yishu [Lost Books of the Stone Chamber of 
+Singing Sand]. Shaoxing: Shin Wen Feng Print Co. 
+Luo, Zhenyu. 1914. Xichui shike lu [Records of Stone Carvings in the West 
+Borderland]. Kyoto: Luo shi. 
+Ma, De. 1996. Dunhuang Mogao Ku Shi Yanjiu [Study on the History of the Mogao 
+Grottoes of Dunhuang]. Lanzhou: Gansu Education Publishing House. 
+Ma, Shichang. 1978. ”Guanyu Dunhuang cangjingdong de jige wenti [Several 
+Questions Concerning the Dunhuang Library Cave].” Wenwu 12, no. 20: 21–33. 
+Mao, Zedong. 1967 [1960]. ”Talks at the Yan’an Forum on Literature and Art.” In Mao 
+Tse-Tung on Literature and Art, 1–43. Beijing: Foreign Languages Press. 
+Mei, Lin. 1994. ”469 ku yu Mogao ku shishi cangjing de fangwei tezheng [Cave 469 
+and the Characteristic Location of the Sutra-storing Stone Chambers of the 
+Mogao Caves].” Dunhuang yanjiu 4: 186–197. 
+Ning, Qiang. 2012. Dunhuang shiku si yanjiu [A Study of the Cave Temples of 
+Dunhuang]. Lanzhou: Gansu People’s Fine Arts Publishing House. 
+Ouyang, Lin, Shi Weixiang, and Shi Dunyu. 1995. Dunhuang bihua xianmiao ji 
+[Collection of Line Drawings of the Dunhuang Mural Paintings]. Shanghai: 
+Shanghai Bookstore Publishing House. 
+Palace Museum. 1985. Zhang Daqian xiansheng yishu mogao ku ji [Posthumous 
+Work of Mr. Zhang Daqian: A Record of the Mogao Caves]. Taipei: Palace 
+Museum Press. 
+Pan, Jiezi. 1981. Dunhuang mogaoku yishu [Art of the Dunhuang Mogao Caves]. 
+Shanghai: Shanghai People’s Publishing House. 
+Pan, Jiezi. 1985. ”Jieshou dunhuang yishu yichan [Receiving the Heritage of 
+Dunhuang Art].” In 1983 nian quanguo Dunhuang xueshu taolunhui wenji shiku 
+yishubian [Proceedings of the Domestic Conference on Dunhuang Studies in 
+
+ 589 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+1983: Volume on Cave Art], 202–215. Lanzhou: Gansu Education Publishing 
+House. 
+Pan, Yushan, and Ma Shichang. 1985. Mogaoku kuqian diantang yizhi [Ruins of 
+Frontal Buildings Added to Mogao Grottoes]. Beijing: Cultural Relics Publishing 
+House. 
+Pelliot, Paul. 1908. ”Une bibliothèque médiévale retrouvée au Kan-sou.” Bulletin de 
+l’Ecole Française d’Extrême-Orient 8: 501–29. 
+Pelliot, Paul. 1914–24. Les grottes de Touen-houang: Peintures et sculptures 
+Boudhiques des epoques des Wei, des Tang et des Song (6 vols.). Paris: Paul 
+Geithner. 
+Pelliot, Paul. 2008. Carnets de ruote 1906–1908. Paris: Guimet. 
+Pelliot, Paul. 2014. Pelliot’s Diary during Exploration in the Western Regions. 
+Translated by Geng Sheng. Beijing: China Tibetology Publishing House. 
+Peng, Jinzhang, Wang Jianjun. 2000. Dunhuang Mogao ku beiqu shiku [Northern 
+Section of the Dunhuang Mogao caves]. Beijing: Cultural Relics Publishing 
+House. 
+Rong, Xinjiang. 1996. Guiyijun shi yanjiu: Tang Song shidai Dunhuang lishi kao suo 
+[Study of the History of Guiyijun Circuit: Searching for the History of Dunhuang 
+in the Tang and Song Periods]. Shanghai: Shanghai Classics Publishing House. 
+Rong, Xinjiang.  1997. ”Dunhuang zangjingdong de xingzhi ji qi fengbiyuan-yin 
+[The Nature of the Dunhuang Library Cave and the Reasons for Its Sealing].” 
+Dunhuang Tulufan yanjiu 2: 23–48.  
+Rong, Xinjiang. 2013. Eighteen Lectures On Dunhuang. Leiden: Brill. 
+Sha, Wutian. 2000. ”Mogao ku ‘sanqing gong’ mantan [On the Daoist Temple ”Palace 
+of Three Purity” of the Mogao Caves].” Dunhuang yanjiu 64, no. 2: 66–73. 
+Sha, Wutian.  2008. ”Dunhuang Tulufan yijing sanzang fashi facheng gongde ku 
+kao [A Study of the Merit Cave of Facheng, The Sutra Translator Triple Tripaka 
+Dharma Master of Tibetan Dunhuang].” Zhongguo zangxue 3: 40–7.  
+Sha, Wutian.  2012. ”Mogao ku di 16 ku zhengti chongxiu shi gongyangren huaxiang 
+de queshi yu cangjingdong de fengbi [On the Omission of Donor Images from 
+the Overall Renovation of Mogao Cave 16 and the Concealment of the Library 
+Cave].” Xixia yanjiu (February 2012): 9–27. 
+Sha, Wutian.  2017. Guiyijun shiqi Dunhuang shiku kaogu yanjiu [Archaeological 
+Studies of Dunhuang Caves during the Guiyijun Period]. Lanzhou: Gansu 
+Education Publishing House.  
+Shi, Weixiang. 2012. Longshang xueren wencun: Shi Weixiang juan [Essay 
+Collections of Scholars in Gansu: Volume on Shi Weixiang]. Lanzhou: Gansu 
+People’s Publishing House.  
+Shih, Changju. 1962a. ”Guanyu Cangjing dong de jige wenti [Several Questions about 
+the Library Cave].” Dalu zazhi tekan 2: 31–45. 
+
+590 
+New Wine from an Old Bottle
+DOI: 10.5507/ff.23.24463476.19
+Shih, Changju.  1962b. ”Dunhuang Qianfo dong yibei ji qi xiangguan shiku kao 
+[A Study of the Remaining Stelae and Relevant Caves of the Dunhuang Thousand-
+Buddha Caves].” Zhogyang yanjiu yuan lishi yuyan yanjiu suo jikan 34: 37–97. 
+Sichuan sheng bowu guan [Sichuan Provincial Museum], ed. 1985. Zhang Daqian lin 
+fu dunhuang bihua [Zhang Daqian’s Copies of the Dunhuang Mural Paintings]. 
+Chengdu: Sichuan Fine Arts Publishing House. 
+Silbergeld, Jerome. 2013. ”Four Paths from Dunhuang: A Memorial and Three 
+Interviews.” In Inspired by Dunhuang: Re-Creation in Contemporary Chinese 
+Art, edited by Weilan Hai Willow and Jerome Silbergeld, 11–22. New York: China 
+Institute Gallery. 
+Stein, Marc Aurel. 1912. Ruins of Desert Cathay: Personal Narrative of Explorations in 
+Central Asia and Westernmost China. London: Macmillan and Co. 
+Stein, Marc Aurel. 1921. Serindia: Detailed Report of Explorations in Central Asia and 
+Westernmost China Carried Out and Described Under the Orders of H. M. Indian 
+Government. Oxford: Clarendon Press.  
+Su, Yinghui. 1995. ”Dunhuang Mogao ku xiancun shike kao lue [Brief Study of the 
+Extant Stelae of the Dunhuang Mogao Caves].” Guoli Zhongyang tushu guan 
+Taiwan fenguan guankan 2, no. 1: 110–17. 
+Sun, Ruxian. 2015. ”Mogao yishi-wo de Dunhuang shengya (7): qianxiang ta cansu 
+de zhengli ji di 17 ku hongbian xiang de qianyi [Mogao Stories-My Life Career at 
+Dunhuang (7): About the Organization of the Remaining Statues of the Qianxiang 
+Pagoda and the Migration of Hongbian’s Statue of Cave 17].” Dunhuang yanjiu 
+154, no. 6: 122–25.  
+Taam, C. Woon. 1942. ”The Discovery of the Tun-Huang Library and Its Effect on 
+Chinese Studies.” The Library Quarterly: Information, Community, Policy 12, 
+no. 3: 686–705. 
+UNESCO World Heritage Convention. 2022. ”Mogao caves.” Accessed April 23, 2022. 
+https://whc.unesco.org/en/list/440/. 
+Wang, Jiqing. 2007. Guobao liusan: cangjingdong jishi [The Dissemination of the 
+National Treasures: The stories of the Dunhuang Library Cave]. Lanzhou: Gansu 
+Education Publishing House. 
+Wang, Jiqing. 2020. Sitanyin Dunhuang kaogu dangan yanjiu [An Archival Study of 
+Stein’s Dunhuang Archaeology]. Lanzhou: Gansu Literature and Art Publishing 
+House. 
+Wei, Juxian. 1943. ”Dunhuang shishi [The Stone Chamber of Dunhuang].” Shuowen 
+yuekan 3, no. 10: 45–62. 
+Wu, Hung. 2003. ”On Rubbings: Their Materiality and Historicity.” In Writing and 
+Materiality in China, edited by Judith Zeitlin and Lydia Liu, 29–72. Cambridge: 
+Harvard University Press. 
+
+ 591 
+Zhenru Zhou
+DOI: 10.5507/ff.23.24463476.19
+Wu, Hung. 2022. ”Unearthing Wu Daozi (c. 686 to c. 760): The Concept of Authorship 
+in Tang Painting.” Art History 45: 228–48. 
+Xi, Jinping. 2020. ”Zai Dunhuang yanjiu yuan zuotan shi de jianghua [Speech 
+Delivered during Seminar at Dunhuang Academy].” Renmin ribao, February 1, 
+2020: 1. 
+Xiang, Da. 1957. ”Luoshu yan ”bu tangshu Zhang Yichao zhuan” buzheng 
+[Supplement and Correction to ”Biography of Zhang Yichao as a Supplement 
+to Tangshu”].” In Tangdai changan yu xiyu wenming [Tang Chang’an and 
+Civilizations of the Western Regions], edited by by Luo Zhenyu, 234–260. Beijing: 
+Joint Publishing. 
+Xie, Zhiliu. 1949. Dunhuang shishi ji [Record of the Stone Chambers of Dunhuang]. 
+Unknown publisher. 
+Xie, Zhiliu. 1955. Dunhuang yishu xulu [Descriptive Documentation of Dunhuang 
+Art]. Shanghai: Shanghai Publishing Co. 
+Yang, Weizhong. 2014. ”Tangdai sengguan zhidu kaoshu [A Textual Study of the 
+Administrator of the Sangha in the Period of Tang Dynasty].” Foxue yanjiu, no. 1: 
+292–303. 
+Ye, Changchi. 1909. Yushi [On Stone Inscriptions]. Digitized by the Chinese Text 
+Project. Accessed December 29, 2021.  
+https://ctext.org/library.pl?if=gb&file=31100&page=89&remap=gb. 
+Zhang, Daqian, and Zhu Jieying. 2009. Guili de jingyu yi meng: Zhang Daqian 
+Dunhuang ce [A Beautiful Dream in the Tranquil Realm: Volume on Dunhuang 
+Painting Replicated by Zhang Daqian]. Beijing: Beijing Normal University Press. 
+Zheng, Binglin, and Yinan Zheng. 2019. Dunhuang bei ming zan jishi [Annotated 
+Collection of the Stelae, Epitaphs, and Eulogies of Dunhuang]. Shanghai: 
+Shanghai Classics Publishing House. 

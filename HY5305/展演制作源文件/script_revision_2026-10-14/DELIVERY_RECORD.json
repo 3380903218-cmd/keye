@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5305-script-retranslation-2026-10-14",
+  "state": "final",
+  "content_authority": "baseline/HY5305_Porcelain_in_Translation_Curatorial_Edit_Script.docx; user Chinese edits and task instructions; official museum descriptions for Langyao",
+  "format_authority": "Preserve the user-edited DOCX package and existing EN-then-Chinese sequence",
+  "synchronization_direction": "User Chinese edits to English, with bilingual reconciliation for corrected Langyao account and ribbon interpretation",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "revised-script",
+      "role": "final",
+      "path": "delivery/HY5305_Porcelain_in_Translation_Curatorial_Edit_Script_Revised.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "reader_facing_copy": "/Users/arourouwed/Desktop/NUS/2026-1/HY5305/HY5305_Porcelain_in_Translation_Curatorial_Edit_Script_Revised.docx",
+        "reader_facing_copy_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926"
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "revised-script",
+      "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+      "performed_at": "2026-10-14T22:34:35.464414+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "content_checks.json",
+        "sha256": "01bce8708445fb4183dc4ed3036203914c3ad37c9202ec532a2fe074c2a455c1",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "revised-script",
+      "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+      "performed_at": "2026-10-14T22:34:35.464414+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "package_checks.json",
+        "sha256": "c782bd312d3c5429692bdd2b29782246f361d53450af99ec76559853762bbfcf",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "revised-script",
+      "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+      "performed_at": "2026-10-14T22:34:35.464414+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "rendered_checks.json",
+        "sha256": "ad500a0c718dfe7732e8774200545e76ef67bcabc122c8834df388c2df442bd8",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "revised-script",
+      "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+      "performed_at": "2026-10-14T22:34:35.464414+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "delivery_package_checks.json",
+        "sha256": "6cce4e32c22ed0a72265090fc2f4db1e343fdbba029a362915be805d9cce662a",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "revised-script"
+  ],
+  "invalidated_checks": [
+    "Old generated-script word count, translation parity and native layout cannot validate the user-edited or revised Word file."
+  ],
+  "unresolved_risks": [],
+  "next_action": "Use the revised separate Word script for rehearsal; preserve the submitted PPT.",
+  "extensions": {
+    "client_date": "2026-10-14",
+    "timezone": "Asia/Singapore",
+    "user_original_sha256": "360e8b627b427a2446b6c6c19a5329f18c26d9fd4220f2998aa40dcf53f8798b",
+    "submitted_ppt_instruction": "User explicitly states the PPT has been sent to the teacher and must not be modified; this round updates only the separate Word script.",
+    "native_pdf_sha256": "98a584a20105d7f74f31876a942e303ad84091548b66ef531784ef7b193f7158"
+  }
+}

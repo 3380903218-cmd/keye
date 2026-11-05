@@ -1,0 +1,31 @@
+{
+  "adjudications": [
+    {
+      "id": "0",
+      "issue": "学期收获应是数字史知识、工具和理解，敦煌项目是学习成果",
+      "decision": "accepted",
+      "implementation": "开头和结尾均以学习收获及项目实践建立联系，避免将个人进步缩为单一评价标准"
+    },
+    {
+      "id": "1",
+      "issue": "实际邀请多位不熟悉敦煌文献的人试用，希望知识分享不局限受众",
+      "decision": "accepted",
+      "implementation": "在网站修订部分说明读者背景与反馈作用；保留试用与系统测试之间的区别"
+    },
+    {
+      "id": "2",
+      "issue": "选择Gephi也因为现有传播路线介绍较多，传播者之间的关系较少梳理",
+      "decision": "accepted with scope qualification",
+      "implementation": "说明这是本人接触资料时的观察，不写成对全部研究的穷尽性判断"
+    },
+    {
+      "id": "3",
+      "issue": "来源板块经体验者建议拓展至馆藏保存现状，种类和完整度及方式有差别",
+      "decision": "accepted",
+      "implementation": "按初始史料出处目的、体验者建议、补查保存现状的顺序说明；避免由残缺直接推论现今保存优劣"
+    }
+  ],
+  "general_revision": "删除按周回顾和不再使用的课程文献，保留与数据、地图、网页选择直接相关的方法与历史依据",
+  "resolved_comments_removed": 4,
+  "historical_baseline_preserved": true
+}

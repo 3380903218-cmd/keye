@@ -1,0 +1,13 @@
+﻿LegacyId,OldRelation,Action,NewRecordId,Reason
+E001,N001→N002,context_only,CTX001,保管背景与实物交接区分；不把1907当保管终止年。
+E002,N002→N006,retained_revised,DH001,补页码、范围与来源口径限制。
+E003,N004→N006,recode_participation,DH001,蒋为搬运与谈判参与者，不自动为转出保管者。
+E004,N006→N007,merged,DH004,与E007同引24箱总括一句；修正日期，不等于正式入藏。
+E005,N002→N006,retained_revised,DH002,追加事件保留；20与13差异记录。
+E006,N002→N006,retained_revised,DH003,分开取得和运输到达日；230余与220等口径并列。
+E007,N006→N007,duplicate_merged,DH004,没有第二次独立入馆证据，不再贡献第二次事件权重。
+E008,N002→N008,order_context_only,CTX002,命令不能证明王向抽象清政府的物理交接；新北京事件各有新定义。
+E009,N008→N009,replaced_with_named_receipt,DH008,以学部→京师图书馆的18箱记录替换；不是保留旧的抽象机构边。
+PX01,N001→N013,merged_redefined,DH005,来源地点不是持有人；以王→考察队的一笔取得替代。
+PX02,N013→N012,duplicate_role_recoded,DH005,队→个人不是另一笔取得；个人入参与表。
+PX03,N013→N014,upgraded_institution_evidence,DH006,S15正文支持接收机构及1909年底；仍属回顾性机构证据。

@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+  "reader_facing_copy": "/Users/arourouwed/Desktop/NUS/2026-1/HY5305/HY5305_Porcelain_in_Translation_Curatorial_Edit_Script_Revised.docx",
+  "recorded_copy": "delivery/HY5305_Porcelain_in_Translation_Curatorial_Edit_Script_Revised.docx",
+  "copies_byte_identical": true,
+  "delivery_directory_only_contains_requested_word": true,
+  "user_original_preserved": true,
+  "all_root_ppt_files_byte_identical": true,
+  "user_owned_original_locks_left_untouched": true
+}

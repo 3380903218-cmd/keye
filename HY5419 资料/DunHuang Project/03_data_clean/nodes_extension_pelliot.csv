@@ -1,0 +1,4 @@
+﻿Id,Label,NodeType,Place,CountryOrRegion,Role,Alias,SourceRef,Notes
+N012,Paul Pelliot (extension),Person,Dunhuang / Paris route,France,French sinologist and expedition member,Paul Pelliot; 伯希和,S08;S07,Extension node; excluded from the main pilot edges to keep scope on Stein + Qing routes.
+N013,Pelliot expedition (extension),Expedition,Dunhuang,France,French expedition and selection operation,Pelliot expedition,S08;S07,Extension node for later comparison.
+N014,French national collections (candidate),Institution,Paris,France,candidate receiving institution,BnF; Bibliothèque nationale; Paris collections,S08,Candidate only; requires named object-level catalogue evidence.

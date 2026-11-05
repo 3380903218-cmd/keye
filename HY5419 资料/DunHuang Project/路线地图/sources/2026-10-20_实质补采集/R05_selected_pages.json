@@ -1,0 +1,56 @@
+[
+  {
+    "printed": "339",
+    "scan": "0521",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/page/0521.html.en",
+    "status": 200,
+    "image_urls": [
+      "/toyobunko/VIII-5-B2-8/V-2/images/900x900/0521.jpg"
+    ]
+  },
+  {
+    "printed": "350",
+    "scan": "0532",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/page/0532.html.en",
+    "status": 200,
+    "image_urls": [
+      "/toyobunko/VIII-5-B2-8/V-2/images/900x900/0532.jpg"
+    ]
+  },
+  {
+    "printed": "376",
+    "scan": "0584",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/page/0584.html.en",
+    "status": 200,
+    "image_urls": [
+      "/toyobunko/VIII-5-B2-8/V-2/images/900x900/0584.jpg"
+    ]
+  },
+  {
+    "printed": "377",
+    "scan": "0587",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/page/0587.html.en",
+    "status": 200,
+    "image_urls": [
+      "/toyobunko/VIII-5-B2-8/V-2/images/900x900/0587.jpg"
+    ]
+  },
+  {
+    "printed": "440",
+    "scan": "0696",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/page/0696.html.en",
+    "status": 200,
+    "image_urls": [
+      "/toyobunko/VIII-5-B2-8/V-2/images/900x900/0696.jpg"
+    ]
+  },
+  {
+    "printed": "475",
+    "scan": "0759",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/page/0759.html.en",
+    "status": 200,
+    "image_urls": [
+      "/toyobunko/VIII-5-B2-8/V-2/images/900x900/0759.jpg"
+    ]
+  }
+]

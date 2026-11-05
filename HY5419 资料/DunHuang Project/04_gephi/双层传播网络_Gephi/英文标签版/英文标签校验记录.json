@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-13",
+  "status": "passed",
+  "GephiGUIImport": "not_exercised",
+  "scope": "English display labels; no historical data or graph structure changed",
+  "views": [
+    {
+      "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/双层传播网络.gexf",
+      "source_sha256": "9004aeec3f555f3fa8e1e2d029e444ddcc3c38df722ff524edddd3d0fd2f3e18",
+      "output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/英文标签版/双层传播网络_英文标签.gexf",
+      "sha256": "7924f5e39ea350479cd473a59f2c3777f7d3e5195834bcf52f0fb13c4ff01372",
+      "nodes": 46,
+      "edges": 57,
+      "original_attributes_and_topology": "unchanged",
+      "ascii_display_labels": "passed",
+      "independent_parser": "NetworkX 3.2.1: passed"
+    },
+    {
+      "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/实物流转层/实物流转层.gexf",
+      "source_sha256": "5ef8f25ee8ed2ac77341d893f4998e7d3dbd6257022da31fbe37a0fe3d7061ad",
+      "output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/英文标签版/实物流转层/实物流转层_英文标签.gexf",
+      "sha256": "e6bf237f7f66990384a3dc4a679aea620aa4a1a19d11d17cf02654e35c80f86c",
+      "nodes": 30,
+      "edges": 37,
+      "original_attributes_and_topology": "unchanged",
+      "ascii_display_labels": "passed",
+      "independent_parser": "NetworkX 3.2.1: passed"
+    },
+    {
+      "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/知识传播层/知识传播层.gexf",
+      "source_sha256": "6af067db1515a3c087ecff103b09464a5d36609bc76b590e31d1dbf520eba545",
+      "output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/英文标签版/知识传播层/知识传播层_英文标签.gexf",
+      "sha256": "001e44ccfc654e01d566005010917e79ea0da17a07241ce0e6a2486897e2052e",
+      "nodes": 19,
+      "edges": 20,
+      "original_attributes_and_topology": "unchanged",
+      "ascii_display_labels": "passed",
+      "independent_parser": "NetworkX 3.2.1: passed"
+    },
+    {
+      "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/含待核记录/双层传播网络_含待核.gexf",
+      "source_sha256": "973689bf8bf86bb0804e17eabd1088e5107f62e6ae24eb4260384166d9fb40ae",
+      "output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/04_gephi/双层传播网络_Gephi/英文标签版/含待核记录/双层传播网络_含待核_英文标签.gexf",
+      "sha256": "94e979f0d7448003ce43da7595e65380425a7d8118ee440332661122d80b9d48",
+      "nodes": 52,
+      "edges": 63,
+      "original_attributes_and_topology": "unchanged",
+      "ascii_display_labels": "passed",
+      "independent_parser": "NetworkX 3.2.1: passed"
+    }
+  ]
+}

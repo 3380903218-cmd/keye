@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "performed_at": "2026-11-04T22:51:02.423906+08:00",
+  "artifact_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+  "requested_output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_中文稿.docx",
+  "requested_output_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+  "byte_identical_to_candidate": true,
+  "baseline_sha256": "81f781dfea6ccb4e8a8e4f6d9d8c9716e08f8d40b15393e6ce8842f87baae24c",
+  "native_old_window_closed": true,
+  "backup": "批注原稿备份.docx"
+}

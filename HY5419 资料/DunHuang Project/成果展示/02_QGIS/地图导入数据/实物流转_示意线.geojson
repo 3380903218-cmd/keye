@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.8042114,
+            40.0373163
+          ],
+          [
+            95.8,
+            40.5
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG001",
+        "关联EventId": "DH001;DH002",
+        "ObjectId": "B0001;B0002",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_MOGAO",
+        "ToReferencePlaceId": "PL_ANXI_REF",
+        "时间证据": "1907-06-12至15",
+        "ClaimId": "C001;C002",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (94.8042114 40.0373163, 95.8 40.5)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "12箱后续转存；安西仅现代区域代理。",
+        "Label": "Mogao Caves (site reference) → Yuanquan / Anxi (regional reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.8042114,
+            40.0373163
+          ],
+          [
+            95.8,
+            40.5
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG002",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_MOGAO",
+        "ToReferencePlaceId": "PL_ANXI_REF",
+        "时间证据": "1907-10-02至04",
+        "ClaimId": "C003;C004",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (94.8042114 40.0373163, 95.8 40.5)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "Ibrahim、Hassan驮运；不把蒋10月5日归队当货到日。",
+        "Label": "Mogao Caves (site reference) → Yuanquan / Anxi (regional reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95.8,
+            40.5
+          ],
+          [
+            93.50601,
+            42.83393
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG003",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_ANXI_REF",
+        "ToReferencePlaceId": "PL_HAMI",
+        "时间证据": "1907-10-08至18",
+        "ClaimId": "C005",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (95.8 40.5, 93.50601 42.83393)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "已补途经红柳园、星星峡、苦水；这些站的确址未编码在本条几何中，见12。",
+        "Label": "Yuanquan / Anxi (regional reference) → Hami (city reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.50601,
+            42.83393
+          ],
+          [
+            90.20463,
+            42.8675
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG004",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_HAMI",
+        "ToReferencePlaceId": "PL_SHANSHAN",
+        "时间证据": "1907-11-01至1908-01-19；中间站日未知",
+        "ClaimId": "C008",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (93.50601 42.83393, 90.20463 42.8675)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "来源记驮队经这些地域；现代城市点连线不复原道路或停车建筑。",
+        "Label": "Hami (city reference) → Shanshan (city reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.20463,
+            42.8675
+          ],
+          [
+            89.17886,
+            42.94769
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG005",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_SHANSHAN",
+        "ToReferencePlaceId": "PL_TURPAN",
+        "时间证据": "1907-11-01至1908-01-19；中间站日未知",
+        "ClaimId": "C008",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (90.20463 42.8675, 89.17886 42.94769)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "来源记驮队经这些地域；现代城市点连线不复原道路或停车建筑。",
+        "Label": "Shanshan (city reference) → Turpan (city reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            89.17886,
+            42.94769
+          ],
+          [
+            86.57185,
+            42.06321
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG006",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_TURPAN",
+        "ToReferencePlaceId": "PL_YANQI",
+        "时间证据": "1907-11-01至1908-01-19；中间站日未知",
+        "ClaimId": "C008",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (89.17886 42.94769, 86.57185 42.06321)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "来源记驮队经这些地域；现代城市点连线不复原道路或停车建筑。",
+        "Label": "Turpan (city reference) → Yanqi / Karashahr (city reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            86.57185,
+            42.06321
+          ],
+          [
+            84.27049,
+            41.77953
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG007",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_YANQI",
+        "ToReferencePlaceId": "PL_LUNTAI",
+        "时间证据": "1907-11-01至1908-01-19；中间站日未知",
+        "ClaimId": "C008",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (86.57185 42.06321, 84.27049 41.77953)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "来源记驮队经这些地域；现代城市点连线不复原道路或停车建筑。",
+        "Label": "Yanqi / Karashahr (city reference) → Luntai / Bugur (city reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            84.27049,
+            41.77953
+          ],
+          [
+            82.93249,
+            41.71497
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG008",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_LUNTAI",
+        "ToReferencePlaceId": "PL_KUCHA",
+        "时间证据": "1907-11-01至1908-01-19；中间站日未知",
+        "ClaimId": "C008",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (84.27049 41.77953, 82.93249 41.71497)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "来源记驮队经这些地域；现代城市点连线不复原道路或停车建筑。",
+        "Label": "Luntai / Bugur (city reference) → Kucha / Kuqa (city reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            82.93249,
+            41.71497
+          ],
+          [
+            79.93433,
+            37.10927
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG009",
+        "关联EventId": "DH003",
+        "ObjectId": "B0003",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_KUCHA",
+        "ToReferencePlaceId": "PL_KHOTAN",
+        "时间证据": "1908-01-25发；03-26前已到",
+        "ClaimId": "C009;C010",
+        "SourceId": "R01;R05",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (82.93249 41.71497, 79.93433 37.10927)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "文字支持走和田河床；直线不代表河道。本人经克里雅河的路线不移植到本线。",
+        "Label": "Kucha / Kuqa (city reference) → Khotan / Hotan (urban reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.93433,
+            37.10927
+          ],
+          [
+            -0.12574,
+            51.50853
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG010",
+        "关联EventId": "DH004",
+        "ObjectId": "B0004",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_KHOTAN",
+        "ToReferencePlaceId": "PL_LONDON",
+        "时间证据": "1908-08-01发；1909-01伦敦到达",
+        "ClaimId": "C013;C014;C015;C016",
+        "SourceId": "R01;R05;S07;S17",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (79.93433 37.10927, -0.12574 51.50853)",
+        "MapScale": "global_aggregate",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "总览关系线：文字已补Sanjou、Sanju Pass、Portash与Kashmir；未精定位和未核港口不造中途坐标。此线不与区域段累加计运输次数。",
+        "Label": "Khotan / Hotan (urban reference) → London (city reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.8042114,
+            40.0373163
+          ],
+          [
+            2.3488,
+            48.85341
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG011",
+        "关联EventId": "DH005;DH006",
+        "ObjectId": "B0005",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_MOGAO",
+        "ToReferencePlaceId": "PL_PARIS",
+        "时间证据": "1908取得；1909年底机构接收",
+        "ClaimId": "",
+        "SourceId": "S15;S22",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (94.8042114 40.0373163, 2.3488 48.85341)",
+        "MapScale": "global_aggregate",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "取得与机构接收集合的汇总关系；不代表全批经过北京，巴黎为城市参考。",
+        "Label": "Mogao Caves (site reference) → Paris (city reference)",
+        "RouteGroup": "Pelliot",
+        "SourceURL": "https://heritage.bnf.fr/france-chine/paul-pelliot-1878-1945-et-dunhuang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.8042114,
+            40.0373163
+          ],
+          [
+            103.83987,
+            36.05701
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG012",
+        "关联EventId": "DH005;DH006",
+        "ObjectId": "B0005",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_MOGAO",
+        "ToReferencePlaceId": "PL_LANZHOU",
+        "时间证据": "1908年主批行程；逐站货到日未核",
+        "ClaimId": "C025",
+        "SourceId": "R13",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (94.8042114 40.0373163, 103.83987 36.05701)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "主批含敦煌及其他材料；保留的少量写本另行。按考察队主批集合表达，未逐卷匹配；不画成全批经北京。",
+        "Label": "Mogao Caves (site reference) → Lanzhou (city reference)",
+        "RouteGroup": "Pelliot",
+        "SourceURL": "https://guimet-photo-pelliot.fr/essais/essai_11.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.83987,
+            36.05701
+          ],
+          [
+            108.92861,
+            34.25833
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG013",
+        "关联EventId": "DH005;DH006",
+        "ObjectId": "B0005",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_LANZHOU",
+        "ToReferencePlaceId": "PL_XIAN",
+        "时间证据": "1908年主批行程；逐站货到日未核",
+        "ClaimId": "C025",
+        "SourceId": "R13",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (103.83987 36.05701, 108.92861 34.25833)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "主批含敦煌及其他材料；保留的少量写本另行。按考察队主批集合表达，未逐卷匹配；不画成全批经北京。",
+        "Label": "Lanzhou (city reference) → Xi’an (city reference)",
+        "RouteGroup": "Pelliot",
+        "SourceURL": "https://guimet-photo-pelliot.fr/essais/essai_11.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.92861,
+            34.25833
+          ],
+          [
+            113.64861,
+            34.75778
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG014",
+        "关联EventId": "DH005;DH006",
+        "ObjectId": "B0005",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_XIAN",
+        "ToReferencePlaceId": "PL_ZHENGZHOU",
+        "时间证据": "1908年主批行程；逐站货到日未核",
+        "ClaimId": "C025",
+        "SourceId": "R13",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (108.92861 34.25833, 113.64861 34.75778)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "主批含敦煌及其他材料；保留的少量写本另行。按考察队主批集合表达，未逐卷匹配；不画成全批经北京。",
+        "Label": "Xi’an (city reference) → Zhengzhou (city reference)",
+        "RouteGroup": "Pelliot",
+        "SourceURL": "https://guimet-photo-pelliot.fr/essais/essai_11.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.64861,
+            34.75778
+          ],
+          [
+            121.45806,
+            31.22222
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG015",
+        "关联EventId": "DH005;DH006",
+        "ObjectId": "B0005",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_ZHENGZHOU",
+        "ToReferencePlaceId": "PL_SHANGHAI",
+        "时间证据": "1908年；12月1日前已存上海",
+        "ClaimId": "C025;C026",
+        "SourceId": "R13",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (113.64861 34.75778, 121.45806 31.22222)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "主批由Vaillant、Nouette负责，铁路运输有记述；直线不复原铁路轨迹、车站或车次。",
+        "Label": "Zhengzhou (city reference) → Shanghai (city reference)",
+        "RouteGroup": "Pelliot",
+        "SourceURL": "https://guimet-photo-pelliot.fr/essais/essai_11.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.45806,
+            31.22222
+          ],
+          [
+            2.3488,
+            48.85341
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_SG016",
+        "关联EventId": "DH006",
+        "ObjectId": "B0005",
+        "网络层": "实物流转",
+        "FromReferencePlaceId": "PL_SHANGHAI",
+        "ToReferencePlaceId": "PL_PARIS",
+        "时间证据": "1908年底语境发；1909-01-16主批到巴黎",
+        "ClaimId": "C026;C027",
+        "SourceId": "R13",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (121.45806 31.22222, 2.3488 48.85341)",
+        "MapScale": "global_aggregate",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "Nouette护送的考察队主批，含敦煌子集但逐箱未核。上海至法国航路、法国到港及转巴黎铁路未知；不套伯希和本人海防行程。",
+        "Label": "Shanghai (city reference) → Paris (city reference)",
+        "RouteGroup": "Pelliot",
+        "SourceURL": "https://guimet-photo-pelliot.fr/essais/essai_11.php"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "revised_for_user_review",
+  "checked_at": "2026-09-15T20:33:21.619332+08:00",
+  "render_application": "Microsoft Word for Mac",
+  "visual_review": "Both pages of current PDF inspected: no clipping/overflow; paragraph separation, citations, reference italics and hanging indents, links, page numbers and declaration checkboxes display correctly.",
+  "artifacts": {
+    "G6_WANG XIWEN_Writing Assignment 1.docx": "d59c637f0c28f33fb2389501eeea5cf60a5cdc5847b73a4d5259472067fc239a",
+    "修改说明.md": "6d62660d23db58d89dab0bd5283313d6131f3e8c776b5360a40bf012a7d023ee",
+    "G6_WANG XIWEN_Writing Assignment 1.pdf": "06892cc01f58749adace669dd488c3f2c1fe7f0e02b48caddde80a6ae0ee5260"
+  },
+  "evidence": {
+    "validation.json": "2f899f793e5bfa87c92c9c6cda4e8294da8acf4b30f7c6e637a2d4cb36553c90",
+    "package_audit.json": "68c2d1648f5e6a477a19545ae02c6b8a4d6a4c32c37bb3e222fb66e698980330",
+    "page-1.png": "eb27cf67b05d5b3ec802d050e470a6fc0cf84dd1be9a7f1856d8e9fc478f29c4",
+    "page-2.png": "29f96483a5cb8c7b224973554805a515fc9e46bdb7a9f87ff0c3398e65c5433f"
+  },
+  "remaining": "User review and personal truthful completion of AI declaration."
+}

@@ -1,0 +1,1231 @@
+
+--- PDF page 1 ---
+JRAS, Series 3 (2025), 35, 821–845
+doi:10.1017/S1356186325000161
+A RT I C L E
+WangYuanlu, the first ‘curator’ of the Stein collection’s
+Dunhuang corpus
+Mélodie Doumy
+Asian and African Collections, The British Library, London, UK
+Email: melodie.doumy@bl.uk
+Abstract
+Wang Yuanlu 王圓籙—the individual who accidentally stumbled upon the ‘library cave’ or Cave 17
+at the Mogao Caves near Dunhuang in June 1900—is behind one of the world’s most significant dis-
+coveries. Yet, in the years that followed, he was also responsible for the scattering of the cave’s
+contents and selling large chunks to Marc Aurel Stein in 1907 and to Paul Pelliot in 1908. How could
+the self-appointed guardian of this major Buddhist complex part with one of what is often described
+as its crowning jewels? This article delves into Wang Yuanlu’s motivations and highlights his agency,
+demonstrating that he was instrumental in shaping the now so-called Stein collection. One of the key
+sources for this investigation are the published writings of Marc Aurel Stein, which provide the most
+detailed descriptions of Wang and his activities during the period of the dispersal of the contents
+of Cave 17. These are supplemented by information drawn from the relevant parts of Stein’s diaries,
+Paul Pelliot’s writings, and primary sources and recent scholarship in Chinese that shed a different
+light on Wang’s doings. The article starts by studying Wang’s relationship with the Mogao Caves and
+their wider ecosystem. It then looks at the subsequent dispersal of the newly found hoard through
+his transactions with Stein in 1907 and 1914, which are contrasted with his dealings with Pelliot.
+Keywords: Cave 17; Dunhuang; provenance; Marc Aurel Stein; Wang Yuanlu
+Introduction
+In June 1900, an individual named Wang Yuanlu 王圓籙(1850?–1931) noticed a crack in the
+wall of the corridor leading to a large cave, Cave 16, at the Mogao Caves site, near Dunhuang,
+as he was conducting some restoration work. Upon checking what was behind the exposed
+plaster, he discovered a door behind which a small chamber had been excavated in the rock.
+Now commonly referred to as Cave 17 or the ‘library cave’, this room is thought to have been
+sealed off at the beginning of the eleventh century. It turned out to be a real ‘time cap-
+sule of Silk Road history’,1 containing tens of thousands of manuscripts, as well as printed
+documents, paintings on paper and silk, textiles, and other Buddhist artefacts.
+Wang rapidly alerted local officials to this discovery, but no immediate actions were
+taken. In 1904, orders were sent to keep the collection in place, and he remained de facto
+custodian of the cave. In 1910, an official from the Ministry of Education was dispatched
+to Dunhuang to transport all the manuscripts left in Cave 17 to Beijing for safekeep-
+ing. By then, the British-Hungarian archaeologist Aurel Stein (1862–1943) and the French
+Sinologist Paul Pelliot (1878–1945) had already respectively visited the Mogao Caves in 1907
+1 V. Hansen, The Silk Road: A New History (Oxford and New York, 2012), pp. 167–197.
+© Crown Copyright - The British Library, 2025. Published by Cambridge University Press on behalf of The Royal Asiatic Society.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 2 ---
+822
+Mélodie Doumy
+and 1908, and Wang had agreed to sell them both exceptionally large chunks of the reposi-
+tory’s contents. Later on, he parted with more items against payment. For this reason, Wang
+Yuanlu has been cast down in Chinese history as a villain, whose name, although associated
+with the discovery of Cave 17, is even more so linked to the dispersal of its contents. He has
+often been portrayed as being illiterate and unaware of the significance of the trove held
+in the cave, which resulted in his being duped by Western explorers. Others have simply
+considered him to be the prime example of a thief who profited from the sale of Dunhuang
+relics.2 In recent years, several Chinese scholars have started to show that Wang was driven
+by his piety and desire to protect the Mogao Caves. Yet he remains overall an obscure figure.
+Both Marc Aurel Stein’s personal narratives, Ruins of Desert Cathay and On Ancient
+Central-Asian Tracks, and the expedition reports that he wrote, Serindia and Innermost Asia,
+provide complementary accounts of his visits to the Mogao Caves and his negotiations
+with Wang Yuanlu over the contents of Cave 17. These books play a key part in shap-
+ing Stein’s self-representation, as he glorifies his own actions and, in doing so, minimises
+Wang’s role. However, when reading between the lines and bringing in other contempo-
+rary sources, it becomes possible to see that Wang Yuanlu had a much more important
+part in the care, arrangement, and dispersal of the cave’s contents. While Stein’s pub-
+lished accounts had a ‘performative’ dimension, they also contain information about
+Wang’s custodianship of the caves, his relationship with the wider local community, his
+motivations for selling Cave 17’s contents, and the way he selected materials for the
+explorer’s ‘examination’. Therefore, this article critically examines these writings, con-
+trasting them (when relevant) with material from his travel diaries, as well as Pelliot’s
+accountandothercontemporaneoussourcesinChinese.ItproposesafullerpictureofWang
+Yuanlu—the ‘priestly librarian’3 who could be considered as the first ‘curator’ of the cave’s
+contents—and highlights his agency in shaping the so-called Stein collection.
+Abbot Wang: guardian of the Mogao Caves
+Wang Yuanlu and the discovery of Cave 17
+Little is known about Wang Yuanlu 王園祿(Figure 1).4 Much of the information we have
+about him comes from the accounts of Stein, Pelliot, and other foreign explorers.5 Originally
+from Macheng 麻城County in Hubei 湖北, he was born in circa 1849–1850. Later in life, hav-
+ing fled the drought and famine raging in his native province, he ended up at Jiuquan 酒泉
+(then Suzhou 肅州) and served in the military.6 During his service, Wang Yuanlu converted
+to Daoism under the guidance of a master named Shengdao 盛道.7 After being discharged
+2 Chen Wanli 陳萬里, Xixing riji 西行日記[A Diary of Westward Travels], (ed.) Yang Xiaobin (Lanzhou, 2000), p. 8.
+3 M. A. Stein, Ruins of Desert Cathay: Personal Narrative of Explorations in Central Asia and Westernmost China (London,
+1912), vol. ii, p. 190.
+4 Several Chinese primary sources dating from the time at which Wang Yuanlu was active at Dunhuang indicate
+that his name (though phonetically the same) was originally with the characters ‘園祿’. It is only on his epitaph
+that it was changed to ‘圓籙’. In addition, Fang Guangchang has suggested that his secular name was Wang Fulin
+王福琳. Fang Guangchang 方廣錩, ‘Wang Daoshi mingcheng kao’ 王道士名称考[On the name and titles of Taoist
+Priest Wang], Dunhuang yanjiu 敦煌研究4 (2016), pp. 111–118.
+5 Rong Xinjiang, Eighteen Lectures on Dunhuang, (trans.) I. Galambos (Leiden and Boston, 2013), p. 107.
+6 Stein thought that Wang Yuanlu ‘was a poor friendless mendicant’ from Shaanxi 陝西. See M. A. Stein, Serindia:
+Detailed Report of Explorations in Central Asia and Westernmost China, etc. (Oxford, 1921), vol. 2, p. 804. Wang Jiqing
+examined in detail the various sources available and demonstrated that, although Wang Yuanlu’s place of origin is
+most often given as Hubei, including on his epitaph, some official Chinese documents from the late Qing Dynasty
+mention that he came from Hanzhong 漢中in Shaanxi. According to Wang Jiqing, it is perfectly conceivable that
+Wang Yuanlu was born in Hubei but spent a lot of his adult life in Shaanxi. Wang Jiqing 王冀青, Guo bao liu san:
+Zang jing dong de gu shi 國寶流散: 藏經洞的故事(Lanzhou, 2007), pp. 3–6.
+7 Rong, Eighteen Lectures on Dunhuang, pp. 79–80.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 3 ---
+Journal of the Royal Asiatic Society
+823
+Figure 1. Portrait of Wang Yuanlu taken by Marc Aurel Stein in June 1907. Source: © From The British Library
+Collection: Photo 392/26(327).
+from the army, Wang became a Daoist priest. This earned him the nickname of Wang Daoshi
+王道士(‘the Daoshi’ for Stein).8 At the extreme end of the nineteenth century, possibly
+between 1897 and 1899, Wang Yuanlu settled at the Mogao Caves complex 莫高窟or Caves
+of the Thousand Buddhas 千佛洞, where he stayed until his death in 1931.
+The Mogao Caves are located within a close distance south-east of the oasis town of
+Dunhuang 敦煌, which was established as a frontier garrison outpost in the second cen-
+tury BCE and came to be a strategic spot at the cross of the Northern and the Southern
+Silk Roads. The first cave is said to have been carved in 366 CE by a Buddhist pilgrim monk
+and, over the next millennium, almost 1,000 caves and niches were gradually excavated in
+8 The term ‘daoshi 道士’ has often been translated as ‘Abbot’ in English, although it would be more accurate to
+call him a ‘priest’ or a ‘Daoist master’.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 4 ---
+824
+Mélodie Doumy
+the sandstone cliff face, half of them richly decorated with painted murals and clay sculp-
+tures. In the fourteenth century, the land Silk Roads began to decline and the site gradually
+fell into disuse. When the Frenchman Charles-Eudes Bonin (1865–1929) visited the Mogao
+Caves in 1899, at around the same time as Wang Yuanlu himself arrived at the site, he com-
+mented on the fact that the caves on the lower level were in danger of being completely
+silted up if no one took adequate measures.9 Little did he know that Wang had come to the
+same realisation.
+Soon after settling down at the Mogao Caves, Wang Yuanlu started to collect donations
+from devout locals. With the money, he set about repairing the three-storey complex linked
+to the eminent ninth-century Monk Wu Hongbian.10 By the time Stein arrived at the Mogao
+Caves, Wang had restored a large Buddhist cave on the ground floor (Cave 16) ‘to what he
+conceived to have been its original glory’.11 Wang Yuanlu hired several workers to clear off
+drift sand and debris from its entrance. As they were slowly proceeding with their task,
+they accidentally stumbled upon a small hidden cave in June 1900.12 Excavated in the north
+wall of the corridor and later closed off, the room was only a few cubic metres large. It was
+filled, from floor to ceiling, with manuscripts, paintings, textiles, and other artefacts. These
+items dated from the late fourth century to the beginning of the eleventh century—the time
+around which the cave commonly referred to as Cave 17, or the ‘library cave’, was probably
+sealed off.
+Perhaps hoping to get some form of financial compensation or recognition for his pious
+endeavours, Wang Yuanlu immediately went to report the discovery to the local county
+magistrate, Yan Ze 嚴澤(dates unknown). He took two manuscripts with him as proof,
+but no actions were taken. When the new county magistrate Wang Zonghan 汪宗翰(b.
+1845) came to Dunhuang in April 1902, he was informed of the existence of Cave 17 and
+given several of its items. In turn, Wang Zonghan wrote about this to the epigrapher Ye
+Changshi 葉昌熾(1849–1917), who was Gansu provincial education commissioner from
+1902 to 1906.13 Furthermore, it appears that Wang Yuanlu also showed a case of manuscripts
+to the Qing official Ting Dong 廷棟(1866–1918), but the latter did not regard these as impor-
+tant.14 Based on Stein’s expedition report, ‘news of the discovery having reached distant
+Lanzhou, specimens of the manuscripts were asked for from provincial headquarters’.15
+9 C.-E. Bonin, ‘Les grottes des Mille Bouddhas’, Comptes rendus des séances de l’Académie des Inscriptions et Belles-
+Lettres 45.2 (1901), p. 212. For a detailed article about Bonin’s visit to Dunhuang and relations with explorers Pelliot
+and Hedin, see M. Doumy, ‘Charles-Eudes Bonin: the first French person to visit Dunhuang’, Silk Roads Archaeology
+and Heritage 1.1 (2023), pp. 1–20, https://doi.org/10.5334/srah.3. For a full biography of Bonin in French, see S.
+Malsagne, Au Coeur du Grand Jeu: La France en Orient. Charles-Eudes Bonin (1865–1929), explorateur diplomate (Paris, 2015).
+10 This information is found in the stele ‘Record of Merit for the Restoration of the Thousand Buddha Caves’
+three-storey building (Ch. ‘Chong xiu Qianfodong san ceng lou gong de bei ji 重修千佛洞三层楼功德碑记’) dated to
+1906, as well as in Wang Yuanlu’s epitaph. See Fan Guangchun 樊光春, ‘Dunhuang Daoshi Wang Yuanlu pingzhuan’
+敦煌道士王圆箓评传[Critical biography of Dunhuang’s Daoist priest Wang Yuanlu], Zhongguo daojiao 中國道教
+5 (2008), pp. 43–44.
+11 Stein, Ruins of Desert Cathay, p. 168.
+12 The date of the discovery of Cave 17 varies depending on sources: it can be given as 20, 22, or 25 June 1907.
+13 Huang Zheng 黄征, Jie chen yi zhu: Dunhuang yi shu 劫尘遗珠: 敦煌遗书[The Lost Pearl: Dunhuang Manuscripts]
+(Lanzhou, 1999), pp. 10–13. Rong Xinjiang and Justin Jacobs both suggested that Wang Yuanlu may not have told
+Wang Zonghan and local authorities the whole truth about the actual scope of the cave’s contents. They refer to the
+fact that Ye Changchi 葉昌熾(1849–1917), Gansu provincial education commissioner from 1902 to 1906, thought
+that the cave only had several hundreds of manuscripts. It could be that he heard this from Wang Zonghan, who
+was deliberately misled by Wang Yuanlu. See Rong, Eighteen Lectures on Dunhuang, pp. 90–91, 101; J. Jacobs, The
+Compensations of Plunder: How China Lost Its Treasures (Chicago and London, 2020), pp. 96–97.
+14 Rong, Eighteen Lectures on Dunhuang, p. 85.
+15 Stein, Serindia, p. 802.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 5 ---
+Journal of the Royal Asiatic Society
+825
+However, ‘hours of diplomatic converse’ with Wang Yuanlu purportedly revealed to the
+explorer that ‘they had failed to attract any interest there’ and that:
+[…] to Wang’s undisguised chagrin no further notice had been taken of his treasured
+old manuscripts or, indeed, of his pious labours which had led to their discov-
+ery. Officialdom had rested satisfied with a rough statement that the whole of the
+manuscripts would make up seven cartloads, and, evidently grudging the cost of
+transport or the trouble of close examination, had left the whole undisturbed in
+charge of the Tao-shih [Daoshi] as self-constituted guardian of the temple.16
+In any event, in May 1904, the provincial government ordered Wang Zonghan in Dunhuang
+to take measures for the preservation of Cave 17’s contents.17 Some scholars have argued
+that he was also asked to take an inventory of the manuscripts and paintings.18 As for
+Wang Yuanlu, to whom the overall responsibility of safeguarding the deposit was delegated,
+there is evidence that he took the necessary precautions to prevent anyone from entering
+the cave without his consent. In his travel diary, Stein recounts that he first heard of the
+manuscripts found at the Mogao Caves from Zahid Beg, a trader from Urumchi, who told
+him that these ‘had been locked by order’.19 Indeed, Wang had attached a wooden door to
+the opening of the cave and kept the key. On 16 March 1907, when Stein and his Chinese sec-
+retary Jiang Xiaowan 蔣孝琬or Jiang Shiye 蔣師爺20 (d. 1922) first came to the Mogao Caves
+and tried to access the small cave, it was carefully locked in the absence of Wang Yuanlu,
+who had gone begging for alms around Dunhuang with two followers.21 Upon returning
+two months later, on 21 May 1907, the British-Hungarian explorer found out that the nar-
+row opening had been ‘completely walled up with brickwork’, allegedly to protect it from
+the intrusion of eager pilgrims22 but maybe also as a ‘special precaution taken against [his]
+inquisitive eyes’.23 When the French Sinologist Paul Pelliot went to the Mogao Caves in 1908,
+the door to Cave 17 was also locked and he had to wait for Wang Yuanlu to meet him with
+the key.24
+16 Ibid, pp. 803–804; see also Stein, Ruins of Desert Cathay, p. 167; and Wang Jiqing, ‘Aurel Stein’s dealings with
+Wang Yuanlu and Chinese officials in Dunhuang in 1907’, in Sir Aurel Stein, Colleagues and Collections, (ed.) H. Wang
+(London, 2012), p. 3. For an expanded version of this article, see Wang Jiqing 王冀青, ‘1907 nian Sitanyin yu Wang
+yuanlu ji Dunhuang guanyuan zhijian de jiaozhu 1907’ 年斯坦因与王圆禄及敦煌官员之间的交往[Stein’s dealings
+with Wang Yuanlu and Dunhuang officials in 1907], Dunhuang xue jikan 3 (2007), pp. 60–76.
+17 Huang Zheng, Jie chen yi zhu, pp. 10–13; see also Wang Jiqing, ‘Aurel Stein’s dealings’, p. 3.
+18 Ma Shichang 马世长used the colophon written by Wang Zonghan on a painting from Cave 17 as
+proof. The dedication, which has been translated into English with the help of Hsieh Han-Lin, reads as
+follows: 甘肅敦煌縣千佛洞宋初石室所藏畫大士像。光緒卅年四月朔, 奉檄檢點經卷畫像, 迎歸署中供養。
+信士敦煌知縣王宗翰謹記。(Tang Dynasty painting of Avalokiteśvara stored in an early Song Dynasty cave at the
+Thousand Buddha Caves in Dunhuang county, Gansu. On the first day of the 4th moon of the 30th year of Guangxu,
+I took the official order to inventory the sutra scrolls and paintings and to bring them back to the government for
+offering). Recorded by the devotee Wang Zonghan, magistrate of Dunhuang. See Ma Shichang, ‘Guanyu Dunhuang
+Cangjingdong de ji ge wenti’ 关于敦煌藏经洞的几个问题[Several questions regarding Dunhuang Cave 17], Wenwu
+12 (1978), pp. 22, 33, n. 3.
+19 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908,
+entry for 15 March 1907, MSS Stein 245: f. 167.
+20 The term ‘shiye 師爺’ refers to Jiang’s role as a private assistant or private adviser, attending to secretarial
+duties for Stein.
+21 Stein, Ruins of Desert Cathay, p. 29.
+22 Ibid, pp. 165–166.
+23 Stein, Serindia, p. 803.
+24 P. Pelliot, ‘Une bibliothèque médiévale retrouvée au Kan-sou’, Bulletin de l’École Française d’Extrême Orient 8
+(1908), p. 505; this was also mentioned in his travel diary on 27 February 1908; see P. Pelliot, Carnets de Route,
+1906-1908, (eds.) J. Ghesquière and F. Macouin (Paris, 2008), p. 277.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 6 ---
+826
+Mélodie Doumy
+We have therefore seen that Wang, who was already acting as the self-appointed care-
+taker of the Mogao Caves, came to oversee the protection Cave 17 and its contents in a
+semi-official capacity in the years following his extraordinary chance discovery. Having
+attempted to alert several officials, he was instructed to provisionally look after the small
+cave and its contents, and locked it for safety. We will now demonstrate that he was assum-
+ing this role not as a lone Daoist monk, but rather as a well-integrated member of the local
+religious community, including resident Buddhist monks.
+Wang Yuanlu and the local Buddhist community
+In 1894, the Russian officer and explorer Vsevolod Ivanovich Roborovsky (1856–1910) vis-
+ited Dunhuang and noted that the Thousand Buddha Caves still attracted up to 10,000
+worshippers every year.25 Over a decade later, the annual celebrations that Stein witnessed
+on his way back from the Dunhuang Limes demonstrated that the caves, ‘notwithstand-
+ing all apparent decay, were still real cult places “in being”’. A few Buddhist dwellers also
+resided at the site. When Wang Yuanlu first put down roots at the Mogao Caves, three tem-
+ples were located in front of the caves: the upper and middle temples were already occupied
+by Tibetan monks, so he moved to the lower temple in the southern section of the site.26
+Wang Jiqing has suggested that the lower temple was used for Daoist activities in the early
+1820s, but that it later went unoccupied for a long time.27 In 1907, Stein observed that Wang
+lived with two ‘humble acolytes’, likely the same two companions who went with him on
+begging tours, and that he appeared to ‘spen[d] next to nothing on his person or private
+interests’, channelling all the donations collected over the years ‘upon [these] labours of
+piety’.28 The perception that Wang was dedicated and selflessness was also confirmed in
+the 1980s by a member of the Dunhuang Academy, Li Zhengyu 李正宇, who had derived
+the same information from local stories.29
+Wang Yuanlu was continuing or joining efforts to rehabilitate the site that had
+started before his arrival.30 As explained by the Russian army officer Vsevolod Ivanovich
+Roborovsky, limited repairs were already underway when he visited the Mogao Caves in
+1894:
+The heshang 和尚[monks] living there (4 people) complain that the government is
+taking no measures to repair the caves, whereas private donations for the purpose
+25 I. Popova, ‘S.F. Oldenburg’s Second Russian Turkestan Expedition (1914–1915)’, in Russian Expeditions to Central
+Asia at the Turn of the 20th Century (St. Petersburg, 2008), p. 163, http://www.orientalstudies.ru/rus/images/pdf/a_
+popova_2008d.pdf.
+26 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries, entry for 27 May 1907, MSS Stein 204:
+f. 315; see also Rong, Eighteen Lectures on Dunhuang, p. 82; Jacobs, Compensations of Plunder, p. 95.
+27 According to Wang Jiqing, Gusztáv von Kreitner (1847–1893), who visited the site in May 1879 with the Count
+Béla Széchenyi (1837–1893) and Lajos Lóczy (1849–1920), referred to two lamas, established already for 15 years at
+the Mogao Caves in his travel account, but he did not allude to the presence of any Daoist monks. Neither did the
+Russian explorer Nikolai Mikhailovich Przhevalsky (1839–1888), who came to Dunhuang a few months later. See
+Wang, Guo bao liu san, p. 8.
+28 Stein, Ruins of Desert Cathay, p. 168.
+29
+Jin
+Ronghua
+金榮華,
+Wang
+Daoshi—Dunhuang
+wenwu
+wailiu
+guanjian
+renwu
+tanwu
+王道士—
+敦煌文物外流關鍵人物探微[The Daoist Priest Wang—Exploring the Key Figures in the Dispersal of Dunhuang
+Items] (Taipei, 1993), p. 109.
+30 As early as 1772, a lama named Li Xinneng 李心能and his disciple Yuan Xiu 源修undertook to restore the
+Leiyin Temple 雷音寺with the alms they had collected; see Wang, Guo bao liu san, p. 7.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 7 ---
+Journal of the Royal Asiatic Society
+827
+are scarce. So far only 5 or 6 caves have been put right; entrances to them have been
+mended, wooden annexes built and fanzas for heshang repaired.31
+In some of his correspondence, Stein referred to Wang Yuanlu as ‘the priest chiefly con-
+cerned’ with Cave 17,32 which makes sense given the specific role he was entrusted with.
+His published narrative conveys the impression that Wang carried this responsibility with
+the awareness of resident Buddhist monks, who oversaw the care of the caves with him:
+‘The shrine, though full of Buddhist frescoes and sculptures, was in charge of a Taoist priest,
+the small fraternity of Ho-shangs [he shang 和尚] or Buddhist monks, to which our guide
+belonged, peacefully sharing with him the guardianship of the site.’33 From this description,
+we gain a picture of Wang Yuanlu not only living alongside local Buddhist monks, but also
+collaborating with them towards the same ends.
+There is evidence that Wang granted them access to some of the items from Cave 17. As
+mentioned earlier, Stein had to wait before he could access the ‘walled-up library’ and take
+full measure of its treasures because Wang was not there when he first made his way to
+the Mogao Caves. In Serindia, Stein wrote that a young monk helped him and Jiang Xiaowan
+to locate the newly discovered hoard and agreed to show them one of the Chinese scrolls
+from Cave 17. The ‘beautifully preserved’ manuscript, ‘with its fine texture and carefully
+smoothed surface’, showed ‘excellent penmanship’ and had been lent to his spiritual mas-
+ter, a Tibetan lama, in order to give ‘additional lustre’ to his small private chapel.34 Stein
+noted in his diaries that the specimen was brought by Jiang from the chapel of an absent
+monk and that a young monk acted as a guide—an account that appears to align with his
+published narrative.35 A photograph taken in 1908 by Charles Nouette, the photographer
+of the expedition led by Paul Pelliot, also depicts a Buddhist monk engaged in ritual prac-
+tice (Figure 2). He is standing before an altar on which he has set up a book, an incense
+burner, several statues, and a few other ritual objects. We can see paintings hanging in
+the background, two of which are now in the collections of the Musée Guimet in France.36
+If these paintings indeed came from Cave 17, then this suggests again that local Buddhist
+monks used some of the cave’s contents for religious purposes, presumably with Wang’s
+consent.37
+That such a significant Buddhist complex—even one that had fallen into dereliction
+and relative disuse—ended up being overseen by a Daoist monk may seem surprising. One
+should remember that there probably was no real clear-cut divide between Daoism and
+Buddhism at the time. For instance, Stein remarked that the peoples of Dunhuang were
+‘attached with particular zeal to such forms of worship as represent Buddhism in the queer
+31 The text was translated and quoted by Irina Popova from Труды экспедиции ИРГО по Центральной Азии.
+Ч. 1. Отчет начальника экспедиции В.И. Роборовского [Works of the IRGS Expedition to Central Asia. Part 1. Report
+of the Expedition Head V.I. Roborovsky] (St Petersburg, 1900), p. 218; see Popova, ‘S.F. Oldenburg’s Second Russian
+Turkestan Expedition’, p. 163.
+32 Confidential report by Stein concerning the cache of ancient manuscripts at Dunhuang, British Museum
+Central Archives, CE 32/23/16/2.
+33 Stein, Ruins of Desert Cathay, p. 29.
+34 Stein, Serindia, pp. 801–802.
+35 Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908, entry
+for 16 March 1907, MSS Stein 204: f. 169.
+36 The silk paintings are EO 3579, which represents the Amoghapaśa mandala, and EO 1146, which is probably the
+remaining top section of a mandala. I am very grateful to Roderick Whitfield, who helped with this identification,
+personal communication, 14 December 2023.
+37 This implies that it would probably have been difficult for Wang Yuanlu to sell these specific items to Pelliot
+without some level of awareness among the resident monks.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 8 ---
+828
+Mélodie Doumy
+Figure 2. Photo of a monk taken between 25 February and 27 May 1908, AP8586. Source: © MNAAG, Paris, Dist.
+RMN-Grand Palais/image musée Guimet.
+medley of Chinese popular religion’.38 Whether Wang Yuanlu was truly Daoist has been
+debated. For instance, László Bárdi highlighted that Wang was cited in an alternative fash-
+ion as a Daoist or a Buddhist, and that some sources indicate he changed status over time
+from a Daoist to a Buddhist monk.39 It is not uncommon for Daoist practitioners to also
+venerate Buddhist deities, such as Guanyin.
+In fact, Wang Yuanlu was most probably initiated to the Longmen branch of Quanzhen
+Daoism, which was present at Dunhuang then and remains one of the largest Daoist sects in
+38 M. A. Stein, On Ancient Central-Asian Tracks: Brief Narrative of Three Expeditions in Innermost Asia and North-Western
+China (London, 1933), vol. 1, p. 199.
+39 L. Bárdi, ‘Chinese assessment of Sir Aurel M. Stein’s work’, in Aurel Stein Bibliography, (ed.) I. Erdélyi
+(Bloomington, IN, 1999), p. 45, n. 1.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 9 ---
+Journal of the Royal Asiatic Society
+829
+China today.40 Scholars have stressed that this particular branch of Daoism includes many
+elements that are indistinguishable from those of Buddhism.41 According to Rong Xinjiang,
+the aim of Wang’s restorations was to convert Buddhist halls into Daoist shrines.42 While
+Stein’s accounts referred to Wang’s works as ‘tokens of lingering Buddhist worship, gen-
+uine though distorted’,43 his travel diary did mention an ‘invasion of Taoist imagery’ in the
+shrines.44 Wang’s epitaph, inscribed on the tomb stone erected by two of his disciples in
+1931, states that he was put in charge of the county’s Daoist Association by the magistrate
+Lu Qian 陸前in recognition of his merits. Importantly, the epitaph stresses Wang’s gen-
+uine dedication to restoring the Mogao Caves, including the Buddhist statues, as well as his
+endeavour to convince people to contribute money towards these efforts.45 As attested by
+a letter on red paper signed in his name, it seems that Wang Yuanlu even sent a plea for
+a large donation to the local administration following the transfer of Cave 17’s remaining
+contents to Beijing.46
+It is therefore clear that being a Daoist did not preclude Wang from revering the Mogao
+Caves as a Buddhist site and devoting his existence to their upkeep. According to the stele
+‘Record of the Thousand Buddha Caves’ Thousand Images Pagoda’ by Ting Dong, Wang
+Yuanlu collected several damaged Buddha statues in 1910 and placed them in a specially
+built pagoda.47 The pagoda was demolished in the 1940s and the artefacts it contained are
+now in the collections of the Dunhuang Academy.48 There is further evidence that Wang
+Yuanlu’s worship extended to the contents of Cave 17, particularly textual materials. We
+know of two instances in which he directly used the manuscripts from the cave for devo-
+tional and merit-making purposes. A document in the Dunhuang county archives dated to
+1910 recorded that, in 1908, he ‘loaded some Buddhist scrolls into two barrel-like contain-
+ers, tightly sealed these and placed them on wooden poles inside a Buddhist hall, calling
+them sūtra-turning wheels’.49 In 1944, the Dunhuang Academy also found 72 manuscripts
+inside a statue located in a Daoist temple built by Wang Yuanlu in the early 1900s.50 Given
+40 Fan Guangchun 樊光春, ‘Dunhuang Daoshi Wang Yuanlu pingzhuan’, p. 44.
+41 J. Abercombie, ‘Syncretism in the Study of Quanzhen Taoism: From Essence to Argument’ (unpublished PhD
+thesis, Whitman College, 2012), arminda.whitman.edu/theses/12 (accessed 18 July 2024).
+42 Rong, Eighteen Lectures on Dunhuang, p. 83.
+43 Stein, Ruins of Desert Cathay, p. 169.
+44 Bodleian Libraries Oxford, entry for 29 May 2023, MSS Stein 204: f. 320.
+45 The tombstone is located inside a stupa containing the remains of Wang Yuanlu, near the Mogao Caves. Zhao
+Mingyu 趙明玉, ‘Tai qing gong da fang zhang dao hui si Wang shi Fazhen muzhi’ 太清宮大方丈道會司王師法真墓誌,
+in Wei Juxian 衛聚賢, Dunhuang shishi 敦煌石室, Appendix 9, Shuowen yuekan 說文月刊3/10 (1946), pp. 35–36.
+46 The letter is held at the Dunhuang Academy, under object number D0311. Referred to in Chinese as
+‘催養經款草丹’ or ‘王道士薦疏’, it is signed by Wang Yuanlu and dated to the first to third years of the Xuantong
+宣统reign (1910–1911). Some scholars have also suggested that the letter was addressed to the Empress Cixi 慈禧
+or to an eminent Buddhist monk. I am grateful to Dunhuang Academy colleagues for this information and for
+showing me the document.
+47 This information is recorded in the stele ‘Record of the Thousand Buddha Caves’ Thousand Images Pagoda’
+(Ch. ‘Dunhuang Qianfodong Xiangta ji 敦煌千佛洞千相塔记’), dated to the second year of Xuantong’s reign; see Fan
+Guangchun, ‘Dunhuang Daoshi Wang Yuanlu pingzhuan’, p. 43. The stele, 112 centimetres high by 56 centimetres wide
+and 12 centimetres thick, is now in the exhibition centre of the Dunhuang Academy (collection number Z1114).
+48 Zhao Shengliang 赵声良, ‘1943 nian Luo Jimei pai she Dunhuang shi ku zhao pian de yi yi’ 1943
+年罗寄梅拍摄敦煌石窟照片的意义[The significance of Luo Jimei’s 1943 photographs of the Dunhuang Caves],
+in Pengpai Xinwen 澎湃新闻, 23 October 2019, https://www.thepaper.cn/newsDetail_forward_4633619 (accessed
+3 April 2024).
+49 Rong, Eighteen Lectures on Dunhuang, pp. 116–117.
+50 J.-P. Drège, ‘Notes codicologiques sur les manuscrits de Dunhuang et de Turfan’, Bulletin de l’Ecole française
+d’Extrême Orient 74 (1985), p. 489.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 10 ---
+830
+Mélodie Doumy
+the public and communal nature of these activities, it is highly likely that members of the
+resident Buddhist community knew of them.
+We can now see that Wang Yuanlu, who made it his mission in life to raise funds towards
+the upkeep and restoration of the Mogao Caves, joined ongoing initiatives that had begun
+long before his arrival and was deeply connected to the site’s Buddhist monks. Upon finding
+Cave 17, he became responsible for safeguarding its contents, albeit as a representative of
+the local religious community at large. Both Wang and the resident monks established at
+the caves were using some of the cave’s manuscripts and paintings for their ritual activities.
+Such information calls for a deeper foray into Wang’s relationship with the contents of the
+small repository.
+Wang Yuanlu and the contents of Cave 17
+Contrary to what has been said, Wang Yuanlu was not illiterate. He possessed at least some
+rudimentary literacy and numeracy skills, as demonstrated by the fact he kept a list of
+the various donations he received.51 The letter on red paper mentioned earlier in this arti-
+cle could have been written by Wang, even if it is unconfirmed. Furthermore, a Dunhuang
+manuscript in Ryukoku University’s Omiya Collection bears two inscriptions that have been
+tentatively attributed to him by the scholar Fang Guangchang, which could be evidence of
+his ability to write Chinese.52 Stein’s assistant Jiang Xiaowan reported that Wang was ‘igno-
+rant of all that constitutes traditional Chinese scholarship’.53 Ironically, the two of them
+were ill-placed to make this observation: Stein deplored ‘the great hindrance created by
+[his] total want of Sinological training’ when faced with the mass of Chinese rolls from Cave
+17,54 while Jiang struggled to make sense of their Buddhist content.55
+With the help of his local network, Wang Yuanlu might have had an edge over them
+in identifying some of the texts from the small cave. During his visit in 1908, the French
+Sinologist Paul Pelliot observed perfectly ordered Tibetan manuscripts enclosed in wooden
+covers. Relying on information from some Tibetan monks, Wang identified them as a form
+of Kanjur, which Pelliot interpreted as an early version of the Tibetan Buddhist canon: ‘It
+seemed probable a priori that the perfectly ordered kia-pan, the only works in order in the
+whole library, represented a Kandjur; and this is precisely the information that the Wang
+tao gave me himself, based on the testimony of the lamas who have had access to the cave.’56
+While this turned out not to be strictly true, as the volumes contained copies of Perfection
+of Wisdom sutras, the lamas were perhaps identifying the volumes as ‘Kanjur’ because of
+their appearance and because they contained important canonical texts. Such large vol-
+umes could have served a similar ritual function to Kanjur collections in local monasteries.
+In any case, this indicates that Wang was able to gather valuable knowledge through local
+sources.
+51 Wang Yuanlu showed his accounts and his temple subscription to Jiang Xiaowan; see Stein, Ruins of Desert
+Cathay, p. 168. When Stein went back to the Mogao Caves in 1914, Wang still kept a ‘fine red book of donations’; see
+M. A. Stein, Innermost Asia: Detailed Report of Explorations in Central Asia, Kan-su and Eastern Iran (Oxford, 1928), p. 357.
+52 Fang Guangchang 方廣錩, ‘Wang Daoshi mingcheng kao’, pp. 116–118.
+53 Stein, Serindia, p. 804.
+54 Ibid, pp. 821, 809: ‘The limitations of my philological knowledge would not permit a rapid selection of what
+might be of special interest amidst these masses of Chinese texts.’
+55 Ibid, p. 802.
+56 P. Pelliot, ‘Une grotte médiévale retrouvée au Kan-sou’, Bulletin de l’École française d’Extrême- Orient 8 (1908),
+p. 507: ‘Il semblait probable a priori que les kia-pan parfaitement en ordre, les seuls ouvrages en ordre de toute la
+bibliothèque, représentaient un Kandjur; et c’est justement le renseignement que m’a donné de lui-même le Wang
+Tao, sur la foi des lamas qui ont eu accès dans la grotte.’
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 11 ---
+Journal of the Royal Asiatic Society
+831
+There is further reason to believe that Wang Yuanlu’s limited knowledge was sufficient
+for him to realise the importance of the manuscripts, paintings, and other relics that the
+cavecontained.Onnumerousoccasions,includingsomementionedearlier,Wanggaveaway
+discreet batches from the newly found hoard to officials and dignitaries in Gansu, caus-
+ing the early dispersal of Cave 17’s contents from 1900 onwards.57 In doing so, Wang was
+perfectly able to select the better preserved, most complete, and aesthetically pleasing
+specimens. He hand-picked several beautiful paintings and removed Buddhist and Daoist
+scriptures that not only were finely written, but also happened to possess a high scholarly
+value.58 Pelliot’s writings also reveal that there were copper statuettes in the cave, which
+Wang Yuanlu also used as gifts.59 As stressed by Susan Whitfield, to find such exceptional
+specimens, Wang would have gone through a considerable number of items.60
+At some point between 1900 and 1904, Wang completely emptied Cave 17 before he
+received the order to put the whole ‘collection’ back in it.61 During this process, he must
+have had the opportunity to form an overall idea of everything that had been deposited in
+the small room prior to its sealing-off. Because the scattering of the cave’s contents started
+very soon after its discovery, this makes Wang Yuanlu the only person who was ever close
+to knowing their full extent and original arrangement. Stein wrote that Wang was looking
+for ‘valuables’.62 This somehow conveyed the image of Wang Yuanlu as an individual driven
+by greed. It would be more accurate to say that he was searching for valuable items, which
+could be understood in terms of their significance as well as their monetary value. Wasn’t
+the British-Hungarian explorer himself drawn to the Caves of the Thousand Buddhas by
+the promise of Cave 17’s hidden ‘treasures’?63 Wang could have decanted the cave to get
+a better understanding of what was in there, perhaps even to reorder its contents into an
+arrangement that he deemed more adequate.
+Wang Yuanlu certainly did play a vital role in the organisation of Cave 17’s contents
+when he rehoused them. Stein described what were two very distinct kinds of bundles in
+the cave: the ‘regular’ bundles, composed of uniform packets containing canonical Buddhist
+texts in Chinese and Tibetan that may have once belonged to monastic libraries; and the
+‘miscellaneous’ or ‘mixed’ bundles, filled with fragmentary Chinese and Tibetan rolls, non-
+Chinese texts, paintings, textiles, and other ex-votos.64 Wang had sorted and structured
+these bundles according to their type and physical characteristics. At the bottom, he had
+put several ‘miscellaneous’ bundles to ‘what he thought appropriate use in turning the floor
+at the foot of the north wall and on either side of the clay platform into a foundation level
+with the latter’.65 In his diary, Stein recorded that some of these bundles, which contained
+pictures and waste paper, may even have been placed there to keep off the damp.66 He had
+then built on this base a ‘wall-like array’ of ‘regular’ manuscript bundles, above which lay
+57 Hundreds of items—both manuscripts and paintings—had been given to officials and other individuals before
+Aurel Stein arrived at Dunhuang in 1907; see Rong, Eighteen Lectures on Dunhuang, pp. 84–102.
+58 Ibid, pp. 84, 100–101.
+59 These items proved particularly popular and were rapidly almost exhausted, but Pelliot managed to secure a
+few during his visit; see Pelliot, ‘Une grotte médiévale’, pp. 506, 528.
+60 P. Terzi and S. Whitfield, ‘Reconstructing a medieval library? The contents of the manuscript bundles in the
+Dunhuang Library Cave’, Silk Roads Archaeology and Heritage 1.1 (2023), pp. 56–76.
+61 Stein, Ruins of Desert Cathay, p. 182; Stein, Serindia, pp. 808–809.
+62 Stein, Ruins of Desert Cathay, p. 182; Stein, Serindia, pp. 808–809.
+63 Stein, Serindia, p. 801.
+64 Ibid, p. 814.
+65 Ibid, p. 823.
+66 Bodleian Libraries Oxford, entry for 28 May 1907, MSS Stein 204: ff. 317–318: ‘During the Tao-shih [Daoshi]’s
+absence, I succeeded in digging down to floor in the NE corner. Here between the wall & base three bundles full
+of silk pict[ure]s, waste paper, etc., had been thrown down to keep off the damp! […] No moisture in rock, but clay
+built base appar[ently] absorbs some from outside air.’
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 12 ---
+832
+Mélodie Doumy
+numerous irregularly shaped bundles with heterogeneous contents.67 If anything, the way
+Wang rehoused the materials in the cave seemed careful and intentional, not haphazard.68
+Whether to raise awareness of the pious efforts that were being carried out and solicit
+donations or to genuinely alert people to this extraordinary discovery, Wang Yuanlu hand-
+picked hundreds of fine manuscripts, paintings, and other artefacts, and gifted them to
+officials, triggering their slow dispersal as early as 1900. He may not have realised the full
+historical, cultural, and scholarly value of the objects contained in the hoard, but this is not
+to say that he did not consider them to be important. Wang knew better than anyone what
+was inside Cave 17 and carefully reorganised the bundles in a way that reflected, as we will
+see below, his very own appraisal of the newly found repository’s collection.
+WangYuanlu: disperser of Cave 17’s contents
+Aurel Stein’s first visit to Dunhuang
+Aurel Stein first visited Dunhuang and the Mogao Caves Buddhist complex during his
+second Central Asian expedition (1906–1908). The selection and acquisition of paintings,
+manuscripts, and other sacred relics from the cave turned out to be a gradual negotia-
+tion process, dependent in large part on the goodwill of Wang Yuanlu. In the words of
+the British-Hungarian explorer: ‘We never knew how long we might rely on the Tao-shih
+[Daoshi]’s indulgence.’69 His writings reveal that Wang played a crucial role from the onset,
+determining to a large extent what Stein was eventually able to purchase. The whole trans-
+action can be broken down in two distinct phases: the first phase unfolded between 22 May
+and 6 June 1907, while the second phase took place in around October of the same year.70
+We will now explore Stein’s dealings with Wang Yuanlu on each of these occasions.
+When Stein and his secretary Jiang Xiaowan first came to the Caves of the Thousand
+Buddhas in March 1907, Wang Yuanlu was absent. However, they were shadowed by a
+young monk who revealed the location of Cave 17 and allowed them to examine one of
+the manuscripts lent to his master. Given how embedded Wang was in the small Buddhist
+monastic community at the site, he was most likely informed of the explorer’s visit. As Stein
+waited in town for the local festival and the annual pilgrimage to the caves to be over, Jiang
+contacted Wang Yuanlu and asked him to wait for them at the Mogao Caves.71 Therefore,
+when Stein returned on 21 May of the same year, Wang immediately came to ‘welcome
+[him] at what for most of the year he might well claim as sacred ground entrusted to his
+own exclusive care’.72
+Stein’s description of Wang was particularly unflattering, conveying the image of a
+shifty-looking, deceitful, and untrustworthy individual: ‘He looked a very queer person,
+extremely shy and nervous, with an occasional expression of cunning which was far from
+encouraging. It was clear from the first that he would be a difficult person to handle.’73
+This is somewhat hypocritical, as the explorer himself proudly reported, in his published
+accounts, how he was using subterfuge. The next morning, in an attempt to disguise the
+main objective of his stay, he ‘avoided any long interview’ with Wang and pretended to be
+67 Stein, Serindia, p. 814.
+68 When Stein started looking at some of the ‘miscellaneous’ packets placed at the bottom of the ‘regular’ bun-
+dles, Wang was visibly annoyed that he disturbed his arrangement and proceeded to fill the space with bundles
+that the explorer had already sifted through. See Bodleian Libraries Oxford, MSS 204: f. 318.
+69 Stein, Ruins of Desert Cathay, p. 188.
+70 For a thorough review of Stein’s acquisitions of Dunhuang materials, see Terzi and Whitfield, ‘Reconstructing
+a medieval library?’, pp. 56–76.
+71 Stein, Serindia, p. 802.
+72 Ibid, p. 803.
+73 Stein, Ruins of Desert Cathay, p. 165.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 13 ---
+Journal of the Royal Asiatic Society
+833
+absorbed by ‘the survey of the main grottoes, and the photographing of the more notable
+frescoes’.74 Yet, Stein was keen to ‘ascertain the true character and approximate date of the
+collection’ contained within the hoard.75 He dispatched Jiang Xiaowan to ‘sound [D]aoshi
+about MSS, wishing to prepare [the] ground slowly. Priest ready to show collection, & before
+evening S.[hiye] saw it, a large recess crammed full with MSS. to roof!’76
+Stein had hoped to see the manuscripts ‘in their original place of deposit’,77 but this
+initial conversation was not the open sesame they had expected. Wang Yuanlu consented,
+‘with various meticulous reservations’, only to let Stein see ‘such specimens of the collec-
+tion as he might conveniently lay his hands on’.78 The mere suggestion that the explorer
+may wish to acquire a few manuscripts caused Wang ‘manifestly genuine perturbation’.79
+Concerned that the promise of money might not overcome the religious scruples and fear
+of popular resentment that Stein believed motivated Wang Yuanlu’s reluctance, he decided
+to pay him a formal visit.80 He asked to see the restored Cave 16, known to be Wang’s ‘chief
+care’,81 as well as ‘the pride and the mainstay of his [Dunhuang] existence’.82 In a famous
+episode from his published accounts (not recorded in his diaries),83 Stein sought to win
+Wang’s trust by invoking the seventh-century Buddhist monk Xuanzang 玄奘:
+More than once before, my well-known attachment to the memory of Hsuan-tsang
+[Xuanzang], the greatest of those pilgrims, had been helpful in securing me a sym-
+pathetic hearing both among the learned and the simple. Wang Tao-shih [Daoshi],
+too, had probably heard about it. […] I thought it appropriate to tell Wang Tao-shih
+[Daoshi], as well as my poor Chinese would permit, of my devotion to the saintly trav-
+eller; how I had followed his footsteps from India for over ten thousand Li across
+inhospitable mountains and deserts; how in the course of the pilgrimage I had traced
+to its present ruins, however inaccessible, many a sanctuary he had previously visited
+and described; and so on.84
+Late that night, Jiang came to Stein’s tent bearing a ‘small bundle of manuscript rolls’ that
+Wang had secretly given him.85 It must have belonged to the ‘regular’ bundles, for it con-
+tainedseveralChinesesutras,‘allneatlyrolledupandenclosedincottonwrappers’.86 Anote
+at the beginning of several scrolls in Chinese stated that they had been first brought from
+India and translated by Xuanzang, whom Stein called his ‘Chinese patron saint’. Both Stein
+and Jiang Xiaowan assumed this auspicious sign could only be a coincidence since ‘Wang
+Tao-shih [Daoshi] in his ignorance could have had no inkling, when he picked up those spec-
+imens, of their connexion with [Xuanzang]’s sacred memory’.87 Was it just a lucky accident?
+74 Ibid, p. 165.
+75 Stein, Ruins of Desert Cathay, p. 166.
+76 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908,
+entry for 22 May 1907, MSS Stein 204: f. 305.
+77 Stein, Serindia, p. 803.
+78 Stein, Ruins of Desert Cathay, p. 166.
+79 Stein, Serindia, p. 803.
+80 Ibid, pp. 804, 808.
+81 Ibid, p. 804.
+82 Stein, Ruins of Desert Cathay, p. 167.
+83 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908,
+entry for 22 May 1907, MSS Stein 204: ff. 305–306.
+84 Stein, Ruins of Desert Cathay, p. 169.
+85 Stein, Serindia, p. 807.
+86 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries, entry for 23 May 1907, MSS Stein 204:
+f. 307.
+87 Stein, Serindia, p. 807.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 14 ---
+834
+Mélodie Doumy
+It is unlikely: these fine manuscripts probably came from the ‘regular’ bundles filled with
+canonical texts, so Wang must have extracted them specifically. If the conversation about
+Xuanzang did take place that very afternoon, then it is worth considering whether Wang
+was using these scrolls as ‘bait’ to start the negotiations with Stein.
+The following day, 23 May 1907, Wang Yuanlu finally opened the door to Cave 17, which
+Stein depicted as a ‘black hole’ where ‘no examination of the manuscripts would be possi-
+ble’.88 ItwasagreedthatWangwouldcontinuetotakeoutabundleortwoatatimeandallow
+them to ‘look rapidly through their contents in a less cramped and dark part of the tem-
+ple precincts’.89 A small room in the antechapel of Cave 16, sheltered from view, was turned
+into an improvised ‘reading room’ for Stein and Jiang, who had to work quickly for fear that
+Wang might change his mind.90 Responsible for retrieving items, Wang Yuanlu began with
+the ‘miscellaneous’ bundles he had stacked atop the ‘regular’ bundles.91 Stein thus looked
+through a ‘large bundle of silk and cotton banners and prayer flags’, two Chinese bundles,
+‘a large convolute of mixed papers’, and ‘one packet of large C[entral] A[sian] sheets’.92
+The explorer remarked that ‘it was mere chance, too, what bundles the Tao-shih [Daoshi]
+would hand [them] out’.93 In fact, Wang was carefully planning what to deliver, focusing
+on the items he valued the least. The position of the ‘miscellaneous’ bundles made them
+easy to reach, but, more importantly, their selection was deliberate. While Wang Yuanlu
+appeared indifferent to Stein sifting through these bundles, he was by contrast eager to
+shield the regular ones from him: ‘The secret hope of diverting by their sacrifice my atten-
+tion from the precious rolls of Chinese canonical texts or “Ching” [jing 經] made him now
+more assiduously grope for and hand out bundles of what he evidently classed under the
+head of miscellaneous rubbish.’94
+Thanks to Jiang’s persuasion, Wang consented to letting them remove the items that
+they were putting aside, provided that they exercised the utmost discretion and acted in
+secret:95
+The Tao-shih [Daoshi] had summoned up the courage to fall in with my wishes, on
+the solemn condition that nobody besides us three was to get the slightest inkling of
+what was being transacted, and that as long as I kept Chinese soil the origin of these
+‘finds’ was not to be revealed to any living being.96
+Wang Yuanlu did not want to be seen outside his quarters at night, so Jiang Xiaowan
+acted as courier, carrying documents back to Stein’s tent while everyone else slept.97 This
+demonstrates that Wang remained in control and dictated the terms of the transaction.
+Stein spent five days working through ‘miscellaneous’ bundles, gathering items he con-
+sidered of special interest: ‘everything that possessed artistic or archaeological value, and
+88 Stein, Ruins of Desert Cathay, p. 172; Stein, On Ancient Central-Asian Tracks, p. 204.
+89 Stein, Serindia, p. 808.
+90 Ibid, p. 809.
+91 Ibid, p. 814.
+92 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries, entry for 23 May 1907, MSS Stein 204:
+ff. 307–308.
+93 Stein, Ruins of Desert Cathay, p. 182.
+94 Ibid, pp. 178–179.
+95 Stein, Serindia, p. 813.
+96 Stein, Ruins of Desert Cathay, p. 181.
+97 Stein, Serindia, p. 813; Stein, Ruins of Desert Cathay, p. 181.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 15 ---
+Journal of the Royal Asiatic Society
+835
+whatever manuscripts in Indian or Central Asian languages could be traced’.98 He was sur-
+prised and delighted that Wang ‘raised no objection when [he] put aside rapidly “for closer
+inspection” the best of the pictures on silk, linen, and paper I could lay my hands on’.99 He
+hand-picked some banners, paintings, and several manuscripts in Brahmi, Sanskrit, and
+Uyghur, written in a variety of formats. He also extracted any secular texts in Chinese,
+drawings, and woodblock prints that he came across.100
+Despite the remarkable ‘finds’ already made, Stein was still intent on accessing the ‘ram-
+part’ of regular manuscript bundles ‘rising against the walls of the chapel’.101 Wang Yuanlu
+was initially reluctant, resisting the ’heavy labour of clearing out the whole chamber’ and
+the ‘risk of exposure thus involved’, but he eventually started removing the regular bundles
+with the help of an assistant.102 As Stein’s diaries hint, the prospect of a donation may have
+swayed him:
+During morning, Wang opened question as to donation for temple. Took up the theme
+in order to introduce question of purchase. No definite offer could be made until I had
+seen the full extent of the collection. So Wang, his helpmate and Sieh [Shiye] slaved
+all the afternoon in clearing out bundles of MSS. From cella.103
+By nightfall on 27 May 1907, the entire collection of regular bundles had been arranged
+in neat rows in the cella of Cave 16 (Figure 3).104 Stein and Jiang Xiaowan quickly selected
+items, without breaking pace to unfold scrolls or check their backs,105 mindful that Wang
+Yuanlu was uneasy about their handling of material he clearly highly valued, particularly
+the Chinese sutras.106 The operation also yielded an unexpected bonus, for several large
+miscellaneous bundles, placed by WangYuanlu at theverybottom,werenowrevealed.They
+contained exquisite silk paintings and textiles that Stein set aside among his ‘selections’.107
+Having grown increasingly tense, Wang was now keen to conclude his proceedings with
+the explorer: ‘While asking for a substantial subscription to his temple, he yet protested
+that any cession of sacred texts or “Chings [jing 經]”—and among these he classed all
+Chinese manuscript rolls, whatever their contents might be—was impossible.’108 Stein then
+attempted to acquire the whole hoard, but Wang Yuanlu categorically refused, and his insis-
+tence only worsened the situation.109 In his diaries, Stein wrote that Wang raised difficulties
+‘about [the] consent of donors’,110 further expanding on this in his published accounts:
+98 Confidential report by Stein concerning the cache of ancient manuscripts at Dunhuang, British Museum
+archives, CE 32/23/16/2.
+99 Stein, Serindia, p. 812.
+100 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries, entries for 23 to 27 May 1907, MSS
+Stein 204: ff. 307–315.
+101 Stein, Serindia, p. 822.
+102 Ibid, p. 822.
+103 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries, entry for 27 May 1907, MSS Stein 204:
+f. 315.
+104 Stein, Serindia, p. 823.
+105 Ibid, p. 823.
+106 Stein, Ruins of Desert Cathay, p. 191.
+107 Stein, Serindia, pp. 823–824. The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries, entry for
+2 May 1907, MSS Stein 204: ff. 317–318.
+108 Stein, Serindia, p. 823.
+109 Ibid, p. 813.
+110 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries, entry for 23 May 1907, MSS Stein 204:
+f. 316.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 16 ---
+836
+Mélodie Doumy
+Figure 3. Image showing piled-up manuscript bundles and tables outside of Cave 17,in the corridor leading to Cave
+16.Source:M.A.Stein,Serindia:Detailed Report of Explorations in CentralAsia andWesternmost China,etc. (Oxford,1921),
+vol. ii, fig. 200.
+The Tao-shih [Daoshi] persisted in urging with all signs of sincere anxiety that any
+deficiency in those piles of sacred texts was bound to be noticed by his patrons,
+whose publicly recorded subscriptions had helped him to clear and restore the tem-
+ple; this would lead to the loss of the position which he had built up for himself in
+the district by the pious labours of eight years and to the destruction of his life’s task.
+Former scruples reasserting themselves, he reproached himself for having given up
+sacred objects which his patrons had as much right to control as he had, and doggedly
+asserted the need of consulting them before taking any further step.111
+When Stein went to skim through the regular bundles in search of interesting materi-
+als the next day, he realised that Wang Yuanlu had shifted almost all of them back into
+Cave 17 overnight. In his published accounts, he recounted how they had nevertheless
+reached a compromise, assuring him of ‘fifty well-preserved bundles of Chinese text rolls
+and five of Tibetan ones, besides all [his] previous selections from the miscellaneous bun-
+dles’.112 His personal diaries precise that Wang had left behind between 30 and 40 less
+well-preserved rolls and was only persuaded to ‘extract from [the recess] about half of
+[the] finally selected bundles’, amounting to ‘5 Tib[etan] rolled bundles; 3 large packets
+of Tib.[etan] pothis (among them two compl[ete] works & large portions of 7-8 others);
+40 Chin.[ese] bundles (among them 2-3 misc.[ellaneous], 1 with frag.[ments])’, as well as
+‘6 large bundles of silk and other pictures’.113 Now that the bundles were safely back in the
+111 Stein, Serindia, p. 824.
+112 Stein, Ruins of Desert Cathay, p. 193.
+113 Bodleian Libraries Oxford, entry for 29 May 1907, MSS 204: f. 319.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 17 ---
+Journal of the Royal Asiatic Society
+837
+cave, Wang could choose again which ones he deemed acceptable to part with. For instance,
+he also presented the explorer with ‘several broken bundles’, and a ‘large silk embroidered
+Buddha curtain, app[arently] lifesize’.114 This is most probably the splendid embroidery of
+the Buddha flanked by two disciples now held in the British Museum collections.115
+Oncethetransactionwascomplete,WangwenttoDunhuangtobegforalms.Considering
+what he had said about his patrons’ right to decide the fate of the manuscripts, he may have
+used this opportunity to ask them whether they supported his dealings with Stein. Stein’s
+report notes that, upon coming back from town a week later, Wang seemed ‘reassured that
+the secret had not been discovered, and that his spiritual influence, such as it was, had
+suffered no diminution’.116 Perhaps encouraged by his sponsors’ approval, Wang was suffi-
+ciently emboldened to let Stein purchase 20 regular bundles of manuscripts, with additional
+selections from the ‘mixed’ bundles.
+The explorer left the Mogao Caves on 12 June 1907, with seven cases full of manuscripts
+and five cases of paintings, embroideries, and other items:
+I had the satisfaction of seeing that the shy Tao-shih [Daoshi], honest in his own way,
+now breathed freely again. It seemed almost as if in a dim way he recognized that
+it was a pious act on his part to let me rescue for Western scholarship as much as
+circumstances would permit of those ancient Buddhist relics which local ignorance
+would allow to lie here neglected or to be lost in the end. When I finally took my
+departure from the ‘Halls of the Thousand Buddhas’, his quaint, sharp-cut face had
+resumed its customary expression of shy but self-contented serenity.117
+For Wang, the true ‘pious act’ was selling the cave’s contents to fund the renovation work
+that preoccupied him. As he and other monks actively used the manuscripts and paint-
+ings for religious purposes, their ‘neglect’ was hardly a concern. Having been conflicted
+throughout his negotiations with Stein, Wang Yuanlu was undoubtedly relieved to see him
+go.
+The second phase of Stein’s acquisitions took place four months later, when he stopped
+at Anxi to retrieve the cases of antiquities he had left with the magistrate on his way
+back from Jiuquan. Through a messenger he sent a written proposal for further ‘selections’
+from Cave 17, which was ‘met with a cautious response’.118 In his answer, received on 27
+September 1907, Wang Yuanlu specified the price he expected per 100 bundles, already
+setting the tone of the transaction.119 To avoid raising suspicions, Stein stayed behind and
+entrusted negotiations to his Chinese secretary.120 Jiang Xiaowan departed for the Mogao
+Caves on 29 September with 600 taels, intending to reach the site by 2 October and to be
+back by the sixth.121 On the evening of 4 October 1907, the convoy returned with four camels
+114 The Bodleian Libraries Oxford, typed transcript of Stein field diaries, entry for 29 May 1907, MSS 204: f. 320.
+115 This item was given the number Ch.00269 by Stein and received the registration number MAS, 0.1129 at the
+British Museum.
+116 Stein, Serindia, p. 825.
+117 Ibid, p. 825.
+118 Stein, Ruins of Desert Cathay, p. 339.
+119 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908,
+entry for 27 September 1907, MSS Stein 205: f. 90.
+120 Stein, Ruins of Desert Cathay, p. 339.
+121 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908,
+entry for 29 September 1907, MSS Stein 205: f. 91.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 18 ---
+838
+Mélodie Doumy
+heavily laden with manuscripts, having marched by night to avoid attention.122 In his per-
+sonal narrative, Stein recounted the ‘secret mission’ as a resounding success: ‘How he had
+managed to secure the timorous Taoist monk, and to induce him for a very reasonable rec-
+ompense to hand out at night over two hundred additional bundles of Chinese texts, was
+quite a dramatic story. The whole was managed most discreetly.’123
+The explorer’s field diary offers slightly different insights. When Jiang reached the caves
+on 1 October 1907, Wang Yuanlu was away and had to be fetched by his ‘famulus’ on a don-
+key. Despite Jiang’s efforts, Wang refused to reduce his price or agree to further sales. He
+wasparticularlyunwillingtopartwithsomeTibetanmanuscripts,inwhichagroupoflamas
+had expressed an interest:
+It appears Tib.[etan] Mss. are to be taken over by some 6–9 red-robed Tib.[etan] monks
+who wish to keep them in a separate shrine. These men made Tao-shih [Daoshi] ner-
+vous.200bundlesweretakenoutfromdarkholewithoutpreviousselection;but[Jiang
+Siye] says he rejected ‘lan-di’ ones. Packing done hurriedly within cave and sacks put
+on shotas within.124
+This passage demonstrates again that Wang was guiding the selection process and suggests
+that the local Buddhist community influenced negotiations, as Wang prioritised the monks’
+interests in this instance. Although Wang Yuanlu ceded a large share of Chinese and Tibetan
+manuscripts, he controlled the transaction at every stage. Jiang Xiaowan’s rejection of sev-
+eral ‘lan-di’ (spoiled or decayed) bundles also indicates that Wang Yuanlu tried to release
+manuscripts of lesser value.125 By contrast, when selecting gifts for officials, Wang had cho-
+sen particularly fine manuscripts, with beautiful handwriting and in excellent condition.
+Upon leaving Dunhuang in mid June 1907, Stein had taken with him over 90 bundles of
+manuscripts, containing about 1,200 separate texts in rolls or ‘Pothis’. This new tranche of
+materials was even more significant: it comprised 230 of the regular bundles, ‘rais[ing] the
+number of texts to close on 4,000’.126
+When Stein met Wang, he quickly understood that the preservation of the Mogao Caves
+was key to him. He saw in his pious endeavours powerful motivation to sell the contents of
+Cave 17, while Wang saw in Stein an opportunity to get money for the site’s upkeep. Yet,
+throughout the ensuing transactions, Wang Yuanlu proved nervous and conflicted, espe-
+cially about parting with the ‘regular’ bundles of Buddhist sutras. As we have seen, this
+was due to the high value the local religious community placed on these materials. Wang
+set the conditions for their ‘exchange’: he chose most of the bundles for Stein’s examina-
+tion, stipulated that the items be transferred at night in the greatest secrecy, and probably
+pre-selected the bundles presented to Jiang when he returned on his own.
+Wang Yuanlu and Paul Pelliot
+Less than a year after Stein, on 12 February 1908, Paul Pelliot arrived at Dunhuang, where he
+stayed until the beginning of June 1908. During his sojourn in Urumqi at the end of 1907, he
+122 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908,
+entry for 5 October 1907, MSS Stein 205: f. 94.
+123 Stein, Ruins of Desert Cathay, p. 339.
+124 The Bodleian Libraries Oxford, typed transcript of Stein’s field diaries from December 1906 to August 1908,
+entry for 5 October 1907, MSS Stein 205: f. 95.
+125 The author would like to thank their two anonymous reviewers for suggesting that ‘lan-di’ might be Stein’s
+transcription for 爛的, meaning ‘rotten’, ‘decayed’, or ‘ragged’. This term would have denoted manuscript scraps
+considered of low value.
+126 British Museum Central Archives, CE 32/23/16/2.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 19 ---
+Journal of the Royal Asiatic Society
+839
+had heard of the newly found repository at the Mogao Caves complex and had been shown
+an eighth-century manuscript from Cave 17.127 This had made him even more eager to reach
+the Thousand Buddha Caves, which were already on his itinerary when he left France. Once
+there, Pelliot also purchased a sizeable portion of the cave’s contents from Wang Yuanlu.
+Stein may have been the first Western explorer to see the newly discovered cache, but I
+would argue that Pelliot’s luck was to have come in second place. It may have resulted in
+his securing some of the ‘rarest’ pieces.
+By the time Pelliot came to the Mogao Caves, Wang had had several months to see
+whether there were any repercussions to selling crates’ worth of materials from the small
+cave to Stein. The benefits must have outweighed the negatives, as he was ready to engage
+in another such transaction with Pelliot. According to the French Sinologist:
+Mr. Stein had workedin the cavefor threedays, andofficiallyboughtacertainnumber
+of manuscripts, with the knowledge of the local mandarin; the monk added that our
+colleague [Stein] had also personally left him a sum, which he said was plump, to get
+more [manuscripts]. A word to the wise; I knew for certain the procedure to adopt
+myself.128
+There is no evidence that Wang Yuanlu ever made any sort of agreement with the local
+official—if anything, this is at odds with the discretion that Stein was asked to use dur-
+ing their interactions. Could this have been a lie that was meant to put Pelliot at ease and
+convince him to engage in a financial deal with Wang?
+While Wang Yuanlu had resisted giving Stein full access to the small repository, insisting
+on handing him preselected bundles of materials, he showed no such resistance when the
+Frenchman came. Interestingly, Wang no longer seemed concerned about people finding
+out what Pelliot was up to. He had asked Stein and Jiang to work in a screened room during
+the day and to remove materials ‘for further examination’ (knowing what this implied) at
+night, yet Pelliot made no mention of any such stipulations. For three weeks, from 3 March
+1908, Pelliot used the small space left by the items Stein had removed, squatting inside the
+niche to examine as many items as possible. He was amazed to find many of the bundles
+still intact and sewn up.129 During the first ten days, he managed to freely check up to 1,000
+scrollsaday.130 AphotographshowshimcrouchinginCave17,withpilesofmaterialsbehind
+him.
+Several of Pelliot’s selection criteria were similar to Stein’s. He too prioritised scrolls
+written in languages such as Uyghur or Brahmi: ‘My ignorance simplified the choice of
+non-Chinese documents. I distinguish many letters and their alphabet, but the meaning
+escapes me; to leave nothing interesting behind, I acquired everything.’131 Pelliot sought to
+acquiremost ofthe remainingTibetandocuments,puttingaside‘aboutfivehundredkilosof
+manuscripts dating back to the first four centuries of Tibetan Buddhism’.132 He also focused
+on the Chinese manuscripts with dated colophons, non-Buddhist texts, and other histori-
+cally significant documents. His mastery of classical Chinese enabled him to better sort
+through materials in this language, including non-canonical Buddhist texts. Unlike Stein,
+127 P. Pelliot, ‘Trois Ans dans la Haute Asie: Conférence de M. Paul Pelliot au Grand Amphithéâtre de la Sorbonne,
+le 10 décembre 1909’, Extrait du Bulletin du Comité de l’Asie Française (Janvier 1910) (Paris, 1910), p. 13. The article has
+been digitised and is available on Toyo Bunko, http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/, https://doi.org/10.
+20676/00000241.
+128 Translated by the author; Pelliot, ‘Une bibliothèque médiévale’, p. 505.
+129 Ibid, pp. 506–507.
+130 Ibid, p. 505.
+131 Ibid, p. 508.
+132 Ibid, p. 507.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 20 ---
+840
+Mélodie Doumy
+who had insisted on the ‘regular’ or ‘library’ bundles, Pelliot had little interest in them.
+He deliberately discarded the Chinese copies of the Lotus Sutra and the Nirvana Sutra.133
+This may explain why he did not face the same resistance from Wang Yuanlu, who valued
+canonical sutras most highly.
+Overall, Wang did not object to Pelliot’s selections, but he did not let him acquire every-
+thing either. Pelliot was keen to have the huge Tibetan pothi stacked in perfect order in a
+corner of the cave that Wang Yuanlu identified as a form of Kanjur or Tibetan Buddhist
+canon.134 Wang explained that a Mongol prince from Qaidam, who travelled to the Mogao
+Caves every year, had got into the habit of consulting them each time. He refused to part
+with them to avoid upsetting the regular visitor.135 Despite protracted negotiations, Wang
+conceded only three volumes.136 To divert the Sinologist’s attention and safeguard these
+Tibetan copies of the Perfection of Wisdom Sutra, Wang Yuanlu offered Pelliot several paint-
+ings. He claimed that they were the best and had been set aside long ago.137 Stein was likely
+correct in thinking that Wanghad handed him whathe consideredtobe ‘rubbish’138 because
+he had obviously held onto the items more important to him.
+In August and September 1909, Pelliot travelled to Beijing to buy books for the
+Bibliothèque nationale de France. He brought a small selection of Dunhuang manuscripts,
+which several scholars examined and photographed. They formed an association to repro-
+duce and publish the most important texts.139 This marked a turning point, as Chinese
+scholars became aware of the value of Cave 17’s contents. They petitioned the Qing Ministry
+of Education, which ordered in 1910 that the remaining manuscripts should be sent to
+Beijing for safekeeping. Unfortunately, there were several instances of theft and loss during
+their transfer to the capital.140
+Wang Yuanlu’s attitude was markedly different during Pelliot’s visit in 1908. Although it
+is often said that Pelliot gained better access thanks to his excellent Chinese, other factors
+were probably at play. By then, Wang had established his own boundaries regarding what
+could and could not be sold, possibly in accord with his lay patrons and the local monastic
+community. Furthermore, unlike Stein, who insisted on purchasing materials from the reg-
+ular bundles, Pelliot was not interested in collecting Buddhist canonical texts, which may
+have reduced tension in his dealings with Wang.
+Acquisitions by other explorers and Stein’s second visit to Dunhuang
+As we have seen, most of Cave 17’s remaining manuscripts were transferred to Beijing in
+1910. In the letter written on red paper mentioned in the first part of this article, Wang
+Yuanlu complained that he had not received the amount of money promised for his restora-
+tion work. He also mentioned ‘donating’ thousands of scrolls to Stein and Pelliot, although
+he was careful to use a turn of phrase emphasising the piety of this act.141 This shows that
+133 Ibid.
+134 M. Lalou, ‘Les manuscrits tibétains des grandes prajñapāpāramitā trouvés à Touen-houang’, in Silver Jubilee
+Volume of the Zinbun-Kagaku-Kenkyusyo (1954), p. 257.
+135 Pelliot, ‘Une bibliothèque médiévale’, p. 507.
+136 In his travel diaries, Pelliot said on 12 May 1908 that he had only managed to buy one of these books; see
+Pelliot, Carnets de Route, p. 294. However, the post-scriptum to an article published in the same year indicates that
+he had secured three volumes; see Pelliot, ‘Une bibliothèque médiévale’, p. 529, n. 1.
+137 Pelliot, Carnets de Route, p. 136.
+138 See full quote earlier in the article; Stein, Ruins of Desert Cathay, pp. 178–179.
+139 Pelliot, ‘Trois Ans dans la Haute Asie’, p. 15.
+140 Rong, Eighteen Lectures on Dunhuang, p. 106.
+141 Shuchen Wang, ‘Atoms & Bits of Cultural Heritage: The Use of Dunhuang Collections in Knowledge Making,
+Nation Building, Museum Diplomacy, Cultural Tourism and Digital Economy’ (unpublished PhD thesis, Aalto
+University, 2019), p. 57, footnote 15, https://urn.fi/URN:ISBN:978-952-60-8685-9 (accessed 30 July 2024).
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 21 ---
+Journal of the Royal Asiatic Society
+841
+Wang did not attempt to hide that he had given a large number of items to the two foreign-
+ers, even if he did not mention that he did so against payment. What he kept quiet, however,
+is that he had disobeyed official orders and secreted hundreds of items.
+In 1911–1912, Wang Yuanlu sold several hundreds of manuscripts from his stash
+to members of the third Ōtani expedition (1910–1914).142 While waiting for Tachibana
+Zuichō 橘瑞超(1890–1968), the leader of the expedition, Yoshikawa Koichirō 吉川小一郎
+(1885–1978), began examining the Mogao Caves and taking photographs of the murals on
+17 October 1911. At the site he bought two carved statues from Wang, who made a spe-
+cial journey to Dunhuang the next day to sell him some ‘Tang sutras’. In December, Wang
+visited again, explaining that the country’s turmoil would prevent him from getting funds
+from Suzhou’s Yamen for the restoration of the caves. He was asked to come back with a
+better set of manuscripts and returned in early January 1912 with scrolls written in a script
+Yoshikawa identified as Mongolian and preferred not to buy. In his diaries, the Japanese
+explorer wrote that he suspected Wang Yuanlu of having made a secret arrangement with
+his landlord.143 He also compared the attitude of the Daoist priest with Cave 17’s Tang sutras
+to that of a thief ‘carrying stolen goods’.144
+After months of delay, Tachibana Zuichō finally arrived in Dunhuang and went to the
+Mogao Caves with Yoshikawa. They bought 169 scrolls and asked Wang Yuanlu to bring bet-
+ter manuscripts. Wang came back with 200 additional items, some of which they thought
+were forgeries, prompting them to sort the scrolls into three categories by quality. On
+4 February 1912, Wang brought another batch of 200 Buddhist scrolls in Chinese that
+Yoshikawa and Tachibana also purchased.145 They left town a few days later. Yoshikawa
+returned to Dunhuang on his own in February 1913 and acquired approximately 80 scrolls
+from Wang.146 A large proportion of these were Tibetan copies of the Aparamitayus Sutra,
+which would presumably have been in the regular ‘library’ bundles.147
+When Stein stopped at Dunhuang again in 1914, during his third Central Asian expedi-
+tion (1913–1916), Wang was still in possession of manuscripts from Cave 17. Wang Yuanlu
+welcomed Stein to town and cordially invited him to the Mogao Caves, hinting that his
+own store of ancient manuscripts had not yet been exhausted.148 Wang also told him ‘with
+a bitterness only too justified’ that he had received none of the large sum assigned by the
+CentralGovernment as compensation for the removalofthe manuscripts.149 Themoneyhad
+vanished on the way, ‘duly absorbed in transit through various offices’,150 and he regretted
+‘not having previously had the courage and wisdom to accept the big offer that [Stein] had
+142 Wang was not the only person with manuscripts for sale. The diaries of Yoshikawa Koichirō reveal that he
+was offered a scroll by the head of the Anxi Telegraph Office even before reaching Dunhuang in 1911. He also pur-
+chased a smaller number of manuscripts from several locals, including a farm labourer and a Chinese merchant.
+Imre Galambos, ‘The third Ōtani expedition at Dunhuang: acquisition of the Japanese collection of Dunhuang
+manuscripts’, Journal of Inner Asian Art and Archaeology 3 (2008): pp. 30–31. Ueyama Daishun, ‘How I came to be con-
+vinced that the Ōtani collection contains forged manuscripts’, in Dunhuang Manuscripts Forgeries, (ed.) S. Whitfield
+(London, 2002), pp. 316–320.
+143 Galambos, ‘Third Ōtani expedition at Dunhuang’, pp. 30–31.
+144 English translation from Yoshikawa Koichirō’s diary. See Daishun, ‘How I came to be convinced’, p. 317.
+145 Ibid, pp. 317–8. See also Galambos, ‘Third Ōtani expedition at Dunhuang’, p. 31.
+146 Ibid, p. 32. The author found the precise number of manuscripts in an interview given by Yoshikawa Koichirō
+70 years after the events. See also Hao Chunwen, Dunhuang Manuscripts: An Introduction to Texts from the Silk Road,
+(trans.) S. Teiser (Diamond Bar, CA, 2020), p. 51.
+147 Shang Lin 尚林, Fang Guangchang 方廣錩, and Rong Xinjiang 荣新江, Zhongguo suocang Dagu shoujipin
+gaikuang: tebie yi Dunhuang xiejing wei zhongxin 中國所藏集品概況—特別以敦煌寫經為中心(Kyoto, 1991).
+148 Stein, Innermost Asia, p. 356.
+149 Ibid, p. 355.
+150 Stein, On Ancient Central-Asian Tracks, p. 210.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 22 ---
+842
+Mélodie Doumy
+made through Jiang S[h]iye for the whole collection en bloc’.151 Wang Yuanlu’s patrons felt
+the same and were probably aware of his actions. As Stein wrote:
+His devout clientèle among the Tun-huang population, seeing how well he had laid
+out the sums received, first from myself and then from Pei Ta jên, i.e. M. Pelliot, in
+building new gaudy chapelsand a large, comfortablehospice,seemedtoagreeinshar-
+inghisfeelings.They,nodoubt,fullyapprovedtoooftheshrewdprecautionwhichthe
+honest Taoist monk had taken against the official spoliation of the temple becoming
+too complete.152
+Stein made his way to the site on 2 April 1914. The following day, he received confirma-
+tion that Wang had indeed put away a ‘nest egg’ of Chinese manuscripts.153 Wang showed
+him two large boxes crammed with sutra rolls whose handwriting, high-quality paper,
+Buddhist content, and dating indicated they came from the ‘regular’ bundles that ‘Wang
+Tao-shih [Daoshi], under the influence of quasi-religious scruples, had in 1907 been least
+willing to part.’154 Almost all these scrolls, Stein noted, were large (often complete) and in
+remarkably good condition.155 Wang had deliberately retained the finest specimens, dis-
+playing the very qualities that had guided his choice of gifts for Gansu officials as early as
+1900.
+This time, Stein did not ‘reasonably hope for any finds of outstanding importance’, since
+Pelliot had likely examined most of the manuscripts and selected all the non-Chinese texts,
+along with any Chinese texts of obvious interest.156 Frustratingly for Stein, however, Wang
+Yuanlu now demanded a much higher ‘donation’ than in 1907. Not only had Wang learned
+from his dealings with other explorers, but he also wanted appropriate compensation for
+scrolls he regarded as especially valuable:
+his shrewd sense of business had been awakened by the payments received from sub-
+sequent visitors to a keener comprehension of the money value of what he retained.
+He consequently held out at first for a price per roll which, being about four times as
+much as that paid on the occasion of [Jiang Shiye 師爺]’s big haul of October, 1907,
+seemed distinctly too high. No doubt Wang’s estimate was greatly influenced by the
+fact that the rolls he was now prepared to part with were almost all large ones and
+particularly well preserved.157
+In the end, Stein purchased 570 Buddhist manuscripts, filling a total of five cases, ‘each
+as large as a pony could conveniently carry’.158 What he acquired was once again shaped
+by Wang Yuanlu, who had mainly Buddhist canonical texts in Chinese, some dating as
+early as the fifth and sixth centuries. In addition, to seal their deal, he also presented
+him with a collection of relief stucco plaques that he had supposedly found in another
+cave.159
+During Stein’s second visit, Wang showed him his accounts and the new structures that
+had appeared over the past seven years, largely funded by the 1907 payments in exchange
+151 Ibid, p. 211.
+152 Stein, Serindia, p. 830.
+153 Stein, On Ancient Central-Asian Tracks, p. 211.
+154 Stein, Innermost Asia, p. 358.
+155 Ibid, p. 358.
+156 Ibid, p. 358.
+157 Ibid, p. 358.
+158 Ibid, p. 358.
+159 Ibid, p. 359.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 23 ---
+Journal of the Royal Asiatic Society
+843
+for his ‘selections’. Right opposite Cave 16 and Cave 17 now stood a guest house, a series
+of shrines, and a few facilities that ‘attested the little priest’s single-minded ambition to
+restore, according to his lights, the glory and popular attractions of the ancient sacred
+site’.160 Several wall paintings and stucco sculptures had also been restored. Elsewhere,
+substantial work had been done to remove the drift sand blocking the lower-level caves
+and to render the upper-level caves accessible by ‘cutting passages from one cave-shrine to
+another right through the rock wall separating them’.161
+As Stein left with his new acquisitions, he could not help but wonder ‘whether the
+contents of the two big boxes of manuscripts which Wang Tao-shih [Daoshi] kept in his
+store-room really represented the whole of the reserve he had managed to retain’.162 There
+is no way to confirm his suspicions. In August 1914, the Russian orientalist and Buddhist
+scholar Sergey Oldenburg (1863–1934), who was leading his second Russian Turkestan
+expedition (1914–1915), travelled to Dunhuang. His team systematically studied and repro-
+duced the pictorial and sculptural remains of the Mogao Caves, compiling an account of all
+caves, making floor plans, taking photographs, and copying murals. They gathered 19,000
+Dunhuang manuscripts, mostly fragments, as well as over 350 paintings, acquired primarily
+from other caves rather than Cave 17.163
+By the time Stein returned to Dunhuang in 1914, most of Cave 17’s contents had been
+removed. Even so, he secured another 600 fine Buddhist scrolls from Wang Yuanlu, who
+still possessed manuscripts from the small cache. Having learned from his dealings with
+Pelliot and the members of the Ōtani expedition, Wang was now determined to obtain fair
+payment to finance his restoration work. These manuscripts are now held at the British
+Library. Again, Stein was only able to choose from the materials that were made available
+to him and, in that sense, Wang played a determining role in shaping the collection that the
+explorer was gathering.
+Conclusion
+Wang Yuanlu—the man whose pious restoration work led to one of the most astonish-
+ing discoveries of the twentieth century—is a fascinating character. This article provides a
+more nuanced understanding of Wang by examining his relationship with the Mogao Caves
+and their wider ecosystem (especially the community of local Buddhist monks and the lay
+donors who funded his enterprises), by tracing how he conducted his transactions with
+Stein in 1907 and 1914, and by contrasting these with his dealings with other explorers. We
+argue here that Wang is not so much an ‘obscure’ as an ‘obscured’ figure.
+Aurel Stein’s detailed writings and other sources belie the simplistic image of a ‘quaint
+priest, with [a] curious mixture of pious zeal, naïve ignorance, and astute tenacity of pur-
+pose’,164 who was swayed to sell thousands of manuscripts and other artefacts out of his
+and Stein’s shared admiration for Xuanzang or a belief that letting Stein take some of the
+160 Ibid, p. 357.
+161 Ibid, p. 360.
+162 Ibid, p. 359.
+163 For an overview, see Hao Chunwen, Dunhuang Manuscripts, pp. 54–56. For more details, refer to Popova,
+‘S.F. Oldenburg’s Second Russian Turkestan Expedition (1914–1915)’, pp. 158–175. In addition to the items col-
+lected in 1914–1915, several Dunhuang manuscripts acquired from an unknown source had been transferred to
+St Petersburg in 1911. See A. Zorin, ‘The collection of Dunhuang Tibetan texts kept at the IOM RAS’, Institute of
+Oriental Manuscripts, RAS, St. Petersburg, 2012, pp. 365–367, http://www.orientalstudies.ru/rus/images/pdf/a_
+zorin_2012_b.pdf.
+164 Stein, Ruins of Desert Cathay, p. 169.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 24 ---
+844
+Mélodie Doumy
+manuscripts to Buddhism’s homeland would earn him some spiritual merit.165 Wang exer-
+cised far more agency than he is usually credited with, yet he should not be reduced to a
+thief or even a shrewd businessman who treated Cave 17’s contents as mere commodities.
+As noted by Justin Jacobs, he ‘sought to control access to his “goods,” carefully manage his
+“stock,” and “sell” them on his own terms’.166 This insight, however, does not reflect the full
+range of his motivation.
+Wang Yuanlu, who took it upon himself to act as guardian of the Mogao Caves and joined
+ongoing restoration efforts, can be considered the first ‘curator’ or ‘keeper’ of Cave 17 and
+its contents. He alerted the authorities to the newly found hoard and, left in charge of
+preserving the collection, installed a locked door and reorganised the room according to
+what he deemed a more suitable arrangement. Contrary to Stein’s accounts, Wang was far
+from unaware of the nature of the cave’s contents. He collaborated with resident Buddhist
+monks, drawing on their expertise to identify some materials and lending them items for
+ritual purposes. He also hand-picked fine specimens as gifts for Gansu officials. Finally,
+having completely emptied and restacked Cave 17, he would have had a good grasp of its
+contents.
+EquallyimportantisWang’sroleinshapingthenowso-calledDunhuangSteincollection.
+Throughout his transactions with Stein, he was concerned with controlling the conditions
+of the exchange. When Stein first visited the Mogao Caves in 1907, he was not allowed
+free access to the repository and largely had to rely on Wang’s choice of bundles to make
+selections. Stein and Jiang had to act in quasi-secrecy to avoid arousing suspicion. Wang
+Yuanlu was particularly protective of the Buddhist canonical texts that formed the bulk
+of the ‘regular bundles’, which he had safely sandwiched between top and bottom layers
+of ‘miscellaneous’ bundles. To distract Stein, he supplied one miscellaneous bundle after
+another, filled with materials he considered ‘rubbish’ or almost worthless—that is, paint-
+ings, drawings, printed documents, and texts in Central Asian languages. This is how the
+embroidery of the Buddha at the Vultures Peak or the 868 printed copy of the Diamond
+Sutra ended up in the United Kingdom.167 Stein nevertheless secured a substantial number
+of ‘regular’ bundles in 1907 and 1914, explaining why the British Library’s Stein collection
+contains multiple copies of the same scripture, including the Lotus Sutra and the Diamond
+Sutra in Chinese.
+Ultimately, Wang Yuanlu made a judgement call between the relative importance of the
+Mogao Caves site as a whole versus that of Cave 17’s contents. For him, enabling repair
+works to what had been a thriving Buddhist pilgrimage centre was a pious duty to which
+he devoted his life, channelling money from his begging tours and the sale of manuscripts
+into clearing sand, repairing statues and paintings, and restoring shrines. His decision was
+made not only from the perspective of living practice as opposed to that of scholarship but
+also collectively. Although Wang avoided drawing attention to his dealings with Stein, it is
+likely that local Buddhist monks were aware. Wang himself told Stein he was keen to consult
+the donors funding his initiatives. This may explain why his later transactions with Pelliot
+and others were conducted more openly. What seems clear is that his reputation was not
+diminished when he died in 1931; his disciples obtained permission from local authorities
+to erect a stupa in his honour, opposite the caves.168
+165 Ibid, p. 170.
+166 Jacobs, Compensations of Plunder, p. 97.
+167 They are now respectively held at the British Museum and British Library.
+168 Rong, Eighteen Lectures on Dunhuang, p. 107.
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,
+
+--- PDF page 25 ---
+Journal of the Royal Asiatic Society
+845
+Acknowledgements. The research underpinning this article was made possible by a British Library Coleridge
+Research Fellowship.
+Conflicts of interest. None.
+Cite this article: M. Doumy, ‘Wang Yuanlu, the first “curator” of the Stein collection’s Dunhuang corpus’, Journal
+of the Royal Asiatic Society (2025) 35, pp. 821–845. https://doi.org/10.1017/S1356186325000161
+available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1356186325000161
+Downloaded from https://www.cambridge.org/core. National University of Singapore (NUS), on 11 Sep 2026 at 05:06:18, subject to the Cambridge Core terms of use,

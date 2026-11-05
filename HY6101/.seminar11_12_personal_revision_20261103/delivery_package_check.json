@@ -1,0 +1,49 @@
+{
+  "artifact_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+  "delivery_members": [
+    "seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx"
+  ],
+  "scope": "In-place revision of the user-specified Word document; other existing course files and live editor locks remain outside this one-file delivery set.",
+  "target_editor_lock_present": false,
+  "new_temporary_files_in_handoff_directory": [],
+  "directory_members": [
+    {
+      "name": ".DS_Store",
+      "kind": "file"
+    },
+    {
+      "name": "HY6101_Combined_Essay2_English.docx",
+      "kind": "file"
+    },
+    {
+      "name": "HY6101_Combined_Essay2_中文版.docx",
+      "kind": "file"
+    },
+    {
+      "name": "HY6101_Seminar11-12_阅读思考_中文版.docx",
+      "kind": "file"
+    },
+    {
+      "name": "Moments_of_Silence_11_Bilingual_PDFs",
+      "kind": "directory"
+    },
+    {
+      "name": "seminar 11&12 个人阅读思考及课堂记录.docx",
+      "kind": "file"
+    },
+    {
+      "name": "seminar 12课程笔记.pdf",
+      "kind": "file"
+    },
+    {
+      "name": "~$6101_Combined_Essay2_中文版.docx",
+      "kind": "file"
+    },
+    {
+      "name": "~$minar 11&12 个人阅读思考及课堂记录.docx",
+      "kind": "file"
+    }
+  ],
+  "backup": ".seminar11_12_personal_revision_20261103/HY6101_Seminar11-12_阅读思考_中文版_个人思考修订前.docx",
+  "internal_evidence_directory": ".seminar11_12_personal_revision_20261103"
+}

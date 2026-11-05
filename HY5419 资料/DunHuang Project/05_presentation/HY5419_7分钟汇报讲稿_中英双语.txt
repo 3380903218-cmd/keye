@@ -1,0 +1,90 @@
+HY5419 数字史进度汇报讲稿
+中英双语版｜依据当前六页PPT｜目标时长约7分钟
+
+使用说明
+中文段落用于理解和修改，英文段落用于正式汇报。英文部分约800词。按每分钟110至125词朗读，预计约6分30秒至7分20秒。换页、指图和停顿会增加少量时间，演练时请以实际语速为准。方括号是换页提示，不需要念出。
+
+【第1页｜研究对象与范围｜约45秒】
+
+中文
+大家好。我的项目题目是“1900至1910年敦煌文献的早期流散：斯坦因路径与清政府路径试点”。我选择莫高窟第17窟，也就是通常所说的藏经洞，作为研究对象，首先是因为它是一个边界相对清楚、具有明确来源意义的文献集中地。这里不是泛泛研究所有敦煌文物，而是研究有证据表明来自第17窟的文献。
+
+我选择1900至1910年，是因为这段时期可以观察到文献离开原保管环境、进入不同收藏体系的早期过程。1900年是通常使用的发现年份，但具体日期仍需要保持历史谨慎。1910年前后，清政府开始要求将剩余文献运往北京，这为比较不同流散路径提供了一个重要时间节点。
+
+藏经洞特别适合数字史研究，因为同一个来源地点连接了不同类型的中介者和接收机构，包括地方保管者、翻译、考察队、英国博物馆以及清政府和北京接收体系。我的完整项目计划比较北京、伦敦和巴黎，本次进度汇报先展示斯坦因路径和清政府路径的试点。
+
+English
+Good afternoon. My project is titled “Early Dispersal of Dunhuang Manuscripts, 1900 to 1910: A Pilot Study of the Stein and Qing Government Routes.” I focus on Mogao Cave 17, commonly called the Library Cave, for three reasons. First, it is a bounded and traceable source site. I am not studying every object associated with Dunhuang, but manuscripts with evidence connecting them to Cave 17. Second, 1900 to 1910 captures the early movement of manuscripts from local custody into different collecting systems. 1900 is the conventional discovery year, while around 1910 the Qing government ordered the remaining library to be sent to the capital. Third, Cave 17 connects custodians, translators, expedition members and receiving institutions. The full project will compare Beijing, London and Paris. This presentation reports a pilot on the Stein and Qing government routes.
+
+【第2页｜研究问题与假设｜约55秒】
+
+中文
+我的主问题是：1900至1910年间，谁在藏经洞文献的早期流散中承担了中介作用？我使用“中介”这个词，是因为文献并不是从洞窟直接跳到今天的博物馆。它们经过保管、谈判、翻译、选择、搬运、包装和机构接收等环节。
+
+第一个子问题是，哪些人物和机构承担了这些中介角色。这里包括王圆箓、蒋孝琬、其他搬运者、考察队以及接收机构。第二个子问题是，不同来源如何描述这些过程。来源使用的词可能是 acquisition、agreement、removed、deposit 或 rescue。这些词看起来都与“取得”有关，但它们描述的行为层次并不相同。
+
+我的工作假设是，早期流散不是若干孤立的个人行为，而是由地方保管者、中介者、考察队和收藏机构共同塑造的制度网络。这仍然是待检验的假设，不是我在分析之前预设的结论。
+
+English
+My main question is: who mediated the early dispersal of Library Cave manuscripts between 1900 and 1910? The manuscripts did not move directly from the cave to a modern museum. The sources describe custody, negotiation, translation, selection, physical removal, packing and institutional deposit. My first sub-question asks which people and institutions performed these intermediary roles. My second asks how sources describe comparable events. Terms such as “acquisition,” “agreement,” “removed,” “deposit” and “rescue” refer to different aspects of the process. My working hypothesis is that early dispersal was shaped by a network of custodians, intermediaries, expedition members and collecting institutions. This is a hypothesis to test, rather than a conclusion assumed in advance.
+
+【第3页｜数据结构与Gephi方法｜约65秒】
+
+中文
+为了检验这个问题，我把资料拆成三张相互关联的表。第一张是nodes.csv，记录遗址、人物、考察队和机构。第二张是edges.csv，每一行记录一个有来源支持的事件，包括转出者、接收者、时间范围和关系类型。第三张是sources.csv，保存完整引文、页码、链接和研究备注。
+
+这里有三条编码原则。第一，保留来源的原始措辞，同时使用较中性的关系编码。第二，保留日期范围和数量单位，不把“捆”“箱”和“卷”直接相加。第三，每一条进入网络的记录都必须能够回到SourceRef和来源表。
+
+我选择Gephi，是因为这个项目的核心问题是关系结构，而不只是事件的时间顺序。Gephi可以把保管、取得、物理搬运和机构接收表示为有方向的连接，也可以让我比较不同路径中谁连接了哪些环节。它还能够保留节点、边和属性，便于复核和重新运行。
+
+English
+To examine this question, I organised the material into three linked tables. nodes.csv records the source site, people, expeditions and institutions. edges.csv records each documented event, including source, target, date range and relationship type. sources.csv stores citations, page numbers, links and research notes. I keep source wording separate from the neutral relationship code, retain date ranges and units, and require every network record to link to a SourceRef. I chose Gephi because the central problem is relational, not only chronological. A directed graph can represent custody, acquisition, physical transfer and institutional deposit as different connections. It lets me compare intermediary roles while keeping the underlying data available for checking and revision.
+
+【第4页｜Gephi初步成果｜约90秒】
+
+中文
+这张图是斯坦因路径和清政府路径的初步Gephi网络。当前可视化显示7个节点、6条唯一连接和9条初步记录。这里的6条连接与9条记录不是矛盾的数字。部分记录具有相同的Source到Target组合，Gephi在网络视图中将它们汇总为一条连接；事件次数仍保留在数据属性中。与此同时，9条记录仍需要继续审计，不能直接称为9次已经独立核实的转移。
+
+我目前看到两个结构性观察。第一，王圆箓在这个试点中同时连接斯坦因路径和清政府路径。他因此是一个需要进一步研究的中介节点，但这并不自动说明他拥有最大的历史权力或责任。第二，蒋孝琬出现在斯坦因叙述的夜间搬运环节，说明翻译和中介劳动不能从流散过程里省略。
+
+图中最重要的缺口是清政府路径。现有来源明确记录中央政府下令将剩余文献运往首都，但命令本身不等于已经完成的实物交接。下一步必须把命令、运输和北京接收分别核对。
+
+还要强调，图中的布局距离不是地理距离，节点颜色只是主体类型的视觉编码。网络图显示的是当前样本中已经有来源支持的连接，不是完整的敦煌文献地图，也不是法律所有权判断。
+
+English
+This is the preliminary Gephi network for the Stein and Qing government routes. It displays seven nodes, six unique links and nine draft records. Several records share the same source and target, so Gephi groups them into one visible link. The nine records still require auditing, so I do not present them as nine independently verified transfers. Two observations are emerging. Wang Yuanlu connects both routes in this pilot, making him an important intermediary for further investigation. Jiang Xiaowan appears in the night-removal stage of Stein’s account, showing why translation and logistical work should remain visible. The main gap concerns the Qing route: an order to send the remaining library to the capital is not the same as a documented physical handover. The layout is algorithmic, not geographic, and the graph does not determine legal ownership.
+
+【第5页｜史料证据与原词近读｜约85秒】
+
+中文
+这一页展示我为什么不把所有“取得”事件合并成同一种关系。左侧是斯坦因《Serindia》第二卷第824至825页的原书扫描。第824页写到，他与王圆箓达成“agreement”，取得五十包汉文和五包藏文材料，并记录了付款。第825页又写到两次夜间搬运，使材料被“safely removed”到他的储藏室。随后，他把自己的行动描述为“rescue for Western scholarship”。
+
+这三个词分别指向交易叙述、物理过程和正当化语言。我的编码因此把原始措辞保存在SourceWording字段，把关系类型编码为acquisition或physical transfer。这样做既不抹去斯坦因的语言，也不把他的自我解释直接当成历史事实。
+
+这一页也说明来源本身需要被批判性阅读。斯坦因的叙述非常详细，能够支持数量、人物和搬运过程的编码，但它仍然是探险者的叙述，带有明显的自我正当化。它不能单独证明法律所有权、所有相关方的同意，或事件的完整历史背景。
+
+目前我已经查看或整理了几类相关文献。Stein的《Serindia》是本次试点的核心一手叙述；Doumy 2025主要帮助我理解王圆箓的能动性和收藏形成；Terzi与Whitfield 2024帮助我拆分捆束、取得和包装事件；Zhou 2024提供敦煌空间和遗产语境；Pelliot 1908则作为伯希和路径的扩展来源。它们承担的证据功能不同，所以没有被简单合并。
+
+English
+This slide shows why I do not collapse every form of “acquisition” into one relationship. The images are scans from pages 824 and 825 of Stein’s Serindia. Page 824 describes an “agreement” with Wang Yuanlu and records fifty Chinese and five Tibetan bundles, together with a payment. Page 825 describes two midnight trips that allowed the loads to be “safely removed” to Stein’s storeroom. Stein later calls this a “rescue for Western scholarship.” These phrases point to a transaction, a physical process and a justification. I preserve the original wording in SourceWording, while using neutral codes such as “acquisition” and “physical transfer.” Stein’s account supports provisional coding, but it cannot by itself establish legal ownership, universal consent or the complete historical context.
+
+The literature I have reviewed serves different purposes. Stein’s Serindia is the main primary narrative for the pilot. Doumy’s 2025 study helps me examine Wang Yuanlu’s agency and the formation of the Stein collection. Terzi and Whitfield’s 2024 article helps separate bundle contents, acquisition events and later packing. Zhou’s 2024 work provides spatial and heritage context. Pelliot’s 1908 report is being kept as an extension source for the Pelliot route.
+
+【第6页｜后续工作与预期成果｜约65秒】
+
+中文
+接下来我有三个工作方向。第一，复核现有试点数据，特别是可能重复的记录、日期范围、SourceRef，以及清政府命令和实际交接之间的区别。第二，扩展路径和证据，加入伯希和路径，并补充中文档案、馆藏目录和机构入藏记录。第三，完成分析和发布，包括一张1900至1910年的事件时间线、三个文献或关键事件个案，以及一个能够公开数据和数据字典的项目网页。
+
+我预期形成的成果有三类。第一，是一个可以逐条追溯的节点、事件和来源数据集。第二，是对北京、斯坦因和伯希和路径的网络比较，重点讨论中介结构。第三，是结合原始措辞的历史解释，说明收藏机构的叙述如何突出或省略早期环节，同时明确证据缺口、目录偏差和所有权边界。
+
+我的目标不是用一张网络图给敦煌流散下一个单一结论，而是建立一个可以被检查、修正和扩展的数字史研究基础。谢谢大家。
+
+English
+I have three priorities for the next stage. First, I will audit the pilot dataset, especially possible duplicate records, date ranges, SourceRefs and the distinction between Qing orders and physical handovers. Second, I will add the Pelliot route and consult Chinese archives, collection catalogues and institutional accession records. Third, I will produce an event timeline, three manuscript or key-event case studies, and a project website with downloadable data and a data dictionary. The expected outputs are a traceable dataset, a network comparison of the Beijing, Stein and Pelliot routes, and an evidence-based interpretation of how collecting institutions foreground or omit early stages of dispersal. The aim is to build a digital-history foundation that can be checked, corrected and expanded. Thank you.
+
+【汇报前核对】
+1. 第4页目前的“7/6/9”应解释为7个节点、6条唯一连接、9条初步记录。
+2. 第4页图注应保留“layout distance is not geographic distance”。
+3. 第5页图片出处统一写为：M. Aurel Stein, Serindia, vol. 2 (1921), pp. 824–825. Internet Archive.
+4. 当前项目已经查看或整理的核心文献包括：Stein 1921；Doumy 2025；Terzi and Whitfield 2024；Zhou 2024；Pelliot 1908作为扩展路径来源。不要把计划检索的中文档案写成已经完成。
+5. 现有Gephi图是试点网络。不要声称它已经证明中心性、权力、责任、合法所有权或完整地理路线。

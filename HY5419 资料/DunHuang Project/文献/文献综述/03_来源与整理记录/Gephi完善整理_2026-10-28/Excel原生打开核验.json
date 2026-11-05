@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "sha256_before": "4ed62bad99be74a117becbc48a4a5a60cad343915d383f8908cb658a8565c687",
+  "calculation": "0 formulas; no global recalculation invoked",
+  "returncode": 0,
+  "stdout": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述/Gephi完善_文献证据与数据工作表.xlsx|13|Gephi完善｜文献证据与数据工作表|Id|Source|true|true|false",
+  "stderr": "",
+  "sheet_count": 13,
+  "other_workbooks_preserved": true,
+  "opened_by_script": true,
+  "read_only_confirmed": false,
+  "sha256_after": "4ed62bad99be74a117becbc48a4a5a60cad343915d383f8908cb658a8565c687"
+}

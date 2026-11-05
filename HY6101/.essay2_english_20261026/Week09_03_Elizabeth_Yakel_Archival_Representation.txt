@@ -1,0 +1,674 @@
+Page 151 →
+Archival Representation
+Elizabeth Yakel
+A man hath perished and his corpse has become dirt. All his kindred have crumbled to dust. But 
+writings cause him to be remembered in the mouth of the reciter.
+—Egyptian author, unknown
+In The Design of Everyday Things Donald Norman argues for a user-centered approach to the design of the daily 
+artifacts we take for granted.1 While archives and archival collections are not everyday things for most people, 
+they do document everyday things, and the archivist's representations and representational systems must 
+characterize these everyday things for potential researchers.2
+The term “representation” is used to refer both to the process or activity of representing and to the 
+object(s) produced by an instance of that activity. The process of representing seeks to establish 
+systematic correspondence between the target domain and the modeling domain and to capture or “re-
+present” through the medium of the modeling domain, the object, the data, or information in the target 
+domain. To the extent that this re-presentation corresponds to, or models, the object, data, or 
+information in the target domain the two can be thought of as representationally equivalent.3
+This essay focuses on archival representation as a fluid, evolving, and socially constructed practice. 
+Representation refers to both the processes of arrangement and description as well as the creation of access tools 
+(guides, inventories, finding aids, bibliographic records) or systems (card catalogs, bibliographic databases, EAD 
+databases) resulting from those activities. Throughout this essay the term archival representation is used for the 
+archival function commonly and variously identified as arrangement and description, processing, and occasionally 
+archival cataloging. I think that the term archival representation more precisely captures the actual work of the 
+archivist in (re)ordering, interpreting, creating surrogates, and designing architectures for representational systems 
+that contain those surrogates that stand in for or represent actual archival materials.
+The nature of representational tools in archives also makes them everyday things for archivists. At the same time, 
+the codification of these tools and systems has created barriers to use. Researchers must know the codes and 
+understand the underlying classification system. Many archivists focus on the creation of representations as the 
+ultimate function of the archivist. As a result, the inventories and finding aids have been either the much-maligned 
+or much-venerated objects of archivists either promoting or attacking archival theory.4 To achieve a deeper 
+understanding of archival representation, this essay stands this argument on its head and studies archival 
+representations and representational systems themselves in an effort to theorize about these artifacts, determine 
+how meaning is imbued in them, and discuss the centrality of these activities to archival work. This more 
+empirical deconstruction of archival representation owes much to the theoretical writings of Terry Cook and 
+others who have aptly applied postmodern theories to various aspects of the archival endeavor.
+Page 152 →
+Archivists actually need a deconstruction of the contexts they are trying to describe, remembering that 
+“it is in the nature of deconstruction not just to see the wider context (those traces, or specters, 
+stretching back into the past in an in finite regress), but also the fluidity, the flexibility, the ultimately 
+uncontrollable nature of the context.”5
+This essay examines the representation of records by records creators, archivists, and systems. To accomplish this, 
+it focuses on the representational practices, the artifacts of representation, and the evolutionary nature both of the 
+primary sources that the artifacts are trying to represent and of the artifacts themselves.
+
+An examination of the activities, systems, and products of archival representation is long overdue. The past 
+decisions by archivists have already been scrutinized in several other archival functions, and these studies have 
+revealed assumptions and biases in archival practice. For example, the need to reexamine old appraisal decisions 
+has been discussed frequently since Leonard Rapport's article “No Grandfather Clause.”6 The collection 
+assessment studies reported by Judith Endelman found that archivists' long-term perceptions of their collections 
+were at times flawed, if not erroneous.7 However, the archival function of archival representation has not 
+experienced such public scrutiny even though retrospective conversion projects have uncovered discrepancies and 
+highly misleading descriptions.8 Despite the documented need to revisit previous collection descriptions, there 
+have been few analyses of the nature of the original categorizations and descriptions, the revisions, or the 
+evolution of descriptive practices. Yet descriptive practices are definitely one of the narratives, although arguably 
+not so tacit, that Eric Ketelaar identifies in the archives.9 The present essay explains the salient dimensions in an 
+analysis of archival representations. Findings indicate that the function of archival representation is ongoing. In 
+fact, one collection studied even warns users that “the content will change over time.”10 Ketelaar goes even 
+further by arguing that the meaning will change over time as records are put to different uses. In this latter 
+scenario, archivists should be not only revisiting poor descriptions but completing periodic redescriptions of entire 
+archives to accommodate these changing meanings over time.11 With this in mind, archivists should begin to think 
+less in terms of a single, definitive, static arrangement and description process but rather in terms of continuous, 
+relative, fluid arrangements and descriptions as ongoing representational processes. In fact, electronic records 
+description begins at creation and continues throughout the records continuum as metadata are added to document 
+such events as versions, access, and redaction.12
+The idea of developing representational tools as a continuous process is evidenced by the fact that archivists 
+increasingly replace analog representational systems—such as the card catalog or finding aids in the United 
+States—with computer-based systems—such as machine-readable cataloging (MARC) or encoded archival 
+description (EAD). This is also important because the artifacts of archival representation are more than access 
+tools. For better or worse, they have also been collection management tools for archivists. As such, archival 
+representations and the technologies that archivists rely on to create, view, and communicate information about 
+primary sources are occasions for structuring. Structuring is the ongoing processes of actions, interactions, 
+decision making, behavior, and cognition that form the basis of organizational life.13 In this case, archival 
+representational practices are structuring elements. The creation of each inventory or guide reinforces, extends, or 
+transcends previous artifacts. Thus, each new representational artifact contributes to the knowledge base of the 
+repository at the same time it changes it.14 These processes are iterative, dynamic, and interrelated.
+Let's extend this line of inquiry to the classification and representational systems in archives. Archival 
+representations can present a creator's, an archivist's, and potentially even a user's view of the collection as well as 
+how the archivist frames the underlying papers or records for the world. Hanne Albrechtsen and Elin K. Jacob 
+argue that these schemes need not communicate solely internally but are links between collections and users.
+The notion of the classification scheme as a transitional element or “boundary object” offers 
+alternative to the more traditional approach that views classification as an organizational structure 
+imposed upon a body of knowledge to facilitate access within a universal and frequently static 
+framework. Recognition of the underlying relationship between user access and the collective 
+knowledge structures that are the basis for knowledge production indicates the dynamic role of 
+classification in supporting coherence and articulation across heterogeneous contexts.15
+Archivists are not yet at this dynamic point where archival categorizations for access and collection management 
+are transparent, flexible, and effective tools for both users and archivists. Furthermore, archivists must transcend 
+boundaries at each end of the archival spectrum, not only between users and primary sources but Page 153 → also 
+between creators and creating organisms and the archives. The discussion in Australia has primarily focused on 
+the archival boundary through which records may pass when moving from office of origin to the archives. In a 
+successful transition, the boundary object or records must maintain coherence in both communities (office and 
+archives).16 Therefore, a discussion of representational coherence across this boundary between the creator and 
+the archives follows.
+
+Representations by Creators
+The representation or organization of knowledge has been a concern for creators of that knowledge as well as 
+archivists and librarians since the Middle Ages. Rosalind McKittrick identifies a functional arrangement of 
+manuscripts and codices in Carolingian monasteries.17 Peter Burke argues that larger cultural ideas about the 
+order of the universe were reified in the organization of libraries during the Renaissance.18 McKittrick's and 
+Burke's findings support Eviatar Zerubavel's contention that categorization is not an individual cognitive process 
+but rather the result of a complex dynamic of cultural and social forces. At the same time, the categorization 
+process seeks to divide and isolate by “drawing fine lines” among meaning and representations “as if they were 
+discrete, totally detached from their surroundings.”19
+Representational systems are manifestations of both a culture as well as the infrastructure to support that culture. 
+These representations structure later descriptive processes by creating acceptable boundaries of thought and 
+discourse around the practice of archival representation. At the same time, successful representational schemes 
+must support a degree of ambiguity. As Geoffrey Bowker and Susan Leigh Star note, categorizations also need to 
+allow for change, permeability, and different levels of adherence by separate entities in the culture.20 These 
+variables of culture, identity (variously bringing together and pulling apart), and adaptability to change are seen in 
+the representations of creators that follow.
+Colin Mackenzie served as a cartographer and surveyor for the East India Company in colonial India in the late 
+eighteenth and early nineteenth centuries. During the course of his thirty-eight-year career in India, he amassed a 
+collection of historical records and artifacts through the employ of other British officials as well as native Indian 
+assistants. Mackenzie's collection of accounts, records, and artifacts is as much a reflection of his own culture as it 
+is a history of the Indian subcontinent he sought to document. Mackenzie's “arrangement of the collection” was 
+passive, although even this affected the records.
+The collection of information meant the appropriation of knowledge in more than just a revenue-
+related sense. When local documents were collected, authority and authorship were transferred from 
+local to colonial contexts. The different voices, agencies, and modes of authorization that were 
+implicated in the production of the archive got lost once they inhabited the archive.21
+Later organizers of the collection, and there have been several, have further obscured the culture and identity, 
+authority and authorship. Transfer of coherence of the records from the local to the colonial and later to a more 
+historical context resulted in a loss of meaning for the original local creators of the records. Ironically, while the 
+records have been reorganized for repurposing, historians have been trying to reconstruct their original context 
+since Mackenzie's time.
+Yet representations can also reflect recoveries of identity. After Vatican II, all religious orders were ordered to 
+revise their constitutions and rules. This process required that religious communities examine their “charism,” or 
+the original spirit or vision of the group. As a result, communities rushed to the archives for information, often 
+finding their records in chaos.22 This connection is explicitly stated in the policies and procedures manual for the 
+Salem Heights Archives.
+Importance: Archives have become particularly important in the post-Vatican II period of history as a 
+source for the process of renewal, enabling Sisters to keep in touch with their roots—historically and 
+spiritually—and ensuring renewal and adaptation within the context of the spirit and history of the 
+Congregation.23
+In order to recover their roots, order was needed in the archives. Although presented as following provenance, a 
+common schema promoted by early instructors of religious archives workshops is more accurately identified as 
+functional in nature. Furthermore, these functions supported the redrafting of religious constitutions and rules. 
+While there are local adaptations in the names of the divisions, the overall structure of the schema mirrors the 
+Dewey decimal system and features nine “record groups” classifications: (1) Founder(s) and Foundation, (2) 
+Chapters, (3) General Superiors, (4) Administration, (5) Treasury/Finance, (6) Provinces, (7) Houses/Missions
+
+/Parishes, (8) Formation/Spirituality, and (9) Publications. This is one example of the assertion by James M. Page 
+154 → O'Toole that religious archives are different in that external, nonarchival beliefs influence the archives.24 I 
+would go further than O'Toole, who noted that religious archives are different because they are based on 
+denominational identities. In the case of women religious, the archives both helped form or reform a particular 
+religious identity and were then, in turn, reformed by that new identity. One might theorize also that the 
+development and implementation of this schema, which is pervasive in the archives of religious communities, 
+formed a way for religious communities to be in the archival world (avowing to adhere to provenance) but not 
+quite be of that world (developing a peculiar definition of provenance).
+Creators evolve representational systems for more mundane reasons also. The Henry Ford Office records and the 
+Edsel Ford Office records from the Ford Motor Company Archives, 1914-52 (now housed at The Henry Ford in 
+Dearborn, Michigan) have been organized in several ways over the years. Initially (ca. 1914-21), in the in-house 
+system, every folder reflected a personal or corporate name or a subject heading. In 1919, general folders labeled 
+A, B, C, and so on began to appear. These files contain both subjects and personal and corporate names. This early 
+system was apparently derived from Winthrop Sears (of the Sears library cataloging fame). From July 1921 
+through 1929, the Library Bureau automatic index system was imposed on the files. This was a numerical filing 
+system based on the names of individual correspondents and companies. This was expanded in July 1923, as a 
+result of an expanding amount of incoming mail, by adding more precise subdivisions of personal and corporate 
+names. As the Ford Motor Company records became more complex, yet another expansion of the system occurred 
+in January 1927. Documents were alphabetized according to person or company, although the exact part of the 
+name of a company used for filing is often inconsistent. In this latter system, each alphabetized item is assigned a 
+code: the first part of the code comes from the first letter of the last name of an individual or the first letter of the 
+principal word of the company; the second part of the code comes from the first letter of the first name of the 
+individual or the first letter of the secondary word of the company name. In 1930 the filing system again changed 
+to the Amberg Numerical System. This again created a more complex yet detailed approach to the organization of 
+office records. The Amberg system had greater depth than the Library Bureau system. For example, in the Library 
+Bureau system the letter A had five subdivisions, while in the Amberg the letter A had forty-three. In the Amberg 
+system, the names of the correspondent, company, or subject were alphabetized using the initial letters, assigned a 
+code number, and filed in the folder of the same number. Thus, relatively unskilled clerks were able to identify the 
+correct files and work swiftly. To foster greater efficiency, the Amberg Company even sold either prelabeled 
+folders or adhesive labels for file folders. With all its detail, though, even the Amberg system was abandoned in 
+1950 for another in-house system based primarily on the names of correspondents and businesses with limited 
+subject access.25
+In studies of creators of records (historians and office workers respectively), Barbara Kwansik and Tom Mal-one 
+have examined the representations and categorizations of these individuals.26 The articles by Kwansik and Malone 
+demonstrate that functionality as well as contextuality (such as an approaching deadline) and spatial orientation 
+(the function of reminding) are key factors in personal representational models of records management. 
+Translating these into archives, where functionality may not be readily apparent and the context is long alienated 
+from records, can pose an impossible obstacle to both identifying and maintaining provenance and representing an 
+original order.
+To a certain extent, original order assumes an underlying, coherent filing system. Translating the models of 
+original order, identified by Malone and Kwansik, into the archives where temporality does not lend itself to 
+organizations is difficult. Any transfer into boxes automatically includes a loss of context and provides a 
+substantial obstacle to maintaining provenance and re(presenting) an original order.
+As Brothman has noted, when records cross the boundary from office to archives, complexities are muted and an 
+idealized version of original order is often adopted. At times, archivists impose socially constructed schemas on 
+records to provide intellectual coherence.27 Whether these schemas are the record groups cited by Brothman, 
+subject based, functional, or temporal approaches, they often reflect an imposed information organization that 
+would be alien to the creators and is in no way organic to the originator. With that, let us change our perspective 
+and examine some of these representations by archivists.
+
+Representations of Archivists
+Within the broad dictum of archival principles and practices, there appears to be substantial variation in the 
+organizational and classification schemes. Furthermore, the Page 155 → social, cultural, political, and economic 
+factors influencing the development of these schemes are very diverse. Recent efforts to define and design more 
+collective representational schemes, such as MARC and EAD in the United States, have tried to both establish 
+minimal standards and accommodate some differences. Geoffrey Bowker and Susan Leigh Star refer to this 
+process as convergence. Convergence is the double process by which information artifacts and social worlds are 
+fitted to each other and come together.28 Understanding this convergence, both in terms of overall archival 
+organizational schemes and in terms of the information artifacts (e.g., MARC records and EAD finding aids) 
+represented within these schemata, is essential for the creation of surrogates that have meaning in other social 
+systems and transcend time and space.29 Mediating between original artifacts and archival representations can be 
+difficult, particularly over time.
+In the United States, the theory and practice of representation focused initially on what were considered historical 
+manuscripts. Historical manuscripts covered both personal papers and organizational records since the 
+organizational records under consideration had been alienated from their originating body. One early attempt to 
+standardize the representation was by J. C. Fitzpatrick at the Library of Congress. His Notes on the Care, 
+Cataloging, Calendaring and Arranging of Manuscripts was first published in 1913. By the third edition in 1928, 
+he had developed representational guidelines and assumptions. One implicit assumption is that rearrangement is 
+usually necessary to counter not only the “derangement” of documents but also the repurposing (or changing 
+functionality) of records as they move from administrative to historical use.
+Official papers under the control of the archivist come to him usually with an arrangement and 
+indexing born of administrative necessity, and in no wise competent to answer the needs of the 
+historical investigator. Useless and faulty as such an arrangement may be for students of history and 
+economics, it is well to allow it to stand until such time as the rearrangement scheme has been 
+thoroughly worked out.30
+A tension in Fitzpatrick's treatise is the inability to reconcile the representation of the broader arrangement scheme 
+with the very detailed description of items. Fitzpatrick argues for the use of an itemized listing (calendar) or card 
+catalog to describe the contents, whereas the overall arrangement that is seen by the researcher as he or she peers 
+into the box is meant to explicate context and establish the relationships among the materials. However, it appears 
+that the necessities of arrangement and future location of the papers were paramount.
+The impetus for expediency in the creation of early representational systems can be illustrated through the 
+manuscript collections in the Houghton Library at Harvard. Collections are categorized by “shelf marks” primarily 
+according to language or country, but also by subject, collectors, or library department. This classification scheme 
+is further elaborated for convenience:
+Manuscripts are classed as MS, generally a manuscript that stands independently on the shelf as a 
+codex; fMS, a MS taller than 12 inches; pfMS, an oversized MS; or bMS, boxed manuscripts generally 
+loose papers in folders. For example, bMS AM 1704 (945) no. 6 is a letter from James Walker to John 
+Gorham Palfrey, the sixth chronologically of twenty grouped as the 945th item or group in American 
+boxed manuscripts 1704th American manuscript or collection of manuscripts to have been catalogued 
+in this series [italics original].31
+Also of note here is the construction of the shelf marks. While these serve the researcher by creating unique, 
+identifiable call numbers to use when requesting a collection, they also contain essential information for the 
+archivist to use in managing and locating the collection. In one case the categorization has persisted long after the 
+original reason for the designation has ended:
+Earlier in this century it was the practice of Harvard's manuscript cataloguers to reserve the shelf 
+numbers MS 800.1 etc., for small collections kept in manuscript boxes of a certain size. Many of 
+
+these “800” numbers still survive, although the reason for them disappeared when the collection was 
+rehoused in boxes of uniform size.32
+Archival codes are ubiquitous. In addition to the manuscript numbers at Harvard, there are several other 
+designations that serve as location devices as well as provide collection management information. Accession 
+numbers record the yearly growth of an entire archives or manuscript collection. Storage numbers connote 
+incompletely processed collections. Call numbers reflect an attempt to incorporate the materials in a larger library 
+classification scheme. And finally, some collections are simply called by their names.33
+As demonstrated in the preceding, archival representational systems do evolve. When, if, and how that evolution 
+is presented has always created a problem for Page 156 → archivists. The maintenance of older inventories can 
+also be seen as a form of archival pentimento, the (rediscovery of a representation underlying a newer one. 
+Archival accountability and the ability to reverse the archivist's judgment and arrangement are perhaps behind 
+Fitz-patrick's directive to maintain older representational tools.
+The official indexes and finding-list catalogues of such collections should always be preserved no 
+matter how useless they may seem after the rearrangement of the papers. If these indexes are bulky 
+and space consuming, they may be condensed by a group classification or outline record, for archival 
+consultation, before being sent to the storage basement. It is the part of wisdom to leave their 
+destruction to the next generation.34
+While Fitzpatrick urges the archivist to keep copies of older representational tools for his or her own consultation, 
+some archives openly provide these to researchers. The finding aid to the Roy Dikeman Chapin Papers at the 
+Bentley Historical Library on the University of Michigan campus is a typical example of an evolutionary finding 
+aid. There is no pentimento here. Multiple narratives are allowed to coexist, although their order gives some 
+preference over others. Roy Dikeman Chapin was president of the Hudson Motor Car Company and briefly served 
+as U.S. secretary of commerce, 1932-33. His papers arrived at the Bentley in several accessions. The earliest and 
+largest acquisition occurred in 1940. Throughout the past sixty years, the Chapin papers have been represented by 
+a variety of representational tools: two version of cards in the card catalog, two versions of the finding aid, and 
+three versions of MARC records.
+The earliest finding aid for the Roy Dikeman Chapin Papers is a twenty-seven-page document that begins with a 
+half-page narrative description of the contents. The remainder of the finding aid is an inventory/calendar of 
+selected letters, reports, and so forth. The selection criteria used to select these items is not stated. The selections 
+are eclectic, and not all of the documents from any subject are fully identified. The descriptions of items are fairly 
+terse, although the archivist did tarry long enough to judge a few as “interesting.” The narrative itself also suggests 
+the most fruitful research topics in the collection.35
+This initial finding aid appears to be the source of the first set of catalog cards. On these catalog cards, the 
+selection of materials on the finding; aid was further pared down, and individual cards were typed with summary 
+information for each item, organized by correspondent. These cards, though, also contain other information, 
+largely coded. The catalog cards contain the location information and the donor number(s). I say coded because 
+although the call numbers are placed in the location on the card associated with call numbers, their format is 
+unique. The other codes refer to donor numbers, which were not indicated on the first finding aid.
+The current finding aid follows a modern form with which most archivists will be familiar. It is six pages, half of 
+which contain contextual, authority, and descriptive data. The finding aid provides more detailed acquisitions 
+information. Also, it provides a higher-order contextualization or summary of the materials, identifying and 
+describing the overarching series schema. The remaining three pages provide brief descriptions on the box level 
+noting the series and then the chronological period contained in each box. Neither finding aid has a specific 
+authorial attribution, although the later finding aid notes that the collection was processed by the “Michigan 
+Historical Collections staff.” Other changes in the finding aid demonstrate dynamism in the collection: the 
+
+inclusive dates have been changed and, accordingly, the physical extent or amount has increased.36
+This modern finding aid is also the basis for other current representations of the collection: an EAD finding aid 
+and MARC records in two separate bibliographic networks—the Online Computer Library Center (OCLC) and 
+the Research Libraries Information Network (RLIN). The MARC records are similar, containing identical content, 
+but the order of information elements varies. Ironically, one of the salient features of the scope note, the higher-
+level summarization of the papers into series, is missing from the networked bibliographic descriptions. The 
+collection summary focuses on genre terms and the identities of correspondents. Contextual information is also 
+absent: the detailed biography in the finding aid is replaced by a two-line synopsis of Chapin's crowning 
+achievements. This creation of MARC records has also led to the re-creation of the new catalog cards. The 
+original catalog cards were photocopied and inserted in the back of the finding aid. The new cards, though, lack 
+the distinctiveness of the old cards. While correspondents are listed individually, each card is the same, with only 
+the subject or correspondent's name changed at the top of the card.
+The EAD finding aid also mirrors the paper or analog one but makes some small, but significant, modifications.37
+The series identification is partially separated from the scope and contents note, and this note begins with a global 
+summary for the first time followed by the Page 157 → series descriptions. The series descriptions are repeated 
+within the actual contents list. Copyright information is also included in this representation.
+The guides to the Chapin collection do form a coherent whole. Each contributes some piece toward a better 
+understanding of the Chapin papers. But, the representations also present different perspectives. Taken together 
+one has the feeling of viewing something through different lenses: some providing broad aerial views, others 
+small slices of information. What do researchers make of all this information about the Roy Dikeman Chapin 
+collection? Do researchers appreciate the technologies and processes that resulted in those new cards in the 
+catalog, the finding aid at the front of the binder, or the online EAD finding aid? Do they know they are looking at 
+over half a century of archival technology, waiting there for them to discover/recover? Are all the representations 
+valuable? Do they realize the representations refer to the same, albeit evolving, artifact?
+Another form of archival pentimento asserts itself when collections are rearranged in an attempt to re-present the 
+creator's original order. One example of this is the Alexander Winchell Papers at the Bentley Historical Library. 
+Winchell, a professor of geology and paleontology at the University of Michigan and later chancellor of Syracuse 
+University, meticulously arranged his records into 284 volumes that were numbered. The meticulousness with 
+which he arranged and categorized things is apparent today in a volume documenting his library.38 Winchell's 
+order of his records, though, has long since vanished. An archivist originally reorganized the Winchell papers in 
+the 1930s using size more than content or original order as a guide.39 In 1940, abstracts of selected letters were 
+completed.40 In 1992, the collection was reorganized, and most of the original order was restored. Still, the 
+collection is organized as much by form or material or genre as it is by Winchell's order. Ironically, or perhaps in a 
+continued attempt to assert itself, many volumes continue to bear Winchell's numerical identification. 
+Additionally, the 1992 finding aid features a concordance between the current box numbers and the 1930s 
+imposed volume and folder numbers. As a result, the collection is encoded in both by the creator and then recoded 
+or decoded by successive archivists.41
+Rearrangement and representation by the archivist may also be a technological imperative. Archbishop of 
+Cincinnati John B. Purcell's letters were apparently stored in an antique pigeon-holed case and arranged 
+alphabetically. The name of the correspondent and the date were clearly marked on the back of each letter.42 In 
+the process of archivalization this original order was represented to fit into the standard, sterile, technology of the 
+archives—the document box. While representing the records in archival boxes is of course an administrative 
+necessity and archivists eschew becoming curators of technology museums (either of past or future digital 
+technological systems), this is a reminder of how archivists can alter representational systems and at the same time 
+maintain the original order (in this case alphabetical). Representational and record-keeping systems are fragile and 
+extend beyond order and organization and into the context of the creator, the creator's culture, and the 
+technologies that bind them together.
+
+Representational Systems
+Representational artifacts (such as finding aids, inventories, and index cards) form larger representational 
+schemata that are implemented in archives using a variety of technologies or tools. In the evolution of these 
+technologies, archivists have moved through a number of different genres in attempting to discover (recover) the 
+most appropriate representational systems for archival and manuscript collections. Archivists have employed card 
+catalogs, calendars, shelf lists, finding aids, subgenres of finding aids encoded in Hypertext Markup Language 
+(HTML) and Standardized General Markup Language (SGML)/extensible Markup Language (XML)/ EAD, and 
+finally derivatives of finding aids: MARC records to manage and to provide access to collections. Each of these 
+represents a different technology and a different philosophical approach to privileging information, emphasizing 
+information, and the level of granularity of the information. Steven L. Hensen discusses these forms and their 
+inherent differences.43 In spite of all of these genres of access tools, over the past twenty years the finding aid has 
+emerged as the “canonical form” of archival representation in the United States. I explore two genres that have 
+become increasingly interrelated: card catalogs and finding aids (and briefly touch on their associated subgenres 
+and manifestations). These two genres of archival representational tools are both discussed because of their 
+interconnections and, in some historical cases, dependency upon one another.44
+Card Catalogs
+Nicholson Baker laments the demise of card catalogs in libraries.45 The aura of and intense feelings about these 
+Page 158 → card catalogs appear to have permeated the culture. In 1990, artist David Bunn took possession of the 
+two million cards in the Los Angeles Central Library's catalog. Last year, Bunn used the catalog cards to create 
+installations of poems formed by juxtaposing the cards in different ways. In the words of one reviewer:
+He has paid loving attention to them ever since, embracing their physicality, age, and obsolescence. 
+He spins poems from the titles running across the tops of the cards, honors the catalog's systemic 
+order and succinct formality, and credits the catalog with personality, history, ideology, and even an 
+unconscious.46
+Richard J. Cox, Jane Greenberg, and Cynthia Porter, however, provide a broader perspective and examine card 
+catalogs as an essential part of library history, particularly the history of the applications of technology in 
+libraries.47 Unlike libraries, many card catalogs in archival and manuscript repositories are still in use, although 
+some have been totally replaced by and subsumed by cards generated through new technologies, as in the case of 
+the Chapin papers. Studies are needed to examine the nature of card catalogs for manuscript repositories and 
+archives and the social systems in which they were created.
+The continuing relevance of using card catalogs in archives is apparent throughout the Houghton Library's 
+handlist. Researchers are constantly directed to various card catalogs as a first step in gaining access to 
+collections. For example, a note concerning the James Family Papers indicates that “all available aids must be 
+used: catalogue cards, pink slips, and both new and old indexes.”48 Yet even this card catalog has changed over 
+the years. As with most manuscript catalogs, cards originally represented individual items. Beginning in 1984, 
+collection-level descriptions began to be prepared for large collections. At the same time, the practice of not 
+assigning subject headings persisted. Cards were made for all correspondents and addressees as well as for 
+selected genres of records (e.g., diaries). Interestingly these practices appear to have continued into the online 
+public access catalog (OPAC) and its successor the integrated library system (ILS).
+Richard C. Berner examined the relationship between card catalogs and finding aids in an attempt to identify 
+archives with integrated descriptive systems. In a 1971 survey, he found little integration, only four out of forty-
+four respondents consciously used the card catalogs as an entry point (index) into the finding aids—although an 
+additional sixteen respondents noted that the card catalog could be used that way. In conclusion, Berner notes 
+“that function [an integrated index to the finding aids] of the catalog, however, seemed to have been discovered 
+rather than preconceived.” Apparently archivists' lack interest in reflecting on their representational artifacts and 
+systems is not new.49
+
+Finding Aids
+Finding aids are the canonical form for current archival access for researchers. At the same time, they act as 
+collection management tools for archivists.50 They have achieved the status of a canonical form because they are 
+the basis for other representations, such as MARC records and other various forms of networked information 
+exchange (online finding aids).51 In other words, finding aids are representations of archival records and papers 
+that are in turn used as a basis for the creation of other, second-order representations. It is significant to note that 
+even in the digital environment (such as in EAD), archivists treat the finding aid as a document genre rather than 
+as a set of discrete data elements. One consequence of this focus on the finding aid as document genre has been 
+the slow development of uniquely digital representations for archival representations. The concentration on 
+finding aid as document rather than as one of many potential representations of discrete data elements has also led 
+to problems of reusing archival data across the archival continuum and problems in the development of true 
+collection management systems for archives.52
+In the United States, finding aids have evolved throughout the twentieth century. In the past twenty years, the pace 
+of this evolution has quickened. In this evolution, the information elements within finding aids that facilitate 
+access (historical or biographical information, scope and contents notes, series descriptions, subject analysis) as 
+well as those that support collection management (accession information, processing attribution, call numbers) 
+have emerged and are now somewhat standardized. Still, the creation of finding aids, and with it the promise or 
+potential of access, is inherently a political act. In order to better understand the underlying social systems behind 
+finding aids, four aspects are explored: creation, construction, components, and consequences.
+Creation of Finding Aids
+There are several aspects of creation that appear to be most salient. The first is authorship and with it authority. 
+The second is that just as the finding aid as a genre is evolving, individual finding aids themselves evolve, and 
+Page 159 → this can be traced through their fluid authorship. Finding aids are dynamic documents. A third point 
+is the relationship between creation and access.
+The relationship between authorship and authority of finding aids is critical for both archivists and researchers. 
+Many finding aids lack overt attribution. However, this cannot be taken to be an indication that they lack 
+authority. Since they act as both collection management and access tools, finding aids embody several different 
+types of authority. For archivists, the finding aid contains authority control data. For example, the biographical or 
+organizational history note is the authoritative source for quick summary information on institutional entities and 
+individuals. For researchers, the presence and placement of the finding aid in the archives is an implicit sign of 
+authority. Additionally, for researchers, the finding aid is the most (although not necessarily a good) authoritative 
+source of knowledge about a collection. Are finding aids worthy of this vesting of authority? Exactly what is the 
+nature of this authority?
+The most immediate source of this authority is the author. Authorial influence and attribution of finding aids 
+deserve greater attention. Richard J. Cox, among others, has argued that appraisal decisions should be attributed.53
+His arguments also apply to finding aids. Attribution and perhaps even the addition of the authors' biographies is 
+essential contextual information for researchers in evaluating the authority and perspective of the finding aid. The 
+dynamism of finding aids (and the underlying collections that they represent) can also be traced through the 
+authors. For example, the Rensis Likert finding aid at the Bentley Historical Library indicates its authors over 
+time: “Thomas Powers, 1975; Avra Michelson, 1982; Brian Williams, 1990; and Mike Brostoff, May 1995.”54 In 
+this case, the authors should not be viewed as a group of disparate individuals simply adding descriptions of 
+materials to an existing finding aid but as an intellectual tradition.
+The distributed networked environment has resulted in distributed authorship. Now two separate archivists can 
+claim authorship: one for the original analog representation of the finding aid and another for the second-order 
+representation, the EAD finding aid. Interestingly, the second-order author may be more visible. In the case of the 
+Trotsky Collection at the Hoover Institution on War, Revolution and Peace at Stanford University, the finding aid 
+notes that the collection was generically “Processed by: Hoover Institution Staff” but “Encoded by: Hernán 
+
+Cortés.”55 Encoding finding aids is not always a routine matter. Information is moved around, assumptions are 
+made about administrative as well as descriptive information, and other liberties are taken with the original text 
+and structure of the finding aid.56
+Another confounding element concerning the creation of finding aids is that although archivists like to think that 
+they are the sole creators of finding aids, they are not. For example, the Trotsky Collection, compiled by the 
+Socialist Workers Party and now housed at the Hoover Institution, contains a guide to the letters by Leon Trotsky 
+in the Exile Papers section of the Leon Trotsky papers at Harvard University.57 Interestingly, there is more 
+information concerning this correspondence available through the Hoover Institution than through Harvard 
+University. A number of alternative indexes to records in the Vatican Archives have also been published. Some of 
+these have met with the blessing of the archives staff, while others have not.58 What drives the creation of these 
+competing metanarratives or finding aids? Is it a desire for more detailed information? Is it the desire to liberate 
+information?
+Construction of Finding Aids
+Finding aids did not always look the way they do today. Thirty years ago, now familiar information, such as scope 
+and contents notes and biographical and historical data, was absent. Finding aids were extended inventory lists 
+that detailed folders, and often items. The representational goal was the explication of the arrangement. Currently, 
+entirely different information elements are emphasized. Proportionally, biographical and historical sketches and 
+contents notes can take up more space than the folder listing. This addition of the historical and biographical notes 
+signals the emerging emphasis on representing context. Both the access and the collection management data now 
+represented in finding aids support this change. Likewise, the inclusion of scope and contents notes and series 
+descriptions demonstrates two trends. One trend is the rise of more global or collection-level synthesis of 
+collection contents. The second trend is characterized by the decreasing granularity of the contents descriptions. 
+Instead of item-by-item lists, the contents are represented by an inventory of boxes or folders, with a genre 
+designation and broad dates of materials in the folder. One could argue that the granularity and specificity have 
+moved from the contents list to the front matter (e.g., biography, donor information, and restrictions), where one 
+may find details of the provenance of the records.
+The origins of the trend toward more front matter and less granularity are unknown. I posit several interconnected 
+hypothesis. First, the trend reflects a closer Page 160 → adherence to provenance and with this the requirement of 
+understanding that the evidential context of the records is essential for establishing authority of the source. This 
+may be the result of the increased professionalization of the archival community in terms of identifying a 
+theoretical base and more organized educational opportunities. Second, archivists have had the realization that to 
+manage a greater volume of records, item-level description was no longer feasible. Finally, the historical trend of 
+examining the “underclass,” or those not often individually documented in records, may have also played a role in 
+more collection-level rather than individual descriptions and more functional and provenancial representations of 
+records.
+Components of Finding Aids
+The dynamism of finding aids is also visible in their components. Users can see changes in understanding of the 
+collections, new interpretations of the records, and new information on papers emerging out of the finding aids. A 
+few examples from the Bentley Historical Library include everything from a reevaluation of provenance to the 
+addition of both physical details and information about the records to an existing finding aid. For instance, the 
+Udvandrerarkivet, Aalborg, Denmark, became the Aalborg universitetscenter, Danske Udvandrerarkiv. In the 
+Russell Barnes finding aid, a death date was added, the volume increased, and a second accession required the 
+addition of a “+ Mrs.” to the donors' area. These later accessions are literally penned or written in within the 
+existing contents listing of the finding aid and appear to be “interleaved” with the earlier like materials. The 
+William Lawrence Clements Papers contains penciled-in notes that there are “Photographs in Box 3,” and at the 
+end of the collection an additional pointer leads to further papers of Clements in the Clements Library. The Paul 
+Lincoln Adams Collection originally noted that the collection was restricted. This has been crossed out, and a note 
+
+“Restrictions lifted on 11-26-90” is penned below. In one case, a space for the final date of the papers to be 
+donated has purposefully been left blank for the John D. Stevens Papers. Thus, the archivist anticipated changes 
+and almost expected to amend the finding aid. While these examples may seem inelegant in our age of word 
+processing and obsessive formatting, enabling the researcher to view these changes is important. Having version 
+control of finding aids helps archivists to visualize the growing understanding of their collections and to see the 
+convergences among and within collections. As we move more aggressively into the digital domain, examining 
+means of making this evolution trans-parent is important. Otherwise, these notes will be simply overwritten when 
+changes are made and the evolution of the records and their surrogates will be obliterated.
+Consequences of Finding Aids
+As noted in this essay, finding aids are the basis for second-order representations of archival collections: MARC 
+records and HTML- and SGML/EAD-encoded finding aids. The development of EAD and its relationship to 
+finding aids is the most critical event in the evolution of finding aids to date. There are two related aspects of this 
+convergence between the technology of the finding aid and the technologies of networked information exchange 
+that I find disturbing. First, I fear that the evolution of finding aids will slow as the costs are weighed of changing 
+the networked archival information. Second, finding aids have now become technologically bound (or perhaps 
+technologically unleashed?), but their form relies on an older, and some would argue obsolete, analog document 
+genre. This inhibits creative use of networked information and the emergence of new digital representational 
+forms for the representation of primary sources. In the second case it is not only evolution that is impeded but 
+innovations in access and in the structuring of archival work. If the encoding process is seen as an add-on at the 
+end of the descriptive process it will not lead to reenvisioning archival representation in light of new technologies. 
+Third, the implementation of initiatives such as EAD and MARC entails the adoption of standards and best 
+practices. While standards can promote increased consistency and create platforms for increased information 
+exchange and easier retrieval, there are downsides to these initiatives. Formalized standards are very difficult to 
+change, and as these standards become ingrained in the education of new generations of archivists, it will become 
+increasingly difficult for archivists to envision new ways of practice.
+The information that gets stored is at best what can be stored using the currently available technology: 
+the encyclopedia came to mirror the affordances of its technological base. In this process, people 
+naturalize the historically contingent structuring of information; they often begin to see it as 
+inevitable.59
+Finding aids also represent the convergence of collections management and access systems. The increasing 
+number of components that support managerial functions in the finding aid over time indicates that, on some level, 
+archivists are thinking about collections management Page 161 → when creating finding aids. The breaking out of 
+an “administrative information” section in EAD finding aids supports this claim. Archival access tools have 
+always won out over collections management tools, and as a result, archivists have tried to recover managerial 
+functions within these access tools. The fit has not been good, and the structures created for access are not always 
+hospitable to administrative functions. But until a technology that represents collections management information 
+is created, descriptive representational systems will serve these two (sometimes contradictory) purposes.
+Conclusions
+The structuring of representation practices by creators, archivists, and systems enables or inhibits the meanings of 
+representations as they cross boundaries of space (creator to archives), time, and use. In terms of creators, 
+representational artifacts contain a substantial amount of information concerning the institutional, professional, 
+and cultural structures in which they were created. When they are taken out of their original milieu, however, 
+context is lost. Transferring or translating context into the archival realm is also problematic because archivists 
+embed records into additional macrostructures (perhaps more precisely identified as the information architectures) 
+of overarching classification schemes as well as into the microstructures of card catalogs and finding aids. In turn, 
+the maintenance and creation of these structures form the basis of ongoing routines, interactions, behaviors, and 
+knowledge that comprise archival organizational memory and practice. The archival representations, then, 
+
+demonstrate not only the evolving physical collections and intellectual understandings of collections but also 
+changing perspectives on collection arrangement, description, and management. Each successive representation 
+and representational system builds on its predecessors, recovering what was judged valuable in a given temporal 
+and cultural context, incorporating or discarding what was deemed essential or not, respectively. More recent 
+representational systems have been built around digital technologies, such as MARC and EAD. These have 
+hastened the process of stabilizing the forms and standardizing the data elements in archival access tools. The 
+great benefit of these technologies has been the exchange of archival information among other archives as well as 
+researchers. Yet, the full costs and benefits of the structural effects of these evolutionary developments are not yet 
+known.
+Archival representation processes are neither objective nor transparent. As such, archivists need to be more 
+conscious of the activities that structure the creation of representations, their social construction, as well as their 
+appropriate uses. Archival representations speak not only about the collections for which they act as surrogates but 
+also about archival practice and archivists. The Egyptian invocation at the beginning of this essay, which one 
+archivist deemed appropriate to include in a finding aid, may have been as much a reflection on the archival 
+content being described as on a particular representation being constructed. Because of their ubiquity, it is these 
+representations that may be the most enduring evidence of the archivist and by these “writings cause him to be 
+remembered in the mouth of the reciter.”
+NOTES
+This essay was First published in Archival Science 3, no. 1 (2003): 1–25, and is reprinted with permission.
+The epigraph for this essay is the invocation at the beginning of the Kelsey Museum of Ancient and Mediaeval 
+Archaeology Archives finding aid, University of Michigan.
+1. Donald Norman, The Design of Everyday Things (New York: Doubleday, 1990).
+2. I refer to the archival function most commonly known as arrangement and description as archival 
+representation. I think this better characterizes the actual outcome of the archivist's work and also signifies 
+how the output should be viewed.
+3. Elin K. Jacob and Debora Shaw, “Sociocognitive Perspectives on Representation,” ARIST 33 (1998): 
+146.
+4. John Roberts, “Archival Theory: Much Ado about Shelving,” American Archivist 50, no. 1 (winter 1987): 
+66–74.
+5. Terry Cook, “Fashionable Nonsense or Professional Rebirth: Postmodernism and the Practice of 
+Archives,” Archivaria 51 (spring 2001): 32. Cook is quoting Stuart Sim's Derrida and the End of History in 
+this passage. Other authors who have questioned archival narratives and texts, although not particularly in 
+the area of archival representation, are Brien Brothman, “The Pasts That Archives Keep: Memory, History, 
+and the Preservation of Archival Records,” Archivaria 51 (spring 2001): 48–80; and Eric Ketelaar, 
+“Archivalisation and Archiving,” Archives and Manuscripts 2, no. 2 (May 1999): 54–61.
+6. Leonard Rapport, “No Grandfather Clause: Reappraising Accessioned Records,” American Archivist 44, 
+no. 2 (spring 1981): 143–50.
+7. Judith Endelman, “Looking Backward to Plan for the Future: Collection Analysis for Manuscript 
+Repositories,” American Archivist 50, no. 3 (summer 1987): 340–55.
+8. Dennis Meissner, “First Things First: Reengineering Finding Aids for Implementation of EAD,” 
+American Archivist 60, no. 4 (fall 1997): 372–87. See also Patricia Cloud, “RLIN, AMC, and Retrospective 
+Conversion: A Case Study,” Midwestern Archivist 11 (1986): 125–34.
+Page 162 →9. Eric Ketelaar, “Tacit Narratives: The Meaning of Archives,” Archival Science 1 (2001): 
+131–41.
+10. Henry James Collection, Houghton Library, Harvard University, http://hcl.harvard.edu/houghton/
+(accessed January 2001). This reference is no longer online.
+11. Ketelaar, “Tacit Narratives,” 139.
+12. See Margaret Hedstrom, “Descriptive Practices for Electronic Records: Deciding What Is Essential and 
+
+Imaging What Is Possible,” Archivaria 36 (autumn 1993): 53–63; and Wendy Duff, “Will Metadata Replace 
+Archival Description? A Commentary,” Archivaria 39 (spring 1995): 33–38.
+13. This idea is derived from Stephen R. Barley, “Technology as an Occasion for Structuring: Evidence 
+from Observations of CT Scanners and the Social Order of Radiology Departments,” Administrative Science 
+Quarterly 31 (1986): 78–108.
+14. Anthony Giddens, “The Constitution of Society: Outline of the Theory of Structuration,” Berkeley, 
+University of California, 1984. The idea of structuring, or structuration, originated with Giddens. The idea is 
+that community members (in this case archivists) create processes and artifacts that contain embedded 
+meanings for that community. Change in these processes and artifacts can be deliberate or inadvertent as 
+members work to maintain the processes as well as the community surrounding these activities.
+15. Hanne Albrechtsen and Elin K. Jacob, “The Dynamics of classification Systems as Boundary Objects 
+for Cooperation in the Electronic Library,” Library Trends 47, no. 2 (fall 1998): 293.
+16. Chris Hurley, “The Making and the Keeping of Records: (1) What Are Finding Aids For?” Archives and 
+Manuscripts 26, no. 1 (May 1998): 71–72.
+17. Rosalind McKittrick, Carolingians and the Written Word (New York: Cambridge University Press, 
+1989).
+18. Peter Burke, The Social History of Knowledge: From Gutenberg to Diderot (Malden, MA: Polity Press, 
+2000), 81–115.
+19. Eviatar Zerubavel, The Fine Line: Making Distinctions in Everyday Life (Chicago: University of 
+Chicago Press, 1991), 5.
+20. Geoffrey Bowker and Susan Leigh Star, Sorting Things Out: Classification and Its Consequences
+(Cambridge, MA: MIT Press, 1999), 266
+21. Nicholas B. Dirks, “Colonial Histories and Native Informants: Biography of an Archive,” in Orientalism 
+and the Postcolonial Predicament: Perspectives on South Asia, ed. Carol A. Breckenridge and Peter van der 
+Veer (Philadelphia: University of Pennsylvania Press, 1993).
+22. The Catholic Archives Newsletter ran stories in January and July 1982 documenting the use of archives 
+in the redrafting of constitutions.
+23. Sr. Mary Clarita Hudson, CPPS, and Sr. Mary Linus Bax, CPPS, (Salem Heights Archives) Archival 
+Policies and Procedures (Dayton, OH: Sisters of the Precious Blood, 1992), pages unnumbered.
+24. James M. O'Toole, “What's Different about Religious Archives?” Midwestern Archivist 9, no. 2 (1984): 
+94–95.
+25. Finding aid for the Ford Motor Company Archives, n.d., Henry Ford Museum and Greenfield Village 
+Research Center, Dearborn, Michigan.
+26. Barbara Kwansik and Tom Malone, “How Do People Organize Their Desks: Implications for the 
+Design of office Information Systems,” ACM Transactions on office Information Systems 1, no. 1 (January 
+1983): 99–112.
+27. Brien Brothman, “Orders of Value: Probing the Theoretical Terms of Archival Practice,” Archivaria 32 
+(summer 1991): 84.
+28. Bowker and Star, Sorting Things Out, 82.
+29. The difficulty of transcending time and space in reference mediations is also treated in Elizabeth Yakel, 
+“Thinking inside and outside the Boxes: Archival Reference Services at the Millennium,” Archivaria 49 
+(2000). Brothman, “Memory, History, and the Preservation of Records,” 79, also makes this point when he 
+discusses the difference between simple access and access over time and the need for archivists to transcend 
+both physical and intellectual barriers to accomplish this.
+30. J. C. Fitzpatrick, Notes on the Care, Cataloging, Calendaring and Arranging of Manuscripts, 3rd ed. 
+(Washington, DC: Government Printing office, 1928), 4.
+31. Houghton Library, Manuscripts and Drawings: A Hand-list of Finding Aids with a List of Published 
+Guides (Cambridge, MA: Harvard University, 1985), 5. Hereafter cited as Hand-list. Also available online, 
+http://hcl.harvard.edu/houghton/departments/msdept/handlist.html#list.
+32. Houghton Library, Handlist, 5.
+33. Houghton Library, Handlist, 5.
+34. Fitzpatrick, Notes on the Care, Cataloging, Calendaring and Arranging of Manuscripts, 4.
+35. Roy Dikeman Chapin finding aid, n.d., Bentley Historical Library, University of Michigan.
+
+36. Michigan Historical Collections Staff, Roy Dikeman Chapin finding aid, n.d., Bentley Historical 
+Library, University of Michigan.
+37. Roy Dikeman Chapin finding aid (EAD version), Bentley Historical Library, University of Michigan, 
+http://www.hti.umich.edu/cgi/f/andaid/andaid-idx?
+type=simple&c=bhl&view=text&subview=outline&id=umich-bhl-851435 (last checked March 12, 2002).
+38. Library Catalogue, 1852, box 15 (formerly v. 233), Alexander Winchell Papers, 1833–91, Bentley 
+Historical Library, University of Michigan.
+39. Leonard A. Coombs, Alexander Winchell finding aid, June 1992, Bentley Historical Library, University 
+of Michigan, i.
+40. Alexander Winchell Collection, twenty-seven sample entries, March 22, 1940, Bentley Historical 
+Library, University of Michigan.
+41. Leonard A. Coombs, Alexander Winchell finding aid, June 1992, Bentley Historical Library, University 
+of Michigan. The EAD version of the finding aid is available at http://www.hti.umich.edu/cgi/f/andaid
+/andaid-idx?type=simple&c=bhl&view=text&subview=outline&id=umich-bhl-86321 (last checked March 
+12, 2002).
+42. Don H. Buske, “The Historical Archives of the Chancery of the Archdiocese of Cincinnati,” Ohio 
+Archivist (spring 1997): 3.
+43. Steven L. Hensen, “The Evolution of Archival Description,” American Archivist 60, no. 3 (summer 
+1997): 284–96.
+44. Richard C. Berner, “Manuscript Catalogs and Other Page 163 → Finding Aids: What Are Their 
+Relationships?” American Archivist 34, no. 4 (October 1971): 367–72.
+45. Nicholson Baker, “Discards,” New Yorker, April 4, 1994, 64–86.
+46. Leah Ollman, “Relics of the Material Age,” Art in America 88, no. 11 (November 2000): 134–39.
+47. Richard J. Cox, Jane Greenberg, and Cynthia Porter, “Access Denied: The Discarding of Library 
+History,” American Libraries (April 1998): 57–61.
+48. Houghton Library, Handlist, 18.
+49. Berner, “Manuscript Catalogs and Other Finding Aids.”
+50. The hypothesis that archival finding aids are both access and collection management tools is not 
+discussed in detail here.
+51. Steve Hensen, Archives, Personal Papers, and Manuscripts, 2nd ed. (Chicago: SAA, 1992).
+52. I differentiate between the Australian records continuum and the archival continuum. By archival 
+continuum I mean to focus on the archival administrative activities and functions vis-à-vis records. This 
+does not mean only activities that occur once the records are transferred into the physical archives or even 
+into a distributed custody arrangement.
+53. Richard J. Cox, “Archival Anchorites: Building Public Memory in the Era of the Culture Wars,” 
+Multicultural Review, June 1998, 59.
+54. Thomas Powers, Avra Michelson, Brian Williams, and Mike Brostoff, Rensis Likert finding aid, 
+1975–95, Bentley Historical Library, University of Michigan.
+55. Hoover Institution, Register of the Trotsky Collection, 1917–80, http://www.oac.cdlib.org:80/dynaweb
+/ead/hoover/reg_190/@Generic__BookView;cs=default;ts=default (last checked March 12, 2002).
+56. Meissner, “First Things First.” Meissner discusses the need to reengineer finding aids because encoders 
+were spending time synthesizing and looking for information. Encoders for the Historic Pittsburgh Project 
+at the University of Pittsburgh also did a substantial amount of data manipulation and in some cases made 
+very far-reaching assumptions about the intent of the author of the finding aid.
+57. Hoover Institution, Register of the Trotsky Collection, 1917–80, http://www.oac.cdlib.org:80/dynaweb
+/ead/hoover/reg_190/@Generic__BookView;cs=default;ts=default.
+58. One example is P. Pecchiai, “Le carte de fondo ‘Corsica’ nell'Archivio vaticano,” Archivio storico di 
+Corsica 9, no. 4 (1933): 3–7.
+59. Bowker and Star, Sorting Things Out, 107–8.

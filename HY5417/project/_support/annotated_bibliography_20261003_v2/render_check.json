@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "artifact_sha256": "49680964659d5d68ad9c7a755bfdacee08591e4df6296b168dddac46fd5e81a1",
+  "renderer": "Microsoft Word native PDF export",
+  "render_pdf": "word_render.pdf",
+  "render_pdf_sha256": "233727f60511b57027ec64111e6681011fe6f2fe715c062788c5b3e12b7707ed",
+  "page_count": 5,
+  "visually_inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "observations": "All five native Word pages inspected. Chinese and English fonts readable; no clipping or overlap. Headings, reference entries, indentation and page numbers render correctly. The synthesis remains a single paragraph."
+}

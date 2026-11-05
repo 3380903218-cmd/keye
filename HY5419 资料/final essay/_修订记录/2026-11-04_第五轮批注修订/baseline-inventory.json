@@ -1,0 +1,44 @@
+{
+  "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_中文稿.docx",
+  "backup": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/_修订记录/2026-11-04_第五轮批注修订/批注原稿备份.docx",
+  "sha256": "81f781dfea6ccb4e8a8e4f6d9d8c9716e08f8d40b15393e6ce8842f87baae24c",
+  "body_paragraphs": 72,
+  "parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "word/_rels/document.xml.rels",
+    "word/document.xml",
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/footer1.xml",
+    "word/media/image1.png",
+    "word/media/image2.png",
+    "word/comments.xml",
+    "word/theme/theme1.xml",
+    "word/settings.xml",
+    "word/styles.xml",
+    "word/webSettings.xml",
+    "word/commentsExtended.xml",
+    "word/commentsIds.xml",
+    "word/commentsExtensible.xml",
+    "word/fontTable.xml",
+    "word/people.xml",
+    "docProps/core.xml",
+    "docProps/app.xml",
+    "customXml/itemProps1.xml",
+    "customXml/item1.xml",
+    "customXml/_rels/item1.xml.rels",
+    "word/numbering.xml"
+  ],
+  "structures": {
+    "tables": 0,
+    "drawings": 2,
+    "revisions": 0,
+    "sections": 1,
+    "hyperlinks": 0
+  },
+  "media": {
+    "word/media/image1.png": "ae2a34b8fea6c96dd52929ed38b4f88c50a6b16f32001248c55a75e1891ca2c5",
+    "word/media/image2.png": "b7db708b97f90f246b5e994360f97ecd4f26ad64cf3411cfe8424ef283c0b9ed"
+  }
+}

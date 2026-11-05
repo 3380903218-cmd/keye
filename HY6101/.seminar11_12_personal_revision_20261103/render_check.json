@@ -1,0 +1,27 @@
+{
+  "artifact_sha256": "a2ab3497ab3c2f09a830d6dbb6b6417227f1867ac634f1bd905f75de6b79a031",
+  "normal_open": "passed; repair disabled",
+  "native_export_receipt_sha256": "d9ec360a34f5787a8cf94f2924e7b4bf86644aabf89f55981cb94392fd2ef783",
+  "native_pdf": "word_proof_v2.pdf",
+  "native_pdf_sha256": "687538fa4c6326df3b3c11609e0f4d649c7bb3200bf9c4f9c6c3f33bae2e40a7",
+  "pages": 4,
+  "visual_review": "All four final pages inspected. Revised prose, author title, second group question, six book footnotes and page numbers render correctly, with no clipping, overlap, comment balloons or missing glyphs. Original fonts and page geometry retained.",
+  "images": [
+    {
+      "path": "final_page_1.png",
+      "sha256": "8c87f16e8393438b57d89c2ac8fd705578dbf0e7f554c0d5a67c83b670bf7f22"
+    },
+    {
+      "path": "final_page_2.png",
+      "sha256": "7efb8070f83e02db12cd56770d03b92ce8e332ee5680c2e5846493c407094207"
+    },
+    {
+      "path": "final_page_3.png",
+      "sha256": "eba76521b7ba4b5a4d3f52abe65dcba46f70b7c21ccddbd5621e0d61b90dad9a"
+    },
+    {
+      "path": "final_page_4.png",
+      "sha256": "cde05af03d416b79bac6252438b7c090995c45f25cb3dd436d44e1d7a2e0e884"
+    }
+  ]
+}

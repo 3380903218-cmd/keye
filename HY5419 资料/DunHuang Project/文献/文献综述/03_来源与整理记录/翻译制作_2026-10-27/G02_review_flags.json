@@ -1,0 +1,20 @@
+[
+  {
+    "id": "G02-P051-004",
+    "page": 51,
+    "flags": [
+      "numeric tokens require source check: 87"
+    ],
+    "en": "We are accustomed to thinking about communication as a network because of the infrastructures that mediate our interactions in the modern world: telephone networks, the World Wide Web, and online social networking platforms. We understand now more than ever that when communication happens through these mediums, it can be traced and measured. Investigations following Edward Snowden’s leak in 2013 revealed that the US National Security Agency and its UK counterpart, GCHQ, had ‘broadly compromised the guarantees that internet companies have given consumers to reassure them that their communications, online banking and medical records would be indecipherable to criminals or governments’ (Ball, Borger, & Greenwald, 2013). Through such data these agencies were able to discover an individual’s network of associations and communication patterns. But citizens are not subject only to network analysis in the service of national security: information provided by Christopher Wylie in 2018 confirmed that at least 87 million Facebook users were impacted by illegal data harvesting by Cambridge Analytica, who used this data about users’ social networks to profile individual voters during the 2016 Brexit referendum in the UK and the presidential election in the USA in order to target them with personalised political advertisements (Laterza, 2018).",
+    "zh": "我们习惯于将通信视为一个网络，因为现代世界中的各种基础设施——如电话网络、万维网和在线社交平台——都充当了我们互动的中介。如今我们比以往更清楚，当通信通过这些媒介进行时，是可以被追踪和测量的。2013年爱德华·斯诺登泄露信息后的调查表明，美国国家安全局及其英国对应机构GCHQ“严重破坏了互联网公司向用户提供的保障，这些保障旨在确保用户的通信、网上银行和医疗记录无法被犯罪分子或政府获取”（Ball, Borger, & Greenwald, 2013）。通过这些数据，这些机构能够发现个人的社交关系网络和通信模式。但公民并非仅受国家安全目的下的网络分析所影响：克里斯托弗·怀利在2018年提供的信息证实，至少有8700万Facebook用户受到了剑桥分析公司的非法数据收集行为的影响。该公司利用有关用户社交网络的数据，在2016年英国脱欧公投和美国总统选举期间对选民进行个性化政治广告投放（Laterza, 2018）。"
+  },
+  {
+    "id": "G02-P066-001",
+    "page": 66,
+    "flags": [
+      "numeric tokens require source check: 19512000"
+    ],
+    "en": "–Figure 10 Lombardi, Mark (19512000): Untitled from the series BCCI, ICIC & FAB, 1996. Pen and ink and electrophotographic print on paper. New York, Whitney Museum of American Art. © 2019. Digital image.",
+    "zh": "–图10 隆巴迪，马克（1951-2000）：无标题作品，出自《BCCI、ICIC与FAB系列》，1996年创作。以钢笔和墨水及电子摄影法在纸张上打印。纽约，惠特尼美国艺术博物馆。© 2019。数字图像。"
+  }
+]

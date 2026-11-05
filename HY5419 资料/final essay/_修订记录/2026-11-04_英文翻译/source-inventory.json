@@ -1,0 +1,30 @@
+{
+  "source_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+  "parts": {
+    "[Content_Types].xml": "b85902f756609ccb7ae5df91b864b89c42633f2ad6402514edfbb909c2596983",
+    "_rels/.rels": "a76c44cf6b278166bfc93edce0a98846be30e584462153ba97fa683469ff5916",
+    "word/_rels/document.xml.rels": "dfa3d8519f0cfad5f4005525c3cc3a3d297c70d8b2bd67f11e269f9de1030cbd",
+    "word/document.xml": "1050acb6dcbf61b142f7e4cb67ce23d2ac46441cdd470929a125a8005ea87e08",
+    "word/footnotes.xml": "a107377bdda0008eb052903cae9446309bba2d1ec00d91958ea0c80b13cac983",
+    "word/endnotes.xml": "6f098b9e7579df41ce2aa2314c0c623537d6e5fdabd45da3954b779af1773c10",
+    "word/footer1.xml": "e69091b9bd74540fcb0962665117aa313eb34c87269d8b770af2681fe9c5baa5",
+    "word/media/image1.png": "ae2a34b8fea6c96dd52929ed38b4f88c50a6b16f32001248c55a75e1891ca2c5",
+    "word/media/image2.png": "b7db708b97f90f246b5e994360f97ecd4f26ad64cf3411cfe8424ef283c0b9ed",
+    "word/theme/theme1.xml": "b2295d3198893d2c03f5e584c749a15751b798aefdcd9bee2889f13903d68cb2",
+    "word/settings.xml": "1234c8978f6c3140d8ad04f90656c24a204f9ad576be1bcf54d520c22c7fb82b",
+    "word/styles.xml": "ad6d0c29615385ac95eeccf51b887e844bff8eb08775b6bc43f1f21f7be7517f",
+    "word/webSettings.xml": "18d9935b5bf84144ea6dbe16afaa9f458a5dc76e76751866c33f99262187cc47",
+    "word/fontTable.xml": "d73a5ce7046897871c9bb59c3d5d278edd51d7f386554b96da87e9d6869ec56d",
+    "docProps/core.xml": "bebbcb2e39fae3133b7c795324c784fd440d37904b0dfc725808cc3fac847c8d",
+    "docProps/app.xml": "9fc86a99cc6d2a6c053f3a6f6b30833172e6de326f8b6829a28e1dd850f3f274",
+    "customXml/itemProps1.xml": "4c998dc0bc6eb6f38ecc20856255fff6891d5b6345a7260698c53063da4bc5f2",
+    "customXml/item1.xml": "fd38bf9d14299ec0909557ff8b08b38816a6860d488f11a7c53dc63eb13ee44f",
+    "customXml/_rels/item1.xml.rels": "1ca6c9a64edcebe24ee703a54403611b322d96da33371779e742d2d3f7ed7a6c",
+    "word/numbering.xml": "dbc989a7792658b8401299ce4c0c3a9a1f83f02a591c63275c71c3c20f4891b2"
+  },
+  "paragraphs": 72,
+  "drawings": 2,
+  "tables": 0,
+  "comments": [],
+  "revisions": 0
+}

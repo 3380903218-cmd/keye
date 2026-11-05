@@ -1,0 +1,108 @@
+READ ME for 'Black Lives, British Justice'Documentation written July 2021, London UK by Adam Crymble
+
+Data Creation occurred between 2012 and 2021.
+
+_License_:We release the following documents under a creative commons ‘CC-BY 4.0’ license:* Readme.txt (this document)* BlackLivesBritishJustice1720-1841(v1.0).csv (the data)_Dataset Citation_:Anyone publishing academically or commercially based on research conducted with this dataset in whole or in part is asked to credit the authors with the following citation:
+        Adam Crymble; Emma Azid, 'Black Lives, British Justice: Black People in London Criminal Justice Records 1720-1841', _Journal of Slavery and Data Preservation_ vol 2, no 2 (2021).
+
+
+_Acknowledgements_:These data were compiled with the financial support of The School of Humanities, University of Hertfordshire.
+Many of the original materials were digitised and transcribed by the 'Old Bailey Online' project:
+        Tim Hitchcock, Robert Shoemaker, Clive Emsley, Sharon Howard and Jamie McLaughlin, et al., The Old Bailey Proceedings Online, 1674-1913 (www.oldbaileyonline.org, version 8.0, 2018). 
+These documents are part of the 'Old Bailey Proceedings'.
+
+
+_Project Description_:
+This dataset brings together all 698 known references to ‘Black’ or possibly Black African heritage people or groups in records of London criminal justice (1720-1841). Each entry includes references to primary sources mentioning the person(s), including in the Old Bailey Proceedings, Ordinary’s Accounts, and Middlesex Criminal Registers. Individuals are trial witnesses, victims, defendants, and people mentioned in passing during testimony. For each entry, a confidence level is offered by the authors, as a person’s ethnicity cannot always be determined with certainty. Evidence for making that judgment is provided. This dataset is useful for anyone interested in Black history in Britain, Black people and justice, or Black London during the age of enslavement.
+
+Significant background material is available on the Old Bailey Online website, which provides additional context for these records. The authors also recommend the following works:
+    * Kathleen Chater. _Untold Histories: Black People in England and Wales during the Period of the British Slave Trade, c. 1660-1807_ (Manchester, 2011).
+    * Norma Myers, _Reconstructing the Black Past_ (Frank Cass, 1996).
+    * Marika Sherwood. ‘Blacks in the Gordon Riots’, _History Today_, vol. 47 (1997), 24-28.
+
+
+Each record includes details on the name of the Black individual(s), as well as information on up to three sources in which he/she/they have been identified, and an indication by the authors on the likelihood the person is actually Black.
+
+Each entry has 17 columns of data, all of which are described in full below.
+
+
+_Description of Data Columns_
+
+
+__Original Order__
+
+    A number from 1 to 698, making it possible to easily sort the records back into their original order as found in the surviving records.
+
+
+__Name(s) of Black person(s)__
+    The name of the Black persons as identified in the source.
+
+
+__Alias__
+    Where relevant, an alternative name or alias for an individual. Includes alternate or phonetic spellings used in the original sources. (Parentheses indicates description rather than name).
+
+
+__Sex__
+
+    Interpreted based on the given names or pronouns of the mentioned person(s)
+
+
+__Year of Trial__
+
+    The year during which the trial was held or the person was committed to gaol (depending on which sources are available). This is not always the same as the year that the crime took place.
+
+
+__Person Type__
+
+    People were classified using a limited vocabulary based on the role they played in the trial:
+        * 'victim' (the person against whom the crime was committed - this person was often also the prosecutor)
+        * 'defendant' (an individual on trial for a crime) 
+        * 'witness' (a person testifying against or for the defendant)
+        * 'passing reference' (any person mentioned by one of the above, but not present in the courtroom)
+
+
+__Confidence Level__
+    The authors have provided a classification for each person(s) based on how confident they are that person was Black. Uses a limited vocabulary: (high confidence, some doubts, substantial doubts, very unlikely Black)
+
+
+__Old Bailey Online Trial ID__
+__Old Bailey Online Person ID__
+__Ordinary Account ID__
+
+    References to the original primary sources. These are identification numbers used by the Old Bailey Online to provide unique values for individual trials, persons appearing in trials, and persons appearing in Ordinary Accounts. These can be used to track down the original sources in the Old Bailey Online website, where relevant, using their search form, or in the case of Trial ID and Account ID, by adding the listed value to the end of the following URL:
+
+https://www.oldbaileyonline.org/browse.jsp?div=
+
+
+__Digital Panopticon Link__
+
+    References to further primary sources related to an individual. Where relevant, a URL to the page on the Digital Panopticon website pertaining to the individual. Only available for defendants and for cases after 1740. The Digital Panopticon Project sought to bring together all records of individuals who went through the justice system. As they update their project, more records pertaining to these Black individuals may become available and links may be merged as individuals are connected across various entries. This could include evidence that a person that we have suspected is Black, is not.
+
+
+__Middlesex Gaol Register Reference__
+
+    The archival reference to the page of the Middlesex Gaol Registers where the individual can be found.  Only available for defendants. The original records are held in the National Archives (TNA) at Kew in the Home Office 26 (HO26) collection: TNA HO26. Digitised copies may be available through genealogy websites.
+
+
+__Evidence Old Bailey Proceedings (Quoted)__
+
+    A brief quote or quotes from the relevant Old Bailey Proceedings trial that gives evidence of a person's Blackness. Or, evidence refuting that, if the primary evidence comes from a different source.
+
+
+__Evidence Ordinary Account (Quoted)__
+
+     A brief quote or quotes from the relevant Ordinary Account that gives evidence of a person's Blackness. Or, evidence refuting that, if the primary evidence comes from a different source.   
+
+
+__Evidence Middlesex Gaol Register Description__
+
+    The physical description of the individual (defendants only) of the person, as written by the Gaol clerk.
+
+
+__Word Count of Sources__
+
+    The number of words (approximate) in the Old Bailey Proceedings or Ordinary's Accounts for that individual. Where more than one source was consulted, entries are separated by a semicolon, and are presented in the same order as in _Old Bailey Online Trial ID_ and _Ordinary Account ID_. The length can be used to identify sources that may be useful for different types of purposes, such as a short in-class reading activity.
+
+__Editorial Note__
+
+An explanation of how the editors used the evidence to determine their confidence level that an entry referred to a Black person (or not). All of these decisions have a level of subjectivity and users of this dataset should take their own decisions where needed.

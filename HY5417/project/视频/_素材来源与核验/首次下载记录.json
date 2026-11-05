@@ -1,0 +1,132 @@
+[
+  {
+    "id": "6342080301112",
+    "title": "Rejuvenating Chinatown's Smith Street | Video",
+    "duration": 156.181,
+    "upload_date": "20231130",
+    "timestamp": 1701353490,
+    "description": "A row of 13 shophouses along Smith Street in Chinatown is up for tender to ((appoint)) a single master tenant.",
+    "width": 1920,
+    "height": 1080,
+    "vcodec": "H264",
+    "acodec": null,
+    "fps": null,
+    "format_id": "http-3598k-1080p-1",
+    "extractor": "brightcove:new",
+    "uploader": null,
+    "number": "01",
+    "source_url": "https://www.channelnewsasia.com/watch/rejuvenating-chinatowns-smith-street-video-3956886",
+    "file_stem": "网络_01_20231130_史密斯街更新_振兴与绅士化争议",
+    "status": "downloaded",
+    "files": [
+      "网络_01_20231130_史密斯街更新_振兴与绅士化争议.mp4"
+    ]
+  },
+  {
+    "id": "6322434213112",
+    "title": "Chinatown offers tenants 50% rent relief in bid to revive tourism hotspot | Video",
+    "duration": 204.395,
+    "upload_date": "20230312",
+    "timestamp": 1678631472,
+    "description": "w230312_ST_chinatown",
+    "width": 1920,
+    "height": 1080,
+    "vcodec": "H264",
+    "acodec": null,
+    "fps": null,
+    "format_id": "http-3595k-1080p-1",
+    "extractor": "brightcove:new",
+    "uploader": null,
+    "number": "02",
+    "source_url": "https://www.channelnewsasia.com/watch/chinatown-offers-tenants-50-rent-relief-bid-revive-tourism-hotspot-video-3341836",
+    "file_stem": "网络_02_20230312_旅游复苏与商铺生存_五成租金减免",
+    "status": "downloaded",
+    "files": [
+      "网络_02_20230312_旅游复苏与商铺生存_五成租金减免.mp4"
+    ]
+  },
+  {
+    "number": "03",
+    "source_url": "https://www.channelnewsasia.com/singapore/chinatown-rejunvenate-smith-street-cultural-historical-heritage-businesses-rental-manpower-5139211",
+    "file_stem": "网络_03_20250519_史密斯街更新后_生意改善与租金人手挑战",
+    "status": "failed",
+    "error": "ERROR: [youtube] osi8BTgaleg: The page needs to be reloaded.. The page needs to be reloaded."
+  },
+  {
+    "id": "6369145915112",
+    "title": "New inter-agency task force to help heritage trades amid stiff competition and rising overheads",
+    "duration": 195.413,
+    "upload_date": "20250221",
+    "timestamp": 1740149946,
+    "description": null,
+    "width": 1920,
+    "height": 1080,
+    "vcodec": "H264",
+    "acodec": null,
+    "fps": null,
+    "format_id": "http-3589k-1080p-1",
+    "extractor": "brightcove:new",
+    "uploader": null,
+    "number": "04",
+    "source_url": "https://www.channelnewsasia.com/watch/new-inter-agency-task-force-help-heritage-trades-amid-stiff-competition-and-rising-overheads-4952401",
+    "file_stem": "网络_04_20250221_传统行业生存_跨部门保护措施",
+    "status": "downloaded",
+    "files": [
+      "网络_04_20250221_传统行业生存_跨部门保护措施.en.vtt",
+      "网络_04_20250221_传统行业生存_跨部门保护措施.mp4"
+    ]
+  },
+  {
+    "id": "6388592814112",
+    "title": "Rent growth in heritage districts tracks central retail areas, say authorities",
+    "duration": 192.669,
+    "upload_date": "20260131",
+    "timestamp": 1769868590,
+    "description": "CNA Livestream",
+    "width": 1920,
+    "height": 1080,
+    "vcodec": "H264",
+    "acodec": null,
+    "fps": null,
+    "format_id": "http-3617k-1080p-1",
+    "extractor": "brightcove:new",
+    "uploader": null,
+    "number": "05",
+    "source_url": "https://www.channelnewsasia.com/watch/rent-growth-in-heritage-districts-tracks-central-retail-areas-say-authorities-5898331",
+    "file_stem": "网络_05_20260131_历史街区租金_官方与商家的不同诉求",
+    "status": "downloaded",
+    "files": [
+      "网络_05_20260131_历史街区租金_官方与商家的不同诉求.mp4"
+    ]
+  },
+  {
+    "number": "06",
+    "source_url": "https://cnalifestyle.channelnewsasia.com/dining/pek-sin-choon-chinese-tea-singapore-heritage-chinatown-history-342666",
+    "file_stem": "网络_06_20230110_白新春茶庄_传统技艺的延续",
+    "status": "failed",
+    "error": "ERROR: The extracted extension ('sg') is unusual and will be skipped for safety reasons. If you believe this is an error, please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+  },
+  {
+    "id": "6359653507112",
+    "title": "Samsui woman mural artist Sean Dunston on why he did it and what’s next",
+    "duration": 272.213,
+    "upload_date": "20240731",
+    "timestamp": 1722391635,
+    "description": null,
+    "width": 1920,
+    "height": 1080,
+    "vcodec": "H264",
+    "acodec": null,
+    "fps": null,
+    "format_id": "http-3685k-1080p-1",
+    "extractor": "brightcove:new",
+    "uploader": null,
+    "number": "07",
+    "source_url": "https://cnalifestyle.channelnewsasia.com/watch/samsui-woman-mural-artist-sean-dunston-394246",
+    "file_stem": "网络_07_20240731_三水女工壁画_艺术家与历史再现",
+    "status": "downloaded",
+    "files": [
+      "网络_07_20240731_三水女工壁画_艺术家与历史再现.mp4"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "paragraphs": [
+    "Loneliness can arise in everyday situations when people lack companionship, emotional support or a sense of belonging. For example, a student who transfers to a new school may feel lonely because they have not yet formed friendships. Someone who is ill and must visit a hospital alone may miss the reassurance of having another person nearby. Similarly, a worker eating dinner alone after work may have nobody with whom to share the day's experiences. Yet physical company does not always prevent loneliness. A person at a party may still feel lonely if they cannot join conversations or feel included. Quinn (2025) explains that loneliness involves unmet needs for connection and belonging, rather than simply being alone. Heavy life pressures may make these needs more noticeable when support is lacking. Overall, these situations suggest that loneliness depends on whether people feel connected and supported in their daily lives.",
+    "Loneliness often brings negative emotions, although it may also encourage constructive reflection. People may feel sad, anxious or unsupported, particularly when they are alone at night. Without someone to share their worries with, everyday problems may seem more difficult to manage. Ellard et al. (2023), reviewing research on university students, report associations between loneliness, anxiety, stress, depression and sleep problems. Disturbed sleep may then leave people tired and in a worse mood the next day. For example, tiredness may reduce motivation to work or study. Over time, these difficulties may undermine well-being. However, temporary loneliness may also encourage people to reflect on their emotional needs and priorities. This reflection could motivate them to contact friends or build more meaningful relationships. These possible benefits depend on responding constructively to lonely feelings. Overall, loneliness is often distressing, but it can also become an opportunity for greater self-understanding and renewed social connection."
+  ],
+  "counts": [
+    147,
+    149
+  ],
+  "total": 296,
+  "references": [
+    {
+      "authors": "Ellard, O. B., Dennison, C., & Tuomainen, H.",
+      "year": "2023",
+      "title": "Review: Interventions addressing loneliness amongst university students: A systematic review.",
+      "journal": "Child and Adolescent Mental Health",
+      "volume": "28",
+      "issue": "4",
+      "pages": "512–523",
+      "doi": "https://doi.org/10.1111/camh.12614"
+    },
+    {
+      "authors": "Quinn, K.",
+      "year": "2025, March 4",
+      "title": "Reducing loneliness on college campuses.",
+      "journal": "Psychology Today",
+      "doi": "https://www.psychologytoday.com/us/blog/optimized/202503/reducing-loneliness-on-college-campuses"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "checked_at": "2026-10-26T01:04:46.943122+08:00",
+  "delivery_members": [
+    {
+      "path": "seminar 11/HY6101_Combined_Essay2_English.docx",
+      "sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186"
+    }
+  ],
+  "source_input_preserved": {
+    "path": "seminar 11/HY6101_Combined_Essay2_中文版.docx",
+    "sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1"
+  },
+  "folder_inventory": [
+    {
+      "name": "HY6101_Combined_Essay2_English.docx",
+      "size": 40325
+    },
+    {
+      "name": "HY6101_Combined_Essay2_中文版.docx",
+      "size": 45427
+    },
+    {
+      "name": "~$6101_Combined_Essay2_中文版.docx",
+      "size": 162
+    }
+  ],
+  "preexisting_chinese_editor_lock_excluded_from_output": true,
+  "task_preview_files_kept_in_internal_audit_folder": true,
+  "task_word_document_closed": true,
+  "task_stale_lock_archived_after_confirming_only_chinese_document_open_in_Word": true,
+  "output_count": 1,
+  "unexpected_task_delivery_files": []
+}

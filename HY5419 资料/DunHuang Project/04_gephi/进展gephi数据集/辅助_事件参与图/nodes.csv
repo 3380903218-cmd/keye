@@ -1,0 +1,23 @@
+﻿Id,Label,LabelEN,NodeType,Bipartite,Route,SourceRef,EventId,YearStart,YearEnd,DateDisplay,GraphView
+N002,王圆箓,Wang Yuanlu,Person,0,Pelliot;Stein,S01;S07;S22;S15,,,,,entity_event_incidence
+N004,蒋孝琬,Jiang Xiaowan,Person,0,Stein,S01;S03;S07,,,,,entity_event_incidence
+N005,斯坦因,M. Aurel Stein,Person,0,Stein,S01;S07,,,,,entity_event_incidence
+N006,斯坦因考察队,Stein expedition,Expedition,0,Stein,S03;S07,,,,,entity_event_incidence
+N007,英国博物馆,British Museum,Institution,0,Stein,S03;S07;S17,,,,,entity_event_incidence
+N009,京师图书馆,Jingshi Library,Institution,0,Qing,S11;S12;S13;S19,,,,,entity_event_incidence
+N010,陕甘总督机构,Shaan-Gan Governor-General office,Government,0,Qing,S19,,,,,entity_event_incidence
+N011,清学部,Qing Ministry of Education,Government,0,Qing,S11;S19,,,,,entity_event_incidence
+N012,伯希和,Paul Pelliot,Person,0,Pelliot,S01;S15;S22,,,,,entity_event_incidence
+N013,伯希和考察队,Pelliot expedition,Expedition,0,Pelliot,S15;S22,,,,,entity_event_incidence
+N014,法国国家图书馆,Bibliothèque nationale (Paris),Institution,0,Pelliot,S15,,,,,entity_event_incidence
+N015,Ibrahim Beg,Ibrahim Beg,Person,0,Stein,S03;S07,,,,,entity_event_incidence
+N016,Tila Bai,Tila Bai,Person,0,Stein,S03;S07,,,,,entity_event_incidence
+DH001,DH001 斯坦因首次协议取得,DH001,Event,1,Stein,S07;S03,DH001,1907,1907,1907年5月,entity_event_incidence
+DH002,DH002 斯坦因莫高窟追加取得,DH002,Event,1,Stein,S07;S03,DH002,1907,1907,1907年6月,entity_event_incidence
+DH003,DH003 安西追加取得批次,DH003,Event,1,Stein,S07;S03;S01,DH003,1907,1907,1907年10月；取得与到安西日区分,entity_event_incidence
+DH004,DH004 斯坦因材料存放英国博物馆,DH004,Event,1,Stein,S07;S03;S17,DH004,1909,1910,1909年抵英；至1910年初夏已在BM,entity_event_incidence
+DH005,DH005 伯希和从王圆箓处取得写本,DH005,Event,1,Pelliot,S15;S22;S01,DH005,1908,1908,1908年；3月查看与选择，交接日未定,entity_event_incidence
+DH006,DH006 伯希和写本抵巴黎并由国立图书馆接收,DH006,Event,1,Pelliot,S15,DH006,1909,1909,1909年底,entity_event_incidence
+DH007,DH007 陕甘总督送样本至学部,DH007,Event,1,Qing,S19,DH007,1909,1909,1909年；根据1910年文书“上年”回推,entity_event_incidence
+DH008,DH008 京师图书馆取运主批十八箱,DH008,Event,1,Qing,S19;S11,DH008,1910,1910,1910年；早于宣统二年十一月十二日行文,entity_event_incidence
+DH009,DH009 京师图书馆接收续交批次,DH009,Event,1,Qing,S19;S25,DH009,1910,1910,宣统二年十一月十四日（公历1910-12-15，历表换算）,entity_event_incidence

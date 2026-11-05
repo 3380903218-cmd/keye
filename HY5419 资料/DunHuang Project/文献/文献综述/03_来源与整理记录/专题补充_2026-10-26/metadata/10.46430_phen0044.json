@@ -1,0 +1,197 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2026-09-24T11:01:08Z",
+      "timestamp": 1790247668971,
+      "version": "4.1.0"
+    },
+    "reference-count": 0,
+    "publisher": "University of Sussex",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              2,
+              18
+            ]
+          ],
+          "date-time": "2015-02-18T00:00:00Z",
+          "timestamp": 1424217600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/deed.en"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "abstract": "<jats:p>Network visualizations can help humanities scholars reveal hidden and complex patterns and structures in textual sources. This tutorial explains how to extract network data (people, institutions, places, etc) from historical sources through the use of non-technical methods developed in Qualitative Data Analysis (QDA) and Social Network Analysis (SNA), and how to visualize this data with the platform-independent and particularly easy-to-use Palladio.</jats:p>",
+    "DOI": "10.46430/phen0044",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2020-05-13T15:58:33Z",
+      "timestamp": 1589385513000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources"
+    ],
+    "prefix": "10.46430",
+    "author": [
+      {
+        "given": "Marten",
+        "family": "Düring",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "8707",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          18
+        ]
+      ]
+    },
+    "container-title": [
+      "Programming Historian"
+    ],
+    "original-title": [],
+    "contributor": [
+      {
+        "given": "Ryan",
+        "family": "Cordell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "reviewer"
+          }
+        ]
+      },
+      {
+        "given": "Justin",
+        "family": "Larsen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "reviewer"
+          }
+        ]
+      }
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2026-09-24T10:09:16Z",
+      "timestamp": 1790244556000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Fred",
+        "family": "Gibbs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "creating-network-diagrams-from-historical-sources"
+    ],
+    "URL": "https://doi.org/10.46430/phen0044",
+    "relation": {},
+    "ISSN": [
+      "2397-2068"
+    ],
+    "issn-type": [
+      {
+        "value": "2397-2068",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          18
+        ]
+      ]
+    }
+  }
+}

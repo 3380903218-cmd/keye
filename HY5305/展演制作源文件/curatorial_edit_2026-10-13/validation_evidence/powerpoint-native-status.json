@@ -1,0 +1,14 @@
+{
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "/tmp/hy5305-curatorial-work/export_light_review.applescript:188:213: execution error: “Microsoft PowerPoint”遇到一个错误：The object you are trying to access does not exist (-1728)\n",
+  "application": "Microsoft PowerPoint",
+  "pdf_created": false,
+  "source_sha256": "64e51a009d80cb05dfb188839bb7ded2ff22b2863e48cbe6772e2e121359bcab",
+  "source_unchanged": true,
+  "rendered_copy_sha256": "64e51a009d80cb05dfb188839bb7ded2ff22b2863e48cbe6772e2e121359bcab",
+  "prior_attempt": {
+    "returncode": 1,
+    "stderr": "/tmp/hy5305-curatorial-work/render_powerpoint.applescript:216:244: execution error: “Microsoft PowerPoint”遇到一个错误：AppleEvent已超时。 (-1712)\n"
+  }
+}

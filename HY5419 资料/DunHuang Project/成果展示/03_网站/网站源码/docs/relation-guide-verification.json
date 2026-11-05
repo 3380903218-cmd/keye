@@ -1,0 +1,369 @@
+{
+  "version": "2.8.0",
+  "checks": [
+    {
+      "name": "Pelliot guide entry 320/zh",
+      "passed": true
+    },
+    {
+      "name": "four role cards 320/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 320/zh",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 320/zh",
+      "passed": true
+    },
+    {
+      "name": "readable roles 320/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 320/zh",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 320/zh",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 320/en",
+      "passed": true
+    },
+    {
+      "name": "four role cards 320/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 320/en",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 320/en",
+      "passed": true
+    },
+    {
+      "name": "readable roles 320/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 320/en",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 320/en",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 390/zh",
+      "passed": true
+    },
+    {
+      "name": "four role cards 390/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 390/zh",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 390/zh",
+      "passed": true
+    },
+    {
+      "name": "readable roles 390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 390/zh",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 390/zh",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 390/en",
+      "passed": true
+    },
+    {
+      "name": "four role cards 390/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 390/en",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 390/en",
+      "passed": true
+    },
+    {
+      "name": "readable roles 390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 390/en",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 390/en",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 768/zh",
+      "passed": true
+    },
+    {
+      "name": "four role cards 768/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 768/zh",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 768/zh",
+      "passed": true
+    },
+    {
+      "name": "readable roles 768/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 768/zh",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 768/zh",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 768/en",
+      "passed": true
+    },
+    {
+      "name": "four role cards 768/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 768/en",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 768/en",
+      "passed": true
+    },
+    {
+      "name": "readable roles 768/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 768/en",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 768/en",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "four role cards 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "readable roles 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 1024/zh",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 1024/en",
+      "passed": true
+    },
+    {
+      "name": "four role cards 1024/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1024/en",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 1024/en",
+      "passed": true
+    },
+    {
+      "name": "readable roles 1024/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 1024/en",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 1024/en",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "four role cards 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "readable roles 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "Pelliot guide entry 1440/en",
+      "passed": true
+    },
+    {
+      "name": "four role cards 1440/en",
+      "passed": true
+    },
+    {
+      "name": "no page overflow 1440/en",
+      "passed": true
+    },
+    {
+      "name": "full untruncated names 1440/en",
+      "passed": true
+    },
+    {
+      "name": "readable roles 1440/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard role and proof 1440/en",
+      "passed": true
+    },
+    {
+      "name": "selection retained in translation 1440/en",
+      "passed": true
+    },
+    {
+      "name": "all 48 activity projections preserve original edges",
+      "passed": true,
+      "detail": {
+        "events": 48,
+        "failures": []
+      }
+    },
+    {
+      "name": "proposal is not presented as completed",
+      "passed": true
+    },
+    {
+      "name": "banquet starts with six named attendees",
+      "passed": true
+    },
+    {
+      "name": "all eighteen attendees can be read",
+      "passed": true
+    },
+    {
+      "name": "co-attendance does not create person-to-person edges",
+      "passed": true
+    },
+    {
+      "name": "London work shows five original relationships",
+      "passed": true
+    },
+    {
+      "name": "telegram retains sender and addressed institution",
+      "passed": true
+    },
+    {
+      "name": "receipt uncertainty remains visible",
+      "passed": true
+    },
+    {
+      "name": "guide links to matching map event",
+      "passed": true
+    },
+    {
+      "name": "global search works within the guide",
+      "passed": true
+    },
+    {
+      "name": "complete Gephi graph remains available",
+      "passed": true
+    },
+    {
+      "name": "full graph has a visible canvas",
+      "passed": true
+    },
+    {
+      "name": "physical layer remains 42 edges",
+      "passed": true
+    },
+    {
+      "name": "knowledge layer remains 92 edges",
+      "passed": true
+    },
+    {
+      "name": "selected guide relationship opens in full graph",
+      "passed": true
+    },
+    {
+      "name": "full graph can return to event guide",
+      "passed": true
+    },
+    {
+      "name": "desktop connectors match visible edge cards",
+      "passed": true
+    },
+    {
+      "name": "no JavaScript errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no failed assets",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": []
+}

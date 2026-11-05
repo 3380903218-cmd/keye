@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": "S07",
+    "url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0412.tif/full/full/0/default.jpg",
+    "filename": "S07_scan_0412.jpg",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0412.tif/full/full/0/default.jpg",
+    "content_type": "image/jpeg",
+    "status": "downloaded",
+    "bytes": 1377212,
+    "sha256": "8f6c9e96deafee074be816ccf5350e9316656d5e169e1b915a9f0aa61cee5b6a"
+  },
+  {
+    "source_id": "S07",
+    "url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0318.tif/full/full/0/default.jpg",
+    "filename": "S07_scan_0318.jpg",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0318.tif/full/full/0/default.jpg",
+    "content_type": "image/jpeg",
+    "status": "downloaded",
+    "bytes": 1115792,
+    "sha256": "fe6ce0fb5cf9e3dbea9afc964e0402113d3d256ac5a072d202ed36fc1ec7e9f5"
+  },
+  {
+    "source_id": "S07",
+    "url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0317.tif/full/full/0/default.jpg",
+    "filename": "S07_scan_0317.jpg",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0317.tif/full/full/0/default.jpg",
+    "content_type": "image/jpeg",
+    "status": "downloaded",
+    "bytes": 1346143,
+    "sha256": "2cbdf39b12dd6b13795a150b41b1bd297850f70dfdc1ef1a43140c691436f9f8"
+  },
+  {
+    "source_id": "S07",
+    "url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0413.tif/full/full/0/default.jpg",
+    "filename": "S07_scan_0413.jpg",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0413.tif/full/full/0/default.jpg",
+    "content_type": "image/jpeg",
+    "status": "downloaded",
+    "bytes": 1348273,
+    "sha256": "cf03d864c12bb36c7ae2a7ef18cf078dceb798cce5e8935fe1ea323ce846d1c9"
+  },
+  {
+    "source_id": "S07",
+    "url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0414.tif/full/full/0/default.jpg",
+    "filename": "S07_scan_0414.jpg",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://dsr.nii.ac.jp/toyobunko/iiif/VIII-5-B2-9/V-2/0414.tif/full/full/0/default.jpg",
+    "content_type": "image/jpeg",
+    "status": "downloaded",
+    "bytes": 1295635,
+    "sha256": "eb5067956143a0233a31735e9f1ead6f6053fec6a214766fcdb0b867b0897314"
+  }
+]

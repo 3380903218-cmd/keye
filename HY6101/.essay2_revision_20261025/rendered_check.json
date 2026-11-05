@@ -1,0 +1,51 @@
+{
+  "source_docx_sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+  "render_pdf": "revision_render_final.pdf",
+  "render_pdf_sha256": "8671f83ddfc1d5b8ae7caa2b1dda7f87987edd8af08c32751d4cb1d3c0c512db",
+  "application": "Microsoft Word for Mac",
+  "pages": 11,
+  "current_source_title_loaded_in_Word_verified": true,
+  "word_source_refreshed_using_revert_before_render": true,
+  "rendered_text_matches_docx": true,
+  "normalization": [
+    "NFKC",
+    "whitespace/header/footer removal",
+    "One Songti PDF extraction U+2F1C mapping to visually verified 口 in 出口 on page 3"
+  ],
+  "review_markup_hidden_for_preview_only": true,
+  "resolved_comments_preserved_in_docx": true,
+  "visual_inspection": {
+    "pages_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "contact_sheets": [
+      {
+        "path": "final_contact_1.png",
+        "sha256": "f18452f34c8b8c49f1e3b254360f39cbbfd05082b5f8c9709db2a3b68047aa61"
+      },
+      {
+        "path": "final_contact_2.png",
+        "sha256": "f0d7358955b6b74039d616cc1b3febbbc41a5144633a690f44903e7ab353df49"
+      }
+    ],
+    "glyph_crop": {
+      "path": "glyph_mouth_check_3.png",
+      "sha256": "b1a4dd02b44d1dae3f2bed4d1a1059648843e0b5390a0c30968490a751e4a631"
+    },
+    "title_fonts_margins_spacing_page_numbers_checked": true,
+    "no_blank_pages_clipping_or_orphan_headings_observed": true,
+    "references_complete_and_readable": true
+  },
+  "earlier_export_attempts": "An intermediate preview was regenerated after a small inline attribution change and conclusion pagination adjustment. Only revision_render_final.pdf validates the current source hash.",
+  "performed_at": "2026-10-25T23:52:44.610387+08:00"
+}

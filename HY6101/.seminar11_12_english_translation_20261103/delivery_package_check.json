@@ -1,0 +1,55 @@
+{
+  "artifact_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+  "delivery_members": [
+    "seminar 11&12/HY6101_Seminar11-12_Reading_Reflection_English.docx"
+  ],
+  "scope": "New English translation only. The Chinese original and all pre-existing course files remain unchanged.",
+  "temporary_files_in_handoff_directory": [],
+  "target_editor_lock_present": false,
+  "directory_members": [
+    {
+      "name": ".DS_Store",
+      "kind": "file"
+    },
+    {
+      "name": "HY6101_Combined_Essay2_English.docx",
+      "kind": "file"
+    },
+    {
+      "name": "HY6101_Combined_Essay2_中文版.docx",
+      "kind": "file"
+    },
+    {
+      "name": "HY6101_Seminar11-12_Reading_Reflection_English.docx",
+      "kind": "file"
+    },
+    {
+      "name": "HY6101_Seminar11-12_阅读思考_中文版.docx",
+      "kind": "file"
+    },
+    {
+      "name": "Moments_of_Silence_11_Bilingual_PDFs",
+      "kind": "directory"
+    },
+    {
+      "name": "seminar 11&12 个人阅读思考及课堂记录.docx",
+      "kind": "file"
+    },
+    {
+      "name": "seminar 12课程笔记.pdf",
+      "kind": "file"
+    },
+    {
+      "name": "~$6101_Combined_Essay2_中文版.docx",
+      "kind": "file"
+    },
+    {
+      "name": "~$6101_Seminar11-12_阅读思考_中文版.docx",
+      "kind": "file"
+    },
+    {
+      "name": "~$minar 11&12 个人阅读思考及课堂记录.docx",
+      "kind": "file"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5419-dunhuang-essay-20261104-comments",
+  "state": "candidate",
+  "content_authority": "批注原稿备份.docx and 2026-11-04 user revision instructions",
+  "format_authority": "批注原稿备份.docx",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "essay-revised",
+      "role": "candidate",
+      "path": "修订候选.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "2ed2d632a580ad772e18c659b51c1fe6edccea406fe0790b78822c1d04c11494",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "visual_preview_evidence": {
+          "path": "visual-check.json",
+          "sha256": "16028a2d3e53f8163217ecc1f163fb20ff0f4a9b750de434868d6769fb250b2e"
+        },
+        "backup_sha256": "8910e90a9a16772eee3d1040447d1aabfc730041363f325a9a380d3ec3ee6638",
+        "user_requested_output_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_中文稿.docx",
+        "requested_output_byte_identical": true
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "essay-revised",
+      "artifact_sha256": "2ed2d632a580ad772e18c659b51c1fe6edccea406fe0790b78822c1d04c11494",
+      "performed_at": "2026-11-04T00:36:08.251893+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "content-check.json",
+        "sha256": "fedd8a242e1a5f8bf159395c7a95a530210a7970713920960b02879b8403edc0",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer; native Word limitations are recorded separately.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "essay-revised",
+      "artifact_sha256": "2ed2d632a580ad772e18c659b51c1fe6edccea406fe0790b78822c1d04c11494",
+      "performed_at": "2026-11-04T00:36:08.251893+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "package-check.json",
+        "sha256": "0cdafe01664d98a23bc4e74c900a5ad927389c9653499b96f4cc2f45519ed6c4",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer; native Word limitations are recorded separately.",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "unavailable",
+      "artifact_id": "essay-revised",
+      "artifact_sha256": "2ed2d632a580ad772e18c659b51c1fe6edccea406fe0790b78822c1d04c11494",
+      "performed_at": "2026-11-04T00:36:08.251893+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "native-check.json",
+        "sha256": "f3abf8618d82e19e1ad503033fd00af41213a57d7ed6cc9bb7132d1c357eaa22",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Native Word unavailable. Current ten-page proxy preview checked separately.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "essay-revised",
+      "artifact_sha256": "2ed2d632a580ad772e18c659b51c1fe6edccea406fe0790b78822c1d04c11494",
+      "performed_at": "2026-11-04T00:36:08.251893+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "delivery-package-check.json",
+        "sha256": "14f9c147ceb4d07cf44070ad064dc7f55683194a0ee3a0db7b0ffe6da2178ba7",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer; native Word limitations are recorded separately.",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "essay-revised"
+  ],
+  "invalidated_checks": [
+    "Previous-draft rendering invalidated by content and figure edits; current preview is bound to the new hash."
+  ],
+  "unresolved_risks": [
+    "Native Word verification unavailable; document remains a reviewed draft, not a submission-ready claim.",
+    "Pre-existing Word editing lock preserved."
+  ],
+  "next_action": "User reads revised text and images in Microsoft Word; confirm native pagination and retain any further edits.",
+  "extensions": {
+    "reviewed_original": "批注原稿备份.docx",
+    "comment_adjudication": "批注处理.json",
+    "source_spreadsheet_manifest": "figure-data.json"
+  }
+}

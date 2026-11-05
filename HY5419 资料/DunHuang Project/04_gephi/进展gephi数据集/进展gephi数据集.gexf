@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2">
+  <meta lastmodifieddate="2026-10-13">
+    <creator>HY5419 Dunhuang evidence-linked dataset</creator>
+    <description>2026-10-13-v1; actor_transfer_aggregated; static graph; equal edge weight; year bounds are uncertainty attributes.</description>
+  </meta>
+  <graph mode="static" defaultedgetype="directed">
+    <attributes class="node" mode="static">
+      <attribute id="LabelEN" title="LabelEN" type="string" />
+      <attribute id="NodeType" title="NodeType" type="string" />
+      <attribute id="Place" title="Place" type="string" />
+      <attribute id="HistoricalPolity" title="HistoricalPolity" type="string" />
+      <attribute id="Role" title="Role" type="string" />
+      <attribute id="Alias" title="Alias" type="string" />
+      <attribute id="SourceRef" title="SourceRef" type="string" />
+      <attribute id="Core" title="Core" type="integer" />
+      <attribute id="Notes" title="Notes" type="string" />
+      <attribute id="GraphView" title="GraphView" type="string" />
+      <attribute id="InLinks" title="InLinks" type="integer" />
+      <attribute id="OutLinks" title="OutLinks" type="integer" />
+      <attribute id="Degree" title="Degree" type="integer" />
+      <attribute id="RecordedEvents" title="RecordedEvents" type="integer" />
+      <attribute id="Route" title="Route" type="string" />
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="EventCount" title="EventCount" type="integer" />
+      <attribute id="EventIds" title="EventIds" type="string" />
+      <attribute id="Route" title="Route" type="string" />
+      <attribute id="Relationship" title="Relationship" type="string" />
+      <attribute id="YearStart" title="YearStart" type="integer" />
+      <attribute id="YearEnd" title="YearEnd" type="integer" />
+      <attribute id="SourceRef" title="SourceRef" type="string" />
+      <attribute id="EvidenceIds" title="EvidenceIds" type="string" />
+      <attribute id="Confidence" title="Confidence" type="string" />
+      <attribute id="DateNotes" title="DateNotes" type="string" />
+      <attribute id="GraphView" title="GraphView" type="string" />
+      <attribute id="Notes" title="Notes" type="string" />
+    </attributes>
+    <nodes>
+      <node id="N002" label="王圆箓">
+        <attvalues>
+          <attvalue for="LabelEN" value="Wang Yuanlu" />
+          <attvalue for="NodeType" value="Person" />
+          <attvalue for="Place" value="敦煌" />
+          <attvalue for="HistoricalPolity" value="清" />
+          <attvalue for="Role" value="地方保管者；道士；修缮者" />
+          <attvalue for="Alias" value="Wang Tao-shih; Wang Yüan-lu; 王圓籙; 王道士" />
+          <attvalue for="SourceRef" value="S01;S07;S22;S15" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="仅表示来源描述的保管和交易角色，不裁定所有权。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="0" />
+          <attvalue for="OutLinks" value="2" />
+          <attvalue for="Degree" value="2" />
+          <attvalue for="RecordedEvents" value="4" />
+          <attvalue for="Route" value="Pelliot;Stein" />
+        </attvalues>
+        <viz:color r="213" g="94" b="0" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-340" y="100" z="0" />
+      </node>
+      <node id="N006" label="斯坦因考察队">
+        <attvalues>
+          <attvalue for="LabelEN" value="Stein expedition" />
+          <attvalue for="NodeType" value="Expedition" />
+          <attvalue for="Place" value="敦煌／安西／和田" />
+          <attvalue for="HistoricalPolity" value="英属印度支持的考察行动" />
+          <attvalue for="Role" value="1907年取得与运输行动" />
+          <attvalue for="Alias" value="Stein Central Asian Expedition" />
+          <attvalue for="SourceRef" value="S03;S07" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="以行动组织作为接收主体；并非法律实体认定。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="1" />
+          <attvalue for="OutLinks" value="1" />
+          <attvalue for="Degree" value="2" />
+          <attvalue for="RecordedEvents" value="4" />
+          <attvalue for="Route" value="Stein" />
+        </attvalues>
+        <viz:color r="0" g="114" b="178" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-20" y="220" z="0" />
+      </node>
+      <node id="N007" label="英国博物馆">
+        <attvalues>
+          <attvalue for="LabelEN" value="British Museum" />
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Place" value="伦敦" />
+          <attvalue for="HistoricalPolity" value="英国" />
+          <attvalue for="Role" value="实物存放与整理地点" />
+          <attvalue for="Alias" value="British Museum; 大英博物馆" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="历史存放不等于正式入藏；不把1973年后的British Library回填至1909年。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="1" />
+          <attvalue for="OutLinks" value="0" />
+          <attvalue for="Degree" value="1" />
+          <attvalue for="RecordedEvents" value="1" />
+          <attvalue for="Route" value="Stein" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="300" y="220" z="0" />
+      </node>
+      <node id="N009" label="京师图书馆">
+        <attvalues>
+          <attvalue for="LabelEN" value="Jingshi Library" />
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Place" value="北京" />
+          <attvalue for="HistoricalPolity" value="清" />
+          <attvalue for="Role" value="历史接收机构" />
+          <attvalue for="Alias" value="京師圖書館; Metropolitan Library; Imperial Library" />
+          <attvalue for="SourceRef" value="S11;S12;S13;S19" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="沿用旧N009但落实为具体历史机构；现代国家图书馆名称只作沿革说明。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="1" />
+          <attvalue for="OutLinks" value="0" />
+          <attvalue for="Degree" value="1" />
+          <attvalue for="RecordedEvents" value="2" />
+          <attvalue for="Route" value="Qing" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="300" y="-330" z="0" />
+      </node>
+      <node id="N010" label="陕甘总督机构">
+        <attvalues>
+          <attvalue for="LabelEN" value="Shaan-Gan Governor-General office" />
+          <attvalue for="NodeType" value="Government" />
+          <attvalue for="Place" value="甘肃／北京运输路线" />
+          <attvalue for="HistoricalPolity" value="清" />
+          <attvalue for="Role" value="1909样本的送出机构" />
+          <attvalue for="Alias" value="陕甘总督; 陝甘總督" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="机构节点；具体承运人和王圆箓向该机构交出样本的环节未证实。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="0" />
+          <attvalue for="OutLinks" value="1" />
+          <attvalue for="Degree" value="1" />
+          <attvalue for="RecordedEvents" value="1" />
+          <attvalue for="Route" value="Qing" />
+        </attvalues>
+        <viz:color r="117" g="83" b="153" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-340" y="-330" z="0" />
+      </node>
+      <node id="N011" label="清学部">
+        <attvalues>
+          <attvalue for="LabelEN" value="Qing Ministry of Education" />
+          <attvalue for="NodeType" value="Government" />
+          <attvalue for="Place" value="北京" />
+          <attvalue for="HistoricalPolity" value="清" />
+          <attvalue for="Role" value="拨送与行政管理机构" />
+          <attvalue for="Alias" value="学部; 學部; Ministry of Education" />
+          <attvalue for="SourceRef" value="S11;S19" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="替代旧版抽象的清中央政府节点；命令与实物交接分别建模。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="1" />
+          <attvalue for="OutLinks" value="1" />
+          <attvalue for="Degree" value="2" />
+          <attvalue for="RecordedEvents" value="3" />
+          <attvalue for="Route" value="Qing" />
+        </attvalues>
+        <viz:color r="117" g="83" b="153" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-20" y="-330" z="0" />
+      </node>
+      <node id="N013" label="伯希和考察队">
+        <attvalues>
+          <attvalue for="LabelEN" value="Pelliot expedition" />
+          <attvalue for="NodeType" value="Expedition" />
+          <attvalue for="Place" value="敦煌／巴黎路线" />
+          <attvalue for="HistoricalPolity" value="法国" />
+          <attvalue for="Role" value="1908年取得与带回行动" />
+          <attvalue for="Alias" value="Mission Pelliot; Pelliot expedition" />
+          <attvalue for="SourceRef" value="S15;S22" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="与斯坦因队使用一致的组织分析单位。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="1" />
+          <attvalue for="OutLinks" value="1" />
+          <attvalue for="Degree" value="2" />
+          <attvalue for="RecordedEvents" value="2" />
+          <attvalue for="Route" value="Pelliot" />
+        </attvalues>
+        <viz:color r="0" g="114" b="178" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="-20" y="-20" z="0" />
+      </node>
+      <node id="N014" label="法国国家图书馆">
+        <attvalues>
+          <attvalue for="LabelEN" value="Bibliothèque nationale (Paris)" />
+          <attvalue for="NodeType" value="Institution" />
+          <attvalue for="Place" value="巴黎" />
+          <attvalue for="HistoricalPolity" value="法国" />
+          <attvalue for="Role" value="伯希和敦煌写本的接收机构" />
+          <attvalue for="Alias" value="Bibliothèque Nationale; BnF; Bibliothèque nationale de France" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="Core" value="1" />
+          <attvalue for="Notes" value="原候选N014现有机构正文支持；不把卢浮宫接收艺术品混入写本主图。" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="InLinks" value="1" />
+          <attvalue for="OutLinks" value="0" />
+          <attvalue for="Degree" value="1" />
+          <attvalue for="RecordedEvents" value="1" />
+          <attvalue for="Route" value="Pelliot" />
+        </attvalues>
+        <viz:color r="0" g="158" b="115" a="1.0" />
+        <viz:size value="16" />
+        <viz:position x="300" y="-20" z="0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="L_N002_N006" source="N002" target="N006" type="directed" weight="1" label="3个记录事件">
+        <attvalues>
+          <attvalue for="EventCount" value="3" />
+          <attvalue for="EventIds" value="DH001;DH002;DH003" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="Relationship" value="acquisition" />
+          <attvalue for="YearStart" value="1907" />
+          <attvalue for="YearEnd" value="1907" />
+          <attvalue for="SourceRef" value="S01;S03;S07" />
+          <attvalue for="EvidenceIds" value="EV001;EV002;EV003;EV004;EV005;EV006;EV007;EV008" />
+          <attvalue for="Confidence" value="medium" />
+          <attvalue for="DateNotes" value="DH001: 1907年5月 / DH002: 1907年6月 / DH003: 1907年10月；取得与到安西日区分" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="Notes" value="Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。" />
+        </attvalues>
+      </edge>
+      <edge id="L_N002_N013" source="N002" target="N013" type="directed" weight="1" label="1个记录事件">
+        <attvalues>
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="EventIds" value="DH005" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="Relationship" value="acquisition" />
+          <attvalue for="YearStart" value="1908" />
+          <attvalue for="YearEnd" value="1908" />
+          <attvalue for="SourceRef" value="S01;S15;S22" />
+          <attvalue for="EvidenceIds" value="EV013;EV014;EV015" />
+          <attvalue for="Confidence" value="medium" />
+          <attvalue for="DateNotes" value="DH005: 1908年；3月查看与选择，交接日未定" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="Notes" value="Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。" />
+        </attvalues>
+      </edge>
+      <edge id="L_N006_N007" source="N006" target="N007" type="directed" weight="1" label="1个记录事件">
+        <attvalues>
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="EventIds" value="DH004" />
+          <attvalue for="Route" value="Stein" />
+          <attvalue for="Relationship" value="physical_deposit" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="SourceRef" value="S03;S07;S17" />
+          <attvalue for="EvidenceIds" value="EV009;EV010;EV011;EV012" />
+          <attvalue for="Confidence" value="medium" />
+          <attvalue for="DateNotes" value="DH004: 1909年抵英；至1910年初夏已在BM" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="Notes" value="Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。" />
+        </attvalues>
+      </edge>
+      <edge id="L_N010_N011" source="N010" target="N011" type="directed" weight="1" label="1个记录事件">
+        <attvalues>
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="EventIds" value="DH007" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="Relationship" value="sample_submission" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="SourceRef" value="S19" />
+          <attvalue for="EvidenceIds" value="EV017" />
+          <attvalue for="Confidence" value="medium" />
+          <attvalue for="DateNotes" value="DH007: 1909年；根据1910年文书“上年”回推" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="Notes" value="Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。" />
+        </attvalues>
+      </edge>
+      <edge id="L_N011_N009" source="N011" target="N009" type="directed" weight="1" label="2个记录事件">
+        <attvalues>
+          <attvalue for="EventCount" value="2" />
+          <attvalue for="EventIds" value="DH008;DH009" />
+          <attvalue for="Route" value="Qing" />
+          <attvalue for="Relationship" value="institutional_receipt;supplementary_receipt" />
+          <attvalue for="YearStart" value="1910" />
+          <attvalue for="YearEnd" value="1910" />
+          <attvalue for="SourceRef" value="S11;S19;S25" />
+          <attvalue for="EvidenceIds" value="EV018;EV019;EV020;EV021;EV022" />
+          <attvalue for="Confidence" value="medium" />
+          <attvalue for="DateNotes" value="DH008: 1910年；早于宣统二年十一月十二日行文 / DH009: 宣统二年十一月十四日（公历1910-12-15，历表换算）" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="Notes" value="Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。" />
+        </attvalues>
+      </edge>
+      <edge id="L_N013_N014" source="N013" target="N014" type="directed" weight="1" label="1个记录事件">
+        <attvalues>
+          <attvalue for="EventCount" value="1" />
+          <attvalue for="EventIds" value="DH006" />
+          <attvalue for="Route" value="Pelliot" />
+          <attvalue for="Relationship" value="institutional_receipt" />
+          <attvalue for="YearStart" value="1909" />
+          <attvalue for="YearEnd" value="1909" />
+          <attvalue for="SourceRef" value="S15" />
+          <attvalue for="EvidenceIds" value="EV016" />
+          <attvalue for="Confidence" value="medium" />
+          <attvalue for="DateNotes" value="DH006: 1909年底" />
+          <attvalue for="GraphView" value="actor_transfer_aggregated" />
+          <attvalue for="Notes" value="Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

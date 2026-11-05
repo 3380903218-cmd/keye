@@ -1,0 +1,13 @@
+{
+  "image": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Diamond_Sutra_of_868_AD_-_The_Diamond_Sutra_%28868%29%2C_frontispiece_and_text_-_BL_Or._8210-P.2.jpg?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org",
+    "credit": "British Library / Wikimedia Commons, Or.8210/P.2",
+    "license": "CC0 1.0",
+    "license_page": "https://commons.wikimedia.org/wiki/File:Diamond_Sutra_of_868_AD_-_The_Diamond_Sutra_(868),_frontispiece_and_text_-_BL_Or._8210-P.2.jpg",
+    "sha256": "cf7d1ada6833723f207c761450b732314344cde8b45a164ba399578859ecad21"
+  },
+  "basemap": {
+    "source": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson",
+    "license": "Public domain"
+  }
+}

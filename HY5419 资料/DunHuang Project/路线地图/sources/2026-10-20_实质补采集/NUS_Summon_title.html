@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html id="ng-app" ng-strict-di lang="en" ng-controller="ApplicationCtrl">
+  <head>
+    <!-- Google Tag Manager -->
+    <!-- End Google Tag Manager -->
+    <style type="text/css">
+      .hidden {display: none}
+    </style>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <!-- Tags for Google-bot against indexing, following links on page, using a cache page and showing the snippet-->
+    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+
+    <title ng-bind="windowTitle">Summon 2.0</title>
+
+    <!-- Standard favicon -->
+    <link rel="shortcut icon" type="image/icon" href="//assets-cdn.summon.serialssolutions.com/667bb8f02133bc95dd5e63d9">
+    <!-- Apple device icons -->
+    <link rel="apple-touch-icon" sizes="32x32" href="//assets-cdn.summon.serialssolutions.com/59115bdaa61f863529000b2e">
+    <link rel="apple-touch-icon" sizes="57x57" href="//assets-cdn.summon.serialssolutions.com/591158ade8c1950de7000ae3">
+    <link rel="apple-touch-icon" sizes="76x76" href="//assets-cdn.summon.serialssolutions.com/59115934e8c1950de7000ae5">
+    <link rel="apple-touch-icon" sizes="120x120" href="//assets-cdn.summon.serialssolutions.com/59115995a61f863529000b2a">
+    <link rel="apple-touch-icon" sizes="144x144" href="//assets-cdn.summon.serialssolutions.com/59115ac7e8c1950de7000ae7">
+    <link rel="apple-touch-icon" sizes="152x152" href="//assets-cdn.summon.serialssolutions.com/59115b0ba61f863529000b2c">
+    <link rel="apple-touch-icon" sizes="180x180" href="//assets-cdn.summon.serialssolutions.com/59115c02a61f863529000b30">
+    <!-- Chrome for Android icon -->
+    <link rel="icon" type="image/png" href="//assets-cdn.summon.serialssolutions.com/59115cc2e8c1950de7000aeb" sizes="196x196">
+    <!-- For Android home screens -->
+    <link rel="manifest" href="/manifest.json">
+
+    <link ng-href="{{rssLink()}}" ng-if="view == 'search' && enableRssLink() && viewState.currentView != 'detailsPage'" rel="alternate" type="application/rss+xml" title="RSS" />
+
+    <link rel="stylesheet" href="//static-cdn.summon.serialssolutions.com/assets/application-ebf1d4e5602d3df4502e5ae83e61d1df.css">
+    <link rel="stylesheet" href="//static-cdn.summon.serialssolutions.com/assets/uxf-icons-16f99c5493f80bd66a9149a38f0f98c5.css">
+    <link rel="stylesheet" href="//static-cdn.summon.serialssolutions.com/assets/postload-styles-983f4c445dc6d8ad27d79db384bb9096.css">
+
+      <link rel="stylesheet" href="">
+
+    <style type="text/css">
+        :root {
+            --primary-link-color: #2659ab;
+            --primary-link-visited-color: #004792;
+            --primary-link-hover-color: #004792;
+            --secondary-link-color: #333333;
+            --secondary-link-visited-color: #333333;
+            --secondary-link-hover-color: #333333;
+            --header-icon-color: #323232;
+            --header-background-color: #FFFFFF;
+            --auth-banner-link-color: #e6e6e6;
+            --auth-banner-background-color: #505050;
+            --pagination-background-color: #505050;
+            --quick-look-button-color: #325676;
+            --quick-look-button-text-color: #FFF;
+            --quick-look-button-hover-color: #182a39;
+            --header-link-color: #2659ab;
+            --header-link-visited-color: #172e5a;
+            --publi-date-btn-selected-and-custom-date-svg-color: #00478e;
+            --primary-btn-on-white-background-color: #325676;
+            --primary-btn-text-on-white-background-color: #fff;
+            --home-page-primary-color: #323232;
+            --home-page-primary-color-20: #32323233; /* 20% opacity */
+            --home-page-secondary-color: #e3e3e3;
+        }
+        
+      .customPrimaryLink,.customPrimaryLinkContainer a, .customPrimaryLinkContainer button:not(.request){
+          color:#2659ab!important
+      }
+      .home h2, .home .toggleSavedSearches, .about-library, .about-library a, .footer, .footer a   {
+        color: #ffffff!important
+      }
+      .footer [chat-widget],
+      .footer [chat-widget] a,
+      .footer [right-chat],
+      .footer [right-chat] a {
+        color: initial !important;
+      }
+
+      .linked-cards .title {
+        color: #000000!important
+      }
+      .customPrimaryLink:visited,.customPrimaryLinkContainer a:visited,.customPrimaryLinkContainer button:visited:not(.request){
+          color:#004792!important
+      }
+      .customPrimaryLink:hover,.customPrimaryLink:active,.customPrimaryLinkContainer a:hover,.customPrimaryLinkContainer a:active,.customPrimaryLinkContainer button:hover:not(.request),.customPrimaryLinkContainer button:active:not(.request){
+          color:#004792!important
+      }
+      .customPrimaryLink svg{
+          fill:#2659ab!important
+      }
+      .customPrimaryLink:visited svg{
+          fill:#004792!important
+      }
+      .customPrimaryLink:active svg,.customPrimaryLink:hover svg{
+          fill:#004792!important
+      }
+      .browzine a{
+          color:#2659ab!important
+      }
+      .request {
+          background-color: #2659ab !important;
+      }
+      .request:hover, .request:active{
+          background-color: #004792 !important;
+      }
+      .customSecondaryLink{
+          color:#333333!important
+      }
+      .customSecondaryLink:visited{
+          color:#333333!important
+      }
+      .customSecondaryLink:hover,.customSecondaryLink:active{
+          color:#333333!important
+      }
+      .record-actions .actionBtn{
+          color:#2659ab!important
+      }
+      .record-actions .actionBtn svg{
+          fill:#2659ab!important
+      }
+      .customColorsToggleButton a{
+          color:#2659ab!important
+      }
+      .customColorsToggleButton a:visited{
+          color:#004792!important
+      }
+      .customColorsToggleButton a:hover,.customColorsToggleButton a:active{
+          color:#004792!important
+      }
+      .customColorsToggleButton::after{
+          border-top-color:#2659ab!important
+      }
+      .customColorsToggleButton.active::after{
+          border-bottom-color:#2659ab!important
+      }
+      .recommenderLink a{
+          color:#2659ab!important
+      }
+      .recommenderLink:after{
+          border-left-color:#2659ab!important
+      }
+      .recommenderLink.active a{
+          color:white!important
+      }
+      .recommenderLink.active:after{
+          border-left-color:white!important
+      }
+      .permalinkContainer .permalinkColor{
+          color:#333333!important
+      }
+      .permalinkContainer .permalinkColor:hover,.permalinkContainer .permalinkColor:active{
+          color:#333333!important
+      }
+      .clearRefinementsContainer{
+          background-color:#182e42!important;
+      }
+      .summonCheckboxContainer .checkmark,.summonCheckboxContainer input:focus:not(:disabled)~.checkmark,.summonCheckboxContainer input:hover:not(:disabled)~.checkmark{
+          border:solid 1px #2859ab!important
+      }
+      .summonCheckboxContainer input:checked:not(:disabled)~.checkmark{
+          background-color:#2859ab!important
+      }
+      .Filter:focus:not(.disabledFacet),.Filter:focus-within:not(.disabledFacet),.Filter:hover:not(.disabledFacet){
+          background-color:#e7ecf6!important
+      }
+      .badges .bg-applied{
+          background-color:#2859ab!important
+      }
+      .badges .bg-negated{
+          background-color:#c22e0e!important
+      }
+      .clearRefinementsContainer .clearRefinementsContainerHeader .summonBtn{
+          background-color:#505050!important
+      }
+      .customAuthBanner{
+          background-color:#505050!important
+      }
+      .customAuthBanner a,.customAuthBanner .btn-link{
+          color:#e6e6e6!important
+      }
+      .customAuthBanner a:visited,.customAuthBanner .btn-link:visited{
+          color:#e6e6e6!important
+      }
+      .customAuthBanner a:hover,.customAuthBanner a:active,.customAuthBanner .btn-link:hover,.customAuthBanner .btn-link:active{
+          color:#e6e6e6!important
+      }
+      .clearRefinementsContainer .clearRefinementsContainerHeader{
+          color:#FFF!important
+      }
+      .clearRefinementsContainer .clearRefinementsContainerHeader .summonBtn span{
+          color:#fff!important
+      }
+      .clearRefinementsContainer .clearRefinementsContainerHeader .summonBtn {
+          background-color:#325676!important
+      }
+      .summon-modal-header .clear-all-btn {
+          background-color:#325676!important;
+          color:#fff!important
+      }
+      .submit-btn {
+        background-color:#325676!important;
+        color:#fff!important
+      }
+      .backToTopBtn{
+          background-color:#505050!important;
+      }
+      .customHeaderButtonBackground{
+          background-color:#505050!important;
+      }
+      .customHeader{
+          background:#FFFFFF!important
+      }
+      .addBorderIfNoContrast {
+        border:0px none transparent!important;
+      }
+      .advancedSearchBtns .btn-link,.siteLink,.siteLinks .customColorsSiteLink,.siteLinks div>a,.siteLinks div .btn,.siteLinks button{
+          color:#2659ab!important
+      }
+
+      .siteLinks div>a.help:after{
+          background:#2659ab!important;
+          color:#ffffff!important
+      }
+      .siteLinks button b{
+          border-top:4px solid #2659ab
+      }
+      .siteLinks div>a:visited{
+          color:#172e5a!important
+      }
+      .siteLinks div>a.help:visited:after{
+          background:#172e5a!important;
+          color:#ffffff!important
+      }
+      .advancedSearchBtns .btn-link:hover,.siteLink:hover,.siteLinks .customColorsSiteLink:hover,.siteLinks .customColorsSiteLink:active,.siteLinks div>a:hover,.siteLinks div>a:active,.siteLinks div .btn:hover,.siteLinks button:hover{
+          color:#004792!important
+      }
+      .siteLinks div>a.help:hover:after,.siteLinks div>a.help:active:after{
+          background:#004792!important;
+          color:#ffffff!important
+      }
+      .siteLinks button:hover b{
+          border-top:4px solid #004792
+      }
+      .date-preset-link{
+          border-color:#bbd6ff!important
+      }
+      .date-preset-link.date-selected,.date-preset-link.date-selected:hover{
+          background-color:#00478e!important
+      }
+      .custom-date-selector i,.custom-date-selector svg{
+          color:#00478e!important
+      }
+      .custom-date-selector.open{
+          background-color:#e7ecf6!important;
+          border-bottom-color:#00478e!important
+      }
+      .custom-date-selector.open:hover{
+          border-color:#e7ecf6 #e7ecf6 #00478e #e7ecf6!important
+      }
+      .publication-date-selector .custom-date-selector:hover,.publication-date-selector .date-preset-link:hover{
+          background-color:#e7ecf6!important;
+          border-color:#00478e!important
+      }
+      body .refinePane{
+          background:#FFF !important;
+      }
+      .uxf-icon.navHamburger,.uxf-icon.navChatIcon, .uxf-icon.navSave,.uxf-icon.navLibraryCard, .uxf-icon.navLanguageSwitcher, .languageMenuButton .languageText, .logged-in {
+          color:#323232!important
+      }
+      svg.navSave {
+          fill: #323232 !important;
+      }
+      .headerButton:hover {
+          border-bottom-color: #323232 !important;
+      }
+      .search .siteHeader .btn-link, .search .siteHeader .toggleSavedSearches{
+          color:#323232!important;
+      }
+      .search .siteHeader .btn-link:after{
+          border-top-color:#323232!important;
+      }
+      .search .siteHeader .btn-link.active:after{
+          border-bottom-color:#FFFFFF!important;
+      }
+      .header-buttons .summonBtn {
+          color:#323232;
+          border-color: #323232;
+      }
+      .summon-modal-header, .floatingPanelHeader, .floatingPanelHeader .btn-link, .floatingPanelHeader .btn-link:focus {
+          background-color:#182e42!important;
+          color: #FFF!important;
+      }
+      .splash .home-page-wrapper .mobile img {
+        position: unset;
+        top: 0;
+        left: 0;
+      }      
+    </style>
+
+
+    <script src="//static-cdn.summon.serialssolutions.com/assets/runtime.da7541105b38b2fc7370.js?1790634766"></script>
+    <script src="//static-cdn.summon.serialssolutions.com/assets/jquery.bfc8cacba17f29d2b747.js?1790634766"></script>
+    <script src='//static-cdn.summon.serialssolutions.com/assets/angular.308f6e8f026291963a6e.js?1790634766' ></script>
+    <script src='//static-cdn.summon.serialssolutions.com/assets/angularPlugins.308d4b006e51096dd56d.js?1790634766' ></script>
+    <script src='//static-cdn.summon.serialssolutions.com/assets/plugins.bab4cc87891aa6d85b4c.js?1790634766' ></script>
+    <script src='//static-cdn.summon.serialssolutions.com/assets/application.4ce88c347a1fd2c554af.js?1790634766' ></script>
+
+      <script src="//static-cdn.summon.serialssolutions.com/assets/ra-webcomponent/polyfills.86a412695eae230710c2.js?1790634766" type="module" defer ></script>
+      <script src="//static-cdn.summon.serialssolutions.com/assets/ra-webcomponent/main.8642b5517f92e955d106.js?1790634766" type="module" defer ></script>
+
+    <script src="/custom_data"  ></script>
+    <script src='//static-cdn.summon.serialssolutions.com/assets/templates-9dec2a51a15e893242baffa8debda05a.js'  ></script>
+    <script src='/localization/en-US,zh' charset="UTF-8"  ></script>
+    <script src='//static-cdn.summon.serialssolutions.com/assets/postLoadPlugins.d5cec6e74c44cfde17d0.js?1790634766'  ></script>
+    <script async defer src="https://apis.google.com/js/client.js" ></script>
+    <script async defer src="https://www.recaptcha.net/recaptcha/enterprise.js?render=6LeZ9hYsAAAAAGLYV8YC0A63iGNciHwvmHOq8Mjd"></script>
+      <script src='//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js' defer> </script>
+      <script src='//ltfl.librarything.com/syndeticsunbound/connector/initiator.php?a_id=2299' defer> </script>
+
+    <script async >
+      var __refererURL = "";
+
+      (function runLoader(self){
+        var
+          regex = /.*(?=\/assets\/.*)/,
+          appBooted = false,
+          widgetBoxJS = '//static-cdn.summon.serialssolutions.com/assets/boxWidget.ae46addb3f554fb4403e.js?1790634766',
+          widgetSearchJS = '//static-cdn.summon.serialssolutions.com/assets/searchWidget.74d30349c4c89995a68b.js?1790634766'
+          widgetCarouselJS = '//static-cdn.summon.serialssolutions.com/assets/carouselWidget.5d56ced7ff0fa9057771.js?1790634766'
+          widgetCarouselComponentJS = '//static-cdn.summon.serialssolutions.com/assets/carouselDiscoveryWidget.c5960a491b7fad07115f.js?1790634766'
+        ;
+
+        function appBootstrap(){
+          var head = angular.element('head');
+          if(!appBooted){
+            angular.bootstrap(document, ['summonApp']);
+            appBooted = true;
+          }
+        }
+
+        function loadScripts(){
+          const bootstrapAppWhenDocReady = function () {
+            if (scriptPending > 0) {
+              scriptPending--;
+            }
+            
+            if (window.angular && scriptPending === 0) {
+              angular.element(document).ready(appBootstrap);
+            } else if (scriptPending === 0) {
+              setTimeout(loadScripts, 50);
+            }
+          }
+
+          let scriptPending = 0;
+
+          
+            scriptPending++;
+            customJSTag = document.createElement('script');
+            customJSTag.setAttribute('src', 'https://lib.nus.edu.sg/summon/nussummon_extrascript.js' )
+            // custom js may include angularjs directives so wait to bootstrap app until custom js has been loaded
+            customJSTag.onload = bootstrapAppWhenDocReady;
+            // if custom js fails we will bootstrap the app anyway
+            customJSTag.onerror = bootstrapAppWhenDocReady; 
+            document.getElementsByTagName('head')[0].appendChild(customJSTag);
+
+        }
+
+        function loadCssFromFalback() {
+          var
+            applicationCss = ['//static-cdn.summon.serialssolutions.com/assets/application-ebf1d4e5602d3df4502e5ae83e61d1df.css', '//static-cdn.summon.serialssolutions.com/assets/uxf-icons-16f99c5493f80bd66a9149a38f0f98c5.css', '//static-cdn.summon.serialssolutions.com/assets/postload-styles-983f4c445dc6d8ad27d79db384bb9096.css']
+          ;
+
+          // adds tags for all dependent css files
+          applicationCss.forEach(function(cssPath) {
+            var stylesheetTag = document.createElement('link');
+
+            stylesheetTag.setAttribute('rel', 'stylesheet');
+            stylesheetTag.setAttribute('href', cssPath.replace(regex, ''));
+            document.getElementsByTagName('head')[0].appendChild(stylesheetTag);
+          });
+        }
+
+        function loadJSFromFallback() {
+          var applicationJs = [
+            "//static-cdn.summon.serialssolutions.com/assets/runtime.da7541105b38b2fc7370.js?1790634766",
+            "//static-cdn.summon.serialssolutions.com/assets/angular.308f6e8f026291963a6e.js?1790634766",
+            "//static-cdn.summon.serialssolutions.com/assets/jquery.bfc8cacba17f29d2b747.js?1790634766",
+            "//static-cdn.summon.serialssolutions.com/assets/angularPlugins.308d4b006e51096dd56d.js?1790634766",
+            "//static-cdn.summon.serialssolutions.com/assets/plugins.bab4cc87891aa6d85b4c.js?1790634766",
+            "//static-cdn.summon.serialssolutions.com/assets/postLoadPlugins.d5cec6e74c44cfde17d0.js?1790634766",
+            "//static-cdn.summon.serialssolutions.com/assets/templates-9dec2a51a15e893242baffa8debda05a.js",
+            "//static-cdn.summon.serialssolutions.com/assets/application.4ce88c347a1fd2c554af.js?1790634766"
+          ];
+
+          var applicationModuleJs = [
+            "//static-cdn.summon.serialssolutions.com/assets/ra-webcomponent/main.8642b5517f92e955d106.js?1790634766",
+            "//static-cdn.summon.serialssolutions.com/assets/ra-webcomponent/polyfills.86a412695eae230710c2.js?1790634766"
+          ];
+
+          // adds tags for all dependent js files
+          applicationJs.forEach(function(jsPath) {
+            var jsTag = document.createElement('script');
+            jsTag.setAttribute('src', jsPath.replace(regex, ''));
+            document.getElementsByTagName('head')[0].appendChild(jsTag);
+          });
+
+          applicationModuleJs.forEach(function(jsPath) {
+            var jsTag = document.createElement('script');
+            jsTag.setAttribute('src', jsPath.replace(regex, ''));
+            jsTag.setAttribute('type', 'module');
+            document.getElementsByTagName('head')[0].appendChild(jsTag);
+          });
+        }
+
+        self.searchWidgetScriptSrc = widgetSearchJS;
+        
+        self.boxWidgetScriptSrc = widgetBoxJS
+
+        self.carouselWidgetScriptSrc = widgetCarouselJS
+
+        self.carouselWidgetComponentScriptSrc = widgetCarouselComponentJS
+
+
+        // fall back to Summon servers on CDN failure
+        if (!window.$) {
+          jqueryScript = '//static-cdn.summon.serialssolutions.com/assets/jquery.bfc8cacba17f29d2b747.js?1790634766'
+          console.error("The following javascript dependency failed to load: " + jqueryScript);
+          console.log("- probably because the CDN is not loading. Check this domain: " + jqueryScript.replace(/(.*)\/(assets.*)/, '$1'));
+          console.log("- retrying by loading things locally")
+          loadCssFromFalback();
+          loadJSFromFallback();
+          setTimeout(loadScripts, 3000); // wait 3 seconds
+        }
+        else {
+          loadScripts();
+        }
+      })(this);
+    </script>
+  </head>
+  <body
+    dir="{{ ::textDirection }}"
+    idle-timer
+    layout
+    key-events>
+        <div ng-cloak class="splash">
+            <div class="home-page-wrapper">
+              <img src="/images/spinner.gif" alt="{{ ::i18n.translations.APP_IS_LOADING }}" />
+            </div>  
+        </div>
+        
+      <div ng-cloak role="alert" aria-live="assertive" class="offscreen" aria-label="{{i18n.translate(i18n.translations.LOADING_PAGE_NUMBER, {number:appState.params.pn})}}">
+        <span 
+          ng-if="loadingNewSearchIndicator || loadingSearchIndicator || feed.loading"
+          ng-bind="::i18n.translations.LOADING_RESULTS">
+        </span>
+        <span
+          ng-if="!loadingNewSearchIndicator && !loadingSearchIndicator && !feed.loading"
+          ng-bind="::i18n.translations.DONE_LOADING_RESULTS">
+        </span>
+
+        <span ng-if="loadingFacetIndicator" ng-bind="::i18n.translations.LOADING_MORE_FACETS"></span>
+        <span ng-if="!loadingFacetIndicator" ng-bind="::i18n.translations.DONE_LOADING_MORE_FACETS"></span>
+      </div>
+
+      <main
+        ng-cloak
+        id="content"
+        class="screen-media-wrapper">
+            <h1 class="offscreen" ng-bind="windowTitle">Summon 2.0</h1>
+          <div home-view ng-show="view == 'home'"></div>
+          <div search-view ng-show="view == 'search'"></div>
+          <div embedded-widgets-view ng-if="view == 'widgets'"></div>
+          <div course-reserves ng-if="courseReservesHasRendered" ng-show="view == 'course_reserves'"></div>
+          <div library-card ng-if="libraryCardHasRendered" ng-show="view == 'library_card'"></div>
+          <div class="footer">
+            <div chat-widget ng-if="chat.enabled"></div>
+            <div right-chat ng-if="chat.enabled && chat.locateRight"></div>
+          </div>
+      </main>
+
+      <div class="print-media-wrapper" style="display:none"></div>
+      <toast></toast>
+
+      <div ng-view></div>
+
+      <div click-track-link-form></div>
+
+      <div ng-if="isPreviewEnv && showPreviewBanner" class="preview-env"></div>
+
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CXD0BQ6DBN"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());gtag('config', 'G-CXD0BQ6DBN');
+        </script>
+    <script>
+      const hash = location.hash;
+      const path = location.pathname;
+    
+      const isSSRVisibleRoute = (
+        (path === '/' && (!hash || hash === '#!' || hash === '#!/'))
+      );
+    
+      if (!isSSRVisibleRoute) {
+        document.getElementById('ssr-content')?.classList.add('hidden');
+        document.getElementById('csr-content')?.classList.remove('hidden');
+      }
+    </script>
+  </body>
+</html>

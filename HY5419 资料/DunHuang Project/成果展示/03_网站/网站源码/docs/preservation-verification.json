@@ -1,0 +1,360 @@
+{
+  "version": "2.2.0",
+  "date": "2026-10-29T10:43:03.044Z",
+  "url": "http://localhost:8780/",
+  "checks": [
+    {
+      "name": "three treatment records 320/en",
+      "passed": true
+    },
+    {
+      "name": "two history examples 320/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 320/en",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 320/en",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 320/en",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 320/en",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 320/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 320/en",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 320/en",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 320/en",
+      "passed": true
+    },
+    {
+      "name": "three treatment records 320/zh",
+      "passed": true
+    },
+    {
+      "name": "two history examples 320/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 320/zh",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 320/zh",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 320/zh",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 320/zh",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 320/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 320/zh",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 320/zh",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 320/zh",
+      "passed": true
+    },
+    {
+      "name": "three treatment records 390/en",
+      "passed": true
+    },
+    {
+      "name": "two history examples 390/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 390/en",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 390/en",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 390/en",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 390/en",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 390/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 390/en",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 390/en",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 390/en",
+      "passed": true
+    },
+    {
+      "name": "three treatment records 390/zh",
+      "passed": true
+    },
+    {
+      "name": "two history examples 390/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 390/zh",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 390/zh",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 390/zh",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 390/zh",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 390/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 390/zh",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 390/zh",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 390/zh",
+      "passed": true
+    },
+    {
+      "name": "three treatment records 768/en",
+      "passed": true
+    },
+    {
+      "name": "two history examples 768/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 768/en",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 768/en",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 768/en",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 768/en",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 768/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 768/en",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 768/en",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 768/en",
+      "passed": true
+    },
+    {
+      "name": "three treatment records 768/zh",
+      "passed": true
+    },
+    {
+      "name": "two history examples 768/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 768/zh",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 768/zh",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 768/zh",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 768/zh",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 768/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 768/zh",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 768/zh",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 768/zh",
+      "passed": true
+    },
+    {
+      "name": "three treatment records 1440/en",
+      "passed": true
+    },
+    {
+      "name": "two history examples 1440/en",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1440/en",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 1440/en",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 1440/en",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 1440/en",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 1440/en",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 1440/en",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 1440/en",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 1440/en",
+      "passed": true
+    },
+    {
+      "name": "three treatment records 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "two history examples 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "no overflow 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "readable treatment text 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "six valid source entries 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "fragment number units retained 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "preservation anchor 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "keyboard source disclosure 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "translation switches text 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "open citations preserved on language change 1440/zh",
+      "passed": true
+    },
+    {
+      "name": "export contains full bilingual records and six references",
+      "passed": true
+    },
+    {
+      "name": "public evidence has no private paths or full-text attachments",
+      "passed": true
+    },
+    {
+      "name": "full Gephi retains 122 nodes and 136 edges",
+      "passed": true
+    },
+    {
+      "name": "default relationship guide retained",
+      "passed": true
+    },
+    {
+      "name": "five collecting institutions retained",
+      "passed": true
+    },
+    {
+      "name": "no JavaScript errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no failed local assets",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "passed": true
+}

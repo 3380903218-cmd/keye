@@ -1,0 +1,1406 @@
+{
+  "version": "2.4.0",
+  "date": "2026-10-29T13:37:16.052Z",
+  "base": "http://localhost:8780/",
+  "checks": [
+    {
+      "name": "one chapter navigation 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1280/600/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 76.34375,
+        "visualBottom": 585.09375,
+        "visualHeight": 329,
+        "recordOverflow": "visible",
+        "recordScroll": 213,
+        "recordClient": 213
+      }
+    },
+    {
+      "name": "map records expand naturally 1280/600/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 76.34375,
+        "visualBottom": 585.09375,
+        "visualHeight": 329,
+        "recordOverflow": "visible",
+        "recordScroll": 213,
+        "recordClient": 213
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1280/600/en",
+      "passed": true,
+      "detail": {
+        "top": 225.28125,
+        "bottom": 586.203125
+      }
+    },
+    {
+      "name": "guide names remain readable 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1280/600/en",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1280/600/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 76.15625,
+        "visualBottom": 584.90625,
+        "visualHeight": 329,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "name": "map records expand naturally 1280/600/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 76.15625,
+        "visualBottom": 584.90625,
+        "visualHeight": 329,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1280/600/zh",
+      "passed": true,
+      "detail": {
+        "top": 225.46875,
+        "bottom": 562.59375
+      }
+    },
+    {
+      "name": "guide names remain readable 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1280/600/zh",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1440/720/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.5,
+        "visualBottom": 704.25,
+        "visualHeight": 449,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "name": "map records expand naturally 1440/720/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.5,
+        "visualBottom": 704.25,
+        "visualHeight": 449,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1440/720/en",
+      "passed": true,
+      "detail": {
+        "top": 254.578125,
+        "bottom": 675.6875
+      }
+    },
+    {
+      "name": "guide names remain readable 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1440/720/en",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1440/720/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 76.3125,
+        "visualBottom": 705.0625,
+        "visualHeight": 449,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "name": "map records expand naturally 1440/720/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 76.3125,
+        "visualBottom": 705.0625,
+        "visualHeight": 449,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1440/720/zh",
+      "passed": true,
+      "detail": {
+        "top": 255.28125,
+        "bottom": 650.296875
+      }
+    },
+    {
+      "name": "guide names remain readable 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1440/720/zh",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1920/1080/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.90625,
+        "visualBottom": 855.65625,
+        "visualHeight": 600,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "name": "map records expand naturally 1920/1080/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.90625,
+        "visualBottom": 855.65625,
+        "visualHeight": 600,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1920/1080/en",
+      "passed": true,
+      "detail": {
+        "top": 257.046875,
+        "bottom": 678.15625
+      }
+    },
+    {
+      "name": "guide names remain readable 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1920/1080/en",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1920/1080/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.71875,
+        "visualBottom": 855.46875,
+        "visualHeight": 600,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "name": "map records expand naturally 1920/1080/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.71875,
+        "visualBottom": 855.46875,
+        "visualHeight": 600,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1920/1080/zh",
+      "passed": true,
+      "detail": {
+        "top": 256.671875,
+        "bottom": 651.6875
+      }
+    },
+    {
+      "name": "guide names remain readable 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1920/1080/zh",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1024/768/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.859375,
+        "visualBottom": 752.609375,
+        "visualHeight": 497,
+        "recordOverflow": "visible",
+        "recordScroll": 243,
+        "recordClient": 243
+      }
+    },
+    {
+      "name": "map records expand naturally 1024/768/en",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.859375,
+        "visualBottom": 752.609375,
+        "visualHeight": 497,
+        "recordOverflow": "visible",
+        "recordScroll": 243,
+        "recordClient": 243
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1024/768/en",
+      "passed": true,
+      "detail": {
+        "top": 311.4375,
+        "bottom": 739.96875
+      }
+    },
+    {
+      "name": "guide names remain readable 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1024/768/en",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 1024/768/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.671875,
+        "visualBottom": 752.421875,
+        "visualHeight": 497,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "name": "map records expand naturally 1024/768/zh",
+      "passed": true,
+      "detail": {
+        "header": 64,
+        "workspaceTop": 75.671875,
+        "visualBottom": 752.421875,
+        "visualHeight": 497,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "name": "map evidence survives reflow 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "default guide fits desktop viewport 1024/768/zh",
+      "passed": true,
+      "detail": {
+        "top": 310.875,
+        "bottom": 701.53125
+      }
+    },
+    {
+      "name": "guide names remain readable 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "complete plot and legend fit desktop 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 1024/768/zh",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 768/700/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.34375,
+        "visualBottom": 685.09375,
+        "visualHeight": 396,
+        "recordOverflow": "visible",
+        "recordScroll": 299,
+        "recordClient": 299
+      }
+    },
+    {
+      "name": "map records expand naturally 768/700/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.34375,
+        "visualBottom": 685.09375,
+        "visualHeight": 396,
+        "recordOverflow": "visible",
+        "recordScroll": 299,
+        "recordClient": 299
+      }
+    },
+    {
+      "name": "map evidence survives reflow 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "guide names remain readable 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 768/700/en",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 768/700/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.03125,
+        "visualBottom": 684.78125,
+        "visualHeight": 396,
+        "recordOverflow": "visible",
+        "recordScroll": 243,
+        "recordClient": 243
+      }
+    },
+    {
+      "name": "map records expand naturally 768/700/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.03125,
+        "visualBottom": 684.78125,
+        "visualHeight": 396,
+        "recordOverflow": "visible",
+        "recordScroll": 243,
+        "recordClient": 243
+      }
+    },
+    {
+      "name": "map evidence survives reflow 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "guide names remain readable 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 768/700/zh",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 390/844/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 108.859375,
+        "visualBottom": 828.859375,
+        "visualHeight": 473,
+        "recordOverflow": "visible",
+        "recordScroll": 493,
+        "recordClient": 493
+      }
+    },
+    {
+      "name": "map records expand naturally 390/844/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 108.859375,
+        "visualBottom": 828.859375,
+        "visualHeight": 473,
+        "recordOverflow": "visible",
+        "recordScroll": 493,
+        "recordClient": 493
+      }
+    },
+    {
+      "name": "map evidence survives reflow 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "guide names remain readable 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 390/844/en",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 390/844/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.171875,
+        "visualBottom": 829.171875,
+        "visualHeight": 473,
+        "recordOverflow": "visible",
+        "recordScroll": 404,
+        "recordClient": 404
+      }
+    },
+    {
+      "name": "map records expand naturally 390/844/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.171875,
+        "visualBottom": 829.171875,
+        "visualHeight": 473,
+        "recordOverflow": "visible",
+        "recordScroll": 404,
+        "recordClient": 404
+      }
+    },
+    {
+      "name": "map evidence survives reflow 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "guide names remain readable 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 390/844/zh",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 320/640/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.09375,
+        "visualBottom": 632.09375,
+        "visualHeight": 260,
+        "recordOverflow": "visible",
+        "recordScroll": 581,
+        "recordClient": 581
+      }
+    },
+    {
+      "name": "map records expand naturally 320/640/en",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.09375,
+        "visualBottom": 632.09375,
+        "visualHeight": 260,
+        "recordOverflow": "visible",
+        "recordScroll": 581,
+        "recordClient": 581
+      }
+    },
+    {
+      "name": "map evidence survives reflow 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "guide names remain readable 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 320/640/en",
+      "passed": true
+    },
+    {
+      "name": "one chapter navigation 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "research heading clears header 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "map controls and canvas fit viewport 320/640/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.234375,
+        "visualBottom": 625.234375,
+        "visualHeight": 269,
+        "recordOverflow": "visible",
+        "recordScroll": 461,
+        "recordClient": 461
+      }
+    },
+    {
+      "name": "map records expand naturally 320/640/zh",
+      "passed": true,
+      "detail": {
+        "header": 97,
+        "workspaceTop": 109.234375,
+        "visualBottom": 625.234375,
+        "visualHeight": 269,
+        "recordOverflow": "visible",
+        "recordScroll": 461,
+        "recordClient": 461
+      }
+    },
+    {
+      "name": "map evidence survives reflow 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "network workspace clears header 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "guide names remain readable 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "full Gephi data preserved 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "network evidence expands naturally 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "selected record jump clears header 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "return to guide lands at workspace 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "collection heading clears header 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "photographs and preservation retained 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "language switch keeps full layout 320/640/zh",
+      "passed": true
+    },
+    {
+      "name": "no script errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no failed assets",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "metrics": [
+    {
+      "width": 1280,
+      "height": 600,
+      "lang": "en",
+      "map": {
+        "header": 64,
+        "workspaceTop": 76.34375,
+        "visualBottom": 585.09375,
+        "visualHeight": 329,
+        "recordOverflow": "visible",
+        "recordScroll": 213,
+        "recordClient": 213
+      }
+    },
+    {
+      "width": 1280,
+      "height": 600,
+      "lang": "zh",
+      "map": {
+        "header": 64,
+        "workspaceTop": 76.15625,
+        "visualBottom": 584.90625,
+        "visualHeight": 329,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "width": 1440,
+      "height": 720,
+      "lang": "en",
+      "map": {
+        "header": 64,
+        "workspaceTop": 75.5,
+        "visualBottom": 704.25,
+        "visualHeight": 449,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "width": 1440,
+      "height": 720,
+      "lang": "zh",
+      "map": {
+        "header": 64,
+        "workspaceTop": 76.3125,
+        "visualBottom": 705.0625,
+        "visualHeight": 449,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "en",
+      "map": {
+        "header": 64,
+        "workspaceTop": 75.90625,
+        "visualBottom": 855.65625,
+        "visualHeight": 600,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "zh",
+      "map": {
+        "header": 64,
+        "workspaceTop": 75.71875,
+        "visualBottom": 855.46875,
+        "visualHeight": 600,
+        "recordOverflow": "visible",
+        "recordScroll": 186,
+        "recordClient": 186
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "lang": "en",
+      "map": {
+        "header": 64,
+        "workspaceTop": 75.859375,
+        "visualBottom": 752.609375,
+        "visualHeight": 497,
+        "recordOverflow": "visible",
+        "recordScroll": 243,
+        "recordClient": 243
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "lang": "zh",
+      "map": {
+        "header": 64,
+        "workspaceTop": 75.671875,
+        "visualBottom": 752.421875,
+        "visualHeight": 497,
+        "recordOverflow": "visible",
+        "recordScroll": 211,
+        "recordClient": 211
+      }
+    },
+    {
+      "width": 768,
+      "height": 700,
+      "lang": "en",
+      "map": {
+        "header": 97,
+        "workspaceTop": 109.34375,
+        "visualBottom": 685.09375,
+        "visualHeight": 396,
+        "recordOverflow": "visible",
+        "recordScroll": 299,
+        "recordClient": 299
+      }
+    },
+    {
+      "width": 768,
+      "height": 700,
+      "lang": "zh",
+      "map": {
+        "header": 97,
+        "workspaceTop": 109.03125,
+        "visualBottom": 684.78125,
+        "visualHeight": 396,
+        "recordOverflow": "visible",
+        "recordScroll": 243,
+        "recordClient": 243
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "en",
+      "map": {
+        "header": 97,
+        "workspaceTop": 108.859375,
+        "visualBottom": 828.859375,
+        "visualHeight": 473,
+        "recordOverflow": "visible",
+        "recordScroll": 493,
+        "recordClient": 493
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "zh",
+      "map": {
+        "header": 97,
+        "workspaceTop": 109.171875,
+        "visualBottom": 829.171875,
+        "visualHeight": 473,
+        "recordOverflow": "visible",
+        "recordScroll": 404,
+        "recordClient": 404
+      }
+    },
+    {
+      "width": 320,
+      "height": 640,
+      "lang": "en",
+      "map": {
+        "header": 97,
+        "workspaceTop": 109.09375,
+        "visualBottom": 632.09375,
+        "visualHeight": 260,
+        "recordOverflow": "visible",
+        "recordScroll": 581,
+        "recordClient": 581
+      }
+    },
+    {
+      "width": 320,
+      "height": 640,
+      "lang": "zh",
+      "map": {
+        "header": 97,
+        "workspaceTop": 109.234375,
+        "visualBottom": 625.234375,
+        "visualHeight": 269,
+        "recordOverflow": "visible",
+        "recordScroll": 461,
+        "recordClient": 461
+      }
+    }
+  ],
+  "passed": true
+}

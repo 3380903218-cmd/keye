@@ -1,0 +1,43 @@
+{
+  "id": "appgdep_6ae2e3b1075c8191a2d429825f9bb774",
+  "project_id": "appgprj_6ae1edece428819192f6815aa8e62654",
+  "title": "敦煌 · 流散与相逢",
+  "version_id": "appgprj_6ae1edece428819192f6815aa8e62654~appgver_f1b8347417e48191b29158babad8ecd8",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://dunhuang-routes-hy5419.chicspark8192.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ae1edece428819192f6815aa8e62654",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-29T06:12:24.064180+00:00",
+  "access": "public",
+  "source_commit": "54364b6665fa08f67219f5c6bf11caf7cb09db56",
+  "default_language": "en",
+  "version": "1.1.0",
+  "network_fragment": "#network",
+  "network_nodes": 122,
+  "network_edges": 136,
+  "previous_publications": [
+    {
+      "id": "appgdep_6ae1fd28088881919b0e8480b7f5b35a",
+      "version_id": "appgprj_6ae1edece428819192f6815aa8e62654~appgver_bdd7f97c6b608191b88bdb9209a13b1e",
+      "version": "1.0.1",
+      "source_commit": "2142fdd283cf77182530a2535e6b655d18345d9d",
+      "updated_at": "2026-10-28T13:48:43.720206+00:00"
+    }
+  ],
+  "access_revision": 2,
+  "public_since": "2026-10-29T06:17:46.262509+00:00",
+  "public_verification": "public-access-verification.json",
+  "publication_role": "secondary_sites_host",
+  "primary_publication": {
+    "provider": "GitHub Pages",
+    "url": "https://3380903218-cmd.github.io/dunhuang-in-motion/",
+    "chinese_url": "https://3380903218-cmd.github.io/dunhuang-in-motion/?lang=zh",
+    "repository_url": "https://github.com/3380903218-cmd/dunhuang-in-motion",
+    "version": "1.1.1",
+    "mainland_access_report": "GitHub发布/国内访问实测记录.json"
+  }
+}

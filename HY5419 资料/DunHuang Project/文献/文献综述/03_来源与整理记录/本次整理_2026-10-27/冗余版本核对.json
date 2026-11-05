@@ -1,0 +1,317 @@
+{
+  "original_pages": 28,
+  "retained_pages": 18,
+  "source_article_pages": [
+    9,
+    26
+  ],
+  "checks": [
+    {
+      "source_page": 9,
+      "retained_page": 1,
+      "text_similarity": 0.9993792675356921,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 10,
+      "retained_page": 2,
+      "text_similarity": 1.0,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 11,
+      "retained_page": 3,
+      "text_similarity": 0.9989027066569129,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 12,
+      "retained_page": 4,
+      "text_similarity": 0.9988043045037863,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 13,
+      "retained_page": 5,
+      "text_similarity": 1.0,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 14,
+      "retained_page": 6,
+      "text_similarity": 0.9995398067188219,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 15,
+      "retained_page": 7,
+      "text_similarity": 0.9991394148020654,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 16,
+      "retained_page": 8,
+      "text_similarity": 0.9987546699875467,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 17,
+      "retained_page": 9,
+      "text_similarity": 0.9989484752891693,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 18,
+      "retained_page": 10,
+      "text_similarity": 0.9985185185185185,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 19,
+      "retained_page": 11,
+      "text_similarity": 0.9986599664991624,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 20,
+      "retained_page": 12,
+      "text_similarity": 0.9993314018275017,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 21,
+      "retained_page": 13,
+      "text_similarity": 0.9984311967727476,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 22,
+      "retained_page": 14,
+      "text_similarity": 0.9995213020584012,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 23,
+      "retained_page": 15,
+      "text_similarity": 0.9996401583303347,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 24,
+      "retained_page": 16,
+      "text_similarity": 0.9998671096345515,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 25,
+      "retained_page": 17,
+      "text_similarity": 1.0,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    },
+    {
+      "source_page": 26,
+      "retained_page": 18,
+      "text_similarity": 1.0,
+      "source_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ],
+      "retained_rect": [
+        0.0,
+        0.0,
+        666.0,
+        810.0
+      ]
+    }
+  ],
+  "verification": "Article identity, pagination and normalized text correspondence; files are separately published variants, not byte-identical. Retain complete 18-page article; remove surplus cover/credits version."
+}

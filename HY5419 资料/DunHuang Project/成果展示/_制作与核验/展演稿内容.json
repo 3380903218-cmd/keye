@@ -1,0 +1,225 @@
+{
+  "title": "敦煌项目：8分钟成果展示稿",
+  "subtitle": "Dunhuang, in motion · Bilingual presentation script",
+  "date": "2026-10-31",
+  "author": "Xiwen Wang · NUS / HY5419",
+  "url": "https://3380903218-cmd.github.io/dunhuang-in-motion/",
+  "timing": [
+    [
+      "0:00–0:25",
+      "项目问题",
+      "首页：一句话说明研究对象与两个问题"
+    ],
+    [
+      "0:25–1:30",
+      "QGIS：时间与路线",
+      "01 → Pelliot → Paris；短暂切换 Regional overview"
+    ],
+    [
+      "1:30–3:25",
+      "Gephi：人物与具体作用",
+      "02 → 完整网络 → Pelliot: manuscript work → 备忘录实例"
+    ],
+    [
+      "3:25–4:25",
+      "资料记录与AI分工",
+      "有余时简示Excel；随后说明skills与个人判断"
+    ],
+    [
+      "4:25–5:00",
+      "网页价值与收束",
+      "03：简示今日馆藏，结束并邀请提问"
+    ],
+    [
+      "5:00–8:00",
+      "同学提问与回答",
+      "优先回应2个问题；通常每题回答20–35秒"
+    ]
+  ],
+  "speech": [
+    {
+      "id": "opening",
+      "time": "0:00–0:25",
+      "title": "开场：直接说明研究问题",
+      "cue": "屏幕停在英文首页。不要介绍敦煌通史，也不逐项念网站功能。",
+      "paragraphs": [
+        {
+          "en": "My project is called Dunhuang, in motion. I ask where Dunhuang manuscripts went, and who helped move, examine and share them. I focus mainly on 1900 to 1910. I will show two tools: a route map made with QGIS and a relationship network developed in Gephi.",
+          "zh": "我的项目叫作《Dunhuang, in motion》。我关注两个问题：敦煌文献去了哪里？哪些人参与了它们的运送、检查与传播？研究主要聚焦1900至1910年。我会展示两项工具的应用：用QGIS制作的路线地图，以及在Gephi中建立的关系网络。"
+        }
+      ]
+    },
+    {
+      "id": "map",
+      "time": "0:25–1:30",
+      "title": "QGIS：把时间与地点放在一起阅读",
+      "cue": "点击页首01，选择“Pelliot → Paris”。讲到原图时，点击“Regional overview”，停留约5秒，再返回“Follow a route”。不打开播放或高级筛选。",
+      "paragraphs": [
+        {
+          "en": "I used QGIS to map the places and connections documented in the sources. The website adds an interactive view of these records, showing dates alongside the routes.",
+          "zh": "我用QGIS整理史料中有记录的地点及其联系。网页再把这些记录呈现为可互动的路线图，让日期与路线同时显示。"
+        },
+        {
+          "en": "Here I am selecting Pelliot’s route. This view brings together the places and stages associated with the movement of his materials. I can also open the original QGIS map for a regional overview. The website distinguishes the arrival of expedition cargo in Paris in 1909 from the manuscripts entering the library’s department in 1910.",
+          "zh": "这里我选择伯希和的路线。这一视图把与其材料流转有关的地点和阶段放在一起。我也可以打开QGIS原图，查看区域范围内的整体联系。网页记录也区分了两个日期：考察材料于1909年抵达巴黎，而写本进入图书馆部门的记录为1910年。"
+        },
+        {
+          "en": "The map lets us compare time and place in one view. These lines are schematic connections between documented locations. They do not reconstruct every road or stop along the journey.",
+          "zh": "这张地图让我们能够在同一视图中对照时间与地点。图中的线是有记录地点之间的示意联系，并不复原途中经过的每一条道路和每一个停靠点。"
+        }
+      ]
+    },
+    {
+      "id": "network",
+      "time": "1:30–3:25",
+      "title": "Gephi：说明人物具体做了什么",
+      "cue": "点击页首02，先展示完整网络约10秒。展开“Find a person or adjust the view”，选择“Pelliot: manuscript work”，然后收起工具栏。保留备忘录关系图及下方证据说明。",
+      "paragraphs": [
+        {
+          "en": "Gephi was the first tool I tried for this project. Its network is the part I find most useful. As I read the literature, I found people appearing in separate accounts: collectors, Chinese scholars, assistants and librarians. The network helps me connect those references and distinguish what each person actually did. I structured these references as nodes and links, and used Gephi’s layout to explore their connections. The website lets other people inspect the same records.",
+          "zh": "Gephi是我在这个项目中最先尝试的工具，它的网络也是我觉得最有用的部分。在阅读文献时，我发现收藏者、中国学者、助手和图书馆工作人员分别出现在不同记述中。网络帮助我把这些线索联系起来，并区分每个人具体做了什么。我把这些线索组织为节点和连线，利用Gephi的布局查看其联系，再通过网页让其他人查阅同一组记录。"
+        },
+        {
+          "en": "A node can represent a person, an event or a document. An arrow records a specific role, such as requesting an examination or writing a report. People attending the same event are not automatically treated as direct correspondents.",
+          "zh": "节点可以表示人物、事件或文书。箭头记录具体角色，例如提出检查请求或撰写报告。共同参加一项活动的人，不会因此就被认定为彼此直接通信。"
+        },
+        {
+          "en": "Here is an example from 1910. Stein asked Pelliot to write an inspection memorandum about Chinese manuscripts examined in London. The event view separates Stein’s request, Pelliot’s authorship, the manuscripts concerned and the resulting document. The evidence note also gives the source pages.",
+          "zh": "这里以1910年的一项活动为例。斯坦因请伯希和撰写检查备忘录，内容涉及在伦敦检查的中国写本。事件视图分别呈现斯坦因的请求、伯希和的撰写作用、所涉写本，以及形成的文书。证据说明同时列出了来源页码。"
+        },
+        {
+          "en": "This helps explain how knowledge circulated through examination and writing, alongside the physical movement of manuscripts. Another example records Dong Kang and Luo Zhenyu writing to Pelliot about publication. The network makes their contribution easier to follow.",
+          "zh": "这有助于说明，在写本实物流转之外，知识也通过检查和写作传播。另一个例子记录了董康与罗振玉致信伯希和商议刊布。网络让他们所起的作用更容易被理解。"
+        }
+      ],
+      "cue_after": "最后一句只指向网页已有的通信实例，不必再切换一组关系图。备忘录实例的资料定位为Serindia第二卷，第916–917页。"
+    },
+    {
+      "id": "methods",
+      "time": "3:25–4:25",
+      "title": "资料记录与AI分工（Excel可选）",
+      "cue": "先停在关系实例上。若进度提前，可用10—15秒简示Excel，再返回网页讲AI分工；文件和工作表见第一页。时间紧则略过Excel，不演示代码。",
+      "paragraphs": [
+        {
+          "en": "To build this, I used the literature to organise people, events, dates and sources into tables. I recorded proposed actions as proposals, and kept approximate dates visible.",
+          "zh": "在制作过程中，我依据文献，把人物、事件、日期和来源整理为表格。对只提出而未落实的行动，我保留其提议状态；不确定的日期也明确标出。"
+        },
+        {
+          "en": "I do not have a programming background. I used AI to generate and revise the website code, guided by reusable instructions, or skills, that I put together for this project. My own contribution was the research question, the reading, the decisions about what each relationship could support, and the revisions. I remain responsible for those decisions.",
+          "zh": "我没有编程背景。我使用AI生成和修改网站代码，并通过自己为这个项目整理的可重复使用指令，也就是skills，来指导它。我的工作包括提出研究问题、阅读资料、判断每条关系能够支持什么说法，以及不断修改呈现方式。这些判断仍然由我负责。"
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "time": "4:25–5:00",
+      "title": "收束：网页有什么阅读与使用价值",
+      "cue": "点击页首03，简示馆藏条目。无需逐馆介绍，也不再切换中英文；结束后停在页面上接受提问。",
+      "paragraphs": [
+        {
+          "en": "Learning about StoryMaps inspired me to bring these results together on a website. Visitors can explore the routes and relationships, consult the sources and share the link. I want it to be a platform for discussion and feedback as well, so I can keep improving it. Thank you. I welcome your questions.",
+          "zh": "这个网站的想法来自我对StoryMaps的学习。我希望把这些成果放在一起，让大家沿路线阅读、查看人物关系、查阅资料并分享链接。它也可以成为交流和反馈的平台，让我根据读者意见继续完善。谢谢大家，欢迎提问。"
+        }
+      ]
+    }
+  ],
+  "qa": [
+    {
+      "q_en": "What did AI do, and what is your own contribution?",
+      "q_zh": "AI做了什么？你自己的贡献是什么？",
+      "a_en": "AI helped generate the code and organise the material. I defined the research question, worked through the literature, chose the relationships and examples, and revised the site. My skills were reusable instructions for that workflow. AI output still needed checking; it was not a historical source.",
+      "a_zh": "AI协助生成代码和整理材料。我确定研究问题、阅读文献、选择关系和实例，并修改网站。我的skills是为这一工作流程整理的可重复使用指令。AI的输出仍然需要核对，不能当作历史资料。",
+      "cue": "回应分工即可；不要声称自己手写了代码，也不把使用AI等同于完成史料核验。"
+    },
+    {
+      "q_en": "What does the network show that the map cannot?",
+      "q_zh": "网络能呈现什么，是地图无法直接呈现的？",
+      "a_en": "The map organises places and dates. The network organises roles and activities. For example, an inspection memorandum links the person requesting the work, the writer and the materials examined. Together, the two views connect geographical movement with the work that made the manuscripts known and usable.",
+      "a_zh": "地图组织地点与时间，网络组织角色与活动。例如，一份检查备忘录可以关联提出请求的人、撰写者和所检查的材料。两种视图合在一起，就能把地理流转与使文献被认识、被使用的工作联系起来。",
+      "cue": "可回到备忘录关系图，指认斯坦因、伯希和、写本组和文书。"
+    },
+    {
+      "q_en": "How do you check whether a relationship is reliable?",
+      "q_zh": "你怎样判断一项关系是否可靠？",
+      "a_en": "I attach a source, page reference and evidence note to each relationship record. A request is not coded as a completed visit, and shared attendance does not prove direct correspondence. Some entries use documents quoted in research articles. Where I have not checked the original image, I make that clear.",
+      "a_zh": "我给关系记录附上来源、页码和证据说明。提出请求不等于已经参观，共同出席也不证明直接通信。部分条目依据研究文章转引的文书；没有独立核验原件影像的地方，我会明确说明。",
+      "cue": "金绍城1910年请求参观、但没有完成的例子，可用于解释“请求”和“结果”的区别。"
+    },
+    {
+      "q_en": "Do bigger or more connected nodes mean greater historical importance?",
+      "q_zh": "节点越大、连接越多，就越重要吗？",
+      "a_en": "Not necessarily. Connections depend on the records included in this dataset. The added nodes have provisional positions and no newly calculated centrality scores. I use the graph to inspect documented roles, rather than treating visual size or location as a ranking of historical importance.",
+      "a_zh": "不一定。连接数量取决于这份数据收录了哪些记录。新增节点的位置仍是暂定的，也没有重新计算中心性。我用图来检查有记录的角色，而不把大小或位置当作历史重要性的排名。",
+      "cue": "不要把ForceAtlas 2布局当作地理位置，也不要声称已做未实际开展的中心性分析。"
+    },
+    {
+      "q_en": "What is the most distinctive result of your project?",
+      "q_zh": "你认为这个项目最突出的成果是什么？",
+      "a_en": "For me, it is a website inspired by StoryMaps that connects a readable story with a checkable network. Readers can follow the routes and relationships, consult the sources and share the project. Their feedback helps me improve the presentation. The historical relationships come from the literature I have studied.",
+      "a_zh": "对我来说，是在StoryMaps启发下，把可阅读的叙述和可核对的网络放在一个网站中。读者能沿路线和人物关系阅读、查阅资料并分享项目，他们的反馈也帮助我改进呈现。历史关系则来自我阅读和整理的文献。",
+      "cue": "先讲最有价值的一点，不必再复述全部功能或数据数量。"
+    },
+    {
+      "q_en": "Does the map reconstruct the exact journey of every manuscript?",
+      "q_zh": "地图是否复原了每一件写本的完整实际行程？",
+      "a_en": "No. Most routes concern batches or collections, and the lines connect places recorded in the sources. They do not reconstruct every stop or identify every manuscript. I also distinguish transport from institutional accession: material arriving in Paris and entering a library department can have different dates.",
+      "a_zh": "不是。多数路线涉及批次或收藏，连线连接的是史料有记录的地点，并不复原每一站，也没有逐件识别所有写本。我还区分运输与机构接收：材料到达巴黎，以及进入图书馆部门，可以是不同日期。",
+      "cue": "必要时说明：伯希和考察材料1909年抵达巴黎，写本进入法国国家图书馆手稿部记为1910年。"
+    },
+    {
+      "q_en": "Can the preservation section tell us which country keeps the manuscripts best?",
+      "q_zh": "保存现状部分能否说明哪个国家保存得最好？",
+      "a_en": "I do not have comparable evidence for a country ranking. The section discusses identified manuscripts and dated conservation reports. An incomplete text can reflect earlier loss, cutting or rebinding; it does not, by itself, prove poor conservation by the institution holding it today.",
+      "a_zh": "目前没有足以对国家进行排名的可比证据。这部分讨论的是有编号的具体写本，以及有日期的修复报告。文字不完整可能与早期散失、割裂或改装有关，本身并不能证明现藏机构保存不善。",
+      "cue": "以具体写本、处理方式和报告日期回答，避免从残卷多直接推断某国保存差。"
+    },
+    {
+      "q_en": "What would you improve next?",
+      "q_zh": "下一步最需要改进什么？",
+      "a_en": "I would identify more individual manuscripts, check more original letters and diaries, and test the site with more users. This would make the links between routes, people and objects more precise. The current version is a bounded case study, not a complete account of all Dunhuang collections.",
+      "a_zh": "我会继续识别具体写本，核对更多原始信札与日记，并邀请更多使用者测试网站。这样能让路线、人物与具体文献之间的联系更精确。当前版本是一个限定范围的案例，而不是所有敦煌收藏的完整记录。",
+      "cue": "若被问数据规模：当前网站132节点、157关系；原始Gephi为122节点、136关系，后续阅读补入10节点、21关系。新增6条活动记录不等于6次独立事件。"
+    }
+  ],
+  "references": [
+    {
+      "label": "备忘录实例｜M. Aurel Stein, Serindia, vol. II (1921), pp. 916–917.",
+      "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/",
+      "note": "网页S07 / EV046。书中刊出伯希和备忘录摘文；不要把出版年份1921当作图中活动年份1910。"
+    },
+    {
+      "label": "北京学者与刊布通信｜秦桦林（2018），《1909年北京学界公宴伯希和事件补考——兼论王国维与早期敦煌学》。",
+      "url": "https://www.zjujournals.com/soc/CN/abstract/abstract11967.shtml",
+      "note": "网页G07；第49页及注①：董康、罗振玉1909年12月22日联名信与约1910年8月回信；第49页及注②：金绍城的探访请求。"
+    },
+    {
+      "label": "地图、网络与数据版本｜项目网站及本机发布记录。",
+      "url": "https://github.com/3380903218-cmd/dunhuang-in-motion",
+      "note": "依据网站2.8.0及其数据说明编写。QGIS地图与网页交互视图分别说明；原始Gephi文件与网页后续补充分别说明。"
+    }
+  ],
+  "optional_excel_demo": {
+    "workbook": "文献/文献综述/Gephi传播网络_可直接使用.xlsx",
+    "sheet": "08_Gephi_Edges",
+    "columns": [
+      "Source",
+      "Target",
+      "Relation",
+      "SourceIds"
+    ],
+    "seconds": "10–15",
+    "en": "This spreadsheet shows how I recorded each relationship and linked it to its source.",
+    "zh": "这张表展示了我怎样记录每项关系，并把它与资料来源联系起来。",
+    "scope": "Earlier workbook version; show structure only, not current website total counts."
+  },
+  "revision_authority": {
+    "format": "Reviewed original Word package",
+    "comments": [
+      0,
+      1,
+      2
+    ],
+    "backup": "批注修订_2026-10-31/批注原稿备份.docx",
+    "direction": "Word to content companion; do not rebuild reviewed Word from the original generator."
+  }
+}

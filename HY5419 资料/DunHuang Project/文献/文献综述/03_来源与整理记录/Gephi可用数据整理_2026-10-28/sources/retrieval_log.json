@@ -1,0 +1,79 @@
+[
+  {
+    "id": "NUS_G06",
+    "requested": "https://libproxy1.nus.edu.sg/login?url=https://doi.org/10.1017/S1356186300009986",
+    "date": "2026-10-28",
+    "authenticated": false,
+    "status": 200,
+    "final_url": "https://libproxy1.nus.edu.sg/login?url=https://doi.org/10.1017/S1356186300009986",
+    "bytes": 4992,
+    "content_type": "text/html; charset=utf-8",
+    "title": "NUS Libraries: Library Proxy: Login"
+  },
+  {
+    "id": "NUS_G10",
+    "requested": "https://libproxy1.nus.edu.sg/login?url=https://doi.org/10.1515/9783111569550-003",
+    "date": "2026-10-28",
+    "authenticated": false,
+    "status": 200,
+    "final_url": "https://libproxy1.nus.edu.sg/login?url=https://doi.org/10.1515/9783111569550-003",
+    "bytes": 4992,
+    "content_type": "text/html; charset=utf-8",
+    "title": "NUS Libraries: Library Proxy: Login"
+  },
+  {
+    "id": "NUS_L06",
+    "requested": "https://libproxy1.nus.edu.sg/login?url=https://doi.org/10.1080/1547402X.2018.1522817",
+    "date": "2026-10-28",
+    "authenticated": false,
+    "status": 200,
+    "final_url": "https://libproxy1.nus.edu.sg/login?url=https://doi.org/10.1080/1547402X.2018.1522817",
+    "bytes": 5004,
+    "content_type": "text/html; charset=utf-8",
+    "title": "NUS Libraries: Library Proxy: Login"
+  },
+  {
+    "id": "G10",
+    "requested": "https://uplopen.com/chapters/9085/files/a9be2fe2-4be9-49d9-b8fd-5db6628849a1.pdf",
+    "date": "2026-10-28",
+    "authenticated": false,
+    "status": 403,
+    "final_url": "https://uplopen.com/chapters/9085/files/a9be2fe2-4be9-49d9-b8fd-5db6628849a1.pdf",
+    "bytes": 134,
+    "content_type": "text/html; charset=UTF-8",
+    "title": "403"
+  },
+  {
+    "id": "L06",
+    "requested": "https://soas-repository.worktribe.com/OutputFile/421743",
+    "date": "2026-10-28",
+    "authenticated": false,
+    "status": 403,
+    "final_url": "https://soas-repository.worktribe.com/OutputFile/421743",
+    "bytes": 5503,
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Just a moment..."
+  },
+  {
+    "id": "G06_publisher",
+    "requested": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/steins-recording-angel-miss-f-m-g-lorimer/DDBEAF0E1DB1819C6128FD8A586424ED",
+    "date": "2026-10-28",
+    "authenticated": false,
+    "status": 200,
+    "final_url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/steins-recording-angel-miss-f-m-g-lorimer/DDBEAF0E1DB1819C6128FD8A586424ED",
+    "bytes": 992914,
+    "content_type": "text/html; charset=utf-8",
+    "title": "Stein's Recording Angel – Miss F. M. G.Lorimer | Journal of the Royal Asiatic Society | Cambridge Core"
+  },
+  {
+    "id": "NUS_portal",
+    "requested": "https://lib.nus.edu.sg/",
+    "date": "2026-10-28",
+    "authenticated": false,
+    "status": 200,
+    "final_url": "https://lib.nus.edu.sg/",
+    "bytes": 413,
+    "content_type": "text/html",
+    "title": "Redirect to NUS Libraries Portal New Homepage"
+  }
+]

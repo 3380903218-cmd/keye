@@ -1,0 +1,14 @@
+{
+  "prior_draft_sha256": "3bc37906cb8821c25613c6a545d2561eb072df53423f629560b6301576895cc0",
+  "notes_sha256": "1e3819e82239464fe28c00f96d44a4c1d431560052c4dfca220477c5abe8bd83",
+  "request": "3000–4000 Chinese characters in body, prioritise personal reflections, no article summaries. Keep five annotated scholarly references and one synthesis paragraph.",
+  "changes": [
+    "Rewrote the annotations in first person from the user’s existing notes.",
+    "Restored the Beijing old-housing analogy as a personal question without unverified location or price claims.",
+    "Expanded reflection on daily use, tourism revenues, institutional power, national identity and festival display.",
+    "Removed stand-alone paper descriptions and method critiques not central to the user’s reflections.",
+    "Preserved author/page or section attribution and cross-source comparison."
+  ],
+  "content_authority": "../annotated_bibliography_20261003/personal_notes.txt (identical to current DOCX)",
+  "evidence_reused": "../annotated_bibliography_20261003/evidence_audit.json"
+}

@@ -1,0 +1,9 @@
+{
+  "artifact_sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+  "performed_at": "2026-11-04T22:32:36.481854+08:00",
+  "status": "unavailable",
+  "connected_word_sessions": 0,
+  "attempted": "CUA attempted to open the candidate through Word Open dialog.",
+  "observed": "CUA reported that the user changed Microsoft Word; re-observation confirmed ongoing user interaction in another document. No further UI actions were taken.",
+  "limitations": "The target candidate was not opened in Word; native pagination and repair-dialog checks remain unverified."
+}

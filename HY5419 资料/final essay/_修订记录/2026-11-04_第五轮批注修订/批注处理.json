@@ -1,0 +1,14 @@
+[
+  {
+    "comment_id": "0",
+    "status": "applied",
+    "action": "取消编程背景与交互目标之间的牵强关联；直接说明课堂互动网络的启发及希望读者如何使用网络。",
+    "paragraph": 41
+  },
+  {
+    "comment_id": "1",
+    "status": "applied",
+    "action": "在AI协作段落交代没有编程背景，并明确自己整理设计思路和工作要求为skills，指导AI处理资料和制作网页。",
+    "paragraph": 51
+  }
+]

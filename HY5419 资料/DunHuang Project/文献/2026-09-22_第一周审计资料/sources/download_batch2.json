@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "S21",
+    "filename": "S21_NCL_敦煌文献调查报告.pdf",
+    "url": "https://nclfile.ncl.edu.tw/nclhistory/public/Data/5102716244471.pdf"
+  },
+  {
+    "source_id": "S22",
+    "filename": "S22_Pelliot_1910_目录.html",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/"
+  },
+  {
+    "source_id": "S07_MANIFEST",
+    "filename": "S07_Serindia_IIIF_manifest.json",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/manifest.json"
+  },
+  {
+    "source_id": "S22_MANIFEST",
+    "filename": "S22_Pelliot_IIIF_manifest.json",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/manifest.json"
+  },
+  {
+    "source_id": "S23",
+    "filename": "S23_Fang_2009_期刊目录.html",
+    "url": "https://caod.oriprobe.com/issues/507132/toc.htm"
+  },
+  {
+    "source_id": "S24",
+    "filename": "S24_Wang_2004_Stein_archive_catalogue.pdf",
+    "url": "https://www.britishmuseum.org/pdf/Stein%20Wang.pdf"
+  }
+]

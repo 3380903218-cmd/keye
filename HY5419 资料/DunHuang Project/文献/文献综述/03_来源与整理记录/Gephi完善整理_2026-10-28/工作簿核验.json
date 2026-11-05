@@ -1,0 +1,468 @@
+{
+  "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/文献/文献综述/Gephi完善_文献证据与数据工作表.xlsx",
+  "sha256": "4ed62bad99be74a117becbc48a4a5a60cad343915d383f8908cb658a8565c687",
+  "bytes": 116229,
+  "sheets": [
+    {
+      "name": "00_开始使用",
+      "rows": 17,
+      "columns": 4,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "01_文献核查",
+      "rows": 25,
+      "columns": 12,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "02_文献证据",
+      "rows": 48,
+      "columns": 11,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "03_优先修改",
+      "rows": 24,
+      "columns": 9,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "04_事件修订",
+      "rows": 40,
+      "columns": 12,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "05_角色补充",
+      "rows": 78,
+      "columns": 11,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "06_Gephi_Nodes",
+      "rows": 97,
+      "columns": 15,
+      "tables": 1,
+      "freeze_panes": "A2"
+    },
+    {
+      "name": "07_Gephi_Edges",
+      "rows": 107,
+      "columns": 19,
+      "tables": 1,
+      "freeze_panes": "A2"
+    },
+    {
+      "name": "08_对象与载体",
+      "rows": 28,
+      "columns": 10,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "09_缺口与争议",
+      "rows": 20,
+      "columns": 7,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "10_分析与网页",
+      "rows": 16,
+      "columns": 8,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "11_字段字典",
+      "rows": 27,
+      "columns": 5,
+      "tables": 1,
+      "freeze_panes": "A5"
+    },
+    {
+      "name": "12_旧源ID对照",
+      "rows": 31,
+      "columns": 8,
+      "tables": 1,
+      "freeze_panes": "A5"
+    }
+  ],
+  "base_nodes": 46,
+  "base_edges": 57,
+  "review_nodes": 96,
+  "review_edges": 106,
+  "evidence_claims": 44,
+  "literature_records": 20,
+  "supplementary_web_records": 1,
+  "proposed_event_records": 12,
+  "role_records": 74,
+  "formulas": 0,
+  "calculation": "不使用公式；数量为明确标注的快照，不需要公式重算",
+  "original_input_hashes_unchanged": true,
+  "anchor_checks": [
+    {
+      "EvidenceID": "EV001",
+      "SourceID": "L01",
+      "pages": [
+        1,
+        24
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV002",
+      "SourceID": "L01",
+      "pages": [
+        24
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV003",
+      "SourceID": "G13a",
+      "pages": [
+        24
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV004",
+      "SourceID": "G13a",
+      "pages": [
+        24
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV005",
+      "SourceID": "G13a",
+      "pages": [
+        25
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV006",
+      "SourceID": "L02",
+      "pages": [
+        7
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV007",
+      "SourceID": "L02",
+      "pages": [
+        8
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV008",
+      "SourceID": "L02",
+      "pages": [
+        8
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV009",
+      "SourceID": "L02",
+      "pages": [
+        8
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV010",
+      "SourceID": "L02",
+      "pages": [
+        9
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV011",
+      "SourceID": "G13b",
+      "pages": [
+        106
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV012",
+      "SourceID": "G13b",
+      "pages": [
+        106
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV013",
+      "SourceID": "G13b",
+      "pages": [
+        106
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV014",
+      "SourceID": "G13b",
+      "pages": [
+        106
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV015",
+      "SourceID": "L08",
+      "pages": [
+        13
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV016",
+      "SourceID": "L08",
+      "pages": [
+        13
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV017",
+      "SourceID": "G07",
+      "pages": [
+        2
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV018",
+      "SourceID": "G07",
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV019",
+      "SourceID": "G07",
+      "pages": [
+        3
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV020",
+      "SourceID": "G07",
+      "pages": [
+        4
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV021",
+      "SourceID": "G07",
+      "pages": [
+        5
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV022",
+      "SourceID": "G14",
+      "pages": [
+        5
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV023",
+      "SourceID": "G14",
+      "pages": [
+        7,
+        8
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV024",
+      "SourceID": "G14",
+      "pages": [
+        8
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV025",
+      "SourceID": "L05",
+      "pages": [
+        2
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV026",
+      "SourceID": "L05",
+      "pages": [
+        2,
+        3
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV027",
+      "SourceID": "L05",
+      "pages": [
+        3
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV028",
+      "SourceID": "L05",
+      "pages": [
+        1,
+        4,
+        6
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV029",
+      "SourceID": "L03",
+      "pages": [],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV030",
+      "SourceID": "L03",
+      "pages": [],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV031",
+      "SourceID": "L04",
+      "pages": [
+        17
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV032",
+      "SourceID": "L04",
+      "pages": [
+        18
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV033",
+      "SourceID": "L07",
+      "pages": [
+        6
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV034",
+      "SourceID": "L07",
+      "pages": [
+        9
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV035",
+      "SourceID": "G01",
+      "pages": [],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV036",
+      "SourceID": "G03",
+      "pages": [
+        2,
+        32
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV037",
+      "SourceID": "G02",
+      "pages": [
+        56,
+        57,
+        58
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV038",
+      "SourceID": "G04",
+      "pages": [
+        21
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV039",
+      "SourceID": "G05",
+      "pages": [],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV040",
+      "SourceID": "G08",
+      "pages": [],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV041",
+      "SourceID": "L02",
+      "pages": [
+        18
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV042",
+      "SourceID": "G08",
+      "pages": [],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV043",
+      "SourceID": "L02",
+      "pages": [
+        5
+      ],
+      "anchor_found": true
+    },
+    {
+      "EvidenceID": "EV044",
+      "SourceID": "WEB_BNF",
+      "pages": [],
+      "anchor_found": true
+    }
+  ],
+  "native_open": "passed: normal Excel open, 13 worksheets and key headers confirmed; closed without saving",
+  "visual_acceptance": "13 saved-file HTML sheet previews rendered at ordinary CSS scale; no clipped-cell overflow after adjustment",
+  "native_viewport": "not separately captured; HTML previews do not establish exact native pixel equivalence",
+  "print_acceptance": "not assessed: screen-editing workbook, 100% A3 print settings may span multiple pages",
+  "hyperlink_scope": "local file targets and internal sheet targets checked; external URL live access not exhaustively tested",
+  "ooxml_status": "passed",
+  "final_input_hashes_unchanged": true,
+  "final_sha256": "4ed62bad99be74a117becbc48a4a5a60cad343915d383f8908cb658a8565c687"
+}

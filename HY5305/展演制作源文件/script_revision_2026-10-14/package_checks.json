@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+  "changed_parts": [
+    "word/document.xml"
+  ],
+  "xml_parts_parsed": 19,
+  "internal_relationships_resolved": 15,
+  "all_non_body_parts_byte_identical": true,
+  "headers_footers_fields_styles_notes_and_relationships_preserved": true,
+  "word_package_audit": {
+    "path": "package_audit_after.json",
+    "sha256": "3d729e3ce356a41d174e0a35eaab93fb43e669862ce9e9053491531ab3596d79"
+  }
+}

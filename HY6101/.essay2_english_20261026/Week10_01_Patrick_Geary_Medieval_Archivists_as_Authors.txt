@@ -1,0 +1,430 @@
+Page 106 →
+Medieval Archivists as Authors
+Social Memory and Archival Memory
+Patrick Geary
+Back in the early 1970s, David Hammack, a historian of New York City, told me that the most important person 
+in the New York City Archives was an individual whose only qualification was his membership in the Teamsters 
+Union. The reason that this was such an important qualification, Professor Hammack explained, was that the 
+archive was seriously underfunded and underhoused. The most daunting task the staff faced each year was to get 
+all of the materials that they had accumulated the previous year but could not possibly preserve to the city dump in 
+time to make room for the next year's tidal wave of paper. The teamster/truck driver/archivist was the key to this 
+activity.
+Archivists do not generally like to dwell on their role as destroyers of the past. Normally, when talking about 
+archives, one concentrates on preservation, not on destruction. However the New York City archivist-teamster 
+illustrates an essential component in the relationship of the present to the past: the necessity of forgetting. 
+Friedrich Nietzsche first called attention to the importance of forgetting, at least equal to remembering, speaking 
+of “that malleable power of a person, a people, a culture, . . . to grow in new directions, to restructure and 
+reconstitute what is past and foreign, to heal wounds, to replace what has been lost, and to recast those molds 
+which have been broken.”1
+Archivists are primary agents in this process, of necessity making choices about what is to be hauled to the 
+landfill, what is to be preserved, and, perhaps as importantly, how it is to be preserved. We historians tend to 
+prefer to ignore the fundamental role of archivists and enjoy the delusion that our clever research can bring us into 
+some direct contact with the past. In fact, the work of historians is often constructed so as to make the archives 
+invisible: to present the illusion of bringing the present reader into the past to which the historian, as interpreter 
+and guide, has privileged access. In reality, historians are more likely than not providing their readers not with a 
+tour of the past but with a tour of one or more archives, the creative work of teams or generations of archivists. It 
+is they, through their process of selection, reorganization, and elimination, who largely determine what past can be 
+accessed and, to a great extent, what that past might be. Archivists, one might well argue, are not preservers of 
+their documents: they are their authors, engaged in work as creative, and as subjective, as that of those who 
+originally penned individual texts or those modern historians who pretend to tell the past to the present.
+As a medievalist, my ability to access my sources is always mitigated by archivists, most of whom are anonymous 
+toilers in medieval monasteries and religious houses. In recent years I have come to pay more attention to them 
+than I had in the past, asking about their role in the creation of the texts that they have transmitted to us. In this 
+essay, I address one specific aspect of the work of medieval archivists, the compilation of cartularies or charter 
+books, volumes that contain copies of the land records of medieval institutions, seen from the perspective not 
+simply of preservation but of creation. I want to consider the compilers of these cartularies not as archivists but as 
+authors.
+At a very basic level, it is doubly absurd to talk about the authors of cartularies. First, we medievalists are 
+accustomed to classifying cartularies among archival compilations Page 107 → rather than literary texts. They are 
+largely copies of individual land transactions, donations, sales, exchanges, and the like, themselves the work of 
+many scribes, or scriptores, writing on the order of a bishop, abbot, or other authority—over long periods of time 
+and following specific legal or customary formulas—to record transactions normally involving the transfer of real 
+property. We need not deny a certain creativity in the narratio of the charter itself, a certain literary sense of 
+constructing reality by the scriptor, but even this mediocre level of creativity can hardly be assigned to the person 
+who, decades or centuries later, recopied the charter into a cartulary. The cartulary, after all, exists at a secondary 
+remove: at some point, as Wendy Davies beautifully showed in the case of the Redon cartulary, these individual 
+
+charters, perhaps lying in a chest or in the pigeonholes of a monastic archive, are collected and copied into a 
+codex.2 As photographs, as it were, of the contents of an archive at a particular moment, it would seem absurd to 
+assign so weighty a designation as author to the compiler of this archival material.
+If speaking of the author of a cartulary seems absurd to a medievalist, speaking of any author is apparently viewed 
+as absurd by literary scholars. The Author, as understood in traditional literary studies, is widely pronounced to be 
+dead or, rather, never to have lived except in what Roland Barthes called positivist capitalist ideology. Of course, 
+word of this death has not spread everywhere. According to Barthes, this author “still reigns in manuals of literary 
+history, in biographies of writers, magazine interviews, and in the very consciousness of litterateurs eager to unite, 
+by means of private journals, their person and their work; The image of literature to be found in contemporary 
+culture is tyrannically centered on the author, his person, his history, his tastes, his passions.”3 Since Mallarmé, 
+Barthes argued, this tyranny of the author has been replaced by language: “It is language which speaks, not the 
+author; to write is to reach, through a preliminary impersonality which we can at no moment identify with the 
+realistic novelists’ castrating ‘objectivity,’ at points where not ‘I’ but only language functions, ‘performs.’”4
+Michel Foucault also called this modern construct of the Author into question, but at the same time he questioned 
+the alternative offered by Barthes, that is, to grant primary status not to the author but to writing: “In granting a 
+primordial status to writing, do we not in effect, simply reinscribe in transcendental terms the theological 
+affirmation of its sacred origin or a critical belief in its creative nature?”5 “This conception of écriture sustains the 
+privileges of the author through the safeguard of the a priori; the play of representations that formed a particular 
+image of the author is extended within a gray neutrality. The disappearance of the author since Mallarmé, an event 
+of our time, is held in check by the transcendental.”6
+Foucault proposed to go beyond the simple repetition of the empty slogan “the author has disappeared” and to 
+examine the difficulties that arise in the use of an author's name. He suggested that the proper role of criticism, 
+one might say scholarship, is not to reestablish the ties between an author and his or her work or to reconstitute an 
+author's thought and experience through his or her works but rather that it should concern itself with the structures 
+of a work studied for their intrinsic and internal relationships. But what, then, is a work if it is not something 
+written by a person called an author? Moreover, is the “work” of an author everything that he or she wrote and 
+said or only certain privileged texts?
+We historians might well put aside for once our well-founded suspicion of theoreticians and recognize that 
+Foucault is actually raising important questions for us when we consider this peculiar type of compilation that we 
+call cartularies. Foucault's call to analyze verbal clusters as discursive layers that fall outside of the familiar 
+categories of a book, a work, or an author is particularly fitting in the discussion of cartularies, precisely because 
+they are at once self-contained and fall outside the normal category of individual documents. These are complex 
+and problematic volumes, well worth our consideration within the context of a discussion of archival practice in 
+the Middle Ages.
+The problems raised by Foucault, and by our cartularies, are several. These include, first, the problem of proper 
+names. What does it mean that we can attach the name Anamot to the tenth-century Regensburg archivist who 
+completed a cartulary of the charters of his monastery around 893 ?7 To call this, as historians regularly do, the 
+“cartulary of Anamot” implies more than simply labeling the cartulary itself. To assign a name to a text is, as 
+Foucault said, more than simply indicative: it is the equivalent of a description. “The proper name and the name of 
+an author vacillate between the poles of description and designation,”8 in this case pointing not only to the specific 
+quires of a certain cartulary now in the Bavarian State Archives but also to a presumed person to whom can be 
+assigned intentional motivations, a consistent personality, a history, somehow potentially manifest in the cartulary 
+designated by his name. Is the purpose of scholarship to reestablish the ties between Anamot as author and his 
+oeuvre, the cartulary, and thus Page 108 → to reconstitute his thought and experience through his work? But if 
+not, if we refuse to ascribe anything but the work of mechanical compilation to the monk Anamot, then we must 
+confront the question of why the monk ensured that his name would be a part of the cartulary. Can we address the 
+question of intentionality and personality in such a case?
+
+In the case of Anamot, the only extent text that we can in any circumstances attribute to him is the cartulary. 
+Otherwise, he is entirely unknown. This is not always the case with authors or compilers of cartularies. What are 
+we to make of the case of Cozroh, the ninth-century compiler or author of the so-called cartulary of Freising?9
+Cozroh appears not only as the “author” or compiler of the cartulary but also as the scriptor of over eighty charters 
+he then himself recopied into the cartulary. Should we see him as the “author” of the cartulary in the same sense as 
+“author” of the charters? Are we to look for some sort of program recognizable in both productions, or in neither? 
+Is there a person we are describing or attempting to describe in the label Cozroh, or is this merely a representation 
+of a traditional charge, executed according to standard formulas on the command of a bishop?
+The issue becomes even more complex when one speaks of someone like Gregory of Catena (ca. 10601130), the 
+“author” of the Regestum Farfense, that is, cartulary of Farfa,10 as well as of the Liber Largitorius,11 which 
+registered grants made by Farfa to others, and of the Chronicon Farfense,12 which synthesized and connected 
+much of the material in both the Liber Largitorius and the Regestum.13 Now, in the case of a name attached not 
+only to charters and to a cartulary but to historical and polemical works as well, when one asks if Gregory can be 
+termed the “author” of the cartulary, one is asking not simply about the relationship between a person (Gregory) 
+and an administrative compilation but between a number of complex texts and their possible coherence. The issue, 
+as Foucault expressed it, is important:
+A name can group together a number of texts and thus differentiate them from others. A name also 
+establishes different forms of relationships among texts. Neither Hermes nor Hippocrates existed in 
+the same sense that we can say Balzac existed, but the fact that a number of texts were attached to a 
+single name implies that relationships of homogeneity, filiation, reciprocal explanation, 
+authentication, or of common utilization were established among them.14
+Thus to speak of Gregory as the “author” of the cartulary of Farfa is to make claims about the putative coherence 
+of at least three texts belonging to different genres but constituting the author's oeuvre and thus implying 
+reciprocal explanation if not homogeneity, and thus implying an intentional agency in their composition that 
+constructs for us a unified discourse from which we postulate an individual.
+What I propose to do is very briefly to address the author question in terms of these early cartularies, all begun 
+before 1100, and all of which are attached to personal names: Cozroh, Anamot, and Gregory. In particular I want 
+to consider how the prefatory materials in their cartularies and the active role of their compilers in selecting and 
+organizing their material present the twin questions of authorship and authority. My real intention is not to decide 
+whether the term authorship in the sense of Roland Barthes's positivist capitalist ideology is appropriate for 
+describing cartulary production—one can easily assume from the start that this would be wildly 
+anachronistic—but rather to illuminate to some extent the genesis and program of cartulary production in its first 
+centuries. In effect, I argue that the relationship between the names that appear in these prefaces diffuses issues of 
+authority and complicates the sense of purpose and intentionality behind these documents. They are neither the 
+mechanical compilations of archives, photographs as it were of whatever archival drudges found in their keeping, 
+nor are they the creations of individual personalities. Rather they represent the complex intersection of various 
+personal and communal programs that cannot be reduced to a single author, a single auctoritas, or indeed a single 
+purpose.
+Pascale Bourgain and Marie-Clotilde Hubert have pointed out that cartularies, prior to the twelfth century, were 
+generally (but not, I would argue, universally) considered rhetorical constructions.15 Their prefaces are very 
+similar to prefaces of historical and hagiographical works and appeal to the same topoi of self-abnegation, duty, 
+and concern for the preservation of the past that one ands in these other contemporary genres. Indeed, in so-called 
+chronicle cartularies the very distinction of genre is entirely arbitrary: a text such as the Gesta abbatum S. Bertini 
+Sithiensium, composed by Folquin, is explicitly called a “history of the abbots” of St. Bertin, although it is 
+composed primarily of charters Folquin copied from his monastery's archives.16 But rather than talking about 
+these explicitly narrative cartularies, I focus on those that are indeed copies of charters not sewn together by a 
+narrative. A number of these contain prefaces, some fairly Page 109 → elaborate. They present a justification and 
+even an apology for their composition and allude to the question of authority and necessity in ways that are both 
+significant and, perhaps, disingenuous. Let's begin at the beginning with the cartulary of Freising, one of the 
+
+earliest extant cartularies, begun by the deacon Cozroh in the 830s.
+According to his preface, the cartulary was compiled on the command of Bishop Hitto of Freising (811-35), who 
+was eager to have written down in a single book “whatever he found written in individual charters and confirmed 
+by other testimonies, both from the times of the preceding fathers as well as from his own famous rule.” In a real 
+sense, then, the auctor of the cartulary was not Cozroh but Hitto himself. Cozroh's own role was simply that of the 
+instrument of Hitto's will:
+And for this task, not mean but laudable, which he initiated, he sought out and found his own meanest 
+little servant, yet still his most faithful, named Cozroh, whom he taught by his own sacred teachings, 
+and promoted to the dignity of the priesthood. And placing upon him the weight of so great a labor, 
+he instructed him in that way firmly to accomplish this task with care and with all circumspection: He 
+found nothing diminished or added to, unless it was something that had been corrupted through the 
+fault of the scribe. And he himself, conscious of his own lack of skill, as if mildly resisting, but 
+preferring both to obey his kind instructions than to flee the weight of so great a care, with the Lord 
+assisting, began this work.17
+Cozroh did not explain that the choice of him as the compiler of the cartulary was most appropriate: he had been 
+acting as a scribe, preparing charters for Freising since 820. Moreover, his duties continued after the death of Hitto 
+until 848. However, the final compilation of the cartulary, if perhaps undertaken at the command of Hitto, was not 
+completed for over twenty years after the disappearance of the bishop. This is evident, for example, in the 
+treatment of one document for which Cozroh had acted as scribe and that he had later included in the cartulary. A 
+consideration of how this document passed from original to cartulary copy suggests the complexity hidden in 
+Cozroh's disingenuous claim that in making his cartulary he had simply followed Bishop Hitto's directions 
+“nothing diminished or added to, unless it was something that had been corrupted through the fault of the 
+scribe.”18
+The document records the resolution of a dispute between Bishop Erchanbert of Freising, nephew and successor 
+of Hitto who assumed the episcopacy in 836, and the heirs of a certain Kiso in the 840s.19 The bishop had claimed 
+that Kiso had donated a church at Strogn and property at Berghofen to the church of Freising. Kiso's heirs, 
+Vuichelm and Eigil, disputed the claim. However, the bishop was able to call witnesses in support of his claim, 
+and “convicted and coerced by the laws” Vuichelm and Eigil returned the property. Some time later, however, the 
+two appeared before the bishop and requested to be allowed to join allodial property at Berghofen that they had 
+inherited from Kiso, to their father's gift. In return, Eigil and his mother received the properties at Strogn as life 
+benefices.
+Such a dispute and such a resolution are not at all unusual for mid-ninth-century Freising and have been analyzed 
+in terms of Bavarian dispute resolution by Warren Brown.20 What is peculiar is that the document that records the 
+event is in the form not of a typical episcopal placita or of a formal gueriptio (or quitclaim) but rather of a 
+narrative combining the story of two separate events. Moreover, although it concludes, “Ego Kozroh indignus 
+presbiter scripsi,” it seems to have been written or revised long after the date indicated: June 9, 840. By the time 
+the document in its present form was written, Bishop Erchanbert was dead: it begins, “Quomodo quidem 
+reverendae memoriae Erchanbertus episcopus et advocatus eius Kerhart quaesierunt unam ecclesiam at 
+Stroagnon” (In what manner Bishop Erchanbertus of blessed memory and his advocate Kerhart claimed a church 
+at Strognon). At a second point in the text, Erchanbert is referred to as memoratus episcopus, terminology that 
+implies that he is dead at the time of the writing. The document must have received its final form sometime after 
+Erchanbert's death in 854. Had Cozroh been present to record the events at the original placitum or at the 
+subsequent renegotiation of the grant? One can doubt it: Cozroh used a series of formulas to designate by what 
+authority he served as scribe. In twenty-one cases he stated that he wrote “on the order of the bishop.”21 In 
+seventeen others, he explained that he was present and that he had written the charter after having “seen and 
+heard” the events described.22 In twenty-two cases, he combined the two formulas.23 Only in ten charters did he 
+fail to appeal either to the authority of the bishop or to his own witness but rather, as in our case, wrote simply, 
+“Ego Cozroh indignus presbiter scripsi” (I the unworthy priest Cozroh wrote this).24 Perhaps these formulas are 
+
+without meaning, but they may suggest that Cozroh had written the final version of the notice by combining two 
+earlier texts of which he had not been the original scriptor. The composition of this narrative, composed not only 
+long after the death of the bishop on whose command Cozroh claimed to have begun the cartulary but over a 
+decade after the events it describes, suggests that Page 110 → Cozroh was at least adjusting and clarifying, if not 
+perhaps writing or revising, his own earlier version of the events, if indeed such an earlier version ever had 
+existed.
+Is then Cozroh the author of his cartulary in a way that is different from his authorship of the charters that he 
+composed, having “seen and heard” the events that they describe? His work is somewhere between compiler and 
+creator. On what auctoritas did he pursue this work? According to his claims, the authority derived from Hitto, 
+who first ordered the cartulary to be written. The mandate to Cozroh to produce the cartulary can only with 
+difficulty be ascribed to Hitto: it was a project carried on under at least three different bishops, and one intimately 
+related to Cozroh's role in the community. In attributing the impulse of the cartulary to a long-dead bishop, 
+Cozroh was transferring the authority from himself to one who could not be responsible for the content of much of 
+what he wrote. Just as the copies of the charters themselves point beyond to original charters, charters perhaps (in 
+Cozroh's words) in danger of removal or destruction either through carelessness or by fraud, the authority of this 
+collection points to a person long dead but whose intention to renew the written treasures of the church of 
+Freising, its copies of sacred scripture, its liturgical texts, and the memory of its benefactors serves as transposed 
+guarantor of the authority of this undertaking.
+One sees a similar transposition of authority from the initiative of the compiler to a deceased auctoritas in the 
+cartulary of Anamot, fragmentarily but tantalizingly preserved in Munich. Like Cozroh, Anamot's dedicatory 
+preface attributes the cartulary to the initiative of his bishop Ambricho.25 Like Cozroh, by the time the cartulary 
+was completed, Ambricho and his successor were both dead. The authority of the compilation rests then with the 
+departed, and the cartulary is a memorial to their memory.
+Originally the cartulary, composed around 895, began with a memorial poem addressed to Ambricho and, 
+unusually for the period, a portrait of the bishop on opposite folios, now folios 70V and 71r of the manuscript:
+Behold here the beautiful form of the venerable bishop
+Who often favored us with sacred kindness
+Whose honor shines forth abroad through the wide
+  world,
+. . .
+Omnipotent God, who placed the rulers of the world
+Return to him full rewards for his good deeds
+May he gain the special gifts of this small little book
+In heaven, where true hope extends.26
+Following the table of contents of the first book is a second dedication to the bishop:
+To the most excellent lord bishop A. Anamot his humble servant.
+Since I knew that your mind was always occupied with all types of study of books and with all other 
+forms of service of the divine cult, I tried with all my effort to present this little work into the 
+beautiful hands of your holiness. Gathering together several charters of gifts, exchanges, and sales, I 
+brought them into the single volume of the present little collection so that, having removed error, the 
+charters might, when necessary, be more easily located and comprehended by chapter headings.27
+As in Cozroh's preface, the impulse for the composition of the collection is placed within a general interest on the 
+part of the bishop in the books and texts in the service of God. It is the devotion of the bishop that brought into 
+being the collection of charters. However, again as in Cozroh's cartulary, the bishop had died before the 
+completion of the volume. Remarkably, in Regensburg either Anamot or a contemporary decided that this 
+
+dedication need not apply only to Ambricho. Although still recognizable, the name of the bishop has been scraped 
+out to the first letter—A. The editor Josef Widemann suggested that after Ambricho's death in 891 a decision was 
+made simply to insert that of his successor, Aspert, into this space. Aspert died shortly after, in 984, and this may 
+explain why the space was never filled in.28 Did Anamot change his dedication to flatter a new patron? We cannot 
+conclude this. Widemann suggested that Anamot had dedicated “his cartulary” to Ambricho but that the collection 
+was continued to include charters from the episcopacy of Aspert and that Anamot's dedication was at first simply 
+copied in the later copies but the name of the dedicatee was intended to be changed after the fact. It is impossible 
+to know. The poetic dedication implies that Ambricho was already dead at the time of its composition, but there is 
+no particular reason to assume that Anamot might not have been involved in the copying of the cartulary. It is 
+simply impossible to ascribe either the “authority” of the cartulary to either bishop or to ascribe the authorship to 
+an individual named Anamot. Bishops seem to have been interchangeable, and the name of the “author,” Anamot, 
+may have been but a convention representing a series of compilers of the collection.
+Gregory of Catena belongs in many ways to another world from that of Anamot and Cozroh. He lived and wrote 
+in the heat of the investiture controversy that drew Page 111 → Farfa into protracted conflict with the reform 
+papacy and the empire, and the collections that he produced are an integral part of these conflicts.29 One finds 
+nevertheless a continuity in the complex, discursive layers, on the shifting borders between narrative, polemical 
+treatise, and administrative record—a complex of intertextual references that fall outside of the familiar categories 
+of a book, a work, or an author.
+Gregory's rich work and complex career have drawn the attention of scholars for over a century. According to his 
+preface to the Regestum, Gregory, at the age of thirty-two, suggested to the abbot Bernard II and to the older 
+monks that they authorize him to organize all of the documents relating to the monastery's rights. The result was a 
+two-volume compendium (the Regestum Farfense) he entitled both Liber Gemniagraphus, which he explained as 
+the “memorial of the description of the lands,” and the Claeronomalem, or the “inheritance of the church of 
+Farfa.”30 This was no simple transcription of charters. Like Cozroh and Anamot, Gregory felt free to edit 
+documents to improve their Latin or to elucidate content that he considered no longer clear. Whether he went 
+beyond these emendations to actually changing the content is likely if not entirely provable. Certainly his 
+selections of documents represented the exercise of judgment and discrimination, as did his decision to copy into 
+the register a collection of canons supporting Farfa's rights. Some have seen Gregory as the “author” or inventor 
+of these canons, although they seem to have been drawn from an earlier collection, much in the way that the 
+eleventh-century cartulary of St. Denis includes a canonical collection in support of that monastery's rights. The 
+charters and the canons were intended as a whole, each implicitly referring to the other and mutually supporting 
+monastic rights against papal or episcopal encroachment.31
+In addition to his register, Gregory also undertook the Liber Largitorius, a register of grants from Farfa to others, 
+including the period of the grant, the conditions, and the value of the property. Gregory's work was continued by 
+his nephew Todinus around 1125, who not only added subsequent concessions but earlier ones that Gregory had 
+omitted.
+Using both the Regestum and the Liber Largitorius, Gregory then compiled the Chronicon Farfense, a narrative 
+that was, even more than the Liber Largitorius, a collaborative effort involving Gregory, Todinus, and other, 
+unidentified scribes bringing the history of the monastery to 1118. Finally, in 1130, he began his Liber Floriger, a 
+condensed history of the monastery drawn from the Chronicon and the Regestum that also provided a 
+topographical index relating to charters he had copied into the other volumes.32
+All of the works were deeply interrelated: Gregory himself referred to the Chronicon as the “third book of 
+charters” (Hunc cartularum tertium librum), and together their historical, archival, and canonical content 
+constantly pointed to originals in the monastery's archives, in canonical collections, or in the other volumes 
+composed by Gregory or one of his collaborators. Their authority derives from the solicited request for 
+composition made by Gregory to Abbot Berardus and to the alleged care with which Gregory, who professed little 
+learning (and thus, presumably, little powers of invention) copied the contents of his materials. Indeed, although 
+Gregory composed a preface to the Regestum, its more formal prologue was not written by him but by Johannes 
+
+Grammaticus, sometime before 1120. This prologue modifies slightly the information in the first-person preface 
+by Gregory. Here, there is no mention of Gregory's request to be ordered to compile the volume. Instead one 
+learns that “inspired by divine grace, it pleased lord Berardus the most reverend abbot of this church . . . to collect 
+together all of the privileges and precepts and laws and legal charters of great age now almost entirely destroyed 
+and having most accurately transcribed them to bequeath them to the memory of posterity.” Iohannes, assuming 
+the persona of Abbot Berardus in the third-person plural, then assured that “in copying them we have neither 
+added, nor subtracted nor changed anything, but having corrected those corrupted parts rhetorically in respect to 
+how they had been written, we have given them over legally through the hands of our most wise fellow brother 
+Gregory.”33 There then follows, as in the preface to the Regensburg cartulary, a poetic dedication and a donor 
+portrait. However, in contrast to the dedicatory verses and portrait of Regensburg at the end of the ninth century, 
+this poem honors not Abbot Berardus but Gregory, and the portrait shows him presenting the Regestum to the 
+Virgin Mary.
+One can hardly make firm conclusions based on a discussion of three cartularies. But we can see that these 
+archival compilations are very complex creations that always point to something beyond themselves. They are not 
+the sum of anything but spill over into other texts. They are essential intertextual references. In theory, anyone 
+who doubts the authority of the cartulary can simply consult the originals. This is the suggestion presented in the 
+preface to the cartulary of Saint-Amand: “If anyone doubts this, let him examine the ancient charters.”34 Actually, 
+as the prefaces of Cozroh and others suggest, the Page 112 → originals were often so badly damaged that they 
+were illegible, if they still existed at all. This was after all one of the reasons for compiling cartularies in the first 
+place. Moreover, cartularies never contain all of the charters of an institution, and they do not always reproduce all 
+of the content of the originals. Moreover, as in the case of the account of the Bavarian conflict apparently 
+composed by Cozroh, they contain documents written specifically for inclusion in the cartulary. Alone they are 
+sometimes mere catalogs and can only be understood in their use in coordination with the originals to which they 
+refer, but yet they purport to contain these originals. As for their compilers, even those who left their names in 
+association with these collections were both more and less than authors. They claimed authority from 
+without—from their abbot or bishop; authority too was vested in the referred to but invisible originals, although 
+these might have been emended in a variety of subtle ways for present usage. Cartularies were collaborative 
+efforts, existing at the intersection of individual expertise, command, and collaborative execution, as were all 
+manuscripts of the Middle Ages. At the same time, if the persons whose names are associated with the collections 
+were involved in (if not directly responsible for) their inception, they were not likely to be present at their end, if 
+they ever did end—additions could be made and new signatures or volumes added but not necessarily in accord 
+with an original system devised at the outset. Should Gregory be seen as the author of the Regestum, or perhaps 
+Berardus, whose auctoritas made it possible? Or possibly Johannes Grammaticus, the “author” of its second 
+prologue? Or perhaps it is the Presbyter Petrus, who is shown in the donor portrait offering the price of the first 
+charter: “Presbiteri Petri sunt haec primordia libri / Solidos nanque decem pro cartis optulit ipse.” The modern, 
+romantic notion of authorship is too thin a construct to encompass the complexities hidden behind a Cozroh, an 
+Anamot, or a Gregory. They exist at the intersection of piety, obedience, expediency, collectivity, and memory.
+NOTES
+This article First appeared as “Auctor et Auctoritas dans les cartulaires du haut moyen âge” in Auctor et 
+Auctoritas: Invention et conformisme dans l'écriture médiévale, Actes du colloque de Saint-Quentin-en-Yvelines 
+(14–16 juin 1999), ed. Michel Zimmermann, Mémoires et documents de l'École des Chartes 59 (Paris, 2001), 
+61–71.
+1. Friedrich Nietzsche, Vom Nutzen und Nachtheil der Historie für das Leben, vol. 2, Nietzsches Werke, 
+Klassiker Ausgabe (Leipzig, 1922), 134.
+2. Wendy Davies, “The Composition of the Redon Cartulary,” Francia 17 (1990): 69–90. In his 
+introduction to La Cartulaire de l'abbaye Saint-Sauveur de Redon (Rennes, 1998), 9–25, Hubert Guillotel 
+recognized “un projet cohérent encore qu'à première vue énigmatique, don't la responsabilité doit être 
+attribuée à l'abbé Aumond,” and he spoke of a copiste who “had to put his work in order” (17), but he 
+attributed no creativity to this anonymous figure.
+
+3. Roland Barthes, Le bruissement de la langue: essais critiques IV (Paris, 1984), 62.
+4. Barthes, Le bruissement de la langue, 62.
+5. Michel Foucault, “Qu'est-ce qu'un auteur?” Bulletin de la Société française de Philosophie 63 (1969): 80.
+6. Foucault, “Qu'est-ce qu'un auteur?” 79.
+7. Bayerische Hauptstaatsarchiv St. Emmeram KL Lit. 5 1/3. On the manuscript see Patrick Geary, “Entre 
+Gestion et gesta,” in Les cartulaires: Actes de la Table ronde organisée par l'École nationale des chartes et 
+le G.D.R. 121 du C.N.R.S. (Paris, 5–7 décembre, 1991), ed. O. Guyotjeannin, L. Morelle, and M. Parisse, 
+Mémoires et documents de l'École des Chartes, 39 (Paris, 1993), 13–24, esp. 23; and Patrick Geary, 
+Phantoms of Remembrance: Memory and Oblivion at the End of the First Millennium (Princeton: 1994), 
+98–100.
+8. Foucault, “Qu'est-ce qu'un auteur?” 81.
+9. Bayerische Hauptstaatsarchiv Hochstift Freising Lit. 3a. See Geary, “Entre Gestion et gesta,” 20–23, and 
+Phantoms of Remembrance, 96–98.
+10. Biblioteca Apostolica Vaticana, Vat. Lat., 8487.
+11. Biblioteca Nationale Vittorio Emanuele, MS Farfa 3.
+12. Biblioteca Nazionale Vittorio Emanuele, MS Farfa 1.
+13. On the texts of Gregory see Ildefonso Schuster, Abbazia di Farfa: Contributo allo studio del ducato 
+romano nel M. Evo (Rome: 1921; 1987), 1:21–23; Theo Kölzer, Collectio canonum Regestro Farfensi 
+inserta, Monumenta Iuris Canonici, série B: Corpus Collectionum, vol. 5 (Città del Vaticana: 1982), 7–9; 
+Theo Kölzer, “Codex libertatis: Überlegungen zur Funktion des ‘Regestum Farfense’ und andere Kloster 
+cartulare,” in Atti del Congresso internazionale di studi sull'alto medioevo, Centro Italiano di Studi sull'alto 
+medioevo (Spoleto: 1983), 2:609–53; and Mary Stroll, The Medieval Abbey of Farfa: Target of Papal and 
+Imperial Ambitions, Brill's Studies in Intellectual History (Leiden: 1997), 7–15. For the context of Gregory's 
+work within Italian historiography of the period see Walter Pohl, Werkstätte der Erinnerung: Montecassino 
+und die Gestaltung der langobardischen Vergangenheit (Vienna: 2001), esp. 152–62.
+14. Foucault, “Qu'est-ce qu'un auteur?” 82–83.
+15. Pascale Bourgain and Marie-Clotilde Hubert, “Latin et rhétorique dans les préfaces de cartulaire,” in Les 
+cartulaires, 115–36.
+16. B. Guérard, ed., Cartulaire de l'abbaye de Saint-Bertin, Documents inédits, Collection des cartulaires de 
+France, 3 (Paris, 1840); O. Holder-Egger, ed., Gesta abbatum s. Bertini Sithiensium, MGH SS, XIII 
+(Hanovre, 1881), 607–34; and Hariulf, Chronique de l'abbaye de Saint-Riquier (Ve siècle-1104), ed. 
+Ferdinand Lot, Collection de textes pour servir à l'étude et à l'enseignement de l'histoire (Paris, 1894). See 
+Laurent Morelle, “Les chartes dans la gestion des conflits (France du nord, XIe-début du XIIe siècle),” in 
+Pratiques de l'écrit documentaire Page 113 → au XIe siècle, ed. O. Guyotjeannin, L. Morelle, and M. 
+Parisse, Bibliothèque de l'École des chartes, t. 155 (1997), 267–98; and “Histoire et archives vers l'an mil: 
+Une nouvelle ‘mutation'?” Histoire et archives 3 (1998): 130–31.
+17. “Quicquid singulis cartulis exaratum certisque testimoniis confirmatum invenit, uno volumine 
+rationabiliter includere studuit tam antecessorum patrum temporibus quam etiam sui famosi regiminis.” 
+Theodor Bitterauf, ed., Die Traditionen des Hochstifts Freising, Quellen und Erörterungen zur bayerischen 
+und deutschen Geschichte, neue Folge Bd. 4 (Munich, 1905; 1967), 2 (hereafter TF).
+18. “Hoc tamen opus non vile, sed laudabile cui commisisset inquisivit invenitque tamen suum vilissimum 
+servulum, sed tamen sui fidelissimum, nomine Cozroh, quem tamen ipse suis sacris disciplinis edocuit, et ad 
+presbiterii dignitatem provexit. Inponensque ei pondus tanti laboris, sollicite ac omni circumspectione hoc 
+opus peragere, eo modo armiter praecipiens: nihil minui vel adici, nisi scribtoris vitio aliquid depravatum 
+repperisset.” Ibid.
+19. TF, 636.
+20. Warren Brown, “The Use of Norms in Disputes in Early Medieval Bavaria,” Viator 30 (1999): 15–41. 
+See more generally on this cartulary his Unjust Seizure: Conflict, Interest, and Authority in an Early 
+Medieval Society (Ithica, 2001).
+21. iussus a domno: TF, 462, 485, 487, 492, 499a, 501b, 515, 519, 522 (Ego Hitto . . . praecepi Cozrohe 
+presbitero nostro et ipse sicut praecepi perfecit), 523a, 529, 533, 535, 538, 542, 549, 553, 555, 557, 571, 
+572, 587, 609, 611, 651, 655, 678, 686.
+22. hoc videns et audiens: TF, 440, 554, 576a, 582, 583, 590, 601, 602, 603, 604, 626, 671, 672, 676, 679, 
+
+689, 699.
+23. hoc videns et audiens conscripsi iussione: TF, 547c, 556, 559, 573, 580, 581b, 587, 594, 596, 598, 599, 
+606, 607a, 615b, 634, 660, 664, 667, 674, 680, 698, 701. In praesentia Hittonis episcopi ego Cozroh 
+conscripsi: 588b.
+24. Scripsi: TF, 486, 498, 531, 536, 560, 562, 600, 627, 628, 636.
+25. Josef Widemann, ed., Die Traditionen des Hochstifts Regensburg und des Klosters S. Emmeram, 
+Quellen und Erörterungen zur bayerischen Geschichte neue Folge Bd. 8 (Munich, 1934; 1988), vii–ix 
+(hereafter TR).
+26. Versus Anamodi: “Presulis hic pulchram venerandi cernite formam, / Qui nobis sacro sepe fauet merito, 
+/ Cuius honor mundo iste prefulget in amplo, / . . . Cui deus omnipotens, mundi qui regmina ponis, / Premia 
+de factis reddito plena bonis! / Istius et parui specalia dona libellil / In celis capiat, spes vbi vera patet.” TR, 
+viii.
+27. EXCELLENTISSIMO DOMINO A . . . EPISCOPO ANAMOTVS HVMILLIMVS FAMVLVS. 
+Uestram igitur mentem, quoniam in omni librorum studio ceteroque diuini cultus mancipatu semper 
+inherere cognoueram, hoc opusculum ultronea uoluntate pulcherrimis sanctitatis uestre manibus presentare 
+conabar. TR, xiii.
+28. TR, xiii.
+29. See the bibliography in n. 10 and the literature cited by Stroll, The Medieval Abbey of Farfa, 8–11.
+30. “Porro huic libro GEMNIAGRAPHUM nomen imposuimus, idest MEMORIAM DESCRIPTIONIS 
+TERRARUM, quia in eo huius coenobii terras a quocumque, uel ubicumque acquisitas inseruimus, et eas ad 
+semper memorandum in uno uolumine comprehendimus. Placuit etiam nobis et CLAERONOMALEM, id 
+est haereditalem pharphesis AECCLESIAE appellari, quoniam proprias ipsius immobiles ab initio libere 
+demonstrat possessiones.” I. Giorgi e U. Balzani, ed., Il regesto di Farfa compilato da Gregorio di Catino
+(Rome: 1879), 2:6–7; and Stroll, The Medieval Abbey of Farfa, 8.
+31. See Kölzer, Collectio Canonum; and Stroll, The Medieval Abbey of Farfa, 9, n. 20.
+32. Stroll, The Medieval Abbey of Farfa, 10–12.
+33. “Diuina inspirante gratia, placuit domno Berardo reuerentissimo abbati huius aecclesiae pharphensis 
+mobilissima gente progentio florentiae urbis, quatinus istius sacri coenobii uniuersa priuilegia et praecepta 
+nec non et tomos et legales cartas nimmia uaetustate iam pene consumpta, in unum uolumen colligere eaque 
+ad memoriam posteritatis studiosissime declarata, uaeracissime transcripta relinquere. Et hoc prudentissimo 
+actum est consilio, ne forte, quod saepissime iam euenisse nouimus, aut custodum negligentia, aut 
+uaetustate consumente nimia, prae dicta obliuioni traderentur praecepta, tomi, cartae, et privilegia. Quae 
+ueraciter elucubrando nichil eis omnio addidimus, uel minuimus, nec mutauimus, sed corruptis partibus 
+rethorice emendatis, eo respectu quo scripta erant, ea legaliter transtulimus per manus confraatris nostri 
+magnae sagacitatis Gregorii sabinensi comitatu oriundi, in castro catinensi nobilissimis parentibus progeniti, 
+et nostrae aecclesiae fere ab ispa infantia lacte enuriti.” Il regestro, 2:20.
+34. H. Platelle, “Le premier cartulaire de l'abbaye de Saint Amand,” Le Moyen Age 62 (1956): 318–19. See 
+also Morelle, “Histoire et archives vers l'an mil,” 131.

@@ -1,0 +1,13 @@
+{
+  "result": "pass",
+  "scope": "Two independent browser contexts, production HTML/JS, HTTP handler, real local Postgres; not cloud deployment.",
+  "checks": [
+    "A second independent reader reads and replies to the first reader; language switching preserves draft.",
+    "User HTML is displayed as text and never runs.",
+    "Refreshing preserves an unfinished reply and saved messages survive a full page reload.",
+    "A saved request with a lost HTTP response can be retried without duplicate messages.",
+    "The existing map and 132-node/157-edge network still initialise.",
+    "An unconfigured release hides the feature and makes no discussion API calls; anchored titles clear the sticky header.",
+    "Desktop and mobile layouts have no horizontal overflow or JavaScript errors."
+  ]
+}

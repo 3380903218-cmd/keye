@@ -1,0 +1,50 @@
+[
+  {
+    "number": "06",
+    "source_url": "https://www.youtube.com/watch?v=-Fa4oH-TbGA",
+    "file_stem": "网络_06_20250404_白新春茶庄_活态传承与社区联系",
+    "status": "downloaded",
+    "exit_code": 0,
+    "id": "-Fa4oH-TbGA",
+    "title": "Stewards of Intangible Cultural Heritage 2024 - Pek Sin Choon",
+    "duration": 344,
+    "upload_date": "20250404",
+    "description": "Pek Sin Choon stands as one of Singapore’s oldest Chinese tea merchants. Established in 1925, the company is led by fourth-generation owner and tea master Mr Kenry Peh. Since the 1990s, it has also served as a key tea supplier to the bak kut teh (pork rib soup) market. Today, the tea merchant conducts workshops, tea appreciation sessions, as well as regular heritage tours to educate visitors about the history and production processes of Nanyang tea. They also actively collaborate with arts and cultural institutions, charities, and private entities, to create bespoke tea blends. The company extends its expertise by mentoring the younger generation of tea enthusiasts and collaborating with schools and Institutes of Higher Learning to document skills in tea re-firing and blending.",
+    "width": 1920,
+    "height": 1080,
+    "uploader": "Roots Sg",
+    "vcodec": "avc1.640028",
+    "acodec": "mp4a.40.2",
+    "fps": 25,
+    "format_id": "137+140-20",
+    "license": null,
+    "files": [
+      "网络_06_20250404_白新春茶庄_活态传承与社区联系.mp4"
+    ]
+  },
+  {
+    "number": "10",
+    "source_url": "https://www.youtube.com/watch?v=guUSk-UD-eQ",
+    "file_stem": "网络_10_20261101_遗产企业支持_经营延续与社区活动",
+    "status": "downloaded",
+    "exit_code": 0,
+    "id": "guUSk-UD-eQ",
+    "title": "Heritage Business Scheme: Firms see footfall grow after support, hope for more tailored programmes",
+    "duration": 195,
+    "upload_date": "20261101",
+    "description": "Some firms under the Heritage Business Scheme have seen footfall grow by roughly  20 per cent, a year since the programme was launched by the National Heritage Board (NHB). NHB says it is looking to offer more tailored support moving forward as businesses deal with challenges such as attracting new customers and preserving traditional skills. Muhammad Bahajjaj with more.",
+    "width": 1920,
+    "height": 1080,
+    "uploader": "CNA",
+    "vcodec": "avc1.640028",
+    "acodec": "mp4a.40.2",
+    "fps": 30,
+    "format_id": "137+140",
+    "license": null,
+    "files": [
+      "网络_10_20261101_遗产企业支持_经营延续与社区活动.mp4"
+    ],
+    "related_article_date": "2026-11-02",
+    "related_article_url": "https://www.channelnewsasia.com/singapore/heritage-business-scheme-nhb-new-customers-challenges-remain-6512471"
+  }
+]

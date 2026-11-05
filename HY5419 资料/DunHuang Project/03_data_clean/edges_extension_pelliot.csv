@@ -1,0 +1,4 @@
+﻿EventId,Source,Target,Type,YearStart,YearEnd,Relationship,SourceWording,QuantityApprox,Unit,Confidence,SourceRef,Notes
+PX01,N001,N013,Directed,1908,1908,expedition_transfer,Pelliot entered Cave 17 from 3 to 26 March 1908 and selected manuscripts,,,high,S08;S07,Extension event; official Persée HTML and Stein account.
+PX02,N013,N012,Directed,1908,1908,expedition_transfer,Pelliot examination and selection in the cave,,,high,S08,Extension event; keep separate from institutional deposit.
+PX03,N013,N014,Directed,1908,1909,institutional_transfer,Paris collecting system (institution-level destination requires object-level catalogues),,,low,S08,Candidate edge only; N014 intentionally omitted from main nodes until a named receiving institution is documented.

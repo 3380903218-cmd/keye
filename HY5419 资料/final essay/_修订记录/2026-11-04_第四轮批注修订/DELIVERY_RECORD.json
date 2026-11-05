@@ -1,0 +1,132 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5419-dunhuang-essay-20261104-round4",
+  "state": "candidate",
+  "content_authority": "Current user-annotated original with six comments, including one new comment; preceding round remains authoritative for the five already requested corrections.",
+  "format_authority": "Current annotated Word original; existing styles, fields, figures and APA reference formatting preserved.",
+  "synchronization_direction": "word-to-markdown",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "essay-round4",
+      "role": "candidate",
+      "path": "修订候选.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "requested_output_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_中文稿.docx",
+        "requested_output_byte_identical": true,
+        "preview_evidence": {
+          "path": "visual-check.json",
+          "sha256": "212d286ff7d49b1932d695187ea2db530636c968932c4e46adcf4bbde8a0219d"
+        },
+        "baseline_sha256": "5968476e9236133793bca2adc1f5dc205fdd604d07b014ccc0dbd8513a5c2ef1"
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "essay-round4",
+      "artifact_sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+      "performed_at": "2026-11-04T22:32:36.481854+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "content-check.json",
+        "sha256": "ac59991fd9e94da60ad6990a89c12ea92d47ba8b8c2464fa478bcea87198e569",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "essay-round4",
+      "artifact_sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+      "performed_at": "2026-11-04T22:32:36.481854+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "package-check.json",
+        "sha256": "170f28e6ffef08ac0984f24dbdf8c18d83debbcd737ff458337215315ac4f718",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer.",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "unavailable",
+      "artifact_id": "essay-round4",
+      "artifact_sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+      "performed_at": "2026-11-04T22:32:36.481854+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "native-check.json",
+        "sha256": "e077faee3277e0fcde662d6194696f1f109601c7e630421af353adbf513b110b",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Native Word verification interrupted by concurrent user activity; current ten-page proxy preview inspected.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "essay-round4",
+      "artifact_sha256": "055766a057b255f8e72f29b3656c0fa814505f91837bf78d98a6c8b05cf2a6ee",
+      "performed_at": "2026-11-04T22:32:36.481854+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "delivery-package-check.json",
+        "sha256": "1164a6660b7488d97451329a1a94d0aa96697febbd1dd2b23fca841622511384",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this validation layer.",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "essay-round4"
+  ],
+  "invalidated_checks": [
+    "All previous-draft content and rendering checks superseded by this revision."
+  ],
+  "unresolved_risks": [
+    "Native Word normal-open and native pagination not verified; current proxy preview passed.",
+    "If Word still has an older copy open, reopen the updated original before editing to avoid restoring stale content."
+  ],
+  "next_action": "User reviews the updated original, reopening an older Word window if necessary.",
+  "extensions": {
+    "adjudication_file": "批注处理.json",
+    "linked_previous_revision": "2026-11-04_第三轮批注修订",
+    "backup_file": "批注原稿备份.docx"
+  }
+}

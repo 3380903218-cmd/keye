@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "performed_at": "2026-11-04T23:30:50.414619+08:00",
+  "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+  "translated_slots": 72,
+  "one_to_one_paragraph_coverage": true,
+  "reference_order_only_adjusted_for_APA": true,
+  "markdown_and_word_text_agree": true,
+  "meaning_review": "All source and target paragraphs manually back-checked for claims, qualifications, chronology, first-person voice and terminology. No arguments or examples added or removed.",
+  "number_review": "All numerical differences reviewed: range punctuation, Chinese second volume rendered as Volume 2, translated reference title repeating its original 1909, and original worksheet identifiers retained.",
+  "APA_scope": "Author-date citations, alphabetical reference ordering, titles/volume italics, DOI format, 0.5-inch hanging indents, Chinese-source romanisation and bracketed English title translations. Existing project records kept separate from the formal reference list."
+}

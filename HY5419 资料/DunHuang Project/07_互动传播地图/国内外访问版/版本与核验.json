@@ -1,0 +1,45 @@
+{
+  "prepared_date": "2026-11-03",
+  "new_online_mirror_published": true,
+  "mainland_network_verified": false,
+  "offline_files": {
+    "敦煌传播地图_离线中文版.html": "7d363de9f2cc2be472e973dd4f13688625866a903403efeabc5a2b5a9c40ea97",
+    "敦煌传播地图_离线英文版.html": "3f91ea4266b07e5440f598f50d1de108d015ace748609fa6a300cd0bd225ed04",
+    "发给家人_中文离线版.zip": "964ce9217f362a6814fc5a9bae2c02023dd3e7f78ef9374e5bba5d5c63f3674b"
+  },
+  "static_package_sha256": "5797309baac4d57e64aa192659ce041b536642b491bc6434fe263a1d53e44c80",
+  "notes": "Current release verified on desktop/mobile and offline; the earlier family test covers the previous map/network release only. The new discussion has no mainland China network test. Free service only; no paid upgrade or domain registration.",
+  "offline_browser_verification": "passed with networking disabled",
+  "offline_verification_file": "公开讨论区_离线核验.json",
+  "online_strategy": "GitHub Pages is the primary share endpoint after a successful user-reported mainland family test; offline HTML remains the backup.",
+  "github_mirror_published": true,
+  "github_mirror_url": "https://3380903218-cmd.github.io/dunhuang-in-motion/",
+  "chinese_url": "https://3380903218-cmd.github.io/dunhuang-in-motion/?lang=zh",
+  "new_online_mirror_provider": "GitHub Pages",
+  "mainland_verification_method": "user_reported_family_test",
+  "mainland_verification_date": "2026-10-29",
+  "mainland_verification_scope": [
+    "webpage opens",
+    "route map loads",
+    "relationship network loads"
+  ],
+  "version": "2.9.1",
+  "source_commit": "1b7bdb716fc4fb0097b55137504bb7d2e2b56521",
+  "mainland_verification_release": "1.1.1 (earlier release on the same host)",
+  "story_edition_mainland_test_repeated": false,
+  "expanded_network": {
+    "nodes": 132,
+    "edges": 157,
+    "activity_records": 48,
+    "evidence_notes": 57
+  },
+  "original_gephi_sha256": "edf3f7dd37e31d7f23e500b23d16a438b712574d338e5d0a4bb51baf40714c90",
+  "pages_deployment": "https://github.com/3380903218-cmd/dunhuang-in-motion/actions/runs/41486814910",
+  "earlier_release_mainland_network_verified": true,
+  "discussion_mainland_network_verified": false,
+  "discussion_service": "Supabase Free, Singapore",
+  "discussion_url": "https://3380903218-cmd.github.io/dunhuang-in-motion/?lang=zh#discussion",
+  "discussion_live_verification": "../用户反馈/公开讨论区预览/云端核验/live-pages-verification.json",
+  "older_diagnostic_outputs": "Superseded layout/browser diagnostic files were deleted on 2026-11-03; final static assets, the current source verification and cloud discussion records remain.",
+  "cleanup_record": "../../06_notes/2026-11-03_清理记录/清理说明.md"
+}

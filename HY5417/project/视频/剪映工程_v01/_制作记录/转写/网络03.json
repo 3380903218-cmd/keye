@@ -1,0 +1,2837 @@
+{
+  "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_03_20250518_史密斯街更新后_生意改善与租金人手挑战.mp4",
+  "method": "faster-whisper large-v3-turbo, local CPU int8; machine transcript for editorial verification",
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 4.64,
+      "text": " A tie-up of a heritage centre and the rejuvenation of a cultural street",
+      "words": [
+        {
+          "start": 0.18,
+          "end": 0.66,
+          "word": " A"
+        },
+        {
+          "start": 0.66,
+          "end": 0.94,
+          "word": " tie"
+        },
+        {
+          "start": 0.94,
+          "end": 1.12,
+          "word": "-up"
+        },
+        {
+          "start": 1.12,
+          "end": 1.3,
+          "word": " of"
+        },
+        {
+          "start": 1.3,
+          "end": 1.4,
+          "word": " a"
+        },
+        {
+          "start": 1.4,
+          "end": 1.74,
+          "word": " heritage"
+        },
+        {
+          "start": 1.74,
+          "end": 2.24,
+          "word": " centre"
+        },
+        {
+          "start": 2.24,
+          "end": 2.6,
+          "word": " and"
+        },
+        {
+          "start": 2.6,
+          "end": 2.74,
+          "word": " the"
+        },
+        {
+          "start": 2.74,
+          "end": 3.46,
+          "word": " rejuvenation"
+        },
+        {
+          "start": 3.46,
+          "end": 3.66,
+          "word": " of"
+        },
+        {
+          "start": 3.66,
+          "end": 3.78,
+          "word": " a"
+        },
+        {
+          "start": 3.78,
+          "end": 4.18,
+          "word": " cultural"
+        },
+        {
+          "start": 4.18,
+          "end": 4.64,
+          "word": " street"
+        }
+      ]
+    },
+    {
+      "start": 4.64,
+      "end": 10.3,
+      "text": " have seen some local businesses in Chinatown enjoy a boost in sales of up to 40%.",
+      "words": [
+        {
+          "start": 4.64,
+          "end": 5.2,
+          "word": " have"
+        },
+        {
+          "start": 5.2,
+          "end": 5.38,
+          "word": " seen"
+        },
+        {
+          "start": 5.38,
+          "end": 5.6,
+          "word": " some"
+        },
+        {
+          "start": 5.6,
+          "end": 5.96,
+          "word": " local"
+        },
+        {
+          "start": 5.96,
+          "end": 6.46,
+          "word": " businesses"
+        },
+        {
+          "start": 6.46,
+          "end": 6.72,
+          "word": " in"
+        },
+        {
+          "start": 6.72,
+          "end": 7.36,
+          "word": " Chinatown"
+        },
+        {
+          "start": 7.36,
+          "end": 7.68,
+          "word": " enjoy"
+        },
+        {
+          "start": 7.68,
+          "end": 7.94,
+          "word": " a"
+        },
+        {
+          "start": 7.94,
+          "end": 8.18,
+          "word": " boost"
+        },
+        {
+          "start": 8.18,
+          "end": 8.38,
+          "word": " in"
+        },
+        {
+          "start": 8.38,
+          "end": 8.82,
+          "word": " sales"
+        },
+        {
+          "start": 8.82,
+          "end": 9.28,
+          "word": " of"
+        },
+        {
+          "start": 9.28,
+          "end": 9.4,
+          "word": " up"
+        },
+        {
+          "start": 9.4,
+          "end": 9.56,
+          "word": " to"
+        },
+        {
+          "start": 9.56,
+          "end": 10.3,
+          "word": " 40%."
+        }
+      ]
+    },
+    {
+      "start": 10.3,
+      "end": 15.78,
+      "text": " But the shop owners say challenges remain over rising rental and a shortage of manpower.",
+      "words": [
+        {
+          "start": 10.3,
+          "end": 11.1,
+          "word": " But"
+        },
+        {
+          "start": 11.1,
+          "end": 11.2,
+          "word": " the"
+        },
+        {
+          "start": 11.2,
+          "end": 11.38,
+          "word": " shop"
+        },
+        {
+          "start": 11.38,
+          "end": 11.7,
+          "word": " owners"
+        },
+        {
+          "start": 11.7,
+          "end": 12.0,
+          "word": " say"
+        },
+        {
+          "start": 12.0,
+          "end": 12.54,
+          "word": " challenges"
+        },
+        {
+          "start": 12.54,
+          "end": 12.98,
+          "word": " remain"
+        },
+        {
+          "start": 12.98,
+          "end": 13.36,
+          "word": " over"
+        },
+        {
+          "start": 13.36,
+          "end": 13.76,
+          "word": " rising"
+        },
+        {
+          "start": 13.76,
+          "end": 14.18,
+          "word": " rental"
+        },
+        {
+          "start": 14.18,
+          "end": 14.72,
+          "word": " and"
+        },
+        {
+          "start": 14.72,
+          "end": 14.82,
+          "word": " a"
+        },
+        {
+          "start": 14.82,
+          "end": 15.16,
+          "word": " shortage"
+        },
+        {
+          "start": 15.16,
+          "end": 15.36,
+          "word": " of"
+        },
+        {
+          "start": 15.36,
+          "end": 15.78,
+          "word": " manpower."
+        }
+      ]
+    },
+    {
+      "start": 16.32,
+      "end": 17.58,
+      "text": " Nadine Yam finds out more.",
+      "words": [
+        {
+          "start": 16.32,
+          "end": 16.6,
+          "word": " Nadine"
+        },
+        {
+          "start": 16.6,
+          "end": 16.84,
+          "word": " Yam"
+        },
+        {
+          "start": 16.84,
+          "end": 17.14,
+          "word": " finds"
+        },
+        {
+          "start": 17.14,
+          "end": 17.26,
+          "word": " out"
+        },
+        {
+          "start": 17.26,
+          "end": 17.58,
+          "word": " more."
+        }
+      ]
+    },
+    {
+      "start": 19.81,
+      "end": 23.21,
+      "text": " Here on Smith Street, tradition meets modernity.",
+      "words": [
+        {
+          "start": 19.81,
+          "end": 20.33,
+          "word": " Here"
+        },
+        {
+          "start": 20.33,
+          "end": 20.49,
+          "word": " on"
+        },
+        {
+          "start": 20.49,
+          "end": 20.77,
+          "word": " Smith"
+        },
+        {
+          "start": 20.77,
+          "end": 21.15,
+          "word": " Street,"
+        },
+        {
+          "start": 21.59,
+          "end": 22.11,
+          "word": " tradition"
+        },
+        {
+          "start": 22.11,
+          "end": 22.59,
+          "word": " meets"
+        },
+        {
+          "start": 22.59,
+          "end": 23.21,
+          "word": " modernity."
+        }
+      ]
+    },
+    {
+      "start": 23.59,
+      "end": 27.71,
+      "text": " This conservation area in Singapore's Chinatown is having a facelift.",
+      "words": [
+        {
+          "start": 23.59,
+          "end": 24.13,
+          "word": " This"
+        },
+        {
+          "start": 24.13,
+          "end": 24.61,
+          "word": " conservation"
+        },
+        {
+          "start": 24.61,
+          "end": 25.07,
+          "word": " area"
+        },
+        {
+          "start": 25.07,
+          "end": 25.29,
+          "word": " in"
+        },
+        {
+          "start": 25.29,
+          "end": 25.83,
+          "word": " Singapore's"
+        },
+        {
+          "start": 25.83,
+          "end": 26.47,
+          "word": " Chinatown"
+        },
+        {
+          "start": 26.47,
+          "end": 26.67,
+          "word": " is"
+        },
+        {
+          "start": 26.67,
+          "end": 26.91,
+          "word": " having"
+        },
+        {
+          "start": 26.91,
+          "end": 27.09,
+          "word": " a"
+        },
+        {
+          "start": 27.09,
+          "end": 27.71,
+          "word": " facelift."
+        }
+      ]
+    },
+    {
+      "start": 27.71,
+      "end": 34.17,
+      "text": " Right at the heart of it is Elegant of Nanyang, a newly opened shop selling and renting kabayahs.",
+      "words": [
+        {
+          "start": 27.71,
+          "end": 28.67,
+          "word": " Right"
+        },
+        {
+          "start": 28.67,
+          "end": 28.83,
+          "word": " at"
+        },
+        {
+          "start": 28.83,
+          "end": 28.97,
+          "word": " the"
+        },
+        {
+          "start": 28.97,
+          "end": 29.17,
+          "word": " heart"
+        },
+        {
+          "start": 29.17,
+          "end": 29.35,
+          "word": " of"
+        },
+        {
+          "start": 29.35,
+          "end": 29.49,
+          "word": " it"
+        },
+        {
+          "start": 29.49,
+          "end": 29.87,
+          "word": " is"
+        },
+        {
+          "start": 29.87,
+          "end": 30.35,
+          "word": " Elegant"
+        },
+        {
+          "start": 30.35,
+          "end": 30.53,
+          "word": " of"
+        },
+        {
+          "start": 30.53,
+          "end": 30.99,
+          "word": " Nanyang,"
+        },
+        {
+          "start": 31.11,
+          "end": 31.55,
+          "word": " a"
+        },
+        {
+          "start": 31.55,
+          "end": 31.77,
+          "word": " newly"
+        },
+        {
+          "start": 31.77,
+          "end": 32.07,
+          "word": " opened"
+        },
+        {
+          "start": 32.07,
+          "end": 32.37,
+          "word": " shop"
+        },
+        {
+          "start": 32.37,
+          "end": 32.79,
+          "word": " selling"
+        },
+        {
+          "start": 32.79,
+          "end": 33.05,
+          "word": " and"
+        },
+        {
+          "start": 33.05,
+          "end": 33.39,
+          "word": " renting"
+        },
+        {
+          "start": 33.39,
+          "end": 34.17,
+          "word": " kabayahs."
+        }
+      ]
+    },
+    {
+      "start": 40.75,
+      "end": 45.55,
+      "text": " The owner wants to share the local heritage of Chinatown and the art of kabayahs to tourists.",
+      "words": [
+        {
+          "start": 40.75,
+          "end": 41.27,
+          "word": " The"
+        },
+        {
+          "start": 41.27,
+          "end": 41.47,
+          "word": " owner"
+        },
+        {
+          "start": 41.47,
+          "end": 41.77,
+          "word": " wants"
+        },
+        {
+          "start": 41.77,
+          "end": 41.91,
+          "word": " to"
+        },
+        {
+          "start": 41.91,
+          "end": 42.13,
+          "word": " share"
+        },
+        {
+          "start": 42.13,
+          "end": 42.31,
+          "word": " the"
+        },
+        {
+          "start": 42.31,
+          "end": 42.57,
+          "word": " local"
+        },
+        {
+          "start": 42.57,
+          "end": 42.97,
+          "word": " heritage"
+        },
+        {
+          "start": 42.97,
+          "end": 43.19,
+          "word": " of"
+        },
+        {
+          "start": 43.19,
+          "end": 43.77,
+          "word": " Chinatown"
+        },
+        {
+          "start": 43.77,
+          "end": 44.13,
+          "word": " and"
+        },
+        {
+          "start": 44.13,
+          "end": 44.27,
+          "word": " the"
+        },
+        {
+          "start": 44.27,
+          "end": 44.45,
+          "word": " art"
+        },
+        {
+          "start": 44.45,
+          "end": 44.57,
+          "word": " of"
+        },
+        {
+          "start": 44.57,
+          "end": 45.05,
+          "word": " kabayahs"
+        },
+        {
+          "start": 45.05,
+          "end": 45.17,
+          "word": " to"
+        },
+        {
+          "start": 45.17,
+          "end": 45.55,
+          "word": " tourists."
+        }
+      ]
+    },
+    {
+      "start": 45.75,
+      "end": 48.85,
+      "text": " But she faces several challenges to even keep her shop.",
+      "words": [
+        {
+          "start": 45.75,
+          "end": 46.25,
+          "word": " But"
+        },
+        {
+          "start": 46.25,
+          "end": 46.39,
+          "word": " she"
+        },
+        {
+          "start": 46.39,
+          "end": 46.71,
+          "word": " faces"
+        },
+        {
+          "start": 46.71,
+          "end": 47.09,
+          "word": " several"
+        },
+        {
+          "start": 47.09,
+          "end": 47.59,
+          "word": " challenges"
+        },
+        {
+          "start": 47.59,
+          "end": 47.91,
+          "word": " to"
+        },
+        {
+          "start": 47.91,
+          "end": 48.17,
+          "word": " even"
+        },
+        {
+          "start": 48.17,
+          "end": 48.43,
+          "word": " keep"
+        },
+        {
+          "start": 48.43,
+          "end": 48.61,
+          "word": " her"
+        },
+        {
+          "start": 48.61,
+          "end": 48.85,
+          "word": " shop."
+        }
+      ]
+    },
+    {
+      "start": 49.31,
+      "end": 51.59,
+      "text": " First of all is definitely the renter.",
+      "words": [
+        {
+          "start": 49.31,
+          "end": 49.77,
+          "word": " First"
+        },
+        {
+          "start": 49.77,
+          "end": 49.93,
+          "word": " of"
+        },
+        {
+          "start": 49.93,
+          "end": 50.19,
+          "word": " all"
+        },
+        {
+          "start": 50.19,
+          "end": 50.39,
+          "word": " is"
+        },
+        {
+          "start": 50.39,
+          "end": 50.85,
+          "word": " definitely"
+        },
+        {
+          "start": 50.85,
+          "end": 51.13,
+          "word": " the"
+        },
+        {
+          "start": 51.13,
+          "end": 51.59,
+          "word": " renter."
+        }
+      ]
+    },
+    {
+      "start": 51.59,
+      "end": 56.61,
+      "text": " Yeah, it's in this location definitely is not going to be low.",
+      "words": [
+        {
+          "start": 51.59,
+          "end": 52.15,
+          "word": " Yeah,"
+        },
+        {
+          "start": 52.61,
+          "end": 52.85,
+          "word": " it's"
+        },
+        {
+          "start": 52.85,
+          "end": 53.35,
+          "word": " in"
+        },
+        {
+          "start": 53.35,
+          "end": 53.57,
+          "word": " this"
+        },
+        {
+          "start": 53.57,
+          "end": 54.09,
+          "word": " location"
+        },
+        {
+          "start": 54.09,
+          "end": 54.59,
+          "word": " definitely"
+        },
+        {
+          "start": 54.59,
+          "end": 55.05,
+          "word": " is"
+        },
+        {
+          "start": 55.05,
+          "end": 55.47,
+          "word": " not"
+        },
+        {
+          "start": 55.47,
+          "end": 56.03,
+          "word": " going"
+        },
+        {
+          "start": 56.03,
+          "end": 56.19,
+          "word": " to"
+        },
+        {
+          "start": 56.19,
+          "end": 56.35,
+          "word": " be"
+        },
+        {
+          "start": 56.35,
+          "end": 56.61,
+          "word": " low."
+        }
+      ]
+    },
+    {
+      "start": 57.51,
+      "end": 63.97,
+      "text": " And subsequently is the I think for us is the manpower is a challenge.",
+      "words": [
+        {
+          "start": 57.51,
+          "end": 57.71,
+          "word": " And"
+        },
+        {
+          "start": 57.71,
+          "end": 58.93,
+          "word": " subsequently"
+        },
+        {
+          "start": 58.93,
+          "end": 59.63,
+          "word": " is"
+        },
+        {
+          "start": 59.63,
+          "end": 59.95,
+          "word": " the"
+        },
+        {
+          "start": 59.95,
+          "end": 60.61,
+          "word": " I"
+        },
+        {
+          "start": 60.61,
+          "end": 60.75,
+          "word": " think"
+        },
+        {
+          "start": 60.75,
+          "end": 60.93,
+          "word": " for"
+        },
+        {
+          "start": 60.93,
+          "end": 61.23,
+          "word": " us"
+        },
+        {
+          "start": 61.23,
+          "end": 61.49,
+          "word": " is"
+        },
+        {
+          "start": 61.49,
+          "end": 61.75,
+          "word": " the"
+        },
+        {
+          "start": 61.75,
+          "end": 62.37,
+          "word": " manpower"
+        },
+        {
+          "start": 62.37,
+          "end": 62.83,
+          "word": " is"
+        },
+        {
+          "start": 62.83,
+          "end": 63.51,
+          "word": " a"
+        },
+        {
+          "start": 63.51,
+          "end": 63.97,
+          "word": " challenge."
+        }
+      ]
+    },
+    {
+      "start": 63.97,
+      "end": 74.03,
+      "text": " As well as you need to keep up to have new products, attracting staffs to really attract tourism.",
+      "words": [
+        {
+          "start": 63.97,
+          "end": 65.29,
+          "word": " As"
+        },
+        {
+          "start": 65.29,
+          "end": 65.71,
+          "word": " well"
+        },
+        {
+          "start": 65.71,
+          "end": 65.99,
+          "word": " as"
+        },
+        {
+          "start": 65.99,
+          "end": 66.11,
+          "word": " you"
+        },
+        {
+          "start": 66.11,
+          "end": 66.25,
+          "word": " need"
+        },
+        {
+          "start": 66.25,
+          "end": 66.37,
+          "word": " to"
+        },
+        {
+          "start": 66.37,
+          "end": 66.57,
+          "word": " keep"
+        },
+        {
+          "start": 66.57,
+          "end": 66.93,
+          "word": " up"
+        },
+        {
+          "start": 66.93,
+          "end": 67.25,
+          "word": " to"
+        },
+        {
+          "start": 67.25,
+          "end": 67.63,
+          "word": " have"
+        },
+        {
+          "start": 67.63,
+          "end": 68.71,
+          "word": " new"
+        },
+        {
+          "start": 68.71,
+          "end": 69.37,
+          "word": " products,"
+        },
+        {
+          "start": 69.93,
+          "end": 70.87,
+          "word": " attracting"
+        },
+        {
+          "start": 70.87,
+          "end": 71.69,
+          "word": " staffs"
+        },
+        {
+          "start": 71.69,
+          "end": 72.03,
+          "word": " to"
+        },
+        {
+          "start": 72.03,
+          "end": 72.85,
+          "word": " really"
+        },
+        {
+          "start": 72.85,
+          "end": 73.37,
+          "word": " attract"
+        },
+        {
+          "start": 73.37,
+          "end": 74.03,
+          "word": " tourism."
+        }
+      ]
+    },
+    {
+      "start": 74.53,
+      "end": 79.83,
+      "text": " To help heritage business owners like her and retain a cultural flavour in that area,",
+      "words": [
+        {
+          "start": 74.53,
+          "end": 75.21,
+          "word": " To"
+        },
+        {
+          "start": 75.21,
+          "end": 75.43,
+          "word": " help"
+        },
+        {
+          "start": 75.43,
+          "end": 75.75,
+          "word": " heritage"
+        },
+        {
+          "start": 75.75,
+          "end": 76.19,
+          "word": " business"
+        },
+        {
+          "start": 76.19,
+          "end": 76.65,
+          "word": " owners"
+        },
+        {
+          "start": 76.65,
+          "end": 76.93,
+          "word": " like"
+        },
+        {
+          "start": 76.93,
+          "end": 77.21,
+          "word": " her"
+        },
+        {
+          "start": 77.21,
+          "end": 77.83,
+          "word": " and"
+        },
+        {
+          "start": 77.83,
+          "end": 78.15,
+          "word": " retain"
+        },
+        {
+          "start": 78.15,
+          "end": 78.35,
+          "word": " a"
+        },
+        {
+          "start": 78.35,
+          "end": 78.69,
+          "word": " cultural"
+        },
+        {
+          "start": 78.69,
+          "end": 79.05,
+          "word": " flavour"
+        },
+        {
+          "start": 79.05,
+          "end": 79.25,
+          "word": " in"
+        },
+        {
+          "start": 79.25,
+          "end": 79.45,
+          "word": " that"
+        },
+        {
+          "start": 79.45,
+          "end": 79.83,
+          "word": " area,"
+        }
+      ]
+    },
+    {
+      "start": 80.35,
+      "end": 85.21,
+      "text": " the Chinatown Heritage Centre has in place a series of initiatives to drive tourists there.",
+      "words": [
+        {
+          "start": 80.35,
+          "end": 80.41,
+          "word": " the"
+        },
+        {
+          "start": 80.41,
+          "end": 80.93,
+          "word": " Chinatown"
+        },
+        {
+          "start": 80.93,
+          "end": 81.17,
+          "word": " Heritage"
+        },
+        {
+          "start": 81.17,
+          "end": 81.69,
+          "word": " Centre"
+        },
+        {
+          "start": 81.69,
+          "end": 82.01,
+          "word": " has"
+        },
+        {
+          "start": 82.01,
+          "end": 82.15,
+          "word": " in"
+        },
+        {
+          "start": 82.15,
+          "end": 82.39,
+          "word": " place"
+        },
+        {
+          "start": 82.39,
+          "end": 82.61,
+          "word": " a"
+        },
+        {
+          "start": 82.61,
+          "end": 83.01,
+          "word": " series"
+        },
+        {
+          "start": 83.01,
+          "end": 83.27,
+          "word": " of"
+        },
+        {
+          "start": 83.27,
+          "end": 83.75,
+          "word": " initiatives"
+        },
+        {
+          "start": 83.75,
+          "end": 84.21,
+          "word": " to"
+        },
+        {
+          "start": 84.21,
+          "end": 84.51,
+          "word": " drive"
+        },
+        {
+          "start": 84.51,
+          "end": 84.91,
+          "word": " tourists"
+        },
+        {
+          "start": 84.91,
+          "end": 85.21,
+          "word": " there."
+        }
+      ]
+    },
+    {
+      "start": 85.21,
+      "end": 90.17,
+      "text": " For many of these smaller brands, they may not have the resources or focus as much.",
+      "words": [
+        {
+          "start": 85.21,
+          "end": 86.01,
+          "word": " For"
+        },
+        {
+          "start": 86.01,
+          "end": 86.21,
+          "word": " many"
+        },
+        {
+          "start": 86.21,
+          "end": 86.33,
+          "word": " of"
+        },
+        {
+          "start": 86.33,
+          "end": 86.57,
+          "word": " these"
+        },
+        {
+          "start": 86.57,
+          "end": 87.23,
+          "word": " smaller"
+        },
+        {
+          "start": 87.23,
+          "end": 87.49,
+          "word": " brands,"
+        },
+        {
+          "start": 87.63,
+          "end": 87.69,
+          "word": " they"
+        },
+        {
+          "start": 87.69,
+          "end": 87.83,
+          "word": " may"
+        },
+        {
+          "start": 87.83,
+          "end": 87.99,
+          "word": " not"
+        },
+        {
+          "start": 87.99,
+          "end": 88.23,
+          "word": " have"
+        },
+        {
+          "start": 88.23,
+          "end": 88.65,
+          "word": " the"
+        },
+        {
+          "start": 88.65,
+          "end": 89.07,
+          "word": " resources"
+        },
+        {
+          "start": 89.07,
+          "end": 89.31,
+          "word": " or"
+        },
+        {
+          "start": 89.31,
+          "end": 89.59,
+          "word": " focus"
+        },
+        {
+          "start": 89.59,
+          "end": 89.83,
+          "word": " as"
+        },
+        {
+          "start": 89.83,
+          "end": 90.17,
+          "word": " much."
+        }
+      ]
+    },
+    {
+      "start": 90.29,
+      "end": 95.13,
+      "text": " So we hope to do that with our promotional campaigns with some of these brands and shops",
+      "words": [
+        {
+          "start": 90.29,
+          "end": 90.59,
+          "word": " So"
+        },
+        {
+          "start": 90.59,
+          "end": 90.71,
+          "word": " we"
+        },
+        {
+          "start": 90.71,
+          "end": 90.87,
+          "word": " hope"
+        },
+        {
+          "start": 90.87,
+          "end": 90.99,
+          "word": " to"
+        },
+        {
+          "start": 90.99,
+          "end": 91.11,
+          "word": " do"
+        },
+        {
+          "start": 91.11,
+          "end": 91.29,
+          "word": " that"
+        },
+        {
+          "start": 91.29,
+          "end": 91.53,
+          "word": " with"
+        },
+        {
+          "start": 91.53,
+          "end": 91.77,
+          "word": " our"
+        },
+        {
+          "start": 91.77,
+          "end": 92.35,
+          "word": " promotional"
+        },
+        {
+          "start": 92.35,
+          "end": 92.93,
+          "word": " campaigns"
+        },
+        {
+          "start": 92.93,
+          "end": 93.55,
+          "word": " with"
+        },
+        {
+          "start": 93.55,
+          "end": 93.81,
+          "word": " some"
+        },
+        {
+          "start": 93.81,
+          "end": 93.95,
+          "word": " of"
+        },
+        {
+          "start": 93.95,
+          "end": 94.17,
+          "word": " these"
+        },
+        {
+          "start": 94.17,
+          "end": 94.53,
+          "word": " brands"
+        },
+        {
+          "start": 94.53,
+          "end": 94.77,
+          "word": " and"
+        },
+        {
+          "start": 94.77,
+          "end": 95.13,
+          "word": " shops"
+        }
+      ]
+    },
+    {
+      "start": 95.13,
+      "end": 98.07,
+      "text": " where visitors to our centre with a CHC ticket,",
+      "words": [
+        {
+          "start": 95.13,
+          "end": 95.69,
+          "word": " where"
+        },
+        {
+          "start": 95.69,
+          "end": 96.19,
+          "word": " visitors"
+        },
+        {
+          "start": 96.19,
+          "end": 96.45,
+          "word": " to"
+        },
+        {
+          "start": 96.45,
+          "end": 96.63,
+          "word": " our"
+        },
+        {
+          "start": 96.63,
+          "end": 96.89,
+          "word": " centre"
+        },
+        {
+          "start": 96.89,
+          "end": 97.13,
+          "word": " with"
+        },
+        {
+          "start": 97.13,
+          "end": 97.31,
+          "word": " a"
+        },
+        {
+          "start": 97.31,
+          "end": 97.77,
+          "word": " CHC"
+        },
+        {
+          "start": 97.77,
+          "end": 98.07,
+          "word": " ticket,"
+        }
+      ]
+    },
+    {
+      "start": 98.07,
+      "end": 104.51,
+      "text": " they can enjoy discounts and get subsidised products when they visit these shops as well.",
+      "words": [
+        {
+          "start": 98.07,
+          "end": 98.45,
+          "word": " they"
+        },
+        {
+          "start": 98.45,
+          "end": 98.61,
+          "word": " can"
+        },
+        {
+          "start": 98.61,
+          "end": 98.93,
+          "word": " enjoy"
+        },
+        {
+          "start": 98.93,
+          "end": 99.55,
+          "word": " discounts"
+        },
+        {
+          "start": 99.55,
+          "end": 99.99,
+          "word": " and"
+        },
+        {
+          "start": 99.99,
+          "end": 100.69,
+          "word": " get"
+        },
+        {
+          "start": 100.69,
+          "end": 101.87,
+          "word": " subsidised"
+        },
+        {
+          "start": 101.87,
+          "end": 102.51,
+          "word": " products"
+        },
+        {
+          "start": 102.51,
+          "end": 103.05,
+          "word": " when"
+        },
+        {
+          "start": 103.05,
+          "end": 103.19,
+          "word": " they"
+        },
+        {
+          "start": 103.19,
+          "end": 103.47,
+          "word": " visit"
+        },
+        {
+          "start": 103.47,
+          "end": 103.87,
+          "word": " these"
+        },
+        {
+          "start": 103.87,
+          "end": 104.15,
+          "word": " shops"
+        },
+        {
+          "start": 104.15,
+          "end": 104.33,
+          "word": " as"
+        },
+        {
+          "start": 104.33,
+          "end": 104.51,
+          "word": " well."
+        }
+      ]
+    },
+    {
+      "start": 105.05,
+      "end": 109.55,
+      "text": " Another shop, Kilini at Smith Street, is already reaping the fruits of the collaboration.",
+      "words": [
+        {
+          "start": 105.05,
+          "end": 105.47,
+          "word": " Another"
+        },
+        {
+          "start": 105.47,
+          "end": 105.77,
+          "word": " shop,"
+        },
+        {
+          "start": 105.97,
+          "end": 106.33,
+          "word": " Kilini"
+        },
+        {
+          "start": 106.33,
+          "end": 106.55,
+          "word": " at"
+        },
+        {
+          "start": 106.55,
+          "end": 106.79,
+          "word": " Smith"
+        },
+        {
+          "start": 106.79,
+          "end": 107.07,
+          "word": " Street,"
+        },
+        {
+          "start": 107.25,
+          "end": 107.59,
+          "word": " is"
+        },
+        {
+          "start": 107.59,
+          "end": 108.03,
+          "word": " already"
+        },
+        {
+          "start": 108.03,
+          "end": 108.43,
+          "word": " reaping"
+        },
+        {
+          "start": 108.43,
+          "end": 108.57,
+          "word": " the"
+        },
+        {
+          "start": 108.57,
+          "end": 108.81,
+          "word": " fruits"
+        },
+        {
+          "start": 108.81,
+          "end": 108.93,
+          "word": " of"
+        },
+        {
+          "start": 108.93,
+          "end": 109.05,
+          "word": " the"
+        },
+        {
+          "start": 109.05,
+          "end": 109.55,
+          "word": " collaboration."
+        }
+      ]
+    },
+    {
+      "start": 109.55,
+      "end": 115.65,
+      "text": " Since its opening in March, the traditional coffee shop has seen a 40% rise in sales.",
+      "words": [
+        {
+          "start": 109.55,
+          "end": 110.59,
+          "word": " Since"
+        },
+        {
+          "start": 110.59,
+          "end": 110.77,
+          "word": " its"
+        },
+        {
+          "start": 110.77,
+          "end": 111.13,
+          "word": " opening"
+        },
+        {
+          "start": 111.13,
+          "end": 111.37,
+          "word": " in"
+        },
+        {
+          "start": 111.37,
+          "end": 111.63,
+          "word": " March,"
+        },
+        {
+          "start": 112.15,
+          "end": 112.21,
+          "word": " the"
+        },
+        {
+          "start": 112.21,
+          "end": 112.59,
+          "word": " traditional"
+        },
+        {
+          "start": 112.59,
+          "end": 112.97,
+          "word": " coffee"
+        },
+        {
+          "start": 112.97,
+          "end": 113.25,
+          "word": " shop"
+        },
+        {
+          "start": 113.25,
+          "end": 113.47,
+          "word": " has"
+        },
+        {
+          "start": 113.47,
+          "end": 113.71,
+          "word": " seen"
+        },
+        {
+          "start": 113.71,
+          "end": 113.89,
+          "word": " a"
+        },
+        {
+          "start": 113.89,
+          "end": 114.27,
+          "word": " 40"
+        },
+        {
+          "start": 114.27,
+          "end": 114.55,
+          "word": "%"
+        },
+        {
+          "start": 114.55,
+          "end": 115.05,
+          "word": " rise"
+        },
+        {
+          "start": 115.05,
+          "end": 115.25,
+          "word": " in"
+        },
+        {
+          "start": 115.25,
+          "end": 115.65,
+          "word": " sales."
+        }
+      ]
+    },
+    {
+      "start": 116.13,
+      "end": 122.95,
+      "text": " There's a good improvement because of the awareness, because of the reaching out to more people.",
+      "words": [
+        {
+          "start": 116.13,
+          "end": 116.69,
+          "word": " There's"
+        },
+        {
+          "start": 116.69,
+          "end": 116.85,
+          "word": " a"
+        },
+        {
+          "start": 116.85,
+          "end": 117.27,
+          "word": " good"
+        },
+        {
+          "start": 117.27,
+          "end": 117.77,
+          "word": " improvement"
+        },
+        {
+          "start": 117.77,
+          "end": 118.43,
+          "word": " because"
+        },
+        {
+          "start": 118.43,
+          "end": 118.65,
+          "word": " of"
+        },
+        {
+          "start": 118.65,
+          "end": 119.21,
+          "word": " the"
+        },
+        {
+          "start": 119.21,
+          "end": 119.65,
+          "word": " awareness,"
+        },
+        {
+          "start": 120.21,
+          "end": 120.37,
+          "word": " because"
+        },
+        {
+          "start": 120.37,
+          "end": 120.59,
+          "word": " of"
+        },
+        {
+          "start": 120.59,
+          "end": 120.77,
+          "word": " the"
+        },
+        {
+          "start": 120.77,
+          "end": 121.83,
+          "word": " reaching"
+        },
+        {
+          "start": 121.83,
+          "end": 122.09,
+          "word": " out"
+        },
+        {
+          "start": 122.09,
+          "end": 122.29,
+          "word": " to"
+        },
+        {
+          "start": 122.29,
+          "end": 122.63,
+          "word": " more"
+        },
+        {
+          "start": 122.63,
+          "end": 122.95,
+          "word": " people."
+        }
+      ]
+    },
+    {
+      "start": 123.31,
+      "end": 129.17,
+      "text": " So by participating in their programmes, we get the community and the tourists to know that we are actually here.",
+      "words": [
+        {
+          "start": 123.31,
+          "end": 123.39,
+          "word": " So"
+        },
+        {
+          "start": 123.39,
+          "end": 123.67,
+          "word": " by"
+        },
+        {
+          "start": 123.67,
+          "end": 124.17,
+          "word": " participating"
+        },
+        {
+          "start": 124.17,
+          "end": 124.43,
+          "word": " in"
+        },
+        {
+          "start": 124.43,
+          "end": 124.55,
+          "word": " their"
+        },
+        {
+          "start": 124.55,
+          "end": 124.93,
+          "word": " programmes,"
+        },
+        {
+          "start": 125.19,
+          "end": 125.47,
+          "word": " we"
+        },
+        {
+          "start": 125.47,
+          "end": 125.63,
+          "word": " get"
+        },
+        {
+          "start": 125.63,
+          "end": 126.45,
+          "word": " the"
+        },
+        {
+          "start": 126.45,
+          "end": 126.91,
+          "word": " community"
+        },
+        {
+          "start": 126.91,
+          "end": 127.15,
+          "word": " and"
+        },
+        {
+          "start": 127.15,
+          "end": 127.25,
+          "word": " the"
+        },
+        {
+          "start": 127.25,
+          "end": 127.61,
+          "word": " tourists"
+        },
+        {
+          "start": 127.61,
+          "end": 128.07,
+          "word": " to"
+        },
+        {
+          "start": 128.07,
+          "end": 128.29,
+          "word": " know"
+        },
+        {
+          "start": 128.29,
+          "end": 128.45,
+          "word": " that"
+        },
+        {
+          "start": 128.45,
+          "end": 128.57,
+          "word": " we"
+        },
+        {
+          "start": 128.57,
+          "end": 128.67,
+          "word": " are"
+        },
+        {
+          "start": 128.67,
+          "end": 128.93,
+          "word": " actually"
+        },
+        {
+          "start": 128.93,
+          "end": 129.17,
+          "word": " here."
+        }
+      ]
+    },
+    {
+      "start": 129.71,
+      "end": 133.73,
+      "text": " Both business owners are also working closely with the Chinatown Business Association",
+      "words": [
+        {
+          "start": 129.71,
+          "end": 130.27,
+          "word": " Both"
+        },
+        {
+          "start": 130.27,
+          "end": 130.63,
+          "word": " business"
+        },
+        {
+          "start": 130.63,
+          "end": 130.99,
+          "word": " owners"
+        },
+        {
+          "start": 130.99,
+          "end": 131.21,
+          "word": " are"
+        },
+        {
+          "start": 131.21,
+          "end": 131.49,
+          "word": " also"
+        },
+        {
+          "start": 131.49,
+          "end": 131.83,
+          "word": " working"
+        },
+        {
+          "start": 131.83,
+          "end": 132.33,
+          "word": " closely"
+        },
+        {
+          "start": 132.33,
+          "end": 132.61,
+          "word": " with"
+        },
+        {
+          "start": 132.61,
+          "end": 132.73,
+          "word": " the"
+        },
+        {
+          "start": 132.73,
+          "end": 133.21,
+          "word": " Chinatown"
+        },
+        {
+          "start": 133.21,
+          "end": 133.45,
+          "word": " Business"
+        },
+        {
+          "start": 133.45,
+          "end": 133.73,
+          "word": " Association"
+        }
+      ]
+    },
+    {
+      "start": 134.35,
+      "end": 137.13,
+      "text": " and urge other heritage shops to do the same.",
+      "words": [
+        {
+          "start": 134.35,
+          "end": 134.91,
+          "word": " and"
+        },
+        {
+          "start": 134.91,
+          "end": 135.25,
+          "word": " urge"
+        },
+        {
+          "start": 135.25,
+          "end": 135.61,
+          "word": " other"
+        },
+        {
+          "start": 135.61,
+          "end": 136.05,
+          "word": " heritage"
+        },
+        {
+          "start": 136.05,
+          "end": 136.43,
+          "word": " shops"
+        },
+        {
+          "start": 136.43,
+          "end": 136.63,
+          "word": " to"
+        },
+        {
+          "start": 136.63,
+          "end": 136.77,
+          "word": " do"
+        },
+        {
+          "start": 136.77,
+          "end": 136.91,
+          "word": " the"
+        },
+        {
+          "start": 136.91,
+          "end": 137.13,
+          "word": " same."
+        }
+      ]
+    },
+    {
+      "start": 137.13,
+      "end": 147.83,
+      "text": " They organised some workshops with us to basically let us have a better understanding of the current status of Chinatown,",
+      "words": [
+        {
+          "start": 137.13,
+          "end": 138.17,
+          "word": " They"
+        },
+        {
+          "start": 138.17,
+          "end": 139.33,
+          "word": " organised"
+        },
+        {
+          "start": 139.33,
+          "end": 139.57,
+          "word": " some"
+        },
+        {
+          "start": 139.57,
+          "end": 140.15,
+          "word": " workshops"
+        },
+        {
+          "start": 140.15,
+          "end": 140.65,
+          "word": " with"
+        },
+        {
+          "start": 140.65,
+          "end": 141.07,
+          "word": " us"
+        },
+        {
+          "start": 141.07,
+          "end": 142.09,
+          "word": " to"
+        },
+        {
+          "start": 142.09,
+          "end": 142.63,
+          "word": " basically"
+        },
+        {
+          "start": 142.63,
+          "end": 143.11,
+          "word": " let"
+        },
+        {
+          "start": 143.11,
+          "end": 143.43,
+          "word": " us"
+        },
+        {
+          "start": 143.43,
+          "end": 143.77,
+          "word": " have"
+        },
+        {
+          "start": 143.77,
+          "end": 144.13,
+          "word": " a"
+        },
+        {
+          "start": 144.13,
+          "end": 144.69,
+          "word": " better"
+        },
+        {
+          "start": 144.69,
+          "end": 145.23,
+          "word": " understanding"
+        },
+        {
+          "start": 145.23,
+          "end": 145.61,
+          "word": " of"
+        },
+        {
+          "start": 145.61,
+          "end": 145.81,
+          "word": " the"
+        },
+        {
+          "start": 145.81,
+          "end": 146.23,
+          "word": " current"
+        },
+        {
+          "start": 146.23,
+          "end": 146.79,
+          "word": " status"
+        },
+        {
+          "start": 146.79,
+          "end": 147.21,
+          "word": " of"
+        },
+        {
+          "start": 147.21,
+          "end": 147.83,
+          "word": " Chinatown,"
+        }
+      ]
+    },
+    {
+      "start": 148.05,
+      "end": 152.29,
+      "text": " as well as to give us some trainings on the social media programmes,",
+      "words": [
+        {
+          "start": 148.05,
+          "end": 148.11,
+          "word": " as"
+        },
+        {
+          "start": 148.11,
+          "end": 148.31,
+          "word": " well"
+        },
+        {
+          "start": 148.31,
+          "end": 148.71,
+          "word": " as"
+        },
+        {
+          "start": 148.71,
+          "end": 149.79,
+          "word": " to"
+        },
+        {
+          "start": 149.79,
+          "end": 149.99,
+          "word": " give"
+        },
+        {
+          "start": 149.99,
+          "end": 150.21,
+          "word": " us"
+        },
+        {
+          "start": 150.21,
+          "end": 150.39,
+          "word": " some"
+        },
+        {
+          "start": 150.39,
+          "end": 150.79,
+          "word": " trainings"
+        },
+        {
+          "start": 150.79,
+          "end": 151.07,
+          "word": " on"
+        },
+        {
+          "start": 151.07,
+          "end": 151.19,
+          "word": " the"
+        },
+        {
+          "start": 151.19,
+          "end": 151.51,
+          "word": " social"
+        },
+        {
+          "start": 151.51,
+          "end": 151.93,
+          "word": " media"
+        },
+        {
+          "start": 151.93,
+          "end": 152.29,
+          "word": " programmes,"
+        }
+      ]
+    },
+    {
+      "start": 153.09,
+      "end": 161.35,
+      "text": " so that we are not doing only in the retail shops, but we can also do something online to really make Smith Street popular.",
+      "words": [
+        {
+          "start": 153.09,
+          "end": 153.45,
+          "word": " so"
+        },
+        {
+          "start": 153.45,
+          "end": 153.69,
+          "word": " that"
+        },
+        {
+          "start": 153.69,
+          "end": 154.51,
+          "word": " we"
+        },
+        {
+          "start": 154.51,
+          "end": 154.61,
+          "word": " are"
+        },
+        {
+          "start": 154.61,
+          "end": 154.73,
+          "word": " not"
+        },
+        {
+          "start": 154.73,
+          "end": 154.99,
+          "word": " doing"
+        },
+        {
+          "start": 154.99,
+          "end": 155.37,
+          "word": " only"
+        },
+        {
+          "start": 155.37,
+          "end": 155.81,
+          "word": " in"
+        },
+        {
+          "start": 155.81,
+          "end": 155.89,
+          "word": " the"
+        },
+        {
+          "start": 155.89,
+          "end": 156.15,
+          "word": " retail"
+        },
+        {
+          "start": 156.15,
+          "end": 156.51,
+          "word": " shops,"
+        },
+        {
+          "start": 156.65,
+          "end": 156.75,
+          "word": " but"
+        },
+        {
+          "start": 156.75,
+          "end": 156.89,
+          "word": " we"
+        },
+        {
+          "start": 156.89,
+          "end": 157.03,
+          "word": " can"
+        },
+        {
+          "start": 157.03,
+          "end": 157.25,
+          "word": " also"
+        },
+        {
+          "start": 157.25,
+          "end": 157.47,
+          "word": " do"
+        },
+        {
+          "start": 157.47,
+          "end": 157.83,
+          "word": " something"
+        },
+        {
+          "start": 157.83,
+          "end": 158.37,
+          "word": " online"
+        },
+        {
+          "start": 158.37,
+          "end": 159.11,
+          "word": " to"
+        },
+        {
+          "start": 159.11,
+          "end": 159.65,
+          "word": " really"
+        },
+        {
+          "start": 159.65,
+          "end": 160.21,
+          "word": " make"
+        },
+        {
+          "start": 160.21,
+          "end": 160.49,
+          "word": " Smith"
+        },
+        {
+          "start": 160.49,
+          "end": 160.77,
+          "word": " Street"
+        },
+        {
+          "start": 160.77,
+          "end": 161.35,
+          "word": " popular."
+        }
+      ]
+    },
+    {
+      "start": 161.35,
+      "end": 166.41,
+      "text": " We even participated in the Chinatown Five Foot Way Festival recently,",
+      "words": [
+        {
+          "start": 161.35,
+          "end": 162.15,
+          "word": " We"
+        },
+        {
+          "start": 162.15,
+          "end": 162.49,
+          "word": " even"
+        },
+        {
+          "start": 162.49,
+          "end": 163.19,
+          "word": " participated"
+        },
+        {
+          "start": 163.19,
+          "end": 163.51,
+          "word": " in"
+        },
+        {
+          "start": 163.51,
+          "end": 163.87,
+          "word": " the"
+        },
+        {
+          "start": 163.87,
+          "end": 164.81,
+          "word": " Chinatown"
+        },
+        {
+          "start": 164.81,
+          "end": 165.01,
+          "word": " Five"
+        },
+        {
+          "start": 165.01,
+          "end": 165.23,
+          "word": " Foot"
+        },
+        {
+          "start": 165.23,
+          "end": 165.47,
+          "word": " Way"
+        },
+        {
+          "start": 165.47,
+          "end": 165.89,
+          "word": " Festival"
+        },
+        {
+          "start": 165.89,
+          "end": 166.41,
+          "word": " recently,"
+        }
+      ]
+    },
+    {
+      "start": 166.65,
+      "end": 172.71,
+      "text": " and we showcased our local coffee, our famous Kaya Toast, our freshly brewed coffee,",
+      "words": [
+        {
+          "start": 166.65,
+          "end": 167.17,
+          "word": " and"
+        },
+        {
+          "start": 167.17,
+          "end": 167.45,
+          "word": " we"
+        },
+        {
+          "start": 167.45,
+          "end": 168.07,
+          "word": " showcased"
+        },
+        {
+          "start": 168.07,
+          "end": 168.27,
+          "word": " our"
+        },
+        {
+          "start": 168.27,
+          "end": 168.71,
+          "word": " local"
+        },
+        {
+          "start": 168.71,
+          "end": 169.13,
+          "word": " coffee,"
+        },
+        {
+          "start": 169.35,
+          "end": 169.57,
+          "word": " our"
+        },
+        {
+          "start": 169.57,
+          "end": 170.19,
+          "word": " famous"
+        },
+        {
+          "start": 170.19,
+          "end": 170.49,
+          "word": " Kaya"
+        },
+        {
+          "start": 170.49,
+          "end": 170.81,
+          "word": " Toast,"
+        },
+        {
+          "start": 171.09,
+          "end": 171.49,
+          "word": " our"
+        },
+        {
+          "start": 171.49,
+          "end": 172.23,
+          "word": " freshly"
+        },
+        {
+          "start": 172.23,
+          "end": 172.43,
+          "word": " brewed"
+        },
+        {
+          "start": 172.43,
+          "end": 172.71,
+          "word": " coffee,"
+        }
+      ]
+    },
+    {
+      "start": 173.13,
+      "end": 175.49,
+      "text": " to the possibilities, to tourists, to Singaporeans alike.",
+      "words": [
+        {
+          "start": 173.13,
+          "end": 173.17,
+          "word": " to"
+        },
+        {
+          "start": 173.17,
+          "end": 173.33,
+          "word": " the"
+        },
+        {
+          "start": 173.33,
+          "end": 174.03,
+          "word": " possibilities,"
+        },
+        {
+          "start": 174.25,
+          "end": 174.27,
+          "word": " to"
+        },
+        {
+          "start": 174.27,
+          "end": 174.59,
+          "word": " tourists,"
+        },
+        {
+          "start": 174.75,
+          "end": 174.79,
+          "word": " to"
+        },
+        {
+          "start": 174.79,
+          "end": 175.27,
+          "word": " Singaporeans"
+        },
+        {
+          "start": 175.27,
+          "end": 175.49,
+          "word": " alike."
+        }
+      ]
+    },
+    {
+      "start": 175.83,
+      "end": 179.21,
+      "text": " So I guess this kind of initiative is a very coordinated effort",
+      "words": [
+        {
+          "start": 175.83,
+          "end": 175.99,
+          "word": " So"
+        },
+        {
+          "start": 175.99,
+          "end": 176.07,
+          "word": " I"
+        },
+        {
+          "start": 176.07,
+          "end": 176.25,
+          "word": " guess"
+        },
+        {
+          "start": 176.25,
+          "end": 176.45,
+          "word": " this"
+        },
+        {
+          "start": 176.45,
+          "end": 176.63,
+          "word": " kind"
+        },
+        {
+          "start": 176.63,
+          "end": 176.69,
+          "word": " of"
+        },
+        {
+          "start": 176.69,
+          "end": 177.15,
+          "word": " initiative"
+        },
+        {
+          "start": 177.15,
+          "end": 177.95,
+          "word": " is"
+        },
+        {
+          "start": 177.95,
+          "end": 178.05,
+          "word": " a"
+        },
+        {
+          "start": 178.05,
+          "end": 178.23,
+          "word": " very"
+        },
+        {
+          "start": 178.23,
+          "end": 178.73,
+          "word": " coordinated"
+        },
+        {
+          "start": 178.73,
+          "end": 179.21,
+          "word": " effort"
+        }
+      ]
+    },
+    {
+      "start": 179.21,
+      "end": 182.09,
+      "text": " where ourselves and other fellow Singaporean brands,",
+      "words": [
+        {
+          "start": 179.21,
+          "end": 179.53,
+          "word": " where"
+        },
+        {
+          "start": 179.53,
+          "end": 180.41,
+          "word": " ourselves"
+        },
+        {
+          "start": 180.41,
+          "end": 180.61,
+          "word": " and"
+        },
+        {
+          "start": 180.61,
+          "end": 180.81,
+          "word": " other"
+        },
+        {
+          "start": 180.81,
+          "end": 181.13,
+          "word": " fellow"
+        },
+        {
+          "start": 181.13,
+          "end": 181.77,
+          "word": " Singaporean"
+        },
+        {
+          "start": 181.77,
+          "end": 182.09,
+          "word": " brands,"
+        }
+      ]
+    },
+    {
+      "start": 182.17,
+      "end": 188.05,
+      "text": " we have a platform to have synergy and to showcase as a whole.",
+      "words": [
+        {
+          "start": 182.17,
+          "end": 182.59,
+          "word": " we"
+        },
+        {
+          "start": 182.59,
+          "end": 182.73,
+          "word": " have"
+        },
+        {
+          "start": 182.73,
+          "end": 182.97,
+          "word": " a"
+        },
+        {
+          "start": 182.97,
+          "end": 183.53,
+          "word": " platform"
+        },
+        {
+          "start": 183.53,
+          "end": 184.17,
+          "word": " to"
+        },
+        {
+          "start": 184.17,
+          "end": 184.95,
+          "word": " have"
+        },
+        {
+          "start": 184.95,
+          "end": 185.37,
+          "word": " synergy"
+        },
+        {
+          "start": 185.37,
+          "end": 185.71,
+          "word": " and"
+        },
+        {
+          "start": 185.71,
+          "end": 186.25,
+          "word": " to"
+        },
+        {
+          "start": 186.25,
+          "end": 187.23,
+          "word": " showcase"
+        },
+        {
+          "start": 187.23,
+          "end": 187.77,
+          "word": " as"
+        },
+        {
+          "start": 187.77,
+          "end": 187.85,
+          "word": " a"
+        },
+        {
+          "start": 187.85,
+          "end": 188.05,
+          "word": " whole."
+        }
+      ]
+    },
+    {
+      "start": 188.05,
+      "end": 194.05,
+      "text": " The association adds that its goal is for Smith Street to be the cultural heart of Chinatown,",
+      "words": [
+        {
+          "start": 188.05,
+          "end": 189.03,
+          "word": " The"
+        },
+        {
+          "start": 189.03,
+          "end": 189.49,
+          "word": " association"
+        },
+        {
+          "start": 189.49,
+          "end": 190.13,
+          "word": " adds"
+        },
+        {
+          "start": 190.13,
+          "end": 190.35,
+          "word": " that"
+        },
+        {
+          "start": 190.35,
+          "end": 190.53,
+          "word": " its"
+        },
+        {
+          "start": 190.53,
+          "end": 190.91,
+          "word": " goal"
+        },
+        {
+          "start": 190.91,
+          "end": 191.19,
+          "word": " is"
+        },
+        {
+          "start": 191.19,
+          "end": 191.33,
+          "word": " for"
+        },
+        {
+          "start": 191.33,
+          "end": 191.55,
+          "word": " Smith"
+        },
+        {
+          "start": 191.55,
+          "end": 191.83,
+          "word": " Street"
+        },
+        {
+          "start": 191.83,
+          "end": 192.03,
+          "word": " to"
+        },
+        {
+          "start": 192.03,
+          "end": 192.17,
+          "word": " be"
+        },
+        {
+          "start": 192.17,
+          "end": 192.35,
+          "word": " the"
+        },
+        {
+          "start": 192.35,
+          "end": 192.77,
+          "word": " cultural"
+        },
+        {
+          "start": 192.77,
+          "end": 193.17,
+          "word": " heart"
+        },
+        {
+          "start": 193.17,
+          "end": 193.47,
+          "word": " of"
+        },
+        {
+          "start": 193.47,
+          "end": 194.05,
+          "word": " Chinatown,"
+        }
+      ]
+    },
+    {
+      "start": 194.15,
+      "end": 200.65,
+      "text": " and it will continue to connect heritage businesses with relevant partners and resources to keep the culture alive.",
+      "words": [
+        {
+          "start": 194.15,
+          "end": 194.71,
+          "word": " and"
+        },
+        {
+          "start": 194.71,
+          "end": 194.83,
+          "word": " it"
+        },
+        {
+          "start": 194.83,
+          "end": 194.93,
+          "word": " will"
+        },
+        {
+          "start": 194.93,
+          "end": 195.33,
+          "word": " continue"
+        },
+        {
+          "start": 195.33,
+          "end": 195.59,
+          "word": " to"
+        },
+        {
+          "start": 195.59,
+          "end": 195.95,
+          "word": " connect"
+        },
+        {
+          "start": 195.95,
+          "end": 196.37,
+          "word": " heritage"
+        },
+        {
+          "start": 196.37,
+          "end": 196.95,
+          "word": " businesses"
+        },
+        {
+          "start": 196.95,
+          "end": 197.51,
+          "word": " with"
+        },
+        {
+          "start": 197.51,
+          "end": 197.87,
+          "word": " relevant"
+        },
+        {
+          "start": 197.87,
+          "end": 198.29,
+          "word": " partners"
+        },
+        {
+          "start": 198.29,
+          "end": 198.55,
+          "word": " and"
+        },
+        {
+          "start": 198.55,
+          "end": 199.05,
+          "word": " resources"
+        },
+        {
+          "start": 199.05,
+          "end": 199.61,
+          "word": " to"
+        },
+        {
+          "start": 199.61,
+          "end": 199.83,
+          "word": " keep"
+        },
+        {
+          "start": 199.83,
+          "end": 199.97,
+          "word": " the"
+        },
+        {
+          "start": 199.97,
+          "end": 200.29,
+          "word": " culture"
+        },
+        {
+          "start": 200.29,
+          "end": 200.65,
+          "word": " alive."
+        }
+      ]
+    },
+    {
+      "start": 200.65,
+      "end": 200.83,
+      "text": " And it will continue to live.",
+      "words": [
+        {
+          "start": 200.65,
+          "end": 200.67,
+          "word": " And"
+        },
+        {
+          "start": 200.67,
+          "end": 200.69,
+          "word": " it"
+        },
+        {
+          "start": 200.69,
+          "end": 200.69,
+          "word": " will"
+        },
+        {
+          "start": 200.69,
+          "end": 200.69,
+          "word": " continue"
+        },
+        {
+          "start": 200.69,
+          "end": 200.81,
+          "word": " to"
+        },
+        {
+          "start": 200.81,
+          "end": 200.83,
+          "word": " live."
+        }
+      ]
+    },
+    {
+      "start": 200.91,
+      "end": 201.69,
+      "text": " And it will continue to be a part of the city here.",
+      "words": [
+        {
+          "start": 200.91,
+          "end": 201.01,
+          "word": " And"
+        },
+        {
+          "start": 201.01,
+          "end": 201.69,
+          "word": " it"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " will"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " continue"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " to"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " be"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " a"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " part"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " of"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " the"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " city"
+        },
+        {
+          "start": 201.69,
+          "end": 201.69,
+          "word": " here."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-27",
+  "timezone": "Asia/Singapore",
+  "status": "complete",
+  "deleted_files": 78,
+  "moved_files": 10,
+  "deleted_bytes": 62907547,
+  "validation_status": "pass",
+  "git_commit_performed": false,
+  "entry": "00_项目导航.md",
+  "next_project_action": "按EventID核对新文献与地图补采证据，再决定更新Gephi；本次只整理文件，没有修改研究事件数据。"
+}

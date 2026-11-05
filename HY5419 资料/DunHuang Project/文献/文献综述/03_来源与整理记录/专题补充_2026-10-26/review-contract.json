@@ -1,0 +1,26 @@
+{
+  "snapshot_id": "HY5419-GEPHI-LIT-2026-10-26",
+  "date": "2026-10-26",
+  "stance": "targeted evidence map and method-to-data reading package; not exhaustive systematic review",
+  "question": "Which scholarly historical and historical-network studies can improve a 1900–1910 Dunhuang event-centred physical-circulation and knowledge-processing network?",
+  "scope": {
+    "history": "Dunhuang dispersal, Wang Yuanlu, Jiang Xiaowan, Stein, Pelliot, Qing reception, cataloguing, communication, differing discovery/public-knowledge dates",
+    "methods": "source-to-event coding, mixed-mode/affiliation networks, missing evidence, temporal letter networks",
+    "languages": [
+      "Chinese",
+      "English"
+    ],
+    "publication_cutoff": "2026-10-26"
+  },
+  "access_priority": "NUS discovery and authenticated licensed access first; open publisher/repository equivalents when NUS session is awaiting user setup; no unauthorised paywall workarounds",
+  "evidence_threshold": "Identity verified from publisher/author repository; content recommendations from inspected full text, otherwise clearly abstract-only/pending; infer no historical edges from method papers",
+  "deliverables": [
+    "targeted annotated reading list",
+    "old-source retention and scope assessment",
+    "Gephi-use mapping",
+    "new verified full texts when obtainable",
+    "NUS/manual-action list",
+    "metadata and auditable search/screening/evidence records"
+  ],
+  "preservation": "Existing reading package and files unchanged; do not duplicate existing full texts or replace validated source identities. New source IDs G01 onwards."
+}

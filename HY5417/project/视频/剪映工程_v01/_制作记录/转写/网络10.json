@@ -1,0 +1,3107 @@
+{
+  "source": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/视频/网络_10_20261101_遗产企业支持_经营延续与社区活动.mp4",
+  "method": "faster-whisper large-v3-turbo, local CPU int8; machine transcript for editorial verification",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 5.88,
+      "text": " Some firms under the Heritage Business Scheme have seen footfall grow by roughly 20%",
+      "words": [
+        {
+          "start": 0.14,
+          "end": 0.74,
+          "word": " Some"
+        },
+        {
+          "start": 0.74,
+          "end": 1.1,
+          "word": " firms"
+        },
+        {
+          "start": 1.1,
+          "end": 1.46,
+          "word": " under"
+        },
+        {
+          "start": 1.46,
+          "end": 1.72,
+          "word": " the"
+        },
+        {
+          "start": 1.72,
+          "end": 2.1,
+          "word": " Heritage"
+        },
+        {
+          "start": 2.1,
+          "end": 2.64,
+          "word": " Business"
+        },
+        {
+          "start": 2.64,
+          "end": 3.1,
+          "word": " Scheme"
+        },
+        {
+          "start": 3.1,
+          "end": 3.4,
+          "word": " have"
+        },
+        {
+          "start": 3.4,
+          "end": 3.66,
+          "word": " seen"
+        },
+        {
+          "start": 3.66,
+          "end": 4.16,
+          "word": " footfall"
+        },
+        {
+          "start": 4.16,
+          "end": 4.48,
+          "word": " grow"
+        },
+        {
+          "start": 4.48,
+          "end": 4.72,
+          "word": " by"
+        },
+        {
+          "start": 4.72,
+          "end": 5.08,
+          "word": " roughly"
+        },
+        {
+          "start": 5.08,
+          "end": 5.58,
+          "word": " 20"
+        },
+        {
+          "start": 5.58,
+          "end": 5.88,
+          "word": "%"
+        }
+      ]
+    },
+    {
+      "start": 5.88,
+      "end": 9.66,
+      "text": " a year since the program was launched by the National Heritage Board.",
+      "words": [
+        {
+          "start": 5.88,
+          "end": 6.4,
+          "word": " a"
+        },
+        {
+          "start": 6.4,
+          "end": 6.58,
+          "word": " year"
+        },
+        {
+          "start": 6.58,
+          "end": 6.84,
+          "word": " since"
+        },
+        {
+          "start": 6.84,
+          "end": 7.06,
+          "word": " the"
+        },
+        {
+          "start": 7.06,
+          "end": 7.4,
+          "word": " program"
+        },
+        {
+          "start": 7.4,
+          "end": 7.68,
+          "word": " was"
+        },
+        {
+          "start": 7.68,
+          "end": 7.96,
+          "word": " launched"
+        },
+        {
+          "start": 7.96,
+          "end": 8.16,
+          "word": " by"
+        },
+        {
+          "start": 8.16,
+          "end": 8.32,
+          "word": " the"
+        },
+        {
+          "start": 8.32,
+          "end": 8.62,
+          "word": " National"
+        },
+        {
+          "start": 8.62,
+          "end": 9.1,
+          "word": " Heritage"
+        },
+        {
+          "start": 9.1,
+          "end": 9.66,
+          "word": " Board."
+        }
+      ]
+    },
+    {
+      "start": 10.26,
+      "end": 14.76,
+      "text": " NHB says it's looking to offer more tailored support moving forward",
+      "words": [
+        {
+          "start": 10.26,
+          "end": 11.02,
+          "word": " NHB"
+        },
+        {
+          "start": 11.02,
+          "end": 11.38,
+          "word": " says"
+        },
+        {
+          "start": 11.38,
+          "end": 11.64,
+          "word": " it's"
+        },
+        {
+          "start": 11.64,
+          "end": 11.84,
+          "word": " looking"
+        },
+        {
+          "start": 11.84,
+          "end": 12.06,
+          "word": " to"
+        },
+        {
+          "start": 12.06,
+          "end": 12.38,
+          "word": " offer"
+        },
+        {
+          "start": 12.38,
+          "end": 12.82,
+          "word": " more"
+        },
+        {
+          "start": 12.82,
+          "end": 13.26,
+          "word": " tailored"
+        },
+        {
+          "start": 13.26,
+          "end": 13.78,
+          "word": " support"
+        },
+        {
+          "start": 13.78,
+          "end": 14.32,
+          "word": " moving"
+        },
+        {
+          "start": 14.32,
+          "end": 14.76,
+          "word": " forward"
+        }
+      ]
+    },
+    {
+      "start": 14.76,
+      "end": 18.66,
+      "text": " as businesses deal with challenges such as attracting new customers",
+      "words": [
+        {
+          "start": 14.76,
+          "end": 15.08,
+          "word": " as"
+        },
+        {
+          "start": 15.08,
+          "end": 15.48,
+          "word": " businesses"
+        },
+        {
+          "start": 15.48,
+          "end": 15.92,
+          "word": " deal"
+        },
+        {
+          "start": 15.92,
+          "end": 16.2,
+          "word": " with"
+        },
+        {
+          "start": 16.2,
+          "end": 16.66,
+          "word": " challenges"
+        },
+        {
+          "start": 16.66,
+          "end": 17.2,
+          "word": " such"
+        },
+        {
+          "start": 17.2,
+          "end": 17.4,
+          "word": " as"
+        },
+        {
+          "start": 17.4,
+          "end": 17.8,
+          "word": " attracting"
+        },
+        {
+          "start": 17.8,
+          "end": 18.14,
+          "word": " new"
+        },
+        {
+          "start": 18.14,
+          "end": 18.66,
+          "word": " customers"
+        }
+      ]
+    },
+    {
+      "start": 18.66,
+      "end": 20.54,
+      "text": " and preserving traditional skills.",
+      "words": [
+        {
+          "start": 18.66,
+          "end": 19.14,
+          "word": " and"
+        },
+        {
+          "start": 19.14,
+          "end": 19.52,
+          "word": " preserving"
+        },
+        {
+          "start": 19.52,
+          "end": 20.04,
+          "word": " traditional"
+        },
+        {
+          "start": 20.04,
+          "end": 20.54,
+          "word": " skills."
+        }
+      ]
+    },
+    {
+      "start": 20.76,
+      "end": 22.26,
+      "text": " Muhammad Bahadjaj with more.",
+      "words": [
+        {
+          "start": 20.76,
+          "end": 21.22,
+          "word": " Muhammad"
+        },
+        {
+          "start": 21.22,
+          "end": 21.78,
+          "word": " Bahadjaj"
+        },
+        {
+          "start": 21.78,
+          "end": 22.04,
+          "word": " with"
+        },
+        {
+          "start": 22.04,
+          "end": 22.26,
+          "word": " more."
+        }
+      ]
+    },
+    {
+      "start": 24.55,
+      "end": 31.01,
+      "text": " This century-old Chinese tea firm was officially recognized as a heritage business in October 2025.",
+      "words": [
+        {
+          "start": 24.55,
+          "end": 25.21,
+          "word": " This"
+        },
+        {
+          "start": 25.21,
+          "end": 25.67,
+          "word": " century"
+        },
+        {
+          "start": 25.67,
+          "end": 26.05,
+          "word": "-old"
+        },
+        {
+          "start": 26.05,
+          "end": 26.53,
+          "word": " Chinese"
+        },
+        {
+          "start": 26.53,
+          "end": 26.83,
+          "word": " tea"
+        },
+        {
+          "start": 26.83,
+          "end": 27.23,
+          "word": " firm"
+        },
+        {
+          "start": 27.23,
+          "end": 27.47,
+          "word": " was"
+        },
+        {
+          "start": 27.47,
+          "end": 27.91,
+          "word": " officially"
+        },
+        {
+          "start": 27.91,
+          "end": 28.43,
+          "word": " recognized"
+        },
+        {
+          "start": 28.43,
+          "end": 28.75,
+          "word": " as"
+        },
+        {
+          "start": 28.75,
+          "end": 28.85,
+          "word": " a"
+        },
+        {
+          "start": 28.85,
+          "end": 29.19,
+          "word": " heritage"
+        },
+        {
+          "start": 29.19,
+          "end": 29.69,
+          "word": " business"
+        },
+        {
+          "start": 29.69,
+          "end": 29.95,
+          "word": " in"
+        },
+        {
+          "start": 29.95,
+          "end": 30.35,
+          "word": " October"
+        },
+        {
+          "start": 30.35,
+          "end": 31.01,
+          "word": " 2025."
+        }
+      ]
+    },
+    {
+      "start": 31.81,
+      "end": 36.35,
+      "text": " Since then, it's seen around 20% more visitors with customers discovering it",
+      "words": [
+        {
+          "start": 31.81,
+          "end": 32.11,
+          "word": " Since"
+        },
+        {
+          "start": 32.11,
+          "end": 32.41,
+          "word": " then,"
+        },
+        {
+          "start": 32.79,
+          "end": 32.95,
+          "word": " it's"
+        },
+        {
+          "start": 32.95,
+          "end": 33.17,
+          "word": " seen"
+        },
+        {
+          "start": 33.17,
+          "end": 33.39,
+          "word": " around"
+        },
+        {
+          "start": 33.39,
+          "end": 33.75,
+          "word": " 20"
+        },
+        {
+          "start": 33.75,
+          "end": 34.01,
+          "word": "%"
+        },
+        {
+          "start": 34.01,
+          "end": 34.35,
+          "word": " more"
+        },
+        {
+          "start": 34.35,
+          "end": 34.77,
+          "word": " visitors"
+        },
+        {
+          "start": 34.77,
+          "end": 35.05,
+          "word": " with"
+        },
+        {
+          "start": 35.05,
+          "end": 35.53,
+          "word": " customers"
+        },
+        {
+          "start": 35.53,
+          "end": 36.11,
+          "word": " discovering"
+        },
+        {
+          "start": 36.11,
+          "end": 36.35,
+          "word": " it"
+        }
+      ]
+    },
+    {
+      "start": 36.35,
+      "end": 38.53,
+      "text": " through social media and AI searches.",
+      "words": [
+        {
+          "start": 36.35,
+          "end": 36.63,
+          "word": " through"
+        },
+        {
+          "start": 36.63,
+          "end": 36.93,
+          "word": " social"
+        },
+        {
+          "start": 36.93,
+          "end": 37.27,
+          "word": " media"
+        },
+        {
+          "start": 37.27,
+          "end": 37.61,
+          "word": " and"
+        },
+        {
+          "start": 37.61,
+          "end": 37.99,
+          "word": " AI"
+        },
+        {
+          "start": 37.99,
+          "end": 38.53,
+          "word": " searches."
+        }
+      ]
+    },
+    {
+      "start": 38.83,
+      "end": 44.17,
+      "text": " As part of the Heritage Business Scheme, it's also received social media marketing support",
+      "words": [
+        {
+          "start": 38.83,
+          "end": 39.33,
+          "word": " As"
+        },
+        {
+          "start": 39.33,
+          "end": 39.61,
+          "word": " part"
+        },
+        {
+          "start": 39.61,
+          "end": 39.77,
+          "word": " of"
+        },
+        {
+          "start": 39.77,
+          "end": 39.89,
+          "word": " the"
+        },
+        {
+          "start": 39.89,
+          "end": 40.19,
+          "word": " Heritage"
+        },
+        {
+          "start": 40.19,
+          "end": 40.63,
+          "word": " Business"
+        },
+        {
+          "start": 40.63,
+          "end": 41.15,
+          "word": " Scheme,"
+        },
+        {
+          "start": 41.35,
+          "end": 41.79,
+          "word": " it's"
+        },
+        {
+          "start": 41.79,
+          "end": 42.03,
+          "word": " also"
+        },
+        {
+          "start": 42.03,
+          "end": 42.45,
+          "word": " received"
+        },
+        {
+          "start": 42.45,
+          "end": 42.87,
+          "word": " social"
+        },
+        {
+          "start": 42.87,
+          "end": 43.19,
+          "word": " media"
+        },
+        {
+          "start": 43.19,
+          "end": 43.61,
+          "word": " marketing"
+        },
+        {
+          "start": 43.61,
+          "end": 44.17,
+          "word": " support"
+        }
+      ]
+    },
+    {
+      "start": 44.17,
+      "end": 47.63,
+      "text": " with consultancy services on the way for targeted assistance.",
+      "words": [
+        {
+          "start": 44.17,
+          "end": 44.53,
+          "word": " with"
+        },
+        {
+          "start": 44.53,
+          "end": 45.19,
+          "word": " consultancy"
+        },
+        {
+          "start": 45.19,
+          "end": 45.65,
+          "word": " services"
+        },
+        {
+          "start": 45.65,
+          "end": 45.97,
+          "word": " on"
+        },
+        {
+          "start": 45.97,
+          "end": 46.11,
+          "word": " the"
+        },
+        {
+          "start": 46.11,
+          "end": 46.39,
+          "word": " way"
+        },
+        {
+          "start": 46.39,
+          "end": 46.65,
+          "word": " for"
+        },
+        {
+          "start": 46.65,
+          "end": 47.03,
+          "word": " targeted"
+        },
+        {
+          "start": 47.03,
+          "end": 47.63,
+          "word": " assistance."
+        }
+      ]
+    },
+    {
+      "start": 48.37,
+      "end": 53.79,
+      "text": " Now, these artifacts and recorded stories are part of the firm's efforts to preserve and share its heritage.",
+      "words": [
+        {
+          "start": 48.37,
+          "end": 48.65,
+          "word": " Now,"
+        },
+        {
+          "start": 48.85,
+          "end": 49.01,
+          "word": " these"
+        },
+        {
+          "start": 49.01,
+          "end": 49.47,
+          "word": " artifacts"
+        },
+        {
+          "start": 49.47,
+          "end": 49.81,
+          "word": " and"
+        },
+        {
+          "start": 49.81,
+          "end": 50.21,
+          "word": " recorded"
+        },
+        {
+          "start": 50.21,
+          "end": 50.57,
+          "word": " stories"
+        },
+        {
+          "start": 50.57,
+          "end": 50.85,
+          "word": " are"
+        },
+        {
+          "start": 50.85,
+          "end": 51.07,
+          "word": " part"
+        },
+        {
+          "start": 51.07,
+          "end": 51.25,
+          "word": " of"
+        },
+        {
+          "start": 51.25,
+          "end": 51.37,
+          "word": " the"
+        },
+        {
+          "start": 51.37,
+          "end": 51.67,
+          "word": " firm's"
+        },
+        {
+          "start": 51.67,
+          "end": 51.97,
+          "word": " efforts"
+        },
+        {
+          "start": 51.97,
+          "end": 52.17,
+          "word": " to"
+        },
+        {
+          "start": 52.17,
+          "end": 52.55,
+          "word": " preserve"
+        },
+        {
+          "start": 52.55,
+          "end": 52.79,
+          "word": " and"
+        },
+        {
+          "start": 52.79,
+          "end": 53.11,
+          "word": " share"
+        },
+        {
+          "start": 53.11,
+          "end": 53.39,
+          "word": " its"
+        },
+        {
+          "start": 53.39,
+          "end": 53.79,
+          "word": " heritage."
+        }
+      ]
+    },
+    {
+      "start": 54.05,
+      "end": 58.93,
+      "text": " Some of them are used for community programs that have grown by roughly half over the past four years.",
+      "words": [
+        {
+          "start": 54.05,
+          "end": 54.29,
+          "word": " Some"
+        },
+        {
+          "start": 54.29,
+          "end": 54.37,
+          "word": " of"
+        },
+        {
+          "start": 54.37,
+          "end": 54.55,
+          "word": " them"
+        },
+        {
+          "start": 54.55,
+          "end": 54.77,
+          "word": " are"
+        },
+        {
+          "start": 54.77,
+          "end": 55.03,
+          "word": " used"
+        },
+        {
+          "start": 55.03,
+          "end": 55.21,
+          "word": " for"
+        },
+        {
+          "start": 55.21,
+          "end": 55.63,
+          "word": " community"
+        },
+        {
+          "start": 55.63,
+          "end": 56.13,
+          "word": " programs"
+        },
+        {
+          "start": 56.13,
+          "end": 56.37,
+          "word": " that"
+        },
+        {
+          "start": 56.37,
+          "end": 56.53,
+          "word": " have"
+        },
+        {
+          "start": 56.53,
+          "end": 56.85,
+          "word": " grown"
+        },
+        {
+          "start": 56.85,
+          "end": 57.07,
+          "word": " by"
+        },
+        {
+          "start": 57.07,
+          "end": 57.37,
+          "word": " roughly"
+        },
+        {
+          "start": 57.37,
+          "end": 57.69,
+          "word": " half"
+        },
+        {
+          "start": 57.69,
+          "end": 57.97,
+          "word": " over"
+        },
+        {
+          "start": 57.97,
+          "end": 58.13,
+          "word": " the"
+        },
+        {
+          "start": 58.13,
+          "end": 58.37,
+          "word": " past"
+        },
+        {
+          "start": 58.37,
+          "end": 58.57,
+          "word": " four"
+        },
+        {
+          "start": 58.57,
+          "end": 58.93,
+          "word": " years."
+        }
+      ]
+    },
+    {
+      "start": 58.93,
+      "end": 63.81,
+      "text": " Now, these include places like libraries, hospitals, schools and even community centers.",
+      "words": [
+        {
+          "start": 58.93,
+          "end": 59.39,
+          "word": " Now,"
+        },
+        {
+          "start": 59.51,
+          "end": 59.63,
+          "word": " these"
+        },
+        {
+          "start": 59.63,
+          "end": 59.97,
+          "word": " include"
+        },
+        {
+          "start": 59.97,
+          "end": 60.31,
+          "word": " places"
+        },
+        {
+          "start": 60.31,
+          "end": 60.57,
+          "word": " like"
+        },
+        {
+          "start": 60.57,
+          "end": 61.05,
+          "word": " libraries,"
+        },
+        {
+          "start": 61.43,
+          "end": 61.85,
+          "word": " hospitals,"
+        },
+        {
+          "start": 62.19,
+          "end": 62.45,
+          "word": " schools"
+        },
+        {
+          "start": 62.45,
+          "end": 62.71,
+          "word": " and"
+        },
+        {
+          "start": 62.71,
+          "end": 62.89,
+          "word": " even"
+        },
+        {
+          "start": 62.89,
+          "end": 63.37,
+          "word": " community"
+        },
+        {
+          "start": 63.37,
+          "end": 63.81,
+          "word": " centers."
+        }
+      ]
+    },
+    {
+      "start": 64.13,
+      "end": 69.05,
+      "text": " Now, the firm is hoping to build on these efforts through the Heritage Business Scheme's consultancy services",
+      "words": [
+        {
+          "start": 64.13,
+          "end": 64.35,
+          "word": " Now,"
+        },
+        {
+          "start": 64.39,
+          "end": 64.45,
+          "word": " the"
+        },
+        {
+          "start": 64.45,
+          "end": 64.65,
+          "word": " firm"
+        },
+        {
+          "start": 64.65,
+          "end": 64.91,
+          "word": " is"
+        },
+        {
+          "start": 64.91,
+          "end": 65.19,
+          "word": " hoping"
+        },
+        {
+          "start": 65.19,
+          "end": 65.43,
+          "word": " to"
+        },
+        {
+          "start": 65.43,
+          "end": 65.69,
+          "word": " build"
+        },
+        {
+          "start": 65.69,
+          "end": 65.83,
+          "word": " on"
+        },
+        {
+          "start": 65.83,
+          "end": 66.03,
+          "word": " these"
+        },
+        {
+          "start": 66.03,
+          "end": 66.41,
+          "word": " efforts"
+        },
+        {
+          "start": 66.41,
+          "end": 66.63,
+          "word": " through"
+        },
+        {
+          "start": 66.63,
+          "end": 66.77,
+          "word": " the"
+        },
+        {
+          "start": 66.77,
+          "end": 67.03,
+          "word": " Heritage"
+        },
+        {
+          "start": 67.03,
+          "end": 67.43,
+          "word": " Business"
+        },
+        {
+          "start": 67.43,
+          "end": 67.99,
+          "word": " Scheme's"
+        },
+        {
+          "start": 67.99,
+          "end": 68.53,
+          "word": " consultancy"
+        },
+        {
+          "start": 68.53,
+          "end": 69.05,
+          "word": " services"
+        }
+      ]
+    },
+    {
+      "start": 69.05,
+      "end": 74.39,
+      "text": " so as to better package these narratives and products and also to bring them to more spaces and communities.",
+      "words": [
+        {
+          "start": 69.05,
+          "end": 69.61,
+          "word": " so"
+        },
+        {
+          "start": 69.61,
+          "end": 69.77,
+          "word": " as"
+        },
+        {
+          "start": 69.77,
+          "end": 69.89,
+          "word": " to"
+        },
+        {
+          "start": 69.89,
+          "end": 70.21,
+          "word": " better"
+        },
+        {
+          "start": 70.21,
+          "end": 70.67,
+          "word": " package"
+        },
+        {
+          "start": 70.67,
+          "end": 70.93,
+          "word": " these"
+        },
+        {
+          "start": 70.93,
+          "end": 71.27,
+          "word": " narratives"
+        },
+        {
+          "start": 71.27,
+          "end": 71.47,
+          "word": " and"
+        },
+        {
+          "start": 71.47,
+          "end": 71.85,
+          "word": " products"
+        },
+        {
+          "start": 71.85,
+          "end": 72.13,
+          "word": " and"
+        },
+        {
+          "start": 72.13,
+          "end": 72.31,
+          "word": " also"
+        },
+        {
+          "start": 72.31,
+          "end": 72.49,
+          "word": " to"
+        },
+        {
+          "start": 72.49,
+          "end": 72.69,
+          "word": " bring"
+        },
+        {
+          "start": 72.69,
+          "end": 72.87,
+          "word": " them"
+        },
+        {
+          "start": 72.87,
+          "end": 73.05,
+          "word": " to"
+        },
+        {
+          "start": 73.05,
+          "end": 73.23,
+          "word": " more"
+        },
+        {
+          "start": 73.23,
+          "end": 73.57,
+          "word": " spaces"
+        },
+        {
+          "start": 73.57,
+          "end": 73.89,
+          "word": " and"
+        },
+        {
+          "start": 73.89,
+          "end": 74.39,
+          "word": " communities."
+        }
+      ]
+    },
+    {
+      "start": 74.97,
+      "end": 79.73,
+      "text": " Hopefully, Singapore will have more of the heritage businesses that are here to last.",
+      "words": [
+        {
+          "start": 74.97,
+          "end": 75.45,
+          "word": " Hopefully,"
+        },
+        {
+          "start": 75.47,
+          "end": 75.87,
+          "word": " Singapore"
+        },
+        {
+          "start": 75.87,
+          "end": 76.07,
+          "word": " will"
+        },
+        {
+          "start": 76.07,
+          "end": 76.23,
+          "word": " have"
+        },
+        {
+          "start": 76.23,
+          "end": 76.51,
+          "word": " more"
+        },
+        {
+          "start": 76.51,
+          "end": 76.69,
+          "word": " of"
+        },
+        {
+          "start": 76.69,
+          "end": 76.85,
+          "word": " the"
+        },
+        {
+          "start": 76.85,
+          "end": 77.57,
+          "word": " heritage"
+        },
+        {
+          "start": 77.57,
+          "end": 78.11,
+          "word": " businesses"
+        },
+        {
+          "start": 78.11,
+          "end": 78.51,
+          "word": " that"
+        },
+        {
+          "start": 78.51,
+          "end": 78.85,
+          "word": " are"
+        },
+        {
+          "start": 78.85,
+          "end": 79.13,
+          "word": " here"
+        },
+        {
+          "start": 79.13,
+          "end": 79.33,
+          "word": " to"
+        },
+        {
+          "start": 79.33,
+          "end": 79.73,
+          "word": " last."
+        }
+      ]
+    },
+    {
+      "start": 79.73,
+      "end": 82.93,
+      "text": " And it's not like, you know, eventually three years down the road,",
+      "words": [
+        {
+          "start": 79.73,
+          "end": 80.33,
+          "word": " And"
+        },
+        {
+          "start": 80.33,
+          "end": 80.87,
+          "word": " it's"
+        },
+        {
+          "start": 80.87,
+          "end": 80.99,
+          "word": " not"
+        },
+        {
+          "start": 80.99,
+          "end": 81.21,
+          "word": " like,"
+        },
+        {
+          "start": 81.27,
+          "end": 81.41,
+          "word": " you"
+        },
+        {
+          "start": 81.41,
+          "end": 81.49,
+          "word": " know,"
+        },
+        {
+          "start": 81.97,
+          "end": 81.99,
+          "word": " eventually"
+        },
+        {
+          "start": 81.99,
+          "end": 82.29,
+          "word": " three"
+        },
+        {
+          "start": 82.29,
+          "end": 82.47,
+          "word": " years"
+        },
+        {
+          "start": 82.47,
+          "end": 82.65,
+          "word": " down"
+        },
+        {
+          "start": 82.65,
+          "end": 82.79,
+          "word": " the"
+        },
+        {
+          "start": 82.79,
+          "end": 82.93,
+          "word": " road,"
+        }
+      ]
+    },
+    {
+      "start": 83.01,
+      "end": 85.65,
+      "text": " you'll face most of them in the museum or whatever.",
+      "words": [
+        {
+          "start": 83.01,
+          "end": 83.15,
+          "word": " you'll"
+        },
+        {
+          "start": 83.15,
+          "end": 83.41,
+          "word": " face"
+        },
+        {
+          "start": 83.41,
+          "end": 83.83,
+          "word": " most"
+        },
+        {
+          "start": 83.83,
+          "end": 83.97,
+          "word": " of"
+        },
+        {
+          "start": 83.97,
+          "end": 84.11,
+          "word": " them"
+        },
+        {
+          "start": 84.11,
+          "end": 84.25,
+          "word": " in"
+        },
+        {
+          "start": 84.25,
+          "end": 84.39,
+          "word": " the"
+        },
+        {
+          "start": 84.39,
+          "end": 85.17,
+          "word": " museum"
+        },
+        {
+          "start": 85.17,
+          "end": 85.37,
+          "word": " or"
+        },
+        {
+          "start": 85.37,
+          "end": 85.65,
+          "word": " whatever."
+        }
+      ]
+    },
+    {
+      "start": 85.93,
+      "end": 90.05,
+      "text": " But keeping heritage firms alive requires more than just new customers.",
+      "words": [
+        {
+          "start": 85.93,
+          "end": 86.49,
+          "word": " But"
+        },
+        {
+          "start": 86.49,
+          "end": 86.89,
+          "word": " keeping"
+        },
+        {
+          "start": 86.89,
+          "end": 87.29,
+          "word": " heritage"
+        },
+        {
+          "start": 87.29,
+          "end": 87.69,
+          "word": " firms"
+        },
+        {
+          "start": 87.69,
+          "end": 88.09,
+          "word": " alive"
+        },
+        {
+          "start": 88.09,
+          "end": 88.63,
+          "word": " requires"
+        },
+        {
+          "start": 88.63,
+          "end": 88.97,
+          "word": " more"
+        },
+        {
+          "start": 88.97,
+          "end": 89.15,
+          "word": " than"
+        },
+        {
+          "start": 89.15,
+          "end": 89.37,
+          "word": " just"
+        },
+        {
+          "start": 89.37,
+          "end": 89.57,
+          "word": " new"
+        },
+        {
+          "start": 89.57,
+          "end": 90.05,
+          "word": " customers."
+        }
+      ]
+    },
+    {
+      "start": 90.39,
+      "end": 93.13,
+      "text": " At traditional Malay eatery Rumah Makan Minang,",
+      "words": [
+        {
+          "start": 90.39,
+          "end": 90.69,
+          "word": " At"
+        },
+        {
+          "start": 90.69,
+          "end": 91.13,
+          "word": " traditional"
+        },
+        {
+          "start": 91.13,
+          "end": 91.51,
+          "word": " Malay"
+        },
+        {
+          "start": 91.51,
+          "end": 92.05,
+          "word": " eatery"
+        },
+        {
+          "start": 92.05,
+          "end": 92.49,
+          "word": " Rumah"
+        },
+        {
+          "start": 92.49,
+          "end": 92.73,
+          "word": " Makan"
+        },
+        {
+          "start": 92.73,
+          "end": 93.13,
+          "word": " Minang,"
+        }
+      ]
+    },
+    {
+      "start": 93.45,
+      "end": 96.63,
+      "text": " consultancy has helped it work through family disagreements.",
+      "words": [
+        {
+          "start": 93.45,
+          "end": 94.15,
+          "word": " consultancy"
+        },
+        {
+          "start": 94.15,
+          "end": 94.57,
+          "word": " has"
+        },
+        {
+          "start": 94.57,
+          "end": 94.81,
+          "word": " helped"
+        },
+        {
+          "start": 94.81,
+          "end": 94.97,
+          "word": " it"
+        },
+        {
+          "start": 94.97,
+          "end": 95.15,
+          "word": " work"
+        },
+        {
+          "start": 95.15,
+          "end": 95.37,
+          "word": " through"
+        },
+        {
+          "start": 95.37,
+          "end": 95.85,
+          "word": " family"
+        },
+        {
+          "start": 95.85,
+          "end": 96.63,
+          "word": " disagreements."
+        }
+      ]
+    },
+    {
+      "start": 97.27,
+      "end": 102.69,
+      "text": " We have problems internally, communication, you know, and also like disagreement on things.",
+      "words": [
+        {
+          "start": 97.27,
+          "end": 97.63,
+          "word": " We"
+        },
+        {
+          "start": 97.63,
+          "end": 97.73,
+          "word": " have"
+        },
+        {
+          "start": 97.73,
+          "end": 98.09,
+          "word": " problems"
+        },
+        {
+          "start": 98.09,
+          "end": 98.51,
+          "word": " internally,"
+        },
+        {
+          "start": 98.85,
+          "end": 99.29,
+          "word": " communication,"
+        },
+        {
+          "start": 99.93,
+          "end": 100.05,
+          "word": " you"
+        },
+        {
+          "start": 100.05,
+          "end": 100.13,
+          "word": " know,"
+        },
+        {
+          "start": 100.25,
+          "end": 100.35,
+          "word": " and"
+        },
+        {
+          "start": 100.35,
+          "end": 101.13,
+          "word": " also"
+        },
+        {
+          "start": 101.13,
+          "end": 101.57,
+          "word": " like"
+        },
+        {
+          "start": 101.57,
+          "end": 102.11,
+          "word": " disagreement"
+        },
+        {
+          "start": 102.11,
+          "end": 102.47,
+          "word": " on"
+        },
+        {
+          "start": 102.47,
+          "end": 102.69,
+          "word": " things."
+        }
+      ]
+    },
+    {
+      "start": 102.69,
+      "end": 106.67,
+      "text": " I mean, if it's big cooperation and all that, we can just let that person go, right?",
+      "words": [
+        {
+          "start": 102.69,
+          "end": 103.07,
+          "word": " I"
+        },
+        {
+          "start": 103.07,
+          "end": 103.19,
+          "word": " mean,"
+        },
+        {
+          "start": 103.29,
+          "end": 103.37,
+          "word": " if"
+        },
+        {
+          "start": 103.37,
+          "end": 103.59,
+          "word": " it's"
+        },
+        {
+          "start": 103.59,
+          "end": 103.79,
+          "word": " big"
+        },
+        {
+          "start": 103.79,
+          "end": 104.39,
+          "word": " cooperation"
+        },
+        {
+          "start": 104.39,
+          "end": 104.61,
+          "word": " and"
+        },
+        {
+          "start": 104.61,
+          "end": 104.69,
+          "word": " all"
+        },
+        {
+          "start": 104.69,
+          "end": 104.83,
+          "word": " that,"
+        },
+        {
+          "start": 104.91,
+          "end": 104.99,
+          "word": " we"
+        },
+        {
+          "start": 104.99,
+          "end": 105.13,
+          "word": " can"
+        },
+        {
+          "start": 105.13,
+          "end": 105.39,
+          "word": " just"
+        },
+        {
+          "start": 105.39,
+          "end": 105.89,
+          "word": " let"
+        },
+        {
+          "start": 105.89,
+          "end": 106.03,
+          "word": " that"
+        },
+        {
+          "start": 106.03,
+          "end": 106.23,
+          "word": " person"
+        },
+        {
+          "start": 106.23,
+          "end": 106.41,
+          "word": " go,"
+        },
+        {
+          "start": 106.55,
+          "end": 106.67,
+          "word": " right?"
+        }
+      ]
+    },
+    {
+      "start": 106.91,
+      "end": 108.47,
+      "text": " But for family, we can't terminate, you see.",
+      "words": [
+        {
+          "start": 106.91,
+          "end": 107.09,
+          "word": " But"
+        },
+        {
+          "start": 107.09,
+          "end": 107.25,
+          "word": " for"
+        },
+        {
+          "start": 107.25,
+          "end": 107.53,
+          "word": " family,"
+        },
+        {
+          "start": 107.65,
+          "end": 107.75,
+          "word": " we"
+        },
+        {
+          "start": 107.75,
+          "end": 107.93,
+          "word": " can't"
+        },
+        {
+          "start": 107.93,
+          "end": 108.27,
+          "word": " terminate,"
+        },
+        {
+          "start": 108.33,
+          "end": 108.41,
+          "word": " you"
+        },
+        {
+          "start": 108.41,
+          "end": 108.47,
+          "word": " see."
+        }
+      ]
+    },
+    {
+      "start": 108.69,
+      "end": 109.71,
+      "text": " We have to face it daily.",
+      "words": [
+        {
+          "start": 108.69,
+          "end": 108.89,
+          "word": " We"
+        },
+        {
+          "start": 108.89,
+          "end": 108.99,
+          "word": " have"
+        },
+        {
+          "start": 108.99,
+          "end": 109.07,
+          "word": " to"
+        },
+        {
+          "start": 109.07,
+          "end": 109.31,
+          "word": " face"
+        },
+        {
+          "start": 109.31,
+          "end": 109.45,
+          "word": " it"
+        },
+        {
+          "start": 109.45,
+          "end": 109.71,
+          "word": " daily."
+        }
+      ]
+    },
+    {
+      "start": 110.03,
+      "end": 112.99,
+      "text": " So we have different views and we have different strengths.",
+      "words": [
+        {
+          "start": 110.03,
+          "end": 110.39,
+          "word": " So"
+        },
+        {
+          "start": 110.39,
+          "end": 110.59,
+          "word": " we"
+        },
+        {
+          "start": 110.59,
+          "end": 110.77,
+          "word": " have"
+        },
+        {
+          "start": 110.77,
+          "end": 111.27,
+          "word": " different"
+        },
+        {
+          "start": 111.27,
+          "end": 111.63,
+          "word": " views"
+        },
+        {
+          "start": 111.63,
+          "end": 112.03,
+          "word": " and"
+        },
+        {
+          "start": 112.03,
+          "end": 112.25,
+          "word": " we"
+        },
+        {
+          "start": 112.25,
+          "end": 112.39,
+          "word": " have"
+        },
+        {
+          "start": 112.39,
+          "end": 112.67,
+          "word": " different"
+        },
+        {
+          "start": 112.67,
+          "end": 112.99,
+          "word": " strengths."
+        }
+      ]
+    },
+    {
+      "start": 113.51,
+      "end": 116.79,
+      "text": " So it was difficult for me to actually get everyone organized.",
+      "words": [
+        {
+          "start": 113.51,
+          "end": 113.95,
+          "word": " So"
+        },
+        {
+          "start": 113.95,
+          "end": 114.19,
+          "word": " it"
+        },
+        {
+          "start": 114.19,
+          "end": 114.35,
+          "word": " was"
+        },
+        {
+          "start": 114.35,
+          "end": 114.67,
+          "word": " difficult"
+        },
+        {
+          "start": 114.67,
+          "end": 115.01,
+          "word": " for"
+        },
+        {
+          "start": 115.01,
+          "end": 115.13,
+          "word": " me"
+        },
+        {
+          "start": 115.13,
+          "end": 115.29,
+          "word": " to"
+        },
+        {
+          "start": 115.29,
+          "end": 115.53,
+          "word": " actually"
+        },
+        {
+          "start": 115.53,
+          "end": 115.85,
+          "word": " get"
+        },
+        {
+          "start": 115.85,
+          "end": 116.39,
+          "word": " everyone"
+        },
+        {
+          "start": 116.39,
+          "end": 116.79,
+          "word": " organized."
+        }
+      ]
+    },
+    {
+      "start": 116.97,
+      "end": 119.53,
+      "text": " It's a lot of hard work, especially the family hard work.",
+      "words": [
+        {
+          "start": 116.97,
+          "end": 117.13,
+          "word": " It's"
+        },
+        {
+          "start": 117.13,
+          "end": 117.23,
+          "word": " a"
+        },
+        {
+          "start": 117.23,
+          "end": 117.33,
+          "word": " lot"
+        },
+        {
+          "start": 117.33,
+          "end": 117.51,
+          "word": " of"
+        },
+        {
+          "start": 117.51,
+          "end": 117.85,
+          "word": " hard"
+        },
+        {
+          "start": 117.85,
+          "end": 118.03,
+          "word": " work,"
+        },
+        {
+          "start": 118.15,
+          "end": 118.53,
+          "word": " especially"
+        },
+        {
+          "start": 118.53,
+          "end": 118.75,
+          "word": " the"
+        },
+        {
+          "start": 118.75,
+          "end": 119.03,
+          "word": " family"
+        },
+        {
+          "start": 119.03,
+          "end": 119.29,
+          "word": " hard"
+        },
+        {
+          "start": 119.29,
+          "end": 119.53,
+          "word": " work."
+        }
+      ]
+    },
+    {
+      "start": 119.77,
+      "end": 120.75,
+      "text": " We have to be united.",
+      "words": [
+        {
+          "start": 119.77,
+          "end": 120.09,
+          "word": " We"
+        },
+        {
+          "start": 120.09,
+          "end": 120.21,
+          "word": " have"
+        },
+        {
+          "start": 120.21,
+          "end": 120.31,
+          "word": " to"
+        },
+        {
+          "start": 120.31,
+          "end": 120.41,
+          "word": " be"
+        },
+        {
+          "start": 120.41,
+          "end": 120.75,
+          "word": " united."
+        }
+      ]
+    },
+    {
+      "start": 121.05,
+      "end": 122.25,
+      "text": " We have to be strong together.",
+      "words": [
+        {
+          "start": 121.05,
+          "end": 121.15,
+          "word": " We"
+        },
+        {
+          "start": 121.15,
+          "end": 121.25,
+          "word": " have"
+        },
+        {
+          "start": 121.25,
+          "end": 121.35,
+          "word": " to"
+        },
+        {
+          "start": 121.35,
+          "end": 121.53,
+          "word": " be"
+        },
+        {
+          "start": 121.53,
+          "end": 121.87,
+          "word": " strong"
+        },
+        {
+          "start": 121.87,
+          "end": 122.25,
+          "word": " together."
+        }
+      ]
+    },
+    {
+      "start": 122.89,
+      "end": 125.29,
+      "text": " For Indian fashion retailer Style Mart,",
+      "words": [
+        {
+          "start": 122.89,
+          "end": 123.33,
+          "word": " For"
+        },
+        {
+          "start": 123.33,
+          "end": 123.65,
+          "word": " Indian"
+        },
+        {
+          "start": 123.65,
+          "end": 124.09,
+          "word": " fashion"
+        },
+        {
+          "start": 124.09,
+          "end": 124.59,
+          "word": " retailer"
+        },
+        {
+          "start": 124.59,
+          "end": 124.95,
+          "word": " Style"
+        },
+        {
+          "start": 124.95,
+          "end": 125.29,
+          "word": " Mart,"
+        }
+      ]
+    },
+    {
+      "start": 125.63,
+      "end": 128.77,
+      "text": " while it's looking to the scheme to refresh its retail experience,",
+      "words": [
+        {
+          "start": 125.63,
+          "end": 125.79,
+          "word": " while"
+        },
+        {
+          "start": 125.79,
+          "end": 125.99,
+          "word": " it's"
+        },
+        {
+          "start": 125.99,
+          "end": 126.27,
+          "word": " looking"
+        },
+        {
+          "start": 126.27,
+          "end": 126.49,
+          "word": " to"
+        },
+        {
+          "start": 126.49,
+          "end": 126.65,
+          "word": " the"
+        },
+        {
+          "start": 126.65,
+          "end": 126.95,
+          "word": " scheme"
+        },
+        {
+          "start": 126.95,
+          "end": 127.17,
+          "word": " to"
+        },
+        {
+          "start": 127.17,
+          "end": 127.53,
+          "word": " refresh"
+        },
+        {
+          "start": 127.53,
+          "end": 127.77,
+          "word": " its"
+        },
+        {
+          "start": 127.77,
+          "end": 128.15,
+          "word": " retail"
+        },
+        {
+          "start": 128.15,
+          "end": 128.77,
+          "word": " experience,"
+        }
+      ]
+    },
+    {
+      "start": 128.77,
+      "end": 135.23,
+      "text": " the pool of skilled artisans it relies on overseas has dropped by roughly half since the pandemic.",
+      "words": [
+        {
+          "start": 128.77,
+          "end": 129.43,
+          "word": " the"
+        },
+        {
+          "start": 129.43,
+          "end": 129.75,
+          "word": " pool"
+        },
+        {
+          "start": 129.75,
+          "end": 129.99,
+          "word": " of"
+        },
+        {
+          "start": 129.99,
+          "end": 130.37,
+          "word": " skilled"
+        },
+        {
+          "start": 130.37,
+          "end": 130.99,
+          "word": " artisans"
+        },
+        {
+          "start": 130.99,
+          "end": 131.15,
+          "word": " it"
+        },
+        {
+          "start": 131.15,
+          "end": 131.47,
+          "word": " relies"
+        },
+        {
+          "start": 131.47,
+          "end": 131.73,
+          "word": " on"
+        },
+        {
+          "start": 131.73,
+          "end": 132.23,
+          "word": " overseas"
+        },
+        {
+          "start": 132.23,
+          "end": 132.83,
+          "word": " has"
+        },
+        {
+          "start": 132.83,
+          "end": 133.23,
+          "word": " dropped"
+        },
+        {
+          "start": 133.23,
+          "end": 133.53,
+          "word": " by"
+        },
+        {
+          "start": 133.53,
+          "end": 133.85,
+          "word": " roughly"
+        },
+        {
+          "start": 133.85,
+          "end": 134.25,
+          "word": " half"
+        },
+        {
+          "start": 134.25,
+          "end": 134.59,
+          "word": " since"
+        },
+        {
+          "start": 134.59,
+          "end": 134.81,
+          "word": " the"
+        },
+        {
+          "start": 134.81,
+          "end": 135.23,
+          "word": " pandemic."
+        }
+      ]
+    },
+    {
+      "start": 136.11,
+      "end": 140.15,
+      "text": " Know that these crafts are not something that you go into a university or institute",
+      "words": [
+        {
+          "start": 136.11,
+          "end": 136.25,
+          "word": " Know"
+        },
+        {
+          "start": 136.25,
+          "end": 136.45,
+          "word": " that"
+        },
+        {
+          "start": 136.45,
+          "end": 136.69,
+          "word": " these"
+        },
+        {
+          "start": 136.69,
+          "end": 136.97,
+          "word": " crafts"
+        },
+        {
+          "start": 136.97,
+          "end": 137.17,
+          "word": " are"
+        },
+        {
+          "start": 137.17,
+          "end": 137.33,
+          "word": " not"
+        },
+        {
+          "start": 137.33,
+          "end": 137.63,
+          "word": " something"
+        },
+        {
+          "start": 137.63,
+          "end": 137.81,
+          "word": " that"
+        },
+        {
+          "start": 137.81,
+          "end": 137.97,
+          "word": " you"
+        },
+        {
+          "start": 137.97,
+          "end": 138.21,
+          "word": " go"
+        },
+        {
+          "start": 138.21,
+          "end": 138.49,
+          "word": " into"
+        },
+        {
+          "start": 138.49,
+          "end": 138.69,
+          "word": " a"
+        },
+        {
+          "start": 138.69,
+          "end": 139.23,
+          "word": " university"
+        },
+        {
+          "start": 139.23,
+          "end": 139.73,
+          "word": " or"
+        },
+        {
+          "start": 139.73,
+          "end": 140.15,
+          "word": " institute"
+        }
+      ]
+    },
+    {
+      "start": 140.15,
+      "end": 141.53,
+      "text": " and you come up with a certificate.",
+      "words": [
+        {
+          "start": 140.15,
+          "end": 140.43,
+          "word": " and"
+        },
+        {
+          "start": 140.43,
+          "end": 140.57,
+          "word": " you"
+        },
+        {
+          "start": 140.57,
+          "end": 140.77,
+          "word": " come"
+        },
+        {
+          "start": 140.77,
+          "end": 140.89,
+          "word": " up"
+        },
+        {
+          "start": 140.89,
+          "end": 141.01,
+          "word": " with"
+        },
+        {
+          "start": 141.01,
+          "end": 141.11,
+          "word": " a"
+        },
+        {
+          "start": 141.11,
+          "end": 141.53,
+          "word": " certificate."
+        }
+      ]
+    },
+    {
+      "start": 141.77,
+      "end": 144.59,
+      "text": " These are crafts that are passed from one generation to another.",
+      "words": [
+        {
+          "start": 141.77,
+          "end": 142.15,
+          "word": " These"
+        },
+        {
+          "start": 142.15,
+          "end": 142.33,
+          "word": " are"
+        },
+        {
+          "start": 142.33,
+          "end": 142.59,
+          "word": " crafts"
+        },
+        {
+          "start": 142.59,
+          "end": 142.73,
+          "word": " that"
+        },
+        {
+          "start": 142.73,
+          "end": 142.85,
+          "word": " are"
+        },
+        {
+          "start": 142.85,
+          "end": 143.15,
+          "word": " passed"
+        },
+        {
+          "start": 143.15,
+          "end": 143.31,
+          "word": " from"
+        },
+        {
+          "start": 143.31,
+          "end": 143.49,
+          "word": " one"
+        },
+        {
+          "start": 143.49,
+          "end": 143.99,
+          "word": " generation"
+        },
+        {
+          "start": 143.99,
+          "end": 144.21,
+          "word": " to"
+        },
+        {
+          "start": 144.21,
+          "end": 144.59,
+          "word": " another."
+        }
+      ]
+    },
+    {
+      "start": 144.83,
+      "end": 149.21,
+      "text": " We've been very actively involved in working directly with the artisans in India.",
+      "words": [
+        {
+          "start": 144.83,
+          "end": 145.33,
+          "word": " We've"
+        },
+        {
+          "start": 145.33,
+          "end": 145.57,
+          "word": " been"
+        },
+        {
+          "start": 145.57,
+          "end": 145.81,
+          "word": " very"
+        },
+        {
+          "start": 145.81,
+          "end": 146.31,
+          "word": " actively"
+        },
+        {
+          "start": 146.31,
+          "end": 146.83,
+          "word": " involved"
+        },
+        {
+          "start": 146.83,
+          "end": 147.13,
+          "word": " in"
+        },
+        {
+          "start": 147.13,
+          "end": 147.45,
+          "word": " working"
+        },
+        {
+          "start": 147.45,
+          "end": 147.87,
+          "word": " directly"
+        },
+        {
+          "start": 147.87,
+          "end": 148.05,
+          "word": " with"
+        },
+        {
+          "start": 148.05,
+          "end": 148.17,
+          "word": " the"
+        },
+        {
+          "start": 148.17,
+          "end": 148.63,
+          "word": " artisans"
+        },
+        {
+          "start": 148.63,
+          "end": 148.93,
+          "word": " in"
+        },
+        {
+          "start": 148.93,
+          "end": 149.21,
+          "word": " India."
+        }
+      ]
+    },
+    {
+      "start": 149.41,
+      "end": 154.07,
+      "text": " It's also a challenge even at their end in keeping the tradition and the craft alive.",
+      "words": [
+        {
+          "start": 149.41,
+          "end": 149.61,
+          "word": " It's"
+        },
+        {
+          "start": 149.61,
+          "end": 149.89,
+          "word": " also"
+        },
+        {
+          "start": 149.89,
+          "end": 150.07,
+          "word": " a"
+        },
+        {
+          "start": 150.07,
+          "end": 150.43,
+          "word": " challenge"
+        },
+        {
+          "start": 150.43,
+          "end": 150.67,
+          "word": " even"
+        },
+        {
+          "start": 150.67,
+          "end": 151.25,
+          "word": " at"
+        },
+        {
+          "start": 151.25,
+          "end": 151.45,
+          "word": " their"
+        },
+        {
+          "start": 151.45,
+          "end": 151.67,
+          "word": " end"
+        },
+        {
+          "start": 151.67,
+          "end": 151.79,
+          "word": " in"
+        },
+        {
+          "start": 151.79,
+          "end": 152.01,
+          "word": " keeping"
+        },
+        {
+          "start": 152.01,
+          "end": 152.25,
+          "word": " the"
+        },
+        {
+          "start": 152.25,
+          "end": 152.65,
+          "word": " tradition"
+        },
+        {
+          "start": 152.65,
+          "end": 152.89,
+          "word": " and"
+        },
+        {
+          "start": 152.89,
+          "end": 153.23,
+          "word": " the"
+        },
+        {
+          "start": 153.23,
+          "end": 153.75,
+          "word": " craft"
+        },
+        {
+          "start": 153.75,
+          "end": 154.07,
+          "word": " alive."
+        }
+      ]
+    },
+    {
+      "start": 154.33,
+      "end": 157.81,
+      "text": " There are so many weavers today that have become auto-rickshaws drivers, for example.",
+      "words": [
+        {
+          "start": 154.33,
+          "end": 154.47,
+          "word": " There"
+        },
+        {
+          "start": 154.47,
+          "end": 154.55,
+          "word": " are"
+        },
+        {
+          "start": 154.55,
+          "end": 154.69,
+          "word": " so"
+        },
+        {
+          "start": 154.69,
+          "end": 154.91,
+          "word": " many"
+        },
+        {
+          "start": 154.91,
+          "end": 155.21,
+          "word": " weavers"
+        },
+        {
+          "start": 155.21,
+          "end": 155.43,
+          "word": " today"
+        },
+        {
+          "start": 155.43,
+          "end": 155.59,
+          "word": " that"
+        },
+        {
+          "start": 155.59,
+          "end": 155.71,
+          "word": " have"
+        },
+        {
+          "start": 155.71,
+          "end": 155.87,
+          "word": " become"
+        },
+        {
+          "start": 155.87,
+          "end": 156.13,
+          "word": " auto"
+        },
+        {
+          "start": 156.13,
+          "end": 156.55,
+          "word": "-rickshaws"
+        },
+        {
+          "start": 156.55,
+          "end": 157.25,
+          "word": " drivers,"
+        },
+        {
+          "start": 157.39,
+          "end": 157.47,
+          "word": " for"
+        },
+        {
+          "start": 157.47,
+          "end": 157.81,
+          "word": " example."
+        }
+      ]
+    },
+    {
+      "start": 157.81,
+      "end": 163.47,
+      "text": " The younger generation going into call centres and other digital or tech fields,",
+      "words": [
+        {
+          "start": 157.81,
+          "end": 158.29,
+          "word": " The"
+        },
+        {
+          "start": 158.29,
+          "end": 158.63,
+          "word": " younger"
+        },
+        {
+          "start": 158.63,
+          "end": 158.99,
+          "word": " generation"
+        },
+        {
+          "start": 158.99,
+          "end": 159.23,
+          "word": " going"
+        },
+        {
+          "start": 159.23,
+          "end": 159.55,
+          "word": " into"
+        },
+        {
+          "start": 159.55,
+          "end": 160.73,
+          "word": " call"
+        },
+        {
+          "start": 160.73,
+          "end": 161.17,
+          "word": " centres"
+        },
+        {
+          "start": 161.17,
+          "end": 161.59,
+          "word": " and"
+        },
+        {
+          "start": 161.59,
+          "end": 161.87,
+          "word": " other"
+        },
+        {
+          "start": 161.87,
+          "end": 162.45,
+          "word": " digital"
+        },
+        {
+          "start": 162.45,
+          "end": 162.87,
+          "word": " or"
+        },
+        {
+          "start": 162.87,
+          "end": 163.19,
+          "word": " tech"
+        },
+        {
+          "start": 163.19,
+          "end": 163.47,
+          "word": " fields,"
+        }
+      ]
+    },
+    {
+      "start": 163.57,
+      "end": 166.31,
+      "text": " it's less intense and less labour-intensive.",
+      "words": [
+        {
+          "start": 163.57,
+          "end": 164.15,
+          "word": " it's"
+        },
+        {
+          "start": 164.15,
+          "end": 164.33,
+          "word": " less"
+        },
+        {
+          "start": 164.33,
+          "end": 164.77,
+          "word": " intense"
+        },
+        {
+          "start": 164.77,
+          "end": 165.17,
+          "word": " and"
+        },
+        {
+          "start": 165.17,
+          "end": 165.41,
+          "word": " less"
+        },
+        {
+          "start": 165.41,
+          "end": 165.75,
+          "word": " labour"
+        },
+        {
+          "start": 165.75,
+          "end": 166.31,
+          "word": "-intensive."
+        }
+      ]
+    },
+    {
+      "start": 166.71,
+      "end": 170.19,
+      "text": " An interagency task force is looking into these challenges,",
+      "words": [
+        {
+          "start": 166.71,
+          "end": 167.15,
+          "word": " An"
+        },
+        {
+          "start": 167.15,
+          "end": 167.93,
+          "word": " interagency"
+        },
+        {
+          "start": 167.93,
+          "end": 168.27,
+          "word": " task"
+        },
+        {
+          "start": 168.27,
+          "end": 168.57,
+          "word": " force"
+        },
+        {
+          "start": 168.57,
+          "end": 168.77,
+          "word": " is"
+        },
+        {
+          "start": 168.77,
+          "end": 169.03,
+          "word": " looking"
+        },
+        {
+          "start": 169.03,
+          "end": 169.33,
+          "word": " into"
+        },
+        {
+          "start": 169.33,
+          "end": 169.65,
+          "word": " these"
+        },
+        {
+          "start": 169.65,
+          "end": 170.19,
+          "word": " challenges,"
+        }
+      ]
+    },
+    {
+      "start": 170.45,
+      "end": 174.07,
+      "text": " alongside agencies including URA and the Manpower Ministry.",
+      "words": [
+        {
+          "start": 170.45,
+          "end": 171.01,
+          "word": " alongside"
+        },
+        {
+          "start": 171.01,
+          "end": 171.69,
+          "word": " agencies"
+        },
+        {
+          "start": 171.69,
+          "end": 172.17,
+          "word": " including"
+        },
+        {
+          "start": 172.17,
+          "end": 172.71,
+          "word": " URA"
+        },
+        {
+          "start": 172.71,
+          "end": 173.03,
+          "word": " and"
+        },
+        {
+          "start": 173.03,
+          "end": 173.15,
+          "word": " the"
+        },
+        {
+          "start": 173.15,
+          "end": 173.59,
+          "word": " Manpower"
+        },
+        {
+          "start": 173.59,
+          "end": 174.07,
+          "word": " Ministry."
+        }
+      ]
+    },
+    {
+      "start": 174.63,
+      "end": 179.61,
+      "text": " We are also looking at ways of how we can attract Singaporeans to be interested in learning this graph",
+      "words": [
+        {
+          "start": 174.63,
+          "end": 175.03,
+          "word": " We"
+        },
+        {
+          "start": 175.03,
+          "end": 175.11,
+          "word": " are"
+        },
+        {
+          "start": 175.11,
+          "end": 175.35,
+          "word": " also"
+        },
+        {
+          "start": 175.35,
+          "end": 175.59,
+          "word": " looking"
+        },
+        {
+          "start": 175.59,
+          "end": 175.75,
+          "word": " at"
+        },
+        {
+          "start": 175.75,
+          "end": 175.91,
+          "word": " ways"
+        },
+        {
+          "start": 175.91,
+          "end": 176.05,
+          "word": " of"
+        },
+        {
+          "start": 176.05,
+          "end": 176.17,
+          "word": " how"
+        },
+        {
+          "start": 176.17,
+          "end": 176.31,
+          "word": " we"
+        },
+        {
+          "start": 176.31,
+          "end": 176.43,
+          "word": " can"
+        },
+        {
+          "start": 176.43,
+          "end": 176.71,
+          "word": " attract"
+        },
+        {
+          "start": 176.71,
+          "end": 177.51,
+          "word": " Singaporeans"
+        },
+        {
+          "start": 177.51,
+          "end": 177.85,
+          "word": " to"
+        },
+        {
+          "start": 177.85,
+          "end": 177.97,
+          "word": " be"
+        },
+        {
+          "start": 177.97,
+          "end": 178.33,
+          "word": " interested"
+        },
+        {
+          "start": 178.33,
+          "end": 178.89,
+          "word": " in"
+        },
+        {
+          "start": 178.89,
+          "end": 179.11,
+          "word": " learning"
+        },
+        {
+          "start": 179.11,
+          "end": 179.35,
+          "word": " this"
+        },
+        {
+          "start": 179.35,
+          "end": 179.61,
+          "word": " graph"
+        }
+      ]
+    },
+    {
+      "start": 179.61,
+      "end": 184.25,
+      "text": " so that we widen the pool of people who can potentially take on the businesses.",
+      "words": [
+        {
+          "start": 179.61,
+          "end": 179.89,
+          "word": " so"
+        },
+        {
+          "start": 179.89,
+          "end": 180.05,
+          "word": " that"
+        },
+        {
+          "start": 180.05,
+          "end": 180.15,
+          "word": " we"
+        },
+        {
+          "start": 180.15,
+          "end": 180.45,
+          "word": " widen"
+        },
+        {
+          "start": 180.45,
+          "end": 180.87,
+          "word": " the"
+        },
+        {
+          "start": 180.87,
+          "end": 181.07,
+          "word": " pool"
+        },
+        {
+          "start": 181.07,
+          "end": 181.19,
+          "word": " of"
+        },
+        {
+          "start": 181.19,
+          "end": 181.41,
+          "word": " people"
+        },
+        {
+          "start": 181.41,
+          "end": 181.53,
+          "word": " who"
+        },
+        {
+          "start": 181.53,
+          "end": 181.65,
+          "word": " can"
+        },
+        {
+          "start": 181.65,
+          "end": 182.15,
+          "word": " potentially"
+        },
+        {
+          "start": 182.15,
+          "end": 182.77,
+          "word": " take"
+        },
+        {
+          "start": 182.77,
+          "end": 183.03,
+          "word": " on"
+        },
+        {
+          "start": 183.03,
+          "end": 183.93,
+          "word": " the"
+        },
+        {
+          "start": 183.93,
+          "end": 184.25,
+          "word": " businesses."
+        }
+      ]
+    },
+    {
+      "start": 184.25,
+      "end": 188.53,
+      "text": " In the meantime, NHB is also reviewing the scheme",
+      "words": [
+        {
+          "start": 184.25,
+          "end": 185.37,
+          "word": " In"
+        },
+        {
+          "start": 185.37,
+          "end": 185.51,
+          "word": " the"
+        },
+        {
+          "start": 185.51,
+          "end": 185.95,
+          "word": " meantime,"
+        },
+        {
+          "start": 186.51,
+          "end": 186.97,
+          "word": " NHB"
+        },
+        {
+          "start": 186.97,
+          "end": 187.19,
+          "word": " is"
+        },
+        {
+          "start": 187.19,
+          "end": 187.45,
+          "word": " also"
+        },
+        {
+          "start": 187.45,
+          "end": 187.89,
+          "word": " reviewing"
+        },
+        {
+          "start": 187.89,
+          "end": 188.13,
+          "word": " the"
+        },
+        {
+          "start": 188.13,
+          "end": 188.53,
+          "word": " scheme"
+        }
+      ]
+    },
+    {
+      "start": 188.53,
+      "end": 193.83,
+      "text": " with plans to bring more heritage businesses on board in the first half of 2027.",
+      "words": [
+        {
+          "start": 188.53,
+          "end": 188.99,
+          "word": " with"
+        },
+        {
+          "start": 188.99,
+          "end": 189.39,
+          "word": " plans"
+        },
+        {
+          "start": 189.39,
+          "end": 189.59,
+          "word": " to"
+        },
+        {
+          "start": 189.59,
+          "end": 189.81,
+          "word": " bring"
+        },
+        {
+          "start": 189.81,
+          "end": 190.21,
+          "word": " more"
+        },
+        {
+          "start": 190.21,
+          "end": 190.59,
+          "word": " heritage"
+        },
+        {
+          "start": 190.59,
+          "end": 191.27,
+          "word": " businesses"
+        },
+        {
+          "start": 191.27,
+          "end": 191.61,
+          "word": " on"
+        },
+        {
+          "start": 191.61,
+          "end": 191.95,
+          "word": " board"
+        },
+        {
+          "start": 191.95,
+          "end": 192.13,
+          "word": " in"
+        },
+        {
+          "start": 192.13,
+          "end": 192.25,
+          "word": " the"
+        },
+        {
+          "start": 192.25,
+          "end": 192.51,
+          "word": " first"
+        },
+        {
+          "start": 192.51,
+          "end": 192.77,
+          "word": " half"
+        },
+        {
+          "start": 192.77,
+          "end": 192.97,
+          "word": " of"
+        },
+        {
+          "start": 192.97,
+          "end": 193.83,
+          "word": " 2027."
+        }
+      ]
+    }
+  ]
+}

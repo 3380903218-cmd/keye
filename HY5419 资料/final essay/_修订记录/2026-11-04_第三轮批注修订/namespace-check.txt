@@ -1,0 +1,3 @@
+PASSED: /Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/_修订记录/2026-11-04_第三轮批注修订/修订候选.docx
+  SHA-256: e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720; XML parts: 18
+Scope: namespace references only; Microsoft Word normal-open verification is still required.

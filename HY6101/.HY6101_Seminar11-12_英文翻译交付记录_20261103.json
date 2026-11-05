@@ -1,0 +1,126 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "HY6101-seminar11-12-english-translation-20261103",
+  "state": "final",
+  "content_authority": "User-finalized Chinese document, SHA256 937c03e8600e4f725cac7ad35bb9f200a681a0731cca5cdeff952b7f0b042f81; translation only, without content revision",
+  "format_authority": "Chinese document layout, translated title and English proofing language; six native footnotes preserved",
+  "synchronization_direction": "Chinese-to-English translation",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "english-reflection",
+      "role": "final",
+      "path": "seminar 11&12/HY6101_Seminar11-12_Reading_Reflection_English.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "english-reflection",
+      "artifact_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+      "performed_at": "2026-11-03T01:07:51.338185+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_english_translation_20261103/content_check.json",
+        "sha256": "940477c090817919e96590a6cc5bdc7dac14e2a1f5712f0fd9f8d0dbda73186b",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "english-reflection",
+      "artifact_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+      "performed_at": "2026-11-03T01:07:51.338185+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_english_translation_20261103/package_validation.json",
+        "sha256": "f3487980b3d42e415907fbc7b4812d6b41e4a0ecefcfd2767e9bc42af0655702",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "english-reflection",
+      "artifact_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+      "performed_at": "2026-11-03T01:07:51.338185+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_english_translation_20261103/render_check.json",
+        "sha256": "535476b26f32b39a8a03f01a5ac026908b7d67ff2c96b1cde33903a4f932149f",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "english-reflection",
+      "artifact_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+      "performed_at": "2026-11-03T01:07:51.338185+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_english_translation_20261103/delivery_package_check.json",
+        "sha256": "6ef08854abc0ecd5b580cfcfebc83936244d0c74e174d9c85c2555cbfe57bc84",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "english-reflection"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [],
+  "next_action": "User may open the English Word translation in the requested seminar folder.",
+  "extensions": {
+    "hy6101:translation": {
+      "source_path": "seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx",
+      "source_sha256": "937c03e8600e4f725cac7ad35bb9f200a681a0731cca5cdeff952b7f0b042f81",
+      "source_unchanged": true,
+      "source_snapshot": ".seminar11_12_english_translation_20261103/authoritative_chinese_source.docx",
+      "aligned_translation": ".seminar11_12_english_translation_20261103/translation_source.json",
+      "paragraphs": 11,
+      "footnotes": 6,
+      "body_words": 1446
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "docx_sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+  "checks": {
+    "same_body_as_reviewed_draft": true,
+    "body_word_count_456": true,
+    "word_count_line": true,
+    "checkbox_states_preserved": true,
+    "correct_submission_filename": true,
+    "old_path_absent": true
+  },
+  "passed": true,
+  "word_body_count": 456,
+  "scope": "Five essay paragraphs including in-text citations; excludes heading, title, W= line, references and declaration.",
+  "note": "Current open Word document was saved before renaming. Rename preserved saved file bytes exactly. Current saved package has no comment parts; the prior review history is preserved in local commit 8597ffd and the existing comment-response record."
+}

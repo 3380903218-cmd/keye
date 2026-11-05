@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "artifact_sha256": "08900c7c68cf2eb3d96eabbe4529946a1cb86c7ea76586b1577f0c997f572926",
+  "application": "Microsoft Word",
+  "pages": 5,
+  "native_pdf": {
+    "path": "word-native.pdf",
+    "sha256": "98a584a20105d7f74f31876a942e303ad84091548b66ef531784ef7b193f7158"
+  },
+  "manual_visual_review": {
+    "path": "visual_review.md",
+    "sha256": "ec9fd97624238630561b5249f2f029429f05864548668ae0d54c378d845be9f9"
+  }
+}

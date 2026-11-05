@@ -1,0 +1,81 @@
+{
+  "status": "passed",
+  "performed_at": "2026-11-04T23:30:50.414619+08:00",
+  "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+  "method": "Current DOCX rendered through the packaged renderer; every page inspected as a full-page PNG.",
+  "pages": 15,
+  "checks": [
+    "No clipping, overlapping text or missing glyphs.",
+    "Both original spreadsheet figures remain readable and paired with translated captions and source notes.",
+    "Dates, identifiers and citation page ranges are retained.",
+    "References are alphabetised with italic titles/volumes and hanging indents.",
+    "Project records are kept together as a separate section."
+  ],
+  "page_evidence": [
+    {
+      "path": "英文终稿预览/page-1.png",
+      "sha256": "2cc9a469e234dc3bf10eaf827dd467fd68da4278496f3c5a1652033a5f3260c8"
+    },
+    {
+      "path": "英文终稿预览/page-2.png",
+      "sha256": "d4ab6e41e38cb18975981959b2b4365e0f1af73c66d3538335f4269b44b3023d"
+    },
+    {
+      "path": "英文终稿预览/page-3.png",
+      "sha256": "f069a4da08c5f39e3ba0412c84d2b77ad658ddce96fa0acf017fdd5f8dc4f10f"
+    },
+    {
+      "path": "英文终稿预览/page-4.png",
+      "sha256": "2f0fc6f5be1dfa9a7bcd4f98df5bb4927d9fb75855096314f55f1b61b734ae5b"
+    },
+    {
+      "path": "英文终稿预览/page-5.png",
+      "sha256": "837cec312d01c1e7647067c38fd40db1a92dd5016f2d7dfdf5fb488963f94012"
+    },
+    {
+      "path": "英文终稿预览/page-6.png",
+      "sha256": "457a6a94649ca2a6b07e5462b6b966d5a40a1d1e9615e12a002226ad94214a05"
+    },
+    {
+      "path": "英文终稿预览/page-7.png",
+      "sha256": "ef9839da29e95874ab329dd075640a45dd9e7b292c6f32eabb6381ea18178fa4"
+    },
+    {
+      "path": "英文终稿预览/page-8.png",
+      "sha256": "6e3c756e0d714e796fcd23eb997a796a4c8faf0cb4624cdf1cdcebe14a66c789"
+    },
+    {
+      "path": "英文终稿预览/page-9.png",
+      "sha256": "6b05dc478fd5e18afee50f2123e4d604d555b0a77d3a566b1a3d45b541fdd95f"
+    },
+    {
+      "path": "英文终稿预览/page-10.png",
+      "sha256": "1c4686780379ebc6d1b60643106df57da6256440dd9114b7034a66cc913dc880"
+    },
+    {
+      "path": "英文终稿预览/page-11.png",
+      "sha256": "85baa4f3dd42be0025d97d26c6ae544bf52da8e414af58defefd0184c79fd219"
+    },
+    {
+      "path": "英文终稿预览/page-12.png",
+      "sha256": "89c444cfff9d92460ec52f4cafe142660c02dae4a60e6152cef246cdf6cd02d2"
+    },
+    {
+      "path": "英文终稿预览/page-13.png",
+      "sha256": "74a6db4f8602d16956ead94c87222271e1ca21d780fa31a81974bb2c34c9be21"
+    },
+    {
+      "path": "英文终稿预览/page-14.png",
+      "sha256": "a472282701bfaec39a6714cc2781cc568655ff9753973b0f399e04fb12f2bbd1"
+    },
+    {
+      "path": "英文终稿预览/page-15.png",
+      "sha256": "973d6cdf6d83a1123befb19e41827a8245434bb43bed9d7fcecedb2e610c9ec5"
+    }
+  ],
+  "pdf": {
+    "path": "英文终稿预览/HY5419_敦煌项目_批判性反思_英文稿.pdf",
+    "sha256": "a37f2b2fc84554b3ea0ba7907bd4d4a024d49caf655d9b09a5186f55813c171a"
+  },
+  "limitations": "LibreOffice rendering proxy; native Word normal-open verified separately, but full native visual review was interrupted."
+}

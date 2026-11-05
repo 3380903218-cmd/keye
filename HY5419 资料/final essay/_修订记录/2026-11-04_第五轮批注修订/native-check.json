@@ -1,0 +1,14 @@
+{
+  "artifact_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+  "performed_at": "2026-11-04T22:55:59.892861+08:00",
+  "status": "partial",
+  "application": "Microsoft Word for Mac",
+  "normal_open_verified": true,
+  "observations": [
+    "Closed the saved original window before atomically replacing its file.",
+    "Reopened the updated original through the Word Open dialog; expected full file URL and title were observed without repair warning.",
+    "Ten native page containers and no comment threads were exposed by the Word accessibility tree.",
+    "Attempt to find the changed text was interrupted by an unrelated document access prompt; all subsequent native interaction stopped."
+  ],
+  "limitations": "The two changed passages and native pagination were not fully visually inspected in Word. All ten current proxy-rendered pages were visually inspected and passed; see visual-check.json."
+}

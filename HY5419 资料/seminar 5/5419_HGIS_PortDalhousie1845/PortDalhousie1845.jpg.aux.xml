@@ -1,0 +1,50 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="EXIF_BitsPerSample">8</MDI>
+    <MDI key="EXIF_ColorSpace">65535</MDI>
+    <MDI key="EXIF_Compression">1</MDI>
+    <MDI key="EXIF_DateTime">2018:05:04 14:50:01</MDI>
+    <MDI key="EXIF_Orientation">1</MDI>
+    <MDI key="EXIF_PhotometricInterpretation">1</MDI>
+    <MDI key="EXIF_PixelXDimension">4960</MDI>
+    <MDI key="EXIF_PixelYDimension">2691</MDI>
+    <MDI key="EXIF_ResolutionUnit">2</MDI>
+    <MDI key="EXIF_SamplesPerPixel">1</MDI>
+    <MDI key="EXIF_Software">Adobe Photoshop CS6 (Windows)</MDI>
+    <MDI key="EXIF_XResolution">(600)</MDI>
+    <MDI key="EXIF_YResolution">(600)</MDI>
+  </Metadata>
+  <Metadata domain="xml:XMP" format="xml">
+    <?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        ">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreateDate="2018-05-04T14:48:28-04:00" xmp:ModifyDate="2018-05-04T14:50:01-04:00" xmp:MetadataDate="2018-05-04T14:50:01-04:00" dc:format="image/jpeg" photoshop:ColorMode="1" photoshop:ICCProfile="EPSON  Gray - Gamma 1.8" xmpMM:InstanceID="xmp.iid:DE5F741FC94FE811AB9DC258FD0EC953" xmpMM:DocumentID="xmp.did:DC5F741FC94FE811AB9DC258FD0EC953" xmpMM:OriginalDocumentID="xmp.did:DC5F741FC94FE811AB9DC258FD0EC953">
+          <xmpMM:History>
+            <rdf:Seq>
+              <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:DC5F741FC94FE811AB9DC258FD0EC953" stEvt:when="2018-05-04T14:48:28-04:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" />
+              <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:DD5F741FC94FE811AB9DC258FD0EC953" stEvt:when="2018-05-04T14:50:01-04:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/" />
+              <rdf:li stEvt:action="converted" stEvt:parameters="from image/tiff to image/jpeg" />
+              <rdf:li stEvt:action="derived" stEvt:parameters="converted from image/tiff to image/jpeg" />
+              <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:DE5F741FC94FE811AB9DC258FD0EC953" stEvt:when="2018-05-04T14:50:01-04:00" stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)" stEvt:changed="/" />
+            </rdf:Seq>
+          </xmpMM:History>
+          <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:DD5F741FC94FE811AB9DC258FD0EC953" stRef:documentID="xmp.did:DC5F741FC94FE811AB9DC258FD0EC953" stRef:originalDocumentID="xmp.did:DC5F741FC94FE811AB9DC258FD0EC953" />
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+    <?xpacket end="w"?>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">254</MDI>
+      <MDI key="STATISTICS_MEAN">227.54736766536</MDI>
+      <MDI key="STATISTICS_STDDEV">46.50827396549</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

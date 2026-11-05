@@ -1,0 +1,316 @@
+{
+  "date": "2026-10-15",
+  "snapshot_id": "HY5419-LIT10-20261015",
+  "status": "validated",
+  "review_type": "curated reading list, not systematic review",
+  "last_saved_search_batch": "Q11",
+  "bibliographic_items": 10,
+  "full_text_files": 9,
+  "pdf_files": 8,
+  "reprinted_html": 1,
+  "unavailable_full_text": [
+    "L06"
+  ],
+  "files": [
+    {
+      "path": "10篇文献整理表.csv",
+      "bytes": 9462,
+      "sha256": "0f5f5a093c66162a16e23bdaae18ab224ea8d54e738c8e62c978f15bfe15f4e9"
+    },
+    {
+      "path": "10篇核心文献与综述提纲.md",
+      "bytes": 15075,
+      "sha256": "d45d59c57051b78acd0b15cd82edf4ea8f89e20c479e554f13a386f8608f353e"
+    },
+    {
+      "path": "build_reading_package.py",
+      "bytes": 13459,
+      "sha256": "4d737e546dd7a00de9313a614c320702a0db9bc6af4b35dd109160d98bf5336f"
+    },
+    {
+      "path": "evidence-matrix.tsv",
+      "bytes": 6669,
+      "sha256": "cf7cee3d5bb864a7fddbf07fdf9c05eacd8fe140601b649c7237b601a3b271a9"
+    },
+    {
+      "path": "extracted/L01_Doumy_2025.pdf.txt",
+      "bytes": 96296,
+      "sha256": "443719404a5f72a0947a7dfc557dd08547a28b90e02d7f33711b59d43b487b39"
+    },
+    {
+      "path": "extracted/L02_Terzi_Whitfield_2024.pdf.txt",
+      "bytes": 112464,
+      "sha256": "8a6d502ecaf542cd4bdd8f29d1da7cd2290d40234459d95696c508d7db86d7fe"
+    },
+    {
+      "path": "extracted/L03_Fang_2009.txt",
+      "bytes": 46308,
+      "sha256": "638247b1f1fd41584ac142589047d98e0fc138e1b911b8d41f394fe056786e31"
+    },
+    {
+      "path": "extracted/L08_Wang_Wen_Whitfield_2020.txt",
+      "bytes": 65870,
+      "sha256": "3342b814d81cf94a5562cc0ec8e92e640cbfed0727e42caf21cfd309bab776ac"
+    },
+    {
+      "path": "extracted/L09_Whitfield_1996_OCR.txt",
+      "bytes": 16990,
+      "sha256": "e12c0b888b1fc51c9348eade66bfcaa8acc8f00491bb8dae6b676f6e42ad6efd"
+    },
+    {
+      "path": "extracted/lis2021.txt",
+      "bytes": 7961,
+      "sha256": "a88533a302a489eef534fc85cc825cdb7ae92ac26e024608d2850855e3e3bfa0"
+    },
+    {
+      "path": "extracted/lis_full.txt",
+      "bytes": 51451,
+      "sha256": "b8a712ab63e651f0947c2c79a78f0dd4a20449597a5579583010e7ac21406204"
+    },
+    {
+      "path": "extracted/met2020.txt",
+      "bytes": 81688,
+      "sha256": "422ef8685c875b8382866f41695b7f08a5f5f7a39303185646bb846c520d09f5"
+    },
+    {
+      "path": "extracted/pan2025.txt",
+      "bytes": 40586,
+      "sha256": "3ac4f5ad195d1b7e5f96c57e5776cd59a2c06afea6fb92f67e84cd7670e0805d"
+    },
+    {
+      "path": "extracted/whitfield1996.txt",
+      "bytes": 1199,
+      "sha256": "9ffc4df3e8813c06cf4dfc2f2ece75dda85cd57b410c4438d1e6fa2071de2804"
+    },
+    {
+      "path": "extracted/zju2023_pdf.txt",
+      "bytes": 61947,
+      "sha256": "b9678c324dfb9b7a1d1befdea3c17e5f0bba836f87dc99fdc0668615a2aa08fa"
+    },
+    {
+      "path": "extracted/zju2024_pdf.txt",
+      "bytes": 84172,
+      "sha256": "50f0f3bf56341cc46fb3e9e7b607ffe1370f595aa64feca3b0b893531159abc9"
+    },
+    {
+      "path": "full-text/L01_Doumy_2025.pdf",
+      "bytes": 1411361,
+      "sha256": "fd02bd0cf3ed0ec94bade8da6f07c8f82a4f300270e9c6173c202ef031036888"
+    },
+    {
+      "path": "full-text/L02_Terzi_Whitfield_2024.pdf",
+      "bytes": 3446011,
+      "sha256": "58537191080642fd374ae7ff9314ba7ddbb5258456423bc4879a0852b7652c5c"
+    },
+    {
+      "path": "full-text/L03_Fang_2009_reprint.html",
+      "bytes": 59353,
+      "sha256": "de853a8402dd059fb1ebf0bbe689a6179f485eb0b8449437e4f2be52bd43d0a3"
+    },
+    {
+      "path": "full-text/L04_Xu_2024.pdf",
+      "bytes": 1525142,
+      "sha256": "256c6d9632c2e449876957d0887eec3d6986f539f465cbccef830ad8639282ee"
+    },
+    {
+      "path": "full-text/L05_Pan_2025.pdf",
+      "bytes": 1963538,
+      "sha256": "3a27828abc67a56bc8794aef11a4b1033b714bd9c0b212b9e60de7df3d89f729"
+    },
+    {
+      "path": "full-text/L07_Zhou_Zhang_2023.pdf",
+      "bytes": 4460753,
+      "sha256": "1e213dbe6940e58d7a5685ac5d648299d300ce70e4723d3601508ecae95c56dd"
+    },
+    {
+      "path": "full-text/L08_Wang_Wen_Whitfield_2020.pdf",
+      "bytes": 2765050,
+      "sha256": "9136ba440284a1cb64060750b3433aade7b04267885a32334daea26e99e6a8f7"
+    },
+    {
+      "path": "full-text/L09_Whitfield_1996_article_excerpt.pdf",
+      "bytes": 1002209,
+      "sha256": "6903b3b6f2dd49ae01538fd9a7e20d5952d867acaa318adc147d7834c7b1815b"
+    },
+    {
+      "path": "full-text/L10_Cheng_Wang_2021.pdf",
+      "bytes": 1452765,
+      "sha256": "811a65e66b99750236beb61d8f93451f3d4f97bede9a380392d59637f021728e"
+    },
+    {
+      "path": "literature_data.json",
+      "bytes": 14133,
+      "sha256": "b68a9e2b97417cdf06fc38ed50d02ef3bb2be24230c5f7cd67dd56f8863fc6e0"
+    },
+    {
+      "path": "metadata/L02_crossref.json",
+      "bytes": 13303,
+      "sha256": "7f547f6613fd7c6a86822820d5c8f63e6ca6f1e7f720be0ea03148963ae3e766"
+    },
+    {
+      "path": "metadata/L08_crossref.json",
+      "bytes": 12679,
+      "sha256": "9ef10562a31f9b6a857344c386467467eb4a9d2318d197f7fe6cfa01668c9b1d"
+    },
+    {
+      "path": "metadata/L09_crossref.json",
+      "bytes": 3192,
+      "sha256": "e78f5b53fbc7668941d1ce057cf984a92360c2cfdfadf437430ba077c527c82d"
+    },
+    {
+      "path": "metadata/lis2021_last_page_only.pdf",
+      "bytes": 393340,
+      "sha256": "4dd57f64172f85b439f507dbc0e27209c001a338dbfe7665b6e7ab60841c1436"
+    },
+    {
+      "path": "metadata/lis_html.html",
+      "bytes": 120937,
+      "sha256": "d30370d757dcf7ebd85d8df2dd393985a0805a7972ca001a463b71a146c3a5a8"
+    },
+    {
+      "path": "metadata/zju2023.html",
+      "bytes": 53219,
+      "sha256": "bfe0d914d94706a9181c761d2239ed402f9ba905a22a6d8b1c6dc3e303431807"
+    },
+    {
+      "path": "metadata/zju2024.html",
+      "bytes": 48692,
+      "sha256": "4090cb1e1e9e773417224f289455fd268c6ab6163b9fbfe2a156827336ccaef6"
+    },
+    {
+      "path": "package-validation.json",
+      "bytes": 1982,
+      "sha256": "156fe447f8033b86b016c79e9daeb40a2deb15727dd14b18050cfb1671406362"
+    },
+    {
+      "path": "references.bib",
+      "bytes": 5832,
+      "sha256": "ee0f27ec2841e6ada531102780aaa3979b03234c3c18e2b75cccac91390e2797"
+    },
+    {
+      "path": "review-contract.json",
+      "bytes": 1456,
+      "sha256": "0f604483d7f4e7948a98390aa2d8454e9cd08f4436821360d1ceff5109e8193f"
+    },
+    {
+      "path": "screening-ledger.tsv",
+      "bytes": 7223,
+      "sha256": "a212afc5d7150545bab606a3964e0b588e0d111a39bdc3e38eca63ec9275b84b"
+    },
+    {
+      "path": "search-ledger.tsv",
+      "bytes": 8219,
+      "sha256": "15a6070812f1dc46828d9ac6bc244a99f490ea5762ce1e8821510e48170fbb87"
+    },
+    {
+      "path": "source-manifest.tsv",
+      "bytes": 5786,
+      "sha256": "b38baefe988dd4dfd48ee3abb3696769390352adce1ae89185b4c58befebb8c5"
+    },
+    {
+      "path": "sources/bundle_validation_strict.json",
+      "bytes": 405,
+      "sha256": "cee71deb73368fd0a8932e408b53ffde77f637b37f642e1668d5bdceee9e49b8"
+    },
+    {
+      "path": "sources/download_attempts_01.json",
+      "bytes": 16294,
+      "sha256": "916c639afd2ddbfa31a0ced8194953467d02a4a60dd592de0aeb8c0d9668ee1a"
+    },
+    {
+      "path": "sources/lit_search_01.json",
+      "bytes": 34196,
+      "sha256": "98d38bceecbbe0b7d1176976e747d0de22501a8b976f50ac35a2667578de7437"
+    },
+    {
+      "path": "sources/lit_search_02.json",
+      "bytes": 30599,
+      "sha256": "9a86f596369745aa1ebed6c8eb54217e9824e6a7c684c77c50083a7f8ee6373c"
+    },
+    {
+      "path": "sources/lit_search_03.json",
+      "bytes": 27028,
+      "sha256": "ffa282fdcb5f8390faf1684cf81bae1bbec18115e223e2f5cc99b0362ea5b169"
+    },
+    {
+      "path": "sources/lit_search_04.json",
+      "bytes": 31954,
+      "sha256": "63aacc8a514a317901dca3a4072b513a44dc256cddc14f3529f80972c76224b8"
+    },
+    {
+      "path": "sources/lit_search_05.json",
+      "bytes": 29398,
+      "sha256": "c303cb4259a485dc1104f7def161b80a8941b9487a39ff656400b1e708852278"
+    },
+    {
+      "path": "sources/lit_search_06.json",
+      "bytes": 31716,
+      "sha256": "8d3bf06bc3689240e3bff3107c5a936c914ae618fdef3a0ba70957951adce622"
+    },
+    {
+      "path": "sources/lit_search_07.json",
+      "bytes": 28596,
+      "sha256": "c7a8f0beb46f9f086a5757bc4a104641c1eb0ed3cd550f0c1c4e36e4d9fcef30"
+    },
+    {
+      "path": "sources/lit_search_08.json",
+      "bytes": 29915,
+      "sha256": "206c3493db594e73c98b9c9452d2d6e73c982cdd3bcd544da4270a4bdb8310b5"
+    },
+    {
+      "path": "sources/lit_search_09.json",
+      "bytes": 31064,
+      "sha256": "b026a950ecce3f4dde8f92ead993bc02d002d9b185821959a4dcf5998894f28b"
+    },
+    {
+      "path": "sources/lit_search_10.json",
+      "bytes": 26553,
+      "sha256": "e54549ad704c76a9aa6c38b78a4852ba99703cd09d3348a8b64dc399a43bde75"
+    },
+    {
+      "path": "sources/lit_search_11.json",
+      "bytes": 1025,
+      "sha256": "b2d9c755abaa0a8e888058eca72ceaa297129ef7e4f1a236856ea7af7ac3078e"
+    },
+    {
+      "path": "sources/originals/Bsr13.21996_full_issue.pdf",
+      "bytes": 13810895,
+      "sha256": "1c307031ee192616099001b595893d2af820cf03cd2f0c9bd360594d28dcc783"
+    },
+    {
+      "path": "sources/originals/met2020_with_front_matter.pdf",
+      "bytes": 18239058,
+      "sha256": "329310fc82255448bbc36d6dfa06ff4f0ca5b920ab12bfb8952b60f85cbfd3b6"
+    },
+    {
+      "path": "sources/pan2025_final_download.json",
+      "bytes": 2537,
+      "sha256": "45227eee04648ad6b9a1e6ec752c1d237927a7684c356e7e198b311955573412"
+    },
+    {
+      "path": "sources/pdf_identity_validation.json",
+      "bytes": 1377,
+      "sha256": "c02cf51bc537db19ac01b3ea48f3606102cb34389d7bacf75225092b5b386321"
+    },
+    {
+      "path": "sources/zju2023_incomplete.partial.removed.json",
+      "bytes": 224,
+      "sha256": "b7b23bc591a2502eb069cb47f11ff97f64c278a6b722d72822076411bba3d45f"
+    },
+    {
+      "path": "sources/zju2023_pdf_final_download.json",
+      "bytes": 2922,
+      "sha256": "7afa4c0664c4fc6df4ef8711850788322167dac6f5fdf3b23e3ec566b8a3bf71"
+    },
+    {
+      "path": "sources/zju2023_retry.download.removed.json",
+      "bytes": 220,
+      "sha256": "5b328beca45b8bc00f7ca42c8a3d34fd474f927990c6c435ce90dd2a4215fb9e"
+    },
+    {
+      "path": "sources/zju2023_retry.json",
+      "bytes": 308,
+      "sha256": "12f7deb86b9efc1d676ad6af6aa872b856197bbb16646a4db8fc519e65e030e2"
+    }
+  ]
+}

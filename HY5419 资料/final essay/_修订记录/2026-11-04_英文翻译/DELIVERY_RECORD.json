@@ -1,0 +1,156 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "hy5419-dunhuang-essay-20261104-english-translation",
+  "state": "candidate",
+  "content_authority": "User-approved Chinese final source, SHA-256 1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd; translation only.",
+  "format_authority": "Source Word layout and figures; APA 7 reference-format changes.",
+  "synchronization_direction": "word-to-markdown",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "english-translation",
+      "role": "candidate",
+      "path": "英文交付副本.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "cross-format",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "requested_output_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_英文稿.docx",
+        "requested_output_byte_identical": true,
+        "source_sha256": "1e8fcbe533e500c2729359ad957d36c67c346c016dcb7066b0a4bad2610324dd",
+        "preview_evidence": {
+          "path": "visual-check.json",
+          "sha256": "cde2059a8ff3555a4f27c3abc00f2cc052d76007815f4c4b8a88127f12f341f3"
+        }
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "english-translation",
+      "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+      "performed_at": "2026-11-04T23:30:50.414619+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "content-check.json",
+        "sha256": "989d5f1beb8bdef32b1b9d6588730c5b0e17de26585b0b7fb7d4b8ca5f798c24",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this layer.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "english-translation",
+      "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+      "performed_at": "2026-11-04T23:30:50.414619+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "package-check.json",
+        "sha256": "4bb31893b8b04f451d1b9c65c371afd73c7ab770c20111c6941acfc363ca779e",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this layer.",
+      "extensions": {}
+    },
+    {
+      "gate": "cross-format",
+      "status": "passed",
+      "artifact_id": "english-translation",
+      "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+      "performed_at": "2026-11-04T23:30:50.414619+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "cross-format-check.json",
+        "sha256": "e0ffafdd4d36916f57372558a7bf877f6f323164437fd66c41b6513efdf1e2c4",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this layer.",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "unavailable",
+      "artifact_id": "english-translation",
+      "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+      "performed_at": "2026-11-04T23:30:50.414619+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "native-check.json",
+        "sha256": "ddbed24aac692308fcb0b2b0a4a320e8cdcd6ea83d21f4b59fec5084bd434577",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "Native normal-open confirmed, but full native visual inspection interrupted by concurrent use. All 15 current proxy pages passed visual review.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "english-translation",
+      "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+      "performed_at": "2026-11-04T23:30:50.414619+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": "delivery-package-check.json",
+        "sha256": "7098d771f03024c1d9f5ff3328351f0a6295cd6ff04acb3c4522063dae6ec3a8",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "None for this layer.",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "english-translation"
+  ],
+  "invalidated_checks": [
+    "Earlier Chinese-draft validation does not validate this translation."
+  ],
+  "unresolved_risks": [
+    "Full native Word visual review remains unavailable; all current proxy pages have been inspected."
+  ],
+  "next_action": "User reads the English translation; Chinese final source remains unchanged.",
+  "extensions": {
+    "source_backup": "中文定稿_翻译基准.docx",
+    "alignment_file": "translation-alignment.json",
+    "APA_style_sources": [
+      "https://apastyle.apa.org/instructional-aids/reference-guide.pdf",
+      "https://apastyle.apa.org/style-grammar-guidelines/references/examples/journal-article-references",
+      "https://library.unimelb.edu.au/recite/referencing-styles/apa7/referencing-non-english-sources"
+    ]
+  }
+}

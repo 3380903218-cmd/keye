@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.1",
+  "document_id": "HY6101-essay2-English-translation-20261026",
+  "document_type": "translation",
+  "purpose_contract": {
+    "objective": "将用户确认的中文稿忠实译成准确、简洁的英文，并按芝加哥脚注与书目格式处理引用。",
+    "intended_contribution": "保留中文内容、段落顺序、个人思考过程和语气强度的英文Word稿。",
+    "current_document_role": "英文翻译与引用格式整理；中文原稿保持不变。",
+    "supporting_assets": [
+      "批准的中文Word及其逐段快照",
+      "本地课程原文的印刷页码",
+      "Chicago官方指南与两家出版社的书目信息"
+    ],
+    "deferred_deliverables": [],
+    "disallowed_substitutes": [
+      "重新构思或润色改写已批准的内容",
+      "压缩成摘要或增添个人经历、论点、阅读文献",
+      "用装饰性复杂英文替代原意",
+      "把个人暂定理解写成公认定义"
+    ]
+  },
+  "evidence_snapshot": {
+    "id": "approved-Chinese-source",
+    "location": "approved_chinese_source.docx"
+  },
+  "surfaces": [
+    {
+      "surface_id": "source",
+      "role": "用户批准的中文内容",
+      "location": "approved_chinese_source.docx",
+      "status": "frozen"
+    },
+    {
+      "surface_id": "translation",
+      "role": "54个标题及正文区块逐段对应，含46个正文段落",
+      "location": "essay2_english.md",
+      "status": "current"
+    },
+    {
+      "surface_id": "notes",
+      "role": "15条原生Word脚注，包含引用及页码",
+      "location": "citation_verification.json#notes",
+      "status": "current"
+    },
+    {
+      "surface_id": "bibliography",
+      "role": "同样七项文献，按Chicago补全元数据并按姓氏排序",
+      "location": "citation_verification.json#bibliography",
+      "status": "current"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "faithful-scope",
+      "epistemic_status": "approved-decision",
+      "evidence_locator": "Current user request and paragraph_alignment.json",
+      "surface_ids": [
+        "source",
+        "translation"
+      ]
+    },
+    {
+      "claim_id": "terms-and-uncertainty",
+      "epistemic_status": "synthesis",
+      "evidence_locator": "Paragraph-by-paragraph bilingual review; original gradual, possible and provisional judgments retained",
+      "surface_ids": [
+        "translation"
+      ]
+    },
+    {
+      "claim_id": "citation-identities",
+      "epistemic_status": "source-fact",
+      "evidence_locator": "citation_verification.json; publisher pages and course PDF printed pagination",
+      "surface_ids": [
+        "notes",
+        "bibliography"
+      ]
+    }
+  ],
+  "feedback_decisions": [
+    {
+      "feedback_id": "translate-only",
+      "judgment": "correct",
+      "reason": "用户确认内容无问题并明确要求只翻译。",
+      "local_repair": "按源稿区块逐段翻译，不新增或删改论证。",
+      "global_pattern": "核对46个正文段落、6个小标题、两行主副标题的顺序与语义；引用格式变化单独处理。",
+      "affected_surface_ids": [
+        "translation",
+        "notes",
+        "bibliography"
+      ],
+      "verification": "源稿hash不变；54区块逐项对照；原有七项文献全部保留。"
+    },
+    {
+      "feedback_id": "plain-accurate-English",
+      "judgment": "correct",
+      "reason": "用户要求准确、简洁，不需复杂华丽语言。",
+      "local_repair": "使用直接句式与常见词，保留必要档案学术语。",
+      "global_pattern": "核对限定语、否定关系、人物与因果关系；修正容易误译的“私存”“越过职责”等词句。",
+      "affected_surface_ids": [
+        "translation"
+      ],
+      "verification": "人工逐段对照，避免把不确定判断加强为结论。"
+    },
+    {
+      "feedback_id": "Chicago-citations",
+      "judgment": "correct",
+      "reason": "用户明确要求芝加哥文献引用方式。",
+      "local_repair": "采用Notes and Bibliography，首次完整脚注、后续短注、按姓氏排序书目。",
+      "global_pattern": "核对所有脚注锚点、印刷页码与书目身份；以课程提供的2006文集版本为准。",
+      "affected_surface_ids": [
+        "notes",
+        "bibliography"
+      ],
+      "verification": "15条脚注连续编号，7项书目均被引用；出版信息经官方出版社核对。"
+    }
+  ],
+  "unresolved_gaps": [],
+  "next_action": "Hand off the completed English Word translation; no required work remains.",
+  "extensions": {
+    "source_sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+    "native_footnotes": 15,
+    "bibliography_entries": 7,
+    "body_words": 5131,
+    "terminology": {
+      "档案员": "archivist",
+      "鉴定": "appraisal",
+      "整理": "arrangement",
+      "档案再现": "archival representation",
+      "契据簿": "cartulary",
+      "档案馆": "archival repository",
+      "馆藏": "collection",
+      "记录": "record",
+      "私存禁书": "secret preservation of banned books"
+    },
+    "content_additions": "None; bibliography metadata and footnote formatting only.",
+    "reviewed_high_risk_translations": [
+      "Negation in explaining origins versus drawing researchers’ conclusions (source paragraph 19).",
+      "Secret keeping rather than private ownership for 私存禁书 (paragraph 46).",
+      "Provisional personal definition and limitations retained (paragraphs 42,49,53).",
+      "No new demographic or biographical details introduced."
+    ],
+    "final_word_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+    "final_pages": 16,
+    "completed_at": "2026-10-26T01:04:20.583376+08:00",
+    "source_unchanged_after_final_render": true
+  }
+}

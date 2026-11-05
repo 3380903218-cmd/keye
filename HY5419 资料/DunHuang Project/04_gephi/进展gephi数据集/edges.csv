@@ -1,0 +1,7 @@
+﻿Id,Source,Target,Type,Weight,Label,EventCount,EventIds,Route,Relationship,YearStart,YearEnd,SourceRef,EvidenceIds,Confidence,DateNotes,GraphView,Notes
+L_N002_N006,N002,N006,Directed,1,3个记录事件,3,DH001;DH002;DH003,Stein,acquisition,1907,1907,S01;S03;S07,EV001;EV002;EV003;EV004;EV005;EV006;EV007;EV008,medium,DH001: 1907年5月 / DH002: 1907年6月 / DH003: 1907年10月；取得与到安西日区分,actor_transfer_aggregated,Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。
+L_N002_N013,N002,N013,Directed,1,1个记录事件,1,DH005,Pelliot,acquisition,1908,1908,S01;S15;S22,EV013;EV014;EV015,medium,DH005: 1908年；3月查看与选择，交接日未定,actor_transfer_aggregated,Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。
+L_N006_N007,N006,N007,Directed,1,1个记录事件,1,DH004,Stein,physical_deposit,1909,1910,S03;S07;S17,EV009;EV010;EV011;EV012,medium,DH004: 1909年抵英；至1910年初夏已在BM,actor_transfer_aggregated,Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。
+L_N010_N011,N010,N011,Directed,1,1个记录事件,1,DH007,Qing,sample_submission,1909,1909,S19,EV017,medium,DH007: 1909年；根据1910年文书“上年”回推,actor_transfer_aggregated,Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。
+L_N011_N009,N011,N009,Directed,1,2个记录事件,2,DH008;DH009,Qing,institutional_receipt;supplementary_receipt,1910,1910,S11;S19;S25,EV018;EV019;EV020;EV021;EV022,medium,DH008: 1910年；早于宣统二年十一月十二日行文 / DH009: 宣统二年十一月十四日（公历1910-12-15，历表换算）,actor_transfer_aggregated,Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。
+L_N013_N014,N013,N014,Directed,1,1个记录事件,1,DH006,Pelliot,institutional_receipt,1909,1909,S15,EV016,medium,DH006: 1909年底,actor_transfer_aggregated,Weight=1为邻接关系；EventCount为记录事件数，不是件数、捆数或独立来源数。

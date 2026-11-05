@@ -1,0 +1,18 @@
+{
+  "file": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/HY5419_敦煌项目_8分钟展演稿_中英对照.docx",
+  "sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "revision": "批注修订_2026-10-31",
+  "comments_accepted": 3,
+  "comments_resolved": 3,
+  "comment_history_preserved": true,
+  "baseline_backup": "批注修订_2026-10-31/批注原稿备份.docx",
+  "content_check": "passed",
+  "structural_check": "passed",
+  "native_word_check": "passed",
+  "visual_check": "passed",
+  "pages": 7,
+  "english_main_words": 486,
+  "authoritative_delivery_record": "../.展演稿交付记录.json",
+  "native_report": "批注修订_2026-10-31/修订完成Word核验.json",
+  "visual_report": "批注修订_2026-10-31/排版核验.json"
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-20",
+  "output": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/路线地图/敦煌项目_路线地图资料与制作指南.xlsx",
+  "sheet_rows": {
+    "00_开始使用": 32,
+    "01_采集字段": 31,
+    "02_工具选择": 4,
+    "03_地点与坐标": 39,
+    "04_事件梳理": 22,
+    "05_移动段待补": 12,
+    "06_优先补采集": 12,
+    "07_资料与来源": 42,
+    "08_制作步骤": 15,
+    "09_点位导入": 17,
+    "10_图例与核查": 10,
+    "11_采集证据": 33,
+    "12_运输与通信节点": 38,
+    "13_箱号与批次": 15,
+    "14_示意线导入": 18,
+    "15_NUS检索与访问": 7,
+    "16_矛盾与未决": 22,
+    "17_活动点导入": 17,
+    "18_对象与馆藏号": 24
+  },
+  "default_points": 17,
+  "candidate_points": 4,
+  "schematic_lines": 18,
+  "event_points": 17,
+  "claim_count": 33,
+  "original_event_ids_preserved": true,
+  "hamicounts": {
+    "Chinese": 193,
+    "Tibetan": 22,
+    "total": 215
+  },
+  "actual_road_geometries": 0,
+  "invalid_pdf_responses_renamed": [],
+  "input_sha256": "65afef27a27f529e7e4b4e3a707faf19bad2ff9a38aaef315f0b00166200a62d",
+  "output_sha256": "78268c0cb573d4d36a0826e04579ae5c49d4f55863251ef8dca79038734af2b8",
+  "checks": "所有断言通过：ID、外键、来源、坐标范围、箱数求和、表格范围和原事件保留。"
+}

@@ -1,0 +1,111 @@
+{
+  "executed_date": "2026-10-20",
+  "backend": "built-in web",
+  "requests": [
+    {
+      "log": "map_search_07",
+      "request": {
+        "open": [
+          {
+            "ref_id": "https://qgis.org/"
+          },
+          {
+            "ref_id": "https://doc.qgis.org/3.44/en/docs/user_manual/working_with_raster/georeferencer.html"
+          },
+          {
+            "ref_id": "https://www.geonames.org/advanced-search.html?country=CN&q=Hotan+He"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "log": "map_search_08",
+      "request": {
+        "click": [
+          {
+            "ref_id": "turn30view2",
+            "id": 5
+          }
+        ],
+        "open": [
+          {
+            "ref_id": "https://support.google.com/mymaps/answer/3024836?hl=en"
+          },
+          {
+            "ref_id": "https://docs.qgis.org/3.44/en/docs/user_manual/managing_data_source/opening_data.html"
+          },
+          {
+            "ref_id": "https://doc.esri.com/en/arcgis-storymaps/latest/author-and-share/add-maps.html"
+          },
+          {
+            "ref_id": "https://chgis.fas.harvard.edu/pages/howto/"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "log": "map_search_09",
+      "request": {
+        "open": [
+          {
+            "ref_id": "https://www.geonames.org/1281019/gujangbagh.html"
+          },
+          {
+            "ref_id": "https://dsr.nii.ac.jp/digital-maps/stein/place-names/"
+          },
+          {
+            "ref_id": "https://libguides.nus.edu.sg/nuslgis"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "log": "map_search_10",
+      "request": {
+        "search_query": [
+          {
+            "q": "site.archives.bodleian.ox.ac.uk Stein 37 packing lists 1908"
+          },
+          {
+            "q": "site.idp.bl.uk Aurel Stein collection manuscripts search"
+          },
+          {
+            "q": "site.naturalearthdata.com about public domain map data"
+          }
+        ],
+        "open": [
+          {
+            "ref_id": "https://docs.qgis.org/3.44/en/docs/user_manual/working_with_raster/georeferencer.html"
+          },
+          {
+            "ref_id": "https://docs.qgis.org/3.44/en/docs/user_manual/print_composer/create_output.html"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "log": "map_search_11",
+      "request": {
+        "open": [
+          {
+            "ref_id": "https://archives.bodleian.ox.ac.uk/repositories/2/resources/8334"
+          },
+          {
+            "ref_id": "https://idp.bl.uk/discover/collection-categories/stein-collection/"
+          },
+          {
+            "ref_id": "https://www.naturalearthdata.com/about/"
+          },
+          {
+            "ref_id": "https://qgis.org/project/overview/"
+          }
+        ],
+        "response_length": "long"
+      }
+    }
+  ]
+}

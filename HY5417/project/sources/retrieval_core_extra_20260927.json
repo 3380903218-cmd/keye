@@ -1,0 +1,22 @@
+[
+  {
+    "id": "A04upl",
+    "date": "2026-09-27",
+    "url": "https://uplopen.com/books/1398/files/d3f99330-f072-4273-bf5a-4f6cc5f02762.pdf",
+    "kind": "http_error",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "response_excerpt": "<!doctype html><meta charset=\"utf-8\"><meta name=viewport content=\"width=device-width, initial-scale=1\"><title>403</title>403 Forbidden"
+  },
+  {
+    "id": "A04jstor",
+    "date": "2026-09-27",
+    "url": "https://www.jstor.org/stable/pdf/j.ctt46mtvv.11.pdf",
+    "status": 200,
+    "final_url": "https://www.jstor.org/stable/pdf/j.ctt46mtvv.11.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 3038,
+    "kind": "not_pdf",
+    "response_excerpt": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta\n      http-equiv=\"Content-Security-Policy\"\n      content=\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"\n    />\n    <link\n      href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\"\n      rel=\"preload\"\n      as=\"font\"\n      type=\"font/woff2\"\n      crossorigin\n    />\n    <link href=\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css\" rel=\"stylesheet\" />\n    <meta name=\""
+  }
+]

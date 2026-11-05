@@ -1,0 +1,10 @@
+{
+  "docx_sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+  "status": "unavailable",
+  "passed": false,
+  "reason": "The open document had pending changes and was saved before renaming, producing a new file hash. Word reopening did not create an accessible document session; no new rendering is claimed for this hash.",
+  "prior_rendered_hash": "d0c38d4bbe0812bee99e8d9ca1b6fcf6d09c64d3ad537534770d102132de1d11",
+  "rename_preserved_saved_bytes": true,
+  "old_preview_is_historical": true,
+  "next_action": "Open the renamed file normally and rerender if further editing or submission validation is requested."
+}

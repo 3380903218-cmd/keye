@@ -1,0 +1,143 @@
+Search Result (14) | Stein Gazetteer
+Stein Gazetteer
+Digital Silk Road
+>
+Ruin Database
+>
+Stein Gazetteer
+> Search
+日本語
+| English
+Search Result (14)
+Name
+Category
+Subcategory
+Sheet
+Index
+Latitude
+Longitude
+Photo
+1
+An-hsi
+green
+town
+38.3.D
+183
+40.52999
+95.95328
+0
+2
+Chê-wan-hsing (?)
+green
+locality
+42.4.D
+187
+40.42759
+99.54091
+0
+3
+Chên-fan-hsien
+ruin
+site
+38.4.B
+187
+40.110523
+94.784424
+0
+4
+Erh-kung (of An-hsi)
+green
+village
+38.4.D
+191
+40.466488
+95.81569
+0
+5
+Hsiao-wan (of An-hsi)
+green
+village
+40.4.A
+193
+40.53624
+96.271736
+0
+6
+Ma-ch'üan-hsien
+green
+village
+40.5.A
+206
+40.29771
+96.26268
+0
+7
+P'o-ch'êng-tzu (of An-hsi)
+ruin
+site
+40.4.A
+209
+40.504593
+96.155495
+0
+8
+P'o-ch'êng-tzu (of An-hsi) α
+ruin
+tower
+40.2.A
+40.506123
+96.12625
+0
+9
+P'o-ch'êng-tzu (of An-hsi) β
+ruin
+tower
+40.3.A
+40.497562
+96.099724
+0
+10
+P'o-ch'êng-tzu (of An-hsi) γ
+ruin
+tower
+40.3.A
+40.48484
+96.067986
+0
+11
+San-hsi-ko-tzu
+green
+locality
+31.1.A
+210
+43.793625
+90.35476
+0
+12
+San-hsi-lo
+green
+locality
+29.1.A
+210
+41.52568
+88.19834
+0
+13
+Ta-ch’üan (of An-hsi)
+green
+station
+38.2.C
+214
+41.321823
+95.380325
+0
+14
+Ta-man-hsing
+green
+village
+46.3.B
+214
+38.814434
+100.53212
+0
+Copyright (C) 2009-2021, Digital Silk Road Project, National Institute of Informatics.

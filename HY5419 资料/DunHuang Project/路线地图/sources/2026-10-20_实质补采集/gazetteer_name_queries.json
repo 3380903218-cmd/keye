@@ -1,0 +1,569 @@
+[
+  {
+    "term": "Ch’ien-fo",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Ch%E2%80%99ien-fo&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      }
+    ]
+  },
+  {
+    "term": "Chien",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Chien&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "Chien-ch'üan-tzu (Shōr-bulak; of Tun-huang)",
+        "path": "/digital-maps/stein/place-names/00860.html.en"
+      },
+      {
+        "name": "Chien-ch'üan-tzu (of Kao-t'ai)",
+        "path": "/digital-maps/stein/place-names/00859.html.en"
+      },
+      {
+        "name": "Chien-wa",
+        "path": "/digital-maps/stein/place-names/00863.html.en"
+      },
+      {
+        "name": "Shōr-bulak (see Chien-ch'üan-tzu)",
+        "path": "/digital-maps/stein/place-names/04061.html.en"
+      }
+    ]
+  },
+  {
+    "term": "Hung-liu",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Hung-liu&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "Hung-liu-hsia",
+        "path": "/digital-maps/stein/place-names/01593.html.en"
+      },
+      {
+        "name": "Hung-liu-hsiao",
+        "path": "/digital-maps/stein/place-names/01594.html.en"
+      },
+      {
+        "name": "Hung-liu-pao",
+        "path": "/digital-maps/stein/place-names/01595.html.en"
+      },
+      {
+        "name": "Hung-liu-pao T.",
+        "path": "/digital-maps/stein/place-names/06732.html.en"
+      },
+      {
+        "name": "Hung-liu-yüan (of An-his)",
+        "path": "/digital-maps/stein/place-names/01596.html.en"
+      },
+      {
+        "name": "Hung-liu-yüan (of Hsin-hsin-hsia)",
+        "path": "/digital-maps/stein/place-names/01597.html.en"
+      }
+    ]
+  },
+  {
+    "term": "Hsing-hsing",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Hsing-hsing&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "Hsing-hsing-hsia",
+        "path": "/digital-maps/stein/place-names/01557.html.en"
+      },
+      {
+        "name": "Hsing-hsing-hsia M.",
+        "path": "/digital-maps/stein/place-names/06667.html.en"
+      }
+    ]
+  },
+  {
+    "term": "K’u-shui",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=K%E2%80%99u-shui&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      }
+    ]
+  },
+  {
+    "term": "K'u-shui",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=K%27u-shui&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "K'u-shui (of Hāmi)",
+        "path": "/digital-maps/stein/place-names/02816.html.en"
+      },
+      {
+        "name": "K'u-shui (of Su-chou)",
+        "path": "/digital-maps/stein/place-names/02817.html.en"
+      }
+    ]
+  },
+  {
+    "term": "Hami",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Hami&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      }
+    ]
+  },
+  {
+    "term": "Kucha",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Kucha&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "Bakuchak",
+        "path": "/digital-maps/stein/place-names/00455.html.en"
+      },
+      {
+        "name": "Jilkucha",
+        "path": "/digital-maps/stein/place-names/01782.html.en"
+      },
+      {
+        "name": "Kucha. T. I",
+        "path": "/digital-maps/stein/place-names/06514.html.en"
+      },
+      {
+        "name": "Kucha. T. II",
+        "path": "/digital-maps/stein/place-names/06515.html.en"
+      },
+      {
+        "name": "Kucha. T. III",
+        "path": "/digital-maps/stein/place-names/06516.html.en"
+      },
+      {
+        "name": "Kucha. T. IV",
+        "path": "/digital-maps/stein/place-names/06517.html.en"
+      },
+      {
+        "name": "Kuchak-kotan",
+        "path": "/digital-maps/stein/place-names/02826.html.en"
+      }
+    ]
+  },
+  {
+    "term": "Shan-shan",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Shan-shan&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      }
+    ]
+  },
+  {
+    "term": "Turfan",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Turfan&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "Ābād (of Turfan)",
+        "path": "/digital-maps/stein/place-names/00006.html.en"
+      }
+    ]
+  },
+  {
+    "term": "Karashahr",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Karashahr&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      }
+    ]
+  },
+  {
+    "term": "Bugur",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Bugur&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "Ak-sarai (of Bugur)",
+        "path": "/digital-maps/stein/place-names/00142.html.en"
+      },
+      {
+        "name": "Ak-tam (of Bugur)",
+        "path": "/digital-maps/stein/place-names/00162.html.en"
+      },
+      {
+        "name": "Ala-sai (of Bugur)",
+        "path": "/digital-maps/stein/place-names/00233.html.en"
+      },
+      {
+        "name": "Ara-mahalla (of Bugur)",
+        "path": "/digital-maps/stein/place-names/00283.html.en"
+      },
+      {
+        "name": "Bugur",
+        "path": "/digital-maps/stein/place-names/00645.html.en"
+      },
+      {
+        "name": "Bugur-bāzār",
+        "path": "/digital-maps/stein/place-names/00646.html.en"
+      },
+      {
+        "name": "Bāgh-jigda (of Bugur)",
+        "path": "/digital-maps/stein/place-names/00425.html.en"
+      },
+      {
+        "name": "Kara-dawān (of Bugur)",
+        "path": "/digital-maps/stein/place-names/01956.html.en"
+      },
+      {
+        "name": "Kara-jilga (of Bugur)",
+        "path": "/digital-maps/stein/place-names/01979.html.en"
+      },
+      {
+        "name": "Kara-kum (of Bugur)",
+        "path": "/digital-maps/stein/place-names/02032.html.en"
+      },
+      {
+        "name": "Kara-tal (Bugur)",
+        "path": "/digital-maps/stein/place-names/02083.html.en"
+      },
+      {
+        "name": "Kizil R. (of Bugur)",
+        "path": "/digital-maps/stein/place-names/02457.html.en"
+      },
+      {
+        "name": "Seghizlik (of Bugur)",
+        "path": "/digital-maps/stein/place-names/03909.html.en"
+      },
+      {
+        "name": "Tuzluk (of Bugur)",
+        "path": "/digital-maps/stein/place-names/04890.html.en"
+      },
+      {
+        "name": "Tārlak (of Bugur)",
+        "path": "/digital-maps/stein/place-names/04412.html.en"
+      },
+      {
+        "name": "Tāsh-arik (of Bugur)",
+        "path": "/digital-maps/stein/place-names/04419.html.en"
+      },
+      {
+        "name": "Yangi-hissār (of Bugur)",
+        "path": "/digital-maps/stein/place-names/05170.html.en"
+      },
+      {
+        "name": "Yangi-ābād (of Bugur)",
+        "path": "/digital-maps/stein/place-names/05147.html.en"
+      }
+    ]
+  },
+  {
+    "term": "Khotan",
+    "url": "https://dsr.nii.ac.jp/cgi-bin/digital-maps/list.pl?name=Khotan&lang=en&map=stein",
+    "http": 200,
+    "matches": [
+      {
+        "name": "Stein Gazetteer",
+        "path": "/digital-maps/stein/place-names/"
+      },
+      {
+        "name": "Achchik (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00033.html.en"
+      },
+      {
+        "name": "Achchik-jilga (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00048.html.en"
+      },
+      {
+        "name": "Aidin-köl (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00078.html.en"
+      },
+      {
+        "name": "Ak-kum (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00123.html.en"
+      },
+      {
+        "name": "Ak-langar (E. of Khotan)",
+        "path": "/digital-maps/stein/place-names/00124.html.en"
+      },
+      {
+        "name": "Ak-langar (W. of Khotan)",
+        "path": "/digital-maps/stein/place-names/00125.html.en"
+      },
+      {
+        "name": "Ak-sarai (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00144.html.en"
+      },
+      {
+        "name": "Ak-tiken (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/00185.html.en"
+      },
+      {
+        "name": "Ak-tāsh (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00170.html.en"
+      },
+      {
+        "name": "Bostān-toghrak (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00625.html.en"
+      },
+      {
+        "name": "Chal-bāsh (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00738.html.en"
+      },
+      {
+        "name": "Chatak (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00809.html.en"
+      },
+      {
+        "name": "Chigelik (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/00872.html.en"
+      },
+      {
+        "name": "Eski (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01316.html.en"
+      },
+      {
+        "name": "Faizābād (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01327.html.en"
+      },
+      {
+        "name": "Ighiz-arik (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01630.html.en"
+      },
+      {
+        "name": "Ilchi (Khotan)",
+        "path": "/digital-maps/stein/place-names/01639.html.en"
+      },
+      {
+        "name": "Inchike-claryā (of Khotan R.)",
+        "path": "/digital-maps/stein/place-names/01661.html.en"
+      },
+      {
+        "name": "Jai (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01706.html.en"
+      },
+      {
+        "name": "Jai-terek (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01718.html.en"
+      },
+      {
+        "name": "Jigda-kuduk (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01767.html.en"
+      },
+      {
+        "name": "Kallaste (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/01847.html.en"
+      },
+      {
+        "name": "Kara-dong (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/01968.html.en"
+      },
+      {
+        "name": "Kara-döbe (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01961.html.en"
+      },
+      {
+        "name": "Kara-kāsh (of Khotan)",
+        "path": "/digital-maps/stein/place-names/01991.html.en"
+      },
+      {
+        "name": "Kara-sai (of Khotan)",
+        "path": "/digital-maps/stein/place-names/02056.html.en"
+      },
+      {
+        "name": "Kara-yantak (of Khotan)",
+        "path": "/digital-maps/stein/place-names/02117.html.en"
+      },
+      {
+        "name": "Khotan",
+        "path": "/digital-maps/stein/place-names/02360.html.en"
+      },
+      {
+        "name": "Khotan",
+        "path": "/digital-maps/stein/place-names/02361.html.en"
+      },
+      {
+        "name": "Khotan R.",
+        "path": "/digital-maps/stein/place-names/02362.html.en"
+      },
+      {
+        "name": "Khotan R.",
+        "path": "/digital-maps/stein/place-names/02363.html.en"
+      },
+      {
+        "name": "Khotan R.",
+        "path": "/digital-maps/stein/place-names/02364.html.en"
+      },
+      {
+        "name": "Khān-arik (of Khotan)",
+        "path": "/digital-maps/stein/place-names/02304.html.en"
+      },
+      {
+        "name": "Kighillik (of Khotan)",
+        "path": "/digital-maps/stein/place-names/02411.html.en"
+      },
+      {
+        "name": "Kizil-dawān (of Khotan)",
+        "path": "/digital-maps/stein/place-names/02474.html.en"
+      },
+      {
+        "name": "Koiche (of Khotan)",
+        "path": "/digital-maps/stein/place-names/02555.html.en"
+      },
+      {
+        "name": "Kosh-köl (of Khotan)",
+        "path": "/digital-maps/stein/place-names/02747.html.en"
+      },
+      {
+        "name": "Kum-chakma (of Khotan R. delta)",
+        "path": "/digital-maps/stein/place-names/02879.html.en"
+      },
+      {
+        "name": "Kum-chakma (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/02880.html.en"
+      },
+      {
+        "name": "Kōne-daryā (of Khotan R.)",
+        "path": "/digital-maps/stein/place-names/02697.html.en"
+      },
+      {
+        "name": "Majan (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/03196.html.en"
+      },
+      {
+        "name": "Masjid (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/03229.html.en"
+      },
+      {
+        "name": "Mazār-tāgh (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/03251.html.en"
+      },
+      {
+        "name": "Mōmen (on Khotan R.)",
+        "path": "/digital-maps/stein/place-names/03319.html.en"
+      },
+      {
+        "name": "Naghara-khāna (of Khotan)",
+        "path": "/digital-maps/stein/place-names/03376.html.en"
+      },
+      {
+        "name": "Pakhtalik (of Khotan)",
+        "path": "/digital-maps/stein/place-names/03579.html.en"
+      },
+      {
+        "name": "Rawak (of Khotan)",
+        "path": "/digital-maps/stein/place-names/03729.html.en"
+      },
+      {
+        "name": "Sai-arik (of Khotan)",
+        "path": "/digital-maps/stein/place-names/03749.html.en"
+      },
+      {
+        "name": "Sai-bāgh (of Khotan)",
+        "path": "/digital-maps/stein/place-names/03754.html.en"
+      },
+      {
+        "name": "Sarīgh-oi (of Khotan)",
+        "path": "/digital-maps/stein/place-names/03857.html.en"
+      },
+      {
+        "name": "Tam-öghil (of Khotan)",
+        "path": "/digital-maps/stein/place-names/04359.html.en"
+      },
+      {
+        "name": "Tarbogaz (of Khotan)",
+        "path": "/digital-maps/stein/place-names/04390.html.en"
+      },
+      {
+        "name": "Tati (of Khotan)",
+        "path": "/digital-maps/stein/place-names/06002.html.en"
+      },
+      {
+        "name": "Tonguzluk (of Khotan R.)",
+        "path": "/digital-maps/stein/place-names/04691.html.en"
+      },
+      {
+        "name": "Tugh-bāshi (of Kara-sai, Khotan)",
+        "path": "/digital-maps/stein/place-names/04795.html.en"
+      },
+      {
+        "name": "Tuzluk-sai (of Khotan)",
+        "path": "/digital-maps/stein/place-names/04900.html.en"
+      },
+      {
+        "name": "Ulūgh-art-dawān (of Khotan)",
+        "path": "/digital-maps/stein/place-names/04935.html.en"
+      },
+      {
+        "name": "Yangi-arik (of Khotan)",
+        "path": "/digital-maps/stein/place-names/05159.html.en"
+      },
+      {
+        "name": "Yangi-daryā (of Khotan R.)",
+        "path": "/digital-maps/stein/place-names/05163.html.en"
+      },
+      {
+        "name": "Yangi-daryā (of Khotan)",
+        "path": "/digital-maps/stein/place-names/05164.html.en"
+      },
+      {
+        "name": "Yangi-ābād (of Khotan)",
+        "path": "/digital-maps/stein/place-names/05149.html.en"
+      },
+      {
+        "name": "Yawāsh (of Khotan)",
+        "path": "/digital-maps/stein/place-names/05271.html.en"
+      },
+      {
+        "name": "Yumulak-aral (of Khotan R. delta)",
+        "path": "/digital-maps/stein/place-names/05429.html.en"
+      },
+      {
+        "name": "Yumulak-aral (of Khotan R.)",
+        "path": "/digital-maps/stein/place-names/05428.html.en"
+      },
+      {
+        "name": "Zawa (of Khotan)",
+        "path": "/digital-maps/stein/place-names/05475.html.en"
+      },
+      {
+        "name": "Āt-bāsh (of Khotan)",
+        "path": "/digital-maps/stein/place-names/00377.html.en"
+      }
+    ]
+  }
+]

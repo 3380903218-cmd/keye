@@ -1,0 +1,79 @@
+{
+  "title": "Rebuilding Connections: Addressing Loneliness among University Students",
+  "paragraphs": [
+    "University life can create new opportunities while weakening familiar sources of companionship. Quinn (2025) explains that loneliness involves unmet needs for connection and belonging, rather than simply being alone. For students adjusting to a different social environment, maintaining meaningful relationships can therefore be challenging. To address this problem, students should keep in touch with family and old friends, develop shared interests and take part in volunteering or internships.",
+    "University brings together students from different regions, and for some, it is their first experience of living far from home for an extended period. Unlike relatively stable secondary-school classes, university courses may involve changing groups of classmates, making close friendships harder to establish. Ellard et al. (2023) identify academic and social pressures as features of this transition. Uncertainty about future careers may further intensify loneliness when familiar support is absent. How can students rebuild a sense of belonging under these conditions? Maintaining contact with trusted people and joining regular activities with shared goals could provide emotional support and new connections. Together, these responses offer a way to rebuild support while adapting to greater independence.",
+    "Students can respond by maintaining existing relationships while building new ones through shared interests. Communication tools make regular contact with family and old friends possible despite geographical distance. For example, scheduled video calls can provide opportunities to discuss everyday experiences and personal worries. Such conversations may offer reassurance while students adjust to university. Meanwhile, developing hobbies through clubs or informal groups can bring students into repeated contact with people who share their interests. Ellard et al. (2023) found promising evidence for interventions promoting social connectedness, although the size of the benefits remained unclear. Joining a painting group or sports club could thus create opportunities for companionship. Developing a hobby can also give students a satisfying focus beyond coursework. Together, familiar support and new friendships may help students feel more connected.",
+    "Volunteering and internships may offer further opportunities for connection and personal development. Ellard et al. (2023) report that interventions promoting social interaction show promise in reducing student loneliness. Applying this principle, a student could join a community project, cooperate with a team and take responsibility for a practical task. Working towards shared goals may create relationships while developing communication and problem-solving skills. Internships could also help students explore career interests and feel more confident about future choices. Students should choose manageable commitments that allow meaningful cooperation without adding excessive academic pressure.",
+    "In conclusion, university students' loneliness can reflect separation from familiar relationships, changing peer groups and pressure about studies and the future. Keeping in touch, developing hobbies and participating in volunteering or internships offer complementary responses. Students should seek both supportive relationships and manageable opportunities for personal development as they adapt to university life."
+  ],
+  "paragraph_counts": [
+    68,
+    114,
+    130,
+    91,
+    53
+  ],
+  "body_word_count": 456,
+  "word_count_scope": "Five essay paragraphs including in-text citations; excludes heading, title, W= line, references and declaration.",
+  "references": [
+    {
+      "author": "Ellard, O. B., Dennison, C., & Tuomainen, H.",
+      "date": "2023",
+      "title": "Review: Interventions addressing loneliness amongst university students: A systematic review.",
+      "journal": "Child and Adolescent Mental Health",
+      "volume": "28",
+      "issue": "4",
+      "pages": "512–523",
+      "url": "https://doi.org/10.1111/camh.12614"
+    },
+    {
+      "author": "Quinn, K.",
+      "date": "2025, March 4",
+      "title": "Reducing loneliness on college campuses.",
+      "site": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/optimized/202503/reducing-loneliness-on-college-campuses"
+    }
+  ],
+  "focus": "University students: separation from home, disrupted class relationships, academic pressure and uncertainty about future careers; maintaining familiar relationships, developing hobbies, and volunteering or internships.",
+  "structure": [
+    "Introduction and thesis",
+    "Context, question, proposed response and conclusion",
+    "Solutions: contact with family and old friends; shared hobbies",
+    "Evidence-supported application to volunteering and internships",
+    "Conclusion and recommendation"
+  ],
+  "student_identity_source": "Prior ES5000 writing assignment and project decisions: WANG XIWEN; Group 6.",
+  "date": "2026-10-20",
+  "ai_declaration": "Official declaration and the student's current checkbox selections preserved; two boxes were already checked in the reviewed original.",
+  "content_authority": "Current annotated Word file and the user's two comments of 21 October 2026; student reasoning from 20 October remains in force.",
+  "ai_note": "AI use in this draft: OpenAI Codex generated the initial draft and revised it using the student's own ideas, with assistance in English expression, source checking and formatting. The student should review and complete the declaration below.",
+  "revision": {
+    "date": "2026-10-21",
+    "mode": "In-place revision following two Word comments; comment threads retained and marked resolved.",
+    "baseline_sha256": "6d09a754588e4e1c2be3063835d1d1b954c714b4ca60bfa5b8d5097410840d8e",
+    "recoverable_backup": "/var/folders/_m/4vdgxlpd4qn69gmj_8df0r480000gn/T/es5000-wa2-annotated-2026-10-21-o1h3hw66/G6_WANG XIWEN_Writing Assignment 2 Draft.docx",
+    "prior_local_commit": "16d8fdbbb59dd9ec6fddad460c1f1c59ff951573",
+    "preserve_student_checkbox_selections": true
+  },
+  "comment_responses": [
+    {
+      "id": "0",
+      "paragraph": 2,
+      "comment": "这一段没有context、question、solution、conclusion的结构",
+      "judgment": "Accepted",
+      "repair": "Reorganised paragraph 2 into university transition context, a direct question about rebuilding belonging, a proposed response, and a concluding implication.",
+      "status": "resolved"
+    },
+    {
+      "id": "1",
+      "paragraph": 4,
+      "comment": "这一段缺少引用",
+      "judgment": "Accepted",
+      "repair": "Added Ellard et al. (2023) for social-interaction evidence; volunteering and internships are explicitly introduced as applications of that principle, with conditional claims.",
+      "status": "resolved"
+    }
+  ],
+  "submission_filename": "G6_WANG XIWEN_p-s essay.docx",
+  "filename_rule": "tutorial group number_name_assignment; example G10_Teo Wei Jie_p-s essay"
+}

@@ -1,0 +1,19 @@
+record_id	search_id	source_id	title	year	stage	decision	decision_round	current	supersedes	reason	evidence_role	notes
+R_L01	Q08	L01	Wang Yuanlu, the first ‘curator’ of the Stein collection’s Dunhuang corpus	2025	full_text	include	1	true		实物流转与地方行动者；用于综述开头，将取得史从单一探险家叙述扩展到地方人物；可支持记录选择、谈判、赠送等不同角色。	original_study	已有，重选为核心；作者综合探险者记述、日记与中文材料；其中转引、推断和历史参与者立场仍需逐项区分。
+R_L02	Q09	L02	Reconstructing a Medieval Library? The Contents of the Manuscript Bundles in the Dunhuang Library Cave	2024	full_text	include	1	true		批次、编号与证据重建；为对象—批次—取得—编号—装箱的分层记录提供直接参考，是现有Gephi数据的主要方法依据之一。	original_study	已有，重选为核心；作者明确只能重建部分捆束内容，不能由此复原洞内全部排列；蒋孝琬编号手迹归属等表述保留推定。
+R_L03	Q05	L03	百年前的一桩公案——关于22卷续交敦煌遗书的考察	2009	full_text	include	1	true		北京转运、接收与题记辨伪；用于北京路线，说明流散并非仅发生于海外取得阶段；也适合讨论题记作为来源证据时的可信度。	original_study	已有，保留北京路线核心研究；本包保存2010年转载正文，原刊PDF和原档影像未取得；转载日期不是论文年份，不能把录文等同原档。未查得可独立核实的DOI，留空。
+R_L04	Q07	L04	李盛铎等人窃取敦煌写卷的证据	2024	full_text	include	1	true		流散归因与物质证据；与方广锠对读，学习怎样把“藏家曾持有”“写卷能缀合”和“谁在何时撕裂”分别处理。	original_study	新增；题名体现作者的论证立场；不能把所有断裂或所有藏家关系直接编码成已证实盗取。作者自己也批评了若干仅凭跨馆缀合归责的说法。
+R_L05	Q03	L05	时代的遮蔽：敦煌文献早期流散过程中部分史事杂考	2025	full_text	include	1	true		消息传播、边缘人物与学术记忆；特别适合双层网络：应分别记录实物取得时间、消息被知晓时间和相关记述的形成或发表时间。此处是项目的方法转用。	original_study	新增；涉及1912年和1921年等案例；用作比较与学术史背景，不自动扩充项目1900–1910的数据范围。本包PDF为134–143页中文正文，不含书目另列的160页英文摘要。
+R_L06	Q02	L06	Creating Heritage and the Mission Paul Pelliot: Early Photography of Dunhuang and their Legacy	2018	abstract	include	1	true		摄影、考古与知识生产；为知识层中的摄影者、照片、展示和传播提供阅读方向；照片不能仅当作写本转移的配图。	background	新增；仓储摘要已核，全文下载受限；本次只能核查机构仓储摘要及书目；不能声称全文已读。AAM题名用Early photographs，期刊题名用Early Photography，按同一DOI只计一篇。
+R_L07	Q03	L07	敦煌学草创时期刊布的敦煌文献资料价值试论——以《贞松堂藏西陲秘籍丛残》为例	2023	full_text	include	1	true		刊布、图版与收藏链互证；直接连接实物层与知识层：原卷、旧照片、摹写、影印出版物及现藏机构要分别登记，再用证据关联。	original_study	新增；案例延伸到1939年及更晚；书页只呈现一面或经过摹写，不等于完整、无损、未经选择的原物记录。题名依期刊PDF补全副题；期刊网页元数据简略副题。
+R_L08	Q06	L08	Buddhism and Silk: Reassessing a Painted Banner from Medieval Central Asia in The Met	2020	full_text	include	1	true		单件物品来源与编目保存；借鉴单件物品的证据拼接方法，尤其关注中介和整理人员；作为材料与编目方法案例，不把旗幡当作写本。	original_study	已有研究，补期刊版并核对作者姓名；研究对象是绘幡，包含中古部分；作者对其进入收藏的若干环节明确使用可能性措辞，不能补成确定写本交接边。
+R_L09	Q05	L09	The International Dunhuang Project: Understanding Buddhism and Daily Life in Central Asia	1996	full_text	include	1	true		跨机构合作与数字重聚；用于综述结尾，说明物理分散与数字关联可以并存；数字共享不等同实物归还。	background	新增；是1996年的项目介绍及当时计划，不能当作2026年平台现状或已完成成果；标题依原刊写全。CrossRef简题为International Dunhuang Project，页码153–161经正文核实，目录153–162包含后页广告。
+R_L10	Q05	L10	敦煌遗书图像知识关联与语义描述	2021	full_text	include	1	true		知识关联与语义建模；可借鉴实体、属性、关系与来源分开表达的思路；为你的数据组织方法提供补充文献。	original_study	新增；主要研究图像知识组织与检索，不直接证明1900年后人物间实际传播；图像语义关联不能直接当作历史传播边。旧下载接口只返回131页，本包使用新PDF入口取得123–131页全9页。
+X01	Q01		Doumy同题Accepted Manuscript（S02）	2025	full_text	exclude	1	true		与L01为同一研究的不同版本，不重复计为第二篇		排除仅指未列入本轮十篇，不作无价值或不存在的判断
+X02	Q01		The Nature of the Dunhuang Library Cave and the Reasons for its Sealing	1999	full_text	exclude	1	true		已有重要背景研究，主要讨论封藏问题；本轮10篇优先近现代流散与知识传播		排除仅指未列入本轮十篇，不作无价值或不存在的判断
+X03	Q01		Rewriting the Silk Road: a New Chapter for Dunhuang Manuscript Studies	2025	full_text	exclude	1	true		已有背景研究，主要为中古文书研究综述，不能直接说明1900年后的流转		排除仅指未列入本轮十篇，不作无价值或不存在的判断
+X04	Q01		Serindia, vol.2	1921	full_text	exclude	1	true		保留为项目一手史料；不计入本次10篇二手研究		排除仅指未列入本轮十篇，不作无价值或不存在的判断
+X05	Q01		Trois ans dans la haute Asie	1910	full_text	exclude	1	true		保留为项目一手史料；不计入本次10篇二手研究		排除仅指未列入本轮十篇，不作无价值或不存在的判断
+X06	Q02		Confronting Indiana Jones		title	exclude	1	true		发现的是未确认正式出版身份的引用线索；不冒充已核实期刊论文		排除仅指未列入本轮十篇，不作无价值或不存在的判断
+X07	Q04		From digitisation to digital repatriation: A case study of International Dunhuang Project	2025	abstract	exclude	1	true		书章线索，本轮优先已核身份的期刊研究；未把二级聚合页的错误刊名直接纳入		排除仅指未列入本轮十篇，不作无价值或不存在的判断
+X08	Q07		杏雨书屋藏敦煌《大般若经》写本缀合研究	2020	abstract	exclude	1	true		保留为物质证据归因争论的后续对读线索，全文本轮未核；相反解释在L04限制项中明确保留		排除仅指未列入本轮十篇，不作无价值或不存在的判断

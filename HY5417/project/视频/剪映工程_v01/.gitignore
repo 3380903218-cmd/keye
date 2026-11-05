@@ -1,0 +1,12 @@
+# Generated media and application caches stay on this machine; text edit instructions are checkpointed.
+*.wav
+*.aiff
+*.mp4
+*.mov
+原生草稿备份/
+_制作记录/voice_cache*/
+_制作记录/历史初剪_r1/
+_制作记录/候选画面/
+_制作记录/成片核验/*.jpg
+_制作记录/*.log
+_制作记录/导入测试/

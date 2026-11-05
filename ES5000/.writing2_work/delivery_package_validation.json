@@ -1,0 +1,16 @@
+{
+  "docx_sha256": "c75dae1b67dddef168c51764e7864370ff3341692ed06af3ab5525ebd52c7f8f",
+  "members": [
+    "G6_WANG XIWEN_p-s essay.docx",
+    "~$_WANG XIWEN_Writing Assignment 2 Draft.docx"
+  ],
+  "reader_facing_members": [
+    "G6_WANG XIWEN_p-s essay.docx"
+  ],
+  "owner_files_preserved": [
+    "~$_WANG XIWEN_Writing Assignment 2 Draft.docx"
+  ],
+  "old_document_absent": true,
+  "passed": true,
+  "note": "Pre-existing owner file left untouched; no second essay file created."
+}

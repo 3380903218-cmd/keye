@@ -1,0 +1,54 @@
+{
+  "baseline_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/.seminar11_12_revision_20261103/HY6101_Seminar11-12_阅读思考_中文版_含批注备份.docx",
+  "baseline_sha256": "a8b75c53286828932224e3c43576f44953e1940b1d2cf5a78a8d8e5bcd8b9c02",
+  "revised_file": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx",
+  "revised_sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+  "accepted_comments": 4,
+  "remaining_comments": 0,
+  "footnotes_before": 6,
+  "footnotes_after": 5,
+  "changed_body_paragraphs": [
+    4,
+    7
+  ],
+  "all_other_body_text_unchanged": true,
+  "author_direct_edit_preserved": true,
+  "remaining_footnote_content_and_run_properties_preserved": true,
+  "styles_numbering_sections_footer_and_other_parts_byte_preserved": true,
+  "removed_review_parts": [
+    "word/comments.xml",
+    "word/commentsExtended.xml",
+    "word/commentsExtensible.xml",
+    "word/commentsIds.xml",
+    "word/people.xml"
+  ],
+  "changes": [
+    {
+      "comment_id": "0",
+      "paragraph": 4,
+      "issue": "时间既会改变记忆，也会塑造记忆；应明确表达作者判断。",
+      "old": "时间并不是自动使人遗忘的力量，真正发生变化的是政治环境、社会关注和理解过去的语言。不过，我认为政治的作用还可以向前追溯：在记忆产生的时候，社会事件已经在制造关注点，影响人们注意什么、怎样理解自己的经历。",
+      "new": "我认为，时间会改变记忆，也会塑造记忆。随着政治环境、社会关注和人们自身处境的变化，过去会被重新理解，记忆中的重点也会随之调整。这种塑造不只发生在事后的回忆中：在记忆产生的时候，社会事件就已经在制造关注点，影响人们注意什么、怎样理解自己的经历。"
+    },
+    {
+      "comment_id": "1",
+      "paragraph": 4,
+      "issue": "作者对公共媒体塑造非亲历者关注点已有明确判断，不应仍写成开放提问。",
+      "old": "我也因此想继续追问：公共媒体怎样参与记忆的形成？一种叙述被不断重复时，哪些细节会更容易被记住？",
+      "new": "公共媒体的报道同样会塑造记忆：它们会引导未曾参与事件或原本不了解事件的民众形成特定的关注点，进而影响他们如何理解和记住这件事。"
+    },
+    {
+      "comment_id": "2",
+      "paragraph": 7,
+      "issue": "问题出自课堂小组讨论，需要准确标明讨论情境。",
+      "old": "课堂提出，历史学家应如何研究既有历史知识的意义与限制。",
+      "new": "课堂小组讨论提出了一个问题：历史学家应如何研究既有历史知识的意义与限制？"
+    },
+    {
+      "comment_id": "3",
+      "paragraph": 10,
+      "issue": "无需对课堂课程笔记单独作脚注引用。",
+      "action": "删除脚注6的引用与脚注正文，保留课堂讨论叙述。"
+    }
+  ]
+}

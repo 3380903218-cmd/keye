@@ -1,0 +1,214 @@
+[
+  {
+    "key": "G02",
+    "file": "11_G02_Ahnert等_2020_The_Network_Turn_重点章节_英中逐段对照.pdf",
+    "pages": 67,
+    "paragraph_groups": 83,
+    "original_pages_verified": 30,
+    "all_paragraph_ids_present": true,
+    "original_hash_unchanged": true,
+    "original_page_pixel_samples": 3,
+    "whitespace_only_extraction_differences": [],
+    "original_page_render_checks": [
+      {
+        "source_page": 51,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 66,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 80,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      }
+    ],
+    "sha256": "549cf9f16d692864407e035764287dffd1d60d86d97dc4e47acf1c4662df8f08",
+    "bytes": 1156582
+  },
+  {
+    "key": "G03",
+    "file": "09_G03_Faust_1997_Centrality_in_affiliation_networks_全文_英中逐段对照.pdf",
+    "pages": 122,
+    "paragraph_groups": 414,
+    "original_pages_verified": 35,
+    "all_paragraph_ids_present": true,
+    "original_hash_unchanged": true,
+    "original_page_pixel_samples": 3,
+    "whitespace_only_extraction_differences": [],
+    "original_page_render_checks": [
+      {
+        "source_page": 1,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 18,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 35,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      }
+    ],
+    "sha256": "f520321f5035f36657214a678b067a667460c612e87629857369e3a1ca02e01c",
+    "bytes": 2633326
+  },
+  {
+    "key": "G04",
+    "file": "10_G04_Edelstein等_2017_Mapping_the_Republic_of_Letters_全文_英中逐段对照.pdf",
+    "pages": 114,
+    "paragraph_groups": 205,
+    "original_pages_verified": 25,
+    "all_paragraph_ids_present": true,
+    "original_hash_unchanged": true,
+    "original_page_pixel_samples": 3,
+    "whitespace_only_extraction_differences": [],
+    "original_page_render_checks": [
+      {
+        "source_page": 1,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 13,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 25,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      }
+    ],
+    "sha256": "fcd05031ea498ad46b894bdbbdc4b8c6ff6a396f2b54e51c664020c76ee72e59",
+    "bytes": 1512120
+  },
+  {
+    "key": "G13",
+    "file": "02_G13_Wang编_2012_Stein_Colleagues_and_Collections_重点章节_英中逐段对照.pdf",
+    "pages": 87,
+    "paragraph_groups": 235,
+    "original_pages_verified": 15,
+    "all_paragraph_ids_present": true,
+    "original_hash_unchanged": true,
+    "original_page_pixel_samples": 3,
+    "whitespace_only_extraction_differences": [],
+    "original_page_render_checks": [
+      {
+        "source_page": 24,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 106,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 113,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      }
+    ],
+    "sha256": "808116e3a86ed072b4f5e513cdf27705d86177bda9e9abd8c361602a04d04942",
+    "bytes": 1152398
+  },
+  {
+    "key": "L01",
+    "file": "04_L01_Doumy_2025_Wang_Yuanlu_First_Curator_全文_英中逐段对照.pdf",
+    "pages": 81,
+    "paragraph_groups": 203,
+    "original_pages_verified": 25,
+    "all_paragraph_ids_present": true,
+    "original_hash_unchanged": true,
+    "original_page_pixel_samples": 3,
+    "whitespace_only_extraction_differences": [],
+    "original_page_render_checks": [
+      {
+        "source_page": 1,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 13,
+        "max_channel_delta": 2,
+        "mean_channel_delta": 0.24939012646851128
+      },
+      {
+        "source_page": 25,
+        "max_channel_delta": 2,
+        "mean_channel_delta": 0.0313897626842995
+      }
+    ],
+    "sha256": "f9957e52601a097ce501bf5aa821d7373e7f2a983a67e458a2f352857fa6141f",
+    "bytes": 2291167
+  },
+  {
+    "key": "L02",
+    "file": "05_L02_Terzi_Whitfield_2024_Reconstructing_a_Medieval_Library_全文_英中逐段对照.pdf",
+    "pages": 142,
+    "paragraph_groups": 645,
+    "original_pages_verified": 21,
+    "all_paragraph_ids_present": true,
+    "original_hash_unchanged": true,
+    "original_page_pixel_samples": 3,
+    "whitespace_only_extraction_differences": [
+      16
+    ],
+    "original_page_render_checks": [
+      {
+        "source_page": 1,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 11,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 21,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      }
+    ],
+    "sha256": "bb61a3a3bb631b75d962084ffc0a9b37971ab4c64c5bc508e9198d7267fe4c53",
+    "bytes": 3641313
+  },
+  {
+    "key": "L08",
+    "file": "12_L08_Wang等_2020_Buddhism_and_Silk_案例选读_全文_英中逐段对照.pdf",
+    "pages": 82,
+    "paragraph_groups": 277,
+    "original_pages_verified": 18,
+    "all_paragraph_ids_present": true,
+    "original_hash_unchanged": true,
+    "original_page_pixel_samples": 3,
+    "whitespace_only_extraction_differences": [],
+    "original_page_render_checks": [
+      {
+        "source_page": 1,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 10,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      },
+      {
+        "source_page": 18,
+        "max_channel_delta": 0,
+        "mean_channel_delta": 0.0
+      }
+    ],
+    "sha256": "5dbcb0f3cb92ef2edf0bb01bf32926fc26c321873cf92ccbb77d902472fff986",
+    "bytes": 3611518
+  }
+]

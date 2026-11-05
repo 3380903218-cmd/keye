@@ -1,0 +1,33 @@
+{
+  "source_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11/HY6101_Combined_Essay2_中文版.docx",
+  "source_sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+  "output_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11/HY6101_Combined_Essay2_English.docx",
+  "output_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+  "source_body_paragraphs": 46,
+  "translation_body_paragraphs": 46,
+  "source_and_translation_blocks_before_bibliography": 54,
+  "paragraph_order_and_style_roles_preserved": true,
+  "translation_body_word_count": 5131,
+  "native_word_footnotes": 15,
+  "bibliography_entries": 7,
+  "bibliography_alphabetized": true,
+  "citations_verified_against_local_printed_pages_and_publisher_metadata": true,
+  "chinese_source_unchanged": true,
+  "comments_from_chinese_review_not_included_in_translation": true,
+  "translation_to_docx_text_parity": true,
+  "checked_at": "2026-10-26T01:04:20.583376+08:00",
+  "source_snapshot_sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+  "all_54_translated_blocks_match_final_word": true,
+  "all_15_notes_match_verified_citation_text": true,
+  "all_7_bibliography_entries_match_verified_metadata": true,
+  "manual_bilingual_fidelity_review_completed": true,
+  "format_only_native_word_normalization_and_final_pagination": true,
+  "alignment_evidence": {
+    "path": "paragraph_alignment.json",
+    "sha256": "9051b060a542a4a92c744e37c459f31f74db304287a1a8a9e77a4d501617d642"
+  },
+  "citation_evidence": {
+    "path": "citation_verification.json",
+    "sha256": "48664108c6e67e60062343a1ca122ee2e04acfed1226698e1711603b404fbd68"
+  }
+}

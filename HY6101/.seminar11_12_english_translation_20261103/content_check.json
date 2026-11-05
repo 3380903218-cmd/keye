@@ -1,0 +1,17 @@
+{
+  "source_sha256": "937c03e8600e4f725cac7ad35bb9f200a681a0731cca5cdeff952b7f0b042f81",
+  "source_unchanged": true,
+  "english_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+  "paragraphs_preserved": 11,
+  "footnotes_preserved": 6,
+  "footnote_texts_unchanged": true,
+  "paragraph_order_preserved": true,
+  "english_text_equals_translation_source": true,
+  "body_word_count": 1446,
+  "translation_audit": "Sentence-by-sentence comparison preserves first-person judgments, uncertainty, conditions, event dates, examples and six source citations. Uses current finalized Chinese wording, including the impression left by chronopolitics and the author's view on the second group-discussion question.",
+  "final_source_unchanged": true,
+  "final_english_sha256": "27b00bab50b2b914f2c052e3994810342a04d22bbe4985e66ef28b6bac649ed2",
+  "all_english_body_words_present_in_native_pdf": true,
+  "exact_saved_text_comparison": "passed",
+  "exact_footnote_text_comparison": "passed"
+}

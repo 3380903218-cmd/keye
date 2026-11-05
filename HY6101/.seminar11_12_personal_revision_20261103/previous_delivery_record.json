@@ -1,0 +1,125 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "HY6101-seminar11-12-zh-comments-20261103",
+  "state": "final",
+  "content_authority": "User-reviewed current Word draft and its four comments; byte-identical reviewed baseline preserved in .seminar11_12_revision_20261103",
+  "format_authority": "Original Word draft; existing styles, sections, numbering, footnote formats and footer preserved",
+  "synchronization_direction": "single-format",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "chinese-reflection",
+      "role": "final",
+      "path": "seminar 11&12/HY6101_Seminar11-12_阅读思考_中文版.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {}
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+      "performed_at": "2026-11-03T00:22:13.763809+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_revision_20261103/content_check.json",
+        "sha256": "af6fcb36ecdf40ec3324c88d77516fece4b770d4a6ff8399e912b8ad694acf93",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+      "performed_at": "2026-11-03T00:22:13.763809+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_revision_20261103/package_validation.json",
+        "sha256": "0f36c5064ea1471d1057b27ab85d640d66fe0a58e3f3a8a92c074994a90ca9cb",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+      "performed_at": "2026-11-03T00:22:13.763809+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_revision_20261103/render_check.json",
+        "sha256": "ef2eea4722e17ed4e93abc7d20bb15cb655428eb8e08b8b87cddb0288bd901a7",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "chinese-reflection",
+      "artifact_sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+      "performed_at": "2026-11-03T00:22:13.763809+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".seminar11_12_revision_20261103/delivery_package_check.json",
+        "sha256": "4caeb93ce6a3320b5f8de464323331db8a60434c6e37e567a5293439ffbf188b",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "chinese-reflection"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [],
+  "next_action": "User may review the revised document at its original path.",
+  "extensions": {
+    "hy6101:review": {
+      "accepted_comments": 4,
+      "removed_comments": 4,
+      "unresolved_comments": 0,
+      "footnotes_remaining": 5,
+      "baseline_sha256": "a8b75c53286828932224e3c43576f44953e1940b1d2cf5a78a8d8e5bcd8b9c02",
+      "baseline_path": ".seminar11_12_revision_20261103/HY6101_Seminar11-12_阅读思考_中文版_含批注备份.docx",
+      "author_direct_edit_preserved": true
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "artifact_sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+  "performed_at": "2026-11-04T12:47:22.433792+08:00",
+  "method": "LibreOffice PDF proxy rendered by documents/render_docx.py; every page PNG visually inspected.",
+  "status": "passed",
+  "pages": 10,
+  "checks": [
+    "Both full-size Excel figures and captions readable and intact.",
+    "New IDP text and APA reference visible, no clipping or overlap.",
+    "Revised QGIS rationale and bilingual purpose render normally.",
+    "Body conclusion fits page 9; bibliography starts on page 10.",
+    "One adjacent time-record paragraph precedes Figure 2 to use available space; text unchanged."
+  ],
+  "page_evidence": [
+    {
+      "path": "定稿预览/page-1.png",
+      "sha256": "8815eb7d24daddea39a65ab6c0c5ecab934bf39dc20496e5a9539e6df6346aa2"
+    },
+    {
+      "path": "定稿预览/page-2.png",
+      "sha256": "9fc2905674a31b89a3ae423c64eead13449e5d22e0b97c5b73a2f02020e596e6"
+    },
+    {
+      "path": "定稿预览/page-3.png",
+      "sha256": "7227bd8edca82fb7ac64ad2184b25b04e2f1cad975562826488a89e97b754ea9"
+    },
+    {
+      "path": "定稿预览/page-4.png",
+      "sha256": "c95c3152b865ea0c286697ec916ed2a19d3a91c8667abda3fac6cb7b6645e485"
+    },
+    {
+      "path": "定稿预览/page-5.png",
+      "sha256": "244263a26704f30cd1bdb520a9e9d8cb29842e64c239978267d991b71315301a"
+    },
+    {
+      "path": "定稿预览/page-6.png",
+      "sha256": "eaf16f717859b91ad49a4fc18d473178f64f613f6cdeb2e062f1dd2a885e2c60"
+    },
+    {
+      "path": "定稿预览/page-7.png",
+      "sha256": "b7f27fbff6c28a0467d24b9fe837044878c132b182a3549ca196a739ee602a8a"
+    },
+    {
+      "path": "定稿预览/page-8.png",
+      "sha256": "045f0986ad3af7207a2cdb8ac91d93ca8790b15fcb0ea3789eea77f9a8ec34d2"
+    },
+    {
+      "path": "定稿预览/page-9.png",
+      "sha256": "0c57f1532f933c19c6eedac76617f155fd900175a6794931bb4f849e8998a7a5"
+    },
+    {
+      "path": "定稿预览/page-10.png",
+      "sha256": "fa417f1e75cb0387a0fafebc6892b9b810ca3e3dfb8c5acd39e933e6c0368a0d"
+    }
+  ],
+  "pdf": {
+    "path": "定稿预览/修订候选.pdf",
+    "sha256": "ba0f66f2db60626da5bdbeba4b07426bf4b71f270f300e3de9afc34b1d01821b"
+  },
+  "limitations": "This proxy preview does not constitute Microsoft Word native normal-open verification."
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "HY6101-essay2-zh-20261024",
+  "state": "final",
+  "content_authority": "User-designated Seminar 7–8 and 9–10 Chinese DOCX drafts; source identities are in .essay2_delivery_20261024/content_check.json",
+  "format_authority": "User-provided instructor requirement image and requested Chinese Word essay of 8000–8500 Chinese characters; A4 scholarly manuscript formatting selected for readability.",
+  "synchronization_direction": "markdown-to-word",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "essay2-zh-docx",
+      "role": "final",
+      "path": "seminar 11/HY6101_Combined_Essay2_中文版.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "48288347e52586becd7c1181fc8a1801dc6c391a59930831a2c47cc21dd4c155",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "content_stage": "Chinese manuscript draft requested by the user; not represented as submitted."
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "48288347e52586becd7c1181fc8a1801dc6c391a59930831a2c47cc21dd4c155",
+      "performed_at": "2026-10-24T23:26:51.981872+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_delivery_20261024/content_check.json",
+        "sha256": "791b13e7818223e5f57d01cc560cbbc49819b08070b963484308eb061bb9404e",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested drafting and Word-delivery scope",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "48288347e52586becd7c1181fc8a1801dc6c391a59930831a2c47cc21dd4c155",
+      "performed_at": "2026-10-24T23:26:51.981872+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_delivery_20261024/package_check.json",
+        "sha256": "9af6d64e5d0b2a05aee484a52bdf0dcbc637dd95c5e3f6bea250bfebd574b775",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested drafting and Word-delivery scope",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "48288347e52586becd7c1181fc8a1801dc6c391a59930831a2c47cc21dd4c155",
+      "performed_at": "2026-10-24T23:26:51.981872+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_delivery_20261024/rendered_check.json",
+        "sha256": "953835e459354d0cfe3613d495707c2870c516c38dbdb6ec5054e2a9cbe33965",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested drafting and Word-delivery scope",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "essay2-zh-docx",
+      "artifact_sha256": "48288347e52586becd7c1181fc8a1801dc6c391a59930831a2c47cc21dd4c155",
+      "performed_at": "2026-10-24T23:26:51.981872+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_delivery_20261024/delivery_package_check.json",
+        "sha256": "fdb30efa297ed8ae82b703e7207ff09fe3297ad27699d9af580281810e458fc4",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "none for the requested drafting and Word-delivery scope",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "essay2-zh-docx"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [],
+  "next_action": "Hand off the Word manuscript for the user to review.",
+  "extensions": {
+    "counting_rule": "8197 Han characters in body prose, excluding headings, punctuation, Latin words and references; 8279 including title/subtitle/headings."
+  }
+}

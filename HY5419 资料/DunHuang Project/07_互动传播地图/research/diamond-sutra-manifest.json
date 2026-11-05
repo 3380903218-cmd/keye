@@ -1,0 +1,6312 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Printed copy of the Vajracchedikaprajnaparamitasutra (Diamond Sutra) 金剛般若波羅蜜經 (Jing gang bo re bo luo mi jing) translated by Kumarajiva dated to 868"
+    ]
+  },
+  "viewingDirection": "right-to-left",
+  "behavior": [
+    "continuous"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Pressmark"
+        ]
+      },
+      "value": {
+        "en": [
+          "Or.8210/P.2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Printed copy of the Vajracchedikasūtra (Diamond Sutra) dated to 868"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Reading Direction"
+        ]
+      },
+      "value": {
+        "en": [
+          "Right to left"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Printed copy of the Vajracchedikasūtra (Diamond Sutra) dated to 868"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Copyright information is being updated. Contact idp@bl.uk for information."
+      ]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://data.idp.bl.uk/mediaLib/v/s/2/tyjqs2cvq04inthztnuad4/preview_49CE4B8792E8454C9C2EEA89BD4EE16F.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 109,
+      "width": 120
+    }
+  ],
+  "start": {
+    "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0",
+    "type": "Canvas"
+  },
+  "structures": [
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/0",
+          "type": "Range",
+          "label": {
+            "en": [
+              "0 - Or.8210/P.2 - Stitched"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/52",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/53",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/54",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/55",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/56",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/57",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/58",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/59",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/60",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/structures/0/items/4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/61",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/62",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/63",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/64",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/65",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/66",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/67",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/68",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/69",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/70",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/71",
+              "type": "Canvas"
+            },
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/72",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "0"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "0 - Or.8210/P.2 - Stitched"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Face"
+            ]
+          },
+          "value": {
+            "en": [
+              "Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "0"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/u/p/k/ui4esjbdflbjq9orvr8q01/large_113BB5ED4E584FA69A7A2207EFFE8662.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 83,
+          "width": 1200
+        }
+      ],
+      "height": 612,
+      "width": 8895,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/113BB5ED4E584FA69A7A2207EFFE8662/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/113BB5ED4E584FA69A7A2207EFFE8662",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 8895
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "1"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "0 - Or.8210/P.2 - Stitched"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Face"
+            ]
+          },
+          "value": {
+            "en": [
+              "Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "1"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/q/d/9/2qrnj1y50h9kkvv0mvc2k7/large_7FA73420DE9142BE97673C1E4EED71FE.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 84,
+          "width": 1200
+        }
+      ],
+      "height": 612,
+      "width": 8778,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/7FA73420DE9142BE97673C1E4EED71FE/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/7FA73420DE9142BE97673C1E4EED71FE",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 612,
+                "width": 8778
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "2"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "2"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/v/s/2/tyjqs2cvq04inthztnuad4/preview_49CE4B8792E8454C9C2EEA89BD4EE16F.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 109,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1791,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/49CE4B8792E8454C9C2EEA89BD4EE16F/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/49CE4B8792E8454C9C2EEA89BD4EE16F",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1791
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "3"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "3"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/p/o/w/ffrgv90muafv9pd6lqh80a/preview_A905CFCE61A94822B116E38FE5DECE39.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 108
+        }
+      ],
+      "height": 1628,
+      "width": 1469,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/A905CFCE61A94822B116E38FE5DECE39/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/A905CFCE61A94822B116E38FE5DECE39",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1469
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "4"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "4"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/s/e/t/igpavb63wui6t6tjypumyb/preview_CA0DCA87083542E1ABCC8F8D61F4D964.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 105
+        }
+      ],
+      "height": 1628,
+      "width": 1422,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/CA0DCA87083542E1ABCC8F8D61F4D964/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/CA0DCA87083542E1ABCC8F8D61F4D964",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1422
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "5"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "5"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/j/q/v/3k6jujphv44r9cj99d8gw2/mid_31022454712447C9A8D9CEAEE103DF6B.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 448
+        }
+      ],
+      "height": 1628,
+      "width": 1215,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/31022454712447C9A8D9CEAEE103DF6B/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/31022454712447C9A8D9CEAEE103DF6B",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1215
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "6"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "6"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/3/6/x/lzcioznbe5yt331fpvqed6/preview_6BA395F728BF4BDD931AC4B6DF646E2B.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 116
+        }
+      ],
+      "height": 1628,
+      "width": 1570,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/6BA395F728BF4BDD931AC4B6DF646E2B/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/6BA395F728BF4BDD931AC4B6DF646E2B",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1570
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "7"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "7"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/u/r/y/nydl4asxyzl8klp94obr0b/preview_BA28CA7D88DB493E8123F71F318215CA.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 110
+        }
+      ],
+      "height": 1628,
+      "width": 1489,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/BA28CA7D88DB493E8123F71F318215CA/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/BA28CA7D88DB493E8123F71F318215CA",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1489
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "8"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "8"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/7/f/h/wztyobm06qdjwbrd0kfyw4/mid_53072927B93A4CAB9B67824A40B5D733.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 479
+        }
+      ],
+      "height": 1628,
+      "width": 1301,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/53072927B93A4CAB9B67824A40B5D733/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/53072927B93A4CAB9B67824A40B5D733",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1301
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "9"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "9"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/5/u/x/l71frqa23ozcav14qnitcd/preview_E199CA16779C4802B0D9F09518E2598D.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 116,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1688,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/E199CA16779C4802B0D9F09518E2598D/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/E199CA16779C4802B0D9F09518E2598D",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1688
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "10"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "10"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/q/x/n/j2x138eu8we632uswkghj9/mid_A129C651CEB84B1AAE9BADD8516A35EE.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 381
+        }
+      ],
+      "height": 1628,
+      "width": 1033,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/A129C651CEB84B1AAE9BADD8516A35EE/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/A129C651CEB84B1AAE9BADD8516A35EE",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1033
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "11"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "11"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/s/l/7/thik9nt1963e4k8coihj34/preview_4539F41FB4984CC09CC5B51BCAA084C0.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 107
+        }
+      ],
+      "height": 1628,
+      "width": 1445,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/4539F41FB4984CC09CC5B51BCAA084C0/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/4539F41FB4984CC09CC5B51BCAA084C0",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1445
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "12"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "12"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/u/p/r/dikp96jjjtr59dtnjioyu/preview_0E872BA7F19E4217A3D1E0A8E486BF92.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 117,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1670,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/0E872BA7F19E4217A3D1E0A8E486BF92/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/0E872BA7F19E4217A3D1E0A8E486BF92",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1670
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "13"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "13"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/0/l/z/h7c37y3s7jvpf3nox51nf1/mid_183AB952FD9D4E36AEF5E55A17DED564.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 476
+        }
+      ],
+      "height": 1628,
+      "width": 1292,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/183AB952FD9D4E36AEF5E55A17DED564/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/183AB952FD9D4E36AEF5E55A17DED564",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1292
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "14"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "14"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/4/3/e/wjxda17m32vxtwpn1zxbrd/mid_E868E11A899A40CFBC18AD8F27AC7650.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 427
+        }
+      ],
+      "height": 1628,
+      "width": 1159,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/E868E11A899A40CFBC18AD8F27AC7650/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/E868E11A899A40CFBC18AD8F27AC7650",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1159
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "15"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "15"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/t/0/1/nspcxaiqmvjurby6lzm693/mid_36FBA11C0BBE42B48813515731C504ED.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 469
+        }
+      ],
+      "height": 1628,
+      "width": 1272,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/36FBA11C0BBE42B48813515731C504ED/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/36FBA11C0BBE42B48813515731C504ED",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1272
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "16"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "16"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/9/r/t/9nk7mxc8tsiccrvb05z5vc/preview_D951480C47E64122800F69299C8D35E5.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 118,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1656,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/D951480C47E64122800F69299C8D35E5/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/D951480C47E64122800F69299C8D35E5",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1656
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "17"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "17"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/c/8/d/dt9g7pfaadvi1bfj10lhm5/preview_5F01F09823D24C6D923445E52BFA453C.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 108
+        }
+      ],
+      "height": 1628,
+      "width": 1460,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/5F01F09823D24C6D923445E52BFA453C/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/5F01F09823D24C6D923445E52BFA453C",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1460
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "18"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "18"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/5/x/b/punth6wicth4rw69vlci5d/preview_DE2BB85EF249400F82449CDA9484B299.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 104
+        }
+      ],
+      "height": 1628,
+      "width": 1408,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/DE2BB85EF249400F82449CDA9484B299/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/DE2BB85EF249400F82449CDA9484B299",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1408
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "19"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "19"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/g/h/n/te33y3yaz6ryict2wy0ka7/preview_7B310161EB824F918EA9F2C5E6F88624.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 113,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1728,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/7B310161EB824F918EA9F2C5E6F88624/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/7B310161EB824F918EA9F2C5E6F88624",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1728
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "20"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "20"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/a/6/x/qpklh37niokkbaaq7u54l6/mid_6F413126697C4E129DF81AE57EC64372.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 445
+        }
+      ],
+      "height": 1628,
+      "width": 1208,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/6F413126697C4E129DF81AE57EC64372/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/6F413126697C4E129DF81AE57EC64372",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1208
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "21"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Sponsor"
+            ]
+          },
+          "value": {
+            "en": [
+              "This sutra has been sponsored by John A. Lehman on May 1, 1999 for the well-being of Lewis Lancaster and Ching Chun Hsieh."
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "1 - Or.8210/P.2 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "21"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/8/0/l/go9dyeojw98ref1jlkg7b1/mid_16264E77E8514B33B961D5A11138FA58.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 412
+        }
+      ],
+      "height": 1628,
+      "width": 1118,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/16264E77E8514B33B961D5A11138FA58/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/16264E77E8514B33B961D5A11138FA58",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1118
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "22"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "22"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/d/n/p/29eq60x9noiy17cdx0hjcb/mid_BFAFFA4466054EA4BCD5AD8FD4EEAF59.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 419
+        }
+      ],
+      "height": 1628,
+      "width": 1136,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/BFAFFA4466054EA4BCD5AD8FD4EEAF59/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/BFAFFA4466054EA4BCD5AD8FD4EEAF59",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1136
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "23"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "23"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/z/6/3/jf9dgwy94589y9vtw8orr2/mid_2ECFBD4CB87345AC921E2510ED0D99EB.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 489
+        }
+      ],
+      "height": 1628,
+      "width": 1327,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/2ECFBD4CB87345AC921E2510ED0D99EB/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/2ECFBD4CB87345AC921E2510ED0D99EB",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1327
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "24"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "24"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/5/a/o/ufy2jnxnrtsuez8n71mtlb/preview_C40AD80E7141471681B8F6D680C7ED6D.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 102,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1919,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/C40AD80E7141471681B8F6D680C7ED6D/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/C40AD80E7141471681B8F6D680C7ED6D",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1919
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "25"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "25"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/8/u/w/amaadkkuz4p54qri8bz8v6/preview_74026BFBA090414F9598A5280389E2C0.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 103
+        }
+      ],
+      "height": 1628,
+      "width": 1391,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/74026BFBA090414F9598A5280389E2C0/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/74026BFBA090414F9598A5280389E2C0",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1391
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "26"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "26"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/p/q/q/f2nooc5qxhagj7xzvzqof1/preview_1840746125EF473AA8D0FF0D8582B321.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 111,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1760,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/1840746125EF473AA8D0FF0D8582B321/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/1840746125EF473AA8D0FF0D8582B321",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1760
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "27"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "27"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/w/7/f/cf6c1uge0i8n39f7dj8041/mid_12C5665250AD4B31893E6D4137BA1F0C.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 474
+        }
+      ],
+      "height": 1628,
+      "width": 1286,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/12C5665250AD4B31893E6D4137BA1F0C/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/12C5665250AD4B31893E6D4137BA1F0C",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1286
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "28"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "28"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/f/0/h/vlnzs8ofeaa5hdu3zwm7e6/preview_6C03FA524E8B491591875268195B88DF.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 108
+        }
+      ],
+      "height": 1628,
+      "width": 1467,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/6C03FA524E8B491591875268195B88DF/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/6C03FA524E8B491591875268195B88DF",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1467
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "29"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "29"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/7/y/h/hicndsc1my8uao33u2vy2b/preview_BB322D0C581649E3A0BEF5DB73E9271F.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 114
+        }
+      ],
+      "height": 1628,
+      "width": 1543,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/BB322D0C581649E3A0BEF5DB73E9271F/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/BB322D0C581649E3A0BEF5DB73E9271F",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1543
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "30"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "30"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/w/i/3/mglpiixaq6hklm6uwgwhh4/mid_4BC64776CB2B4DC89EDAEF6EF7F84F58.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 472
+        }
+      ],
+      "height": 1628,
+      "width": 1280,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/4BC64776CB2B4DC89EDAEF6EF7F84F58/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/4BC64776CB2B4DC89EDAEF6EF7F84F58",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1280
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "31"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "31"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/4/p/n/7qc8lvuz87reiq8jgnzse1/mid_17D67CD7ACD946FDA9FB1CFFE15A3DB8.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 464
+        }
+      ],
+      "height": 1628,
+      "width": 1258,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/17D67CD7ACD946FDA9FB1CFFE15A3DB8/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/17D67CD7ACD946FDA9FB1CFFE15A3DB8",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1258
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "32"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "32"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/z/z/y/4w5u8sqbmqdncfdj3kznsb/preview_C740E27CC7174105AD16B549EC86BE2F.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 117
+        }
+      ],
+      "height": 1628,
+      "width": 1591,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/C740E27CC7174105AD16B549EC86BE2F/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/C740E27CC7174105AD16B549EC86BE2F",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1591
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "33"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "33"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/f/2/n/v1emn24t6ialdy29yvq942/mid_23C946D62A244826B80C32EFA86A3F87.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 478
+        }
+      ],
+      "height": 1628,
+      "width": 1298,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/23C946D62A244826B80C32EFA86A3F87/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/23C946D62A244826B80C32EFA86A3F87",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1298
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "34"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "34"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/3/k/h/v80ivw5ju1ki5rz2kcflx4/mid_5353E1C0CCDA43AC9BEC2FAD87C052A3.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 293
+        }
+      ],
+      "height": 1628,
+      "width": 794,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/5353E1C0CCDA43AC9BEC2FAD87C052A3/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/5353E1C0CCDA43AC9BEC2FAD87C052A3",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 794
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "35"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "35"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/g/y/d/4c4q5uzx1bmfwrg2123auc/preview_D8E6E01B5D334A72B0B7DE26B93A1BA8.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 117
+        }
+      ],
+      "height": 1628,
+      "width": 1586,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/D8E6E01B5D334A72B0B7DE26B93A1BA8/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/D8E6E01B5D334A72B0B7DE26B93A1BA8",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1586
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "36"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "36"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/i/h/v/uupi8jhp62a4w5wacm3hk/mid_099B5C5F08E345EF9AF15E24A6D8FCE6.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 493
+        }
+      ],
+      "height": 1628,
+      "width": 1337,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/099B5C5F08E345EF9AF15E24A6D8FCE6/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/099B5C5F08E345EF9AF15E24A6D8FCE6",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1337
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "37"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "37"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/f/i/d/j9l9fiskgyck8tfsgoipe4/preview_4A7759031F6943DC936E2E09E9233827.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 119
+        }
+      ],
+      "height": 1628,
+      "width": 1615,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/4A7759031F6943DC936E2E09E9233827/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/4A7759031F6943DC936E2E09E9233827",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1615
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "38"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "38"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/n/s/d/359hzbd2a413i8gamihheb/preview_C099949C11EB48FFA0F2CADEA2442197.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 117
+        }
+      ],
+      "height": 1628,
+      "width": 1591,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/C099949C11EB48FFA0F2CADEA2442197/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/C099949C11EB48FFA0F2CADEA2442197",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1591
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/38"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "39"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "39"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/d/0/f/a8ace4pr3soxgk3snat8m5/mid_5EE4AE07CA7A44B6BE01C78F6AF31A7D.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 388
+        }
+      ],
+      "height": 1628,
+      "width": 1053,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/5EE4AE07CA7A44B6BE01C78F6AF31A7D/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/5EE4AE07CA7A44B6BE01C78F6AF31A7D",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1053
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "40"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "40"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/i/p/o/jzbdasy0uv1d6scq67eaf7/preview_7D69713C7E0146099B1D231ADEFA62D6.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 109
+        }
+      ],
+      "height": 1628,
+      "width": 1483,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/7D69713C7E0146099B1D231ADEFA62D6/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/7D69713C7E0146099B1D231ADEFA62D6",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1483
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "41"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "2 - Or.8210/P.2 - Verso"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "41"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/x/c/6/wl60isosj38m94i4g8s059/preview_9A60855157224D998587F638A16D7531.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 112,
+          "width": 120
+        }
+      ],
+      "height": 1628,
+      "width": 1739,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/9A60855157224D998587F638A16D7531/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/9A60855157224D998587F638A16D7531",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1739
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "42"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "42"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/t/y/n/o58t07ofspvbasegjmz8nd/mid_E67E8FE1D3544B318C9B0B94BA22A455.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 482,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 1869,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/E67E8FE1D3544B318C9B0B94BA22A455/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/E67E8FE1D3544B318C9B0B94BA22A455",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1869
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "43"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "43"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/u/h/x/8afccjy7uicgwl8arhg63f/mid_FEDC1B4AAA814ACA97C8F040B4010192.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/FEDC1B4AAA814ACA97C8F040B4010192/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/FEDC1B4AAA814ACA97C8F040B4010192",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "44"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "44"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/x/1/9/nhrs3dwpva77v325xqotb/mid_058C52087892443BB405B1272DB10A95.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/058C52087892443BB405B1272DB10A95/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/058C52087892443BB405B1272DB10A95",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "45"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "45"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/d/f/l/ckivjqa53qcfky1dc13bg2/mid_296F1F2F22474CAD84F8E8855D9CC379.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/296F1F2F22474CAD84F8E8855D9CC379/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/296F1F2F22474CAD84F8E8855D9CC379",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "46"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "46"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/t/r/z/zf23obh6lyc6z96w8jfl8a/mid_ACF1E772A7994BD0BB0A10C3D5B186D9.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/ACF1E772A7994BD0BB0A10C3D5B186D9/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/ACF1E772A7994BD0BB0A10C3D5B186D9",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "47"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "47"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/8/8/w/kn1c1jmkj52xdnequu54t7/mid_83E6434AA27B43188A0114A82DB4FB28.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/83E6434AA27B43188A0114A82DB4FB28/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/83E6434AA27B43188A0114A82DB4FB28",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "48"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "48"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/2/c/r/44qwste13i66clz7xa6mf6/mid_6CAC99F2607C48D386BF68A776748F62.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/6CAC99F2607C48D386BF68A776748F62/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/6CAC99F2607C48D386BF68A776748F62",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "49"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "49"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/v/m/o/rxg1igz6ikgpqxvhkw8048/mid_8902776BDCF340739BDCA308BD474677.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/8902776BDCF340739BDCA308BD474677/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/8902776BDCF340739BDCA308BD474677",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "50"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "50"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/s/p/o/sctgm51j80i0lyht23qfua/mid_B73165BA2ADF48B0A16D0A381C700C20.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/B73165BA2ADF48B0A16D0A381C700C20/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/B73165BA2ADF48B0A16D0A381C700C20",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "51"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "51"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/3/f/v/54pffxkr0brznht3eiep57/mid_78EA5DF93F454D5EB6571EB1359D664F.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/78EA5DF93F454D5EB6571EB1359D664F/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/78EA5DF93F454D5EB6571EB1359D664F",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/52",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "52"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "52"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/1/a/e/c6inxgw97ejkv7q7o6ip45/mid_56AA4C1EA1A342F1917BAE894432D149.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/52/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/52/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/56AA4C1EA1A342F1917BAE894432D149/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/56AA4C1EA1A342F1917BAE894432D149",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/53",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "53"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "53"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/y/n/3/bjuae0d82ioh5ii5nqlz09/mid_987C1F18E3BC4CA786C24404C980324E.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/53/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/53/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/987C1F18E3BC4CA786C24404C980324E/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/987C1F18E3BC4CA786C24404C980324E",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/54",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "54"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "54"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/y/8/o/g4hlcqzsjzkuqmz3zi1yad/mid_E0B8A7620E814019ABABE1A9CCD496C2.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/54/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/54/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/E0B8A7620E814019ABABE1A9CCD496C2/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/E0B8A7620E814019ABABE1A9CCD496C2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/54"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/55",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "55"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "55"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/z/0/l/k3bwi83fsugpozdva1ptpe/mid_F898069543014554B09DC53B09E71673.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/55/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/55/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/F898069543014554B09DC53B09E71673/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/F898069543014554B09DC53B09E71673",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/56",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "56"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "56"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/x/w/s/ozu5f5nwpi6qwjd1cgmpu7/mid_84A5FBC53B004EECA4418A931A33F361.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/56/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/56/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/84A5FBC53B004EECA4418A931A33F361/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/84A5FBC53B004EECA4418A931A33F361",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/57",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "57"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "57"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/h/i/s/zt1l409x36gymvektygsj4/mid_4CD9C64F55B34A978D027B7F28D4AC19.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/57/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/57/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/4CD9C64F55B34A978D027B7F28D4AC19/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/4CD9C64F55B34A978D027B7F28D4AC19",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/58",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "58"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "58"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/j/8/f/kdm8ufn8f2n16pigk44fp3/mid_3E99C0DC4437401BA2E0F55FC3F4CF23.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/58/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/58/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/3E99C0DC4437401BA2E0F55FC3F4CF23/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/3E99C0DC4437401BA2E0F55FC3F4CF23",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/59",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "59"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "59"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/l/l/s/2y8hp014zsixv17x7il0gb/mid_C15175A540894D3ABA822F1ED9C6CF49.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1500,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/59/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/59/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/C15175A540894D3ABA822F1ED9C6CF49/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/C15175A540894D3ABA822F1ED9C6CF49",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 2000
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/60",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "60"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "3 - Or.8210/P.2/R.1 - Recto"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Pressmark and section"
+            ]
+          },
+          "value": {
+            "en": [
+              "Or.8210/P.2/R.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "60"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/x/y/o/1kmu0ewcx3xkp0iht4t34c/mid_CC9EF0EE28674B6886AF874FB1BDC0A9.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 447
+        }
+      ],
+      "height": 1500,
+      "width": 1118,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/60/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/60/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/CC9EF0EE28674B6886AF874FB1BDC0A9/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/CC9EF0EE28674B6886AF874FB1BDC0A9",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1118
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/61",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "61"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "61"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/f/y/j/jyem5ymp897yj1apgkh2la/mid_B2CC3238845B40F99D09C7C5A7F6E5C7.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/61/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/61/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/B2CC3238845B40F99D09C7C5A7F6E5C7/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/B2CC3238845B40F99D09C7C5A7F6E5C7",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/62",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "62"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "62"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/h/o/l/a6hpf56mxp8klzyexphsva/preview_B7D41CB9E6944E0094688E2BBA518641.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 101
+        }
+      ],
+      "height": 1628,
+      "width": 1365,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/62/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/62/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/B7D41CB9E6944E0094688E2BBA518641/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/B7D41CB9E6944E0094688E2BBA518641",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1628,
+                "width": 1365
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/63",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "63"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "63"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/1/7/t/vkjf4axgypeb64jr7bfdr4/mid_50687EAF94A04C8FA895AD28B4EA558D.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/63/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/63/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/50687EAF94A04C8FA895AD28B4EA558D/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/50687EAF94A04C8FA895AD28B4EA558D",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/64",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "64"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "64"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/e/u/f/ic4wlp3b5wdqec0b9e0d9/mid_046472D2EDC145F192D71D22EB7D7CB6.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/64/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/64/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/046472D2EDC145F192D71D22EB7D7CB6/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/046472D2EDC145F192D71D22EB7D7CB6",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/65",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "65"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "65"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/k/i/c/m4fepmanse3x1jop6yxlqa/mid_B565AF41817447C78F5917427F1B28DC.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/65/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/65/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/B565AF41817447C78F5917427F1B28DC/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/B565AF41817447C78F5917427F1B28DC",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/66",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "66"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "66"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/k/g/6/mysjw4y7bxuhrlcj5kdp27/mid_7781EEED70484746B9FCCF14CE534C34.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/66/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/66/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/7781EEED70484746B9FCCF14CE534C34/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/7781EEED70484746B9FCCF14CE534C34",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/67",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "67"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "67"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/r/v/6/9hormun3a9cnd6o5uzf8u4/mid_51C038A1A2724410B7C657239103CC17.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/67/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/67/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/51C038A1A2724410B7C657239103CC17/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/51C038A1A2724410B7C657239103CC17",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/68",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "68"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "68"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/w/5/r/uut6lr9by8wxyar8701019/mid_987D894B268443E9B6254374A09FF704.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/68/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/68/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/987D894B268443E9B6254374A09FF704/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/987D894B268443E9B6254374A09FF704",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/69",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "69"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "69"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/k/q/r/3pt0bemzqh1cm7qdr2nnb7/mid_7BB52DDDCB064B4F9F40247B99EABC2C.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 450,
+          "width": 600
+        }
+      ],
+      "height": 1200,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/69/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/69/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/7BB52DDDCB064B4F9F40247B99EABC2C/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/7BB52DDDCB064B4F9F40247B99EABC2C",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1200,
+                "width": 1600
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/69"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/70",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "70"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "70"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/a/c/7/f9382exvr07vqnojey9ohb/mid_C21894C01C4B4A1BACF68081445867EA.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 286
+        }
+      ],
+      "height": 840,
+      "width": 400,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/70/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/70/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/mediaLib/a/c/7/f9382exvr07vqnojey9ohb/C21894C01C4B4A1BACF68081445867EA.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 840,
+                "width": 400
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/71",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "71"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "71"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/j/o/a/ula89r0h1bhfqkveegl5kd/mid_E50AE4B9E8E64F85B148A1366D2DEE93.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 600,
+          "width": 102
+        }
+      ],
+      "height": 1300,
+      "width": 220,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/71/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/71/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/image/iiif/3/E50AE4B9E8E64F85B148A1366D2DEE93/full/max/0/default.jpg",
+                "type": "Image",
+                "service": [
+                  {
+                    "id": "https://data.idp.bl.uk/image/iiif/3/E50AE4B9E8E64F85B148A1366D2DEE93",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg",
+                "height": 1300,
+                "width": 220
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/72",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "72"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Image Group"
+            ]
+          },
+          "value": {
+            "en": [
+              "4 - Or.8210/P.2 - More"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Order Number"
+            ]
+          },
+          "value": {
+            "en": [
+              "72"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://data.idp.bl.uk/mediaLib/p/j/j/45936qzzuuu4itberzy84f/preview_FF5C9C0839254C9F8FE9D8BECE9BD4F5.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 120,
+          "width": 108
+        }
+      ],
+      "height": 582,
+      "width": 525,
+      "items": [
+        {
+          "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/72/items/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/72/items/0/items/0",
+              "type": "Annotation",
+              "body": {
+                "id": "https://data.idp.bl.uk/mediaLib/p/j/j/45936qzzuuu4itberzy84f/FF5C9C0839254C9F8FE9D8BECE9BD4F5.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 582,
+                "width": 525
+              },
+              "motivation": "painting",
+              "target": "https://data.idp.bl.uk/iiif/3/manifest/51FDAEAFB4A24E2E9981692A98130BC8/items/72"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+
+Slide 1 — Research Aim
+
+My project asks: How has the Palace Museum used physical and digital space to redefine public access to the Forbidden City since its establishment in 1925?
+
+Here, I understand access as more than whether visitors can physically enter a building. Access also concerns what they can see, what historical information they receive, and how the museum structures their experience.
+
+My working hypothesis is that when physical access becomes restricted, the Palace Museum redistributes access through other spaces and media. These may include travelling exhibitions, documentaries and digital platforms. However, these forms of access do not necessarily provide the same experience or the same level of historical interpretation.
+
+The planned output is an English-language scrollytelling project for non-specialist audiences interested in the Forbidden City. Its public objective is to make the institutional decisions behind public access more visible.
+
+Slide 2 — Why the Yangxin Dian?
+
+Because the broader question covers one hundred years, I have selected the Yangxin Dian, or the Hall of Mental Cultivation, as a pilot case.
+
+The Yangxin Dian is a representative historic complex in the Forbidden City, but it was also an area of intense visitor pressure. Before its closure, approximately one-third of the Palace Museum’s daily visitors entered an accessible area of only about 1,000 square metres. （Its maximum capacity was 541 people, while the number of visitors sometimes exceeded 800 during peak hours. Physical access therefore created problems for both conservation and the visitor experience.）
+
+The area closed to the public on 8 October 2015. The Palace Museum then launched its research-based conservation project on 18 December. During the closure, the museum presented the Yangxin Dian through travelling exhibitions, documentaries and digital experiences. The hall reopened on 26 December 2025.
+
+This sequence makes it a manageable pilot case because I can compare physical closure, alternative forms of access and eventual reopening within a clearly defined period.
+
+Slide 3 — Data and Tools
+
+My current dataset consists mainly of digitised institutional sources.
+
+I use the 2015 conservation records and the 2025 reopening announcement to establish the beginning and end of the pilot period. The sources between these two points document how the Palace Museum maintained public access while the original site remained closed.
+
+For example, S5 documents a travelling exhibition. It moved objects, reconstructed spaces and historical interpretation into another museum, providing a form of relocated physical access. S11 is a documentary that allows viewers to see the conservation process and receive historical explanation. I also include official Chinese and English webpages, digital exhibition materials and the interactive panorama of the Palace Museum.
+
+I have organised these sources in a pilot dataset. I code each record according to its date, location, form of access, audience activity and limitations.
+
+My main tools at this stage are a source inventory, a coded timeline and researcher walkthroughs of digital outputs. I am also try to use screen recording to document how the panorama works from a visitor’s perspective.
+
+At this stage, these categories remain provisional because the sources represent different media and do not provide the same kind of evidence.
+
+Slide 4 — Current Progress and Findings
+
+So far, the pilot dataset suggests that the closure of the Yangxin Dian did not simply remove public access. Instead, access moved into different locations and media.
+
+The travelling exhibition relocated access to another physical space. The documentary allowed audiences to see the conservation process, but it organised their experience through a predetermined narrative. Digital exhibitions introduced interaction, although some still required visitors to enter a particular museum building.
+
+My initial plan was to evaluate what visitors could see and understand through the online panorama. However, when I attempted to revisit the webpage, it did not load. This introduces a more basic question about access. Before evaluating visual or interpretive access, I first need to consider whether the digital platform remains available.
+
+The panorama may have been designed to expand visual and spatial access, but digital access is not necessarily stable. It depends on technical compatibility, platform maintenance and continued institutional support. Therefore, a digital resource can become inaccessible even though its webpage or institutional record still exists.
+
+The failed walkthrough added availability as another category and made me reconsider whether the same framework could be applied to every form of access.
+
+Revised Slide 5 — Methodological Challenge
+
+My main challenge concerns the method of comparison. This challenge emerged from the pilot dataset and my test of the online panorama.
+
+The sources represent very different forms of access, so they do not provide the same kind of evidence. A timeline can show when access changed, but it cannot explain what each form made accessible or under what conditions. The failed panorama test also showed that availability can change over time.
+
+Most of my sources come from the Palace Museum. They allow me to examine how the institution designed and described public access, but they cannot fully represent how visitors experienced it.
+
+I am therefore testing a comparative framework based on four dimensions: location, audience activity, interpretive content and availability. With my current evidence, I can analyse institutional mediation, but I cannot make strong claims about visitor reception.
+
+For peer feedback, I would like to ask two questions:
+
+Does this four-part framework provide a consistent basis for comparing different forms of access?
+
+Should I keep the project focused on institutional mediation, or add visitor evidence to examine audience experience?

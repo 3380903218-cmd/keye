@@ -1,0 +1,11 @@
+﻿ParticipationId,EventId,EntityId,Role,SourceRef,Locator,Notes
+P001,DH001,N005,acquiring_expedition_leader,S07,印刷824–825页,人物与其所属考察队不另生成交接。
+P002,DH002,N005,acquiring_expedition_leader,S07,印刷824–825页,人物与其所属考察队不另生成交接。
+P003,DH003,N005,acquiring_expedition_leader,S07,印刷824–825页,人物与其所属考察队不另生成交接。
+P004,DH001,N004,negotiator;transport_assistant,S07,印刷824–825页,谈判与两次搬运属同一取得过程。
+P005,DH001,N015,transport_assistant,S07,印刷825页首,
+P006,DH001,N016,transport_assistant,S07,印刷825页首,
+P007,DH003,N004,negotiator,S07;S01,S07印刷825；S01印刷837–838,
+P008,DH003,N015,transport_assistant,S03,印刷73页注26（日记转引）,日记原件未独立取得。
+P009,DH003,N016,transport_assistant,S03,印刷73页注26（日记转引）,日记原件未独立取得。
+P010,DH005,N012,selector;negotiator,S15;S22,S15选择谈判段；S22印刷13页,

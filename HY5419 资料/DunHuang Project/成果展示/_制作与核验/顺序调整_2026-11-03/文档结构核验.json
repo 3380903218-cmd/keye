@@ -1,0 +1,11 @@
+{
+  "artifact_sha256": "1efbf9c1d7fb37f305b60b29cc57d6e8fb443d3111b3ed87214fd1c790d2e09e",
+  "checked_at": "2026-11-03T16:33:13.649790+08:00",
+  "namespace_check": "passed; 24 XML parts",
+  "office_package_check": "passed; no issues; 4 external relationships",
+  "zip_integrity": "passed",
+  "only_modified_part": "word/document.xml",
+  "qanda_and_reference_nodes_identical": true,
+  "qanda_sha256": "3e3fe3dbf7c79d739f151986596750ee25166c3e07427fd351093f244a850db2",
+  "all_other_package_parts_identical": true
+}

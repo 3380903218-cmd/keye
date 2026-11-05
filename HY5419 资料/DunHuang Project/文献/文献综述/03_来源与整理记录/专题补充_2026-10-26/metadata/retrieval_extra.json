@@ -1,0 +1,33 @@
+[
+  {
+    "source_id": "G14_Wang_2020",
+    "url": "https://dhxyjs.lzu.edu.cn/userfiles/files/20210203/6374794351518998576216398.pdf",
+    "final_url": "https://dhxyjs.lzu.edu.cn/userfiles/files/20210203/6374794351518998576216398.pdf",
+    "http_status": 200,
+    "bytes": 3566015,
+    "full_text_status": "present",
+    "local_path": "full-text/G14_Wang_2020.pdf",
+    "pages": 13,
+    "sha256": "cee7d9be99b38885df3de882768fa736f1f640840e4c9f79f4a0a8a19b93bf1b"
+  },
+  {
+    "source_id": "G01_During_2015",
+    "url": "https://raw.githubusercontent.com/programminghistorian/jekyll/gh-pages/en/lessons/creating-network-diagrams-from-historical-sources.md",
+    "final_url": "https://raw.githubusercontent.com/programminghistorian/jekyll/gh-pages/en/lessons/creating-network-diagrams-from-historical-sources.md",
+    "http_status": 200,
+    "bytes": 35217,
+    "full_text_status": "present",
+    "local_path": "full-text/G01_During_2015.md",
+    "sha256": "63b6faa2dfe1a83a9d94f4c19959439cb5dff062c4e5375a55c6256fe1ad6f69"
+  },
+  {
+    "source_id": "G05_Ahnert_Ahnert_2015",
+    "url": "https://model-articles.rrchnm.org/articles/ahnert/",
+    "final_url": "https://model-articles.rrchnm.org/articles/ahnert/",
+    "http_status": 200,
+    "bytes": 121396,
+    "full_text_status": "present",
+    "local_path": "full-text/G05_Ahnert_Ahnert_2015.html",
+    "sha256": "8960293c245c36cb253cd66923772ee6dc6d9d0d09072c2cb8c9608211e03013"
+  }
+]

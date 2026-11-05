@@ -1,0 +1,70 @@
+{
+  "status": "passed",
+  "date": "2026-10-13",
+  "graphs": [
+    {
+      "path": "分路线/Pelliot.gexf",
+      "sha256": "6d69ce2a03e0972047cb691b9a3618261f11e1edb3a81c91467d52bef7d8f19e",
+      "nodes": 3,
+      "edges": 2,
+      "directed": true,
+      "parallel_edges": false,
+      "independent_parser": "NetworkX 3.2.1",
+      "normalized_namespace_XSD": "passed"
+    },
+    {
+      "path": "分路线/Qing.gexf",
+      "sha256": "e55601000ba98e4b3340b6a9d392c1b316167e873c05654335e1101a7762e027",
+      "nodes": 3,
+      "edges": 2,
+      "directed": true,
+      "parallel_edges": false,
+      "independent_parser": "NetworkX 3.2.1",
+      "normalized_namespace_XSD": "passed"
+    },
+    {
+      "path": "分路线/Stein.gexf",
+      "sha256": "8cb5e9403fdf1d6f8a230c8bb89c274132d90e0544ef42cfdd44d854d42b4413",
+      "nodes": 3,
+      "edges": 2,
+      "directed": true,
+      "parallel_edges": false,
+      "independent_parser": "NetworkX 3.2.1",
+      "normalized_namespace_XSD": "passed"
+    },
+    {
+      "path": "辅助_事件参与图/进展gephi数据集_事件参与图.gexf",
+      "sha256": "a34a9391f3519f8934e56491722739b0024a71be9328847e9b0b0193672a83b1",
+      "nodes": 22,
+      "edges": 28,
+      "directed": true,
+      "parallel_edges": false,
+      "independent_parser": "NetworkX 3.2.1",
+      "normalized_namespace_XSD": "passed"
+    },
+    {
+      "path": "进展gephi数据集.gexf",
+      "sha256": "9dd2f8876eac229bd1df7317fbad07e0dc52d034178dc0f54a32f118b2887230",
+      "nodes": 8,
+      "edges": 6,
+      "directed": true,
+      "parallel_edges": false,
+      "independent_parser": "NetworkX 3.2.1",
+      "normalized_namespace_XSD": "passed"
+    }
+  ],
+  "scope": "Independent parser, viz attributes, directed topology, aggregation counts; XSD on a namespace-normalized validation copy only.",
+  "schema_caveat": "The hosted GEXF1.2draft XSD declares visualization element names in core namespace. Delivered files retain the viz namespace recognized by Gephi/NetworkX. This is not a claim that the unmodified XML passes that hosted XSD.",
+  "GephiGUIImport": "not_exercised",
+  "schema_source": "https://gexf.net/1.2draft/gexf.xsd",
+  "environment": {
+    "Python": "3.9.6",
+    "NetworkX": "3.2.1",
+    "lxml": [
+      6,
+      1,
+      3,
+      0
+    ]
+  }
+}

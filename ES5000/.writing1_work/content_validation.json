@@ -1,0 +1,20 @@
+{
+  "body_counts": [
+    149,
+    149
+  ],
+  "body_total": 298,
+  "docx_pdf_body_parity": true,
+  "references": 2,
+  "native_unchecked_boxes": 9,
+  "pdf_pages": 2,
+  "original_unchanged": true,
+  "docx_sha256": "178da02bea43cfeeb37f8ea60e973da7b15fe475a1eabd84f1ffda2c9909bf48",
+  "pdf_sha256": "f0cec1f0a5d525b5853657771b39c342fc21ed92e6545a6f0c9ad5cf84a3f970",
+  "delivery_files": [
+    "G06_WANG XIWEN_Writing Assignment 1_revised.docx",
+    "G06_WANG XIWEN_Writing Assignment 1_revised.pdf",
+    "修改说明.md"
+  ],
+  "package_audit_passed": true
+}

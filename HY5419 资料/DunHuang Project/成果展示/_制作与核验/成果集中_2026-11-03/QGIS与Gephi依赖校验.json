@@ -1,0 +1,47 @@
+{
+  "result": "pass",
+  "qgis_layers": [
+    {
+      "project": "敦煌传播地图.qgz",
+      "layer": "实物流转_示意线",
+      "resolved": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/地图导入数据/实物流转_示意线.geojson",
+      "exists": true
+    },
+    {
+      "project": "敦煌传播地图.qgz",
+      "layer": "知识传播_示意线",
+      "resolved": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/地图导入数据/知识传播_示意线.geojson",
+      "exists": true
+    },
+    {
+      "project": "敦煌传播地图.qgz",
+      "layer": "地点_默认参考点",
+      "resolved": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/地图导入数据/地点_默认参考点.geojson",
+      "exists": true
+    },
+    {
+      "project": "敦煌传播地图_区域详图.qgz",
+      "layer": "实物流转_示意线",
+      "resolved": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/地图导入数据/实物流转_示意线.geojson",
+      "exists": true
+    },
+    {
+      "project": "敦煌传播地图_区域详图.qgz",
+      "layer": "知识传播_示意线",
+      "resolved": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/地图导入数据/知识传播_示意线.geojson",
+      "exists": true
+    },
+    {
+      "project": "敦煌传播地图_区域详图.qgz",
+      "layer": "地点_默认参考点",
+      "resolved": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/02_QGIS/地图导入数据/地点_默认参考点.geojson",
+      "exists": true
+    }
+  ],
+  "original_packages": "zip integrity passed",
+  "final_graph": {
+    "nodes": 132,
+    "edges": 157
+  },
+  "native_app_open": "not checked"
+}

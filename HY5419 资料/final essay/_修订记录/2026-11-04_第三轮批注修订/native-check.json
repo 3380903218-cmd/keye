@@ -1,0 +1,8 @@
+{
+  "artifact_sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+  "performed_at": "2026-11-04T12:47:22.433792+08:00",
+  "status": "unavailable",
+  "connected_word_sessions": 0,
+  "evidence": "Codex Document Control list_document_sessions(surface=word) returned no connected sessions in this revision. CUA surface unavailable in the established environment.",
+  "limitations": "Native Word normal-open, repair-dialog and native pagination verification was not performed."
+}

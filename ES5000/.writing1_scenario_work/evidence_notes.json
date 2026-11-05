@@ -1,0 +1,24 @@
+{
+  "content_authority": "User explicitly requests original writing 1 draft.docx scenarios and mainly negative emotional effects with possible positive effects.",
+  "sources": [
+    {
+      "teacher_resource": 2,
+      "reference": "Quinn (2025)",
+      "local_file": "Assignment_Guidelines_export/2. Reducing Loneliness on College Campuses_Psych Today.pdf",
+      "sha256": "3d8c6fa5e099fbb877689b22ac5bbebb5a13a1bf19f897f2c2f46ef5a1dc4970",
+      "locator": "p. 1, What is loneliness and how does it differ from social isolation?; p. 2, Fitting in versus belonging",
+      "claim": "Unmet needs for connection/belonging and relationship quality matter beyond physical company."
+    },
+    {
+      "teacher_resource": 5,
+      "reference": "Ellard et al. (2023)",
+      "local_file": "Assignment_Guidelines_export/5. Addressing loneliness amongst university students.pdf",
+      "sha256": "377b070af150b2768101d20e1506200bb09d11ccec828e9c603e36c8d1fa80a1",
+      "locator": "pp. 512–513, Background",
+      "claim": "Loneliness associations with anxiety, stress, depression and sleep problems; student population named."
+    }
+  ],
+  "positive_effect_status": "Conditional interpretation from the student’s stated position, not a directly demonstrated result of the assigned sources. May/could/possible plus dependence on a constructive response preserve uncertainty. No assertion of guaranteed mental clarity or better task performance.",
+  "scenario_status": "The four scenarios come from the student’s original draft and illustrate mechanisms; not presented as study results. Night-time emotional experience and fatigue-related functioning are cautious examples/interpretation.",
+  "citation_delta": "Quinn 2025 and Ellard 2023 are the final references; no Ozdamar or external source included."
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": "S07_MANIFEST",
+    "filename": "S07_Serindia_IIIF_manifest.json",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/manifest.json",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/manifest.json",
+    "content_type": "application/json",
+    "status": "downloaded",
+    "bytes": 427131,
+    "sha256": "615d54d23a225bc60bbd3bf6c3f9c26f9cf3b8c37d1678889f6f7745989faf8a"
+  },
+  {
+    "source_id": "S21",
+    "filename": "S21_NCL_敦煌文献调查报告.pdf",
+    "url": "https://nclfile.ncl.edu.tw/nclhistory/public/Data/5102716244471.pdf",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://nclfile.ncl.edu.tw/nclhistory/public/Data/5102716244471.pdf",
+    "content_type": "application/pdf",
+    "status": "downloaded",
+    "bytes": 4768494,
+    "sha256": "b6b3d25d0c513dd30d9189d46bded2e316d98c7fa150ea8ba028cfb14f1fa364"
+  },
+  {
+    "source_id": "S22",
+    "filename": "S22_Pelliot_1910_目录.html",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/",
+    "access_date": "2026-09-22",
+    "http_status": 200,
+    "final_url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/",
+    "content_type": "text/html",
+    "status": "downloaded",
+    "bytes": 8302,
+    "sha256": "61cb9010b9188eb0e4fb624b6ca9d989936f131d2fec36bc7918370b03c8120a"
+  },
+  {
+    "source_id": "S22_MANIFEST",
+    "filename": "S22_Pelliot_IIIF_manifest.json",
+    "url": "https://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/manifest.json",
+    "access_date": "2026-09-22",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "S23",
+    "filename": "S23_Fang_2009_期刊目录.html",
+    "url": "https://caod.oriprobe.com/issues/507132/toc.htm",
+    "access_date": "2026-09-22",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "S24",
+    "filename": "S24_Wang_2004_Stein_archive_catalogue.pdf",
+    "url": "https://www.britishmuseum.org/pdf/Stein%20Wang.pdf",
+    "access_date": "2026-09-22",
+    "status": "failed",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  }
+]

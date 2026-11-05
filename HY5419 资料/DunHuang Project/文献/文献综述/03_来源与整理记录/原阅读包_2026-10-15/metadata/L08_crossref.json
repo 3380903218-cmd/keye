@@ -1,0 +1,482 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2024-08-02T10:35:23Z",
+      "timestamp": 1722594923214
+    },
+    "reference-count": 51,
+    "publisher": "University of Chicago Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Metropolitan Museum Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1086/712767",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          4
+        ]
+      ],
+      "date-time": "2020-12-04T21:11:58Z",
+      "timestamp": 1607116318000
+    },
+    "page": "8-25",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Buddhism and Silk: Reassessing a Painted Banner from Medieval Central Asia in The Met"
+    ],
+    "prefix": "10.1086",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Michelle C.",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Xin",
+        "family": "Wen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Susan",
+        "family": "Whitfield",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "200",
+    "reference": [
+      {
+        "key": "rf10",
+        "volume-title": "1948 Wall Paintings from Ancient Shrines in Central Asia",
+        "author": "Andrews Fred H"
+      },
+      {
+        "key": "rf11",
+        "volume-title": "1951a Khotanese Buddhist Texts",
+        "author": "Bailey H. W."
+      },
+      {
+        "key": "rf12",
+        "first-page": "1",
+        "volume": "2",
+        "author": "Bailey H. W.",
+        "year": "1951",
+        "journal-title": "Asia Major, n.s."
+      },
+      {
+        "key": "rf13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0041977X00099134"
+      },
+      {
+        "key": "rf14",
+        "volume-title": "1979 Dictionary of Khotan Saka",
+        "author": "Bailey H. W."
+      },
+      {
+        "key": "rf15",
+        "volume-title": "Turks, Arabs, and Chinese during the Early Middle Ages",
+        "author": "Beckwith Christopher I",
+        "year": "1987"
+      },
+      {
+        "key": "rf16",
+        "volume-title": "Chhaya 2003 Central Asian Temple Banners in the Turfan Collection of the Museum für Indische Kunst",
+        "author": "Bhattacharya-Haesner"
+      },
+      {
+        "key": "rf17",
+        "volume-title": "New Delhi",
+        "author": "Chandra Lokesh"
+      },
+      {
+        "key": "rf18",
+        "volume-title": "Édouard 1942 Documents sur les Tou-Kiue (Turcs) occidentaux: Recueillis et commentés, suivi de notes additionnelles",
+        "author": "Chavannes"
+      },
+      {
+        "key": "rf19",
+        "volume-title": "Yi Tang Song shiqi tuxiang de dongchuan wei zhongxin 從于闐到敦煌：以唐宋時期圖像的東傳為中心 (From Khotan to Dunhuang: Focusing on the Eastern dissemination of images in the Tang and Song periods)",
+        "author": "Dunhuang"
+      },
+      {
+        "key": "rf20",
+        "first-page": "22",
+        "volume": "2002",
+        "author": "Cohen Monique",
+        "year": "2002",
+        "journal-title": "S. Whitfield"
+      },
+      {
+        "key": "rf21",
+        "volume-title": "2014 The Body Incantatory: Spells and the Ritual Imagination in Medieval Chinese Buddhism",
+        "author": "Copp Paul F"
+      },
+      {
+        "key": "rf23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/1005767"
+      },
+      {
+        "key": "rf24",
+        "volume-title": "Michael Robert 2005 Tang China and the Collapse of the Uighur Empire: A Documentary History",
+        "author": "Drompp"
+      },
+      {
+        "key": "rf25",
+        "volume-title": "1968 Saka Grammatical Studies",
+        "author": "Emmerick R. E."
+      },
+      {
+        "issue": "2",
+        "key": "rf26",
+        "first-page": "251",
+        "volume": "13",
+        "author": "Emmerick R. E.",
+        "year": "1984",
+        "journal-title": "Studia Iranica"
+      },
+      {
+        "issue": "2",
+        "key": "rf27",
+        "first-page": "283",
+        "volume": "7",
+        "author": "Emmerick R. E.",
+        "year": "1978",
+        "journal-title": "Studia Iranica"
+      },
+      {
+        "key": "rf28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1484/J.JIAA.3.9"
+      },
+      {
+        "key": "rf29",
+        "first-page": "103",
+        "volume": "2002",
+        "author": "Fujieda Akira",
+        "year": "2002",
+        "journal-title": "S. Whitfield"
+      },
+      {
+        "key": "rf31",
+        "unstructured": "Hashimura Aiko 橋村爱子2011“Tonkō Bakkōkutsu oyobi Anzai Yurinkutsu no Kujaku myōō (Mahāmayūrī) ni tsuite—Kigigun setsudoshi Sōshi ni yoru mikkyō juyō no ichi danmen 敦煌莫高窟及び安西楡林窟の孔雀明王 (Mahāmayūrī) について—帰義軍節度使曹氏による密教受容の一断面” (Regarding Mahāmayūrī in the Mogao and Yulin caves—One section of esoteric Buddhist content under the Cao Clan of the Guiyijun Military Commanders).Bigaku bijutsushi kenkyū ronshū美學美術史研究論集 (Studies in Aesthetics and Art History) 25, pp. 27–54."
+      },
+      {
+        "key": "rf33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16893/IJBTC.2017.12.27.2.39"
+      },
+      {
+        "key": "rf34",
+        "volume-title": "PhD diss."
+      },
+      {
+        "key": "rf35",
+        "first-page": "101",
+        "volume-title": "Cina e Iran: Da Alessandro Magno alla dinastia Tang"
+      },
+      {
+        "key": "rf38",
+        "volume-title": "1993 Unfolding a Maṇḍala: The Buddhist Cave Temples at Ellora",
+        "author": "Malandra Geri H"
+      },
+      {
+        "issue": "2",
+        "key": "rf39",
+        "first-page": "70",
+        "volume": "1",
+        "author": "Nagahiro Toshio",
+        "year": "1955",
+        "journal-title": "Oriental Art, n.s."
+      },
+      {
+        "key": "rf40",
+        "volume-title": "ann. and trans. 2013 King, Governance, and Law in Ancient India: Kautṭilya’s Arthas´āstra",
+        "author": "Olivelle Patrick"
+      },
+      {
+        "key": "rf41",
+        "first-page": "83",
+        "volume-title": "Gray and Ryan Richard Overbey",
+        "author": "Overbey Ryan Richard",
+        "year": "2016"
+      },
+      {
+        "key": "rf42",
+        "first-page": "1",
+        "volume": "18",
+        "author": "Pandey V. N.",
+        "year": "1988",
+        "journal-title": "Bulletin of the Indian Institute of History of Medicine"
+      },
+      {
+        "key": "rf43",
+        "first-page": "75",
+        "volume-title": "Cahiers d’Extrême-Asie 11"
+      },
+      {
+        "issue": "1",
+        "key": "rf45",
+        "first-page": "96",
+        "volume": "54",
+        "author": "Shimono Akiko 下野玲子",
+        "year": "2004",
+        "journal-title": "Bijutsushi 美術史"
+      },
+      {
+        "key": "rf46",
+        "volume-title": "Inscriptions of the Seleucid and Parthian Periods and of Eastern Iran and Central Asia",
+        "volume": "5",
+        "author": "Skjærvø Prods O",
+        "year": "2002"
+      },
+      {
+        "key": "rf47",
+        "first-page": "89",
+        "volume": "3",
+        "author": "Sørensen Henrik H",
+        "year": "2006",
+        "journal-title": "Pacific World, ser."
+      },
+      {
+        "key": "rf48",
+        "volume-title": "Aurel 1907 Ancient Khotan: Detailed Report of Archaeological Explorations in Chinese Turkestan. 2 vols",
+        "author": "Stein"
+      },
+      {
+        "key": "rf49",
+        "volume-title": "1921Serindia: Detailed Report of Explorations in Central Asia and Westernmost China. 5 vols",
+        "author": "Stein"
+      },
+      {
+        "key": "rf50",
+        "volume-title": "Detailed Report of Explorations in Central Asia, Kan-su, and Eastern Īrān.",
+        "author": "Stein"
+      },
+      {
+        "key": "rf51",
+        "volume-title": "5 vols"
+      },
+      {
+        "key": "rf52",
+        "first-page": "60",
+        "volume-title": "Cahiers d’Extrême-Asie 20",
+        "author": "Wang"
+      },
+      {
+        "issue": "4",
+        "key": "rf53",
+        "first-page": "37",
+        "author": "Wang Huimin 王惠民",
+        "year": "1996",
+        "journal-title": "Dunhuang yanjiu 敦煌研究 (Dunhuang research)"
+      },
+      {
+        "key": "rf54",
+        "first-page": "91",
+        "volume-title": "Zhao",
+        "author": "Wang Le",
+        "year": "2007"
+      },
+      {
+        "key": "rf56",
+        "first-page": "121",
+        "volume": "11",
+        "author": "Wen Xin 文欣",
+        "year": "2008",
+        "journal-title": "Dunhuang Tulufan yanjiu 敦煌吐魯番研究 (Dunhuang and Turfan Studies)"
+      },
+      {
+        "key": "rf57",
+        "volume-title": "Roderick 1982–85 The Art of Central Asia: The Stein Collection in the British Museum. 3 vols",
+        "author": "Whitfield"
+      },
+      {
+        "issue": "1",
+        "key": "rf58",
+        "first-page": "90",
+        "volume": "24",
+        "author": "Whitfield",
+        "year": "1998",
+        "journal-title": "British Library Journal"
+      },
+      {
+        "key": "rf59",
+        "first-page": "96",
+        "volume": "2002",
+        "author": "Whitfield",
+        "year": "2002",
+        "journal-title": "S. Whitfield"
+      },
+      {
+        "key": "rf60",
+        "volume-title": "Susan 2002 as editor",
+        "author": "Whitfield"
+      },
+      {
+        "key": "rf61",
+        "author": "Whitfield",
+        "year": "2017",
+        "journal-title": "IDP Newsletter, no. 49/50"
+      },
+      {
+        "key": "rf62",
+        "volume-title": "Travel, War, and Faith.",
+        "author": "Whitfield Susan"
+      },
+      {
+        "issue": "1",
+        "key": "rf63",
+        "first-page": "109",
+        "volume": "23",
+        "author": "Williams Joanna",
+        "year": "1973",
+        "journal-title": "East and West"
+      },
+      {
+        "issue": "4",
+        "key": "rf64",
+        "first-page": "82",
+        "volume": "47",
+        "author": "Zaleski Valérie",
+        "year": "2016",
+        "journal-title": "Orientations"
+      },
+      {
+        "key": "rf65",
+        "volume-title": "Beijing: Zhongguo Renmin Daxue Chubanshe.",
+        "edition": "2"
+      },
+      {
+        "key": "rf66",
+        "volume-title": "Textiles from Dunhuang in UK Collections"
+      },
+      {
+        "key": "rf67",
+        "first-page": "213",
+        "volume-title": "Zhao",
+        "year": "2007"
+      }
+    ],
+    "container-title": [
+      "Metropolitan Museum Journal"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.journals.uchicago.edu/doi/pdf/10.1086/712767",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          4
+        ]
+      ],
+      "date-time": "2020-12-04T21:17:25Z",
+      "timestamp": 1607116645000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.journals.uchicago.edu/doi/10.1086/712767"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          1
+        ]
+      ]
+    },
+    "references-count": 51,
+    "alternative-id": [
+      "10.1086/712767"
+    ],
+    "URL": "https://doi.org/10.1086/712767",
+    "relation": {},
+    "ISSN": [
+      "0077-8958",
+      "2169-3072"
+    ],
+    "issn-type": [
+      {
+        "value": "0077-8958",
+        "type": "print"
+      },
+      {
+        "value": "2169-3072",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          1
+        ]
+      ]
+    }
+  }
+}

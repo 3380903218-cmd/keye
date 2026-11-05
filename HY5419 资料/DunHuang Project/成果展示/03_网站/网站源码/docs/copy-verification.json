@@ -1,0 +1,63 @@
+{
+  "version": "2.0.1",
+  "checks": [
+    {
+      "lang": "zh",
+      "width": 390,
+      "title": "资料来源与证据范围",
+      "intro": "路线图和关系网络根据考察记录、书信、研究论著及馆藏目录整理。点击地图连线或网络节点，可查阅相应的来源与证据说明。尚未核实的中转地点和单件文献对应关系，不作确定标注。",
+      "overflow": false,
+      "oldCopyAbsent": true,
+      "fullNetwork": {
+        "nodes": 122,
+        "edges": 136
+      },
+      "switchedTitle": "Sources and evidence",
+      "passed": true
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "title": "资料来源与证据范围",
+      "intro": "路线图和关系网络根据考察记录、书信、研究论著及馆藏目录整理。点击地图连线或网络节点，可查阅相应的来源与证据说明。尚未核实的中转地点和单件文献对应关系，不作确定标注。",
+      "overflow": false,
+      "oldCopyAbsent": true,
+      "fullNetwork": {
+        "nodes": 122,
+        "edges": 136
+      },
+      "switchedTitle": "Sources and evidence",
+      "passed": true
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "title": "Sources and evidence",
+      "intro": "The route map and relationship network draw on expedition accounts, correspondence, research publications and collection catalogues. Select a map connection or network node to consult its sources and evidence notes. Unverified stops and links to individual manuscripts are left unspecified.",
+      "overflow": false,
+      "oldCopyAbsent": true,
+      "fullNetwork": {
+        "nodes": 122,
+        "edges": 136
+      },
+      "switchedTitle": "资料来源与证据范围",
+      "passed": true
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "title": "Sources and evidence",
+      "intro": "The route map and relationship network draw on expedition accounts, correspondence, research publications and collection catalogues. Select a map connection or network node to consult its sources and evidence notes. Unverified stops and links to individual manuscripts are left unspecified.",
+      "overflow": false,
+      "oldCopyAbsent": true,
+      "fullNetwork": {
+        "nodes": 122,
+        "edges": 136
+      },
+      "switchedTitle": "资料来源与证据范围",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

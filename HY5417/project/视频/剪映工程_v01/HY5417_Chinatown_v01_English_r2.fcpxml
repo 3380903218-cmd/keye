@@ -1,0 +1,2070 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fcpxml version="1.8">
+  <resources>
+    <format id="fmt" name="FFVideoFormat1080p25" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <format id="f1" frameDuration="1/30s" width="960" height="544" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a1" name="S01_0287720ba6da6426f2cb2676c01483db" start="0s" duration="311/25s" hasVideo="1" format="f1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/0287720ba6da6426f2cb2676c01483db.mp4" />
+    </asset>
+    <format id="f2" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a2" name="S02_3c6c67f7b5272aa2324fa98dd3a134e0" start="0s" duration="88/25s" hasVideo="1" format="f2" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/3c6c67f7b5272aa2324fa98dd3a134e0.mp4" />
+    </asset>
+    <format id="f3" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a3" name="S03_7297cb044842ecdddf78671b2262e225" start="0s" duration="637/25s" hasVideo="1" format="f3" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/7297cb044842ecdddf78671b2262e225.mp4" />
+    </asset>
+    <format id="f4" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a4" name="S04_76ab065286129349a3be8663ca8e7400" start="0s" duration="248/25s" hasVideo="1" format="f4" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/76ab065286129349a3be8663ca8e7400.mp4" />
+    </asset>
+    <format id="f7" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a7" name="S07_8ac019da8f77960c2429d99252f9c1cf" start="0s" duration="164/25s" hasVideo="1" format="f7" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/8ac019da8f77960c2429d99252f9c1cf.mp4" />
+    </asset>
+    <format id="f8" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a8" name="S08_90884d6b5a7dc62ee420b53c6e88c343" start="0s" duration="294/25s" hasVideo="1" format="f8" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/90884d6b5a7dc62ee420b53c6e88c343.mp4" />
+    </asset>
+    <format id="f9" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a9" name="S09_98726540b1e54615f54998c231463dbb" start="0s" duration="476/25s" hasVideo="1" format="f9" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/98726540b1e54615f54998c231463dbb.mp4" />
+    </asset>
+    <format id="f10" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a10" name="S10_ab09b94c74636b38e558855ca163abea" start="0s" duration="440/25s" hasVideo="1" format="f10" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/ab09b94c74636b38e558855ca163abea.mp4" />
+    </asset>
+    <format id="f11" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a11" name="S11_bc9f7fb8606579dcbd297a16468d4195" start="0s" duration="119/25s" hasVideo="1" format="f11" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/bc9f7fb8606579dcbd297a16468d4195.mp4" />
+    </asset>
+    <format id="f12" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a12" name="S12_d9c6a0327faee41f0feb22d9d78e97f8" start="0s" duration="252/25s" hasVideo="1" format="f12" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/d9c6a0327faee41f0feb22d9d78e97f8.mp4" />
+    </asset>
+    <format id="f13" frameDuration="1/30s" width="1280" height="720" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a13" name="S13_fc192df2de3c25edac1cd447e725c8db" start="0s" duration="406/25s" hasVideo="1" format="f13" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/fc192df2de3c25edac1cd447e725c8db.mp4" />
+    </asset>
+    <format id="f14" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a14" name="N01_网络_01_20231130_史密斯街更新_振兴与绅士化争议" start="0s" duration="3904/25s" hasVideo="1" format="f14" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E7%BD%91%E7%BB%9C_01_20231130_%E5%8F%B2%E5%AF%86%E6%96%AF%E8%A1%97%E6%9B%B4%E6%96%B0_%E6%8C%AF%E5%85%B4%E4%B8%8E%E7%BB%85%E5%A3%AB%E5%8C%96%E4%BA%89%E8%AE%AE.mp4" />
+    </asset>
+    <format id="f15" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a15" name="N03_网络_03_20250518_史密斯街更新后_生意改善与租金人手挑战" start="0s" duration="5044/25s" hasVideo="1" format="f15" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E7%BD%91%E7%BB%9C_03_20250518_%E5%8F%B2%E5%AF%86%E6%96%AF%E8%A1%97%E6%9B%B4%E6%96%B0%E5%90%8E_%E7%94%9F%E6%84%8F%E6%94%B9%E5%96%84%E4%B8%8E%E7%A7%9F%E9%87%91%E4%BA%BA%E6%89%8B%E6%8C%91%E6%88%98.mp4" />
+    </asset>
+    <format id="f16" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a16" name="N06_网络_06_20250404_白新春茶庄_活态传承与社区联系" start="0s" duration="8612/25s" hasVideo="1" format="f16" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E7%BD%91%E7%BB%9C_06_20250404_%E7%99%BD%E6%96%B0%E6%98%A5%E8%8C%B6%E5%BA%84_%E6%B4%BB%E6%80%81%E4%BC%A0%E6%89%BF%E4%B8%8E%E7%A4%BE%E5%8C%BA%E8%81%94%E7%B3%BB.mp4" />
+    </asset>
+    <format id="f17" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a17" name="N08_网络_08_20250513_原貌与展示_牛车水原貌馆重新开放" start="0s" duration="3412/25s" hasVideo="1" format="f17" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E7%BD%91%E7%BB%9C_08_20250513_%E5%8E%9F%E8%B2%8C%E4%B8%8E%E5%B1%95%E7%A4%BA_%E7%89%9B%E8%BD%A6%E6%B0%B4%E5%8E%9F%E8%B2%8C%E9%A6%86%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE.mp4" />
+    </asset>
+    <format id="f18" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a18" name="N09_网络_09_20250108_节庆文化的呈现_农历新年灯饰与市集" start="0s" duration="5175/25s" hasVideo="1" format="f18" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E7%BD%91%E7%BB%9C_09_20250108_%E8%8A%82%E5%BA%86%E6%96%87%E5%8C%96%E7%9A%84%E5%91%88%E7%8E%B0_%E5%86%9C%E5%8E%86%E6%96%B0%E5%B9%B4%E7%81%AF%E9%A5%B0%E4%B8%8E%E5%B8%82%E9%9B%86.mp4" />
+    </asset>
+    <format id="f19" frameDuration="1/30s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a19" name="N10_网络_10_20261101_遗产企业支持_经营延续与社区活动" start="0s" duration="4868/25s" hasVideo="1" format="f19" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E7%BD%91%E7%BB%9C_10_20261101_%E9%81%97%E4%BA%A7%E4%BC%81%E4%B8%9A%E6%94%AF%E6%8C%81_%E7%BB%8F%E8%90%A5%E5%BB%B6%E7%BB%AD%E4%B8%8E%E7%A4%BE%E5%8C%BA%E6%B4%BB%E5%8A%A8.mp4" />
+    </asset>
+    <format id="f20" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a20" name="N06V_N06_旁白画面_下缘字幕避让" start="0s" duration="8611/25s" hasVideo="1" format="f20">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E8%A1%8D%E7%94%9F%E7%B4%A0%E6%9D%90/N06_%E6%97%81%E7%99%BD%E7%94%BB%E9%9D%A2_%E4%B8%8B%E7%BC%98%E5%AD%97%E5%B9%95%E9%81%BF%E8%AE%A9.mp4" />
+    </asset>
+    <format id="f21" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a21" name="title_title" start="0s" duration="15000/25s" hasVideo="1" format="f21">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/title.png" />
+    </asset>
+    <format id="f22" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a22" name="ch2_ch2" start="0s" duration="15000/25s" hasVideo="1" format="f22">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/ch2.png" />
+    </asset>
+    <format id="f23" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a23" name="ch3_ch3" start="0s" duration="15000/25s" hasVideo="1" format="f23">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/ch3.png" />
+    </asset>
+    <format id="f24" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a24" name="ch4_ch4" start="0s" duration="15000/25s" hasVideo="1" format="f24">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/ch4.png" />
+    </asset>
+    <format id="f25" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a25" name="ch5_ch5" start="0s" duration="15000/25s" hasVideo="1" format="f25">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/ch5.png" />
+    </asset>
+    <format id="f26" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a26" name="ch6_ch6" start="0s" duration="15000/25s" hasVideo="1" format="f26">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/ch6.png" />
+    </asset>
+    <format id="f27" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a27" name="ch7_ch7" start="0s" duration="15000/25s" hasVideo="1" format="f27">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/ch7.png" />
+    </asset>
+    <format id="f28" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a28" name="shophouse_shophouse" start="0s" duration="15000/25s" hasVideo="1" format="f28">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/shophouse.png" />
+    </asset>
+    <format id="f29" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a29" name="choices_choices" start="0s" duration="15000/25s" hasVideo="1" format="f29">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/choices.png" />
+    </asset>
+    <format id="f30" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a30" name="date_date" start="0s" duration="15000/25s" hasVideo="1" format="f30">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/date.png" />
+    </asset>
+    <format id="f31" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a31" name="visible_visible" start="0s" duration="15000/25s" hasVideo="1" format="f31">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/visible.png" />
+    </asset>
+    <format id="f32" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a32" name="costs_costs" start="0s" duration="15000/25s" hasVideo="1" format="f32">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/costs.png" />
+    </asset>
+    <format id="f33" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a33" name="limits_limits" start="0s" duration="15000/25s" hasVideo="1" format="f33">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/limits.png" />
+    </asset>
+    <format id="f34" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a34" name="practice_practice" start="0s" duration="15000/25s" hasVideo="1" format="f34">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/practice.png" />
+    </asset>
+    <format id="f35" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a35" name="quote_quote" start="0s" duration="15000/25s" hasVideo="1" format="f35">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/quote.png" />
+    </asset>
+    <format id="f36" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a36" name="voices_voices" start="0s" duration="15000/25s" hasVideo="1" format="f36">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/voices.png" />
+    </asset>
+    <format id="f37" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a37" name="influence_influence" start="0s" duration="15000/25s" hasVideo="1" format="f37">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/influence.png" />
+    </asset>
+    <format id="f38" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a38" name="return_return" start="0s" duration="15000/25s" hasVideo="1" format="f38">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/return.png" />
+    </asset>
+    <format id="f39" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a39" name="q1_q1" start="0s" duration="15000/25s" hasVideo="1" format="f39">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/q1.png" />
+    </asset>
+    <format id="f40" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a40" name="q2_q2" start="0s" duration="15000/25s" hasVideo="1" format="f40">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/q2.png" />
+    </asset>
+    <format id="f41" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a41" name="q3_q3" start="0s" duration="15000/25s" hasVideo="1" format="f41">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/q3.png" />
+    </asset>
+    <format id="f42" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a42" name="credits1_credits1" start="0s" duration="15000/25s" hasVideo="1" format="f42">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/credits1.png" />
+    </asset>
+    <format id="f43" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a43" name="credits2_credits2" start="0s" duration="15000/25s" hasVideo="1" format="f43">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/credits2.png" />
+    </asset>
+    <format id="f44" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a44" name="credits3_credits3" start="0s" duration="15000/25s" hasVideo="1" format="f44">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/credits3.png" />
+    </asset>
+    <format id="f45" frameDuration="1/25s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a45" name="credits4_credits4" start="0s" duration="15000/25s" hasVideo="1" format="f45">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E5%9B%BE%E5%8D%A1/credits4.png" />
+    </asset>
+    <asset id="voice1" name="EN_01_replaceable" start="0s" duration="672/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/01_EN_section1.wav" />
+    </asset>
+    <asset id="voice2" name="EN_02_replaceable" start="0s" duration="547/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/02_EN_section2.wav" />
+    </asset>
+    <asset id="voice3" name="EN_03_replaceable" start="0s" duration="498/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/03_EN_section2.wav" />
+    </asset>
+    <asset id="voice4" name="EN_04_replaceable" start="0s" duration="549/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/04_EN_section2.wav" />
+    </asset>
+    <asset id="voice5" name="EN_05_replaceable" start="0s" duration="523/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/05_EN_section3.wav" />
+    </asset>
+    <asset id="voice6" name="EN_06_replaceable" start="0s" duration="569/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/06_EN_section3.wav" />
+    </asset>
+    <asset id="voice7" name="EN_07_replaceable" start="0s" duration="451/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/07_EN_section3.wav" />
+    </asset>
+    <asset id="voice8" name="EN_08_replaceable" start="0s" duration="548/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/08_EN_section4.wav" />
+    </asset>
+    <asset id="voice9" name="EN_09_replaceable" start="0s" duration="598/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/09_EN_section4.wav" />
+    </asset>
+    <asset id="voice10" name="EN_10_replaceable" start="0s" duration="729/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/10_EN_section4.wav" />
+    </asset>
+    <asset id="voice11" name="EN_11_replaceable" start="0s" duration="796/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/11_EN_section5.wav" />
+    </asset>
+    <asset id="voice12" name="EN_12_replaceable" start="0s" duration="589/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/12_EN_section5.wav" />
+    </asset>
+    <asset id="voice13" name="EN_13_replaceable" start="0s" duration="598/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/13_EN_section5.wav" />
+    </asset>
+    <asset id="voice14" name="EN_14_replaceable" start="0s" duration="571/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/14_EN_section6.wav" />
+    </asset>
+    <asset id="voice15" name="EN_15_replaceable" start="0s" duration="622/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/15_EN_section6.wav" />
+    </asset>
+    <asset id="voice16" name="EN_16_replaceable" start="0s" duration="525/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/16_EN_section6.wav" />
+    </asset>
+    <asset id="voice17" name="EN_17_replaceable" start="0s" duration="512/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/17_EN_section7.wav" />
+    </asset>
+    <asset id="voice18" name="EN_18_replaceable" start="0s" duration="548/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/18_EN_section7.wav" />
+    </asset>
+    <asset id="voice19" name="EN_19_replaceable" start="0s" duration="597/25s" hasAudio="1" audioSources="1" audioChannels="1" audioRate="48000">
+      <media-rep kind="original-media" src="file:///Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/%E8%A7%86%E9%A2%91/%E5%89%AA%E6%98%A0%E5%B7%A5%E7%A8%8B_v01/%E9%85%8D%E9%9F%B3/%E6%A0%87%E5%87%86%E5%8C%96/19_EN_section7.wav" />
+    </asset>
+    <effect id="text" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti" />
+  </resources>
+  <library>
+    <event name="HY5417_Public_History">
+      <project name="HY5417_Chinatown_v01_English_r2">
+        <sequence format="fmt" duration="600s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <asset-clip name="000.00_S03" ref="a3" offset="0/25s" start="50/25s" duration="175/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+              <asset-clip ref="voice1" name="EN narration 01 (replaceable)" lane="-1" offset="100/25s" start="0s" duration="672/25s" audioRole="dialogue" />
+              <asset-clip ref="voice2" name="EN narration 02 (replaceable)" lane="-1" offset="1100/25s" start="0s" duration="547/25s" audioRole="dialogue" />
+              <asset-clip ref="voice3" name="EN narration 03 (replaceable)" lane="-1" offset="1675/25s" start="0s" duration="498/25s" audioRole="dialogue" />
+              <asset-clip ref="voice4" name="EN narration 04 (replaceable)" lane="-1" offset="2200/25s" start="0s" duration="549/25s" audioRole="dialogue" />
+              <asset-clip ref="voice5" name="EN narration 05 (replaceable)" lane="-1" offset="2850/25s" start="0s" duration="523/25s" audioRole="dialogue" />
+              <asset-clip ref="voice6" name="EN narration 06 (replaceable)" lane="-1" offset="3400/25s" start="0s" duration="569/25s" audioRole="dialogue" />
+              <asset-clip ref="voice7" name="EN narration 07 (replaceable)" lane="-1" offset="4000/25s" start="0s" duration="451/25s" audioRole="dialogue" />
+              <asset-clip ref="voice8" name="EN narration 08 (replaceable)" lane="-1" offset="4600/25s" start="0s" duration="548/25s" audioRole="dialogue" />
+              <asset-clip ref="voice9" name="EN narration 09 (replaceable)" lane="-1" offset="5450/25s" start="0s" duration="598/25s" audioRole="dialogue" />
+              <asset-clip ref="voice10" name="EN narration 10 (replaceable)" lane="-1" offset="6500/25s" start="0s" duration="729/25s" audioRole="dialogue" />
+              <asset-clip ref="voice11" name="EN narration 11 (replaceable)" lane="-1" offset="7375/25s" start="0s" duration="796/25s" audioRole="dialogue" />
+              <asset-clip ref="voice12" name="EN narration 12 (replaceable)" lane="-1" offset="8675/25s" start="0s" duration="589/25s" audioRole="dialogue" />
+              <asset-clip ref="voice13" name="EN narration 13 (replaceable)" lane="-1" offset="9325/25s" start="0s" duration="598/25s" audioRole="dialogue" />
+              <asset-clip ref="voice14" name="EN narration 14 (replaceable)" lane="-1" offset="10375/25s" start="0s" duration="571/25s" audioRole="dialogue" />
+              <asset-clip ref="voice15" name="EN narration 15 (replaceable)" lane="-1" offset="11025/25s" start="0s" duration="622/25s" audioRole="dialogue" />
+              <asset-clip ref="voice16" name="EN narration 16 (replaceable)" lane="-1" offset="11675/25s" start="0s" duration="525/25s" audioRole="dialogue" />
+              <asset-clip ref="voice17" name="EN narration 17 (replaceable)" lane="-1" offset="12375/25s" start="0s" duration="512/25s" audioRole="dialogue" />
+              <asset-clip ref="voice18" name="EN narration 18 (replaceable)" lane="-1" offset="12925/25s" start="0s" duration="548/25s" audioRole="dialogue" />
+              <asset-clip ref="voice19" name="EN narration 19 (replaceable)" lane="-1" offset="13500/25s" start="0s" duration="597/25s" audioRole="dialogue" />
+              <title ref="text" name="EN subtitle" lane="2" offset="100/25s" start="0s" duration="139/25s" role="titles">
+                <text>
+                  <text-style ref="ts1">Walk into Singapore's Chinatown, and the shophouses are often
+the first thing you notice.</text-style>
+                </text>
+                <text-style-def id="ts1">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="256/25s" start="0s" duration="104/25s" role="titles">
+                <text>
+                  <text-style ref="ts2">Yet the history of a street also lives in everyday encounters:</text-style>
+                </text>
+                <text-style-def id="ts2">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="360/25s" start="0s" duration="142/25s" role="titles">
+                <text>
+                  <text-style ref="ts3">buying food, running a business, sharing
+skills, and returning to familiar places.</text-style>
+                </text>
+                <text-style-def id="ts3">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="519/25s" start="0s" duration="103/25s" role="titles">
+                <text>
+                  <text-style ref="ts4">When the buildings survive, what
+helps these relationships continue?</text-style>
+                </text>
+                <text-style-def id="ts4">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="640/25s" start="0s" duration="115/25s" role="titles">
+                <text>
+                  <text-style ref="ts5">This film follows that question through the streets and one
+working tea business.</text-style>
+                </text>
+                <text-style-def id="ts5">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1100/25s" start="0s" duration="86/25s" role="titles">
+                <text>
+                  <text-style ref="ts6">Chinatown grew through migration, trade and settlement.</text-style>
+                </text>
+                <text-style-def id="ts6">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1198/25s" start="0s" duration="89/25s" role="titles">
+                <text>
+                  <text-style ref="ts7">Its shophouses connected work and home, with business on the</text-style>
+                </text>
+                <text-style-def id="ts7">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1288/25s" start="0s" duration="54/25s" role="titles">
+                <text>
+                  <text-style ref="ts8">ground floor and living space above.</text-style>
+                </text>
+                <text-style-def id="ts8">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1354/25s" start="0s" duration="95/25s" role="titles">
+                <text>
+                  <text-style ref="ts9">The historic district contains several different precincts.</text-style>
+                </text>
+                <text-style-def id="ts9">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1460/25s" start="0s" duration="92/25s" role="titles">
+                <text>
+                  <text-style ref="ts10">Here, a small selection of streets offers a starting point,</text-style>
+                </text>
+                <text-style-def id="ts10">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1553/25s" start="0s" duration="83/25s" role="titles">
+                <text>
+                  <text-style ref="ts11">rather than a complete picture of the whole district.</text-style>
+                </text>
+                <text-style-def id="ts11">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1675/25s" start="0s" duration="127/25s" role="titles">
+                <text>
+                  <text-style ref="ts12">Remembering an earlier Chinatown does not mean that every part
+of its past should return.</text-style>
+                </text>
+                <text-style-def id="ts12">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1810/25s" start="0s" duration="92/25s" role="titles">
+                <text>
+                  <text-style ref="ts13">Older housing also faced overcrowding and poor sanitation.</text-style>
+                </text>
+                <text-style-def id="ts13">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1911/25s" start="0s" duration="57/25s" role="titles">
+                <text>
+                  <text-style ref="ts14">People needed better living conditions.</text-style>
+                </text>
+                <text-style-def id="ts14">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="1976/25s" start="0s" duration="97/25s" role="titles">
+                <text>
+                  <text-style ref="ts15">Conservation therefore involves choices about what to retain,</text-style>
+                </text>
+                <text-style-def id="ts15">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2073/25s" start="0s" duration="92/25s" role="titles">
+                <text>
+                  <text-style ref="ts16">what to improve, and whose needs should guide those changes.</text-style>
+                </text>
+                <text-style-def id="ts16">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2200/25s" start="0s" duration="148/25s" role="titles">
+                <text>
+                  <text-style ref="ts17">On the seventh of July, nineteen eighty-nine, Chinatown
+received conservation status.</text-style>
+                </text>
+                <text-style-def id="ts17">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2354/25s" start="0s" duration="92/25s" role="titles">
+                <text>
+                  <text-style ref="ts18">This helped protect its architectural
+and historical character.</text-style>
+                </text>
+                <text-style-def id="ts18">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2452/25s" start="0s" duration="77/25s" role="titles">
+                <text>
+                  <text-style ref="ts19">But keeping a building and sustaining its use are related</text-style>
+                </text>
+                <text-style-def id="ts19">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2529/25s" start="0s" duration="48/25s" role="titles">
+                <text>
+                  <text-style ref="ts20">questions with different answers.</text-style>
+                </text>
+                <text-style-def id="ts20">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2584/25s" start="0s" duration="89/25s" role="titles">
+                <text>
+                  <text-style ref="ts21">A restored facade alone cannot
+tell us whether people still have</text-style>
+                </text>
+                <text-style-def id="ts21">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2673/25s" start="0s" duration="70/25s" role="titles">
+                <text>
+                  <text-style ref="ts22">the conditions to live, work and gather around it.</text-style>
+                </text>
+                <text-style-def id="ts22">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2850/25s" start="0s" duration="107/25s" role="titles">
+                <text>
+                  <text-style ref="ts23">Festivals make Chinatown's cultural
+identity especially visible.</text-style>
+                </text>
+                <text-style-def id="ts23">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="2964/25s" start="0s" duration="92/25s" role="titles">
+                <text>
+                  <text-style ref="ts24">Lights and markets bring people together, while exhibitions</text-style>
+                </text>
+                <text-style-def id="ts24">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3056/25s" start="0s" duration="56/25s" role="titles">
+                <text>
+                  <text-style ref="ts25">introduce visitors to earlier lives.</text-style>
+                </text>
+                <text-style-def id="ts25">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3120/25s" start="0s" duration="64/25s" role="titles">
+                <text>
+                  <text-style ref="ts26">These are valuable ways of sharing history.</text-style>
+                </text>
+                <text-style-def id="ts26">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3191/25s" start="0s" duration="91/25s" role="titles">
+                <text>
+                  <text-style ref="ts27">The festival footage here records Chinese New Year in twenty</text-style>
+                </text>
+                <text-style-def id="ts27">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3282/25s" start="0s" duration="84/25s" role="titles">
+                <text>
+                  <text-style ref="ts28">twenty-five, rather than an ordinary day on the street.</text-style>
+                </text>
+                <text-style-def id="ts28">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3400/25s" start="0s" duration="81/25s" role="titles">
+                <text>
+                  <text-style ref="ts29">The rooms inside the Chinatown Heritage Centre are</text-style>
+                </text>
+                <text-style-def id="ts29">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3481/25s" start="0s" duration="100/25s" role="titles">
+                <text>
+                  <text-style ref="ts30">reconstructions, designed to help visitors imagine the past.</text-style>
+                </text>
+                <text-style-def id="ts30">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3598/25s" start="0s" duration="76/25s" role="titles">
+                <text>
+                  <text-style ref="ts31">They should not be mistaken for historical film.</text-style>
+                </text>
+                <text-style-def id="ts31">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3692/25s" start="0s" duration="115/25s" role="titles">
+                <text>
+                  <text-style ref="ts32">Alongside these displays, another
+question remains: how do people</text-style>
+                </text>
+                <text-style-def id="ts32">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3806/25s" start="0s" duration="97/25s" role="titles">
+                <text>
+                  <text-style ref="ts33">use the district today, outside the moments selected for</text-style>
+                </text>
+                <text-style-def id="ts33">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="3903/25s" start="0s" duration="48/25s" role="titles">
+                <text>
+                  <text-style ref="ts34">celebration or exhibition?</text-style>
+                </text>
+                <text-style-def id="ts34">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4000/25s" start="0s" duration="106/25s" role="titles">
+                <text>
+                  <text-style ref="ts35">These street images show shops,
+goods and people passing through.</text-style>
+                </text>
+                <text-style-def id="ts35">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4123/25s" start="0s" duration="80/25s" role="titles">
+                <text>
+                  <text-style ref="ts36">They cannot tell us who is a resident or a tourist, or</text-style>
+                </text>
+                <text-style-def id="ts36">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4203/25s" start="0s" duration="52/25s" role="titles">
+                <text>
+                  <text-style ref="ts37">how long a business has been here.</text-style>
+                </text>
+                <text-style-def id="ts37">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4273/25s" start="0s" duration="104/25s" role="titles">
+                <text>
+                  <text-style ref="ts38">They encourage a closer question:
+what makes this a place people</text-style>
+                </text>
+                <text-style-def id="ts38">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4376/25s" start="0s" duration="58/25s" role="titles">
+                <text>
+                  <text-style ref="ts39">can keep using, as well as visiting?</text-style>
+                </text>
+                <text-style-def id="ts39">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4600/25s" start="0s" duration="73/25s" role="titles">
+                <text>
+                  <text-style ref="ts40">Revitalisation can take different forms.</text-style>
+                </text>
+                <text-style-def id="ts40">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4685/25s" start="0s" duration="111/25s" role="titles">
+                <text>
+                  <text-style ref="ts41">In November twenty twenty-three,
+CNA reported plans for a single</text-style>
+                </text>
+                <text-style-def id="ts41">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4796/25s" start="0s" duration="117/25s" role="titles">
+                <text>
+                  <text-style ref="ts42">master tenant to manage a row of
+thirteen shophouses on Smith Street.</text-style>
+                </text>
+                <text-style-def id="ts42">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="4924/25s" start="0s" duration="93/25s" role="titles">
+                <text>
+                  <text-style ref="ts43">The aim was to attract people while
+retaining the area's heritage.</text-style>
+                </text>
+                <text-style-def id="ts43">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5028/25s" start="0s" duration="108/25s" role="titles">
+                <text>
+                  <text-style ref="ts44">Existing businesses also had concerns
+about what change might bring.</text-style>
+                </text>
+                <text-style-def id="ts44">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5181/25s" start="0s" duration="109/25s" role="titles">
+                <text>
+                  <text-style ref="ts45">He wishes to stay on under the new master tenant</text-style>
+                </text>
+                <text-style-def id="ts45">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5290/25s" start="0s" duration="110/25s" role="titles">
+                <text>
+                  <text-style ref="ts46">but hopes the rejuvenation project won't over-commercialise
+the area and drive up rents.</text-style>
+                </text>
+                <text-style-def id="ts46">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5450/25s" start="0s" duration="88/25s" role="titles">
+                <text>
+                  <text-style ref="ts47">A separate CNA report in May twenty twenty-five examined</text-style>
+                </text>
+                <text-style-def id="ts47">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5538/25s" start="0s" duration="110/25s" role="titles">
+                <text>
+                  <text-style ref="ts48">collaboration between businesses
+and the Chinatown Heritage Centre.</text-style>
+                </text>
+                <text-style-def id="ts48">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5662/25s" start="0s" duration="139/25s" role="titles">
+                <text>
+                  <text-style ref="ts49">Some interviewed businesses described improved sales,
+alongside continuing pressures.</text-style>
+                </text>
+                <text-style-def id="ts49">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5816/25s" start="0s" duration="43/25s" role="titles">
+                <text>
+                  <text-style ref="ts50">This was a different initiative.</text-style>
+                </text>
+                <text-style-def id="ts50">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5874/25s" start="0s" duration="105/25s" role="titles">
+                <text>
+                  <text-style ref="ts51">These reports cannot, by themselves,
+show that the earlier tender</text-style>
+                </text>
+                <text-style-def id="ts51">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="5979/25s" start="0s" duration="54/25s" role="titles">
+                <text>
+                  <text-style ref="ts52">caused those later improvements.</text-style>
+                </text>
+                <text-style-def id="ts52">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6082/25s" start="0s" duration="57/25s" role="titles">
+                <text>
+                  <text-style ref="ts53">First of all is definitely the rental.</text-style>
+                </text>
+                <text-style-def id="ts53">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6138/25s" start="0s" duration="126/25s" role="titles">
+                <text>
+                  <text-style ref="ts54">Yeah, in this location, definitely it's not going to be low.</text-style>
+                </text>
+                <text-style-def id="ts54">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6286/25s" start="0s" duration="161/25s" role="titles">
+                <text>
+                  <text-style ref="ts55">And subsequently, I think for us, manpower is a challenge.</text-style>
+                </text>
+                <text-style-def id="ts55">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6500/25s" start="0s" duration="65/25s" role="titles">
+                <text>
+                  <text-style ref="ts56">More customers can help a business survive.</text-style>
+                </text>
+                <text-style-def id="ts56">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6583/25s" start="0s" duration="115/25s" role="titles">
+                <text>
+                  <text-style ref="ts57">But sales, costs and the ability to
+stay must be considered together.</text-style>
+                </text>
+                <text-style-def id="ts57">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6715/25s" start="0s" duration="99/25s" role="titles">
+                <text>
+                  <text-style ref="ts58">Shopkeepers are not necessarily long-term residents, and</text-style>
+                </text>
+                <text-style-def id="ts58">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6815/25s" start="0s" duration="52/25s" role="titles">
+                <text>
+                  <text-style ref="ts59">residents do not all run shops.</text-style>
+                </text>
+                <text-style-def id="ts59">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="6884/25s" start="0s" duration="102/25s" role="titles">
+                <text>
+                  <text-style ref="ts60">A benefit for one group does not automatically reach everyone.</text-style>
+                </text>
+                <text-style-def id="ts60">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7003/25s" start="0s" duration="103/25s" role="titles">
+                <text>
+                  <text-style ref="ts61">The useful question is how tourism
+income supports continued use,</text-style>
+                </text>
+                <text-style-def id="ts61">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7107/25s" start="0s" duration="105/25s" role="titles">
+                <text>
+                  <text-style ref="ts62">and which needs remain outside the
+measures of commercial success.</text-style>
+                </text>
+                <text-style-def id="ts62">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7375/25s" start="0s" duration="98/25s" role="titles">
+                <text>
+                  <text-style ref="ts63">Pek Sin Choon brings these questions
+into a working tea business.</text-style>
+                </text>
+                <text-style-def id="ts63">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7490/25s" start="0s" duration="67/25s" role="titles">
+                <text>
+                  <text-style ref="ts64">My street footage records its shopfront.</text-style>
+                </text>
+                <text-style-def id="ts64">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7575/25s" start="0s" duration="98/25s" role="titles">
+                <text>
+                  <text-style ref="ts65">The interior scenes that follow come from a National Heritage</text-style>
+                </text>
+                <text-style-def id="ts65">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7672/25s" start="0s" duration="68/25s" role="titles">
+                <text>
+                  <text-style ref="ts66">Board film, published by Roots Singapore.</text-style>
+                </text>
+                <text-style-def id="ts66">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7758/25s" start="0s" duration="110/25s" role="titles">
+                <text>
+                  <text-style ref="ts67">They show a form of heritage
+carried through practice: selecting,</text-style>
+                </text>
+                <text-style-def id="ts67">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7867/25s" start="0s" duration="98/25s" role="titles">
+                <text>
+                  <text-style ref="ts68">blending and tasting tea, handling materials, and passing</text-style>
+                </text>
+                <text-style-def id="ts68">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="7965/25s" start="0s" duration="47/25s" role="titles">
+                <text>
+                  <text-style ref="ts69">experience to other people.</text-style>
+                </text>
+                <text-style-def id="ts69">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="8029/25s" start="0s" duration="124/25s" role="titles">
+                <text>
+                  <text-style ref="ts70">The building matters, and so does the knowledge that people
+continue to use inside it.</text-style>
+                </text>
+                <text-style-def id="ts70">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="8675/25s" start="0s" duration="74/25s" role="titles">
+                <text>
+                  <text-style ref="ts71">This is one way to understand living heritage.</text-style>
+                </text>
+                <text-style-def id="ts71">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="8766/25s" start="0s" duration="113/25s" role="titles">
+                <text>
+                  <text-style ref="ts72">Continuity depends on people
+continuing to do things, learn them,</text-style>
+                </text>
+                <text-style-def id="ts72">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="8879/25s" start="0s" duration="54/25s" role="titles">
+                <text>
+                  <text-style ref="ts73">and adapt them to present needs.</text-style>
+                </text>
+                <text-style-def id="ts73">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="8951/25s" start="0s" duration="108/25s" role="titles">
+                <text>
+                  <text-style ref="ts74">New workshops or partnerships do
+not automatically weaken tradition.</text-style>
+                </text>
+                <text-style-def id="ts74">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9076/25s" start="0s" duration="90/25s" role="titles">
+                <text>
+                  <text-style ref="ts75">Their significance depends on
+whether they support the knowledge,</text-style>
+                </text>
+                <text-style-def id="ts75">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9166/25s" start="0s" duration="80/25s" role="titles">
+                <text>
+                  <text-style ref="ts76">relationships and everyday work through which it survives.</text-style>
+                </text>
+                <text-style-def id="ts76">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9325/25s" start="0s" duration="104/25s" role="titles">
+                <text>
+                  <text-style ref="ts77">A twenty twenty-six CNA report
+also shows Pek Sin Choon sharing</text-style>
+                </text>
+                <text-style-def id="ts77">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9429/25s" start="0s" duration="73/25s" role="titles">
+                <text>
+                  <text-style ref="ts78">its stories through community programmes.</text-style>
+                </text>
+                <text-style-def id="ts78">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9519/25s" start="0s" duration="70/25s" role="titles">
+                <text>
+                  <text-style ref="ts79">These connections extend beyond the shopfront.</text-style>
+                </text>
+                <text-style-def id="ts79">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9606/25s" start="0s" duration="111/25s" role="titles">
+                <text>
+                  <text-style ref="ts80">They offer one example of how a business
+can remain part of present life.</text-style>
+                </text>
+                <text-style-def id="ts80">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9734/25s" start="0s" duration="91/25s" role="titles">
+                <text>
+                  <text-style ref="ts81">The case does not represent every business or resident, and</text-style>
+                </text>
+                <text-style-def id="ts81">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9824/25s" start="0s" duration="82/25s" role="titles">
+                <text>
+                  <text-style ref="ts82">continued operation still needs practical support.</text-style>
+                </text>
+                <text-style-def id="ts82">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="9982/25s" start="0s" duration="119/25s" role="titles">
+                <text>
+                  <text-style ref="ts83">Hopefully, Singapore will have more of the heritage businesses
+that are here to last.</text-style>
+                </text>
+                <text-style-def id="ts83">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="10375/25s" start="0s" duration="93/25s" role="titles">
+                <text>
+                  <text-style ref="ts84">People can agree that Chinatown deserves protection and still</text-style>
+                </text>
+                <text-style-def id="ts84">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="10468/25s" start="0s" duration="49/25s" role="titles">
+                <text>
+                  <text-style ref="ts85">disagree about how to protect it.</text-style>
+                </text>
+                <text-style-def id="ts85">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="10535/25s" start="0s" duration="104/25s" role="titles">
+                <text>
+                  <text-style ref="ts86">A resident, a shopkeeper, a visitor
+and a planning authority may</text-style>
+                </text>
+                <text-style-def id="ts86">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="10638/25s" start="0s" duration="73/25s" role="titles">
+                <text>
+                  <text-style ref="ts87">value the same street for different reasons.</text-style>
+                </text>
+                <text-style-def id="ts87">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="10729/25s" start="0s" duration="46/25s" role="titles">
+                <text>
+                  <text-style ref="ts88">These identities can overlap.</text-style>
+                </text>
+                <text-style-def id="ts88">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="10793/25s" start="0s" duration="135/25s" role="titles">
+                <text>
+                  <text-style ref="ts89">The community is not a single voice, and
+no one example can speak for everyone.</text-style>
+                </text>
+                <text-style-def id="ts89">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11025/25s" start="0s" duration="144/25s" role="titles">
+                <text>
+                  <text-style ref="ts90">Public agencies, businesses and cultural
+organisations can all provide resources.</text-style>
+                </text>
+                <text-style-def id="ts90">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11175/25s" start="0s" duration="95/25s" role="titles">
+                <text>
+                  <text-style ref="ts91">Their involvement also raises questions about priorities.</text-style>
+                </text>
+                <text-style-def id="ts91">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11277/25s" start="0s" duration="97/25s" role="titles">
+                <text>
+                  <text-style ref="ts92">Being invited to an activity, being asked for an opinion, and</text-style>
+                </text>
+                <text-style-def id="ts92">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11374/25s" start="0s" duration="112/25s" role="titles">
+                <text>
+                  <text-style ref="ts93">being able to change a decision are
+different forms of participation.</text-style>
+                </text>
+                <text-style-def id="ts93">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11492/25s" start="0s" duration="105/25s" role="titles">
+                <text>
+                  <text-style ref="ts94">To understand conservation, we
+need to examine whose preferences</text-style>
+                </text>
+                <text-style-def id="ts94">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11596/25s" start="0s" duration="45/25s" role="titles">
+                <text>
+                  <text-style ref="ts95">actually shape the choices.</text-style>
+                </text>
+                <text-style-def id="ts95">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11675/25s" start="0s" duration="105/25s" role="titles">
+                <text>
+                  <text-style ref="ts96">Moving out of an old shophouse need
+not end a connection with Chinatown.</text-style>
+                </text>
+                <text-style-def id="ts96">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11797/25s" start="0s" duration="124/25s" role="titles">
+                <text>
+                  <text-style ref="ts97">Returning to shop, work or take part
+in religious life can also sustain it.</text-style>
+                </text>
+                <text-style-def id="ts97">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="11939/25s" start="0s" duration="110/25s" role="titles">
+                <text>
+                  <text-style ref="ts98">These links deserve attention beyond
+the streets most visible to visitors.</text-style>
+                </text>
+                <text-style-def id="ts98">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="12066/25s" start="0s" duration="116/25s" role="titles">
+                <text>
+                  <text-style ref="ts99">The issue is how a conserved district
+remains connected to the people who use it.</text-style>
+                </text>
+                <text-style-def id="ts99">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="12375/25s" start="0s" duration="113/25s" role="titles">
+                <text>
+                  <text-style ref="ts100">The next time you walk through
+Chinatown, consider three questions.</text-style>
+                </text>
+                <text-style-def id="ts100">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="12505/25s" start="0s" duration="75/25s" role="titles">
+                <text>
+                  <text-style ref="ts101">First, who can continue to use this place?</text-style>
+                </text>
+                <text-style-def id="ts101">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="12598/25s" start="0s" duration="108/25s" role="titles">
+                <text>
+                  <text-style ref="ts102">Look beyond the appearance of the buildings
+to the activities they make possible.</text-style>
+                </text>
+                <text-style-def id="ts102">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="12724/25s" start="0s" duration="92/25s" role="titles">
+                <text>
+                  <text-style ref="ts103">A street can carry memory through repeated use, even as the</text-style>
+                </text>
+                <text-style-def id="ts103">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="12816/25s" start="0s" duration="54/25s" role="titles">
+                <text>
+                  <text-style ref="ts104">people and their routines change.</text-style>
+                </text>
+                <text-style-def id="ts104">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="12925/25s" start="0s" duration="100/25s" role="titles">
+                <text>
+                  <text-style ref="ts105">Second, do the benefits help sustain work and transmission?</text-style>
+                </text>
+                <text-style-def id="ts105">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13035/25s" start="0s" duration="100/25s" role="titles">
+                <text>
+                  <text-style ref="ts106">Visitor numbers show attraction, but they do not explain every</text-style>
+                </text>
+                <text-style-def id="ts106">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13135/25s" start="0s" duration="64/25s" role="titles">
+                <text>
+                  <text-style ref="ts107">cost, or whether skills can be passed on.</text-style>
+                </text>
+                <text-style-def id="ts107">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13210/25s" start="0s" duration="81/25s" role="titles">
+                <text>
+                  <text-style ref="ts108">Third, can different users influence change?</text-style>
+                </text>
+                <text-style-def id="ts108">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13301/25s" start="0s" duration="86/25s" role="titles">
+                <text>
+                  <text-style ref="ts109">Conservation decisions should be examined through their</text-style>
+                </text>
+                <text-style-def id="ts109">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13387/25s" start="0s" duration="76/25s" role="titles">
+                <text>
+                  <text-style ref="ts110">consequences, as well as their stated intentions.</text-style>
+                </text>
+                <text-style-def id="ts110">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13500/25s" start="0s" duration="96/25s" role="titles">
+                <text>
+                  <text-style ref="ts111">These materials lead me to
+understand buildings, livelihoods and</text-style>
+                </text>
+                <text-style-def id="ts111">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13596/25s" start="0s" duration="52/25s" role="titles">
+                <text>
+                  <text-style ref="ts112">everyday relationships together.</text-style>
+                </text>
+                <text-style-def id="ts112">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13656/25s" start="0s" duration="92/25s" role="titles">
+                <text>
+                  <text-style ref="ts113">Tourism and cultural display can create opportunities.</text-style>
+                </text>
+                <text-style-def id="ts113">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13757/25s" start="0s" duration="104/25s" role="titles">
+                <text>
+                  <text-style ref="ts114">Their value also depends on the
+conditions they leave for continued use.</text-style>
+                </text>
+                <text-style-def id="ts114">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13869/25s" start="0s" duration="101/25s" role="titles">
+                <text>
+                  <text-style ref="ts115">Conserving Chinatown should keep
+history visible while allowing</text-style>
+                </text>
+                <text-style-def id="ts115">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="EN subtitle" lane="2" offset="13970/25s" start="0s" duration="119/25s" role="titles">
+                <text>
+                  <text-style ref="ts116">people today to practise it, learn from
+it, and take part in shaping its future.</text-style>
+                </text>
+                <text-style-def id="ts116">
+                  <text-style font="Helvetica Neue" fontSize="54" fontColor="1 1 1 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 -41.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="50/25s" start="0s" duration="175/25s" role="titles">
+                <text>
+                  <text-style ref="ts117">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts117">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="225/25s" start="0s" duration="100/25s" role="titles">
+                <text>
+                  <text-style ref="ts118">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts118">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="325/25s" start="0s" duration="150/25s" role="titles">
+                <text>
+                  <text-style ref="ts119">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts119">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="475/25s" start="0s" duration="125/25s" role="titles">
+                <text>
+                  <text-style ref="ts120">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts120">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="600/25s" start="0s" duration="75/25s" role="titles">
+                <text>
+                  <text-style ref="ts121">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts121">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="675/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts122">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts122">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="1175/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts123">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts123">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="1625/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts124">CNA · 13 MAY 2025  |  HERITAGE CENTRE: RECONSTRUCTED EXHIBITS</text-style>
+                </text>
+                <text-style-def id="ts124">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="2150/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts125">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts125">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="2575/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts126">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts126">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="2900/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts127">CNA · 8 JAN 2025  |  CHINESE NEW YEAR COVERAGE</text-style>
+                </text>
+                <text-style-def id="ts127">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="3125/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts128">CNA · 8 JAN 2025  |  CHINESE NEW YEAR COVERAGE</text-style>
+                </text>
+                <text-style-def id="ts128">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="3325/25s" start="0s" duration="125/25s" role="titles">
+                <text>
+                  <text-style ref="ts129">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts129">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="3450/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts130">CNA · 13 MAY 2025  |  HERITAGE CENTRE: RECONSTRUCTED EXHIBITS</text-style>
+                </text>
+                <text-style-def id="ts130">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="3650/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts131">CNA · 13 MAY 2025  |  HERITAGE CENTRE: RECONSTRUCTED EXHIBITS</text-style>
+                </text>
+                <text-style-def id="ts131">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="4025/25s" start="0s" duration="175/25s" role="titles">
+                <text>
+                  <text-style ref="ts132">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts132">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="4200/25s" start="0s" duration="150/25s" role="titles">
+                <text>
+                  <text-style ref="ts133">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts133">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="4350/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts134">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts134">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="4650/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts135">CNA · 30 NOV 2023  |  SMITH STREET TENDER REPORT</text-style>
+                </text>
+                <text-style-def id="ts135">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="4850/25s" start="0s" duration="175/25s" role="titles">
+                <text>
+                  <text-style ref="ts136">CNA · 30 NOV 2023  |  SMITH STREET TENDER REPORT</text-style>
+                </text>
+                <text-style-def id="ts136">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="5025/25s" start="0s" duration="150/25s" role="titles">
+                <text>
+                  <text-style ref="ts137">CNA · 30 NOV 2023  |  SMITH STREET TENDER REPORT</text-style>
+                </text>
+                <text-style-def id="ts137">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="5175/25s" start="0s" duration="230/25s" role="titles">
+                <text>
+                  <text-style ref="ts138">CNA · 30 NOV 2023  |  SMITH STREET TENDER REPORT  ·  ORIGINAL SOUND</text-style>
+                </text>
+                <text-style-def id="ts138">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="5405/25s" start="0s" duration="120/25s" role="titles">
+                <text>
+                  <text-style ref="ts139">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts139">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="5525/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts140">CNA · 18 MAY 2025  |  HERITAGE CENTRE COLLABORATION</text-style>
+                </text>
+                <text-style-def id="ts140">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="5725/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts141">CNA · 18 MAY 2025  |  HERITAGE CENTRE COLLABORATION</text-style>
+                </text>
+                <text-style-def id="ts141">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="5925/25s" start="0s" duration="150/25s" role="titles">
+                <text>
+                  <text-style ref="ts142">CNA · 18 MAY 2025  |  HERITAGE CENTRE COLLABORATION</text-style>
+                </text>
+                <text-style-def id="ts142">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="6075/25s" start="0s" duration="380/25s" role="titles">
+                <text>
+                  <text-style ref="ts143">CNA · 18 MAY 2025  |  HERITAGE CENTRE COLLABORATION  ·  ORIGINAL SOUND</text-style>
+                </text>
+                <text-style-def id="ts143">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="6455/25s" start="0s" duration="170/25s" role="titles">
+                <text>
+                  <text-style ref="ts144">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts144">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="6875/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts145">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts145">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="7375/25s" start="0s" duration="75/25s" role="titles">
+                <text>
+                  <text-style ref="ts146">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts146">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="7450/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts147">NHB / ROOTS SG · 4 APR 2025  |  NARRATED VISUAL EXCERPT</text-style>
+                </text>
+                <text-style-def id="ts147">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="7650/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts148">NHB / ROOTS SG · 4 APR 2025  |  NARRATED VISUAL EXCERPT</text-style>
+                </text>
+                <text-style-def id="ts148">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="7850/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts149">NHB / ROOTS SG · 4 APR 2025  |  NARRATED VISUAL EXCERPT</text-style>
+                </text>
+                <text-style-def id="ts149">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="8050/25s" start="0s" duration="275/25s" role="titles">
+                <text>
+                  <text-style ref="ts150">NHB / ROOTS SG · 4 APR 2025  |  NARRATED VISUAL EXCERPT</text-style>
+                </text>
+                <text-style-def id="ts150">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="8325/25s" start="0s" duration="295/25s" role="titles">
+                <text>
+                  <text-style ref="ts151">NHB / ROOTS SG · 4 APR 2025  |  ORIGINAL PEK SIN CHOON INTERVIEW  ·  ORIGINAL SOUND</text-style>
+                </text>
+                <text-style-def id="ts151">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="8620/25s" start="0s" duration="55/25s" role="titles">
+                <text>
+                  <text-style ref="ts152">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts152">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="8675/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts153">NHB / ROOTS SG · 4 APR 2025  |  NARRATED VISUAL EXCERPT</text-style>
+                </text>
+                <text-style-def id="ts153">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="9125/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts154">NHB / ROOTS SG · 4 APR 2025  |  NARRATED VISUAL EXCERPT</text-style>
+                </text>
+                <text-style-def id="ts154">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="9325/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts155">CNA · 1 NOV 2026  |  PEK SIN CHOON / HERITAGE BUSINESSES</text-style>
+                </text>
+                <text-style-def id="ts155">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="9525/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts156">CNA · 1 NOV 2026  |  PEK SIN CHOON / HERITAGE BUSINESSES</text-style>
+                </text>
+                <text-style-def id="ts156">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="9750/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts157">CNA · 1 NOV 2026  |  PEK SIN CHOON / HERITAGE BUSINESSES</text-style>
+                </text>
+                <text-style-def id="ts157">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="9975/25s" start="0s" duration="135/25s" role="titles">
+                <text>
+                  <text-style ref="ts158">CNA · 1 NOV 2026  |  PEK SIN CHOON / HERITAGE BUSINESSES  ·  ORIGINAL SOUND</text-style>
+                </text>
+                <text-style-def id="ts158">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="10650/25s" start="0s" duration="175/25s" role="titles">
+                <text>
+                  <text-style ref="ts159">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts159">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="10825/25s" start="0s" duration="175/25s" role="titles">
+                <text>
+                  <text-style ref="ts160">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts160">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="11250/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts161">CNA · 1 NOV 2026  |  PEK SIN CHOON / HERITAGE BUSINESSES</text-style>
+                </text>
+                <text-style-def id="ts161">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="11450/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts162">CNA · 18 MAY 2025  |  HERITAGE CENTRE COLLABORATION</text-style>
+                </text>
+                <text-style-def id="ts162">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="11650/25s" start="0s" duration="250/25s" role="titles">
+                <text>
+                  <text-style ref="ts163">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts163">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="11900/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts164">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts164">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="12400/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts165">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts165">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="12875/25s" start="0s" duration="175/25s" role="titles">
+                <text>
+                  <text-style ref="ts166">NHB / ROOTS SG · 4 APR 2025  |  NARRATED VISUAL EXCERPT</text-style>
+                </text>
+                <text-style-def id="ts166">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="13300/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts167">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts167">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="13750/25s" start="0s" duration="200/25s" role="titles">
+                <text>
+                  <text-style ref="ts168">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts168">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+              <title ref="text" name="Source / context" lane="3" offset="13950/25s" start="0s" duration="225/25s" role="titles">
+                <text>
+                  <text-style ref="ts169">FIELD FOOTAGE · WANG XIWEN  |  CHINATOWN</text-style>
+                </text>
+                <text-style-def id="ts169">
+                  <text-style font="Helvetica Neue" fontSize="31" fontColor="0.75 0.85 0.81 1" alignment="center" bold="0" shadowColor="0 0 0 0.8" shadowOffset="2 2" shadowBlurRadius="3" />
+                </text-style-def>
+                <adjust-transform position="0 46.5" scale="1 1" />
+              </title>
+            </asset-clip>
+            <asset-clip name="007.00_S11" ref="a11" offset="175/25s" start="10/25s" duration="100/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="011.00_S01" ref="a1" offset="275/25s" start="75/25s" duration="150/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="017.00_S07" ref="a7" offset="425/25s" start="25/25s" duration="125/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="022.00_S02" ref="a2" offset="550/25s" start="5/25s" duration="75/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="025.00_S10" ref="a10" offset="625/25s" start="100/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="033.00_title" ref="a21" offset="825/25s" start="0/25s" duration="175/25s" />
+            <asset-clip name="040.00_ch2" ref="a22" offset="1000/25s" start="0/25s" duration="125/25s" />
+            <asset-clip name="045.00_S09" ref="a9" offset="1125/25s" start="25/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="053.00_shophouse" ref="a28" offset="1325/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="063.00_N08" ref="a17" offset="1575/25s" start="2800/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="072.00_choices" ref="a29" offset="1800/25s" start="0/25s" duration="300/25s" />
+            <asset-clip name="084.00_S10" ref="a10" offset="2100/25s" start="150/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="092.00_date" ref="a30" offset="2300/25s" start="0/25s" duration="225/25s" />
+            <asset-clip name="101.00_S08" ref="a8" offset="2525/25s" start="25/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="110.00_ch3" ref="a23" offset="2750/25s" start="0/25s" duration="100/25s" />
+            <asset-clip name="114.00_N09" ref="a18" offset="2850/25s" start="1300/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="123.00_N09" ref="a18" offset="3075/25s" start="2225/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="131.00_S12" ref="a12" offset="3275/25s" start="25/25s" duration="125/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="136.00_N08" ref="a17" offset="3400/25s" start="2800/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="144.00_N08" ref="a17" offset="3600/25s" start="3000/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="152.00_visible" ref="a31" offset="3800/25s" start="0/25s" duration="175/25s" />
+            <asset-clip name="159.00_S01" ref="a1" offset="3975/25s" start="75/25s" duration="175/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="166.00_S07" ref="a7" offset="4150/25s" start="0/25s" duration="150/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="172.00_S03" ref="a3" offset="4300/25s" start="350/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="180.00_ch4" ref="a24" offset="4500/25s" start="0/25s" duration="100/25s" />
+            <asset-clip name="184.00_N01" ref="a14" offset="4600/25s" start="700/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="192.00_N01" ref="a14" offset="4800/25s" start="1850/25s" duration="175/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="199.00_N01" ref="a14" offset="4975/25s" start="2425/25s" duration="150/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="205.00_N01" ref="a14" offset="5125/25s" start="2690/25s" duration="230/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="0dB" />
+            </asset-clip>
+            <asset-clip name="214.20_S12" ref="a12" offset="5355/25s" start="50/25s" duration="120/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="219.00_N03" ref="a15" offset="5475/25s" start="650/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="227.00_N03" ref="a15" offset="5675/25s" start="2000/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="235.00_N03" ref="a15" offset="5875/25s" start="3075/25s" duration="150/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="241.00_N03" ref="a15" offset="6025/25s" start="1226/25s" duration="380/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="3dB" />
+            </asset-clip>
+            <asset-clip name="256.20_S13" ref="a13" offset="6405/25s" start="75/25s" duration="170/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="263.00_costs" ref="a32" offset="6575/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="273.00_S09" ref="a9" offset="6825/25s" start="150/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="282.00_limits" ref="a33" offset="7050/25s" start="0/25s" duration="200/25s" />
+            <asset-clip name="290.00_ch5" ref="a25" offset="7250/25s" start="0/25s" duration="75/25s" />
+            <asset-clip name="293.00_S02" ref="a2" offset="7325/25s" start="6/25s" duration="75/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="296.00_N06V" ref="a20" offset="7400/25s" start="938/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="304.00_N06V" ref="a20" offset="7600/25s" start="2825/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="312.00_N06V" ref="a20" offset="7800/25s" start="4425/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="320.00_N06V" ref="a20" offset="8000/25s" start="5850/25s" duration="275/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="331.00_N06" ref="a16" offset="8275/25s" start="1105/25s" duration="295/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="2dB" />
+            </asset-clip>
+            <asset-clip name="342.80_S12" ref="a12" offset="8570/25s" start="50/25s" duration="55/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="345.00_N06V" ref="a20" offset="8625/25s" start="3550/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="354.00_practice" ref="a34" offset="8850/25s" start="0/25s" duration="225/25s" />
+            <asset-clip name="363.00_N06V" ref="a20" offset="9075/25s" start="7400/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="371.00_N10" ref="a19" offset="9275/25s" start="625/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="379.00_N10" ref="a19" offset="9475/25s" start="1200/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="388.00_N10" ref="a19" offset="9700/25s" start="1625/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="397.00_N10" ref="a19" offset="9925/25s" start="1868/25s" duration="135/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="0dB" />
+            </asset-clip>
+            <asset-clip name="402.40_quote" ref="a35" offset="10060/25s" start="0/25s" duration="190/25s" />
+            <asset-clip name="410.00_ch6" ref="a26" offset="10250/25s" start="0/25s" duration="100/25s" />
+            <asset-clip name="414.00_voices" ref="a36" offset="10350/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="424.00_S04" ref="a4" offset="10600/25s" start="25/25s" duration="175/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="431.00_S01" ref="a1" offset="10775/25s" start="75/25s" duration="175/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="438.00_influence" ref="a37" offset="10950/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="448.00_N10" ref="a19" offset="11200/25s" start="1625/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="456.00_N03" ref="a15" offset="11400/25s" start="4000/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="464.00_S08" ref="a8" offset="11600/25s" start="0/25s" duration="250/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="474.00_S10" ref="a10" offset="11850/25s" start="200/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="482.00_return" ref="a38" offset="12050/25s" start="0/25s" duration="200/25s" />
+            <asset-clip name="490.00_ch7" ref="a27" offset="12250/25s" start="0/25s" duration="100/25s" />
+            <asset-clip name="494.00_S03" ref="a3" offset="12350/25s" start="75/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="503.00_q1" ref="a39" offset="12575/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="513.00_N06V" ref="a20" offset="12825/25s" start="5800/25s" duration="175/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-96dB" />
+            </asset-clip>
+            <asset-clip name="520.00_q2" ref="a40" offset="13000/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="530.00_S09" ref="a9" offset="13250/25s" start="100/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="538.00_q3" ref="a41" offset="13450/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="548.00_S13" ref="a13" offset="13700/25s" start="175/25s" duration="200/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="556.00_S03" ref="a3" offset="13900/25s" start="350/25s" duration="225/25s">
+              <adjust-transform position="0 5" scale="0.77 0.77" />
+              <adjust-volume amount="-28dB" />
+            </asset-clip>
+            <asset-clip name="565.00_credits1" ref="a42" offset="14125/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="575.00_credits2" ref="a43" offset="14375/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="585.00_credits3" ref="a44" offset="14625/25s" start="0/25s" duration="250/25s" />
+            <asset-clip name="595.00_credits4" ref="a45" offset="14875/25s" start="0/25s" duration="125/25s" />
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

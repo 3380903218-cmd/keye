@@ -1,0 +1,22 @@
+{
+  "words": [
+    147,
+    149
+  ],
+  "total": 296,
+  "docx_pdf_body_parity": true,
+  "original_scenarios": 4,
+  "negative_and_possible_positive_effects": true,
+  "course_sources_only": [
+    2,
+    5
+  ],
+  "checkboxes_unchecked": 9,
+  "pdf_pages": 2,
+  "original_draft_unchanged": true,
+  "files": {
+    "G6_WANG XIWEN_Writing Assignment 1.docx": "d59c637f0c28f33fb2389501eeea5cf60a5cdc5847b73a4d5259472067fc239a",
+    "修改说明.md": "6d62660d23db58d89dab0bd5283313d6131f3e8c776b5360a40bf012a7d023ee",
+    "G6_WANG XIWEN_Writing Assignment 1.pdf": "06892cc01f58749adace669dd488c3f2c1fe7f0e02b48caddde80a6ae0ee5260"
+  }
+}

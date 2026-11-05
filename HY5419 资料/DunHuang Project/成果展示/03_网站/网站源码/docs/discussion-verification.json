@@ -1,0 +1,67 @@
+{
+  "release": "2.9.1",
+  "date": "2026-11-03",
+  "prepublication_result": "pass",
+  "cloud_api": {
+    "result": "pass",
+    "endpoint": "https://qtuxpxccweapkqeoaata.supabase.co/functions/v1/dunhuang-discussion",
+    "date": "2026-11-03",
+    "scope": "Real deployed Supabase API and administrator verification; temporary setup records only",
+    "checks": [
+      "Public reading and GitHub Pages CORS work without a visitor account.",
+      "Real posts and replies are saved together; retrying an acknowledged submission is idempotent.",
+      "Posting limits, unrelated origins and empty-message validation are enforced on the deployed service.",
+      "Owner moderation removes the selected test thread and its replies from public reading, and blocks new replies to it."
+    ],
+    "test_records_removed": true
+  },
+  "cloud_browser": {
+    "result": "pass",
+    "date": "2026-11-03",
+    "scope": "Actual Supabase storage with two independent, unsigned-in browser contexts; local release HTML served at its intended GitHub Pages origin.",
+    "checks": [
+      "An unsigned-in visitor saves a message; a separate unsigned-in visitor sees and replies to it through real browser CORS.",
+      "A full page reload reads the saved discussion from Supabase; language switching retains the draft and user HTML remains literal text.",
+      "Desktop/mobile layout and the existing map and 132-node/157-edge Gephi network still work."
+    ],
+    "test_records_removed": true
+  },
+  "research_outputs": {
+    "nodes": 132,
+    "edges": 157,
+    "activity_records": 48,
+    "qgis_and_gephi_exports": "unchanged"
+  },
+  "advisor": "No security warning or error; expected informational RLS default-denial notices for private server-only tables.",
+  "mainland_discussion_access_verified": false,
+  "limits": [
+    "No mainland China network test for the new Supabase service.",
+    "The Free plan may pause after inactivity; check before a presentation."
+  ],
+  "pages_publication": "Tracked by the GitHub Pages deployment for this release commit.",
+  "cloud_verification_release": "2.9.0; backend and storage unchanged in 2.9.1",
+  "language": {
+    "version": "2.9.1",
+    "result": "pass",
+    "date": "2026-11-03",
+    "scope": "Frontend language and writing-direction check with isolated fixture data; no public comments created.",
+    "checks": [
+      {
+        "width": 1440,
+        "any_language_invitation": "EN and ZH",
+        "original_messages_preserved": true,
+        "rtl_rendering_and_input": true,
+        "language_switch_keeps_draft": true,
+        "horizontal_overflow": false
+      },
+      {
+        "width": 390,
+        "any_language_invitation": "EN and ZH",
+        "original_messages_preserved": true,
+        "rtl_rendering_and_input": true,
+        "language_switch_keeps_draft": true,
+        "horizontal_overflow": false
+      }
+    ]
+  }
+}

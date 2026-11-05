@@ -1,0 +1,1494 @@
+PAGE 1
+Review: Interventions addressing loneliness amongst
+university students: a systematic review
+Olivia Betty Ellard, Christina Dennison & Helena Tuomainen
+Warwick Medical School, University of Warwick, Coventry, UK
+Background: Loneliness is detrimental to mental health, with university students at higher risk of feeling
+lonely than other population groups. However, little research has explored interventions to reduce loneliness
+among students. This review identiﬁes the characteristics and effectiveness of interventions targeting univer-
+sity/college students. Methods: PsycINFO, Medline, ASSIA and Web of Science were searched from inception
+using keywords linked to ‘loneliness’, ‘intervention’ and ‘students’. Relevant peer and nonpeer-reviewed
+English-language articles on studies implementing an intervention with loneliness as an outcome and investi-
+gating undergraduate or postgraduate students at a higher education institution were included for quality
+analysis and narrative synthesis. Risk of bias was assessed at both study level and at outcome level. Results:
+Twenty-eight articles were included, comprising 25 quantitative and three qualitative studies, covering 37
+interventions, most implemented in the United States. Interventions were based on psychoeducation, social
+support groups, increasing social interaction or reﬂective exercises. The age of the participants ( n = 2339) ran-
+ged from 17.62 to 25 (mean age 20.63) years. Evidence from the RCTs suggests that most interventions inﬂu-
+enced loneliness outcomes, but the magnitude of the beneﬁt is unclear. Across quantitative studies, 80% (16/
+20) of interventions based on either social support groups, increasing social interaction or reﬂective exercises,
+and 50% (7/14) of interventions based on psychoeducation were deemed effective in reducing loneliness. Most
+interventions measured quantitatively were delivered in a group setting, of which two thirds were considered
+effective in reducing loneliness scores, regardless of intervention. Conclusions: Universities have a choice of
+interventions to help reduce loneliness among students either on campus or virtually. Ones promoting social
+connectedness appear to be more successful. More high-quality studies in a larger number of countries are
+needed, taking vulnerable student groups into consideration.
+Key Practitioner Message
+ Young people often feel lonely on a regular basis. This is a risk factor for the development of mental health
+conditions. Mental health services provided by universities and other settings do not meet the demand for
+support, a factor in declining mental health of young people.
+ Interventions that bring students together around an activity, in a support group or to socialise, either in
+person or virtually, can reduce feelings of loneliness in young people. Meditation or mindfulness may bene-
+ﬁt those who prefer not to join groups.
+ Universities have the power to tackle loneliness, a major health concern in this population. Practitioners
+need to be involved in designing, facilitating and maintaining safe spaces and opportunities for students
+and young people to interact and bond to prevent this signiﬁcant risk factor evolving into mental health
+diagnoses in the future.
+Keywords: Students; university; college; mental health; loneliness; social connectedness; interventions; prevention
+Background
+University students have been found to suffer with
+depression, stress and anxiety (Chen et al., 2013; Dalky
+& Gharaibeh, 2019; Stallman, 2010; Thorley, 2017).
+This is being addressed globally by improvements to uni-
+versity mental health services (Warwick, Maxwell, Sta-
+tham, Aggleton, & Simon, 2008). Despite this, college
+students in the United States (US) reporting past-year
+treatment (therapy/counselling and/or psychotropic
+medication) for mental health concerns increased from
+19% to 34% between 2007 and 2017 (Lipson, Lattie, &
+Eisenberg, 2018). In the United Kingdom (UK), the num-
+ber of ﬁrst-year students disclosing a mental health
+condition has increased almost ﬁvefold (from 0.4% in
+2006 to 2% in 2016), and there has been a signi ﬁcant
+rise in the demand for student support services; in some
+universities, up to 25% of students are using, or waiting
+to use, counselling services (Thorley, 2017). Meeting
+this increasing demand is a challenge (Holm-Hadulla
+& Koutsoukou-Argyraki, 2015; Hughes, Panjwani,
+Tulcidas, & Byrom, 2018; Thorley, 2017; Williams
+et al., 2015). New approaches are needed to improve stu-
+dent wellbeing. A preventative strategy is to focus on stu-
+dent loneliness.
+Loneliness is a subjective, negative experience associ-
+ated with the sense of having fewer social contacts than
+desired and/or a lack of anticipated level of intimacy in
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use
+and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modi ﬁcations or
+adaptations are made.
+Child and Adolescent Mental Health 28, No. 4, 2023, pp. 512–523 doi:10.1111/camh.12614
+
+
+PAGE 2
+relationships (Yanguas, Pinazo-Henandis, & Tarazona-
+Santabalbina, 2018). Loneliness is associated with
+greater anxiety, stress and depression in students
+(Diehl, Jansen, Ishchanova, & Hilger-Kolb, 2018; Mann
+et al., 2022; Richardson, Elliott, & Roberts, 2017) and
+has been associated with maladaptive coping styles,
+sleep problems, lower life satisfaction and suicidal idea-
+tion (Kurina et al., 2011; Zhang, Fan, Huang, & Rodri-
+guez, 2018). Loneliness has also been associated with
+impaired cognitive health (Lim, Eres, & Vasan, 2020).
+Loneliness impacts brain functionality, with chronic
+loneliness changing the nature and likelihood of social
+interactions (Lim et al., 2020).
+In 2014–15, 32.4% of students in Germany felt moder-
+ately lonely and 3.2% severely lonely (Diehl et al., 2018).
+In 2018, young people aged 18 –22 were identi ﬁed as the
+loneliest generation of Americans (Demarinis, 2020).
+The same year, 9.8% of young people in the UK aged 16 –
+24 years ‘often’ felt lonely (Snape et al., 2018). A follow-
+on survey found that over 15% of students reported feel-
+ing lonely on a day-to-day basis, with ﬁgures worse for
+Black, Asian and Minority Ethnic (BAME), disabled and
+international students, and those living at home
+(WONKHE, 2019). In 2020, students across the globe
+were affected by the global COVID-19 pandemic. This
+caused the closure of campuses, the restriction of face-
+to-face teaching and the cancelling of sports and society
+events. Students were con ﬁned to their accommodation
+or at home with parents. Opportunities to develop
+friendships with other students who share interests and
+hobbies were reduced (Buote et al., 2007). During the
+ﬁrst lockdown, young people and students in the UK and
+U.S. experienced loneliness and suffered from psycho-
+logical distress more intensely than the general popula-
+tion (McGinty, Presskreischer, Han, & Barry, 2020).
+Many reported experiencing mental health symptoms
+(Tang et al., 2022). In the UK, 18 –24 year olds were
+nearly three times more likely than 65 –74 year olds to
+have experienced loneliness ‘more often than normal ’
+(Royal Society for Public Health, 2020).
+The evidence suggests a greater need for interventions
+to reduce loneliness in students, both in response to
+restrictions related to the COVID-19 pandemic but also
+outside of such restrictions. While charities and health
+services offer help for those feeling lonely at university,
+targeted interventions have been developed to attempt to
+relieve loneliness. Discussion groups allow students to
+talk with others about the stresses of university, rela-
+tionships and self-identity (Gold, Bentzley, Franciscus,
+Forte, & De Golia, 2019). Social skills training enable
+students to overcome loneliness by learning new skills
+(Orchard, 1986). Online chat rooms and forums allow
+students to connect with other students from home
+(Barber, 2011). Although universities currently offer var-
+ious relevant interventions that address student loneli-
+ness, these have not been evaluated thoroughly or tested
+among larger population groups. There is a need for a
+solid research base (Hunt & Eisenberg, 2010).
+Masi, Chen, Hawkley, and Cacioppo ( 2011) grouped
+loneliness interventions aimed at adults into four cate-
+gories: improving social skills, enhancing social support,
+increasing opportunities for social contact and address-
+ing maladaptive social cognition. Maladaptive social cog-
+nition can result in, for example, negative evaluations of
+other people and lack of interpersonal trust. Addressing
+maladaptive social cognition was found to be the most
+effective; however, students were not identi ﬁed as a sub-
+group. Bessaha et al. ( 2020) discovered that interven-
+tions involving technology and support groups
+signiﬁcantly reduced loneliness in various adult groups.
+Again, students were not identiﬁed as a subgroup.
+Whilst reviews by Eccles and Qualter ( 2021) and
+Osborn, Weatherburn, and French ( 2021) targeted
+young people, they focused on a wide age range, 3 –25
+and 10 –25 years, respectively, and a variety of settings.
+Hickin et al. ( 2021) reviewed participants between the
+ages of 8 –81 years, and Williams et al. ( 2021) included
+studies with no speci ﬁed age range. The ﬁrst three of
+these latest reviews included a small number of studies
+on undergraduate students (Bruehlman-Senecal
+et al., 2020; Loucks et al., 2021; Mattanah et al., 2010;
+Zhang, Fan, et al., 2018), but contained no special focus
+or recommendations regarding the university setting.
+Williams et al. ( 2021) recognised students as a speci ﬁc
+population group but, due to concentrating on interven-
+tions compatible with COVID-19 shielding and social
+distancing measures, identi ﬁed only ﬁve studies focus-
+ing on students, all interventions involving a psychologi-
+cal or cognitive component (Conoley & Garber, 1985;
+Dowd et al., 2014; McWhirter & Horan, 1996;
+Seepersad, 2005; Zhang, Fan, et al., 2018).
+University students are in a transitional phase; they
+often live away from home for the ﬁrst time in their lives,
+and have various academic, ﬁnancial and social pres-
+sures and concerns, which sets them apart from many
+adults (Horgan, McCarthy, & Sweeney, 2013) and other
+young people (Lim et al., 2020). Whilst students may
+beneﬁt from interventions identi ﬁed in the earlier
+reviews, it is unclear, which are most suitable and effec-
+tive for students in a university setting. Most previous
+reviews have contained interventions explicitly targeting
+loneliness even though there may be broader, ‘indirect’
+approaches to well-being that do not speci ﬁcally aim to
+address loneliness but have important impacts on loneli-
+ness (Mann et al., 2017). Due to the scarcity of studies
+targeting students, in this narrative systematic review
+our aim was to identify, describe and analyse the effec-
+tiveness of intervention studies addressing loneliness in
+university students (either directly or indirectly). The
+research questions were: (a) What are the characteristics
+of interventions that address levels of loneliness among
+students in higher education (university)? (b) What is
+the evidence for the effectiveness of interventions that
+alleviate loneliness among university students?
+Methods
+Protocol and registration
+The protocol for this review was registered with the PROSPERO
+database (CRD42020180867) (Available from: https://www.
+crd.york.ac.uk/prospero/display_record.php?ID=CRD420201
+80867). This review was conducted according to the Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses
+(PRISMA) statement; Moher, Liberati, Tetzlaff, Altman, &
+Group, 2009).
+Search strategy
+Searches were conducted on four electronic databases from
+inception: PsycINFO, Medline, Web of Science and Applied
+Social Science Index and Abstracts (ASSIA) on 22nd April 2020.
+Searches were updated on 22 March 2022. The search period
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+doi:10.1111/camh.12614 Interventions addressing loneliness among students 513
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 3
+was not limited as we were not aware of an earlier review focus-
+ing on students. A specialist librarian was consulted regarding
+databases and the search strategy, which was based on prior
+research and reviews and combined keywords and MESH terms
+for the concepts of loneliness, students and interventions (see
+Table S1).
+Reference lists of full text articles were screened for additional
+relevant studies. Duplicates and nonEnglish titles were
+removed using a reference management software to provide an
+initial list of articles. Titles and abstracts were screened inde-
+pendently by two reviewers (OE and CD). Discrepancies were
+discussed between reviewers, and a third opinion (HT) was
+sought in the event a discrepancy could not be resolved.
+Eligibility criteria and study selection
+Journal articles and doctoral dissertations were included only if
+they met the inclusion criteria speci ﬁed in Table S2. Studies
+implementing an intervention with loneliness as an outcome
+and investigating undergraduate or postgraduate students at a
+higher education institute were included. ‘Higher education ’
+refers to stages 6, 7 and 8 of the International Standard Classi ﬁ-
+cation of Education structure, and includes bachelor ’s or equiv-
+alent, master or equivalent and doctorate or equivalent. This
+excludes all primary and secondary education. We did not limit
+our results by age of participant as to capture an accurate rep-
+resentation of the student population.
+Following the review of titles and abstracts, articles were
+assessed by reviewing the full text. The inter-rater reliability
+(IRR) at title an abstract screen was 78.14% (143/183). All 183
+articles were included in the full text screen to ensure a thor-
+ough process. At full text screen, IRR was 94.5% (173/183). Ten
+articles with discrepancies were discussed among the research
+team.
+Quality assessment
+Risk of bias was assessed at both study level and at out-
+come level. The revised Cochrane risk of bias tool for ran-
+domised trials (ROB2; Sterne et al., 2019) was used to
+assess randomised experimental studies. The Risk of Bias In
+Nonrandomised Studies of Interventions (ROBINS-I; Sterne
+et al., 2016) was used to assess nonrandomised experimen-
+tal studies. Studies deemed to have ‘critical’ risk of bias were
+excluded from data synthesis. Two reviewers (CD and OE)
+assessed all studies independently then collaborated to iden-
+tify discrepancies. If disagreements remained, a third opinion
+was sought (HT).
+Data extraction and synthesis
+Data extracted from each study included: author, journal, year
+of publication, location, study type, subgroup, intervention,
+control, measurement tool, number of participants consented
+(% male), mean age of participants, % drop-outs preinterven-
+tion, group sizes at pretest (% male), groups sizes at post-test (%
+male), group sizes at follow up (% male), % drop out from pretest
+to follow up, mean age (range) at follow up, measurement
+points, baseline and postintervention (follow-up) outcomes val-
+ues, effect sizes (calculated difference in mean scores), p-values
+and evidence of a difference. A pilot extraction was performed on
+a small sample.
+Attempts were made to contact ﬁve authors in the event of
+missing data, e.g., on planned analysis, but these were unsuc-
+cessful. All data was extracted by two reviewers (OE and CD)
+independently, then results were compared for discrepancies. A
+third opinion (HT) was sought in the event of a disagreement.
+Given the use of two reviewers, blinding was not performed. An
+Excel spreadsheet was used to extract data; no other data man-
+agement tools were used.
+A meta-analysis was not possible due to the heterogeneity of
+studies. Instead, a narrative synthesis of ﬁndings was per-
+formed to investigate the heterogeneity across the primary stud-
+ies. Our reporting takes into consideration the Synthesis
+Without Meta-analysis (SwiM) reporting guidelines (Campbell
+et al., 2020).
+Results
+Study selection
+Following removal of nonEnglish language and duplicate
+articles, 6917 articles remained for screening by title
+and abstract (See Flow diagram in Figure S1). 182 arti-
+cles underwent full-text screening during which 155
+were excluded, leaving 27 articles. Four additional arti-
+cles were included after searching reference lists of full-
+text articles. Twenty-eight studies measuring loneliness
+quantitatively and three studies assessing loneliness
+qualitatively were included in the quality assessment.
+Findings from studies using quantitative
+measurement of loneliness
+Study quality. Mattanah, Brooks, Brand, Quimby, and
+Ayers ( 2012) was found to be a secondary analysis of a
+study already included in our review (Mattanah
+et al., 2010), so was not assessed. Quality assessment of
+studies using quantitative data collection is presented in
+Figure S2 (randomised control trials, n = 15) and Fig-
+ure S3 (nonrandomised designs, n = 12). The studies by
+Mohamed and Ghany ( 2012), Brodkin, Shrier, Alger,
+Layman, and Buxton (1983) and Yildiz and Duyan (2022)
+were found to have an overall critical risk of bias arising
+mostly from missing data, or from poor quality reporting
+and small sample sizes; these articles were removed
+from further review.
+Of the remaining 25 studies, seven were judged as
+having overall high or serious risk of bias and 10 were
+judged as having overall moderate risk or some con-
+cerns. Of the studies judged to have a high or serious
+risk of bias, most were due to a lack of blinding of partici-
+pants. As all measurements of loneliness were self-
+reported, knowledge of the intervention may have in ﬂu-
+enced participants ’ responses. Therefore, ﬁndings of
+studies judged as having high or serious risk of bias were
+interpreted cautiously. All studies other than Mascaro
+et al. ( 2018), in which all analyses were conducted using
+blinding, were judged as either moderate risk or some
+concerns for risk of reporting bias. No further articles
+were removed due to concerns of risk of bias.
+Study characteristics. Of 25 studies using quantitative
+measurements of loneliness, 16 were randomised con-
+trol trials (RCT), three were controlled pretest, post-test
+designs (CPP) and six were pretest, post-test (PP) designs
+without a control group. Seventeen of the 26 articles
+were published within the past 10 years, the remainder
+between 1985 and 2011.
+The characteristics of each study are presented in
+Table S3. The majority of the studies were conducted in
+the U.S. ( n = 14), three in China (Lu et al., 2020; Xiao
+et al., 2021; Zhang, Fan, et al., 2018), two in Canada
+(Dowd et al., 2014; Orchard, 1986). One additional study
+was conducted in each of the following countries: Iran
+(Youseﬁpour & Samarin, 2021), Ireland (Worobetz
+et al., 2020), Japan (Kotera & Fido, 2022), UK (Gee,
+Hawes, & Cox, 2019), Turkey (Kocak, 2008). All partici-
+pants were university students; however, some articles
+speciﬁed subgroups, including students with autistic
+spectrum disorder (Hillier et al., 2018), graduate stu-
+dents (Duncan & Weissenburger, 2003), medical stu-
+dents (Gold et al., 2019; Mascaro et al., 2018; Worobetz
+et al., 2020), elementary education students
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+514 Olivia Betty Ellard, Christina Dennison & Helena Tuomainen Child Adolesc Ment Health 2023; 28(4): 512–23
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 4
+(Kocak, 2008), psychology students (Besse, 2016;
+Smith, Ford, Erickson, & Guzman, 2020), ﬁrst year stu-
+dents (Bruehlman-Senecal et al., 2020; Mattanah
+et al., 2010; Worobetz et al., 2020), students displaying
+elevated levels of loneliness at baseline (Bruehlman-
+Senecal et al., 2020; Dowd et al., 2014; Gee et al., 2019;
+McWhirter & Horan, 1996; Orchard, 1986;
+Seepersad, 2005; Youseﬁpour & Samarin, 2021; Zhang,
+Fan, et al., 2018), inactive students (Dowd et al., 2014),
+students with problematic smartphone use (Lu
+et al., 2020; Xiao et al., 2021), or students self-
+identifying as stressed, anxious or depressed, or with a
+pre-existing mental health condition (Gee et al., 2019).
+The mean ages of participants ranged from 17.62
+(Mattanah et al., 2010, 2012) to 25 years (Worobetz
+et al., 2020); the overall mean was 20.63 ( n = 2339).
+Seven studies reported a mean age of either control or
+test group <20 (Besse, 2016; Bruehlman-Senecal
+et al., 2020; Lu et al., 2020; Mattanah et al., 2010;
+Seepersad, 2005; Xiao et al., 2021; Zhang, Fan,
+et al., 2018).
+Outcome measures. Tools used to measure reductions
+in feelings of loneliness were relatively consistent across
+the research, with most ( n = 12) using the Revised UCLA
+Loneliness Scale or UCLA3. The UCLA3 consists of 20
+items assessing subjective feelings of loneliness and feel-
+ings of social isolation, using questions such as “How
+often do you feel close to people? ”. Participants rate each
+item on a scale of 1 (Never) to 4 (Often) (Russell, 1996).
+Shorter/longer versions of UCLA were used in some
+studies (Barber, 2011; Bruehlman-Senecal et al., 2020;
+Dowd et al., 2014; Kocak, 2008; Lu et al., 2020; Woro-
+betz et al., 2020; Xiao et al., 2021). Other tools used to
+measure feelings of loneliness included one item of the
+PERMA pro ﬁler (Smith et al., 2020), a three-item loneli-
+ness Likert scale (Besse, 2016), The University of the
+Philippines Loneliness Assessment Scale (UPLAS) (Ste-
+wart, Dispenza, Parker, Chang, & Cunnien, 2014), the
+Chinese College Student Loneliness Scale (CCSLS;
+Zhang, Fan, et al., 2018) and the short version of the
+Social and Emotional Loneliness Scale for Adults
+(SELSA-S; Youseﬁpour & Samarin, 2021). Measurement
+points varied. A pre- and post-test measurements only
+were taken in 11 studies. An additional midtest mea-
+surement was implemented in seven studies (including
+Barber ( 2011) in which multiple midtest measurements
+were taken). A further follow-up measure was taken in
+eight studies. The length of time between post-test mea-
+surements and follow-up measurements varied from
+2 weeks (Conoley & Garber, 1985; Dowd et al., 2014)t o
+around 6 months (Gold et al., 2019; Mattanah
+et al., 2010; Seepersad, 2005).
+Intervention characteristics. Eighteen studies explored
+the effectiveness of a single intervention whereas seven
+studies compared the effectiveness of multiple interven-
+tions. In total, 25 studies covered 34 interventions (inter-
+ventions have been labelled numerically in Table S4).
+While the aim of eight interventions was solely to reduce
+levels of loneliness (5, 6, 7, 16, 22, 23, 24, 25), most used
+loneliness as one measure of intervention effectiveness
+among others, such as happiness (17, 28), anxiety (2,
+17, 34), adjustment to college (4), sense of belonging
+(18), self-esteem (8, 9, 19, 20, 31, 32), con ﬁdence (26),
+overall wellness (1, 27, 30, 33), empathy (30), depression
+(2, 8, 9, 10, 11, 31), compassion (29), responsibility (21)
+and smartphone use (12, 13, 14,15).
+The nature of the interventions followed common
+themes: some provided mainly psychoeducation (5, 6, 7,
+8, 9, 10, 11, 16, 18, 24, 25, 28) some implemented social
+support groups in which students could discuss prob-
+lems or experiences (4, 26, 32, 30), some provided an
+opportunity for social interaction with other students
+outside of a support group, with or without a speci ﬁc
+activity or topic of discussion (2, 12, 17, 19, 31, 33, 34)
+and others implemented re ﬂective exercises, such as
+mindfulness (1, 3, 20, 22, 23, 27) or mindful movements
+(e.g. yoga or Mind –Body-Qigong exercises) (13, 14, 29).
+Where an intervention comprised a mix of two or more
+elements, such as psychoeducation and social support
+(26), we have classed them according to the main or dis-
+tinguishing element.
+The majority ( n = 28) of interventions were imple-
+mented in a group setting, whereas a smaller number
+(n = 6) were implemented on an individual. Two group
+interventions were delivered online or digitally (19, 31)
+as were two individual interventions (16, 20). Of the
+group interventions, group sizes varied from two partici-
+pants (31) to 112 participants (28).
+Time commitments required from students to partake
+in each intervention varied. One intervention was a three-
+day retreat (29). Otherwise, the longest duration of any
+intervention session was 180 min (17), with others lasting
+between 30 and 120 min. Overall, support group inter-
+ventions appeared to require longer sessions whereas
+individual interventions were found to use shorter ses-
+sions. One intervention consisted of one session of psy-
+choeducation to the individual, with an expectation that
+they engage in physical activity over the following 2 weeks.
+No time commitment was speciﬁed (18).
+Of the studies that included a control condition
+(n = 19), most ( n = 12) did not implement an intervention
+for this group. Instead, measurements coincided with
+those taken from the intervention group. Seven studies,
+however, created an alternative intervention to act as a
+control condition. These included the provision of gen-
+eral information (Besse, 2016; Dowd et al., 2014; Mat-
+tanah et al., 2010) an educational course not aimed at
+reducing loneliness (Kocak, 2008; Smith et al., 2020)
+and a self-help discussion (McWhirter & Horan, 1996).
+Two studies offered the control group access to the inter-
+vention after a period or completion by the intervention
+group (Bruehlman-Senecal et al., 2020; Youse ﬁpour &
+Samarin, 2021).
+Study ﬁndings. Evidence from the RCTs suggests that
+most interventions had an effect on loneliness outcomes,
+but the magnitude of the bene ﬁt is unclear (see
+Table S4). These included six group-delivered psychoed-
+ucation interventions (5, 6, 8, 9, 15, 21), ﬁve re ﬂective
+exercises (3, 13, 14, 20, 22), one support group interven-
+tion (4) and four social interaction interventions (2, 12,
+17, 19). Controlled pre –post (CPP) and pre –post (PP)
+studies also suggest that group-delivered psychoeduca-
+tion (41), support group (38) and social interaction (31,
+33, 34) may be effective in reducing loneliness. Table S4
+reports pre and post mean scores and differences in
+mean scores (post–pre) to aid estimation of direction and
+size of effect; studies have been grouped based on study
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+doi:10.1111/camh.12614 Interventions addressing loneliness among students 515
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 5
+design and [version of] loneliness measure to aid com-
+parison of scores. The largest reduction in UCLA3 (20
+item) loneliness score was observed with group delivered
+psychoeducation (22) but this may re ﬂect the fact that
+the study targeted those most lonely. A social interaction
+intervention involving group-based basketball three
+times a week resulted in a large reduction in the ULS-8
+(UCLA 8 item) loneliness score (12).
+Across all study types, 20 out of 28 group interven-
+tions reduced levels of loneliness (1, 3, 5, 6, 8, 9, 12, 13,
+14, 15, 17, 19, 21, 22, 26, 28, 31, 32, 33, 34). Three out
+of six individual interventions (performed with or with-
+out the use of the internet) reduced loneliness scores,
+two in the re ﬂection category (27, 20). Of the interven-
+tions performed online or digitally, three were effective in
+reducing loneliness scores regardless of whether they
+were performed in an online group or individually (19,
+20, 31). Two of these interventions involved chatting to
+another online (19, 31), and the other involved typing
+journal entries (20).
+Seven of 14 psychoeducation interventions were
+found to be effective (5, 6, 8, 9, 15, 21, 28) as were three
+of four social support interventions (4, 26, 32), and seven
+of nine re ﬂective exercise interventions (1, 3, 13, 14, 22,
+27, 29). Three re ﬂective exercises utilised meditation
+and mindfulness (3, 22, 27), two promoted mindful
+movements (13, 14), one utilised writing in a journal (20)
+and one promoted a mindful lifestyle (1). Six of seven
+social interaction interventions reduced loneliness
+scores (12, 17, 19, 31, 33, 34), one of which utilised non-
+human interaction with a dog and facilitator (34). Most
+of the interventions that were not deemed to be effective
+were in the psychoeducation category, of which, ﬁve of
+eight were studied in 1996 or earlier (7,8, 9, 10, 11). It
+should be noted that the majority of this evidence came
+from RCTs (7/12).
+Studies involving students with pre-existing mental
+health problems or feelings of loneliness (diagnosed or
+self-declared) used a range of interventions including
+social interaction (2), re ﬂective exercise (22), social sup-
+port (26) and psychoeducation interventions (5, 6, 7, 8,
+9, 10, 11, 16, 18, 21). However, only six interventions
+targeting these students signi ﬁcantly reduced loneliness
+score (5, 6, 8, 9, 21, 22).
+Although no study directly compared the effect of a
+single intervention across subgroups, reductions in feel-
+ings of loneliness appeared consistent across groups.
+For example, reductions in loneliness were seen across
+students of all educational disciplines, in those with aut-
+ism spectrum disorder (32) and in students from varied
+geographic locations. Similarly, reductions in feelings of
+loneliness were reported in studies sampling mostly
+female students (8, 9) and in studies sampling mostly
+male students (32).
+Findings from studies using qualitative
+assessment of loneliness
+Study quality. Quality assessment of studies assessing
+loneliness via qualitative methods is presented in Fig-
+ure S3 (n = 3). Two studies (Clark & Brooms, 2018; Goet-
+zel, Shelov, & Croen, 1983) had an overall moderate risk
+of bias. Horgan et al. ( 2013) was found to have a serious
+risk of bias due to missing data. The primary objective
+was to assess a decrease in depressive symptoms; how-
+ever, only a small number of participants (7 out of 118)
+provided forum posts at follow up, some of which related
+to the reduction of feelings of loneliness. All studies
+using qualitative methods were judged as having moder-
+ate risk of bias due to confounding factors.
+Study characteristics. All interventions explored
+through qualitative methods ( n = 3) were delivered as
+part of a group, with one (27) delivered in an online for-
+mat (see Table S5). One study recruited medical stu-
+dents (Goetzel et al., 1983), one recruited black, male
+students (Clark & Brooms, 2018) and one recruited stu-
+dents scoring highly on the Centre for Epidemiological
+Studies Depression Scale (CES-D) (Horgan et al., 2013).
+Two studies were conducted in the U.S. (Clark &
+Brooms, 2018; Goetzel et al., 1983) and one in Ireland
+(Horgan et al., 2013). Mean ages of participants ranged
+from 20.17 (Clark & Brooms, 2018) years to 24.6 years
+(Goetzel et al., 1983).
+Clark and Brooms ( 2018) collected data through
+semistructured, open-ended interviews as opposed to
+questionnaires or forums (Goetzel et al., 1983; Horgan
+et al., 2013). Horgan et al. ( 2013) primarily used quanti-
+tative methods to measure outcomes other than loneli-
+ness, for example, reductions in depressive symptoms.
+Reductions in loneliness were commented on qualita-
+tively.
+Data were collected at different points across the
+research. Horgan et al. ( 2013) adopted pretest and post-
+test measurements, whereas Clark and Brooms ( 2018)
+and Goetzel et al. ( 1983) collected data post-test only.
+Although this design prevents a comparison to baseline
+levels of loneliness, participants were asked to give their
+opinions of the intervention, not their levels of loneli-
+ness.
+Intervention characteristics. The types of interventions
+implemented included support groups and increasing
+social interaction (Table S5). Support groups included
+the ‘Human Dimension Group ’ which adopted a face-to-
+face discussion around student dif ﬁculties with support
+from a facilitator (37). An online forum allowed students
+to support each other virtually with access to online
+resources (36). The ‘Black Male Scholars Programme ’
+improved social interaction by encouraging students to
+play sports together and by enlisting speakers on a num-
+ber of topics (35).
+Study ﬁndings. Table S6 summarises the ﬁndings of
+interventions using qualitative data collection, with key
+quotes from participants included in the publications.
+The results of a study sampling students of black African
+or Caribbean descent showed that bringing students
+together who have a shared cultural experience can
+reduce the feelings of loneliness (35). Feedback for the
+Black Males Scholar Programme was generally positive
+and focussed around reducing alienation of ethnic
+minorities in universities.
+Horgan et al. ( 2013) reported that, although primarily
+aimed at reducing depressive symptoms, the online
+forum (36) resulted in participants feeling less lonely due
+to being able to talk to others in a similar situation to
+theirs. Being able to tell someone about their problems
+improved feelings of loneliness: “It’s about empathy and
+the realisation that you ’re not alone. Being able to tell
+someone/people, even if it is just anonymously putting it
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+516 Olivia Betty Ellard, Christina Dennison & Helena Tuomainen Child Adolesc Ment Health 2023; 28(4): 512–23
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 6
+out there into the virtual domain, is supposed to be
+cathartic in some way. And it kinda ’ is”. Goetzel
+et al. ( 1983) reported that support groups for medical
+students (37) were bene ﬁcial for ful ﬁlling social af ﬁlia-
+tion needs, ﬁnding friends, feeling less lonely and for
+developing a feeling of belongingness.
+One theme identi ﬁed across the qualitative ﬁndings
+was that participants felt ‘less alone ’ as a result of the
+interventions. Interventions brought students together
+of similar backgrounds, increasing a sense of belonging,
+whilst provided opportunities to share experiences. This
+could suggest that targeting perceived isolation reduces
+loneliness in students.
+Discussion
+This systematic review has investigated the characteris-
+tics and effectiveness of interventions addressing loneli-
+ness in university students. Loneliness is an indicator of
+wellbeing and may lead to the development of mental
+disorders if left untended (Mushtaq, Shoib, Shah, &
+Mushtaq, 2014). Thirty-four interventions addressing
+loneliness among university students were included, as
+part of 25 studies. Only four studies, measuring a total
+of eight interventions, targeted loneliness as a primary
+outcome (Besse, 2016; Bruehlman-Senecal et al., 2020;
+McWhirter & Horan, 1996; Zhang, Fan, et al., 2018).
+Others had a broader wellbeing remit, some including a
+number of components. Evidence from the RCTs sug-
+gests that most interventions had a bene ﬁcial effect on
+loneliness outcomes, including ones in the psychoedu-
+cation, re ﬂective exercise, social interaction or social
+support group categories. Two thirds of interventions
+conducted in a group setting and measured quantita-
+tively reduced loneliness scores. The measure of loneli-
+ness used did not appear to affect the success of the
+intervention, a ﬁnding reported also by Eccles and Qual-
+ter (2021). Studies collecting data on loneliness via qual-
+itative assessment highlighted that the sharing of
+experiences with students of a similar background
+reduced feelings of loneliness. However, none of the
+studies followed up participants longitudinally. It is,
+therefore, unclear whether the interventions had lasting
+impact. As blinding to the intervention was not possible,
+all included studies scored with at least ‘some concerns’
+or ‘moderate risk of bias’ during quality assessment.
+The current review represents an unexplored avenue
+in loneliness research: 16 of 25 articles focusing on uni-
+versity students were published within the past
+10 years, the remainder being conducted earlier, over a
+period spanning 27 years. The majority of the research
+has been carried out in the U.S., including three of the
+studies with a narrow focus on loneliness, despite
+increased numbers of students all over the world suffer-
+ing from loneliness, especially owing to COVID-19 pan-
+demic.
+The four major intervention strategies identi ﬁed (psy-
+choeducation, increased social support, re ﬂective exer-
+cises and increased social interaction) closely mirror
+those identi ﬁed by Masi et al. ( 2011) and Osborn
+et al. ( 2021), with ‘psychoeducation’ being broader but
+encompassing the ‘addressing maladaptive social cogni-
+tion’ strategy. Williams et al. ( 2021) grouped loneliness
+into six categories based on a framework by Gardiner,
+Geldenhuys, and Gott ( 2018), with social facilitation and
+animal therapy categorised separately. In the current
+review, these were both considered to increase social
+interaction.
+Masi et al. (2011) found addressing maladaptive social
+cognition was the most effective technique. Williams
+et al. ( 2021) found ‘psychological’ interventions to be
+effective for students, such as mindfulness-based thera-
+pies, akin to ‘reﬂective exercises ’ here. However, their
+included interventions had to comply with COVID-19
+social distancing measures. Most interventions included
+in the review by Eccles and Qualter ( 2021) reduced lone-
+liness among young people. In RCTs, interventions
+focusing on learning a new hobby or skill yielded the lar-
+gest effect, followed by interventions aimed at social
+skills training. Notably, most young people included in
+the review were part of at-risk clinical samples or at-risk
+nonclinical samples (Eccles & Qualter, 2021). In the cur-
+rent review, 80% of interventions evaluated quantita-
+tively, utilising social support, re ﬂective exercises or
+increasing social interaction, were effective. Psychoedu-
+cation type interventions failed to show similar ef ﬁcacy;
+only 50% of interventions were deemed to be effective.
+The majority of the psychoeducation interventions in
+our review not showing a positive effect (7/14) were
+tested in RCTs.
+In support of psychoeducational techniques, Jones,
+Hobbs, and Hockenbury ( 1982) concluded that loneli-
+ness results from a lack of teachable social skills. A
+review of elements of loneliness interventions focusing
+on behavioural and cognitive responses and/or coping
+strategies identi ﬁed that social skills and communica-
+tion training was the most frequently employed elements
+used to address putative mechanisms, such as negative
+interpersonal appraisals, anxiety and social skills de ﬁ-
+cits (K€all et al., 2020). Cognitive behavioural therapy was
+used by some studies either as the treatment format or
+as a theoretical base for the intervention (K €all
+et al., 2020). Hickin et al. ( 2021) reported psychological
+interventions to be bene ﬁcial but made no comparison
+to other types of interventions. Psychoeducation inter-
+ventions identi ﬁed in this review included cognitive
+restructuring exercises and developing (social) skills
+with which to tackle loneliness, for example, through
+roleplaying or gami ﬁcation. Four effective interventions
+out of 10, targeted at students with elevated loneliness,
+were based on psychoeducation. Other interventions
+were not solely focused on loneliness but had a broader
+wellbeing remit (Conoley & Garber, 1985; Orchard, 1986;
+Smith et al., 2020). This may account for some of the
+variance between the current ﬁndings and those
+reported by Masi et al. ( 2011), whose review included
+only interventions targeting loneliness. Our ﬁndings
+suggest that psychoeducation alone, without an oppor-
+tunity to increase social connections, may not be suf ﬁ-
+cient for students living in new social surroundings. For
+example, one of the smartphone app users (Bruehlman-
+Senecal et al., 2020) would have liked the app to support
+connections with others due to their dif ﬁculties with
+face-to-face introductions.
+Social support groups allowed students to compare
+experiences, discuss worries, manage stressors of uni-
+versity and seek advice and support. Noticeably, an
+intervention focused on creating a support group to
+build friendships in the ﬁrst year of university demon-
+strated a reduction in loneliness in students with a mean
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+doi:10.1111/camh.12614 Interventions addressing loneliness among students 517
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 7
+age of under 18 years (Mattanah et al., 2010, 2012). Bes-
+saha et al. ( 2020) found support groups to be one of the
+most effective interventions for reducing loneliness in
+adults. Feeling ‘listened to ’ increased self-esteem and
+perceived support, both of which mediate loneliness (Y ıl-
+dız & Karadas/C223, 2017). Feeling part of a community could
+also reduce loneliness (Lin, Dean, & Ensel, 2013).
+Interventions increasing social interaction encour-
+aged students to spend more time with others outside of
+a support group, for example through playing sports or
+partaking in creative exercises. It appears that the act of
+coming together with other students helps reduce loneli-
+ness. Nyqvist, Victor, Forsman, and Cattan ( 2016)
+showed young people who simply have more contact
+with others experience reduced levels of loneliness. In
+support, a sense of social connectedness has been iden-
+tiﬁed as a protective mechanism against developing
+mental disorders (Hawkley & Cacioppo, 2010). The pro-
+motion of friendships between adolescents has been
+shown to halve the risk of developing depression over 6
+to 12 months (Hill, Grif ﬁths, & House, 2015).
+Virtual platforms, such as online chat rooms or smart-
+phone apps, allow social connections to develop remo-
+tely. Our results showed that online interventions
+reduced student loneliness (Barber, 2011; Shaw &
+Gant, 2002), suggesting virtual platforms to be bene ﬁ-
+cial. However, literature regarding the impact of technol-
+ogy, particularly of social media, on loneliness is mixed
+(Hunt, Marx, Lipson, & Young, 2018; Pittman, 2015;
+Yang, 2016). While promoting social connectedness
+face-to-face seems to reduce student loneliness, perhaps
+only speci ﬁc forms of virtual platform, like those identi-
+ﬁed here, have a positive impact. Nevertheless, virtual
+interventions showed exciting potential and may require
+less resources than face-to-face interventions.
+Reﬂective exercise interventions, such as meditation,
+journal writing or mindful movement, encouraged stu-
+dents to re ﬂect on their own feelings without interfer-
+ence, differentiating them from cognitive restructuring.
+Negative thought processes associated with loneliness
+can be addressed by techniques such as increasing
+awareness of self and surroundings (Cacioppo, Grippo,
+London, Goossens, & Cacioppo, 2015). Other docu-
+mented bene ﬁts of mindfulness include reduction of
+anxiety, depression and mood disorders (Howarth,
+Smith, Perkins-Porras, & Ussher, 2019). Whilst many of
+the re ﬂective exercise interventions were implemented
+among groups of students, supporting social connected-
+ness, re ﬂective exercise interventions can be performed
+alone. Hence, they may be more useful when group
+meetings are not possible.
+In support of group-based interventions, these allevi-
+ate the loss of meaningful social group memberships
+that results from moving to university. As explained by
+Haslam et al. ( 2022), group memberships provide people
+with social identity, which refers to a person ’s sense of
+self that derives from their membership in one or more
+social groups. Social identi ﬁcation supports the align-
+ment with group norms and the collaboration with
+others, i.e., it underlies meaningful group-based social
+connections. Social identi ﬁcation with one or more
+groups boosts self-esteem and personal control and pro-
+vides meaning and purpose. Social connections made in
+groups (e.g., whether associated with mindful move-
+ment, a more interactive pursuit or a support group)
+thus provide young people a sense of shared meaning,
+purpose, support and efﬁcacy (Haslam et al., 2022). Fur-
+thermore, social connectedness can reduce depression
+and anxiety symptoms for those with (emerging) mental
+health problems, which further protects against loneli-
+ness (Saeri, Cruwys, Barlow, Stronge, & Sibley, 2018).
+The subjective sense of connectedness to a group has
+also been posited as the ‘active ingredient’ in social rela-
+tionships (Saeri et al., 2018), which may explain why
+group-based interventions reduce loneliness for stu-
+dents who may otherwise lack close friends at univer-
+sity.
+Strength and limitations
+To our knowledge, this is the ﬁrst systematic review to
+explore interventions addressing loneliness in university
+students. Following the original submission of this sys-
+tematic review, two systematic reviews of interventions
+aimed at reducing loneliness in young people have been
+published (Eccles & Qualter, 2021; Osborn et al., 2021).
+However, neither draw special attention to university
+students.
+The scope of our search included younger university
+students, from the age of 17, to graduate university stu-
+dents. As there is some overlap in age with college stu-
+dents (aged 16 –18 years in the UK), our ﬁndings may
+also be applicable to those in postsecondary educational
+settings.
+Our search strategy incorporated a range of search
+terms, multiple databases and was not limited by the
+date of publication. Two independent reviewers com-
+pleted both screening and quality assessment of all
+research ensuring reliability. Whilst previous systematic
+reviews have focused on interventions with loneliness as
+the primary outcome, our review included studies with
+loneliness as either primary or secondary outcome, thus
+capturing all relevant research in this area and drawing
+attention to interventions, which may serve multiple
+purposes.
+The reasons why some interventions were not effec-
+tive may be because they were not developed speci ﬁ-
+cally to reduce loneliness, and because the studies
+were not powered to detect differences in secondary
+outcomes. Grey literature searches were not performed
+due to time constraints. Although some nonpublished
+doctoral dissertations were identi ﬁed, the majority were
+journal publications, retrieved from databases with
+mostly peer-reviewed articles. Our review may, there-
+fore, suffer from positive publication bias (Song
+et al., 2009).
+We were unable to perform a meta-analysis due to the
+heterogeneity and quality of studies. A reduction in lone-
+liness was somewhat comparable between studies using
+identical measurement tools (e.g., 20 item UCLA3) but
+was not possible between studies using different tools.
+Further to this, the UCLA3, the UPLAS Loneliness Scale,
+Chinese college student loneliness scale and 3 item Lik-
+ert scale for loneliness were found to have coef ﬁcient
+alphas for reliability of .89 to .94 (Russell, 1996), .93
+(Tharayil, 2012), .86 (Zhang, Fan, et al., 2018) and .89
+(Besse, 2016), respectively, making any objective com-
+parison difﬁcult.
+Interventions were classi ﬁed under broad groupings,
+between which will be some overlap as most appeared to
+include components of multiple categories.
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+518 Olivia Betty Ellard, Christina Dennison & Helena Tuomainen Child Adolesc Ment Health 2023; 28(4): 512–23
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 8
+Interventions were, therefore, categorised based on their
+most prominent theme introducing an element of sub-
+jectivity.
+Implications for future research
+The majority of research identi ﬁed was deemed at an
+increased risk of bias due to quasi-experimental study
+designs. Further studies adopting a randomised con-
+trolled trial design are needed, especially among stu-
+dents with elevated loneliness or mental health
+problems. Further research is also needed to compare
+the effect of a given intervention across multiple sub-
+groups, and to evaluate the effectiveness of an interven-
+tion longitudinally. Due to the lack of research in BAME
+students and those with autism or disability, further
+experimental studies should be conducted in these sub-
+groups. Evidence demonstrates these groups are partic-
+ularly vulnerable to feelings of loneliness (Kennedy &
+Barker, 2020; Reed, Giles, Gavin, Carter, & Osborne,
+2016). Furthermore, research should take the complex-
+ity of loneliness into consideration (Lim et al., 2020),
+explore in-depth the mechanisms of successful interven-
+tions and identify barriers that prevent at risk students
+from participating in interventions.
+Research is shifting focus from traditional methods of
+targeting loneliness, to the inclusion of digital interven-
+tions (Shah, Nogueras, Woerden, & Kiparoglou, 2019).
+Future research might combine the use of technology
+with other intervention types, such as facilitating sup-
+port groups via mobile applications. Virtual communica-
+tion may remove potential barriers associated with the
+uptake of interventions, such as physical distance,
+time/space/facilitator availability and student con ﬁ-
+dence in meeting strangers.
+Lastly, one of the intervention studies (McWhirter &
+Horan, 1996) differentiated between social loneliness, a
+lack of a supportive network, and intimate or emotional
+loneliness, a lack of an intimate relationship, in line
+with a growing body of research (Hyland et al., 2019;
+van Tilburg, 2021). Although tailoring interventions to
+subtypes of loneliness was not effective in this student
+sample, future studies should take into account the dif-
+ferent dimensions of loneliness (Cacioppo et al., 2015).
+For this purpose, using a loneliness measure that differ-
+entiates between social and emotional loneliness, such
+as de Jong Gierveld loneliness scale, would be bene ﬁcial
+(Penning, Liu, & Chou, 2014). The UCLA measure
+focuses only on the social dimension.
+Conclusions – Implications for universities
+Loneliness has detrimental effects to mental and cogni-
+tive health and is prevalent in the student population.
+The adolescent brain continues to mature throughout
+adolescence up to age of 25 (Arain et al., 2013). Providing
+support to young students struggling with loneliness
+may hinder the development of other risky behaviours,
+e.g. alcohol or drug abuse (Stickley, Koyanagi, Koposov,
+Schwab-Stone, & Ruchkin, 2014) or internet addiction
+(Zhang et al., 2018).
+COVID-19 related restrictions have worsened the situ-
+ation for students. Although psychoeducation may be
+less effective for the general student population than for
+at risk or clinical populations in other settings and/or
+age groups, interventions that boost social skills and
+address maladaptive social cognitions are more relevant
+than ever. Young people entering university now and
+over the next few years have had fewer chances of inter-
+acting with peers and building quality relationships in
+shared physical spaces. Educational institutions cater-
+ing for 16 –18-year-olds would be well placed to support
+this process.
+University campuses are ideally placed to tackle lone-
+liness among students as a preventative or targeted
+strategy and a solution to stem the sharp rise in the
+demand for mental health/support services. Preventing
+or reducing loneliness may also have a positive impact
+on performance ﬁgures, such as educational attain-
+ment, completion rates and employment prospects (Mat-
+thews et al., 2019, 2021).
+The current review shows that universities can choose
+from a variety of strategies. Most successful interventions
+among students foster social connectedness and are con-
+ducted in a group setting. Importantly, interventions
+need not only focus on, or be advertised as focusing on,
+loneliness but can have a broader wellbeing remit. Mea-
+sures that reduce academic stress are likely to support
+the joining and identifying with social groups (McIntyre,
+Worsley, Corcoran, Harrison Woods, & Bentall,2018).
+Given the strong social pressure for young people to
+appear connected (Achterbergh et al., 2020), admitting
+to loneliness may be difﬁcult (Kerr & Stanley, 2021). Fear
+of stigmatisation could deter uptake of public interven-
+tions. Virtual platforms are, therefore, a promising med-
+ium for delivering interventions privately and
+anonymously or where social gatherings are restricted
+(Lim et al., 2020).
+Further intervention studies should be conducted
+with loneliness as the primary endpoint in a broader
+range of countries and cultures, covering students with
+elevated loneliness, of different ethnic backgrounds and
+those with autism or a disability.
+Acknowledgements
+The authors have no potential, perceived or real con ﬂict of inter-
+est. H.T. is supported by the National Institute for Health
+Research (NIHR) Applied Research Centre (ARC) West Midlands.
+The study sponsor had no role in (1) study design; (2) the collec-
+tion, analysis and interpretation of data; (3) the writing of the
+report; and (4) the decision to submit the manuscript for publi-
+cation. The views expressed are those of the authors and not
+necessarily those of the NIHR or the Department of Health and
+Social Care. O.E. and C.D. wrote the ﬁrst draft of the manu-
+script. No honorarium, grant or other form of payment was
+given to them to produce the manuscript. The authors would
+like to thank Dr Jane Warwick for her statistical support in
+identifying and presenting quantitative ﬁndings.
+Funding
+H.T. is funded by the National Institute for Health
+Research (NIHR) Applied Research Centre (ARC) West
+Midlands. The views expressed in this paper are those of
+the authors and not necessarily those of the NHS, NIHR
+or the Department of Health and Social Care.
+Author contributions
+H.T. was responsible for the conception and design of
+the work, and critical revision of the article. O.E. and
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+doi:10.1111/camh.12614 Interventions addressing loneliness among students 519
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 9
+C.D. conducted all activities related to the review,
+including data collection, data analysis and interpreta-
+tion, drafting the ﬁrst manuscript and critical revision of
+the article, under H.T. ’s supervision. All authors
+approved the ﬁnal version of the article.
+Ethical information
+This is a systematic review. No ethical approval or writ-
+ten consent were required.
+Correspondence
+Helena Tuomainen, Warwick Medical School, University
+of Warwick, Coventry CV4 7AL, UK; Email: helena.tuo-
+mainen@warwick.ac.uk
+Supporting information
+Additional Supporting Information may be found in the online
+version of this article:
+Table S1. Search strategy
+Table S2. Inclusion and exclusion criteria.
+Table S3. Main characteristics of studies measuring loneli-
+ness with a quantitative outcome measure.
+Table S4. Summary of the effectiveness of interventions
+using quantitative measures. Studies have been grouped based
+on study design and (version of) loneliness measure.
+Table S5. Main characteristics of the intervention studies
+with qualitative data collection on loneliness.
+Table S6. Summary of the effect of interventions on student
+loneliness using qualitative data collection.
+Figure S1. Flow diagram.
+Figure S2. Quality assessment of randomised control trials
+producing quantitative data using ROB2.
+Figure S3. Quality assessment of nonrandomised control tri-
+als producing quantitative data using ROBINS-I.
+References
+Achterbergh, L., Pitman, A., Birken, M., Pearce, E., Sno, H., &
+Johnson, S. (2020). The experience of loneliness among
+young people with depression: A qualitative meta-synthesis
+of the literature. BMC Psychiatry, 20,1 –23.
+Arain, M., Haque, M., Johal, L., Mathur, P., Nel, W., Rais, A., ...
+& Sharma, S. (2013). Maturation of the adolescent brain.
+Neuropsychiatric Disease and Treatment, 9, 449.
+Barber, L.L. (2011). Getting over a relationship breakup: Testing
+two interventions to facilitate recovery . PhD dissertation,
+University of Missouri-Columbia, APA PsycInfo. Available
+from: https://mospace.umsystem.edu/xmlui/bitstream/
+handle/10355/14192/research.pdf?sequence=2 [last
+accessed 05 December 2022].
+Bessaha, M.L., Sabbath, E.L., Morris, Z., Malik, S., Scheinfeld,
+L., & Saragossi, J. (2020). A systematic review of loneliness
+interventions among non-elderly adults. Clinical Social Work
+Journal, 48, 110–125.
+Besse, R.D. (2016). Loneliness among college students: Examin-
+ing potential coping strategies and the in ﬂuence of targeted
+messages on the likelihood of befriending . PhD dissertation
+(abstract), Kansas State University, APA PsycInfo, Manhat-
+tan, KS. Available from: https://core.ac.uk/download/pdf/
+77977782.pdf [last accessed 05 December 2022].
+Brodkin, A.M., Shrier, D., Alger, E., Layman, W.A., & Buxton,
+M. (1983). Allaying loneliness in freshman medical students:
+An outcome of an elective course. Journal of Medical Educa-
+tion, 58, 722–727.
+Bruehlman-Senecal, E., Hook, C.J., Pfeifer, J.H., FitzGerald, C.,
+Davis, B., Delucchi, K.L., ... & Ramo, D.E. (2020).
+Smartphone app to address loneliness among college stu-
+dents: Pilot randomized controlled trial. JMIR Mental Health ,
+7, e21496.
+Buote, V.M., Pancer, S.M., Pratt, M.W., Adams, G., Birnie-
+Lefcovitch, S., Polivy, J., & Wintre, M.G. (2007). The impor-
+tance of friends: Friendship and adjustment among 1st-year
+university students. Journal of Adolescent Research , 22,
+665–689.
+Cacioppo, S., Grippo, A.J., London, S., Goossens, L., &
+Cacioppo, J.T. (2015). Loneliness: Clinical import and inter-
+ventions. Perspectives on Psychological Science: A Journal of
+the Association for Psychological Science, 10, 238–249.
+Campbell, M., McKenzie, J.E., Sowden, A., Katikireddi, S.V.,
+Brennan, S.E., Ellis, S., ... & Thomas, J. (2020). Synthesis
+without meta-analysis (SWiM) in systematic reviews: Report-
+ing guideline. BMJ, 368, 16890.
+Chen, L., Wang, L., Qiu, X.H., Yang, X.X., Qiao, Z.X., Yang, Y.J.,
+& Liang, Y. (2013). Depression among Chinese university stu-
+dents: Prevalence and socio-demographic correlates. PLoS
+One, 8, e58379.
+Clark, J.S., & Brooms, D.R. (2018). "We get to learn more about
+ourselves": Black men ’s engagement, bonding, and self-
+authorship on campus. Journal of Negro Education , 87, 391–
+403.
+Conoley, C.W., & Garber, R.A. (1985). Effects of reframing and
+self-control directives on loneliness, depression, and control-
+lability. Journal of Counseling Psychology, 32, 139–142.
+Dalky, H.F., & Gharaibeh, A. (2019). Depression, anxiety, and
+stress among college students in Jordan and their need for
+mental health services. Nursing Forum, 54, 205–212.
+Demarinis, S. (2020). Loneliness at epidemic levels in America.
+Explore (New York, N.Y.), 16, 278–279.
+Diehl, K., Jansen, C., Ishchanova, K., & Hilger-Kolb, J. (2018).
+Loneliness at universities: Determinants of emotional and
+social loneliness among students. International Journal of
+Environmental Research and Public Health, 15, 1865.
+Dowd, A.J., Schmader, T., Sylvester, B.D., Jung, M.E., Zumbo,
+B.D., Martin, L.J., & Beauchamp, M.R. (2014). Effects of
+social belonging and task framing on exercise cognitions and
+behavior. Journal of Sport & Exercise Psychology, 36,8 0–92.
+Duncan, L., & Weissenburger, D. (2003). Effects of a brief medi-
+tation program on well-being and loneliness. TCA Journal ,
+31,4 –14.
+Eccles, A.M., & Qualter, P. (2021). Alleviating loneliness in
+young people – A meta-analysis of interventions. Child and
+Adolescent Mental Health, 26,1 7–33.
+Gardiner, C., Geldenhuys, G., & Gott, M. (2018). Interventions
+to reduce social isolation and loneliness among older people:
+An integrative review. Health & Social Care in the Community ,
+26, 147–157.
+Gee, K.A., Hawes, V., & Cox, N.A. (2019). Blue notes: Using
+songwriting to improve student mental health and wellbeing.
+A pilot randomised controlled trial. Frontiers in Psychology ,
+10, 423.
+Goetzel, R.Z., Shelov, S., & Croen, L.G. (1983). Evaluating medi-
+cal student self-help support groups: A general systems
+model. Small Group Behavior, 14, 337–352.
+Gold, J.A., Bentzley, J.P., Franciscus, A.M., Forte, C., & De
+Golia, S.G. (2019). An intervention in social connection: Medi-
+cal student re ﬂection groups. Academic Psychiatry, 43, 375–
+380.
+Haslam, S.A., Haslam, C., Cruwys, T., Jetten, J., Bentley, S.V.,
+Fong, P., & Steffens, N.K. (2022). Social identity makes
+group-based social connection possible: Implications for
+loneliness and mental health. Current Opinion in Psychology ,
+43, 161–165.
+Hawkley, L.C., & Cacioppo, J.T. (2010). Loneliness matters: A
+theoretical and empirical review of consequences and mecha-
+nisms. Annals of Behavioral Medicine: A Publication of the
+Society of Behavioral Medicine, 40, 218–227.
+Hickin, N., K €all, A., Shafran, R., Sutcliffe, S., Manzotti, G., &
+Langan, D. (2021). The effectiveness of psychological inter-
+ventions for loneliness: A systematic review and meta-
+analysis. Clinical Psychology Review, 88, 102066.
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+520 Olivia Betty Ellard, Christina Dennison & Helena Tuomainen Child Adolesc Ment Health 2023; 28(4): 512–23
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 10
+Hill, E., Grif ﬁths, F., & House, T. (2015). Spreading of healthy
+mood in adolescent social networks. Proceedings of the Royal
+Society B: Biological Sciences, 282, 20151180.
+Hillier, A., Goldstein, J., Murphy, D., Trietsch, R., Keeves, J.,
+Mendes, E., & Queenan, A. (2018). Supporting university
+students with autism spectrum disorder. Autism, 22,2 0 –
+28.
+Holm-Hadulla, R.M., & Koutsoukou-Argyraki, A. (2015). Mental
+health of students in a globalized world: Prevalence of com-
+plaints and disorders, methods and effectivity of counseling,
+structure of mental health services for students. Mental
+Health and Prevention , 3,1 –4 (Mental Health of Students –
+National and International Perspectives).
+Horgan, A., McCarthy, G., & Sweeney, J. (2013). An evaluation
+of an online peer support forum for university students with
+depressive symptoms. Archives of Psychiatric Nursing , 27,
+84–89.
+Howarth, A., Smith, J.G., Perkins-Porras, L., & Ussher, M.
+(2019). Effects of brief mindfulness-based interventions on
+health-related outcomes: A systematic review. Mindfulness,
+10, 1957–1968.
+Hughes, G., Panjwani, M., Tulcidas, P., & Byrom, N. (2018). Stu-
+dent mental health – The role and experiences of academics .
+S. Minds. Available from: http://www.studentminds.org.uk/
+uploads/3/7/8/4/3784584/180129_student_mental_
+health__the_role_and_experience_of_academics__student_
+minds_pdf.pdf [last accessed 05 December 2022].
+Hunt, J., & Eisenberg, D. (2010). Mental health problems and
+help-seeking behavior among college students. Journal of
+Adolescent Health, 46,3 –10.
+Hunt, M.G., Marx, R., Lipson, C., & Young, J. (2018). No more
+FOMO: Limiting social media decreases loneliness and
+depression. Journal of Social and Clinical Psychology , 37,
+751–768.
+Hyland, P., Shevlin, M., Cloitre, M., Karatzias, T., Valli /C18eres, F.,
+McGinty, G., ... & Power, J.M. (2019). Quality not quantity:
+Loneliness subtypes, psychological trauma, and mental
+health in the US adult population. Social Psychiatry and Psy-
+chiatric Epidemiology, 54, 1089–1099.
+Jones, W.H., Hobbs, S.A., & Hockenbury, D. (1982). Loneliness
+and social skill de ﬁcits. Journal of Personality and Social Psy-
+chology, 42, 682–689.
+K€all, A., Shafran, R., Lindegaard, T., Bennett, S., Cooper, Z.,
+Coughtrey, A., & Andersson, G. (2020). A common elements
+approach to the development of a modular cognitive behav-
+ioral theory for chronic loneliness. Journal of Consulting and
+Clinical Psychology, 88, 269.
+Kennedy L.F.O., & Barker K. (2020). Barriers to belonging – An
+exploration of loneliness among people from Black, Asian and
+Minority Ethnic Backgrounds . Available from: https://www.
+redcross.org.uk/about-us/what-we-do/we-speak-up-for-
+change/barriers-to-belonging [last accessed 05 December
+2022].
+Kerr, N.A., & Stanley, T.B. (2021). Revisiting the social stigma of
+loneliness. Personality and Individual Differences , 171,
+110482.
+Kocak, R. (2008). The effects of cooperative learning on psycho-
+logical and social traits among undergraduate students.
+Social Behavior and Personality: An International Journal , 36,
+771–782.
+Kotera, Y., & Fido, D. (2022). Effects of Shinrin-Yoku retreat on
+mental health: A pilot study in Fukushima, Japan. Interna-
+tional Journal of Mental Health and Addiction , 20, 2652 –
+2664.
+Kurina, L.M., Knutson, K.L., Hawkley, L.C., Cacioppo, J.T.,
+Lauderdale, D.S., & Ober, C. (2011). Loneliness is associated
+with sleep fragmentation in a communal society. Sleep, 34,
+1519–1526.
+Lim, M.H., Eres, R., & Vasan, S. (2020). Understanding loneli-
+ness in the twenty-ﬁrst century: An update on correlates, risk
+factors, and potential solutions. Social Psychiatry and Psychi-
+atric Epidemiology, 55, 793–810.
+Lin, N., Dean, A., & Ensel, W.M. (2013). Social support, life
+events, and depression . Academic Press. Available from:
+https://books.google.co.uk/books?id=X0a0BQAAQBAJ
+Lipson, S.K., Lattie, E.G., & Eisenberg, D. (2018). Increased
+rates of mental health service utilization by U.S. college stu-
+dents: 10-year population-level trends (2007 –2017). Psychi-
+atric Services, 70,6 0–63.
+Loucks, E.B., Nardi, W.R., Gutman, R., Saadeh, F.B., Li, Y.,
+Vago, D.R., ... & Harrison, A. (2021). Mindfulness-based col-
+lege: A stage 1 randomized controlled trial for university stu-
+dent well-being. Psychosomatic Medicine, 83, 602.
+Lu, C., Zou, L., Becker, B., Grif ﬁths, M.D., Yu, Q., Chen, S.-T.,
+... & Chen, A. (2020). Comparative effectiveness of mind-
+body exercise versus cognitive behavioral therapy for college
+students with problematic smartphone use: A randomized
+controlled trial. International Journal of Mental Health Promo-
+tion, 22, 271–282.
+Mann, F., Bone, J.K., Lloyd-Evans, B.F., Johanna, P.V., Ma, R.,
+Wang, J., & Johnson, S. (2017). A life less lonely: The state of
+the art in interventions to reduce loneliness in people with
+mental health problems. Social Psychiatry and Psychiatric
+Epidemiology, 52, 627–638.
+Mann, F., Wang, J., Pearce, E., Ma, R., Schlief, M., Lloyd-Evans,
+B., ... & Johnson, S. (2022). Loneliness and the onset of new
+mental health problems in the general population. Social Psy-
+chiatry and Psychiatric Epidemiology, 57, 2161–2178.
+Mascaro, J.S., Kelley, S., Darcher, A., Negi, L.T., Worthman, C.,
+Miller, A., & Raison, C. (2018). Meditation buffers medical
+student compassion from the deleterious effects of depres-
+sion. The Journal of Positive Psychology, 13, 133–142.
+Masi, C.M., Chen, H.-Y., Hawkley, L.C., & Cacioppo, J.T.
+(2011). A meta-analysis of interventions to reduce loneliness.
+Personality and Social Psychology Review, 15, 219–266.
+Mattanah, J.F., Ayers, J.F., Brand, B.L., Brooks, L.J., Quimby,
+J.L., & McNary, S.W. (2010). A social support intervention to
+ease the college transition: Exploring main effects and moder-
+ators. Journal of College Student Development, 51,9 3–108.
+Mattanah, J.F., Brooks, L.J., Brand, B.L., Quimby, J.L., &
+Ayers, J.F. (2012). A social support intervention and aca-
+demic achievement in college: Does perceived loneliness
+mediate the relationship? Journal of College Counseling , 15,
+22–36.
+Matthews, T., Danese, A., Caspi, A., Fisher, H.L., Goldman-
+Mellor, S., Kepa, A., ... & Arseneault, L. (2019). Lonely young
+adults in modern Britain: Findings from an epidemiological
+cohort study. Psychological Medicine, 49, 268–277.
+Matthews, T., Qualter, P., Bryan, B., Caspi, A., Danese, A., Mof-
+ﬁtt, T.E., ... & Arseneault, L. (2021). The developmental
+course of loneliness in adolescence: Implications for mental
+health, educational attainment and psychosocial function-
+ing. Development and Psychopathology, 49, 268–27.
+McGinty, E.E., Presskreischer, R., Han, H., & Barry, C.L.
+(2020). Psychological distress and loneliness reported by US
+adults in 2018 and April 2020. JAMA, 324,9 3–94.
+McIntyre, J.C., Worsley, J., Corcoran, R., Harrison Woods, P., &
+Bentall, R.P. (2018). Academic and non-academic predictors
+of student psychological distress: The role of social identity
+and loneliness. Journal of Mental Health, 27, 230–239.
+McWhirter, B.T., & Horan, J.J. (1996). Construct validity of
+cognitive-behavioral treatments for intimate and social loneli-
+ness. Current Psychology, 15,4 2–52.
+Mohamed, S. A., & Ghany, M. S. A. (2012). The effect of using tai
+chi chuan exercises on some psychological variables and some
+physical abilities in modern creative dance for female students
+at faculty of physical education Ben Suef University .
+ICERI2012 Proceedings 5th International Conference of Edu-
+cation, Research and Innovation, Madrid.
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D.G., & Group, T.P.
+(2009). Preferred reporting items for systematic reviews and
+meta-analyses: The PRISMA statement. PLoS Medicine , 6,
+e1000097.
+Mushtaq, R., Shoib, S., Shah, T., & Mushtaq, S. (2014). Rela-
+tionship between loneliness, psychiatric disorders and physi-
+cal health ? A review on the psychological aspects of
+loneliness. Journal of Clinical and Diagnostic Research: JCDR,
+8, WE01-WE04.
+Nyqvist, F., Victor, C.R., Forsman, A.K., & Cattan, M. (2016).
+The association between social capital and loneliness in
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+doi:10.1111/camh.12614 Interventions addressing loneliness among students 521
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 11
+different age groups: A population-based study in Western
+Finland. BMC Public Health, 16, 542.
+Orchard, J.M. (1986). The comparative effectiveness of social
+skill training and cognitive restructuring in the treatment of
+loneliness. PhD dissertation, the University of Manitoba, APA
+PsycInfo. Winnipeg, MB. Available from: https://mspace.lib.
+umanitoba.ca/bitstream/handle/1993/15504/Orchard_
+The_comparative.pdf?sequence=1 [last accessed 05 Decem-
+ber 2022].
+Osborn, T., Weatherburn, P., & French, R.S. (2021). Interven-
+tions to address loneliness and social isolation in young peo-
+ple: A systematic review of the evidence on acceptability and
+effectiveness. Journal of Adolescence, 93,5 3–79.
+Penning, M.J., Liu, G., & Chou, P.H.B. (2014). Measuring loneli-
+ness among middle-aged and older adults: The UCLA and de
+Jong Gierveld loneliness scales. Social Indicators Research ,
+118, 1147–1166.
+Pittman, M. (2015). Creating, consuming, and connecting:
+Examining the relationship between social media engage-
+ment and loneliness. The Journal of Social Media in Society , 4.
+Available from: https://www.thejsms.org/tsmri/index.php/
+TSMRI/article/view/92
+Reed, P., Giles, A., Gavin, M., Carter, N., & Osborne, L.A. (2016).
+Loneliness and social anxiety mediate the relationship
+between autism quotient and quality of life in university stu-
+dents. Journal of Developmental and Physical Disabilities , 28,
+723–733.
+Richardson, T., Elliott, P., & Roberts, R. (2017). Relationship
+between loneliness and mental health in students. Journal of
+Public Mental Health, 16,4 8–54.
+Royal Society for Public Health. (2020). RSPH calls for more men-
+tal health support for young people in lockdown. Author. Avail-
+able from: https://www.rsph.org.uk/about-us/news/rsph-
+calls-for-more-mental-health-support-for-young-people-in-
+lockdown.html [last accessed 05 December 2022].
+Russell, D.W. (1996). UCLA loneliness scale (version 3): Reliabil-
+ity, validity, and factor structure. Journal of Personality
+Assessment, 66,2 0–40.
+Saeri, A.K., Cruwys, T., Barlow, F.K., Stronge, S., & Sibley, C.G.
+(2018). Social connectedness improves public mental health:
+Investigating bidirectional relationships in the New Zealand
+attitudes and values survey. Australian and New Zealand
+Journal of Psychiatry, 52, 365–374.
+Seepersad, S. S. (2005). Understanding and helping the lonely:
+An evaluation of the LUV program . PhD dissertation, Univer-
+sity of Illinois at Urbana-Champaign. APA PsycInfo. Urbana,
+IL. Available from: http://www.weboﬂoneliness.com/
+uploads/7/3/2/3/7323413/sean_seepersad_dissertation.
+pdf [last accessed 05 December 2022].
+Shah, S.G.S., Nogueras, D., Woerden, H.v., & Kiparoglou, V.
+(2019). Effectiveness of digital technology interventions to
+reduce loneliness in adults: A protocol for a systematic review
+and meta-analysis. BMJ Open, 9, e032455.
+Shaw, L., & Gant, L. (2002). In defense of the internet: The rela-
+tionship between internet communication and depression,
+loneliness, self-esteem, and perceived social support.
+Cyberpsychology and Behavior, 5, 157–171.
+Smith, B.W., Ford, C., Erickson, K., & Guzman, A. (2020). The
+effects of a character strength focused positive psychology
+course on undergraduate happiness and well-being. Journal
+of Happiness Studies, 22, 343–362.
+Snape, D., Manclossi, S., Hassel, C., Osborn, E., Martin, G.,
+Sidney, I., ... & Cochrane, A. (2018). Children’s and
+young people ’s experiences of loneliness: 2018 .O f ﬁce for
+National Statitics. Available from: https://www.ons.gov.
+uk/peoplepopulationandcomm unity/wellbeing/articles/
+childrensandyoungpeoplesexperiencesoﬂoneliness/2018#:~:
+text=Young%20people%20(ag ed%2016%20to,with%2032.
+4%25%20of%20young%20women [last accessed 25 August
+2020]
+Song, F., Parekh-Bhurke, S., Hooper, L., Loke, Y.K., Ryder, J.J.,
+Sutton, A.J., ... & Harvey, I. (2009). Extent of publication bias
+in different categories of research cohorts: A meta-analysis of
+empirical studies. BMC Medical Research Methodology, 9, 79.
+Stallman, H.M. (2010). Psychological distress in university stu-
+dents: A comparison with general population data. Australian
+Psychologist, 45, 249–257.
+Sterne, J.A.C., Hern /C19an, M.A., Reeves, B.C., Savovi /C19c, J., Berk-
+man, N.D., Viswanathan, M., ... & Higgins, J.P.T. (2016).
+ROBINS-I: A tool for assessing risk of bias in non-randomised
+studies of interventions. BMJ, 355, i4919.
+Sterne, J.A.C., Savovi /C19c, J., Page, M.J., Elbers, R.G., Blencowe,
+N.S., Boutron, I., ... & Higgins, J.P.T. (2019). RoB 2: A revised
+tool for assessing risk of bias in randomised trials. BMJ, 366,
+14898.
+Stewart, L.A., Dispenza, F., Parker, L., Chang, C.Y., & Cunnien,
+T. (2014). A pilot study assessing the effectiveness of an
+animal-assisted outreach program. Journal of Creativity in
+Mental Health, 9, 332–345.
+Stickley, A., Koyanagi, A., Koposov, R., Schwab-Stone, M., &
+Ruchkin, V. (2014). Loneliness and health risk behaviours
+among Russian and U.S. adolescents: A cross-sectional
+study. BMC Public Health, 14, 366.
+Tang, N.K., McEnery, K.A., Chandler, L., Toro, C., Walasek, L.,
+Friend, H., ... & Meyer, C. (2022). Pandemic and student
+mental health: Mental health symptoms among university
+students and young adults after the ﬁrst cycle of lockdown in
+the UK. BJPsych Open, 8, e138.
+Tharayil, D.P. (2012). Developing the University of The Philip-
+pines loneliness assessment scale: A cross-cultural measure-
+ment. Social Indicators Research , 106, 307 –321. Available
+from: https://www.jstor.org/stable/41409390
+Thorley, C. (2017). Improving student mental health in UK uni-
+versities. I. f. P. P. Research. Available from: https://www.
+ippr.org/ﬁles/2017-09/1504645674_not-by-degrees-170905.
+pdf [last accessed 05 December 2022].
+van Tilburg, T.G. (2021). Social, emotional, and existential lone-
+liness: A test of the multidimensional concept. The Gerontolo-
+gist, 61, e335–e344.
+Warwick, I., Maxwell, C., Statham, J., Aggleton, P., & Simon, A.
+(2008). Supporting mental health and emotional well-being
+among younger students in further education. Journal of Fur-
+ther and Higher Education, 32,1 –13.
+Williams, C.Y., Townson, A.T., Kapur, M., Ferreira, A.F., Nunn,
+R., Galante, J., ... & Usher-Smith, J.A. (2021). Interventions
+to reduce social isolation and loneliness during COVID-19
+physical distancing measures: A rapid systematic review.
+PLoS One, 16, e0247139.
+Williams, M., Coare, P., Marvell, R., Pollard, E., Houghton, A.-
+M., & Anderson, J. (2015). Understanding provision for stu-
+dents with mental health problems and intensive support
+needs: Report to HEFCE by the Institute for Employment Stud-
+ies (IES) and researching equity, access and partnership
+(REAP). I. f. E. Studies. Available from: https://eprints.lancs.
+ac.uk/id/eprint/80492/1/HEFCE2015_mh.pdf
+WONKHE. (2019). Only the Lonely – loneliness, student activities
+and mental wellbeing at university . Available from: https://
+wonkhe.com/wp-content/wonkhe-uploads/2019/03/Only-
+the-lonely-8-Page_v2-003.pdf [last accessed 05 December
+2022].
+Worobetz, A., Retief, P.J., Loughran, S., Walsh, J., Casey, M.,
+Hayes, P., ... & Kelly, D. (2020). A feasibility study of an exer-
+cise intervention to educate and promote health and well-
+being among medical students: The ‘MED-WELL’ pro-
+gramme. BMC Medical Education, 20,1 –12.
+Xiao, T., Jiao, C., Yao, J., Yang, L., Zhang, Y., Liu, S., ... & Yu,
+J.J. (2021). Effects of basketball and Baduanjin exercise
+interventions on problematic smartphone use and mental
+health among college students: A randomized controlled trial.
+Evidence-Based Complementary and Alternative Medicine ,
+2021, 8880716.
+Yang, C.-C. (2016). Instagram use, loneliness, and social com-
+parison orientation: Interact and browse on social media, but
+don’t compare. Cyberpsychology, Behavior and Social Net-
+working, 19, 703–708.
+Yanguas, J., Pinazo-Henandis, S., & Tarazona-Santabalbina,
+F.J. (2018). The complexity of loneliness. Acta Bio Medica:
+Atenei Parmensis, 89, 302–314.
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+522 Olivia Betty Ellard, Christina Dennison & Helena Tuomainen Child Adolesc Ment Health 2023; 28(4): 512–23
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PAGE 12
+Yildiz, H., & Duyan, V. (2022). Effect of group work on cop-
+ing with loneliness. Social Work with Groups , 45, 132 –
+144.
+Yıldız, M.A., & Karadas/C223, C. (2017). Multiple mediation of self-
+esteem and perceived social support in the relationship
+between loneliness and life satisfaction. Journal of Education
+and Practice, 10, 130–139.
+Youseﬁpour, L., & Samarin, S.N. (2021). The effectiveness of
+reality therapy education to increase responsibility and as
+well as to decrease the feeling of loneliness in students of Isla-
+mic Azad University, Dezful branch. Indian Journal of Positive
+Psychology, 12, 372–378.
+Zhang, N., Fan, F.M., Huang, S.Y., & Rodriguez, M.A. (2018).
+Mindfulness training for loneliness among Chinese college
+students: A pilot randomized controlled trial. International
+Journal of Psychology, 53, 373–378.
+Zhang, S., Tian, Y., Sui, Y., Zhang, D., Shi, J., Wang, P., ... & Si,
+Y. (2018). Relationships between social support, loneliness,
+and internet addiction in Chinese postsecondary students: A
+longitudinal cross-lagged analysis. Frontiers in Psychology, 9,
+1707.
+Accepted for publication: 19 October 2022
+/C2112022 The Authors. Child and Adolescent Mental Health published by John Wiley & Sons Ltd on behalf of Association for Child and
+Adolescent Mental Health.
+doi:10.1111/camh.12614 Interventions addressing loneliness among students 523
+ 14753588, 2023, 4, Downloaded from https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.12614, Wiley Online Library on [02/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

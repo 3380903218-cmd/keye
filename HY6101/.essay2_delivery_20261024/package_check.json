@@ -1,0 +1,105 @@
+{
+  "exit_code": 0,
+  "files": [
+    {
+      "findings": [
+        {
+          "code": "field_codes_present",
+          "count": 1,
+          "details": {
+            "fldChar": 0,
+            "fldSimple": 1,
+            "instrText": 0
+          },
+          "message": "Field-code structures are present and may require preservation during edits.",
+          "severity": "info"
+        }
+      ],
+      "metrics": {
+        "comment_definitions": 0,
+        "comment_family_content_types": [],
+        "comment_family_parts": [],
+        "comment_family_relationships": [],
+        "comment_markers": {
+          "commentRangeEnd": 0,
+          "commentRangeStart": 0,
+          "commentReference": 0
+        },
+        "endnotes": {
+          "elements": 0,
+          "parts": []
+        },
+        "equations": {
+          "oMath": 0,
+          "oMathPara": 0
+        },
+        "external_relationships": [],
+        "field_codes": {
+          "fldChar": 0,
+          "fldSimple": 1,
+          "instrText": 0
+        },
+        "footnotes": {
+          "elements": 0,
+          "parts": []
+        },
+        "missing_relationship_targets": [],
+        "parsed_xml_parts": [
+          "[Content_Types].xml",
+          "_rels/.rels",
+          "customXml/_rels/item1.xml.rels",
+          "customXml/item1.xml",
+          "customXml/itemProps1.xml",
+          "docProps/app.xml",
+          "docProps/core.xml",
+          "word/_rels/document.xml.rels",
+          "word/document.xml",
+          "word/fontTable.xml",
+          "word/footer1.xml",
+          "word/header1.xml",
+          "word/numbering.xml",
+          "word/settings.xml",
+          "word/styles.xml",
+          "word/stylesWithEffects.xml",
+          "word/theme/theme1.xml",
+          "word/webSettings.xml"
+        ],
+        "skipped_xml_parts": [],
+        "tracked_changes": {
+          "del": 0,
+          "ins": 0,
+          "moveFrom": 0,
+          "moveTo": 0
+        }
+      },
+      "package": {
+        "case_collisions": [],
+        "deep_audit_complete": true,
+        "directory_entries": 0,
+        "duplicate_entries": [],
+        "entries": 19,
+        "file_entries": 19,
+        "rejected_for_safe_audit": false,
+        "total_uncompressed_bytes": 862659,
+        "unsafe_entries": []
+      },
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY6101/seminar 11/HY6101_Combined_Essay2_中文版.docx",
+      "scope": "Read-only package-structure audit; this does not verify rendered appearance, pagination, or semantic correctness.",
+      "status": "ok",
+      "summary": {
+        "errors": 0,
+        "info": 1,
+        "issues": 0
+      }
+    }
+  ],
+  "schema_version": 1,
+  "scope": "Read-only package-structure audit; this does not verify rendered appearance, pagination, or semantic correctness.",
+  "summary": {
+    "files": 1,
+    "ok": 1,
+    "read_errors": 0,
+    "with_issues": 0
+  },
+  "tool": "audit_docx_package"
+}

@@ -1,0 +1,8 @@
+﻿Id,Label,NodeType,Place,CountryOrRegion,Role,Alias,SourceRef,Notes
+N001,Mogao Cave 17 (Library Cave),SourceSite,Dunhuang,China,source site; former manuscript deposit,Cave 17; Library Cave; Ch'ien-fo-tung; 藏经洞,S01;S03;S07,The graph starts with documented custody/transfer events connected to Cave 17.
+N002,Wang Yuanlu,Person,Dunhuang,China,local custodian; Daoist priest; restorer,Wang Tao-shih; Wang Yüan-lu; 王圆箓; 王道士,S01;S03;S07,Agency and custody are historically mediated; not a moral or legal judgment.
+N004,Jiang Xiaowan,Person,Dunhuang / expedition route,China,Stein's Chinese secretary and intermediary,Chiang Ssu-yeh; Jiang Shiye; 蔣孝琬; 蔣師爺,S03;S07,Source describes his role in negotiation and night removal.
+N006,Stein Central Asian Expedition,Expedition,Dunhuang - Khotan,British India / Central Asia,expedition and collecting operation,Stein expedition; M. A. Stein expedition,S03;S07,Operational node receiving selected materials before institutional deposit.
+N007,British Museum,Institution,London,United Kingdom,first receiving institution in Stein's account,British Museum; British collections,S03;S07,Institutional deposit is modeled separately from the acquisition event.
+N008,Qing central government,Institution,Beijing,China,authority ordering transmission to the capital,central Government; Qing government; 清政府,S01;S07,The order is documented; exact administrative chain remains to be refined.
+N009,Beijing receiving system,Institution,Beijing,China,capital receiving and preservation system,capital collections; Beijing repositories,S01;S07,Provisional institutional node; not a claim about one single modern institution.

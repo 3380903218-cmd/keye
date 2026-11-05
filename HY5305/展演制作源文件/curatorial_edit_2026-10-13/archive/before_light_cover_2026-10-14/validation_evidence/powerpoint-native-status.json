@@ -1,0 +1,12 @@
+{
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "",
+  "application": "Microsoft PowerPoint",
+  "pdf_created": true,
+  "source_sha256": "5dfeeb728d25850bdde59005d53f05b19dc3421452d5003de071b85208cf8edb",
+  "source_unchanged": true,
+  "rendered_copy_sha256": "5dfeeb728d25850bdde59005d53f05b19dc3421452d5003de071b85208cf8edb",
+  "pages": 5,
+  "pdf_sha256": "ba7fa0ba5c08d2da225f9531838224c7749aae028a7e01fce7d23d25d9f864a5"
+}

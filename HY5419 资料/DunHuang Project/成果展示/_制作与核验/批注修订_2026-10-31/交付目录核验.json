@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "artifact_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "delivery_members": [
+    "HY5419_敦煌项目_8分钟展演稿_中英对照.docx"
+  ],
+  "audit_and_backup_directory": "_制作与核验",
+  "record": ".展演稿交付记录.json",
+  "directory_members": [
+    "_制作与核验",
+    "~$5419_敦煌项目_8分钟展演稿_中英对照.docx",
+    "HY5419_敦煌项目_8分钟展演稿_中英对照.docx",
+    ".展演稿交付记录.json"
+  ],
+  "transient_editor_locks_excluded": [
+    "~$5419_敦煌项目_8分钟展演稿_中英对照.docx"
+  ],
+  "original_restored_in_Word": true,
+  "notes": "Private backups, render evidence and prior rounds are excluded from the reader-facing deliverable. Live Word locks, if present, are retained because the reviewed original has been reopened for the user."
+}

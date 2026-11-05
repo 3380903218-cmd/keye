@@ -1,0 +1,288 @@
+中国古籍保护网 (https://www.nlc.cn/pcab/zy/pxjz/20250423_2644574.shtml)
+citeturn133view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.nlc.cn/pcab/zy/pxjz/20250423_2644574.shtml","lineno":null}); Total lines: 32
+L0: 【0†首页】 【1†资讯】 【1†资源】 【1†关于我们】
+L1: [Input]
+L2: [Input]
+L3: 【2†Image】 【0†首页】 > 【3†名家讲坛】
+L4: 【3†名家讲坛】
+L5: 刘波 |《中国国家图书馆藏敦煌文献》的整理与出版
+--------------------------------------------------------------------------------
+ (https://www.nlc.cn/upload/attachments/2023-04-26/252c75c4.pdf)
+citeturn133view1 [wordlim: 200] Crawled: yesterday; Content type: application/pdf; Number of pages: 4; Source: open({"ref_id":"https://www.nlc.cn/upload/attachments/2023-04-26/252c75c4.pdf","lineno":null}); Total lines: 104
+L0@P0: 文津流觞 2023 年第 1 期
+L1@P0: 34
+L2@P0: 敦煌遗书修复
+L3@P0: 国家图书馆藏 20 件敦煌遗书的修复
+L4@P0:  宋晖 国家图书馆古籍馆
+L5@P0: 国家图书馆是国内最大的敦煌遗书收藏、整理、研究与学术服务机构。自 1910 年劫余
+L6@P0: 敦煌遗书入藏京师图书馆（国家图书馆前身），至今馆藏已有 16579 件敦煌遗书，总长度约
+L7@P0: 占世界敦煌遗书的三分之一。敦煌遗书跨度从公元 4 世纪到 11 世纪。由于年代久远，加之
+L8@P0: 一度颠沛流离，破损较为严重。从上世纪八十年代起国家图书馆开始对这批文献进行尝试性
+L9@P0: 修复，尔后于 1991 年正式启动了大规模的修复工作，并总结国内外敦煌遗书修复经验，确
+L10@P0: 立了“最少干预原则”“可逆性原则”“抢救为主、治病为辅”以及“整旧如旧原则”四大古
+L11@P0: 籍修复原则，标志着古籍修复开始走向科学化。2021—2022 年，在专项基金的支持下，国
+L12@P0: 家图书馆在秉承敦煌遗书的四大修复原则下，再一次启动了一批馆藏敦煌遗书的修复工作。
+L13@P0: 该批敦煌遗书均为卷轴装，整体状态较为残破，经卷的纸张老化、酸化问题突出，机械
+L14@P0: 强度较低，很多部位或残片酥松发脆。通过保护修复工作可以提高敦煌遗书的机械强度，改
+--------------------------------------------------------------------------------
+ (https://idp.bl.uk/wp-content/uploads/2023/08/IDPNews33.pdf)
+citeturn133view2 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 12; Source: find({"ref_id":"turn132view4","pattern":"2547"}); Total lines: 1194
+L295@P3: de Thierry Delcourt, Directeur du Départment des manuscrits. Nous nous
+L296@P3: sommes appuyés sur les articles ou remarques que des spécialistes comme
+L297@P3: M. Magnin et J.-P. Drège ont fait à propos du P.2547. A la bibliothèque, H.
+L298@P3: Vetch, sinologue, et J.-M. Puyraimond, sinologue, responsable jusqu’en 2008
+L299@P3: de la conservation des manuscrits de Dunhuang, ont été consultées au fur et à
+L300@P3: mesure de la nouvelle restauration de ces pièces.
+L301@P3-4: P.2547 before and after restoration5
+L302@P4: Conservators often need to revisit conservation undertaken
+L303@P4: by their predecessors and consider new treatments. This might
+L304@P4: be for reasons of preservation, of text legibility or aesthetic
+L305@P4: reasons, but also, as in the two examples discussed here, when
+L306@P4: twentieth-century conservation has compromised the document
+L307@P4: and concealed its archaeological value.
+L308@P4: The two manuscripts under discussion were chosen for their
+L309@P4: two different codex forms, butterfly and whirlwind. Both are
+L310@P4: manuals with texts that would have been regularly consulted:
+L311@P4: Pelliot Chinois 2547 (P.2547, pictured opposite) is a booklet of
+L312@P4: texts to be recited on different occasions; Pelliot Chinois 2490
+L313@P4: (P.2490, pictured above) is a table for calculating farming land.
+L314@P4: The damaged and fragmentary leaves of both manuscripts, the
+L315@P4: numerous contemporary repairs on P.2547, and the changes in
+L316@P4: binding are all evidence of their repeated use. Booklets that were
+L317@P4: easier to handle than scrolls seem to have been preferred for this
+L318@P4: kind of text.1
+L319@P4: Description of the manuscripts
+L320@P4: P.2547: Entitled Zhaiwan wen 齋琬文 (Texts of purification
+L321@P4: and lament), this is a booklet of ‘texts and formulae used for
+L322@P4: various rituals’ according to its anonymous author. It is likely
+L323@P4: that the texts were composed between 647 and 788, and it is
+L324@P4: estimated that this copy was written between 728 and 744.2
+L325@P4: The manuscript was originally a scroll that was cut into fifteen
+L326@P4: bifolios and mounted on guards and so made into a booklet with
+L327@P4: butterfly binding.3 It is 280mm high, but the original length of
+L328@P4: the bifolios is unknown as they are severely damaged on the left,
+L329@P4: most-handled side opposite the roller.
+L330@P4: The manuscript is on very even, buff mulberry paper. Before
+L331@P4: assembly, each of the folded leaves was mounted on a paper
+L332@P4: strip folded in two, called a guard, and pasted to each bifolio at
+L333@P4: the blank edge so that about a centimetre of the guard was left
+L393@P5: partly attached by glue to the final folio
+L394@P5: and traces of glue on this suggest that there
+L395@P5: was originally another piece of paper used
+L396@P5: to make a cover, as seen on other booklets.
+L397@P5: The mounting, which is not very neat,
+L398@P5: does not seem to have been done in one
+L399@P5: sitting, but was modified in several stages.
+L400@P5: The unusual organization of the folios
+L401@P5: can be attributed to these modifications.
+L402@P5: Past repairs, similar to P.2547, included
+L403@P5: strengthening the folios, filling gaps, and
+L404@P5: replacing missing or damaged guards. But
+L405@P5: in this instance, the folios mounted on
+L406@P5: guards were separated from the roller and
+L407@P5: from one another and then pasted back
+L408@P5: onto the roller. In 1964, the whole object
+L409@P5: was backed with modern paper. Similarly
+L410@P5: to P.2547, the linings have hardened over
+L411@P5: time and caused stress to the manuscript,
+L412@P5: deforming the folios.
+L413@P5: This survey has shown that previous
+L414@P5: curators and conservators attempted to
+L415@P5: preserve rare texts by consolidating and
+L428@P5: making the text more legible. We hoped
+L429@P5: to return the manuscripts to the state in
+L430@P5: which they originally entered the collections of the BnF.
+L431@P5: In particular, we decided to preserve
+L432@P5: the original binding of P.2547, but not
+L433@P5: the whirlwind binding of P.2490, the latter
+L434@P5: being a twentieth-century reconstructed
+L435@P5: binding for which we have no record,
+L436@P5: and as such holds no scholarly interest for
+L437@P5: the historian or conservator. Neither did
+L438@P5: we try to restore the folio length of these
+L439@P5: two documents, which cannot be known
+L440@P5: with accuracy. We strengthened the paper
+L441@P5: where it was weak, split or damaged, as
+L442@P5: handling was impossible or dangerous for
+L443@P5: the integrity of the texts. Pieces of paper
+L444@P5: containing text that had been added to
+L445@P5: P.2547 during contemporary conservation
+L446@P5: and had been removed in the 1950s and
+L447@P5: preserved separately were not returned to
+L448@P5: the manuscript, as we could not be sure
+L449@P5: of their original position. We did however
+L450@P5: leave contemporary conservation paper
+L463@P5: bears a fragment of an unidentifiable seal
+L464@P5: and was attached to the manuscript with
+L465@P5: only a few drops of paste. These pieces
+L466@P5: came unstuck during our treatment and
+L467@P5: will be remounted on guards at their exact
+L468@P5: original position so that the fragments of
+L469@P5: text and seal will still be visible. Also, a
+L470@P5: fragment classified as Pelliot Chinois 4072
+L471@P5: (2) was found to be a missing part of the
+L472@P5: last folio of P.2547, and will be rejoined
+L473@P5: to this manuscript.
+L474@P5: After the folios of P.2490 were removed
+L484@P5: prolonged the moistening with a steam jet
+L485@P5: from an ultrasonic humidifier.
+L486@P5: In the case of P.2547 where the binding had not been removed, we regularly
+L487@P5: controlled the moistening to prevent it
+L488@P5: from reaching either the block of guards,
+L489@P5: and making it too taut to dry without
+L490@P5: damage, or the roller, as moisture getting in
+L491@P5: the small cracks of the red-brown covering
+L492@P5: layer could stain and blacken it, causing it
+L493@P5: to expand.
+L494@P5: The document was put on a pressboard
+L495@P5: protected from moisture with greaseproof
+L496@P5: Images taken before and after restoration of P.2547,
+L497@P5: showing the early work and a detail of the tamarisk
+L498@P5-6: mount and, bottom, after restoration is complete.7
+L499@P6: paper, placed half-open to avoid any stress
+L500@P6: on the stitches, its roller fixed against the
+L501@P6: pressboard. The same process was followed
+L502@P6: during conservation.
+L503@P6: For both manuscripts, after removing
+L504@P6: the silk gauze on the recto, the paper
+L505@P6: fragments were stabilised with strips of
+L515@P6: a film that did not disappear during lining.
+L516@P6: The paste from modern restoration was
+L517@P6: removed from the surface of the paper
+L518@P6: with a narrow, soft flexible flat brush. In
+L519@P6: the case of P.2547, a Mylar/Melinex sheet
+L520@P6: was placed under the fragmented leaf to be
+L521@P6: moistened in order to create a provisional
+L522@P6: support for the paper fragments. At that
+L523@P6: stage, we positoned the fragments. Working from other copies of this text,13 we
+L524@P6: repositioned a badly aligned folio, and
+L547@P6: corresponding to the thickness of the
+L548@P6: original folio. This was done on P.2547 on
+L549@P6: the original guards close to the mounting,
+L550@P6: allowing it to be handled again. Both
+L551@P6: manuscripts were treated where their
+L552@P6: form and the weakness of the paper
+L553@P6: might cause more tears. Paper fragments
+L554@P6: bearing characters, as described previously,
+L555@P6: were mounted on guards in their original
+L556@P6: position to allow consultation.
+L557@P6: The paper of P.2547 regained thickness
+L558@P6: after treatment as could be seen from the
+L559@P6: space between the two halves of the roller,
+L560@P6: and the paper recovered much flexibility.
+L561@P6: The folios will always retain some of the
+L562@P6: pasting from absorption when the linings
+L563@P6: were added. The mounting around the
+L564@P6: guards is still hard as it would always have
+L565@P6: been due to the original layers of paste.
+L566@P6: Specially designed boxes were required
+L567@P6: to house these fragile documents to store
+L568@P6: them flat. For P.2547, a wedge was placed
+L569@P6: in the box to keep the roller straight. The
+--------------------------------------------------------------------------------
+ (https://idp.bl.uk/wp-content/uploads/2023/08/IDPNews33.pdf)
+citeturn133view3 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 12; Source: find({"ref_id":"turn132view4","pattern":"2490"}); Total lines: 1194
+L217@P2: IDP’s aim to build a database shared by all institutions holding
+L218@P2: collections and knowledge of European archaeology in early
+L219@P2: twentieth-century Central Asia, offers a rare occasion to raise
+L220@P2: awareness of the Pelliot collection and related collections held
+L221@P2: in various institutions in neighbouring European countries.
+L222@P2: Le Musée Guimet
+L223@P2-3: http://www.guimet.fr4
+L224@P3: De-Restauration – Restauration des manuscrits Pelliot Chinois 2547 et 2490
+L225@P3: Françoise Cuisance
+L270@P3: qu’ils avaient en entrant dans les collections de la BnF.
+L271@P3: La reliure du Pelliot chinois 2547 a été conservée mais celle
+L272@P3: du Pelliot chinois 2490 ne l’a pas été. En effet, lors de la restauration précédente, cette dernière a été démontée pour réaliser le
+L273@P3: doublage de ses feuillets plus facilement puis remontée. Elle correspondait donc à une reconstitution pour laquelle nous n’avons
+L274@P3: pas d’archives et qui ne présente d’intérêt ni pour son histoire
+L310@P4: manuals with texts that would have been regularly consulted:
+L311@P4: Pelliot Chinois 2547 (P.2547, pictured opposite) is a booklet of
+L312@P4: texts to be recited on different occasions; Pelliot Chinois 2490
+L313@P4: (P.2490, pictured above) is a table for calculating farming land.
+L314@P4: The damaged and fragmentary leaves of both manuscripts, the
+L315@P4: numerous contemporary repairs on P.2547, and the changes in
+L316@P4: binding are all evidence of their repeated use. Booklets that were
+L317@P4: easier to handle than scrolls seem to have been preferred for this
+L318@P4: kind of text.1
+L319@P4: Description of the manuscripts
+L320@P4: P.2547: Entitled Zhaiwan wen 齋琬文 (Texts of purification
+L321@P4: and lament), this is a booklet of ‘texts and formulae used for
+L322@P4: various rituals’ according to its anonymous author. It is likely
+L323@P4: that the texts were composed between 647 and 788, and it is
+L324@P4: estimated that this copy was written between 728 and 744.2
+L325@P4: The manuscript was originally a scroll that was cut into fifteen
+L355@P4: strengthened on their blank sides, and gaps were filled with fine
+L356@P4: paper, assuming a uniform folio size, that of the longest preserved.
+L357@P4: Then a second lining of silk gauze was placed on both faces of
+L358@P4: the bifolios, concealing the text and significantly increasing the
+L359@P4: thickness of the document from the roller.
+L360@P4: P.2490: This is an incomplete calculation manual for the reckoning of farming areas entitled Bu shui xi jie 步水畦解 (Farming
+L361@P4: Table). It bears the date 952 on the recto of the fourth folio. It is
+L362@P4: composed of six folios damaged on their left side and mounted
+L363@P4: on guards and pasted onto a roller on their right, in a kind of
+L364@P4: whirlwind booklet. The roller is made of tamarisk (see note 5).
+L365@P4: The guards are used as a margin allowing the folios to be
+L366@P4: pasted to the roller without concealing characters. Judging from
+L367@P4: the traces of glue on the two folios without guards, it seems likely
+L368@P4: that all the folios originally had guards. In the note made before
+L369@P4: the previous restoration, it is described as a whirlwind booklet
+L370@P4: without any other detail.
+L371@P4: The folios are made of fairly rough textile fibre paper9
+L372@P4:  with
+L373@P4: sixteen to seventeen laid lines per 4cm corresponding to the date
+L374@P4: recorded on the fourth folio.10 Some thickness and opacity along
+L375@P4: Undoing Old and Doing New Conservation on Pelliot Chinois 2547 and 2490
+L376@P4: Françoise Cuisance
+L377@P4: The two manuscripts come from the Library Cave at the Mogao Caves near Dunhuang.They form part of the collection acquired by the
+L378@P4: sinologist and archaeologist Paul Pelliot during his expedition in Central Asia from 1906 to 1908.These manuscripts were entrusted
+L379@P4: to the Bibliothèque nationale de France (BnF) in 1910.
+L380@P4-5: P.2490 before and after restoration6
+L381@P5: one centimetre of the upper side of each
+L382@P5: folio must be related to its original formation. The folios have text on one side
+L383@P5: only, which is written inside squares drawn
+L384@P5: with thick red ink.11 A few guards were
+L385@P5: cut out in this squared paper. The shape
+L386@P5: of the lines suggests that they were traced
+L387@P5: using a tool such as string that would have
+L388@P5: created lines of a distinctive shape. Bookmarks, now damaged, have been stuck to
+L389@P5: the top of each sheet; the sixth bearing
+L390@P5: the title of the manuscript. The back side
+L391@P5: of the fourth and fifth folios is used as the
+L392@P5: recto. A piece from another manuscript is
+L428@P5: making the text more legible. We hoped
+L429@P5: to return the manuscripts to the state in
+L430@P5: which they originally entered the collections of the BnF.
+L431@P5: In particular, we decided to preserve
+L432@P5: the original binding of P.2547, but not
+L433@P5: the whirlwind binding of P.2490, the latter
+L434@P5: being a twentieth-century reconstructed
+L435@P5: binding for which we have no record,
+L436@P5: and as such holds no scholarly interest for
+L437@P5: the historian or conservator. Neither did
+L438@P5: we try to restore the folio length of these
+L463@P5: bears a fragment of an unidentifiable seal
+L464@P5: and was attached to the manuscript with
+L465@P5: only a few drops of paste. These pieces
+L466@P5: came unstuck during our treatment and
+L467@P5: will be remounted on guards at their exact
+L468@P5: original position so that the fragments of
+L469@P5: text and seal will still be visible. Also, a
+L470@P5: fragment classified as Pelliot Chinois 4072
+L471@P5: (2) was found to be a missing part of the
+L472@P5: last folio of P.2547, and will be rejoined
+L473@P5: to this manuscript.
+L474@P5: After the folios of P.2490 were removed
+--------------------------------------------------------------------------------
+BnF-Professionnels : Conservation - La conservation des documents de Dunhuang (https://multimedia-ext.bnf.fr/lettres/conservation/html/cn_act_num06_art3.htm)
+citeturn133view4 [wordlim: 200] Crawled: last month; Content type: text/html; Source: find({"ref_id":"turn132view2","pattern":"diacétate"}); Total lines: 44
+L1: # La conservation des documents de Dunhuang
+L2: 
+L3: in Actualités de la conservation, n° 6, janvier-mars 1998
+L4: 
+L5: Un premier article, paru en juillet 1996 dans 【1†le numéro 0 des Actualités de la Conservation】, avait déjà évoqué les dégradations qu'une partie de la collection Pelliot avait subies suite à un conditionnement inadéquat en diacétate de cellulose.
+L13: Ces fragments de papier inscrits en brahmi - qui seront identifiés comme des textes en sanscrit ou en koutchéen - avaient donc séjourné plusieurs siècles dans des " fumiers " et leur état nécessitait qu'ils soient protégés pour être étudiés. C'est ainsi qu'ils furent placés entre deux plaques de verre, des étiquettes de papier portant leur cotation de trouvaille.
+L14: Beaucoup de ces verres furent brisés à l'occasion du déplacement des collections en province au cours de la Seconde guerre mondiale et leur reconditionnement fut entrepris à partir des années 50, utilisant un "nouveau matériau", le rhodoïd, un diacétate de cellulose dont on pensait alors qu'il satisfaisait aux exigences de la conservation.
+L15: ### Découverte des dégradations
+L16: Dès le milieu des années 80, des déformations des plaques de Rhodoïd étaient constatées, ainsi que le dégagement d'une odeur d'acide acétique. A partir de ce moment, la collection fut mise "sous surveillance". En juin 1990, il fut décidé de recenser tous les documents concernés et de démonter les 200 peintures et impressions xylographiques provenant de Dunhuang qui avaient été également conditionnées ainsi.
+

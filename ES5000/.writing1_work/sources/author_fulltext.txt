@@ -1,0 +1,789 @@
+(PDF) Loneliness Matters: A Theoretical and Empirical Review of Consequences and Mechanisms (https://www.researchgate.net/publication/45283426_Loneliness_Matters_A_Theoretical_and_Empirical_Review_of_Consequences_and_Mechanisms)
+citeturn5view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.researchgate.net/publication/45283426_Loneliness_Matters_A_Theoretical_and_Empirical_Review_of_Consequences_and_Mechanisms","lineno":null}); Total lines: 2299
+L0: Article PDF Available Literature Review
+L1: 
+L2: # Loneliness Matters: A Theoretical and Empirical Review of Consequences and Mechanisms
+L3: 
+L4:   * July 2010
+L5:   * cite0†Annals of Behavioral Medicine 40(2):218-227
+L6: 
+L7: DOI:cite1†10.1007/s12160-010-9210-8†doi.org L8: 
+L9:   * Source
+L10:   * cite2†PubMed L11: 
+L12: Authors:
+L13: 
+L14: cite3†Louise Hawkley L15: 
+L16:   * cite4†NORC at the University of Chicago L17: 
+L18: cite5†John T Cacioppo L19: 
+L20:   * cite6†University of Chicago L21: 
+L22: cite7†Image†i1.rgstatic.net L23: 
+L24: cite8†Download full-text PDF cite9†Read full-text L25: ## Abstract
+L26: As a social species, humans rely on a safe, secure social surround to survive and thrive. Perceptions of social isolation, or loneliness, increase vigilance for threat and heighten feelings of vulnerability while also raising the desire to reconnect. Implicit hypervigilance for social threat alters psychological processes that influence physiological functioning, diminish sleep quality, and increase morbidity and mortality.
+L27: The purpose of this paper is to review the features and consequences of loneliness within a comprehensive theoretical framework that informs interventions to reduce loneliness. We review physical and mental health consequences of loneliness, mechanisms for its effects, and effectiveness of extant interventions. Features of a loneliness regulatory loop are employed to explain cognitive, behavioral, and physiological consequences of loneliness and to discuss interventions to reduce loneliness.
+L28: Loneliness is not simply being alone. Interventions to reduce loneliness and its health consequences may need to take into account its attentional, confirmatory, and memorial biases as well as its social and behavioral effects.
+L29: cite10†Image: ResearchGate Logo L30: 
+L31: Discover the world's research
+L32: 
+L33:   * 25+ million members
+L34:   * 160+ million publication pages
+L35:   * 2.3+ billion citations
+L36: cite11†Join for free L37: 
+L38: Public Full-text 1
+L39: 
+L40: Content uploaded by cite3†Louise Hawkley L41: 
+L42: Author content
+L43: 
+L44: All content in this area was uploaded by Louise Hawkley
+L45: 
+L46: Content may be subject to copyright.
+L47: 
+L48: ORIGINAL ARTICLE
+L49: 
+L50: Loneliness Matters: A Theoretical and Empirical Review
+L51: 
+L52: of Consequences and Mechanisms
+L53: 
+L54: Louise C. Hawkley, Ph.D. &John T. Cacioppo, Ph.D.
+L55: Published online: 22 July 2010
+L56: #The Society of Behavioral Medicine 2010
+L57: 
+L58: Abstract As a social species, humans rely on a safe, secure
+L59: 
+L60: social surround to survive and thrive. Perceptions of social
+L61: 
+L62: isolation, or loneliness, increase vigilance for threat and
+L63: 
+L64: heighten feelings of vulnerability while also raising the
+L65: 
+L66: desire to reconnect. Implicit hypervigilance for social threat
+L67: 
+L68: alters psychological processes that influence physiological
+L69: 
+L70: functioning, diminish sleep quality, and increase morbidity
+L71: and mortality. The purpose of this paper is to review the
+L72: 
+L73: features and consequences of loneliness within a compre-
+L74: 
+L75: hensive theoretical framework that informs interventions to
+L76: 
+L77: reduce loneliness. We review physical and mental health
+L78: 
+L79: consequences of loneliness, mechanisms for its effects, and
+L80: 
+L81: effectiveness of extant interventions. Features of a loneli-
+L82: 
+L83: ness regulatory loop are employed to explain cognitive,
+L84: 
+L85: behavioral, and physiological consequences of loneliness
+L86: and to discuss interventions to reduce loneliness. Loneli-
+L87: 
+L88: ness is not simply being alone. Interventions to reduce
+L89: 
+L90: loneliness and its health consequences may need to take
+L91: 
+L92: into account its attentional, confirmatory, and memorial
+L93: 
+L94: biases as well as its social and behavioral effects.
+L95: 
+L96: Keywords Loneliness .Regulatory loop .Physiology .
+L97: 
+L98: Health behavior .Sleep .Intervention
+L99: 
+L100: Introduction
+L101: 
+L102: Loneliness is a common experience; as many as 80% of
+L103: 
+L104: those under 18 years of age and 40% of adults over
+L105: 65 years of age report being lonely at least sometimes [1–
+L106: 
+L107: 3], with levels of loneliness gradually diminishing through
+L108: 
+L109: the middle adult years, and then increasing in old age (i.e.,
+L110: 
+L111: ≥70 years) [2]. Loneliness is synonymous with perceived
+L112: 
+L113: social isolation, not with objective social isolation. People
+L114: 
+L115: can live relatively solitary lives and not feel lonely, and
+L116: 
+L117: conversely, they can live an ostensibly rich social life and
+L118: 
+L119: feel lonely nevertheless. Loneliness is defined as a
+L120: distressing feeling that accompanies the perception that
+L121: 
+L122: one’s social needs are not being met by the quantity or
+L123: 
+L124: especially the quality of one’s social relationships [2,4–6].
+L125: 
+L126: Loneliness is typically measured by asking individuals to
+L127: 
+L128: respond to items such as those on the frequently used
+L129: 
+L130: UCLA Loneliness Scale [7]: “I feel isolated,”“There are
+L131: 
+L132: people I can talk to,”and “I feel part of a group of friends.”
+L133: 
+L134: The result is a continuum of scores that range from highly
+L135: 
+L136: socially connected to highly lonely.
+L137: Each of us is capable of feeling lonely, and loneliness
+L138: 
+L139: is an equal opportunity tenant for good reason. We have
+L140: 
+L141: posited that loneliness is the social equivalent of physical
+L142: 
+L143: pain, hunger, and thirst; the pain of social disconnection
+L144: 
+L145: and the hunger and thirst for social connection motivate
+L146: 
+L147: the maintenance and formation of social connections
+L148: 
+L149: necessary for the survival of our genes [8,9]. Feelings of
+L150: 
+L151: loneliness generally succeed in motivating connection or
+L152: reconnection with others follow ing geographic relocation
+L153: 
+L154: or bereavement, for instance, thereby diminishing or
+L155: 
+L156: abolishing feelings of social isolation. For as many as
+L157: 
+L158: 15–30% of the general population, however, loneliness is
+L159: 
+L160: a chronic state [10,11]. Left untended, loneliness has
+L161: 
+L162: serious consequences for cognition, emotion, behavior,
+L163: 
+L164: This research was supported by Grant R01-AG036433-01 and R01-
+L165: 
+L166: AG034052 from the National Institute on Aging and by the John
+L167: 
+L168: Templeton Foundation.
+L169: L. C. Hawkley :J. T. Cacioppo
+L170: 
+L171: Center for Cognitive and Social Neuroscience,
+L172: 
+L173: University of Chicago,
+L174: 
+L175: Chicago, IL, USA
+L176: 
+L177: L. C. Hawkley (*)
+L178: 
+L179: Department of Psychology, University of Chicago,
+L180: 
+L181: 940 E. 57th St,
+L182: 
+L183: Chicago, IL 60637, USA
+L184: 
+L185: e-mail: hawkley@uchicago.edu
+L186: 
+L187: ann. behav. med. (2010) 40:218–227
+L188: 
+L189: DOI 10.1007/s12160-010-9210-8
+L190: 
+L191: and health. Here, we review physical and mental health
+L192: 
+L193: consequences of perceived social isolation and then
+L194: 
+L195: introduce mechanisms for these outcomes in the context
+L196: of a model that takes into consideration the cognitive,
+L197: 
+L198: emotional, and behavioral cha racteristics of loneliness.
+L199: 
+L200: Loneliness Matters for Physical Health and Mortality
+L201: 
+L202: A growing body of longitudinal research indicates that
+L203: 
+L204: loneliness predicts increased morbidity and mortality [12–
+L205: 
+L206: 19]. The effects of loneliness seem to accrue over time to
+L207: 
+L208: accelerate physiological aging [20]. For instance, loneliness
+L209: 
+L210: has been shown to exhibit a dose–response relationship
+L211: with cardiovascular health risk in young adulthood [12].
+L212: 
+L213: The greater the number of measurement occasions at which
+L214: 
+L215: participants were lonely (i.e., childhood, adolescence, and
+L216: 
+L217: at 26 years of age), the greater their number of cardiovas-
+L218: 
+L219: cular health risks (i.e., BMI, systolic blood pressure (SBP),
+L220: 
+L221: total, and HDL cholesterol levels, glycated hemoglobin
+L222: 
+L223: concentration, maximum oxygen consumption). Similarly,
+L224: 
+L225: loneliness was associated with increased systolic blood
+L226: pressure in a population-based sample of middle-aged
+L227: 
+L228: adults [21], and a follow-up study of these same individuals
+L229: 
+L230: showed that a persistent trait-like aspect of loneliness
+L231: 
+L232: accelerated the rate of blood pressure increase over a
+L233: 
+L234: 4-year follow-up period [22]. Loneliness accrual effects are
+L235: 
+L236: also evident in a study of mortality in the Health and
+L237: 
+L238: Retirement Study; all-cause mortality over a 4-year follow-
+L239: 
+L240: up was predicted by loneliness, and the effect was greater in
+L241: chronically than situationally lonely adults [17]. Penninx et
+L242: 
+L243: al. [15] showed that loneliness predicted all-cause mortality
+L244: 
+L245: during a 29-month follow-up after controlling for age, sex,
+L246: 
+L247: chronic diseases, alcohol use, smoking, self-rated health,
+L248: 
+L249: and functional limitations. Sugisawa et al. [18] also found a
+L250: 
+L251: significant effect of loneliness on mortality over a 3-year
+L252: 
+L253: period, and this effect was explained by chronic diseases,
+L254: 
+L255: functional status, and self-rated health. Among women in
+L256: the National Health and Nutrition Survey, chronic high
+L257: 
+L258: frequency loneliness (>3 days/week at each of two
+L259: 
+L260: measurement occasions about 8 years apart) was prospec-
+L261: 
+L262: tively associated with incident coronary heart disease
+L263: 
+L264: (CHD) over a 19-year follow-up in analyses that adjusted
+L265: 
+L266: for age, race, socioeconomic status, marital status, and
+L267: 
+L268: cardiovascular risk factors [19]. Depressive symptoms have
+L269: 
+L270: been associated with loneliness and with adverse health
+L271: outcomes, but loneliness continued to predict CHD in these
+L272: 
+L273: women after also controlling for depressive symptoms.
+L274: 
+L275: Finally, loneliness has also been shown to increase risk for
+L276: 
+L277: cardiovascular mortality; individuals who reported often
+L278: 
+L279: being lonely exhibited significantly greater risk than those
+L280: 
+L281: who reported never being lonely [14]. In sum, feelings of
+L282: 
+L283: loneliness mark increased risk for morbidity and mortality,
+L284: 
+L285: a phenomenon that arguably reflects the social essence of
+L286: 
+L287: our species.
+L288: Loneliness Matters for Mental Health and Cognitive
+L289: 
+L290: Functioning
+L291: 
+L292: The impact of loneliness on cognition was assessed in a
+L293: 
+L294: recent review of the literature [9]. Perhaps, the most striking
+L295: 
+L296: finding in this literature is the breadth of emotional and
+L297: 
+L298: cognitive processes and outcomes that seem susceptible to
+L299: 
+L300: the influence of loneliness. Loneliness has been associated
+L301: 
+L302: with personality disorders and psychoses [23–25], suicide
+L303: 
+L304: [26], impaired cognitive performance and cognitive decline
+L305: over time [27–29], increased risk of Alzheimer’s Disease
+L306: 
+L307: [29], diminished executive control [30,31], and increases
+L308: 
+L309: in depressive symptoms [32–35]. The causal nature of the
+L310: 
+L311: association between loneliness and depressive symptoms
+L312: 
+L313: appears to be reciprocal [32], but more recent analyses of
+L314: 
+L315: five consecutive annual assessments of loneliness and
+L316: 
+L317: depressive symptoms have shown that loneliness predicts
+L318: 
+L319: increases in depressive symptoms over 1-year intervals, but
+L320: depressive symptoms do not predict increases in loneliness
+L321: 
+L322: over those same intervals [36]. In addition, experimental
+L323: 
+L324: evidence, in which feelings of loneliness (and social
+L325: 
+L326: connectedness) were hypnotically induced, indicates that
+L327: 
+L328: loneliness not only increases depressive symptoms but also
+L329: 
+L330: increases perceived stress, f ear of negative evaluation,
+L331: 
+L332: anxiety, and anger, and diminishes optimism and self-esteem
+L333: 
+L334: [8]. These data suggest that a perceived sense of social
+L335: connectedness serves as a scaffold for the self—damage the
+L336: 
+L337: scaffold and the rest of the self begins to crumble.
+L338: 
+L339: A particularly devastating consequence of feeling social-
+L340: 
+L341: ly isolated is cognitive decline and dementia. Feelings of
+L342: 
+L343: loneliness at age 79 predicted “lifetime cognitive change”
+L344: 
+L345: as indicated by lower IQ at age 79 adjusting for IQ at age
+L346: 
+L347: 11, living arrangements at age 11 and at age 79, sex, marital
+L348: 
+L349: status, and ideal level of social support [27]. This finding
+L350: does not rule out a reverse causal direction; cognitive
+L351: 
+L352: impairments may hamper social interactions, prompt social
+L353: 
+L354: withdrawal, and thus lead to loneliness. Other studies,
+L355: 
+L356: however, have indicated that loneliness is a precursor of
+L357: 
+L358: cognitive decline. For instance, the cognitive functioning of
+L359: 
+L360: 75–85-year-olds (as assessed by the Mini-Mental State
+L361: 
+L362: Examination) did not differ as a function of loneliness at
+L363: 
+L364: baseline but diminished to a greater extent among those
+L365: high than low in loneliness over a 10-year follow-up [28].
+L366: 
+L367: In a prospective study by Wilson et al. [29], loneliness was
+L368: 
+L369: inversely associated with performance on a battery of
+L370: 
+L371: cognitive measures in a sample of 823 initially dementia-
+L372: 
+L373: free older adults. Moreover, loneliness at baseline was
+L374: 
+L375: associated with a faster decline in cognitive performance on
+L376: 
+L377: most of these measures over a 4-year follow-up. This was
+L378: 
+L379: ann. behav. med. (2010) 40:218–227 219
+L380: not true of the converse: cognitive status at baseline did not
+L381: 
+L382: predict changes in loneliness. In addition, incidence of
+L383: 
+L384: Alzheimer’s disease (76 individuals) was predicted by
+L385: 
+L386: degree of baseline loneliness after adjusting for age, sex,
+L387: 
+L388: and education; those in the top decile of loneliness scores
+L389: 
+L390: were 2.1 times as likely to develop Alzheimer’s disease
+L391: 
+L392: than those in the bottom decile of loneliness scores.
+L393: 
+L394: Depressive symptoms had a modest effect on Alzheimer’s
+L395: disease risk, but loneliness continued to exert a significant and
+L396: 
+L397: much larger influence on Alzheimer’s disease than depressive
+L398: 
+L399: symptoms when depressive symptoms were included in the
+L400: 
+L401: model [29]. Overall, it appears that something about our
+L402: 
+L403: sense of connectedness with others penetrates the physical
+L404: 
+L405: organism and compromises the integrity of physical and
+L406: 
+L407: mental health and well-being. What that “something”might
+L408: 
+L409: be is the topic to which we next turn.
+L410: 
+L411: How Loneliness Matters: Mechanisms
+L412: The Loneliness Model Our model of loneliness [8,9] posits
+L413: 
+L414: that perceived social isolation is tantamount to feeling
+L415: 
+L416: unsafe, and this sets off implicit hypervigilance for
+L417: 
+L418: (additional) social threat in the environment. Unconscious
+L419: 
+L420: surveillance for social threat produces cognitive biases:
+L421: 
+L422: relative to nonlonely people, lonely individuals see the
+L423: 
+L424: social world as a more threatening place, expect more
+L425: 
+L426: negative social interactions, and remember more negative
+L427: social information. Negative social expectations tend to
+L428: 
+L429: elicit behaviors from others that confirm the lonely persons'
+L430: 
+L431: expectations, thereby setting in motion a self-fulfilling
+L432: 
+L433: prophecy in which lonely people actively distance them-
+L434: 
+L435: selves from would-be social partners even as they believe
+L436: 
+L437: that the cause of the social distance is attributable to others
+L438: 
+L439: and is beyond their own control [37]. This self-reinforcing
+L440: 
+L441: loneliness loop is accompanied by feelings of hostility,
+L442: stress, pessimism, anxiety, and low self-esteem [8] and
+L443: 
+L444: represents a dispositional tendency that activates neurobi-
+L445: 
+L446: ological and behavioral mechanisms that contribute to
+L447: 
+L448: adverse health outcomes.
+L449: 
+L450: Health behaviors One of the consequences of loneliness
+L451: 
+L452: and implicit vigilance for social threat is a diminished
+L453: 
+L454: capacity for self-regulation. The ability to regulate one’s
+L455: 
+L456: thoughts, feelings, and behavior is critical to accomplish
+L457: 
+L458: personal goals or to comply with social norms. Feeling
+L459: socially isolated impairs the capacity to self-regulate, and
+L460: 
+L461: these effects are so automatic as to seem outside of
+L462: 
+L463: awareness. In a dichotic listening task, for instance, right-
+L464: 
+L465: handed individuals quickly and automatically attend pref-
+L466: 
+L467: erentially to the pre-potent right ear. Latency to respond to
+L468: 
+L469: stimuli presented to the non-dominant ear can be enhanced,
+L470: 
+L471: however, by instructing participants to attend to their left
+L472: 
+L473: ear. Among young adults who were administered this task,
+L474: the lonely and nonlonely groups did not differ in perfor-
+L475: 
+L476: mance when directed to attend to their pre-potent right ear,
+L477: 
+L478: but the lonely group performed significantly worse than the
+L479: 
+L480: nonlonely group when directed to shift attention to their
+L481: 
+L482: non-prepotent left ear [30]. In other words, automatic
+L483: 
+L484: attentional processes may be unimpaired, but effortful
+L485: 
+L486: attentional processes are compromised in lonely relative to
+L487: 
+L488: socially connected individuals.
+L489: 
+L490: Of relevance for health is the capacity for self-regulation
+L491: in the arena of lifestyle behaviors. Regulation of emotion
+L492: 
+L493: can enhance the ability to regulate other self-control
+L494: 
+L495: behaviors [38], as is evident from research showing that
+L496: 
+L497: positive affect predicts increased physical activity [39]. In
+L498: 
+L499: middle-aged and older adults, greater loneliness was
+L500: 
+L501: associated with less effort applied to the maintenance and
+L502: 
+L503: optimization of positive emotions [31]. Compromised
+L504: 
+L505: regulation of emotion in lonely individuals explained their
+L506: diminished likelihood of performing any physical activity,
+L507: 
+L508: and loneliness also predicted a decrease in physical activity
+L509: 
+L510: over time [31]. Physical activity is a well-known protective
+L511: 
+L512: factor for physical health, mental health, and cognitive
+L513: 
+L514: functioning [40], suggesting that poorer self-regulation may
+L515: 
+L516: contribute to the greater health risk associated with
+L517: 
+L518: loneliness via diminished likelihood of engaging in
+L519: 
+L520: health-promoting behaviors. A related literature shows that
+L521: loneliness is also a risk factor for obesity [41] and health-
+L522: 
+L523: compromising behavior, including a greater propensity to
+L524: 
+L525: abuse alcohol [42]. To the extent that self-regulation
+L526: 
+L527: accounts for poorer health behaviors in lonely people,
+L528: 
+L529: better health behaviors may be more easily accomplished in
+L530: 
+L531: the actual or perceived company of others. Interestingly,
+L532: 
+L533: animal research has shown that social isolation dampens the
+L534: 
+L535: beneficial effects of exercise on neurogenesis [43], imply-
+L536: ing that health behaviors may better serve their purpose or
+L537: 
+L538: have greater effect among those who feel socially
+L539: 
+L540: connected than those who feel lonely. This hypothesis
+L541: 
+L542: remains to be tested, but research on the restorative effects
+L543: 
+L544: of sleep is consistent with this notion.
+L545: 
+L546: Sleep Countering the physiological effects of the challenge
+L547: 
+L548: of daily emotional, cognitive, and behavioral experiences,
+L549: 
+L550: sleep offers physiological restoration. Experimental sleep
+L551: deprivation has adverse effects on cardiovascular function-
+L552: 
+L553: ing, inflammatory status, and metabolic risk factors [44]. In
+L554: 
+L555: addition, short sleep duration has been associated with risk
+L556: 
+L557: for hypertension [45], incident coronary artery calcification
+L558: 
+L559: [46], and mortality [47].
+L560: 
+L561: What is less appreciated is that sleep quality may also be
+L562: 
+L563: important in accomplishing sleep’s restorative effects.
+L564: 
+L565: Nonrestorative sleep (i.e., sleep that is non-refreshing
+L566: 
+L567: despite normal sleep duration) results in daytime impair-
+L568: ments such as physical and intellectual fatigue, role
+L569: 
+L570: 220 ann. behav. med. (2010) 40:218–227
+L571: 
+L572: impairments, and cognitive and memory problems [48]. We
+L573: 
+L574: have noted that loneliness heightens feelings of vulnerabil-
+L575: 
+L576: ity and unconscious vigilance for social threat, implicit
+L577: 
+L578: cognitions that are antithetical to relaxation and sound
+L579: 
+L580: sleep. Indeed, loneliness and poor quality social relation-
+L581: 
+L582: ships have been associated with self-reported poor sleep
+L583: 
+L584: quality and daytime dysfunction (i.e., low energy, fatigue),
+L585: but not with sleep duration [49–52]. In young adults,
+L586: 
+L587: greater daytime dysfunction, a marker of poor sleep quality,
+L588: 
+L589: was accompanied by more nightly micro-awakenings, an
+L590: 
+L591: objective index of sleep continuity obtained from Sleep-
+L592: 
+L593: Caps worn by participants during one night in the hospital
+L594: 
+L595: and seven nights in their own beds at home [53]. The
+L596: 
+L597: conjunction of daytime dysfunction and micro-awakenings
+L598: 
+L599: is consistent with polysomnography studies showing a
+L600: conjunction, essentially an equivalence, between subjective
+L601: 
+L602: sleep quality and sleep continuity [54], and substantiates
+L603: 
+L604: the hypothesis that loneliness impairs sleep quality.
+L605: 
+L606: In an extension of these findings, loneliness was associated
+L607: 
+L608: with greater daytime dysfunction in a 3-day diary study of
+L609: 
+L610: middle-age adults, an association that was independent of age,
+L611: 
+L612: gender, race/ethnicity, household income, health behaviors,
+L613: 
+L614: BMI, chronic health conditions, daily illness symptom severity,
+L615: and related feelings of stress, hos tility, poor social support, and
+L616: 
+L617: depressive symptoms. Cross-lagged panel analyses of the three
+L618: 
+L619: consecutive days indicated potentially reciprocal causal roles
+L620: 
+L621: for loneliness and daytime dysfunction: lonely feelings
+L622: 
+L623: predicted daytime dysfunction the following day, and daytime
+L624: 
+L625: dysfunction exerted a small but significant effect on lonely
+L626: 
+L627: feelings the following day [55], effects that were independent
+L628: 
+L629: of sleep duration. In other words, the same amount of sleep is
+L630: less salubrious in individuals w ho feel more socially isolated
+L631: 
+L632: and, ironically, less salubrious sleep feeds forward to further
+L633: 
+L634: exacerbate feelings of social isolation. This recursive loop
+L635: 
+L636: operates outside of consciousness and speaks to the relative
+L637: 
+L638: impenetrability of loneliness to intervention.
+L639: 
+L640: Physiological functioning The association between loneli-
+L641: 
+L642: ness and cardiovascular disease and mortality [13,14,19]
+L643: 
+L644: may have its roots in physiological changes that begin early
+L645: in life. As noted earlier, chronic social isolation, rejection,
+L646: 
+L647: and/or feelings of loneliness in early childhood, adoles-
+L648: 
+L649: cence, and young adulthood cumulated in a dose–response
+L650: 
+L651: fashion to predict cardiovascular health risk factors in
+L652: 
+L653: young adulthood (26 years old), including elevated blood
+L654: 
+L655: pressure [12]. In our study of young adults, loneliness was
+L656: 
+L657: associated with elevated levels of total peripheral resistance
+L658: 
+L659: (TPR [49,56]). TPR is the primary determinant of SBP
+L660: until at least 50 years of age [57], which suggests that
+L661: 
+L662: loneliness-related elevations in TPR in early to middle-
+L663: 
+L664: adulthood may lead to higher blood pressure in middle and
+L665: 
+L666: older age. Consistent with this hypothesis, loneliness was
+L667: 
+L668: associated with elevated SBP in an elderly convenience
+L669: 
+L670: sample [49], and in a population-based sample of 50–68-
+L671: 
+L672: year-old adults in the Chicago Health, Aging, and Social
+L673: 
+L674: Relations Study [21]. The association between loneliness and
+L675: elevated SBP was exaggerated in older relative to younger
+L676: 
+L677: lonely adults in this sample [21], suggesting an accelerated
+L678: 
+L679: physiological decline in lonely relative to nonlonely indi-
+L680: 
+L681: viduals. Our recent study of loneliness and SBP in these
+L682: 
+L683: same individuals over five annual assessments supported this
+L684: 
+L685: hypothesis. Short-term (i.e., 1 year) fluctuations in loneliness
+L686: 
+L687: were not significant predictors of SBP changes over 1-year
+L688: 
+L689: intervals, but a trait-like component of loneliness present at
+L690: study onset contributed to greater increases in SBP over 2-,
+L691: 
+L692: 3-, and 4-year intervals [22]. These increases were cumula-
+L693: 
+L694: tive such that higher initial levels of loneliness were
+L695: 
+L696: associated with greater increases in SBP over a 4-year
+L697: 
+L698: period. The prospective effect of loneliness on SBP was
+L699: 
+L700: independent of age, gender, race/ethnicity, cardiovascular
+L701: 
+L702: risk factors, medications, health conditions, and the effects of
+L703: 
+L704: depressive symptoms, social support, perceived stress, and
+L705: hostility [22]. Elevated SBP is a well-known risk factor for
+L706: 
+L707: chronic cardiovascular disease, and these data suggest that
+L708: 
+L709: the effects of loneliness accrue to accelerate movement along
+L710: 
+L711: a trajectory toward serious health consequences [20].
+L712: 
+L713: The physiological determinants responsible for the cumu-
+L714: 
+L715: lative effect of loneliness on blood pressure have yet to be
+L716: 
+L717: elucidated. TPR plays a critical role in determining SBP in
+L718: 
+L719: early to mid-adulthood, but other mechanisms come into play
+L720: with increasing age. Candidate mechanisms include age-
+L721: 
+L722: related changes in vascular physiology, including increased
+L723: 
+L724: arterial stiffness [58], diminished endothelial cell release of
+L725: 
+L726: nitric oxide, enhanced vascular responsivity to endothelial
+L727: 
+L728: constriction factors, increases in circulating catecholamines,
+L729: 
+L730: and attenuated vasodilator responses to circulating epineph-
+L731: 
+L732: rine due to decreased beta-adrenergic sensitivity in vascular
+L733: 
+L734: smooth muscle [59–61]. In turn, many of these mechanisms
+L735: are influenced by lifestyle factors such as diet, physical
+L736: 
+L737: inactivity, and obesity—factors that alter blood lipids and
+L738: 
+L739: inflammatory processes that have known consequences for
+L740: 
+L741: vascular health and functioning [62,63].
+L742: 
+L743: Neuroendocrine Effects
+L744: 
+L745: Changes in TPR levels are themselves influenced by a variety
+L746: 
+L747: of physiological processes, including activity of the autonom-
+L748: 
+L749: ic nervous system and the hypothalamic-pituitary adrenocor-
+L750: 
+L751: tical (HPA) axis. The sympathetic branch of the autonomic
+L752: nervous system plays a major role in maintaining basal
+L753: 
+L754: vascular tone and TPR [64,65] and elevated sympathetic
+L755: 
+L756: tone is responsible for the development and maintenance of
+L757: 
+L758: many forms of hypertension [66]. To date, loneliness has not
+L759: 
+L760: been shown to correlate with SNS activity at the myocardi-
+L761: 
+L762: um (i.e., pre-ejection period [21,56]) but was associated
+L763: 
+L764: ann. behav. med. (2010) 40:218–227 221
+L765: 
+L766: with a greater concentration of epinephrine in overnight
+L767: 
+L768: urine samples in a middle-aged and older adult sample [21].
+L769: At high concentrations, circulating epinephrine binds α-1
+L770: 
+L771: receptors on vascular smooth muscle cells to elicit vasocon-
+L772: 
+L773: striction and could thereby serve as a mechanism for
+L774: 
+L775: increased SBP in lonely individuals.
+L776: 
+L777: Activation of the HPA axis involves a cascade of signals
+L778: 
+L779: that results in release of ACTH from the pituitary and cortisol
+L780: 
+L781: from the adrenal cortex. Vascular integrity and functioning are
+L782: 
+L783: beholden, in part, to well-regulated activity of the HPA axis.
+L784: Dysregulation of the HPA axis contributes to inflammatory
+L785: 
+L786: processes that play a role in hypertension, atherosclerosis, and
+L787: 
+L788: coronary heart disease [67–69]. Loneliness has been associ-
+L789: 
+L790: ated with urinary excretion of significantly higher concen-
+L791: 
+L792: trations of cortisol [70], and, in more recent studies, with
+L793: 
+--------------------------------------------------------------------------------
+(PDF) Perceived Social Isolation Makes Me Sad: 5-Year Cross-Lagged Analyses of Loneliness and Depressive Symptomatology in the Chicago Health, Aging, and Social Relations Study (https://www.researchgate.net/publication/44670681_Perceived_Social_Isolation_Makes_Me_Sad_5-Year_Cross-Lagged_Analyses_of_Loneliness_and_Depressive_Symptomatology_in_the_Chicago_Health_Aging_and_Social_Relations_Study)
+citeturn5view1 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://www.researchgate.net/publication/44670681_Perceived_Social_Isolation_Makes_Me_Sad_5-Year_Cross-Lagged_Analyses_of_Loneliness_and_Depressive_Symptomatology_in_the_Chicago_Health_Aging_and_Social_Relations_Study","lineno":null}); Total lines: 3001
+

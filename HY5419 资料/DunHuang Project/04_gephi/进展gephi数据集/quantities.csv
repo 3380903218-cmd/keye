@@ -1,0 +1,15 @@
+﻿QuantityId,EventId,SourceID,Value,Comparator,Unit,Material,Coverage,Locator,Notes
+Q001,DH001,S07,50,reported,bundles,Chinese text rolls,one_component,印刷824,混合捆选件未计入。
+Q002,DH001,S07,5,reported,bundles,Tibetan text rolls,one_component,印刷824,
+Q003,DH002,S07,20,approximate,bundles,Chinese manuscripts,reported_component,印刷825,另有mixed selections；不等于总件数。
+Q004,DH002,S03,13,reported,bundles,Chinese rolls,alternative_diary_report,印刷60、73页注24,MSS204/339转引，日记未独立取得。
+Q005,DH003,S07,230,greater_than,bundles,Chinese and Tibetan manuscripts,reported_batch,印刷825,保留over，不写精确230。
+Q006,DH003,S03,220,reported,bundles,manuscripts,alternative_official_report,印刷73页注26,CE32/23/16/2转引。
+Q007,DH003,S03,230,reported,bundles,manuscripts,alternative_diary_report,印刷73页注26,不是与220相加的新取得。
+Q008,DH004,S07,24,reported,cases,manuscripts,deposit_summary,印刷825,与1907各取得批次不能重复累计成总取得量。
+Q009,DH004,S07,5,reported,cases,paintings and other art remains,accompanying_outside_manuscript_core,印刷825,主图研究写本，艺术品数量仅保留伴随语境。
+Q010,DH007,S19,1,reported,scrolls,sample manuscript,sample_submission,一、（一）,不是送京主批全部数量。
+Q011,DH008,S19,18,reported,cases,Dunhuang manuscripts,main_receipt_batch,一、（一）,
+Q012,DH009,S19,22,reported,scrolls,supplementary manuscripts,new_receipt_component,一、（二）,
+Q013,DH009,S19,2,reported,bound_fragment_volumes,pasted fragments,new_receipt_component,一、（二）,177个后整编号不能替换1910的2本。
+Q014,DH009,S19,1,reported,scrolls,previously_submitted_sample,return_not_new_receipt,一、（一）；三、（二）,既有样本返还，不作新增入藏。

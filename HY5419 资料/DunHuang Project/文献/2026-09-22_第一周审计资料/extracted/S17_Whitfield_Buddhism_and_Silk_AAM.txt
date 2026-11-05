@@ -1,0 +1,861 @@
+
+===== PAGE 1 =====
+Buddhism and Silk: Reassessing a Painted Banner from Medieval
+Central Asia in the Metropolitan Museum of Art
+Introduction
+Among the silk route artifacts in The Metropolitan Museum of Art is a painted silk
+banner that depicts a Buddhist deity standing beneath a canopy (Figure 1). The relatively small
+size of this banner belies its significance as an artifact attesting to transcultural exchange
+between the silk road oasis city of Dunhuang and neighboring kingdoms of the premodern silk
+routes in Central Asia. Furthermore, the materiality and iconography of the banner demonstrate
+the intertwined resonance of Buddhism and silk and offer tantalizing insights into cross-cultural
+practices of artistic production and display.
+Aided by conservation work recently undertaken in the museum’s Department of Textile
+Conservation, the authors examine the painted banner from interdisciplinary perspectives.
+Firstly, the banner is placed in its religious and cultural context through comparisons made to
+comparable painted silk banners recovered from Dunhuang, located in present-day Gansu
+Province in northwestern China. Secondly, a close examination of a hitherto unrecognized
+inscription points to the close ties that were cultivated between Dunhuang and Khotan, a
+neighboring kingdom that played a critical role in the transmission of Buddhism. The last part of
+the article reconstructs the probable route taken by the banner from Dunhuang to early twentieth
+century London, and of the roles played by the archaeologist Marc Aurel Stein and his assistant
+Frederick Henry Andrews. In doing so, the continued transcultural significance of the banner
+into the present-day is foregrounded.
+The Great Peacock Wisdom King
+Page 1 of 27
+
+===== PAGE 2 =====
+The central motif of this banner is a deity standing atop a lotus pedestal, exquisitely
+bejeweled and sumptuously attired in colorful textiles. A flowered canopy overhead is adorned
+with tassels that fall behind the deity’s arched halo. The floral motif of the canopy is echoed by
+small blossoms that fall from the sky and appear as if suspended in mid-air, lending their
+appealing fragrance to the scene. The deity bears implements of religious significance in both
+hands: a single peacock feather in the right hand and a golden bowl in the left hand.
+Together, the peacock feather and golden bowl identify the deity as Mahāmayūrī, the
+Great Peacock Wisdom King. In the East Asian Buddhist canon, Mahāmayūrī is known from six
+translations of the Sūtra of the Great Golden Peacock King Mantra that were made between the
+fourth to eighth centuries.1 Several of these were completed by monk-translators from oasis
+kingdoms of the Tarim Basin, indicating the popularity of this deity along the silk routes.2 A
+mantra or dhāraṇī (the two terms were often used interchangeably) refers to a verbal incantation
+that was recited orally in order to harness the titular deity’s efficacious powers.
+In the framing narrative of the sūtra, the protagonist is a young monk named Svāti, who
+resides in the Jetavana Grove. One day, he is bitten on the right foot by a poisonous black snake
+while gathering firewood for the monks’ bath.3 Witnessing his pain and suffering, the Buddha’s
+disciple Ānanda pleads with the Buddha for help.
+4 The Buddha tells Ananda that he should recite
+the Mahāmāyūrī dhāraṇī sūtra, which has the power to save the young monk by neutralizing the
+snake’s poison.5 For this reason, Mahāmayūrī was particularly known for protection against
+snake bites and associated with medicine. This is conveyed by the golden bowl held by the deity,
+which represents a bowl of medicine.6 The medical properties of the Mahāmayūrī dhāraṇī likely
+resulted in its incorporation into the Bower Manuscript, dating to the Gupta Period in India (ca.
+320-550), which was recovered in 1890 by Col. Hamilton Bower in the underground crypt of a
+Page 2 of 27
+
+===== PAGE 3 =====
+stupa (Buddhist reliquary mound) located in Kumtura.
+7 Composed in Sanskrit and written in the
+Brāhmī script on birch bark, the Bower Manuscript contained several additional Indian medical
+treatises.
+The peacock feather held by Mahāmayūrī refers to the deity’s elevated status and the
+creature with which it is closely associated. According to textual sources associated with
+Mahāmayūrī, the deity holds peacock feathers in one of its hands and if in a seated position, a
+golden peacock king is its vehicle.8 This relates to another framing narrative of the Mahāmāyūrī
+dhāraṇī sūtra, which concerns a golden peacock king (e.g., a bird) who recites the Mahāmayūrī
+dhāraṇī sūtra daily for self-protection: once in the morning and again at dusk.9
+From the examples above, it can be seen that Mahāmāyūrī was closely associated with
+healing and with protection, both of which were properties common to dhāraṇīs or mantras.10 In
+medieval China, dhāraṇīs and mantras were not only recited, as prescribed by the Mahāmayūrī
+dhāraṇī sūtra, but they were also copied and worn on the body as talismans so that their efficacy
+could be transferred via direct contact with the devotee.11 Painted banners which were placed on
+public display, however, had very different material properties from smaller talismans.
+Therefore, it is to the materiality of painted banners that we next turn.
+Materiality of Silk Road Banners
+Silk road banners are distinct from the more familiar hanging scrolls of East Asia. Unlike
+the conventional hanging scroll, painted banners were originally composed of multiple parts
+(Figure 2): the triangular banner head, which consisted of decorative silk or a painting, typically
+of a seated Buddha; the rectangular body on which the painting was executed (this could also
+consist of one or multiple pieces of fabric stitched together); side streamers attached to the wide
+border of the banner head; and bottom streamers attached to a wooden weighting board. A loop
+Page 3 of 27
+
+===== PAGE 4 =====
+at the top of the banner head enabled the banner to be hung from poles or suspended from temple
+beams or stūpas (Figure 3).
+The present banner is preserved in two pieces: the rectangular painting bearing the
+Mahāmāyūrī motif (Figure 1) and the triangular banner head painted with an image of a seated
+Buddha (Figure 4). The two are no longer attached (Figure 5), and also missing are the border of
+the banner head and the streamers. Nevertheless, the similarity in style, painting technique, and
+color palette between the present painting and the banner head suggest that they may have
+originated from the same object.
+Silk road painted banners were made from a variety of materials, although the vast
+majority of those from Dunhuang were made on a silk support. In the early twentieth century,
+Marc Aurel Stein collected 230 banners from the Mogao caves at Dunhuang, of which 179 were
+made of silk, 42 from hemp, and 9 from paper.12 The lightweight and translucent quality of plain
+silk, in turn, was directly connected to the production of painted banners and their display. As
+previously mentioned, the efficacy of dhāraṇīs and mantras was marshalled not only through oral
+recitation but also by the wearing of talismans bearing the syllables of a dhāraṇī or mantra. Yet
+other ways in which the efficacy of dhāraṇīs and mantras was transmitted was via the non-human
+agency of shadows and wind.
+13 In medieval China, dhāraṇīs and mantras were often carved on
+the sides of stone pillars. It was believed that the shadows cast by a pillar or the dust lifted from
+its surface by wind had the capability to transfer the dhāraṇī’s benefits onto devotees.14
+There was a productive conflation in Buddhist texts concerning the lexicon of stone
+pillars and banners. Both were known in Chinese by the same word, chuang.
+15 It is therefore
+intriguing that dhāraṇī pillars and painted banners were similarly constructed according to a
+tripartite structure of head, body, and base (or bottom streamers). But whereas stone pillars were
+Page 4 of 27
+
+===== PAGE 5 =====
+static, silk banners, by the lightweight and flexible nature of the material, were able to sway in
+the wind (Figure 6). This implies that unless hung directly against a wall or pillar, banners could
+be viewed from both sides.
+Dunhuang manuscripts contain references to the visual impact of vibrantly colored silk
+banners swaying in the wind. For example, a passage in P.2044 describes the “skillful division
+of colors in woven silk and artful stitches in vermilion; hanging from a tall pole against the clear
+blue sky, the end of a rainbow flutters and appears in the sky; the wind [blows] it distantly one
+revolution and in one hundred places, disasters dissipate; its shadow appears to one thousand
+households and ten thousand kinds of fortune accumulate…”16
+In spring 2019, the painted banner analyzed in this essay underwent detailed conservation
+work by Minsun Hwang and her team in the Department of Textile Conservation. At the time
+that the banner was acquired by the museum in 2007, it had been mounted onto a textile-covered
+panel, allowing only one side to be seen. The banner was removed from the panel (Figure 7),
+revealing that the front and back sides of the painting were both painted with the same motif of
+Mahāmayūrī, albeit with minor variations. In addition, the verso of the painting bore an
+inscription written in black ink that was faintly visible on the recto.
+Extant double-sided banners from the silk routes were made from hemp, ramie, or silk,
+but the double-sided imagery was produced in different ways. Because hemp and ramie offer a
+more opaque painting ground than silk, the images on the front and back sides had to be drawn
+or transferred separately, either freehand or through the use of stencils. Paintings from the
+Turfan collection of the former Museum für Indische Kunst in Berlin show variations of double-
+sided painting. In some paintings, the same image was painted on both sides of a banner.
+Another ramie banner displays different though related motifs on each side: Dhṛtarāṣṭra and
+Page 5 of 27
+
+===== PAGE 6 =====
+Virūpākṣa, the guardian kings of the east and west, respectively (Figure 8a-b). They are
+identified by their attributes of a bow and arrow (Dhṛtarāṣṭra) and a flaming jewel (Virūpākṣa).17
+The translucent quality of silk, in contrast, enabled underpaintings that were made on one
+side to be visible from the other side. In the case of the Mahāmayūrī banner, black underpainting
+is seen on only one side, therefore designated as the recto (Figure 1); this effect is most visible in
+areas of bare skin and particularly in the deity’s arms and upturned hand (Figure 9).
+18 The
+contours of the underpainting were carefully filled in with colored pigments, after which a deep
+red outline was painted over the black underpainting, partially obscuring it. The other side of the
+painting bears no traces of black underpainting, only red outlines, demonstrating that the silk was
+sufficiently sheer so as to render the black outlines visible on the verso. The same painting
+process followed in which colored pigments were applied, to be followed with the tracing of red
+outlines. The inscription referred to earlier was written on the verso. With the exception of
+minor motifs such as the rendering of flowers and the treatment of drapery around the deity’s
+waist, the two paintings of Mahāmayūrī are mirror images of one another.
+Another noteworthy element is the unusual attention paid to textiles in this painting. The
+deity is clad in an Indian-style skirt-like garment called a dhoti, which is comprised of a pale
+orange textile decorated with a regular pattern of blue and red quatrefoil-shaped flowers. This
+resembles clamp resist-dyed silk textiles recovered from oasis cities of the silk road. The clamp-
+resist dying technique resulted in symmetrical patterns of the sort seen in the dhoti worn by
+Mahāmayūrī. Wooden blocks carved with symmetrical patterns created through a juxtaposition
+of convex and concave shapes were affixed on either side of a piece of cloth or folded piece of
+cloth and clamped together, after which the cloth was placed in dye. The convex areas resisted
+dye while the concave areas created space for the dye to soak through the cloth. Multicolored
+Page 6 of 27
+
+===== PAGE 7 =====
+patterns could be created through a combination of repeated clamp-resist dying and hand
+painting by brush.19
+The garment is fastened around the waist with green, red, and purple cloth, and a double-
+faced blue and red scarf billows artfully along the length of the deity’s body.20 As important silk
+road commodities, the representation of silk textiles in this painted banner merits attention. The
+detailed representation of textiles in this banner is also evident in a separate group of painted
+banners that attests to the vibrancy of banner painting traditions along the southern silk route,
+and in particular, the artistic impact of the Buddhist kingdom of Khotan (Figure 10).
+Silk Banners on the Silk Road
+Of the silk banners recovered by Stein from Mogao Cave 17, a group of ten that were
+gathered during his second expedition serve as a particularly instructive point of comparison for
+the Mahāmayūrī banner. They are now divided between the British Museum (three paintings)
+and the National Museum of India in New Delhi (seven paintings).
+21 The works display stylistic
+traits of Khotanese and Himalayan artistic traditions, the latter of which reflects on the period of
+the Tibetan occupation of Khotan between the seventh-ninth centuries. Like the Mahāmayūrī
+banner, one of this group was inscribed on the verso. The Tibetan inscription identifies the deity
+represented on the recto as Vajrapāṇi (Figure 11).22 The writing of inscriptions on the verso
+rather than on the recto is more commonly seen among Himalayan thangkas, which are usually
+painted on a heavier canvas ground. The Mahāmayūrī banner and the ten banners from the
+British Museum and National Museum of India do not have cartouches, further distinguishing
+them from banners that were inscribed in Chinese.
+The paintings reveal a number of consistencies, despite subtle variations in the color and
+quality of the silk ground.23 Similar to the Mahāmayūrī banner, they feature a single bodhisattva
+Page 7 of 27
+
+===== PAGE 8 =====
+standing under a round canopy in contrapposto atop a lotus pedestal, wearing a dhoti and
+scarves, holding a ritual implement, and adorned with gold jewelry and peaked crowns. The use
+of bright colors and the lavish attention paid to the linear, ikat-like patterned effects of the
+textiles are particularly striking.
+24
+Does the Mahāmayūrī banner belong to this group? It shares the motif of a standing deity
+on a lotus pedestal, and the borders have similarly been sewn rather than painted. However,
+there are important differences. Although roughly the same height, the Mahāmayūrī banner is
+nearly twice as wide as the ten in New Delhi and London. The painting style also displays a
+greater sense of refinement, and the floral textile pattern is distinct from the striped ikat textiles
+of the other banners. Nevertheless, the Khotanese stylistic elements of the Mahāmayūrī banner
+are corroborated by visual and epigraphic evidence stemming from the painting itself.
+Several features in the painting suggest that it was made in Khotan, or in Dunhuang by a
+Khotanese artist or one familiar with Khotanese stylistic idioms. A mural painting fragment
+purportedly from Khotan shows a peacock feather wielded in the hand of a deity (Figure 12).
+The three-dimensional modeling in the face and body of the deity and in the petals of the lotus
+pedestal are characteristic of the Khotanese painting style, as are the broad facial features, high
+arched eyebrows, heavily lidded eyes, and long nose bridge of Mahāmayūrī and the seated
+Buddha in the banner head (Figure 5).
+25 The painting further displays visual evidence of the
+cross-cultural exchanges that typically characterize Khotanese painting.
+26 The dramatically
+billowing ribbons attached to either side of the crown, for example, originate from those worn by
+Sasanian kings (Figure 13), demonstrating the afterlife of earlier Iranian motifs.
+Due to the lightweight nature of painted banners and thus their portability, they provide
+an exciting glimpse into how Central Asian iconography and painting styles were transmitted
+Page 8 of 27
+
+===== PAGE 9 =====
+along the silk routes. Importantly, as our knowledge of Khotanese painting is largely informed
+by mural painting fragments and paintings executed on wooden panels, the Mahāmayūrī banner
+provides valuable insight into Khotanese visual culture and Buddhist practice. The association
+of the Mahāmayūrī banner with a Khotanese donor is demonstrated, as follows, by a close
+reading of the painting’s hitherto unexamined inscription.
+A Khotanese Official’s Donation
+Transcription: yaraiṣä nāmai āmācä haiṣṭe tcahauryāṃ parṣāṃ ba’ysuśte brrī[ye …
+Translation: The āmāca-official named Yaraiṣa donated, in love of bodhi of the Four
+Assemblies, …
+The inscription on the Mahāmayūrī banner was written on the left edge of the verso side
+of the painting (Figure 14) in Khotanese, a middle Iranian language, and in the Brāhmī script.
+After the painting was completed, the writer must have turned the painting sideways and
+inscribed the text from left to right.27 The text begins right below the canopy above the image of
+Mahāmayūrī. The first syllable is unclear, but there is space for only one syllable in front of the
+second and third syllables, which are clearly rai and ṣä. The first syllable may be tentatively
+read as a ya. Thus, the first three syllables, which constitute the name of the donor, may be
+reconstructed as *Yaraiṣa.28 Due to damage, it is impossible to know how much text is missing
+at the end of the inscription. The last partially visible syllable is that of brrī, no doubt the
+beginning of the word brrīya- “love.” The space of the torn section of the banner would have
+allowed for several more words. One would assume, on the basis of other similar inscriptions,
+that the intentions of the donor might have been expressed. The missing part might have also
+included the date when the painting was made, but this scenario is less likely because the date is
+usually given at the beginning of a dedicatory inscription.
+29
+Page 9 of 27
+
+===== PAGE 10 =====
+The meaning of the extant part of the inscription is otherwise clear: an official with the
+title of āmāca, possibly named Yaraiṣa, donated something “in love of bodhi of the Four
+Assemblies.” The verb used here, hatīś-, have the general meaning of “to give.”30 But in
+religious contexts, it often means more specifically “to donate,” which better fits the context of
+this inscription.31 The inscription does not specify what this āmāca official donated, but it is
+very likely that the thing being donated was the painting on which this inscription was written.
+The phrase “in love of bodhi” is commonly found in Khotanese donation texts. For instance,
+when commissioning a text about the Buddha’s former births titled Jātakastava, the donor
+“ordered it to be written in love of bodhi.”32 The phrase “Four Assemblies” refers to the four
+groups of Buddhists: monks, nuns, laymen, and laywomen. The genitive plural construction “of
+the Four Assemblies” shows that the donation was not merely for the personal benefit of the
+donor, but that of all Buddhist devotees.
+The title āmāca held by the donor of this painting derives from the Sanskrit term āmātya,
+meaning “minister.”33 In eighth century secular documents from Khotan, this term was often
+used in combination with other titles to denote an official of the highest status in the government
+of Khotan.34 Because of the centrality of this office in the Khotanese bureaucracy, it also
+appeared in Chinese (as Amozhi) and Tibetan (as A-ma-cha), the languages of the two empires
+that ruled Khotan between the seventh and ninth centuries. In Khotanese documents from
+Dunhuang, most of which date to the tenth century,35 āmāca remained an important office. For
+instance, in the preface to the Jātakastava mentioned above, the writer prays for the people of
+Khotan: after mentioning the king, the queen, and the princes, the writer continues to list “the
+great prime minister (tsai-syāṃ < Ch. Zaixiang), āmāca the servant of the god” as well as “the
+good, the bad, and the middle, all the people in the country.”36 From the hierarchical sequencing
+Page 10 of 27
+
+===== PAGE 11 =====
+of the prayer, it is clear that in the tenth century, āmāca, while lower than that of the prime
+ministers, was still one of the most important titles in Khotan. It is therefore fitting that an
+āmāca should have had the means to commission such a lavish silk painting. But how did a
+painting commissioned by a Khotanese official end up in the library cave in Dunhuang? To
+answer this question, we need to place the life of this painting in the context of the political
+history of Eastern Eurasia in the ninth to tenth centuries.
+Dunhuang and Khotan: Silk Road Envoys and Buddhist Patronage
+The ninth and tenth centuries were an era of political fragmentation across Eurasia. The
+three empires, the Tibetan Empire (618-842), the Uyghur Empire (744-840), and the Tang
+dynasty (618-907) that dominated Eastern Eurasia in the previous centuries all fell in the mid to
+late-ninth century.
+37 Both Khotan and Dunhuang were under the rule of the Tibetan empire until
+the mid-ninth century, when both acquired political independence. While it is very likely that
+Khotan and Dunhuang exchanged envoys in the ninth century, our earliest documentation about
+such exchange dates to 901.38 The diplomatic relation between the two states was further
+solidified during the tenth century through intermarriage between the Khotanese royal family and
+the Cao family that ruled Dunhuang39 As a result, there was no major warfare between these two
+states for at least a century, and images of the kings and queens of Khotan decorated the
+Dunhuang caves next to those of the lords of Dunhuang.40 Although about a thousand miles (or
+1564 km on the closest modern highway) apart from each other, Dunhuang and Khotan in the
+ninth and tenth centuries had a uniquely close relationship.
+This close relationship was sustained by a frequent exchange of personnel. Scholars have
+noticed that a large number of the Khotanese-language documents found in the library cave in
+Dunhuang are reports by Khotanese envoys.41 The Dunhuang government and monasteries often
+Page 11 of 27
+
+===== PAGE 12 =====
+provided accommodations for Khotanese envoys and monks.
+42 Similarly, many Dunhuang
+residents also traveled to Khotan, as is made clear by the many contracts made by these
+travelers.
+43 As a result, there was likely a constant presence of Khotanese elites, including
+princes, princesses, governmental officials and Buddhist monks, in Dunhuang in the ninth and
+tenth centuries.
+44
+These Khotanese luminaries engaged with the local society of Dunhuang as Buddhist
+patrons. Dunhuang was known as a particularly important place for Buddhist activities. In
+Khotanese texts, Dunhuang is sometimes described as a “land of god (gyasta/jasta-kṣīra).”45
+Many Khotanese travelers who visited Dunhuang were monks themselves. For instance,
+according to an envoy’s report, a diplomatic mission to China from Khotan led by a certain Ana
+Saṃgaa had eleven ācārya (Buddhist teachers) and six gṛhastha (householders).46 But even
+laypeople like these householders were likely also Buddhists. Khotanese monks and laypeople
+alike engaged in Buddhist devotional activities, such as the lighting of lamps, the organization of
+vegetarian feasts at Buddhist monasteries, the building of stūpas, and the construction of
+Buddhist caves. For instance, a Khotanese envoy named Ṣaṃdū “went around the city to 121
+shrines,” and “sent 502 liters of oil for use in all the temples situated around the city” when he
+was in Dunhuang.47
+One of the most important and visible ways Khotan people engaged with the Buddhist
+communities in Dunhuang was through the making of paintings. A prime minister from Khotan
+commissioned paintings in Dunhuang caves to pray for good relations between Dunhuang and
+Khotan and the health of both sovereigns. In this prayer, he described the painting process as
+“Yielding the precious treasure of exotic nature, I summoned crafty artisans of the red and black
+colors. [The artisans] drew the ornamentations of tathāgata, and painted the true image of
+Page 12 of 27
+
+===== PAGE 13 =====
+bodhisattvas.”48 Among the nearly five hundred caves in the Mogao Buddhist complex, several
+have been identified as either having been repaired or constructed by Khotanese donors.49
+On the topic of the sponsorship of paintings by Khotanese donors, one letter is
+particularly relevant to the painted banner under discussion. In 964, a female Khotanese servant
+residing in Dunhuang wrote a letter to Khotan, in which she asked the princess and prime
+minister in Khotan to send support for the construction of a cave shrine. Among the things she
+asked were “colors for painting” (huacaise) and “colored thread for making an embroidered
+image for the Sanjie monastery (Sanjiesi xiuxiang xianse).
+”50 The “embroidered image for the
+Sanjie monastery” likely refers to items that were donated to the Sanjie monastery. As Rong
+Xinjiang has shown, the Sanjie monastery was the original repository of many manuscripts and
+artifacts that were later deposited in the Dunhuang library cave.51 The 964 letter provides a
+concrete example of Khotanese officials donating religious images to the Sanjie monastery. In a
+similar way, the Mahāmayūrī banner may also have been donated to the Sanjie monastery, after
+which it was deposited in the library cave. Our āmāca official *Yaraiṣa could have had this
+painted banner made in Khotan and brought to Dunhuang, or he could have traveled to
+Dunhuang himself and commissioned the banner there. In either scenario, the distinctive
+Khotanese style reflects the impact of Khotanese visual culture upon artistic production in
+Dunhuang.
+The Mahāmayūrī banner is not the only painting bearing Khotanese inscriptions that were
+found in the Dunhuang library cave. There are about half a dozen known examples of paintings
+on paper and silk with Khotanese inscriptions, and this recent acquisition by the Metropolitan
+Museum of Art is a spectacular addition to this small but important group of materials.
+52 A few
+common features unite the Mahāmayūrī banner and these other pieces: First, they were
+Page 13 of 27
+
+===== PAGE 14 =====
+commissioned by Khotanese donors, likely officials and other social elites. Second, the objects
+were either made in Khotan then brought to Dunhuang, or they were made in Dunhuang at the
+demand of Khotanese donors. Third, these items were likely donated to monasteries in
+Dunhuang, particularly the Sanjie monastery, as offerings. Because of their similarities, these
+paintings merit further scholarly attention as a coherent set of materials, which will allow us to
+have a better understanding of the presence and the role of Khotanese art, and also Khotanese
+people, in Dunhuang.
+The Afterlives of the Mahāmayūrī Banner
+In 2007, the banner was auctioned at Christie’s London.53 It was part of a sale by the
+Andrews family, who were stated as owners of the painting through their descent from Frederick
+Henry Andrews (1866–1957). Fred Andrews had been friend and assistant to the archaeologist,
+Marc Aurel Stein (1862–1943). During four expeditions to Central Asia, Stein acquired
+numerous artifacts and Andrews assisted with their cataloguing and study, as discussed further
+below. If we take as a reasonable starting assumption that this painting came from the library
+cave, then how did Fred Andrews acquire it?54 Did he buy the painting himself, or could it have
+been given him by Stein?
+The former seems implausible. Andrews’s financial situation was not robust.55 It is
+unlikely he could have afforded this painting were it offered for sale. Secondly, this piece was in
+a fragmentary and unconserved condition when it came to Christie’s. If Andrews had bought it
+either for his own pleasure or for, resale, it would be a reasonable assumption that he would
+have had it mounted and framed — or that it would have been mounted before sale to him—to
+increase its worth. So, while we cannot say with certainty that Andrews did not buy this piece, it
+is not a well-supported hypothesis. Is it possible that it was gifted to him by Stein? It was a
+Page 14 of 27
+
+===== PAGE 15 =====
+condition of his grants that all finds were to join museum collections in Britain and India and
+Stein was meticulous in recording his finds in situ, making such gifts unlikely.56
+If Andrews did not purchase or receive the painting as a gift and it was originally part of
+Stein’s collection, then how might it have found its way to Andrews? As will be argued below,
+it is plausible that he acquired it accidentally because of the nature of this particular collection.
+In order to understand this situation, some background on the relationship between Stein and
+Andrews and of the acquisition and documentation of material from Dunhuang is necessary.
+Andrews, a graduate of St Martin’s School of Art in London, arrived in Lahore in 1890 to
+become Vice-Principal of Mayo College of Art. There he met Stein, with whom he remained
+friends to the end of Stein’s life. He also worked as an assistant for Stein on the collections.
+Stein was meticulous about record-keeping and gave most of the artifacts he excavated a unique
+site mark when in the field, writing it on the artefact itself. He kept lists of these so that, when
+unpacked, the material could be cross-checked. These lists were also published in his expedition
+reports. All the material was to be deposited in public collections.
+In 1907, Stein visited Dunhuang on his second expedition (1906–8) and acquired
+thousands of manuscripts and hundreds of textiles and portable paintings on silk, paper and hemp
+from the library cave. This material was not acquired through excavation but in rushed and
+clandestine circumstances in which Stein and his assistant, Jiang Xiaowan (d. 1922), were given
+bundles of material by the unofficial guardian of the cave, Wang Yuanlu to examine secretly.57
+These items were inscribed with a site mark, such as Ch.i.001, ‘Ch.’ indicating Dunhuang
+(Ch’ien-fo’tung), ‘i’ the bundle number and ‘001’ the serial number (although it is probable that
+the serial number was only added later).58
+Page 15 of 27
+
+===== PAGE 16 =====
+When preparing for their departure from the field in July 1908, Jiang started to unpack,
+number, list and repack all regular bundles, making index slips as he went along.59 But he only
+had time to record about one third of the material and, although his index slips were used during
+the unpacking at the British Museum, they have to date not been located by these authors. Unlike
+other material, therefore, there was no complete master list to use for checking when unpacking
+the Dunhuang material in London, nor did they all contain a site mark.60
+When Stein’s finds arrived in England in 1909, Andrews was employed by the India
+Office Library to unpack, sort and list them. Stein notes in July 1910 that 70-80 banners had
+been flattened.61 Most of the paintings required some basic conservation before they could be
+identified and catalogued. In many cases, pieces of paper or silk were discovered in scrunched-
+up balls or stuck together with other pieces, either deliberately —old textiles and paper being
+used for patching —or accidentally as a result of being squashed together in storage.
+Two sections of a catalogue of the paintings were compiled by the French scholar
+Raphael Petrucci (1872-1917) and published as Appendix E to Stein’s expedition report.62
+Laurence Binyon (1869-1943), Assistant-Keeper in charge of the Sub-Department of Oriental
+Prints and Manuscripts at the British Museum, and his assistant, Arthur Waley (1889-1966), took
+over this work after Petrucci’s early death. A list of all the identified paintings was prepared for
+the end of the chapter on Dunhuang, but the banner is not mentioned in this nor in the Appendix.
+Stein’s second expedition was funded jointly by the India Office and the British Museum,
+with the agreement that the finds would be divided: three-fifths to go to India and two-fifths to
+the British Museum. In 1918, the selection of those for India was packed into 67 crates and sent
+to the India Office in London for safekeeping during the war.
+63 Those for the British Museum
+were also packed for safe keeping and in 1919 were acquisitioned into the British Museum
+Page 16 of 27
+
+===== PAGE 17 =====
+collections.64 The others were shipped to India.65 The banner was not listed as among any of
+these either.
+However, this does not mean it was not from Stein’s second expedition. By no means had
+all of the material been conserved at this time and some remained in a state which conservators
+of the time did not feel able to tackle. Many of the original bundles are marked as having being
+returned from conservation in these early years as untreatable.66 So, it is possible that the
+painting was among the second expedition material kept at the British Museum in an unidentified
+state. Furthermore, material from Stein’s third expedition (1916–18) was sent to British India to
+be conserved, listed, and prepared for acquisition. Stein had acquired more material from
+Dunhuang on this expedition and while there is no evidence of paintings or banners among them,
+it is not impossible that some of the material included unconserved fragments such as the
+banner.
+67
+It is certain that this painting is not described in Stein’s published reports, nor in any of
+the unpublished lists and correspondence. This strongly suggests that it was not recognized at
+this time. This could be because it was either pasted on to the back of another painting or
+sandwiched between outer wrappers or remaining in a squashed bundle. It is also not impossible
+that it was among material that Andrews had at home. For a scholar to work on material at home
+was quite usual at this time, and items from the Stein collections were often sent to specialists in
+London and further afield. Andrews certainly worked on material at home, as is shown by later
+correspondence from Stein asking him to look for certain items.
+Could such an item have remained with Andrews and only later been unfolded to be
+revealed as an important painting? It is not farfetched to suggest that Andrews, with his
+background, familiarity with the material and knowledge of the conservation work, did this
+Page 17 of 27
+
+===== PAGE 18 =====
+himself. But then if he discovered this piece in such a way some time after the expeditions, why
+did he not inform Stein about it and ensure that it was returned to the collection? Or was it only
+discovered after Stein’s death? But then Andrews might have been expected to return it to the
+museum.68
+We cannot at present — and might never — be able to answer these questions. But it
+remains most probable that the banner was from the library cave at Dunhuang, acquired by Stein
+either in 1907 or during 1913-16 but then in a condition unrecognizable as a fine painting. It is
+possible that—still unrecognized—it accidentally remained in Andrews’ possession and only
+came to light after Stein’s death in 1943, and that Andrews either forgot about it or died before it
+could be unfolded. The subsequent arrival of the banner at the Metropolitan Museum of Art thus
+closes the circle on the intriguing journey of this important painted silk banner, from its initial
+production, its circulation within the cultural milieu of medieval silk road oasis cities, and
+finally, its acquisition in the early twentieth century to the present-day.
+Acknowledgments
+We gratefully acknowledge assistance and support from Kurt Behrendt, Minsun Hwang, Joseph
+Scheier-Dolberg, Pengliang Lu, and Niv Allon at the Metropolitan Museum of Art; Yu-ping Luk
+at the British Museum; Yoojin Choi and Ricarda Brosch at the Victoria and Albert Museum;
+Mélodie Doumy and Sam van Schaik at the British Library; and Allan Ding, Erika Forte, Amy
+Gansell, Ciro Lo Muzio, Megan Martinsen, Miki Morita, Wang Le, and Stuart Young.
+1 T982, T984, T985, T986, T987, T988. The various recensions bear slightly different titles but share in common a
+focus on Mahāmayūrī and the healing or apotropaic properties of his incantation (dhāraṇī or mantra).
+2 These are the translations by Śrīmitra (T986, T987) and Kumārajīva (T988). For studies of the Mahāmayūrī
+dhāraṇī sūtra, see Sørensen 2006, Des Jardins 2011, and Overbey 2016.
+3 T19.987.479a29-b3.
+4 T19.987.479b3-9
+5 T19.987.479b9-11; T19.988.483a27-29. This narrative framework appears in T987 and in the Kumārajīva
+translation (T988).
+Page 18 of 27
+
+===== PAGE 19 =====
+6 For example, a medicine bowl is one of the objects commonly wielded by the medicine Buddha Bhaiṣajyaguru in
+paintings and sculptures.
+7 Pandey and Pandey 1988, pp. 9-10.
+8 According to the ritual manual attributed to Amoghavajra, Ritual Commentary Spoken by the Buddha on the Altar
+of the Great Peacock Wisdom King’s Image (Foshuo Da kongque mingwang huaxiang tanchang yigui; T983A), the
+four-armed Mahāmayūrī is seated on a “golden peacock king” and holds peacock feathers in his second left hand;
+see T19.983A:440a4-10. Although Mahāmayūrī is represented in the Metropolitan Museum banner as a two-armed
+standing deity, the association with the peacock and peacock feathers remains consistent.
+9 T19.986.477c7-8.
+10 Mahāmayūrī was also associated with rain-making rituals and with Buddhist kingship. For images of
+Mahāmayūrī in Dunhuang and Sichuan, see Wang 1996, Hashimura 2011, and Wang forthcoming.
+11 See Copp 2014.
+12 Wang 2007, pp. 58-59. For hemp banners from Dunhuang, see Whitfield 1998.
+13 On non-human agency in Buddhist rituals, see Wang 2011 and Kim 2017.
+14 For a relevant passage from the Sūtra of the Revered and Victorious Dhāraṇī of the Buddha’s Uṣṇīṣa, see Copp
+2014, p. 146.
+15 Based on her reinterpretation of the mural painting on the south wall of Mogao Cave 217, Shimono Akiko argues
+that visual evidence exists for the practice of inscribing dhāraṇīs upon a cloth banner, and then hanging the banner
+from a tall structure; see Shimono 2004. For an important recent treatment of dhāraṇī pillars, see Liu 2008, in
+which the author argues for the multivalent associations of dhāraṇī pillars, stating that they functioned not only as
+vehicles for dhāraṇīs but also as stūpas.
+16 Huang and Wu 1995, p. 159. Thanks to Allan Ding for this reference.
+17 The double-sided Turfan banners are also discussed in Zaleski 2016, p. 83. Thanks to Mélodie Doumy for this
+reference.
+18 This technique is discussed in Zaleski 2016, p. 85.
+19 See Zhao 2007b, pp. 192-195.
+20 Double-faced weave silk fabrics are known from the silk routes, resulting in different colors and even different
+patterns on each side of the fabric. For an example, see Zhao 2007a, plate 124.
+21 For the archaeological report, consult Stein 1921, Volume 2, pp. 1073-1075.
+22 There are two Tibetan inscriptions on the verso, one of which is a rough transliteration of the deity’s name (ba ca
+ra pang ne). For the inscription, see Whitfield and Williams 2004, p. 210, plate 131.
+23 For the British Museum paintings, see Whitfield 1982–1985, Volume 1, pp. 333-334. For the National Museum
+of India paintings, see Chandra and Sharma 2012, pp. 221-223.
+24 Compare, for example, to the solid-colored textiles in “Banner with Avalokiteśvara,” Tang dynasty (618-907) or
+Guiyijun period (848–1036), ink and color on silk, 56.5 x 16.5 cm., British Museum, 1919,0101,0.124 (Ch.00113).
+Because of the striped textiles of the garments and the ill-defined musculature of the bodhisattvas, which are also
+present in mural paintings from Balawaste, located in the eastern part of the Khotan oasis in present-day Xinjiang
+Uygur Autonomous Region, Gerd Gropp has argued that they are Khotanese in origin; see Gropp 1974, p. 94.
+25 In the premodern connoisseurial literature, Khotanese painters such as Yuchi (Weichi) 尉迟 Yiseng 乙僧 (active
+second half of the seventh century) were known for their technique of chiaroscuro. For a synthesis of the relevant
+primary sources on Khotanese painters, see Nagahiro 1955, p. 73.
+26 Khotanese painting is said to reflect South Asian, Chinese, Sasanian, and Sogdian elements. See Williams 1973,
+pp. 110-111. It is worth noting that the unusual standing position of Mahāmayūrī, who is usually shown seated on a
+peacock mount, echoes sixth century Mahāmayūrī sculptures at Ellora in western India; see Malandra 1993, pp. 96-
+97. Malandra notes that Mahāmayūrī is paired with Bhṛkuṭī in Ellora Caves 6 and 8, which is unique to the site, and
+that there are no textual precedents for Mahāmayūrī’s appearance. Nevertheless, the standing posture is very
+common in representations of deities in painted banners, so this does not imply a direct connection but rather points
+toward two distinct treatments of the standing Mahāmayūrī.
+27 This way of writing Khotanese inscription on paintings is more common than when the writer writes the
+inscriptions vertically along the vertical direction of the painting, which is found in P.t.2222 in the Bibliothèque
+nationale de France. See Filigenzi and Maggi 2008.
+28 This name is not otherwise attested in Khotanese texts.
+29 For a similar inscription that begins with the date, see Stein 1921, vol. 2, p. 1012.
+30 Emmerick 1968, p. 145.
+31 See the examples in Bailey 1979, pp. 448–9.
+Page 19 of 27
+
+===== PAGE 20 =====
+32 Skjærvø 2002, p. 299.
+33 Olivelle 2013, p. 40. This is the title of the famous minister Yaśa for King Aśoka in the Khotanese legend of
+Aśoka. See Bailey 1951, pp. 40–4.
+34 Wen 2008, p. 124.
+35 For this dating of the Khotanese documents, see Zhang and Rong 2008, 70–105.
+36 Dresden 1955, p. 422.
+37 For this history, see Chavannes 1942, Maeda 1964, Beckwith 1993, and Drompp 2005.
+38 Rong and Zhu 2013, p. 110.
+39 Rong and Zhu 2013, pp. 151–70.
+40 This is particular true in Cave 98, which contains the largest donor image in all of Dunhuang caves, that of the
+Khotanese king.
+41 Kumamoto 1982. These envoys also left records in Chinese and Tibetan, in official letters, royal edicts, and
+notebooks. See Zhang and Rong 2008, pp. 1–14. For the Tibetan documents in particular, see Rong and Zhu 2013,
+pp. 375–412.
+42 For examples, for Dunhuang government’s provision of food to Khotanese envoys see S.1366 in Tang and Lu
+1986–1990, vol.3, p. 285; for a Dunhuang monastery’s provision of food to Khotanese envoys, see P.2642 in Tang
+and Lu 1986–1990, vol. 3, p. 209.
+43 In a tantalizing piece of evidence, of the 46 people living in Suo Liuzhu Lane in Dunhuang who were late in their
+payment of taxation in firewood, twelve were recorded as having traveled to Khotan. See Дх2149 in Tang and Lu
+1986–1990, vol. 2, p. 446.
+44 Kumamoto 1996.
+45 IOL Khot S. 21. Skjærvø 2002, pp. 522–4.
+46 P.2958. Bailey 1967, pp. 96–7.
+47 Bailey 1951, p. 44.
+48 P.2812. The Chinese text reads 捨異類之珍財。召丹青之巧匠。繪如來之鋪席，圖菩薩之真儀. See Zhang
+and Rong 2008, pp. 91–2.
+49 Chen 2014, pp. 244–7.
+50 Дx.2148(2)+ Дx.6069(1). See Zhang and Rong 2008, p. 293.
+51 Rong 1999–2000.
+52 For these inscribed paintings, see Stein 1921, vol. 2 p. 1012, Emmerick and Dudbridge 1978, Emmerick 1984,
+Filigenzi and Maggi 2008.
+53 Christie’s Sale, 15 May 2007, lot number 0171. https://www.christies.com/lotfinder/lot/an-extremely-rare-and-
+important-tang-dynasty-4905708-details.aspx?from=salesummery&intObjectID=4905708&sid=a341ca1a-466f-
+459f-95dc-95c674287c3a. See http://idp.bl.uk/archives/news_current/news_current.a4d#section5 for an initial
+account. (last accessed September 29, 2019)
+54 Although forgeries were produced later of such material, the fragmentary state of this piece, its distinctive subject
+matter and its sophistication all strongly suggest that this is not a forgery. See Cohen 2002, pp. 24-30 and Whitfield
+2002, pp. 96–102 for discussions.
+55 At least this is the impression from reading Stein on Andrews, along with Andrews’s dissatisfaction with most of
+his positions, although Andrews left a reasonable legacy.
+56 The British Museum Act of 1767 allowed the Trustees “to exchange, sell or dispose of any Duplicates of Printed
+Books….”. This was most probably behind the decision to exchange a Dunhuang blockprint from the Stein
+Dunhuang collection, 1919,0101,0.241 (Ch.00185.a), with an item from the Royal Ontario Museum in 1924
+(927.24).
+57 Stein 1921, pp. 801 ff.
+58 In the expedition report Stein says “I may note here that when the marking with serial numbers was made at the
+British Museum …” (1921, p. 814 n.2).
+59 Although most of the paintings seem to have been listed at this time.
+60 It is regrettable that the site mark, when given, was not always recorded in catalogues and databases of the
+material. IDP started recording this information on its database at the British Library but the work is still to be
+completed. However, from the work done, we can see that the site mark carries important information about the
+original storage of the manuscripts in the bundles in the cave, as suggested previously by Rong Xinjiang and others.
+These results will be published in a forthcoming article by Paschalia Terzi and Susan Whitfield.
+61 MSS. Stein 7/81-2. Aurel Stein to Percy Allen. Note that the material was not yet acquisitioned into any
+collection.
+62 Stein 1921, pp. 1392-1428, following by a short essay by Binyon (pp. 1428-1431).Page 20 of 27
+
+===== PAGE 21 =====
+63 An exception was made for the Kharoṣṭhī tablets, many due for India but which were still being catalogued.
+Permission was made for these to be kept unpacked at the British Museum so that the cataloguing could be
+completed.
+64 Hence the prefix to their museum reg. number, 1919.
+65 Now in the National Museum, New Delhi.
+66 For an example of the state of much of the material before conservation and the time-consuming work in
+flattening folded material, see the time-lapse video: https://www.youtube.com/watch?v=FIP3jMfZkY4
+67 They included manuscript scrolls and clay relief plaques acquired directly from Wang Yuanlu at the caves, as well
+as other rolls offered by sellers to Stein in the town and in other places en route. See Stein 1928, pp. 354–62 for a
+review of these. As Stein notes, this material was in good condition – indeed, Fujieda Akira suggested much of it
+consisted of forgeries (Fujieda 2002). But, more pertinent to the discussion here, it was not in a form that suggests a
+painting on silk could be hidden among it.
+68 It is, of course, also possible that it was discovered and unfolded after Andrews death by his family. On his death
+in 1957, apart from small bequests, his estate passed to his nephew, Richard Cuthbert Andrews, and his wife,
+Barbara.
+REFERENCES
+Primary Sources
+Amoghavajra (Bukong Jin’gang 不空金剛, 705–774), trans.
+Fomu da kongque mingwang jing 佛母大孔雀明王經 (Sūtra on the Buddha’s Mother, the Great
+Peacock Wisdom King. T19.982.
+Amoghavajra (Bukong Jin’gang 不空金剛, 705–774)
+Foshuo da kongque mingwang huaxiang tanchang yigui 佛說大孔雀明王畫像壇場儀軌 (The
+Ritual Commentary Spoken by the Buddha on the Altar of the Great Peacock Wisdom King’
+s
+Image). T19.983A.
+Bailey, H. W.
+Khotanese Buddhist Texts. London: Taylor's Foreign Press, 1951.
+Guo Shengbo 郭聲波, ed.
+Song huiyao jigao: Fanyi Dao-Shi 宋會要輯稿: 蕃夷道釋 (Collected Documents of the Song
+Dynasty: Barbarians, Daoists and Buddhists). Chengdu: Sichuan daxue chubanshe, 2010.
+Kumārajīva (Jiumoluoshi 鳩摩羅什, 344–413), trans.
+Kongquewang zhou jing 孔雀王呪經 (Sūtra of the Peacock King Mantra). T19.988.
+The Papers of Sir Marc Aurel Stein (1862–1943). Bodleian Library. Oxford. MSS. Stein.
+Papers Relating to Sir Marc Aurel Stein. Central Archives, British Museum, London. CE32/23
+and CE32/24.
+Saṇghabhara (460–524), trans.
+Kongquewang zhou jing 孔雀王呪經 (Sūtra of the Peacock King Mantra). T19.984.
+Page 21 of 27
+
+===== PAGE 22 =====
+Skjærvø, Prods O.
+Khotanese Manuscripts from Chinese Turkestan in the British Library: A Complete Catalogue
+with Texts and Translations. Corpus Inscriptionum Iranicarum; Pt. 2, v. 5, Texts 6. London:
+British Library, 2002.
+Śrīmitra (Boshilimiduoluo 帛尸梨蜜多羅, d. mid-fourth century), trans.
+Da jinse kongquewang zhou jing 大金色孔雀王呪經 (Sūtra of the Great Golden Peacock King
+Mantra). T19.986.
+Śrīmitra (Boshilimiduoluo 帛尸梨蜜多羅, d. mid-fourth century), trans.
+Foshuo da jinse kongquewang zhou jing 佛說大金色孔雀王呪經 (Sūtra Preached by the
+Buddha on the Great Golden Peacock King Mantra). T19.987.
+Tang Geng’ou 唐耕耦 and Lu Hongji 陸鴻基
+Dunhuang shehui jingji wenxian zhenji shilu 敦煌社會經濟文獻真跡釋錄 (Transcription and
+Intepretation of Social and Economic Documents from Dunhuang), 5 vols. Beijing: Shumu
+wenxian chubanshe, 1986–1990.
+Yijing 義淨 (635-713), trans.
+Foshuo da kongque zhou wang jing 佛說大孔雀呪王經 (Sūtra Preached by the Buddha on the
+Great Peacock, the King of Mantras). T19.985.
+Secondary Sources
+Andrews, Fred H.
+Press.
+1948 Wall Paintings From Ancient Shrines in Central Asia. London: Oxford University
+Bailey, H. W.
+1951 “The Staël-Holstein Miscellany.” Asia Major new series 2, pp. 1–45.
+1967 “Altun Khan.” Bulletin of the School of Oriental and African Studies 30.1, pp. 95–
+104.
+1979 Dictionary of Khotan Saka. Cambridge: Cambridge University Press.
+Beckwith, Christopher I.
+1993 The Tibetan Empire in Central Asia: A History of the Struggle for Great Power
+among Tibetans, Turks, Arabs, and Chinese during the Early Middle Ages. Princeton, NJ:
+Princeton University Press.
+Bhattacharya-Haesner, Chayya
+2003 Central Asian Temple Banners in the Turfan Collection of the Museum für Indische
+Kunst, Berlin: Painted Textiles from the Northern Silk Route. Berlin: Reimer.
+Chandra, Lokesh and Nirmala Sharma
+2012 Buddhist Paintings of Tun-Huang in the National Museum, New Delhi. New Delhi:
+Page 22 of 27
+
+===== PAGE 23 =====
+Niyogi Books.
+Chavannes, Édouard
+1942 Documents sur les Tou-Kiue (Turcs) occidentaux, Recueillis et commentés, suivi de
+notes additionnelles. Paris: Adrien-Maisonneuve.
+Chen Suyu 陳粟裕
+2014 Cong Yutian dao Dunhuang: yi Tang Song shiqi tuxiang de dongchuan wei
+zhongxin 從于闐到敦煌：以唐宋時期圖像的東傳為中心 (From Khotan to Dunhuang:
+Focusing on the Eastern Dissemination of Images in the Tang and Song periods). Beijing:
+Fangzhi chubanshe.
+Cohen, Monique
+2002 “Genuine or Fake?” In Dunhuang Manuscript Forgeries, edited by Susan
+Whitfield, pp. 22–32. London: The British Library.
+Copp. Paul F.
+2014 The Body Incantatory: Spells and the Ritual Imagination in Medieval Chinese
+Buddhism. New York: Columbia University Press.
+Des Jardins, J.F. Marc
+2011 Le sūtra de la Mahāmāyūrī: rituel et politique dans la Chine de Tang (618-907).
+Quebec City: Presses de l'Université Laval.
+Dresden, Mark
+1955 “Jātakastava or ‘Praise of the Buddha’s Former Births’.” Transactions of the
+American Philosophical Society NS 45.5, pp. 397–508.
+Drompp, Michael Robert
+2005 Tang China and the Collapse of the Uighur Empire: A Documentary History,
+Brill’s Inner Asian Library; v. 13. Leiden; Boston: Brill.
+Emmerick, R. E.
+1968 Saka Grammatical Studies. London: Oxford University Press.
+1984 “Cā tteya khi in the Museé Guimet.” Studia Iranica 13.2, pp. 251–2 + pl.xvi.
+Emmerick R. E. and Glen Dudbridge
+1978 “Pelliot tibétain 0821.” Studia Iranica 7.2, pp. 283–5, pl. xv.
+Fenet, Annick, Helen Wang, and Susan Whitfield, eds.
+2020 La correspondance francophone d'Aurel Stein / The Aurel Stein French-speaking
+correspondence. Paris: Hermann.
+Filigenzi, Anna and Mauro Maggi
+2008 “Pelliot tibétain 2222: a Dunhuang Painting with a Khotanese Inscription.” Journal
+of Inner Asian Art and Archaeology 3, pp. 83–9.Page 23 of 27
+
+===== PAGE 24 =====
+Forte, Erika
+2014 “On a Wall Painting from Toplukdong Site No. 1 in Domoko: New Evidence of
+Vaiśravaṇa in Khotan?” In Changing Forms and Cultural Identity: Religious and
+Secular Iconographies. Vol. 1, Papers from the 20th conference of the European
+Association for South Asian Archaeology and Art held in Vienna from 4th to 9th of July
+2010, edited by Deborah Klimburg-Salter and Linda Lojda, pp. 215-224, 243. Turnhout:
+Brepols Publishers.
+Fujieda Akira
+2002 “Chronological Classification of Dunhuang Buddhist Manuscripts.” In Dunhuang
+Manuscript Forgeries, edited by Susan Whitfield, pp. 103–114. London: The British
+Library.
+Gropp, Gerd
+1974 Archäologische Funde aus Khotan Chinesisch-Ostturkestan: die Trinkler-
+Sammlung im Übersee-Museum, Bremen. Bremen: Röver.
+Hashimura Aiko 橋村爱子
+2011 “Tonkō Bakkōkutsu oyobi Anzai Yurinkutsu no Kujaku myōō (Mahāmayūrī) ni
+tsuite - Kigigun setsudoshi Sōshi ni yoru mikkyō juyō no ichi danmen 敦煌莫高窟及び
+安西楡林窟の孔雀明王 (Mahāmayūrī)について- 帰義軍節度使曹氏による密教受容
+の一断面” (Regarding Mahāmayūrī in the Mogao and Yulin Caves - One Section of
+Esoteric Buddhist Content under the Cao Clan of the Guiyijun Military Commanders).
+Nagoya daigaku daigakuin bungaku kenkyūka bigaku bijutsushi kenkyūshitsu 名古屋大
+学大学院文学研究科美学美術史研究室 25, pp. 27-54.
+Huang Zheng 黄徴 and Wu Wei 吴偉, eds.
+1995 Dunhuang yuanwenji 敦煌願文集 (Collected Dunhuang Prayer Texts). Changsha:
+Yuelu shushe.
+Kim, Youn-mi
+2017 “Buddhist Ontology and Miniaturization: Enacting Ritual with Nonhuman
+Agency.” International Journal of Buddhist Thought and Culture 27, no. 2, pp. 39-69.
+Kumamoto Hiroshi 熊本裕
+1982 “Khotanese Official Documents in the Tenth Century A.D.” PhD diss., University
+of Pennsylvania.
+1996 “The Khotanese in Dunhuang.” in Cina e Iran de Alessandro Magno alla dinastia
+Tang, edited by A. Cadonna and L. Lanciotte. Florence: Leo S. Olschki Editore, pp. 79–
+101.
+Liu Shufen 劉淑芬
+2008 Miezui yu duwang: Foding zunsheng tuoluoni jingchuang zhi yanjiu 滅罪與度亡:
+佛頂尊勝陀羅尼經幢之研究 (Expiating Sins and Death: Study of Uṣṇīṣavijayā DhāraṇīPage 24 of 27
+
+===== PAGE 25 =====
+Pillars). Shanghai: Shanghai guji chubanshe.
+Maeda Masana 前田正名
+1964 Kasei no rekishi-chirigakuteki kenkyū 河西の歴史地理学的研究 (A Study of the
+Historical Geography of the Hexi Region). Tōkyō: Yoshikawa Kōbunkan.
+Malandra, Geri H.
+1993 Unfolding a Maṇḍala: The Buddhist Cave Temples at Ellora. Albany, NY: State
+University of New York Press.
+Mirsky, Jeanette
+1998 Sir Aurel Stein: Archaeological Explorer. Chicago and London: University of
+Chicago Press.
+Morita, Miki
+20, pp.115–132.
+2015 “The Kizil Paintings in the Metropolitan Museum.” Metropolitan Museum Journal
+Nagahiro, Toshio
+pp. 70-74.
+1955 “On Wei-ch’ih I-seng: A Painter of the Early T’ang Dynasty.” Oriental Art 1, no. 2,
+Olivelle, Patrick
+2013 King, Governance, and Law in Ancient India: Kautilya's Arthasastra. New York:
+Oxford University Press.
+O’Neale, Lila M. and Dorothy F. Durrell
+1945 “An Analysis of the Central Asian Silks Excavated by Sir Aurel Stein.”
+Southwestern Journal of Anthropology 1, no. 3, pp. 392-446.
+Overbey, Ryan Richard
+2016. “Vicissitudes of Text and Rite in the Great Peahen Queen of Spells.” In Tantric
+Traditions in Transmission and Translation, edited by David B. Gray and Ryan Richard
+Overbey, pp. 257-283. New York, NY: Oxford University Press.
+Pandey, V.N. and Ayodhya Pandey
+1988 “A Study of the Nāvanītaka: The Bower Manuscript.” Bulletin of the Indian
+Institute of History of Medicine 18, pp. 1-46.
+Rong Xinjiang
+1999–2000 “The Nature of the Dunhuang Library Cave and the Reasons of Its Sealing.”
+Cahiers d’Extreme-Asie 11, pp. 247–75.
+2007 “Ye Changchi: Pioneer of Dunhuang Studies.” IDP News 7, pp. 2-3.
+Rong Xinjiang 榮新江 and Zhu Lishuang 朱麗雙
+2013 Yutian yu Dunhuang 于闐與敦煌 (Khotan and Dunhuang). Lanzhou: Gansu jiaoyu
+chubanshe.
+Page 25 of 27
+
+===== PAGE 26 =====
+Shimono Akiko 下野玲子
+2004 “Tonkō Bakukōkutsu dai 217 kutsu nanheki kyōhen no shin kaishaku” 敦煌莫高窟
+第二一七窟南壁經變の新解釋 (A New Interpretation of the Painting on the South
+Wall of Mogao Cave 217 at Dunhuang). Bijutsushi 美術史 54, no. 1, pp. 96–115.
+Sørensen Henrik H.
+2006 “The Spell of the Great, Golden Peacock Queen: The Origin, Practices, and Lore of
+an Early Esoteric Buddhist Tradition in China.” Pacific World third series 8, pp. 89-123.
+Stein, Marc Aurel
+1907 Ancient Khotan. Oxford: The Clarendon Press.
+1921 Serindia: Detailed Report of Explorations in Central Asia and Westernmost China,
+5 vols. Oxford: Clarendon Press.
+1928 Innermost Asia. Oxford: The Clarendon Press.
+Wang, Eugene
+2011 “Ritual Practice without Its Practitioner?: Early Eleventh Century Dhāraṇī Prints in
+the Ruiguangsi Pagoda.” Cahiers d’Extrême-Asie 20, pp. 127-162
+Wang, Helen
+1998 “Stein's Recording Angel – Miss F. M. G. Lorimer.” Journal of the Royal Asiatic
+Society 8, no. 2, pp. 207-228. doi:10.1017/S1356186300009986
+Wang Huimin 王惠民
+1996 “Lun «Kongque mingwang jing» jiqi zai Dunhuang, Dazude liuchuan 论«孔雀明王
+经»及其在敦煌大足的流传” (Discussing the Mahāmayūrī Sūtra and its Circulation in
+Dunhuang and Sichuan). Dunhuang yanjiu 敦煌研究 1996.4, pp. 37-47.
+Wang Le
+2007 “Banners.” In Textiles from Dunhuang in UK Collections, edited by Zhao Feng,
+pp. 58-91. Shanghai: Donghua University Press.
+Wang, Michelle C.
+Forthcoming “Birds of a Feather: Mahāmayūrī between Khotan and Dunhuang.” From
+the Book to the Silk Road(s), edited by Michelle C. Wang and Ryan Richard Overbey.
+Wen Xin 文欣
+2008 “Yutian guo guanhao kao” 于闐國官號考 (A Study on Official Titles in the
+Kingdom of Khotan). Dunhuang Tulufan yanjiu 敦煌吐魯番研究 (Dunhuang and Turfan
+Studies) 11, pp. 121–46.
+Whitfield, Roderick
+1982-1985 Art of Central Asia: The Stein Collection in the British Museum, 3 vols.
+Tokyo: Kodansha International, in cooperation with the Trustees of the British Museum.Page 26 of 27
+
+===== PAGE 27 =====
+1998 “Four Unpublished Paintings from Dunhuang in the Oriental Collections of the
+British Library.” The British Library Journal 24, no. 1, pp. 90-97.
+2002 “Forgeries and Dunhuang Paintings.” In Dunhuang Manuscript Forgeries, edited
+by Susan Whitfield, pp. 96–102. London: The British Library.
+Whitfield, Susan, ed.
+2002 Dunhuang Manuscript Forgeries. London: The British Library.
+Whitfield, Susan and Ursula Sims Williams, eds.
+2004 The Silk Road: Trade, Travel, War, and Faith. London: British Library.
+Williams, Joanna
+1973 “The Iconography of Khotanese Painting.” East and West 23, nos. 1-2, pp. 109-154.
+Yetts, W. Perceval
+315-316.
+1924 “Messrs. Yamanaka and Co.” Burlington Magazine for Connoisseurs 45.261, pp.
+Zaleski, Valerie
+2016 “On a Silk Banner in the Musée Guimet: A Chinese Contribution to the Service of
+Buddhist Devotion in the Oasis of Dunhuang.” Orientations 47, no. 4, pp. 82-88.
+Zhang Guangda 張廣達 and Rong Xinjiang 榮新江
+2008 Yutianshi congkao 于闐史叢考 (Collected Essays on the History of Khotan). 2nd
+ed. Beijing: Zhongguo renmin daxue chubanshe.
+Zhao Feng
+2007a Textiles from Dunhuang in UK Collections, edited by Zhao Feng. Shanghai:
+Donghua University Press.
+2007b “Clamp-resist dyed silk.” In Textiles from Dunhuang in UK Collections, edited
+By Zhao Feng, 192-213. Shanghai: Donghua University Press.
+Page 27 of 27

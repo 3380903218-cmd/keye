@@ -1,0 +1,99 @@
+{
+  "delivery": "editable reference-inspired portrait exhibition candidate",
+  "client_date": "2026-10-12",
+  "timezone": "Asia/Singapore",
+  "language": "English only; no NUS or HY5305 on the poster",
+  "content_authority": {
+    "path": "project abstract.docx",
+    "sha256": "ba54557f85f933870dfdbdbf7e4e317242e44f1c3fa9c975a17c721d418ce54d"
+  },
+  "previous_revision": {
+    "path": "海报制作源文件/archive/flow_before_gold_and_large_text_2026-10-12",
+    "validation_sha256": "a4876b65c1c22b7d7f7509fb75ea86a390841ab5d4e65e878431578f2762019b",
+    "files": "byte-for-byte baseline backups; archived hashes verified"
+  },
+  "reference": "user-supplied China in Light of Hanzi poster; composition and atmosphere only",
+  "accepted_steering": [
+    "A1 portrait",
+    "staggered complete non-overlapping objects",
+    "organiser information replaced with concise object introductions stressing global exchange",
+    "red-brown field instead of blue-green; original image colours preserved",
+    "retain accepted portrait composition",
+    "enlarge object names, accounts, dates and secondary text",
+    "add gold Chinese-inspired ruyi cloud and water-wave vector ornaments inside the red-brown flow"
+  ],
+  "title": "Porcelain in Translation",
+  "size_mm": [
+    594,
+    841
+  ],
+  "slides": 1,
+  "editable_shapes": 90,
+  "design": "Accepted portrait flow retained; names 26 pt, body 24 pt, dates 20 pt; 10 stylised ruyi clouds and three layered wave lines; all original photographs preserved",
+  "content_review": "pass: three objects, Qing agency, copper-red revival, European enamel knowledge and armorial commissions retained from abstract; no fabricated organiser or plate attribution",
+  "content_parity": "pass: PPTX and SVG strings match; display copy identical to archived baseline",
+  "package": "pass: ZIP/XML, internal relationships, original image bytes, canvas bounds",
+  "text_width_checks": 42,
+  "text_width_pass": true,
+  "photo_pair_checks": [
+    {
+      "objects": [
+        "01 — Langyao red Guanyin vase",
+        "02 — Imperial falangcai bowl, high-resolution original"
+      ],
+      "overlap": false
+    },
+    {
+      "objects": [
+        "01 — Langyao red Guanyin vase",
+        "03 — Chinese armorial export plate"
+      ],
+      "overlap": false
+    },
+    {
+      "objects": [
+        "02 — Imperial falangcai bowl, high-resolution original",
+        "03 — Chinese armorial export plate"
+      ],
+      "overlap": false
+    }
+  ],
+  "foreground_photo_occlusion": "pass: all native photo frames separated and clear of text, numbered keys and diagrams",
+  "palette_check": "pass: red-brown vectors present; prior blue-green vector colours absent",
+  "svg_visual_inspection": "pass: new A1 whole-page proof after the last save; larger readable text, balanced gold motifs, complete photos and shield, labels, exchange network and references",
+  "pptx_native_render": "unavailable; native application display remains unverified; current SVG provides the inspected visual reference",
+  "media_provenance": {
+    "ppt/media/image2.jpg": "海报制作源文件/assets/falangcai_bowl_highres.jpg",
+    "ppt/media/image3.png": "文物图片/微信图片_20260910154121_63_71.png",
+    "ppt/media/image1.png": "文物图片/微信图片_20260910150741_59_71.png"
+  },
+  "files": {
+    "Porcelain_in_Translation_Flow_A1_Portrait.pptx": {
+      "bytes": 2883557,
+      "sha256": "5da9181cf185daafb1a77fe99db1936cf57f0fcf4a16a81ada12ebc5ee5431d8"
+    },
+    "Porcelain_in_Translation_Flow_A1_Portrait.svg": {
+      "bytes": 4409100,
+      "sha256": "7c5f6b8fb95dddf52125363202d5abd21f3aebc6ea1aa3fb8ba0c9be6a663b5b"
+    },
+    "参考风格竖版说明.md": {
+      "bytes": 6001,
+      "sha256": "9481c57cf56357df9ec464c2ec2c27da1f3c94b5a44ba59f500cc231c400cbcb"
+    }
+  },
+  "build_script_sha256": "c4df64e8c847fe3e8bf23acedb187339e61940781d515aba085cbdc4c57bff7a",
+  "proof_pdf_sha256": "c6cff38596f79edb5dd75e4b9d742f724e4fe519c732e6e0624aa4935f628de0",
+  "font_check": {
+    "object_names_pt": 26,
+    "object_accounts_pt": 24,
+    "dates_pt": 20,
+    "world_keys_pt": 22.5
+  },
+  "ornaments": {
+    "cloud_groups": 10,
+    "layered_wave_lines": 3,
+    "placement_checks": 13,
+    "method": "sampled native source curves inside flow with 0.8 mm edge clearance and 3 mm content exclusion margin",
+    "checks_sha256": "2735784de3aad256162268abeca79ab91a0bdc3414f972c166d40e5de4329c1f"
+  }
+}

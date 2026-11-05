@@ -1,0 +1,1041 @@
+
+
+===== PDF PAGE 1 =====
+
+Bilingual Translation / 双语译⽂                                                    
+Source / 来源: Salmi - 3 Mapping and Viewing History.pdf                          
+Format / 格式: English original block followed by Chinese translation block.      
+                                                                                
+==============================================================================  
+English Original - Page 1                                                       
+------------------------------------------------------------------------------  
+recent guidebooks have paved the way for this by spreading knowledge and knowhow
+ on                                                                             
+useful methodologies and the necessary computational diagrams behind them." As a
+lready                                                                          
+pointed out in this chapter, the dominating role of textual sources in the digit
+al                                                                              
+humanities faces growing criticism, much as it does in digital history. Before h
+aving a                                                                         
+closer look at visual and audio-visual materials in the next chapter, it is wort
+h                                                                               
+recalling that the supposed duality between textuality and visuality is quite mi
+sleading                                                                        
+and should not be taken too strictly. Texts include images and vice versa. Today
+,                                                                               
+Internet texts often include both sound and visuals. And, moreover, both texts a
+nd                                                                              
+images can be considered as material remains of the past. Text is not an abstrac
+t order                                                                         
+of characters but is always, to draw on Bruno Latour's idea, inscribed on materi
+al                                                                              
+objects, on stone or marble, on paper or hard drives."' Texts are material entit
+ies that                                                                        
+have dimensions: printed texts manifest themselves, for example, as folios and o
+ctavos,                                                                         
+as broadsheets and tabloids.                                                    
+When considering texts as big data, metatext must seriously be taken into accoun
+t, since                                                                        
+it offers access to the material dimensions of the texts at hand. Metadata has r
+ecently                                                                         
+been successfully used in the study of book history, in which it is vital to com
+prehend                                                                         
+how books circulated as concrete artefacts in the past.101 In the future, these 
+material                                                                        
+ramifications might be avenues for bringing the quantifiable data of texts more 
+closely                                                                         
+together with the study of their contents and, thus, their impacts on the imagin
+ations                                                                          
+of readers.                                                                     
+3 Mapping and Viewing History In the early stages of digital history, in the 199
+0s, maps                                                                        
+were of particular interest, perhaps more so than the textual materials discusse
+d in the                                                                        
+previous chapter, because large-scale digitization projects had only recently be
+gun. At                                                                         
+the University of Virginia in 1993, William G. Thomas and Edward L. Ayers starte
+d a                                                                             
+project on the US Civil War, entitled The Valley of the Shadow, that brought tog
+ether                                                                           
+the experiences of Confederate and Union soldiers. It published historical docum
+ents                                                                            
+online, including letters, diaries, images, newspapers, church records, census r
+ecords,                                                                         
+tax records, statistics — and maps. The pre-war material, for example, included 
+maps                                                                            
+pertaining to geography, infrastructure, agriculture, politics, religion and sla
+
+===== PDF PAGE 2 =====
+
+very in                                                                         
+the selected counties (Augusta in Virginia and Franklin in Pennsylvania).       
+These were not merely digitized pre-existing visualizations but also an integral
+ part of                                                                        
+the project, produced for online use by the project members.' Visual sources hav
+e been                                                                          
+at the heart of digital history from the start, and maps have been an essential 
+ingredient in visualizing archival data and establishing points for comparison. 
+The                                                                             
+following chapter continues by discussing maps further as sources and historical
+interpretations, fuelled by the so-called spatial turn. The chapter proceeds by 
+selecting three other themes under discussion, the increased role of visual sour
+ces,                                                                            
+including the idea of distant viewing,                                          
+                                                                                
+中⽂译⽂ - 第 1 ⻚                                                                    
+------------------------------------------------------------------------------  
+近年的指南书已经通过传播有⽤⽅法和必要计算流程⽅⾯的知识与操作经验，为这⼀领域铺平了                                      
+道路。正如上⼀章所指出的，⽂本性资料在数字⼈⽂学和数字史中的主导地位正在受到越来越多                                      
+的批评。在进⼀步考察视觉和视听材料之前，有必要提醒⾃⼰：⽂本性与视觉性之间所谓的⼆分                                      
+其实很容易误导⼈，不能过分严格地理解。⽂本可以包含图像，图像也可以包含⽂本；今天的互                                      
+联⽹⽂本还经常同时包含声⾳和视觉元素。⽂本和图像同样都可以被视为过去遗留下来的物质痕                                      
+迹。⽂本不是抽象的字符秩序，⽽总是铭写在⽯头、⼤理⽯、纸张或硬盘等物质载体之上。⽂本                                      
+也是有尺⼨和形态的物质实体，例如印刷⽂本会以对开本、⼋开本、⼤开报纸或⼩报等形式出现                                      
+。把⽂本作为⼤数据来处理时，元⽂本也必须被认真纳⼊考虑，因为它提供了通往⽂本物质维度                                      
+的路径。元数据近来已被成功⽤于书籍史研究，帮助研究者理解书籍作为具体物品在过去如何流                                      
+通。未来，这些物质层⾯的影响也许能把⽂本的可量化数据与⽂本内容及其对读者想象⼒的影响                                      
+更紧密地联系起来。本章随后进⼊“地图与观看历史”。在20世纪90年代数字史早期阶段，                                      
+地图尤其受到关注，甚⾄可能⽐上⼀章讨论的⽂本材料更受重视，因为⼤规模数字化⼯程当时才                                      
+刚刚开始。1993年，弗吉尼亚⼤学的 William G. Thomas 和                                          
+Edward L. Ayers 开始了关于美国内战的 The Valley of                                        
+the Shadow 项⽬，把邦联与联邦⼠兵的经验汇集起来。该项⽬在线发布信件、⽇记                                      
+、图像、报纸、教会记录、⼈⼝普查记录、税务记录、统计资料以及地图。战前材料中包含有关                                      
+地理、基础设施、农业、政治、宗教和奴⾪制的地图，覆盖弗吉尼亚的 Augusta                                         
+县和宾夕法尼亚的 Franklin 县。这些地图并不只是对既有可视化材料的数字化复制                                      
+，也是项⽬成员为⽹络使⽤⽽制作的核⼼组成部分。视觉资料从⼀开始就是数字史的核⼼，地图                                      
+则是可视化档案数据和建⽴⽐较点的重要⼯具。本章接下来讨论地图作为史料和历史解释，并以                                      
+所谓“空间转向”为背景，进⼀步讨论视觉资料作⽤的提升、远观、视听资料的多模态分析以及                                      
+元数据对于视觉史和视听史的可能性。                                                               
+                                                                                
+==============================================================================  
+English Original - Page 2                                                       
+------------------------------------------------------------------------------  
+recent developments in the multimodal analysis of audio-visual sources and the  
+possibilities of metadata for visual and audio-visual history.                  
+Maps as digital sources Historians have always emphasized the meaning of space a
+nd                                                                              
+spatiality. In the study of the past, where has been as important as when. This 
+involves, for example, locations                                                
+(such as cities and villages), natural landmarks (such as rivers, mountains or s
+eas) and                                                                        
+both natural and political borderlines.                                         
+In addition to maps, spatiality has also been studied through an array of source
+s, from                                                                         
+architectural plans and landscape images to verbal descriptions in travel accoun
+ts and                                                                          
+fiction.                                                                        
+Historians have also theorized on the significance of space, as demonstrated in 
+Frederick Jackson Turner's famous essay                                         
+`The significance of the frontier in American history' (1893) and Fernand Braude
+l's                                                                             
+classic The Mediterranean and the Mediterranean World in the Age of Philip II (1
+
+===== PDF PAGE 3 =====
+
+949).                                                                           
+The so-called spatial turn in the humanities and social sciences had its roots i
+n this                                                                          
+enduring interest in spaces and places,' but in the 1990s it really entered the 
+scholarly discourse. According to Doris Bachmann-Medick, this development was in
+spired                                                                          
+by the end of the Cold War at the turn of the 1980s and 1990s; with the end of t
+he                                                                              
+political polarity of Eastern and Western blocs, a need arose to map the reorgan
+ization                                                                         
+of the global order, to go beyond previous security strategies and to understand
+ how                                                                            
+transnational flows would change the way the world was imagined. Edward W. Soj''
+s                                                                               
+Postmodern Geographies was a groundbreaking volume in 1989, followed by his Thir
+dspace                                                                          
+in 1996. Soon, the spatial turn embraced several fields of study, including     
+anthropology, archaeology, geography, gender studies and history.' For the digit
+al                                                                              
+historian, it is important to be aware of these backgrounds, but of course spati
+ality                                                                           
+and its digital research methods are strongly linked to the development of geosp
+atial                                                                           
+information that has emerged at the same time as a result of multidisciplinary  
+collaboration.                                                                  
+The digitization of historical sources described in chapter 1 has also included 
+maps.                                                                           
+Today, many national and international collections of digitized maps enable thei
+r study                                                                         
+using both computational tools and more traditional methods.' For example, the R
+oyal                                                                            
+Library of Denmark had already begun scanning its map collection in 1997. At fir
+st, the                                                                         
+idea was to make index maps to demonstrate the holdings and increase the usabili
+ty of                                                                           
+the collection. Another motivation was the challenge presented by oversized maps
+ that                                                                           
+were difficult to handle, and, of course, preservation concerns were also paramo
+unt                                                                             
+because the use of digital copies would allow the originals to remain untouched.
+Since 2003, the library has offered rare maps through the Internet.' The Nationa
+l                                                                               
+Library of Argentina now has 1,122 downloadable historical maps on its website, 
+and the                                                                         
+digital collection features not only older maps but also a substantial amount of
+material from the twentieth century.' One of the largest current collections of 
+historical maps, plans and views, comprising 4.5 million items, is located at th
+e                                                                               
+British Library.                                                                
+It includes not only scanned maps but also geospatial data, cartographic applica
+tions                                                                           
+and digital aerial photographs, and it features both digitized and born-digital 
+content.' The chronological range of the collection is over 2,000 years, and its
+ size is                                                                        
+suggested by the example of the King George III Topographical and Maritime colle
+ction,                                                                          
+which alone includes `30-40,000 maps, plans and views, both printed and hand-dra
+wn, of                                                                          
+all parts of the world'.9 Not all maps are two-dimensional, however, and the Bri
+tish                                                                            
+Library also holds hundreds of terrestrial and celestial globes, which are three
+-                                                                               
+
+===== PDF PAGE 4 =====
+
+dimensional material artefacts.10 As sources, maps are layered cultural artefact
+s that                                                                          
+include numbers, texts, symbols and images. Historical research draws on these s
+ources,                                                                         
+which can be objects of careful close reading and iconographic analysis or can b
+e used                                                                          
+for more distant reading via the computational study of visual concepts or textu
+al                                                                              
+content. Maps can be described as representations of the physical world, but the
+y also                                                                          
+construct the world as we know it. Historical maps must always be understood in 
+the                                                                             
+context of the practices that originally contributed to their production, includ
+ing the                                                                         
+ways of measuring and representing distances and the strategies for aggregating 
+data for                                                                        
+maps; of course, the motives and uses of maps also influence the interpretation 
+of these                                                                        
+documents.                                                                      
+                                                                                
+中⽂译⽂ - 第 2 ⻚                                                                    
+------------------------------------------------------------------------------  
+地图作为数字史料。历史学家⼀向重视空间和空间性；在研究过去时，“何地”常常与“何时”                                      
+同样重要。这包括城市和村庄等地点，河流、⼭脉、海洋等⾃然地标，以及⾃然边界和政治边界                                      
+。除了地图之外，空间性还可以通过多种资料研究，如建筑图、⻛景图像、游记和⼩说中的⽂字                                      
+描述。历史学家也对空间的重要性进⾏过理论化阐释，例如 Frederick                                            
+Jackson Turner 的《美国历史中边疆的重要性》和 Braudel 的《菲                                      
+利普⼆世时代的地中海和地中海世界》。⼈⽂与社会科学中的“空间转向”根植于这种对空间和                                      
+地点的⻓期兴趣，但它在20世纪90年代真正进⼊学术话语。Doris                                               
+Bachmann-Medick 认为，这⼀发展受到冷战结束的启发：东⻄⽅集团的政治两                                      
+极格局瓦解后，⼈们需要重新描绘全球秩序，超越旧的安全战略，并理解跨国流动如何改变世界                                      
+想象。Edward W. Soja 的 Postmodern Geographies                                      
+和 Thirdspace 是重要著作。空间转向很快影响了⼈类学、考古学、地理学、性别                                      
+研究和历史学等领域。对数字历史学家来说，了解这些背景很重要，同时空间性及其数字研究⽅                                      
+法也与地理空间信息的发展紧密相连，⽽这种发展本身就是跨学科合作的结果。第⼀章所说的历                                      
+史资料数字化也包括地图。今天，许多国家和国际地图馆藏都已数字化，研究者可以⽤计算⼯具                                      
+和传统⽅法研究它们。丹⻨皇家图书馆早在1997年就开始扫描地图；起初是为了制作索引图                                      
+，展示馆藏并提⾼可⽤性，同时也出于处理超⼤地图和保护原件的需要。阿根廷国家图书馆提供                                      
+了可下载的历史地图，英国图书馆拥有规模巨⼤的历史地图、平⾯图和景观图收藏，并包括扫描                                      
+地图、地理空间数据、制图应⽤、数字航拍照⽚以及数字化和数字原⽣内容。地图作为史料，是                                      
+包含数字、⽂本、符号和图像的多层⽂化物。它们既可以被细读和图像志分析，也可以通过计算                                      
+⽅法对视觉概念或⽂字内容进⾏较远距离的研究。地图可以说是物理世界的再现，但同时也建构                                      
+了我们所认识的世界。因此，历史地图必须放回产⽣它们的实践语境中理解，包括测量和表现距                                      
+离的⽅式、把数据聚合成地图的策略，以及地图的动机和⽤途。                                                    
+                                                                                
+==============================================================================  
+English Original - Page 3                                                       
+------------------------------------------------------------------------------  
+Maps possess a strong representational character as they usually try to capture 
+the                                                                             
+three-dimensional world in only two dimensions. In Exploring Big Historical Data
+, Shawn                                                                         
+Graham, Ian Milligan and Scott Weingart point out that                          
+`these seemingly straightforward representations are loaded with difficult choic
+es, as                                                                          
+laying two-dimensional coordinates onto a 3D world means making complicated choi
+ces                                                                             
+around what map projection to use'." They note, for example, that, in the Mercat
+or                                                                              
+projection that underlies Google Maps, Greenland looks almost as big as Africa, 
+although                                                                        
+Africa is, in reality, fourteen times larger.12 Present-day projections differ i
+
+===== PDF PAGE 5 =====
+
+n how                                                                           
+they address the problem of 2D/3D conversion, and many other factors influenced 
+how old                                                                         
+maps projected the physical world. In the past, maps also represented a realm of
+imagination, and their environmental features, such as coastlines and riverbeds,
+ may                                                                            
+have transformed over time, so it is not always possible to reduce historical ma
+ps to                                                                           
+the topographical world. The researcher must estimate the possibility of matchin
+g a                                                                             
+historical map with a modern one and determine whether this serves the purpose o
+f the                                                                           
+scholarly task. If so, the next step is trying to identify the points on the his
+torical                                                                         
+map that correspond to latitudes and longitudes in the present-day reference map
+ (a                                                                             
+process called georectification). Since the 1980s, geographical information syst
+ems                                                                             
+(GIS) have provided tools for managing geographical information. GIS makes it po
+ssible                                                                          
+to draw on historical maps by extracting their information and analysing them in
+comparison with other GIS data and data sets.13 The New York Public Library's co
+llection                                                                        
+of over 11,000 georectified historical maps is openly accessible to users.14 Map
+s as                                                                            
+historical interpretations The use of historical maps (and in fact any source) d
+epends                                                                          
+on the research problem. Sometimes, georectification is not an option, for examp
+le in                                                                           
+the case when no actual historical map is available. Other possible sources of  
+topographical and geographical information can be further processed into a digit
+al map,                                                                         
+presenting a historical interpretation.                                         
+The historian Harri Kiiskinen drew on GIS in his study of the production and tra
+de of                                                                           
+terra sigillata pottery in Roman Etruria. To understand the trading routes, he t
+ried to                                                                         
+determine which rivers in Etruria were navigable at the time,                   
+2,000 years ago. In addition to archaeological and historical evidence, this wor
+k used a                                                                        
+digital terrain model based on topographic data from NASA's Shuttle Radar Topogr
+aphy                                                                            
+Mission. As a result, Kiiskinen was able to draw a map that reconstructed the ri
+ver                                                                             
+network in Etruria.15 Here, the digital map serves research purposes and express
+es an                                                                           
+important historical argument.                                                  
+Maps had already been used to visualize big historical data before the era of GI
+S and                                                                           
+the digital humanities. An excellent reminder of this is the production of Charl
+es-                                                                             
+Joseph Minard                                                                   
+(1781-1870), a French civil engineer who won fame for his informational graphics
+ and                                                                            
+maps.16 His most well-known map, from 1869, describes Napoleon's Russian campaig
+n of                                                                            
+1812. There is a geographic orientation in the image of the direction of the cam
+paign,                                                                          
+but the map incorporates many other elements of information, from the number of 
+troops                                                                          
+to the temperature." The map clearly shows how Napoleon's army suffered during i
+ts march                                                                        
+
+===== PDF PAGE 6 =====
+
+towards' Moscow from the Russian border. Minard also captured phenomena of his o
+wn era,                                                                         
+for example, migratory movements on a global scale.                             
+The nineteenth century was similar to today in that it was characterized by a su
+dden                                                                            
+abundance of data provided by new technologies, such as the high-speed press, th
+e                                                                               
+railroad and the telegram." Today, Minard is often recognized as the developer o
+f the                                                                           
+so-called flow map; in 1845, spurred by the discussion of the development of rai
+lroad                                                                           
+connections, he produced a map that showed how passengers circulated in the road
+ routes                                                                         
+between Dijon and Mulhouse.19 Nineteenth-century statistics have had a remarkabl
+e                                                                               
+influence on how we visualize information. Graham, Milligan and Weingart mention
+ the dot                                                                        
+density map that was used, for example, by the English physician John Snow (1813
+-1858),                                                                         
+who, drawing on statistical methods, revealed the correlation between contaminat
+ed water                                                                        
+and cholera. Snow marked the locations of London cholera cases with a dot on a m
+ap and                                                                          
+was able to show that many cases occurred around a water pump.2°                
+                                                                                
+中⽂译⽂ - 第 3 ⻚                                                                    
+------------------------------------------------------------------------------  
+地图有很强的再现性，因为它通常试图⽤⼆维形式捕捉三维世界。Graham、Millig                                      
+an 和 Weingart 指出，看似直观的地图再现其实充满困难选择，因为把三维世界                                      
+投射为⼆维坐标必然涉及地图投影的复杂取舍。例如 Google Maps 所基于的墨卡                                      
+托投影会让格陵兰看起来⼏乎与⾮洲⼀样⼤，尽管⾮洲实际⾯积约为格陵兰的14倍。今天的投                                      
+影⽅式以不同办法处理⼆维和三维转换，旧地图呈现物理世界的⽅式也受多种因素影响。过去的                                      
+地图还包含想象领域，海岸线和河床等环境特征也可能随时间变化，因此并不总能把历史地图简                                      
+单还原为地形世界。研究者必须判断历史地图能否与现代地图匹配，以及这种匹配是否服务于研                                      
+究任务。如果可以，下⼀步就是识别历史地图上与现今参考地图经纬度对应的点，这⼀过程称为                                      
+地理校正。⾃20世纪80年代以来，地理信息系统（GIS）为地理信息管理提供了⼯具，使                                      
+研究者能够提取历史地图信息，并与其他 GIS 数据和数据集⽐较分析。纽约公共图书馆开                                      
+放了超过11000幅经过地理校正的历史地图。地图也可以作为历史解释来使⽤。是否采⽤历                                      
+史地图取决于研究问题；有时没有真实历史地图可供校正，研究者就需要把其他地形和地理信息                                      
+加⼯成数字地图，从⽽呈现⼀种历史解释。Harri Kiiskinen                                              
+在研究罗⻢伊特鲁⾥亚陶器 terra sigillata 的⽣产与贸易时使⽤                                          
+GIS，为理解贸易路线，他结合考古、历史证据和 NASA Shuttle Radar                                      
+Topography Mission 的地形数据，重建了两千年前伊特鲁⾥亚可通航河⽹                                      
+。这⾥的数字地图既服务研究，也表达重要的历史论点。在 GIS                                                  
+和数字⼈⽂学出现之前，地图已被⽤于可视化历史⼤数据。Charles-Joseph                                        
+Minard 1869年关于拿破仑1812年俄国战役的名图不仅呈现⾏军⽅向，还把兵⼒                                      
+和温度等信息合并其中，清楚显示军队在⾏进中的损耗。19世纪与今天相似，也经历了由⾼速                                      
+印刷、铁路和电报等新技术带来的数据骤增。John Snow                                                   
+关于伦敦霍乱病例与⽔泵关系的点密度图也深刻影响了信息可视化。                                                  
+                                                                                
+==============================================================================  
+English Original - Page 4                                                       
+------------------------------------------------------------------------------  
+Although recognizing these roots is important, digital technologies obviously of
+fer many                                                                        
+new avenues for maps, mapping and data visualization in general. Digital maps en
+able                                                                            
+zooming in and out so that they can function as platforms for accumulated data f
+or                                                                              
+various historical sources.                                                     
+For example, a city map can include textual information and images of historical
+ places                                                                         
+
+===== PDF PAGE 7 =====
+
+for the user. The map can also be a channel for simultaneously presenting divers
+e                                                                               
+research results. Minard did the same in his infographics, but digital maps are 
+not as                                                                          
+entangled with the two-dimensional world.                                       
+Virtual maps can represent a third dimension and thus provide a broader visual  
+perspective on the past.                                                        
+From visual evidence to distant viewing Thus far, this chapter has dealt with ma
+ps and                                                                          
+mapping, which have been at the heart of digital history since the              
+1990s. What must be discussed next is actual visual evidence from the past, incl
+uding                                                                           
+how it can contribute to and change our understanding of history. Today, digital
+historians have access to manuscript illustrations, photos, posters and works of
+ art,                                                                           
+but digitization rates vary in collections that sometimes offer free use and som
+etimes                                                                          
+only restricted use. For many reasons, the boundary between free and restricted 
+use also                                                                        
+varies. For example, there may be copyright concerns that influence the availabi
+lity of                                                                         
+images. In museum collections, copyright holders are not only artists but also  
+photographers who have produced digital reproductions.                          
+One of the most well-known examples of making visual content available is the   
+Rijksmuseum in Amsterdam, which is a Dutch national museum that holds a collecti
+on of                                                                           
+over a million objects, including 2,000 paintings. In 2012, the Rijksmuseum star
+ted an                                                                          
+extraordinary project by making                                                 
+125,000 high-resolution images available and downloadable.                      
+The plan is to add 40,000 images annually until the entire collection is online.
+ Users                                                                          
+can explore these images through the museum's own Rijksstudio, make observations
+, take                                                                          
+clips and use them both in research and for other purposes. At the time of writi
+ng (May                                                                         
+2020), there were as many as 676,693 high-resolution images available through   
+Rijksstudio.21 The collection is a substantial window, not only onto the Dutch p
+ast but                                                                         
+also onto art history in general.                                               
+Restricted collections can also be useful for research because their metadata ar
+e often                                                                         
+available online. An excellent example is provided by RMN Photo. RMN refers to t
+he                                                                              
+French organization Reunion des musees nationaux, a joint enterprise of French a
+rt                                                                              
+galleries and museums. Today, RMN Photo also includes foreign galleries, such as
+ the                                                                            
+Prado in Madrid and the National Galleries of Scotland in Edinburgh.22 The datab
+ase                                                                             
+includes small preview images that allow users to peek at the collection, and it
+ is also                                                                        
+possible to search by keyword. The collection is immense; a search of the keywor
+d arbre                                                                         
+(tree), returns over 22,000 images of various kinds of trees, including painting
+s,                                                                              
+drawings, photographs, statues and many other kinds of objects from the Middle A
+ges to                                                                          
+the present. This includes, for example, over 1,400 paintings from the nineteent
+h                                                                               
+century.                                                                        
+In addition to RMN Photo and Amsterdam's Rijksmuseum, numerous national and     
+
+===== PDF PAGE 8 =====
+
+international image collections can be put under the lens. National libraries ar
+ound the                                                                        
+world have digitized cultural artefacts and images, and many heritage projects o
+ffer                                                                            
+visual content to users, from the American Memory project to Europeana. The latt
+er, for                                                                         
+example, contains transnational collections, such as First World War newsreels, 
+postcards and letters. The film collection alone comprises as many as 2,726 item
+s that                                                                          
+can be regarded as one of the most comprehensive cinematic collections on the Gr
+eat                                                                             
+War.23 It is obvious that these collections set different premises and condition
+s for                                                                           
+research than textual material, but they also offer many possibilities for digit
+al                                                                              
+historians.                                                                     
+In his research lab Software Studies Initiative, Lev Manovich and his team have 
+processed massive collections of images and video, including 6,000 paintings by 
+French                                                                          
+Impressionists and 20,000 photographs from the photography collection of the Mus
+eum of                                                                          
+Modern Art. From a historical perspective, the Impressionist collection of image
+s is                                                                            
+comprehensive, as it represents approximately 50 per cent of all paintings and p
+astels                                                                          
+presented in the Impressionist exhibitions during the years 1874-1886. The exper
+iment of                                                                        
+the Software Studies Initiative started with the idea of extracting particular f
+eatures                                                                         
+— in fact, 200 of them from                                                     
+                                                                                
+中⽂译⽂ - 第 4 ⻚                                                                    
+------------------------------------------------------------------------------  
+认识这些历史根源固然重要，但数字技术显然为地图、制图和数据可视化开辟了新路径。数字地                                      
+图可以缩放，因⽽可以作为汇聚多种历史资料数据的平台。城市地图可以为⽤户包含历史地点的                                      
+⽂字信息和图像，也可以同时呈现多样研究结果。Minard 在信息图中做过类似尝试，但                                      
+数字地图不再那么受⼆维世界限制；虚拟地图可以表现第三维度，从⽽提供更⼴阔的历史视觉视                                      
+⻆。接下来，本章从地图转向来⾃过去的实际视觉证据，讨论它们如何帮助并改变我们对历史的                                      
+理解。今天，数字历史学家可以接触⼿稿插图、照⽚、海报和艺术作品，但不同馆藏的数字化程                                      
+度和使⽤权限差异很⼤。版权问题会影响图像可⽤性；在博物馆收藏中，版权持有⼈不仅包括艺                                      
+术家，也包括制作数字复制品的摄影师。阿姆斯特丹国⽴博物馆是开放视觉内容的著名案例。2                                      
+012年起，该馆开放并允许下载⼤量⾼分辨率图像，并计划持续增加。⽤户可以通过                                          
+Rijksstudio 浏览、观察、截取并在研究或其他⽬的上使⽤这些图像。到2020                                      
+年5⽉，Rijksstudio 已有676693张⾼分辨率图像，这⼀收藏不仅为荷兰过                                      
+去，也为艺术史整体打开了重要窗⼝。受限馆藏同样有研究价值，因为它们的元数据常常在线可                                      
+⽤。RMN Photo 是⼀个例⼦，它⾪属于法国国家博物馆联盟，后来也收⼊普拉多美术                                      
+馆、苏格兰国家美术馆等外国机构。该数据库有⼩型预览图，并可按关键词搜索；仅 arbr                                      
+e（树）⼀词就返回超过22000幅关于树的图像，涵盖绘画、素描、照⽚、雕塑等多种对象                                      
+。除 RMN Photo 和 Rijksmuseum                                                      
+外，世界各地国家图书馆和⽂化遗产项⽬也提供⼤量图像，从 American                                            
+Memory 到 Europeana。Europeana 的⼀战新闻⽚、明信⽚和信件                                      
+等跨国收藏为研究提供了不同于⽂本材料的前提和条件，也给数字历史学家带来丰富可能。Le                                      
+v Manovich 的 Software Studies Initiative 处                                      
+理过⼤量图像和视频，包括法国印象派绘画和现代艺术博物馆摄影收藏，并尝试从数据集中提取                                      
+⼤量特征。                                                                           
+                                                                                
+==============================================================================  
+English Original - Page 5                                                       
+------------------------------------------------------------------------------  
+the data set. This included `colour characteristics, contrast, shapes, textures 
+and some                                                                        
+aspects of composition'.24 These features were then computationally reduced to a
+
+===== PDF PAGE 9 =====
+
+ smaller                                                                        
+number of dimensions to enable the grouping of images and thus the viewing of th
+em from                                                                         
+a distance, as a whole. As a result, they found that the types of images that ar
+e                                                                               
+usually associated with Impressionism, with lighter tones, were a smaller part o
+f the                                                                           
+data set. As Manovich writes, `At least half of the images turn out to be rather
+traditional and more typical of classical 19th century painting (darker tones an
+d warm                                                                          
+colors).'' Manovich presented this experiment in his article `Data science and d
+igital                                                                          
+art history', published in 2015. The actual aim of the text was to articulate ba
+sic                                                                             
+concepts for the study of large image corpora, drawing on data science and espec
+ially                                                                           
+considering what the extraction features, such as average brightness and saturat
+ion,                                                                            
+could offer to the digital analysis of large data sets of images. In 2019, Taylo
+r Arnold                                                                        
+and Lauren Tilton emphasized strongly what they call distant viewing:           
+[W]e argue that DH [digital humanities] should consider, what we call, distant v
+iewing —                                                                        
+a methodological and theoretical framework for studying large collections of vis
+ual                                                                             
+material. Distant viewing is distinguished from other approaches by making expli
+cit the                                                                         
+interpretive nature of extracting semantic metadata from images.                
+In other words, one must `view' visual materials before studying them. Viewing, 
+which we                                                                        
+define as an interpretive action taken by either a person or a model, is necessi
+tated by                                                                        
+the way in which information is transferred in visual materials." Manovich did n
+ot use                                                                          
+the expression `distant viewing', but this was exactly the aim of his texts: to 
+try to                                                                          
+track down what machine viewing could mean and how it could be used in the digit
+al                                                                              
+humanities. In recent years, `distant viewing' has been employed by other resear
+chers as                                                                        
+well,27 which shows the increasing interest in the computational study and cultu
+ral                                                                             
+analytics of images. In the case of distant reading, the question is: what does 
+it mean                                                                         
+when a machine `reads' a text, which features have to be computationally extract
+ed and                                                                          
+how could these features be used for analysis? The same goes for the analysis of
+ images,                                                                        
+both still and moving: what does                                                
+`viewing' mean? This is what Arnold and Tilton underline in their article: there
+ is a                                                                           
+`need for coding visual materials prior to exploratory data analysis of visual  
+corpora'.' At the same time, it is important to recognize that there are differe
+nt                                                                              
+genres and different kinds of images; therefore, there are particular characteri
+stics                                                                           
+that the interpretation should take into account.29 Sound and vision Parallel to
+ the                                                                            
+previous discussion, in data science, and not always in connection to the digita
+l                                                                               
+humanities, much research has taken place in relation to sound and vision. Autom
+atic                                                                            
+
+===== PDF PAGE 10 =====
+
+speech recognition (ASR) is today a useful tool for the study of audio-visual ma
+terial.                                                                         
+It enables the extraction of speech and its convergence into text, which again c
+an be                                                                           
+analysed with text mining tools. Simultaneously ASR processing can be deployed f
+or                                                                              
+producing digital indexes of the contents of auditive or audio-visual sources an
+d thus                                                                          
+help to enhance existing metadata.                                              
+Considering how much audio material is in the archives, computational methods co
+uld be                                                                          
+employed to increase their accessibility and, of course, to study en masse sourc
+es that                                                                         
+would otherwise be difficult to digest. As a research example, we could play wit
+h the                                                                           
+idea of applying ASR to newsreels after the breakthrough of sound cinema in the 
+late                                                                            
+1920s and early 1930s. Often, these newsreels were made with a silent camera, wi
+thout                                                                           
+any sound recorded on location. A voiceover narration was added later in the stu
+dio.                                                                            
+Newsreels were a text-driven form of audio-visual culture; therefore, speech ext
+raction                                                                         
+might offer illuminating results. In any case, the quality of sound, and possibl
+e                                                                               
+background music, would make this research challenging. Another problem might be
+ the                                                                            
+fact that ASR draws heavily on language models in identifying words. It seems th
+at there                                                                        
+is insufficient research on historical language models, which from a historian's
+                                                                                
+中⽂译⽂ - 第 5 ⻚                                                                    
+------------------------------------------------------------------------------  
+这些特征包括⾊彩特征、对⽐度、形状、纹理和构图的某些⽅⾯，随后通过计算⽅法降维，以便                                      
+把图像作为整体进⾏分组和远距离观看。结果显示，通常与印象派联系在⼀起的浅⾊调图像其实                                      
+只占数据集较⼩部分；⾄少⼀半图像更传统，更接近19世纪古典绘画的暗⾊和暖⾊。Mano                                      
+vich 在2015年《数据科学与数字艺术史》中介绍了这⼀实验，⽬的在于为⼤型图像语                                      
+料研究提出基本概念，尤其思考平均亮度、饱和度等特征提取能为⼤型图像数据集分析提供什么                                      
+。2019年，Taylor Arnold 和 Lauren Tilton 强调了“远                                      
+观”这⼀概念：他们认为数字⼈⽂学应考虑⼀种研究⼤型视觉材料集合的⽅法论和理论框架，即                                      
+远观。远观与其他⽅法的区别在于，它明确承认从图像中提取语义元数据本身具有解释性。换⾔                                      
+之，在研究视觉材料之前，必须先“观看”它们；这种观看可以由⼈或模型完成，并且由视觉材                                      
+料传递信息的⽅式所要求。Manovich 虽未使⽤“远观”⼀词，但他的⽂本正是在追问                                      
+机器观看意味着什么以及如何⽤于数字⼈⽂学。近年来，“远观”也被其他研究者采⽤，表明⼈                                      
+们越来越关注图像的计算研究和⽂化分析。与远读相似，关键问题是：机器“阅读”⽂本时意味                                      
+着什么，哪些特征必须被计算提取，这些特征⼜如何⽤于分析？对静态和动态图像亦然：“观看                                      
+”究竟意味着什么？Arnold 和 Tilton 强调，在探索性分析视觉语料之前，需                                      
+要先对视觉材料编码。同时，也必须承认不同图像类型和体裁具有不同特征，解释时应予以考虑                                      
+。关于声⾳与视觉，数据科学中已有⼤量研究，未必总与数字⼈⽂学直接相连。⾃动语⾳识别（                                      
+ASR）如今是研究视听材料的有⽤⼯具，它可以把语⾳提取并转换为⽂本，再⽤⽂本挖掘⼯具                                      
+分析；ASR 也可以⽤来为⾳频或视听来源制作数字索引，增强现有元数据。档案中有⼤量⾳                                      
+频材料，计算⽅法可以提⾼其可访问性，并使研究者能够批量分析本来难以消化的资料。例如可                                      
+以设想把 ASR ⽤于20世纪20年代末和30年代初有声电影突破后的新闻短⽚。许多新                                      
+闻短⽚现场以⽆声摄影机拍摄，旁⽩后来在录⾳棚加⼊，因此它们是⼀种⽂本驱动的视听⽂化，                                      
+语⾳提取可能带来启发。不过⾳质、背景⾳乐和语⾔模型都会带来挑战，历史语⾔模型研究仍显                                      
+不⾜。                                                                             
+                                                                                
+==============================================================================  
+English Original - Page 6                                                       
+------------------------------------------------------------------------------  
+perspective would be essential for recognizing speech acts of the past. Not only
+language but also the way we speak, our enunciation, has changed tremendously. I
+
+===== PDF PAGE 11 =====
+
+f we                                                                            
+think of fictitious material, such as narrative films from the 1930s and        
+1940s, the dialogue might also include different dialects and slang. Furthermore
+, the                                                                           
+quality of sound technology and the sounds of the filming location would make th
+e                                                                               
+recognition even more painstaking. Still, the idea to be able to mine and to dis
+tant-                                                                           
+view old cinematic content is tempting, and it would offer an avenue into the   
+imagination of past decades.                                                    
+There are sophisticated technologies that can further help to refine methodologi
+es, such                                                                        
+as audio event detection, voice activity detection and speaker diarization, whic
+h can                                                                           
+help to identify who actually speaks and even connect the voice to the speaker w
+hen he                                                                          
+or she is not visible on screen.30 Another area of recent exploration is the vis
+ual                                                                             
+analysis of movie content, drawing on the technology around deep neural networks
+ (DNNs).                                                                        
+This includes, for example, such research strategies as visual feature and facia
+l                                                                               
+expression extraction and visual content description, which go beyond visuality 
+into the                                                                        
+multimodal analysis of audio-visual sources.31 The development of content detect
+ors                                                                             
+helps to identify details in big audio-visual data sets. If the research project
+ spans a                                                                        
+long period, the analysis of movie content would give raw material, such as on h
+ow the                                                                          
+environments, milieus and cultural artefacts used in these works change over tim
+e.                                                                              
+In the study of audio-visual content, it is necessary to pay attention to the ch
+anging                                                                          
+technologies after the nineteenth century: they influence the ways in which thes
+e                                                                               
+cultural products can be used for digital analysis and how they can be dissemina
+ted.                                                                            
+Early film history was preserved on nitrate cellulose material which was very fr
+agile                                                                           
+and flammable.                                                                  
+Therefore, many of the early films have been lost, and their study must be based
+ on                                                                             
+other kinds of sources, including stills, manuscripts, newspaper ads and reviews
+.                                                                               
+Acetate cellulose is more stable and became dominant after the Second World War.
+ Film                                                                           
+archives around the world have for decades aimed at preserving these copies, fir
+st by                                                                           
+producing acetate duplicates, now by making digital scans with 4k or even higher
+resolution. After the advent of video tape recorders in the                     
+1950s, many other technologies for audio-visual products have been introduced. I
+n the                                                                           
+1980s Betamax and VHS technology dominated consumer markets, but there were also
+ other                                                                          
+formats, such as Video 2000 and U-matic. In the 1990s, digital CDs, laserdiscs a
+nd DVDs                                                                         
+came along, followed by Blu-ray discs and streaming services in the 2000s. In th
+is time                                                                         
+period resolutions also changed, from high definition                           
+(HD) to ultra-high definition (UHD) and from 2k to 4k or even 8k. The array of  
+historical technologies is a challenge for the digital historian, interested in 
+
+===== PDF PAGE 12 =====
+
+audio-                                                                          
+visual content.                                                                 
+Film archives have produced digital copies from these items but there are many p
+roblems                                                                         
+to be solved, for example, in the use of home-made movies that can still be pres
+erved in                                                                        
+their original format.                                                          
+Visuality, textuality and metadata As a conclusion to this chapter, I would like
+ to                                                                             
+return to two other aspects in the study of visuality that should be remembered 
+and                                                                             
+remind us of the closeness to the study of textuality. The first issue is that t
+he                                                                              
+dominant part of digitization projects mentioned in this book is in fact based o
+n                                                                               
+images. Digitized books, journals and newspapers originate from image collection
+s, as                                                                           
+printed material too is first scanned into an image and only thereafter is the t
+ext                                                                             
+recognized using OCR. This means, for instance, that all newspaper repositories 
+are                                                                             
+basically collections of images of newspapers, although this is only seldom high
+lighted,                                                                        
+as most research methods emphasize texts to which OCR has been applied. Yet, the
+re are                                                                          
+many other opportunities in these resources. Textuality is not the opposite of  
+visuality, but texts are visual entities in themselves and comprise colour, font
+ type,                                                                          
+font size, spacing and many other layout elements. The historical change of a fr
+ont                                                                             
+page, to name only one possible theme, could be explored based on the scanned ma
+terial.                                                                         
+How did headlines change over time? How many columns were there? When did drawin
+gs and                                                                          
+photographs first appear on the cover? How is the role of advertisements transfo
+rmed if                                                                         
+analysed in a historical setting? In addition to actual scanned images, visualit
+y can be                                                                        
+approached through metadata. Usually, XML files include information on the      
+                                                                                
+中⽂译⽂ - 第 6 ⻚                                                                    
+------------------------------------------------------------------------------  
+从历史学⻆度看，识别过去的⾔语⾏为需要历史语⾔模型；不仅语⾔变了，⼈们的发⾳和说话⽅                                      
+式也发⽣了巨⼤变化。如果研究20世纪30年代和40年代的叙事电影，对话还可能包含不同                                      
+⽅⾔和俚语；录⾳技术质量和拍摄现场声⾳也会让识别更困难。尽管如此，挖掘并远观旧电影内                                      
+容仍很有吸引⼒，因为它能通向过去⼏⼗年的想象世界。⾳频事件检测、语⾳活动检测和说话⼈                                      
+分离等技术可以进⼀步改进⽅法，帮助识别谁在说话，甚⾄在说话者不出现在画⾯中时把声⾳与                                      
+⼈物连接起来。另⼀个新近探索领域是借助深度神经⽹络（DNN）进⾏电影内容的视觉分析，                                      
+包括视觉特征提取、⾯部表情提取和视觉内容描述等，这些⽅法超出单纯视觉性，进⼊视听资料                                      
+的多模态分析。内容检测器的发展有助于在⼤型视听数据集中识别细节；若研究跨越较⻓时期，                                      
+电影内容分析可以提供环境、场景和⽂化物品如何随时间变化的原始材料。研究视听内容时，还                                      
+必须注意19世纪以来不断变化的技术，因为它们影响这些⽂化产品如何被数字分析和传播。早                                      
+期电影保存在易碎、易燃的硝酸纤维素材料上，因此许多早期影⽚已经遗失，研究只能依赖剧照                                      
+、⼿稿、报纸⼴告和评论等其他资料。更稳定的醋酸纤维素在⼆战后占主导。世界各地电影档案                                      
+馆⻓期致⼒于保存这些复制品，先制作醋酸复制⽚，现在则以4K或更⾼分辨率进⾏数字扫描。                                      
+20世纪50年代录像机出现后，视听产品技术持续更迭：80年代 Betamax 和                                        
+VHS 主导消费市场，也有 Video 2000 和                                                      
+U-matic；90年代出现数字 CD、激光影碟和                                                       
+DVD；2000年代则有蓝光和流媒体。分辨率也从 HD 到 UHD，从2K到4K甚⾄                                      
+8K。历史技术的多样性对研究视听内容的数字历史学家构成挑战。电影档案馆虽已制作数字副                                      
+本，但仍有许多问题待解决，例如如何使⽤仍以原始格式保存的家庭电影。章节最后回到视觉性                                      
+、⽂本性与元数据。许多数字化项⽬实际上以图像为基础：书籍、期刊和报纸先被扫描成图像，                                      
+
+===== PDF PAGE 13 =====
+
+再通过 OCR 识别⽂字。因此，报纸数据库本质上是报纸图像集合，只是多数⽅法强调                                        
+OCR 后的⽂本。⽂本性并⾮视觉性的反⾯，⽂本本身就是视觉实体，包含颜⾊、字体、字号                                      
+、间距和版⾯等元素。研究者可以利⽤扫描材料研究头版如何变化、标题如何变化、栏数如何变                                      
+化、图画与照⽚何时出现在封⾯，以及⼴告⻆⾊如何在历史中转变。除了扫描图像，视觉性也可                                      
+通过元数据来研究；XML                                                                    
+⽂件通常包含⽂本和图像在⽂档中的视觉内容与物理位置，可帮助定位报刊中的图画和照⽚。                                       
+                                                                                
+==============================================================================  
+English Original - Page 7                                                       
+------------------------------------------------------------------------------  
+visual contents and physical places of the texts and images on the document. Thi
+s data                                                                          
+would help the researcher to locate the drawings and photos that have been publi
+shed in                                                                         
+newspapers and magazines.                                                       
+As the last aspect of this chapter, a discussion on metadata is needed, but in a
+nother                                                                          
+sense. All databases of images contain metatextual information on each object. T
+here is                                                                         
+certainly variation in the quality of this data, but it will be informative in m
+ultiple                                                                         
+ways. Let us take the example of the online databases of art museums. Tretyakov 
+Gallery                                                                         
+in Moscow has one of the most famous collections in the world, including over 18
+0,000                                                                           
+works of art. The online collection includes the name of the artist and painting
+, the                                                                           
+measurements of the artwork and the technique used for the work.' These are stan
+dard                                                                            
+details, but they give the option for the researcher to explore the proportions 
+of the                                                                          
+collection, for example, how particular techniques change over time. Some databa
+ses                                                                             
+consist of many more details. Let me continue with an example presented already 
+earlier                                                                         
+in this chapter. One of the most comprehensive databases on European art is RMN 
+Photo,                                                                          
+which began in 1946 as a commercial institution under the authority of the Frenc
+h                                                                               
+Ministry of Culture. Its original idea was to promote the collections of the nat
+ional                                                                           
+museums of France, and it is continuing this mission; although it offers access 
+to some                                                                         
+foreign collections as well. Today, it comprises almost 800,000 photos of artwor
+ks                                                                              
+housed in national and regional museums, including the Louvre, the Musee d'Orsay
+, the                                                                           
+Centre Pompidou, Chantilly's Conde Museum and Palais de Beaux Arts de Lille. All
+ these                                                                          
+images are accessible online, although high-resolution copies can only be purcha
+sed.33                                                                          
+The metadata of each item has been enriched with many details, including keyword
+s. For                                                                          
+example, the painting Pauline, femme de Seneque, rappelie a la vie by Jean-Josep
+h                                                                               
+Taillasson                                                                      
+(1745-1809) is accompanied with an identifier (91-002122), inventory number (INV
+8081),                                                                          
+period (eighteenth century, modern age), technique and material (oil on canvas),
+location                                                                        
+(Paris, Musee du Louvre), credit for the photo (RMN-Grand Palais, Musee du      
+Louvre/Christian Jean), size of the digital image (in this case 10535 x 8192 pix
+
+===== PDF PAGE 14 =====
+
+els) and                                                                        
+keywords that relate to the content of the painting. This artwork portrays a fai
+nting                                                                           
+figure who is obviously the protagonist of the picture, Pauline. With the keywor
+d                                                                               
+`fainting', the user can detect other images of fainting. The database shows tha
+t RMN                                                                           
+Photo covers seventeen other fainting images from the eighteenth century. In add
+ition,                                                                          
+the collection includes 178 artworks that portray fainting, most of them oil pai
+ntings,                                                                         
+but there are also photographs, textiles, pencil drawings, ink works and so on. 
+This                                                                            
+example in itself is only one case for close reading, but if this whole database
+ could                                                                          
+be analysed, it would provide an exceptional view into the development of art, a
+s well                                                                          
+as allow other kinds of more specific research settings, such as the history of 
+fainting.                                                                       
+Visual and audio-visual sources can be productively approached through metadata.
+ This                                                                           
+requires access to the database as a data dump. One of the most comprehensive   
+international filmographies available is the Internet Movie Database (IMDb). It 
+has been                                                                        
+criticized for its incompleteness and inaccuracies, but its great benefit is its
+ truly                                                                          
+transnational and transcontinental coverage, not only of films made in the past 
+but also                                                                        
+new productions that are under preparation.                                     
+IMDb was launched in 1990 as a fan-based enterprise, but today it is a subsidiar
+y of                                                                            
+Amazon and delivers online massive amounts of content on films, television progr
+ammes                                                                           
+and video games. By January 2020, it included 6.5 million titles, including epis
+odes of                                                                         
+television series, and 10.4 million personality entries. For researchers, it is 
+valuable                                                                        
+that this data is largely made available through open access. IMDb offers seven 
+different data sets that are refreshed on a daily basis.34 These data have 'alre
+ady been                                                                        
+used for historically oriented studies. For example, Bo McCready has visualized 
+the                                                                             
+popularity of film genres between 1910 and 2018 and described the development of
+ twelve                                                                         
+genres, from action films to western movies.35 This is obviously only a scratch 
+on the                                                                          
+surface of what could be done and achieved. The database could be employed in an
+alysing                                                                         
+the networks of actors, directors and other production staff; movements of peopl
+e by                                                                            
+connecting movie titles with production countries;                              
+changes in production volumes on a transregional and global level; and so on. Fo
+r a film                                                                        
+scholar, this would also offer the possibility to glimpse into the future, as th
+e                                                                               
+database also covers on-going productions. This sketch on the resources of IMDb 
+is of                                                                           
+course only one option out of many for writing                                  
+                                                                                
+中⽂译⽂ - 第 7 ⻚                                                                    
+------------------------------------------------------------------------------  
+最后，本章从另⼀层意义讨论元数据。所有图像数据库都包含每个对象的元⽂本信息，虽然数据                                      
+
+===== PDF PAGE 15 =====
+
+质量不同，但可以在多⽅⾯提供信息。以美术馆在线数据库为例，莫斯科特列季亚科夫画廊拥有                                      
+世界著名收藏，在线馆藏包含艺术家和作品名称、作品尺⼨及技法等标准信息，研究者由此可考                                      
+察馆藏⽐例和特定技法随时间的变化。⼀些数据库提供更丰富细节。RMN Photo 是欧                                      
+洲艺术的重要数据库之⼀，1946年作为法国⽂化部管理下的商业机构开始，原本旨在推⼴法                                      
+国国家博物馆收藏，如今也提供部分外国收藏。它包含卢浮宫、奥赛博物馆、蓬⽪杜中⼼、尚蒂                                      
+伊孔代博物馆和⾥尔美术宫等国家与地区博物馆近80万张艺术品照⽚。图像均可在线访问，⾼                                      
+分辨率副本则需购买。每件作品的元数据都经过丰富，包括关键词。Jean-Joseph                                       
+Taillasson 的 Pauline, femme de Seneque,                                         
+rappelie a la vie 这幅画就附有标识符、库存号、时期、技法与材料、所                                      
+在地、照⽚署名、数字图像尺⼨和内容关键词。作品描绘了昏厥⼈物                                                  
+Pauline；⽤户⽤“fainting”检索即可发现其他昏厥图像。RMN                                           
+Photo 中还有17幅18世纪昏厥图像，整个收藏则有178件描绘昏厥的艺术品，包括                                      
+油画、照⽚、纺织品、铅笔画、墨⽔作品等。单件作品只是细读案例，但若能分析整个数据库，                                      
+就能以异常丰富的⽅式观察艺术发展，也能提出更具体问题，如昏厥史。视觉和视听资料都可以                                      
+通过元数据富有成效地研究，但这要求能够以数据包形式访问数据库。IMDb 是最全⾯的国                                      
+际影视资料库之⼀，虽因不完整和错误受到批评，却具有真正跨国、跨洲覆盖的优势，不仅包括                                      
+过去的影⽚，也包括正在筹备的新作品。IMDb 1990年以影迷项⽬起步，如今⾪属于                                       
+Amazon，提供⼤量电影、电视节⽬和电⼦游戏信息。到2020年1⽉，它有650万条                                      
+标题记录和1040万条⼈物记录，并以开放访问⽅式提供七个每⽇更新的数据集。研究者已⽤                                      
+这些数据进⾏历史取向研究，例如 Bo McCready 可视化了1910⾄2018年                                      
+电影类型的流⾏变化。未来还可⽤于分析演员、导演和制作⼈员⽹络，连接影⽚和⽣产国家来研                                      
+究⼈员流动，以及从跨地区和全球层⾯研究⽣产量变化。                                                       
+                                                                                
+==============================================================================  
+English Original - Page 8                                                       
+------------------------------------------------------------------------------  
+an audio-visual history. It could later be joined with other databases that incl
+ude more                                                                        
+information on national cinemas and television broadcasts. Finally, the content 
+itself,                                                                         
+actual films and television programmes are increasingly available in digital for
+mat.'                                                                           
+Digital technologies of visualization have been, and continue to be, an expandin
+g area                                                                          
+of research and development in the                                              
+2000s. Visual devices penetrate our present world, from digital cameras and mobi
+le                                                                              
+phones to UHD television sets and high-resolution displays. The use of these    
+technologies has taken a central position in how we entertain ourselves, in how 
+we                                                                              
+express our relationship with the world around us, and how we are controlled and
+policed. During recent decades, audio-visual culture has undergone a transformat
+ion —                                                                           
+from analogue movie theatres to 4k digital cinemas                              
+- to such an extent that nitrate and cellulose acetate films need special arrang
+ements                                                                          
+and old technology to be able to be shown. Consumers today produce visual and au
+dio-                                                                            
+visual content more than ever before, and they share these visualizations on soc
+ial                                                                             
+media and preserve many more on their private hard drives, as well as on cloud s
+ervices.                                                                        
+To be sure, the years to come will bring forth new insights, methods and applica
+tions                                                                           
+that interpret history both in visual terms and based on visual cultural heritag
+e.                                                                              
+4 Interdisciplinarity:                                                          
+Challenges for Research Vast resources are available for the digital historian. 
+As the                                                                          
+previous discussions show, at the same time as more material is easily available
+, there                                                                         
+are many heuristic and source-critical aspects that have to be taken into consid
+
+===== PDF PAGE 16 =====
+
+eration.                                                                        
+A major challenge is the use of large data sets. Therefore, digital history ofte
+n                                                                               
+appears as interdisciplinary work and takes the form of collaborative research b
+ased on                                                                         
+cooperation and joint work. There is a need for transgressing disciplinary borde
+rs not                                                                          
+only because of the complex problems awaiting resolution but also because, in ot
+her                                                                             
+fields of research, such generic tools have been, or might have been, developed 
+and                                                                             
+productively deployed that can be applied in other contexts. Digital historians 
+think                                                                           
+about their work in terms of their interest in historical problems, but already 
+problem-                                                                        
+solving might require expertise from different disciplines and methodological   
+traditions. It would be unfortunate not to take advantage of what has been found
+ in                                                                             
+other scientific communities and within different research paradigms.           
+Digital history does not stand alone before this challenge.                     
+The world has always been complex, to be sure, but we are increasingly conscious
+ of the                                                                         
+global hazards we confront, which further emphasizes the need for interdisciplin
+ary                                                                             
+work.                                                                           
+In his compelling book We Have Never Been Modern,                               
+                                                                                
+中⽂译⽂ - 第 8 ⻚                                                                    
+------------------------------------------------------------------------------  
+IMDb 只是书写视听史的众多资源之⼀，未来还可与包含更多国家电影和电视⼴播信息的数                                      
+据库连接。内容本身，即实际电影和电视节⽬，也越来越多地以数字形式存在。数字可视化技术                                      
+在21世纪⼀直是不断扩展的研究与开发领域。视觉设备深⼊当下世界，从数码相机、⼿机到                                       
+UHD 电视和⾼分辨率显示器；这些技术在娱乐、表达我们与世界关系以及被控制和警务化⽅                                      
+⾯都占据核⼼位置。近⼏⼗年来，视听⽂化已经从模拟电影院转向4K数字影院，以⾄于硝酸⽚                                      
+和醋酸纤维素影⽚需要特殊安排和旧技术才能放映。今天消费者⽐以往任何时候都更多地⽣产视                                      
+觉与视听内容，把它们分享到社交媒体，并把更多内容保存在私⼈硬盘和云服务上。未来必将出                                      
+现新的洞⻅、⽅法和应⽤，以视觉⽅式并基于视觉⽂化遗产来解释历史。⽂件末尾进⼊下⼀章“                                      
+跨学科性：研究的挑战”。数字历史学家拥有庞⼤资源，但材料更容易获取的同时，也必须考虑                                      
+许多启发式和来源批判问题。⼤型数据集的使⽤是⼀项主要挑战，因此数字史常表现为跨学科⼯                                      
+作，并采取协作研究形式。跨越学科边界不仅因为待解决问题复杂，也因为其他领域已经或可能                                      
+已经开发出可迁移的通⽤⼯具。数字历史学家当然以历史问题为核⼼思考⼯作，但解决问题往往                                      
+需要不同学科和⽅法传统的专业知识。忽视其他科学共同体和研究范式中的成果将是遗憾的。数                                      
+字史并不是唯⼀⾯对这⼀挑战的领域；世界⼀直复杂，⽽我们也越来越意识到全球⻛险，这进⼀                                      
+步凸显跨学科⼯作的必要性。                                                                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

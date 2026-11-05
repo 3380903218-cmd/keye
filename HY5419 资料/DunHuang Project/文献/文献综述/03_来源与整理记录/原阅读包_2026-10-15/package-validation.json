@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-15",
+  "status": "passed",
+  "selected": 10,
+  "Chinese": 5,
+  "English": 5,
+  "existing_reselected": 4,
+  "new": 6,
+  "pdf_files": 8,
+  "reprinted_html": 1,
+  "unavailable_full_text": [
+    "L06"
+  ],
+  "note": "Structural validation does not authenticate all historical assertions. L03 is a reprint; L05 English abstract on160 not included; L06 is abstract-only.",
+  "sources": [
+    {
+      "id": "L01",
+      "path": "full-text/L01_Doumy_2025.pdf",
+      "sha256": "fd02bd0cf3ed0ec94bade8da6f07c8f82a4f300270e9c6173c202ef031036888"
+    },
+    {
+      "id": "L02",
+      "path": "full-text/L02_Terzi_Whitfield_2024.pdf",
+      "sha256": "58537191080642fd374ae7ff9314ba7ddbb5258456423bc4879a0852b7652c5c"
+    },
+    {
+      "id": "L03",
+      "path": "full-text/L03_Fang_2009_reprint.html",
+      "sha256": "de853a8402dd059fb1ebf0bbe689a6179f485eb0b8449437e4f2be52bd43d0a3"
+    },
+    {
+      "id": "L04",
+      "path": "full-text/L04_Xu_2024.pdf",
+      "sha256": "256c6d9632c2e449876957d0887eec3d6986f539f465cbccef830ad8639282ee"
+    },
+    {
+      "id": "L05",
+      "path": "full-text/L05_Pan_2025.pdf",
+      "sha256": "3a27828abc67a56bc8794aef11a4b1033b714bd9c0b212b9e60de7df3d89f729"
+    },
+    {
+      "id": "L06",
+      "path": "",
+      "sha256": ""
+    },
+    {
+      "id": "L07",
+      "path": "full-text/L07_Zhou_Zhang_2023.pdf",
+      "sha256": "1e213dbe6940e58d7a5685ac5d648299d300ce70e4723d3601508ecae95c56dd"
+    },
+    {
+      "id": "L08",
+      "path": "full-text/L08_Wang_Wen_Whitfield_2020.pdf",
+      "sha256": "9136ba440284a1cb64060750b3433aade7b04267885a32334daea26e99e6a8f7"
+    },
+    {
+      "id": "L09",
+      "path": "full-text/L09_Whitfield_1996_article_excerpt.pdf",
+      "sha256": "6903b3b6f2dd49ae01538fd9a7e20d5952d867acaa318adc147d7834c7b1815b"
+    },
+    {
+      "id": "L10",
+      "path": "full-text/L10_Cheng_Wang_2021.pdf",
+      "sha256": "811a65e66b99750236beb61d8f93451f3d4f97bede9a380392d59637f021728e"
+    }
+  ]
+}

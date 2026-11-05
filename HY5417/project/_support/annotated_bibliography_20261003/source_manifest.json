@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-03",
+  "scope": "Five annotated academic references and one synthesis paragraph; Chinese editable draft, under 4000 characters; personal reflections are content authority. URA is auxiliary only.",
+  "notes_sha256": "1e3819e82239464fe28c00f96d44a4c1d431560052c4dfca220477c5abe8bd83",
+  "files": [
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/Goh_Between_History_and_Heritage_中英对照.pdf",
+      "sha256": "54169f8751e4187be438b869117ac0c41a8af1aa5c2552942c5856ebb344329f"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/Henderson_2000_Attracting_Tourists_to_Singapore_Chinatown_Bilingual_EN-ZH.pdf",
+      "sha256": "997616e9ef2d2cf03b772b3133ec701286359c8f4e3ff3e39f1f6f3592486610"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/Poulios_2014_The_Past_in_the_Present_Bilingual_EN-ZH.pdf",
+      "sha256": "86f5b17b2df8dc1c34a1fde03d101a3e19a05353716eced01011c22737994e41"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/Singapore_Chinatown_中英对照.pdf",
+      "sha256": "4b68305b951739d94f8b1b18a6ea785b5434a2d84b3c092cb362c8ecd1c812fc"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/URA_Chinatown_Historic_District_Trail_Bilingual_EN-ZH.pdf",
+      "sha256": "c56b374ee704a0a6a07971ad7bb30a56871fdeb3711bbed088e0aca73a136d99"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/Yeoh_Kong_2012_Singapore_Chinatown_Bilingual_EN-ZH.pdf",
+      "sha256": "14b08f99d9bf2645a19dc4e63c781be1ff216073e65a8d6f7a2d31c7e1e7367c"
+    },
+    {
+      "path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5417/project/中文英文翻译/between-history-and-heritage-post-colonialism-globalisation-and-the-remaking-of-malacca-penang-and-singapore.pdf",
+      "sha256": "4af95eac0778384eb14a444f43a5f2b90da78e16cd6ac1aefb6b3831161a22b1"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scope": "targeted geocoding of 4 historic institutions; current feature coordinates only, no claim about 1909 handover room",
+  "endpoint": "https://nominatim.openstreetmap.org/search",
+  "server_filters": {
+    "format": "jsonv2",
+    "limit": 3,
+    "addressdetails": 1
+  },
+  "local_filters": "feature must match named institution and city; returned centre is a reference point, never a reconstructed historical route",
+  "rate_limit": "sequential requests, >1 second apart; response cache saved; no autocomplete or exhaustive download",
+  "licence": "OpenStreetMap contributors, ODbL; attribution required",
+  "date": "2026-10-20"
+}

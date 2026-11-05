@@ -1,0 +1,478 @@
+[
+  {
+    "shape": "S1 — folio",
+    "line": "01",
+    "width_mm": 4.52,
+    "available_mm": 10,
+    "fits": true
+  },
+  {
+    "shape": "S1 — presentation context",
+    "line": "AN EXHIBITION IN THREE OBJECTS",
+    "width_mm": 76.16,
+    "available_mm": 169,
+    "fits": true
+  },
+  {
+    "shape": "S1 — exhibition title",
+    "line": "Porcelain",
+    "width_mm": 57.4,
+    "available_mm": 170,
+    "fits": true
+  },
+  {
+    "shape": "S1 — exhibition title",
+    "line": "in Translation",
+    "width_mm": 85.83,
+    "available_mm": 170,
+    "fits": true
+  },
+  {
+    "shape": "S1 — exhibition framing",
+    "line": "One porcelain tradition.",
+    "width_mm": 87.74,
+    "available_mm": 166,
+    "fits": true
+  },
+  {
+    "shape": "S1 — exhibition framing",
+    "line": "Three worlds.",
+    "width_mm": 50.31,
+    "available_mm": 166,
+    "fits": true
+  },
+  {
+    "shape": "S1 — contents number 01",
+    "line": "01",
+    "width_mm": 5.29,
+    "available_mm": 14,
+    "fits": true
+  },
+  {
+    "shape": "S1 — contents label 01",
+    "line": "The Chinese past",
+    "width_mm": 50.06,
+    "available_mm": 143,
+    "fits": true
+  },
+  {
+    "shape": "S1 — contents number 02",
+    "line": "02",
+    "width_mm": 5.29,
+    "available_mm": 14,
+    "fits": true
+  },
+  {
+    "shape": "S1 — contents label 02",
+    "line": "The Qing court",
+    "width_mm": 43.88,
+    "available_mm": 143,
+    "fits": true
+  },
+  {
+    "shape": "S1 — contents number 03",
+    "line": "03",
+    "width_mm": 5.29,
+    "available_mm": 14,
+    "fits": true
+  },
+  {
+    "shape": "S1 — contents label 03",
+    "line": "European markets",
+    "width_mm": 52.98,
+    "available_mm": 143,
+    "fits": true
+  },
+  {
+    "shape": "S2 — exhibition chapter",
+    "line": "01    THE CHINESE PAST",
+    "width_mm": 51.16,
+    "available_mm": 230,
+    "fits": true
+  },
+  {
+    "shape": "S2 — folio",
+    "line": "02",
+    "width_mm": 4.52,
+    "available_mm": 10,
+    "fits": true
+  },
+  {
+    "shape": "S2 — title",
+    "line": "Reviving",
+    "width_mm": 50.45,
+    "available_mm": 168,
+    "fits": true
+  },
+  {
+    "shape": "S2 — title",
+    "line": "copper-red",
+    "width_mm": 63.54,
+    "available_mm": 168,
+    "fits": true
+  },
+  {
+    "shape": "S2 — technical history",
+    "line": "Jingdezhen potters recovered",
+    "width_mm": 106.85,
+    "available_mm": 169,
+    "fits": true
+  },
+  {
+    "shape": "S2 — technical history",
+    "line": "Ming copper-red glazing.",
+    "width_mm": 90.24,
+    "available_mm": 169,
+    "fits": true
+  },
+  {
+    "shape": "S2 — exhibition interpretation",
+    "line": "An inherited technique became",
+    "width_mm": 107.07,
+    "available_mm": 169,
+    "fits": true
+  },
+  {
+    "shape": "S2 — exhibition interpretation",
+    "line": "a statement of Qing identity.",
+    "width_mm": 96.13,
+    "available_mm": 169,
+    "fits": true
+  },
+  {
+    "shape": "S2 — glaze detail caption",
+    "line": "Copper-red glaze | detail",
+    "width_mm": 50.3,
+    "available_mm": 158,
+    "fits": true
+  },
+  {
+    "shape": "S2 — object name",
+    "line": "Langyao-red Guanyin vase",
+    "width_mm": 81.14,
+    "available_mm": 130,
+    "fits": true
+  },
+  {
+    "shape": "S2 — object attribution",
+    "line": "Kangxi reign, 1662–1722 · Palace Museum",
+    "width_mm": 85.15,
+    "available_mm": 116,
+    "fits": true
+  },
+  {
+    "shape": "S3 — folio",
+    "line": "03",
+    "width_mm": 4.52,
+    "available_mm": 10,
+    "fits": true
+  },
+  {
+    "shape": "S3 — exhibition chapter",
+    "line": "02    THE QING COURT",
+    "width_mm": 48.56,
+    "available_mm": 139,
+    "fits": true
+  },
+  {
+    "shape": "S3 — detail caption",
+    "line": "Swallows",
+    "width_mm": 20.46,
+    "available_mm": 50,
+    "fits": true
+  },
+  {
+    "shape": "S3 — detail caption",
+    "line": "in enamel",
+    "width_mm": 22.08,
+    "available_mm": 50,
+    "fits": true
+  },
+  {
+    "shape": "S3 — object caption",
+    "line": "Imperial falangcai “swallows” bowl",
+    "width_mm": 74.58,
+    "available_mm": 144,
+    "fits": true
+  },
+  {
+    "shape": "S3 — title",
+    "line": "Enamels at the",
+    "width_mm": 78.78,
+    "available_mm": 140,
+    "fits": true
+  },
+  {
+    "shape": "S3 — title",
+    "line": "Qing court",
+    "width_mm": 56.37,
+    "available_mm": 140,
+    "fits": true
+  },
+  {
+    "shape": "S3 — object date",
+    "line": "Qianlong reign, 1736–1795",
+    "width_mm": 66.11,
+    "available_mm": 138,
+    "fits": true
+  },
+  {
+    "shape": "S3 — materials and painting",
+    "line": "European enamel knowledge",
+    "width_mm": 97.36,
+    "available_mm": 138,
+    "fits": true
+  },
+  {
+    "shape": "S3 — materials and painting",
+    "line": "met Chinese porcelain and",
+    "width_mm": 88.83,
+    "available_mm": 138,
+    "fits": true
+  },
+  {
+    "shape": "S3 — materials and painting",
+    "line": "bird-and-flower painting.",
+    "width_mm": 82.44,
+    "available_mm": 138,
+    "fits": true
+  },
+  {
+    "shape": "S3 — court interpretation",
+    "line": "Beijing court workshops",
+    "width_mm": 79.41,
+    "available_mm": 138,
+    "fits": true
+  },
+  {
+    "shape": "S3 — court interpretation",
+    "line": "selected and adapted these",
+    "width_mm": 91.97,
+    "available_mm": 138,
+    "fits": true
+  },
+  {
+    "shape": "S3 — court interpretation",
+    "line": "techniques for imperial taste.",
+    "width_mm": 95.57,
+    "available_mm": 138,
+    "fits": true
+  },
+  {
+    "shape": "S3 — production connection",
+    "line": "JINGDEZHEN → BEIJING",
+    "width_mm": 49.71,
+    "available_mm": 125,
+    "fits": true
+  },
+  {
+    "shape": "S4 — exhibition chapter",
+    "line": "03    EUROPEAN MARKETS",
+    "width_mm": 56.36,
+    "available_mm": 230,
+    "fits": true
+  },
+  {
+    "shape": "S4 — folio",
+    "line": "04",
+    "width_mm": 4.52,
+    "available_mm": 10,
+    "fits": true
+  },
+  {
+    "shape": "S4 — title",
+    "line": "A coat of arms,",
+    "width_mm": 81.39,
+    "available_mm": 201,
+    "fits": true
+  },
+  {
+    "shape": "S4 — title",
+    "line": "made in China.",
+    "width_mm": 82.59,
+    "available_mm": 201,
+    "fits": true
+  },
+  {
+    "shape": "S4 — object identity",
+    "line": "Chinese armorial export plate · eighteenth century",
+    "width_mm": 113.13,
+    "available_mm": 174,
+    "fits": true
+  },
+  {
+    "shape": "S4 — heraldry detail caption",
+    "line": "Heraldry | detail",
+    "width_mm": 31.89,
+    "available_mm": 66,
+    "fits": true
+  },
+  {
+    "shape": "S4 — Europe label",
+    "line": "EUROPE",
+    "width_mm": 17.67,
+    "available_mm": 86,
+    "fits": true
+  },
+  {
+    "shape": "S4 — China label",
+    "line": "CHINA",
+    "width_mm": 14.29,
+    "available_mm": 86,
+    "fits": true
+  },
+  {
+    "shape": "S4 — designs label",
+    "line": "Designs",
+    "width_mm": 15.59,
+    "available_mm": 41,
+    "fits": true
+  },
+  {
+    "shape": "S4 — wares label",
+    "line": "Wares",
+    "width_mm": 12.2,
+    "available_mm": 22,
+    "fits": true
+  },
+  {
+    "shape": "S4 — commission account",
+    "line": "European patrons sent",
+    "width_mm": 71.29,
+    "available_mm": 119,
+    "fits": true
+  },
+  {
+    "shape": "S4 — commission account",
+    "line": "heraldic designs to China.",
+    "width_mm": 81.63,
+    "available_mm": 119,
+    "fits": true
+  },
+  {
+    "shape": "S4 — commission account",
+    "line": "Chinese artisans made",
+    "width_mm": 71.01,
+    "available_mm": 119,
+    "fits": true
+  },
+  {
+    "shape": "S4 — commission account",
+    "line": "porcelain for family identity",
+    "width_mm": 85.55,
+    "available_mm": 119,
+    "fits": true
+  },
+  {
+    "shape": "S4 — commission account",
+    "line": "and social status.",
+    "width_mm": 53.3,
+    "available_mm": 119,
+    "fits": true
+  },
+  {
+    "shape": "S4 — exhibition interpretation",
+    "line": "Chinese production,",
+    "width_mm": 62.9,
+    "available_mm": 117,
+    "fits": true
+  },
+  {
+    "shape": "S4 — exhibition interpretation",
+    "line": "European family identity.",
+    "width_mm": 81.77,
+    "available_mm": 117,
+    "fits": true
+  },
+  {
+    "shape": "S5 — folio",
+    "line": "05",
+    "width_mm": 4.52,
+    "available_mm": 10,
+    "fits": true
+  },
+  {
+    "shape": "S5 — synthesis title",
+    "line": "Porcelain changes meaning.",
+    "width_mm": 139.17,
+    "available_mm": 305,
+    "fits": true
+  },
+  {
+    "shape": "S5 — interpretive context",
+    "line": "Tradition, court workshops and overseas patrons each shaped the object.",
+    "width_mm": 206.25,
+    "available_mm": 305,
+    "fits": true
+  },
+  {
+    "shape": "S5 — tradition label",
+    "line": "Tradition",
+    "width_mm": 23.2,
+    "available_mm": 39,
+    "fits": true
+  },
+  {
+    "shape": "S5 — court label",
+    "line": "Court taste",
+    "width_mm": 28.4,
+    "available_mm": 68,
+    "fits": true
+  },
+  {
+    "shape": "S5 — market label",
+    "line": "Status",
+    "width_mm": 15.56,
+    "available_mm": 45,
+    "fits": true
+  },
+  {
+    "shape": "S5 — exhibition claim",
+    "line": "Qing makers actively shaped",
+    "width_mm": 102.13,
+    "available_mm": 177,
+    "fits": true
+  },
+  {
+    "shape": "S5 — exhibition claim",
+    "line": "cultural exchange.",
+    "width_mm": 65.3,
+    "available_mm": 177,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Europe label",
+    "line": "Europe",
+    "width_mm": 15.94,
+    "available_mm": 47,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Beijing label",
+    "line": "Beijing",
+    "width_mm": 15.1,
+    "available_mm": 41,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Jingdezhen label",
+    "line": "Jingdezhen",
+    "width_mm": 25.4,
+    "available_mm": 40,
+    "fits": true
+  },
+  {
+    "shape": "S5 — Guangzhou label",
+    "line": "Guangzhou",
+    "width_mm": 25.29,
+    "available_mm": 52,
+    "fits": true
+  },
+  {
+    "shape": "S5 — network qualifier",
+    "line": "Conceptual connections",
+    "width_mm": 45.08,
+    "available_mm": 105,
+    "fits": true
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "baseline_sha256": "108a0739796bf5a146a2ba2d3c93c5fd256f665c930b1967ed0cd19f2d4cca85",
+  "output_sha256": "0b798ed441b92f29f725328c763f38fe0bb2779417b32cebce0aad70fc209a91",
+  "original_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/DunHuang Project/成果展示/HY5419_敦煌项目_8分钟展演稿_中英对照.docx",
+  "english_spoken_words": 486,
+  "main_english_paragraphs": 11,
+  "comments_accepted": 3,
+  "comments_unresolved": 0,
+  "comment_threads_retained": true,
+  "comments_marked_resolved": 3,
+  "changed_zip_parts": [
+    "word/document.xml",
+    "word/commentsExtended.xml",
+    "word/settings.xml"
+  ],
+  "untouched_part_bytes_preserved": true,
+  "run_formatting_preserved": true,
+  "rich_element_counts_preserved": true,
+  "changes": [
+    {
+      "reason": "批注0：最先尝试Gephi；英文同步",
+      "old": "The Gephi network is the part I find most useful.",
+      "new": "Gephi was the first tool I tried for this project. Its network is the part I find most useful."
+    },
+    {
+      "reason": "批注0：保留已有作用说明，补充工具尝试顺序",
+      "old": "Gephi网络是我觉得最有用的部分。",
+      "new": "Gephi是我在这个项目中最先尝试的工具，它的网络也是我觉得最有用的部分。"
+    },
+    {
+      "reason": "批注1：按圈选范围删去英文对应短语",
+      "old": ", with AI assistance.",
+      "new": "."
+    },
+    {
+      "reason": "批注1：删去圈选短语，保留表格与证据处理说明",
+      "old": "，并使用AI协助整理",
+      "new": ""
+    },
+    {
+      "reason": "批注1：加入有余时间时的Excel操作",
+      "old": "操作提示｜停在当前关系实例上即可。这里强调你的研究选择与判断，不演示代码或长篇解释AI工具。",
+      "new": "操作提示｜先停在关系实例上。若进度提前，可用10—15秒简示Excel，再返回网页讲AI分工；文件和工作表见第一页。时间紧则略过Excel，不演示代码。"
+    },
+    {
+      "reason": "与可选操作同步标题",
+      "old": "说明资料工作与AI的分工",
+      "new": "资料记录与AI分工（Excel可选）"
+    },
+    {
+      "reason": "时间表与正文同步",
+      "old": "资料整理与AI分工",
+      "new": "资料记录与AI分工"
+    },
+    {
+      "reason": "时间表加入可选Excel",
+      "old": "停在关系实例；说明数据整理、skills与个人判断",
+      "new": "有余时简示Excel；随后说明skills与个人判断"
+    },
+    {
+      "reason": "保证五分钟主讲，优先省略可选操作",
+      "old": "时间紧时先省略原图切换和第二个通信例子。",
+      "new": "时间紧时先省略Excel、原图切换和第二个通信例子。"
+    },
+    {
+      "reason": "批注2：StoryMaps启发及查阅、分享、反馈的平台价值；不虚构站内留言功能",
+      "old": "The website brings the map and network together, and links them to present-day collections and further reading. Visitors can follow a route, examine a relationship, and check the evidence behind it. My main result is a way to read the movement of manuscripts together with the people and scholarly work around them. Thank you. I welcome your questions.",
+      "new": "Learning about StoryMaps inspired me to bring these results together on a website. Visitors can explore the routes and relationships, consult the sources and share the link. I want it to be a platform for discussion and feedback as well, so I can keep improving it. Thank you. I welcome your questions."
+    },
+    {
+      "reason": "批注2：中文与英文同步",
+      "old": "网页把地图与网络放在一起，并连接到今日馆藏与继续阅读的资料。使用者可以沿着路线阅读，查看一项人物关系，再核对它的依据。我的主要成果，是提供一种把文献流转、相关人物及其学术工作放在一起阅读的方式。谢谢大家，欢迎提问。",
+      "new": "这个网站的想法来自我对StoryMaps的学习。我希望把这些成果放在一起，让大家沿路线阅读、查看人物关系、查阅资料并分享链接。它也可以成为交流和反馈的平台，让我根据读者意见继续完善。谢谢大家，欢迎提问。"
+    },
+    {
+      "reason": "批注2：同步超时备用收尾",
+      "old": "Together, the map and network connect manuscript journeys with the people who studied them. The website also lets readers check the sources. Thank you. I welcome your questions.",
+      "new": "Inspired by StoryMaps, I built a website for exploring the routes and relationships, consulting sources and sharing the project. I hope readers’ feedback will help me improve it. Thank you."
+    },
+    {
+      "reason": "批注2：同步备用收尾中文",
+      "old": "地图与网络把文献流转与研究这些材料的人联系起来，网页也让读者能够核对来源。谢谢大家，欢迎提问。",
+      "new": "学习StoryMaps启发我制作这个网站，让大家查看路线和人物关系、查阅资料并分享项目。我希望读者的反馈能帮助我继续改进。谢谢大家。"
+    },
+    {
+      "reason": "批注2：同步问答中最突出成果的表述",
+      "old": "For me, it is the connection between a readable story and a checkable network. Readers can see how collectors, Chinese scholars and library workers performed different tasks, then inspect the evidence. I am presenting relationships drawn from scholarship, rather than claiming to discover all these contacts for the first time.",
+      "new": "For me, it is a website inspired by StoryMaps that connects a readable story with a checkable network. Readers can follow the routes and relationships, consult the sources and share the project. Their feedback helps me improve the presentation. The historical relationships come from the literature I have studied."
+    },
+    {
+      "reason": "批注2：同步问答中文",
+      "old": "对我来说，是把可阅读的叙述和可核对的网络联系起来。读者能看到收藏者、中国学者和图书馆工作人员承担了不同工作，再查看依据。我是在已有研究基础上整理和呈现这些联系，而不是声称首次发现了所有交往。",
+      "new": "对我来说，是在StoryMaps启发下，把可阅读的叙述和可核对的网络放在一个网站中。读者能沿路线和人物关系阅读、查阅资料并分享项目，他们的反馈也帮助我改进呈现。历史关系则来自我阅读和整理的文献。"
+    },
+    {
+      "reason": "重新核算英文正文词数，区分可选Excel口述",
+      "old": "英文主讲正文约486词。按每分钟110—120词，口述约4.0—4.4分钟，再预留约30—45秒网页操作。以带操作的实际排练计时为准，控制在5分钟内。",
+      "new": "英文主讲正文约486词。按每分钟110—120词，口述约4.0—4.4分钟，再预留约30—45秒网页操作。Excel为可选，不计入上述词数；以实际排练为准，控制在5分钟内。"
+    }
+  ],
+  "presentation_view": "Resolved comments retained; normal reading view hides markup",
+  "pagination_repair": "Moved only the newly added optional Excel sentences to the related methods section; left original paragraph order intact.",
+  "local_spacing_adjustment": "Reduced paragraph gaps only in methods/closing to fit optional Excel notes and the backup closing on one page; fonts, sizes and line spacing preserved.",
+  "page_boundary_fix": "Replaced the empty standalone page-break paragraph before the first Q&A heading with pageBreakBefore on that heading, retaining the intended boundary without a blank page."
+}

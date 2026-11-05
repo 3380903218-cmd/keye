@@ -1,0 +1,56 @@
+{
+  "sha256": "8bb53b12f492126c3223fde9242c8cb913ced566aabfd6721c50e463fc19b2d3",
+  "baseline_sha256": "1f194c317fad506ea2a2bf6b285a65ab59a0a6580afea15cde30fb2b716f80f8",
+  "comments_addressed": 11,
+  "changed_paragraphs": [
+    3,
+    7,
+    8,
+    14,
+    18,
+    22,
+    25,
+    27,
+    30,
+    35,
+    41,
+    42,
+    44,
+    53,
+    54,
+    55,
+    56,
+    57,
+    59,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    70
+  ],
+  "removed_paragraphs": [
+    71
+  ],
+  "body_count": 6735,
+  "main_count_including_headings_captions_sources": 6948,
+  "media_unchanged": {
+    "word/media/image1.png": "ae2a34b8fea6c96dd52929ed38b4f88c50a6b16f32001248c55a75e1891ca2c5",
+    "word/media/image2.png": "b7db708b97f90f246b5e994360f97ecd4f26ad64cf3411cfe8424ef283c0b9ed"
+  },
+  "drawings_preserved": 2,
+  "styles_unchanged": true,
+  "unmodified_paragraphs_exactly_preserved": true,
+  "reference_italics_verified": true,
+  "removed_parts": [
+    "word/comments.xml",
+    "word/commentsExtended.xml",
+    "word/commentsExtensible.xml",
+    "word/commentsIds.xml",
+    "word/people.xml"
+  ],
+  "main_document_fields_preserved": 0.0,
+  "all_package_field_structures_preserved": 4
+}

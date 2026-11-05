@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "date": "2026-10-13",
+  "file": "双层传播网络_中文记录工作簿_整理版.xlsx",
+  "sha256": "0b3aadb52134753cc7035677dac1de8352e67e6ae73acb8629817b25e0fe308b",
+  "reading_records": 38,
+  "event_records": 20,
+  "core_physical_events_reused": 9,
+  "new_dispatch_record": 1,
+  "knowledge_activity_records": 10,
+  "objects_or_groups": 14,
+  "work_records": 3,
+  "representation_groups": 1,
+  "participant_records": 39,
+  "event_status_counts": {
+    "可整理事件": 17,
+    "待核验": 3
+  },
+  "reading_status_counts": {
+    "可整理事件": 27,
+    "背景／方法": 6,
+    "待核验": 4,
+    "仅线索": 1
+  },
+  "template_unchanged": true,
+  "original_Gephi_dataset_unchanged": true,
+  "input_files": [
+    {
+      "path": "04_gephi/进展gephi数据集/events.csv",
+      "sha256": "ea836b18789edb596326fd181d045f23564db359ae03a0539f0883daae66d22b"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/entities.csv",
+      "sha256": "8bea68f256b5bbca8cc2c2367b53a4d59e8cc51a7b0e3333f13c80e2a097acd8"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/sources.csv",
+      "sha256": "11606f18cb09aae90e33aa69578075daa7698fab7ebb89ba428303ff52079c9c"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/event_evidence.csv",
+      "sha256": "08b9e78ebd05217fb7292cc424593d1c6d252318369bcf4f862fb0247bf1c710"
+    },
+    {
+      "path": "04_gephi/进展gephi数据集/event_participants.csv",
+      "sha256": "41bce4500133795995ebdeb2bb4f1fabcdfe995e57659d64cca1cbffed6132b3"
+    }
+  ],
+  "checked_new_passages": [
+    "S03 printed63/PDF8",
+    "S01 printed840/PDF20",
+    "S17 AAM/PDF16",
+    "S07 printed916 scan0412",
+    "S22 printed15 scan0021"
+  ],
+  "verification": [
+    "Workbook reopen and CSV exports",
+    "Unique reading/event/object IDs",
+    "Source, entity, object, work and event references",
+    "Missing physical dispatch sender retained",
+    "No completed-cataloguing event inferred from intention",
+    "Examples remain separate",
+    "Original workbook hash unchanged"
+  ],
+  "scope": "Quick organization of already collected material, not a full-text exhaustive review or a Gephi graph release."
+}

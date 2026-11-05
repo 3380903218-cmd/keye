@@ -1,0 +1,204 @@
+Conserving a Chinese scroll - International Dunhuang Programme (https://idp.bl.uk/blog/conserving-a-chinese-scroll/)
+citeturn134view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn132view1","lineno":38}); Total lines: 126
+L35: In the past, various materials were used to strengthen and repair manuscripts. In the case of our scroll, silk gauze was pasted on both sides with animal glue. There were, sometimes, several layers on top of each other. Heavy and thick paper was also applied to reinforce weak areas, such as edges, tears and missing areas.
+L36: 
+L37: 【22†Image: Close up of a scroll whose surface is made blurry by the addition of gauze, with some Chinese characters obscured.】Gauze covering the surface of scroll Or.8210/S.3877.
+L38: As these materials aged, they became more unstable, causing the item to distort and transferring acidity to the paper. Higher acidity meant that the document became discoloured, which when combined with the texture of the gauze meant that it was difficult to perceive the original aspect of the scroll. In addition, a lower pH also made the item more brittle, making safe handling problematic.
+L39: Removing these materials proved very challenging: first, because they heavily adhered to the most vulnerable areas; second, because the paper used to make this scroll was particularly thin and transparent.
+L40: 
+L41: 【23†Image: Scroll partially unrolled on a flat surface showing significant cracks in the paper.】 【24†Image: Scroll partially unrolled on a flat background showing that paper is damaged, discoloured and uneven.】 Scroll Or.8210/S.3877 before conservation
+L42: We worked on a section at a time, using hot water to reactivate the animal glue. We then removed the gauze with tweezers, carefully pulling it away from the paper. One of the most time-consuming processes was to remove the residual animal glue, which had been used in very large quantities. We did so by scraping it with a spatula, while it was damp. During this stage, we also removed old repairs, as they easily peeled away from the original material.
+--------------------------------------------------------------------------------
+ (https://www.nlc.cn/upload/attachments/2023-04-26/252c75c4.pdf)
+citeturn134view1 [wordlim: 200] Crawled: yesterday; Content type: application/pdf; Number of pages: 4; Source: open({"ref_id":"turn133view1","lineno":15}); Total lines: 104
+L0@P0: 文津流觞 2023 年第 1 期
+L1@P0: 34
+L2@P0: 敦煌遗书修复
+L3@P0: 国家图书馆藏 20 件敦煌遗书的修复
+L4@P0:  宋晖 国家图书馆古籍馆
+L5@P0: 国家图书馆是国内最大的敦煌遗书收藏、整理、研究与学术服务机构。自 1910 年劫余
+L6@P0: 敦煌遗书入藏京师图书馆（国家图书馆前身），至今馆藏已有 16579 件敦煌遗书，总长度约
+L7@P0: 占世界敦煌遗书的三分之一。敦煌遗书跨度从公元 4 世纪到 11 世纪。由于年代久远，加之
+L8@P0: 一度颠沛流离，破损较为严重。从上世纪八十年代起国家图书馆开始对这批文献进行尝试性
+L9@P0: 修复，尔后于 1991 年正式启动了大规模的修复工作，并总结国内外敦煌遗书修复经验，确
+L10@P0: 立了“最少干预原则”“可逆性原则”“抢救为主、治病为辅”以及“整旧如旧原则”四大古
+L11@P0: 籍修复原则，标志着古籍修复开始走向科学化。2021—2022 年，在专项基金的支持下，国
+L12@P0: 家图书馆在秉承敦煌遗书的四大修复原则下，再一次启动了一批馆藏敦煌遗书的修复工作。
+L13@P0: 该批敦煌遗书均为卷轴装，整体状态较为残破，经卷的纸张老化、酸化问题突出，机械
+L14@P0: 强度较低，很多部位或残片酥松发脆。通过保护修复工作可以提高敦煌遗书的机械强度，改
+L15@P0: 善其保存状况，恢复完整外观，敦煌遗书原有的文物信息和价值得到良好展现。
+L16@P0: 根据其目前保存状况和病害分析，该批敦煌遗书的修复方案及流程主要为：
+L17@P0: ①登记、拍照和建档。
+L18@P0: ②纸张酸碱度分析。
+L19@P0: ③纤维检测。
+L20@P0: ④修复补纸的自行抄造、染色与加工。
+L21@P0: ⑤除尘、除垢。
+L22@P0: ⑥补破。
+L23@P0: ⑦压平。
+L24@P0: ⑧裁、剪齐。
+L25@P0: 对该批敦煌遗书的纸张信息进行了逐一检测分析，其基本信息及检测结果如下表所示：
+L26@P0: 馆藏号 藏品名称 版本信息
+L27@P0: 卷子总长
+L28@P0: （cm）
+L29@P0: 卷子宽
+L30@P0: （cm）
+L31@P0: 纤维成分
+L32@P0: BD00055 沙弥威仪 唐写本 367 25.3 皮
+L33@P0: BD00189 维摩诘所说经卷中 吐蕃统治时期写本 157.5 25 麻
+L34@P0-1: BD01176 维摩诘所说经卷上 唐写本 276 25 麻文津流觞 2023 年第 1 期
+L35@P1: 35
+L36@P1: BD01501 金刚般若波罗蜜经 唐写本 68.6 26.5 皮
+L37@P1: BD01594 妙法莲华经卷四 唐写本 99.5 26 麻
+L38@P1: BD01615 金刚般若波罗蜜经 唐写本 224.2 24 皮
+L39@P1: BD01636 金刚般若波罗蜜经 唐写本 80 24.8 皮
+L40@P1: BD01650 妙法莲华经卷七 吐蕃统治时期写本 99.3 26 麻
+L41@P1: BD01664
+L42@P1: 大般若波罗蜜多经卷五
+L43@P1: ○一
+L44@P1: 吐蕃统治时期写本 47.4 25.6 麻
+L45@P1: BD01689 金刚般若波罗蜜经 归义军时期写本 364.6 25.5 麻
+L46@P1: BD01695 金刚般若波罗蜜经 归义军时期写本 132.7 26 麻
+L47@P1: BD01763
+L48@P1: 大般若波罗蜜多经卷一
+L49@P1: 四七
+L50@P1: 吐蕃统治时期写本 118.5 25.2 麻
+L51@P1: BD01775 妙法莲华经卷四 唐写本 63 25 皮
+L52@P1: BD01809 维摩诘所说经卷下 归义军时期写本 64 26 麻
+L53@P1: BD01864 金刚般若波罗蜜经 唐写本 61.2 25.5 皮
+L54@P1: BD01905 妙法莲华经卷二 唐写本 248.9 28.4 麻
+L55@P1: BD02557 观世音经 唐写本 181.1 24.5 皮
+L56@P1: BD02637 妙法莲华经卷四 唐写本 239.9 26.4 皮
+L57@P1: BD02692 金刚般若波罗蜜经 唐写本 347 27 麻
+L58@P1: BD02725 妙法莲华经卷二 唐写本 44.8 25.2 皮
+L59@P1: 根据检测数据，修复人员开始在修复室内自行抄制敦煌遗书修复用纸。期间多次赴手工
+L60@P1: 造纸产地，调研学习手工造纸技术。经反复研究、试验后研制出满足需要的修复用纸。抄制
+L61@P1: 的修复用纸经过染色等加工环节，最终制作出颜色及深浅相仿、填涂成分相符、不易产生色
+L62@P1: 迁的加工纸。
+L63@P1: 修复用纸准备好后，开始进行敦煌遗书的修复工作。
+L64@P1: （1）清理卷子
+L65@P1: 修复人员使用毛笔、镊子等工具将卷子待修复部分纸张展平、比对、清理。如有渣土等
+L66@P1: 杂质物，则清扫收集待研究。如有裱补等古代修复痕迹，当补纸与卷子均完好并不影响原纸
+L67@P1: 安全时保留原补纸；当补纸对原纸造成影响时，则根据情况揭下补纸（图 1），修复完成后
+L68@P1-2: 再复位，或将补纸单独保存。文津流觞 2023 年第 1 期
+L69@P2: 36
+L70@P2: 图 1 修复人员正在揭补纸
+L71@P2: （2）修复裂口
+L72@P2: 修复人员使用抄制的相对较薄的修复用纸
+L73@P2: 修补裂缝。根据裂口的大小、长短，结合纸张的
+L74@P2: 具体特性调整用纸薄厚和溜条的宽窄（图 2）。
+L75@P2: 有的裂口呈树状长而发散，修复人员凭借多年的
+L76@P2: 经验和过硬的技术将树状的裂缝修复完好，使正
+L77@P2: 面不显破损痕迹，背面补纸整齐美观。 图 2 修复人员用定制溜口纸溜口
+L78@P2: （3）修复缺损
+L79@P2: 修复人员使用定制的修复用纸修补缺损部位（图 3）。针对敦煌修复用纸相对厚实的特
+--------------------------------------------------------------------------------
+中国古籍保护网 (https://www.nlc.cn/pcab/zy/pxjz/20250423_2644574.shtml)
+citeturn134view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn133view0","lineno":7}); Total lines: 32
+L6: 【4†Image】 近年，全国古籍整理出版规划领导小组主持实施敦煌文献系统性保护整理出版工程，联合学术界、文化界、出版界等多方面的力量共同推进，一系列项目渐次铺开并初见成效。《敦煌文献全集》是工程的重点项目，计划在系统整理的基础上以高清全彩方式刊布散藏于世界各地的敦煌文献，为敦煌学的发展提供高质量的丰富资料。 《中国国家图书馆藏敦煌文献》是《敦煌文献全集》之一种，集中刊布中国国家图书馆（中国国家图书馆的前身分别是京师图书馆、国立北平图书馆、北京图书馆。本文述及不同历史时期时采用当时的馆名，泛指多个历史时期时一般用“国图”指代）藏敦煌文献。 【5†Image】 国图所藏敦煌文献编为16579号，除去少量空号，实有16516号。从入藏来源看，国图藏敦煌文献可分为两大部分：其一是1910年甘肃解运京师部分，包括千字文号（“地”至“位”）8679号、残卷1192号、残片3879号等，是国图藏敦煌文献的主体部分；其二是后续入藏部分，主要是“新”字号1600号，以及少量其他编号的藏卷。此外还有一些修复过程中揭下并另行编号的小块裱补纸。 国图所藏敦煌文献的号数虽然略少于俄罗斯科学院东方文献研究所，但因长卷较多，以写卷长度计藏量位居世界各机构之最，据方广锠先生统计，总长度达3.46万米。国图藏卷的价值，历来为学者所重视。早在1930年，陈寅恪先生发表《陈垣敦煌劫余录序》，便提示出一系列颇具研究旨趣的文献并加以具体说明，指出其价值与异国及私家所藏相比不遑多让。一个多世纪以来，大量相关研究论著也一再表明，国图藏敦煌文献具有极其重要的文献价值，不少还有待重新认识或深入研讨。 【6†Image】 一、国图藏敦煌文献的保护与整理历程 《中国国家图书馆藏敦煌文献》的编纂出版，是在国图110余年来持续不断地开展敦煌文献的整理、编目、保护、修复、研究、服务和数字化等工作的基础上进行的。前辈们经过百余年的努力，积累了大量的整理研究成果和相关工作经验，为新版图录的顺利编纂出版，奠定了坚实的基础。 1910年敦煌文献入馆之后，京师图书馆便组织力量开始编目工作，1911年便完成了财产账式的简目——《敦煌石室经卷总目》。此后，京师图书馆还组织编纂了多种庋藏册及工作目录。20世纪20年代，俞泽箴先生等编纂了《敦煌经典目》。随后，陈垣先生在馆编目录的基础上加以修改补充，参照《阅藏知津》的结构体系，编成《敦煌劫余录》，1931年由中研院历史语言研究所出版。20世纪30年代，国立北平图书馆善本部写经组编纂完成《敦煌石室写经详目》及其《续编》，可惜因全面抗战爆发未能及时出版。中华人民共和国成立以后入藏的“新”字号敦煌文献，大部分著录于1981年7月印行的《敦煌劫余录续编》。20世纪90年代，方广锠先生主持编纂新的馆藏敦煌文献目录，陆续附载于2005年至2012年出版的图录《国家图书馆藏敦煌遗书》各册之后，经修订后汇编为方广锠、李际宁、黄霞著《中国国家图书馆藏敦煌遗书总目录•馆藏目录卷》，2016年3月由中国人民大学出版社出版。该目创设“条记目录”体例，详细著录每一件敦煌文献的文物、文献、文字等各方面属性，细致全面，是了解国图藏敦煌文献最为详尽的参考书，堪称敦煌文献整理研究的一座里程碑。此外，方广锠先生还主编有《中国国家图书馆藏敦煌遗书总目录•新旧编号对照卷》。 【7†Image】 国图藏敦煌文献大多有一定程度的残损，有的残破严重，难以展阅。入藏之初京师图书馆便以通卷装裱工艺对少数卷子进行修整，这种办法一定程度上破坏了敦煌文献的原貌，之后逐渐被摒弃。20世纪90年代，北京图书馆善本特藏部及修复组经反复探讨，归纳出整旧如旧、最小干预、修复用纸有所区别、过程可逆等四个敦煌文献修复基本原则，大规模开展敦煌文献修复工作。近年来，国图继续开展严重残损敦煌文献的修复，在修复工艺、修复材料制备等方面有新的发展。 国图所藏敦煌文献入馆之后便开始用于读者服务，提供学术研究参考。1931年《敦煌劫余录》出版后，学者按图索骥，参考更为方便。20世纪50、60年代及80年代，北京图书馆拍摄了馆藏敦煌文献的缩微胶卷，用于读者服务的同时也对外发行。任继愈先生1987年担任北京图书馆馆长后，着力推动馆藏敦煌文献整理出版事宜。1999年，江苏古籍出版社（2002年更名为凤凰出版社）开始出版《中国国家图书馆藏敦煌遗书》，至2001年出版7册后中止。2001年，国图参与国际敦煌项目（IDP）合作，进行馆藏敦煌文献的数字化，次年开通IDP数据库中文网站。2005年，馆藏敦煌文献图录出版再次启动，国图善本特藏部（2008年合并为古籍馆）与北京图书馆出版社（2008年更名为国家图书馆出版社，以下简称“国图社”）合作，至2012年6月最终完成了《国家图书馆藏敦煌遗书》全书146册的出版，刊布了国图馆藏所有敦煌文献，以馆藏编号顺序编排，各册附条记目录。该书收录完备，图版清晰，定名准确，著录详明，编排科学，深受学界关注与赞扬，被誉为“我国文化事业发展的一项重要工程，更是敦煌学界一件功德无量的盛事”（郝春文《〈国家图书馆藏敦煌遗书〉的五大贡献》，《光明日报》2006年8月22日第10版）。 【8†Image】 二、在前辈奠定的基础上再上一层楼 2023年以来陆续推出的彩版图录《中国国家图书馆藏敦煌文献》，可以视为黑白版图录《国家图书馆藏敦煌遗书》的延续。20世纪80年代以来，中国学术界、出版界为敦煌文献的整理出版作出了巨大的努力，取得了一系列重要成果。限于条件、经费、技术等各方面的限制，此前出版的敦煌文献图录，尤其是收录文献数量大、册数多的大型图录，大多是黑白图版。颜色比较黯淡、文字比较模糊的文献，展现得不够清晰，不能完全满足文献研究的需要，更难以据之开展文物角度的研究。有鉴于此，近年来多位学者呼吁出版彩版敦煌文献图录。  “敦煌文献系统性保护整理出版工程”实施以来，全国古籍办大力推动《敦煌文献全集》的立项与出版，制定了《〈敦煌文献全集〉编纂出版工程实施方案》，详细而具体地规定了项目的工作目标、实施原则、编纂标准、出版规范和机制保障。在全国古籍办指导下，《中国国家图书馆藏敦煌文献》的编纂出版工作顺利推进。 相对于散藏海外的敦煌文献，本书的编纂出版有一些便利之处，一是如上文所述，前期的积累非常丰厚；二是文献存在国内，便于出版过程中开展核校对色等工作。但是，也面临很多困难，比如国图敦煌文献藏量大，按长度计算远远超过其他各馆所藏，相应地，编辑出版工作量也就特别巨大，需要的支持力度和工作周期也更大更长；又如文献目前远未完成数字化，当前已有的部分数字化成果也不尽符合出版需求，还需要在短时间内安排大量的文献拍摄、重拍或补拍。 面对这项艰巨的编纂出版任务，国图组织了多方面的工作团队。邀请著名敦煌学家方广锠、郝春文、荣新江教授，以及国图资深研究馆员、长期参与国图敦煌文献编目整理研究工作的李际宁先生，担任本书学术顾问，指导整理研究和编纂出版。由馆领导领衔，组成编纂出版组织协调团队，负责整体的统筹协调工作，成员还包括国图古籍馆、国图社的几位负责人。编纂组主要由古籍馆从事敦煌文献整理的专业人员组成，包括馆内从事敦煌文献编目、整理研究、图版拍摄整理的所有同仁，其中部分成员还参与了上一版黑白图录的工作。国图社则抽调骨干力量，组成编辑团队，负责编校、排版、印制等工作，还约请几位资深编辑承担审稿工作。 三、新版图录的新推进  为了出好新版图录，并力求使其能够满足新时代敦煌文献研究的需要、代表新时代敦煌文献整理刊布的高水准，编纂团队和编辑团队都开展了繁重而细致的工作。 编纂组主要开展目录和图版整理工作。目录方面，在此前多部馆藏目录特别是《中国国家图书馆藏敦煌遗书总目录》的基础上，吸收学界最新研究成果，对文献定名进行了一些调整。定名代表了对每件敦煌文献性质、内容的认识，虽然文字量不大，但体现了敦煌文献研究的进展和深度。编纂组秉承继承前辈成果、体现新近进展的原则，逐一审订所有文献的定名，努力向读者传递更准确更详明的信息。图版方面，抓紧安排拍摄、图像处理、拼接全图、核校等工作，不仅着力细化图像拍摄与处理流程，还与此前出版的146册黑白图录进行交叉核校，尽可能避免图版方面的疏漏。 进入排版环节，国图社精心作了一些特别的设计。由于敦煌文献中有大量的长卷，图录受限于书页幅面，只能在一个页面上展示长卷的局部大图，难以清晰展示全貌。国图社创造性地在每一页的页眉，排出长卷的全卷拼接图，并在全图上将当页大图部分高亮显示，以此突显每一页大图在全卷中的位置，让读者既能看到细节特写，也能观照写卷全局。 【9†Image】 以往的图录大多只展示敦煌文献打开的状态，而较少关注其外观及保存状态，本图录在每一件卷轴装、梵夹装文献的题名页，提供了一幅外观图，让读者看到打开之前的文献外观，增强对其整体的认识。每一页的图版均通栏排列，前后页之间重复一行，以方便前后衔接观赏与研究。 通过这些设计，除了以高清原大图版展现原卷面貌以外，还多角度地展现了敦煌文献的文物特征——这也是新版图录的一个突出特征。更逼真、更全面地展现在研究者面前的敦煌文献的文物特征，为写本物理形态的观赏与研究提供了更详细、更具体的依据。 《中国国家图书馆藏敦煌文献》以刊布高清彩色图版为最引人注目的特色。以往在黑白图录中难以辨识的朱点、朱笔文字、淡墨字迹，以及因纸色晦暗而不能清晰显示的字迹，在彩版图录中将得到清晰呈现。 比如新版图录第24册所收BD00338《金光明最胜王经》卷二，原卷纸色较暗，且有污渍，旧版图录上文字不够清晰，新版彩图则能清晰展现所有文字和细节。又如新版图录第2册所收BD00020《大般涅槃经抄》，原卷有朱笔修改、朱笔标记，颜色较淡，旧版图录因系黑白图版，几乎完全看不出来，不能满足文献整理和研究的需要，新版图录的彩色图版，朱笔淡墨则纤毫毕现。此类的样例非常多，兹不赘举。 【10†Image】 得益于修复工作的加持，新版图录的不少图像信息更为完整。敦煌文献大量存在残损、褶皱等情况，如上文所述，国图自20世纪90年代以来开展了大规模的敦煌文献修复，大批残损的写卷得到妥善的保护，也更便于研究参考。仍以BD00020《大般涅槃经抄》为例，这件文献卷首严重残破，早年出版的黑白图录中，图像有很多褶皱，导致文字被遮盖、扭曲，难以据之完成完整的录文。经修复之后，褶皱打开，卷面平整，新版图录中的图像，卷面文字便完整而清晰。又如新版图录第22册收录的BD00307《金刚经》，原有褶皱，修复后得以展开，新版图录的内容完整性同样优于旧版。这样的写卷为数不少，不仅有助于文献整理与研究，也在一定程度上展现了古籍修复工作的学术贡献。 【11†Image】 总之，质量更高、内容更完整、图版更清晰的图录，辅以吸收了最新研究成果的著录，无疑会大幅提高研究者获得的信息量，有助于敦煌文献研究的进一步深入开展。尤其是写本学、书籍史等正在蓬勃兴起的学术领域，取资于此的当更为丰富。 我们希望，彩版图录的出版能为敦煌文献研究打开一扇更宽的窗户，研究者们据此开展更深入、更专精的研究，从而推动敦煌学的新发展；对敦煌文献感兴趣的广大公众，包括书法爱好者，也能从彩色图版中获得更佳的阅读与欣赏体验。 （本文原载《古籍整理出版情况简报》，2025年第2期，第4—9页。） 【12†Image】 作者简介 刘波，文学博士，现为中国国家图书馆古籍馆研究馆员、副馆长，兼任中国敦煌吐鲁番学会常务理事。出版《国家图书馆与敦煌学》《赵万里先生年谱长编》《赵万里传》《敦煌西域文献题跋辑録》等，合著《美国哈佛大学哈佛燕京图书馆藏善本方志书志》《守藏集》。 来源：《古籍整理出版情况简报》、中国敦煌吐鲁番学会公众号、国家图书馆出版社
+L7: 【13†Image】
+L8: 【14†联系我们】
+L9: 电话：010-88544649
+L10: 传真：010-68476406
+L11: 邮箱：gjgjbhzx@nlc.cn
+L12: 【15†Image】
+L13: 扫描关注我们
+L14: 保护计划
+L15: 【16†简介】
+L16: 【17†工作机构】
+L17: 【18†政策法规】
+L18: 【19†规划】
+L19: 【20†标准规范】
+L20: 相关链接
+L21: 【21†中华人民共和国文化和旅游部†www.mct.gov.cn】
+L22: 【22†中国国家图书馆】
+L23: 【23†国家典籍博物馆】
+L24: 【24†中国古籍保护协会†www.chinaabp.cn】
+L25: 【25†北京大学图书馆†www.lib.pku.edu.cn】
+L26: 【26†中国社会科学院图书馆†www.lib.cass.org.cn】
+L27: 【27†中国科学院文献情报中心†www.las.ac.cn】
+L28: 【28†各省保护中心】
+L29: 
+L30: * 【29†Image: 京公网安备11010802043898】　【30†京公网安备11010802043898†beian.mps.gov.cn】 | 【31†京ICP备05014420号†beian.miit.gov.cn】 | 电话：（+86 10）88545426
+L31: © 中国国家图书馆版权所有
+--------------------------------------------------------------------------------
+ (https://idp.bl.uk/wp-content/uploads/2023/08/IDPNews33.pdf)
+citeturn134view3 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 12; Source: open({"ref_id":"turn132view4","lineno":503}); Total lines: 1194
+L484@P5: prolonged the moistening with a steam jet
+L485@P5: from an ultrasonic humidifier.
+L486@P5: In the case of P.2547 where the binding had not been removed, we regularly
+L487@P5: controlled the moistening to prevent it
+L488@P5: from reaching either the block of guards,
+L489@P5: and making it too taut to dry without
+L490@P5: damage, or the roller, as moisture getting in
+L491@P5: the small cracks of the red-brown covering
+L492@P5: layer could stain and blacken it, causing it
+L493@P5: to expand.
+L494@P5: The document was put on a pressboard
+L495@P5: protected from moisture with greaseproof
+L496@P5: Images taken before and after restoration of P.2547,
+L497@P5: showing the early work and a detail of the tamarisk
+L498@P5-6: mount and, bottom, after restoration is complete.7
+L499@P6: paper, placed half-open to avoid any stress
+L500@P6: on the stitches, its roller fixed against the
+L501@P6: pressboard. The same process was followed
+L502@P6: during conservation.
+L503@P6: For both manuscripts, after removing
+L504@P6: the silk gauze on the recto, the paper
+L505@P6: fragments were stabilised with strips of
+L506@P6: 9g Japanese paper. After a period of drying, necessary due to the fragility of some
+L507@P6: folios, the same process was undertaken
+L508@P6: on the verso to remove both silk gauze
+L509@P6: and paper linings from previous modern
+L510@P6: treatments. The removal was a slow process, although the lining paper separated
+L511@P6: completely from the folios, paper fragments and the paste. The composition of
+L512@P6: the original paste is still unknown12 but it
+L513@P6: did not mix with the paste from modern
+L514@P6: treatment. As it is very old, it has formed
+L515@P6: a film that did not disappear during lining.
+L516@P6: The paste from modern restoration was
+L517@P6: removed from the surface of the paper
+L518@P6: with a narrow, soft flexible flat brush. In
+L519@P6: the case of P.2547, a Mylar/Melinex sheet
+L520@P6: was placed under the fragmented leaf to be
+L521@P6: moistened in order to create a provisional
+L522@P6: support for the paper fragments. At that
+--------------------------------------------------------------------------------
+Paper Conservation - International Dunhuang Programme (https://idp.bl.uk/discover/learning/conservation/paper-conservation/)
+citeturn134view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://idp.bl.uk/discover/learning/conservation/paper-conservation/","lineno":null}); Total lines: 96
+L0: 【0†iframe†www.googletagmanager.com】
+L1: 
+L2: 【1†Skip to main content】
+L3: 
+L4:   * 【2†IDP National Library of China†idp.nlc.cn】
+L5:   * 【3†IDP Dunhuang Academy†idp.dha.ac.cn】
+L6: 
+L7: Menu
+L8: 
+L9:   * 【4†Home】
+L10:   * 【5†Search】
+L11:     * 【6†— Collection categories】
+L12:     * 【7†— References】
+L13:     * 【8†— Glossary】
+L14:   * 【9†Discover】
+L15:     * 【10†— IDP Blog】
+L16:     * 【11†— What’s on】
+L17:     * 【12†— Learning resources】
+L18:     * 【13†— Exhibitions】
+L19:   * 【14†About】
+L20:     * 【15†— History of the IDP】
+L21:     * 【16†— Projects】
+L22:     * 【17†— IDP Newsletter】
+L23:   * 【18†Support us】
+L24: 【19†Conservation】
+L25: 
+L26: 【20†Preventative conservation and storage】
+L27: 
+L28: 【21†Paper conservation】
+L29: 
+L30: 【22†Textile conservation】
+L31: 
+L32: 【23†Wall painting conservation】
+L33: ## Paper conservation
+L34: 
+L35: A large proportion of manuscripts from the Eastern Silk Roads are paper-based. Sometimes the paper was brought from Central China, sometimes made locally: we know that the Silk Roads were crucial in the spread of paper-making techniques. Paper is made from plant fibres, including cotton, hemp, linen and, in the case of Asian paper, rice, bamboo and mulberry bark.
+

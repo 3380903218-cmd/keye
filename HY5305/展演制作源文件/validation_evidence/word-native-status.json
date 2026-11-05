@@ -1,0 +1,9 @@
+{
+  "application": "Microsoft Word",
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "/tmp/hy5305-delivery-work/render_word.applescript:180:246: execution error: “Microsoft Word”遇到一个错误：AppleEvent已超时。 (-1712)\n",
+  "pdf_created": false,
+  "source_sha256": "fcf91250c2a67fabc2e43b8f11bafbfe9d671a3ae408b79cc3dc90ab00a3e364",
+  "source_unchanged": true
+}

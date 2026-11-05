@@ -1,0 +1,137 @@
+Preventative Conservation and Storage - International Dunhuang Programme (https://idp.bl.uk/discover/learning/conservation/preventative-conservation-and-storage/)
+citeturn132view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://idp.bl.uk/discover/learning/conservation/preventative-conservation-and-storage/","lineno":null}); Total lines: 84
+L0: 【0†iframe†www.googletagmanager.com】
+L1: 
+L2: 【1†Skip to main content】
+L3: 
+L4:   * 【2†IDP National Library of China†idp.nlc.cn】
+L5:   * 【3†IDP Dunhuang Academy†idp.dha.ac.cn】
+L6: 
+L7: Menu
+L8: 
+L9:   * 【4†Home】
+L10:   * 【5†Search】
+L11:     * 【6†— Collection categories】
+L12:     * 【7†— References】
+L13:     * 【8†— Glossary】
+L14:   * 【9†Discover】
+L15:     * 【10†— IDP Blog】
+L16:     * 【11†— What’s on】
+L17:     * 【12†— Learning resources】
+L18:     * 【13†— Exhibitions】
+L19:   * 【14†About】
+L20:     * 【15†— History of the IDP】
+L21:     * 【16†— Projects】
+L22:     * 【17†— IDP Newsletter】
+L23:   * 【18†Support us】
+L24: 【19†Conservation】
+L25: 
+L26: 【20†Preventative conservation and storage】
+L27: 
+L28: 【21†Paper conservation】
+L29: 
+L30: 【22†Textile conservation】
+L31: 
+L32: 【23†Wall painting conservation】
+L33: ## Preventative conservation and storage
+L34: 
+L35: The items from the “Library Cave”, Mogao Cave 17, spent about nine hundred years undisturbed by human hands. The cave provided relatively good atmospheric conditions, although scrolls were not safe from water incursion or the effects of sharing a space with animals. It has sometimes been described as a “time capsule”: if they had not been sealed away and left untouched, would any of them have survived?
+L36: 【24†Image: An ink analysis machine analysing a scroll】© The British Library
+L37: 
+L38: 【25†Image: Paper manuscript Or.8210/S.6349. In the format of a horizontal scroll with Chinese text. The scroll is rolled up at both ends, but there is some damage and missing sections.】A manuscript from Dunhuang which is thought to be an example of the ‘whirlwind’ binding mentioned in historical texts. © British Library Or.8210/S.6349
+--------------------------------------------------------------------------------
+Conserving a Chinese scroll - International Dunhuang Programme (https://idp.bl.uk/blog/conserving-a-chinese-scroll/)
+citeturn132view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://idp.bl.uk/blog/conserving-a-chinese-scroll/","lineno":null}); Total lines: 126
+L0: 【0†iframe†www.googletagmanager.com】
+L1: 
+L2: 【1†Skip to main content】
+L3: 
+L4:   * 【2†IDP National Library of China†idp.nlc.cn】
+L5:   * 【3†IDP Dunhuang Academy†idp.dha.ac.cn】
+L6: 
+L7: Menu
+L8: 
+L9:   * 【4†Home】
+L10:   * 【5†Search】
+L11:     * 【6†— Collection categories】
+L12:     * 【7†— References】
+L13:     * 【8†— Glossary】
+L14:   * 【9†Discover】
+L15:     * 【10†— IDP Blog】
+L16:     * 【11†— What’s on】
+L17:     * 【12†— Learning resources】
+L18:     * 【13†— Exhibitions】
+L19:   * 【14†About】
+L20:     * 【15†— History of the IDP】
+L21:     * 【16†— Projects】
+L22:     * 【17†— IDP Newsletter】
+L23:   * 【18†Support us】
+L24: 【10†IDP Blog】
+L25: # Conserving a Chinese scroll
+L26: 
+L27: By Vania Assis 22 April 2016
+L28: 
+L29: 【19†Conservation】
+L30: 
+L31: 【20†Image: Vania Assis and Wong Wing-hui looking at a scroll before conservation, which has been partially unrolled on a flat surface.】Vania Assis and Wong Wing-Hui in the Conservation Studio.
+L32: 
+L33: Vania Assis is Conservator of the Dunhuang scrolls at the British Library, and works on various projects supporting IDP’s activities. Here is a post about one of her latest conservation jobs.
+L34: My colleague Wong Wing-hui and I recently worked on the Chinese scroll 【21†Or.8210/S.3877】. Like other items in the Stein collection, it had been previously treated during its life as a collection item.
+L35: In the past, various materials were used to strengthen and repair manuscripts. In the case of our scroll, silk gauze was pasted on both sides with animal glue. There were, sometimes, several layers on top of each other. Heavy and thick paper was also applied to reinforce weak areas, such as edges, tears and missing areas.
+L36: 
+L37: 【22†Image: Close up of a scroll whose surface is made blurry by the addition of gauze, with some Chinese characters obscured.】Gauze covering the surface of scroll Or.8210/S.3877.
+--------------------------------------------------------------------------------
+BnF-Professionnels : Conservation - La conservation des documents de Dunhuang (https://multimedia-ext.bnf.fr/lettres/conservation/html/cn_act_num06_art3.htm)
+citeturn132view2 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://multimedia-ext.bnf.fr/lettres/conservation/html/cn_act_num06_art3.htm","lineno":null}); Total lines: 44
+L0: Dunhuang (fonds)  | 【0†Image】Retour à l'index
+L1: # La conservation des documents de Dunhuang
+L2: 
+L3: in Actualités de la conservation, n° 6, janvier-mars 1998
+L4: 
+L5: Un premier article, paru en juillet 1996 dans 【1†le numéro 0 des Actualités de la Conservation】, avait déjà évoqué les dégradations qu'une partie de la collection Pelliot avait subies suite à un conditionnement inadéquat en diacétate de cellulose.
+L6: Le présent article fait le point sur les recherches entreprises depuis et présente les principaux résultats obtenus à partir de l'exploitation de la base de données qui a été réalisée dans le cadre de ce programme, mené en étroite coopération entre la Direction des Services de Conservation (DSC) et la Direction des Collections spécialisées (DCS), Département des manuscrits, division orientale.
+L7: ## La conservation des Manuscrits d'Asie
+L8: centrale : une approche pluridisciplinaire
+L9: ### Historique
+L10: 
+L11: Si la majeure partie de la collection Pelliot, constituée essentiellement de rouleaux en chinois et en tibétain, provient de la "grotte murée" du site des grottes des Mille Bouddhas de Dunhuang, une part significative, comptant plus de deux mille documents, est issue de divers sites de l'oasis de Kucha.
+L12: Restée fermée pendant près de mille ans, la grotte avait conservé en l'état les manuscrits et peintures qui y avaient été rangés. En revanche bien des documents trouvés enfouis à Kucha ne sont que les restes épars de manuscrits victimes de la destruction volontaire du complexe bouddhique de Duldur-aqur. Le 24 avril 1907, Pelliot note dans son journal de voyage "nous avons trouvé la bibliothèque...[qui] a complètement échappé à l'incendie, mais l'humidité l'a à peu près pourrie".
+--------------------------------------------------------------------------------
+中国古籍保护网 (https://www.nlc.cn/pcab/gjxf/gjxf_xfxm/20141203_93377.shtml)
+citeturn132view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.nlc.cn/pcab/gjxf/gjxf_xfxm/20141203_93377.shtml","lineno":null}); Total lines: 56
+L0:  | 【0†Image】  |  | 【1†首页】 > 修复项目
+L1: 修复项目
+L2: 国家图书馆古籍修复工程
+L3: 　　国家图书馆古籍修复历史悠久。早在京师图书馆时期，就配备了专职的修复人员。新中国成立后，1953年成立图书修整组，2001年更名为善本特藏修复组（善本特藏修复中心），2008年更名为文献修复组。经过历代古籍修复工作者的努力，完成《赵城金藏》、《永乐大典》、西夏文献等珍贵古籍的修复，正在修复敦煌遗书、宋元明清善本、金石拓片、舆图等特色藏品，并承担收入《国家珍贵古籍名录》中的国家级珍贵古籍的修复任务。 　　1、《赵城金藏》修复（1949－1965） 　　《赵城金藏》是金代佛教徒集资刻印的一部大藏经，原藏于山西赵城广胜寺。抗日战争时期，为防止日本人劫掠，八路军太岳支队将其藏在废弃的矿井中，并派人看护，1949年拨交给北平图书馆。由于长期存放在潮湿的环境中，《赵城金藏》受潮并长满黑霉，经卷粘连在一起，就像一根木炭棍，亟待抢救修复。当时北平图书馆接收后立即开始修复，申请增加修复人员，并动员社会力量募集修复用纸。从1949年至1956年，用了近17年的时间，完成修复。 　　赵城藏修复工作准备 　　由于“赵城金藏”长期存放在非常恶劣的环境里，有不少经卷受潮并长满黑霉，整个经卷的粘连在一起，从外观上看就像一根木炭，硬得就像一根木棍，亟待整理修复。入藏北平图书馆以后，馆领导对此非常重视，马上着手募集修复用纸，修复、整理这部珍贵的佛教经典。“赵城金藏”的修复工作开始于1949年，到1965年完成，这项工作共用了17年的时间。 　　“赵城金藏”修复工艺 　　蒸：将因霉变粘在一起的经卷包上毛巾、外面再裹上纸，放在特制的笼屉里用蒸。 　　揭：将蒸过的经卷外面的纸轻轻揭开，直到揭不开为止。然后再蒸，再揭，直到书叶全部揭开为止。 　　托：在揭开的书叶背面粘贴一层纸，上墙绷平。 　　裁方:将托好的书叶裁成四方形， 　　接纸：将书叶按顺序粘连在一起， 　　上褙：在书叶背面粘上褙纸，上墙绷平。 　　砑光：在褙纸上打腊，用石头砑光。 　　裁齐：裁齐经卷的上下两边。 　　装天地杆：在经卷首尾两端加装天地杆。 　　《赵城金藏》修复工艺的评价 　　《赵城金藏》是国家图书馆第一次采用“整旧如旧”原则修复的古籍。当时确定《赵城金藏》修复原则的赵万里先生有一段精彩的发言：“过去本馆装修的观点是将每一书完全改为新装，此办法始而觉得很好，其后则发现它不对，一本书有它的时代背景，所以自（民国）廿三年后决定不再改装，以保持原样。” 　　《赵城金藏》修复工作优点是工艺简单、操作容易、省时省力。这些全是因为《赵城金藏》的数量多所决定的。《赵城金藏》共4814件，其中有很多受过潮长了霉的卷子急需修复，如果按照传统方法把全部经卷的四边都镶上绫子或绢等丝织品，装裱成精致的手卷，是需要很长的时间。在当时的人力物力都非常紧张的条件下，是不可能做到的。由于采用了工序简单的方法来修复《赵城金藏》，一方面提高了《赵城金藏》的修复的速度，另一方面也降低了操作的难度。正因为如此，以区区4个人的力量，10余年的时间完成《赵城金藏》全部的修复工作才成为可能。 　　《赵城金藏》受时代局限，在修复工作中也存在着一些缺点： 　　部分经卷被换掉了褙纸。《赵城金藏》是一部靠民间募捐经费印制的，自金皇统八年起，大定十三年止，前后历经20余年。由于印制的时间很长，所以《赵城金藏》的用纸并不很统一。有的很厚，印完以后直接粘在一起即成。有的卷子用的纸很薄，有3－4层裱在一起。由于印制的年代久远，加上受潮，有的卷子粘裱纸的浆糊失效，裱纸松脱。这样的卷子，在修复时有的就没有严格按照“整旧如旧”的原则将褙纸按照原样复位，而是被揭了下来换用了新纸。 　　很多的经卷全卷托裱。《赵城金藏》经过蒸揭，无一例外的全部托裱，这样以来，很多的经卷纸张加厚一倍以上。从《赵城金藏》现在的情况来看，有些经卷虽然受潮生霉，但被霉菌侵蚀后的纸张破坏程度并不严重，完全可以不用全卷托裱的方式也可以很好的照原样修好。 　　经卷的上下两边被裁齐。经过托裱的经卷，卷子上下两边全被裁切整齐。这样，经卷原来的纸张宽度就受到了损失，对后人从造纸学方面来研究《赵城金藏》的用纸，非常不利。当时只要在托经卷时在经卷上下粘上一个纸边，就可以使《赵城金藏》的信息量少损失一些。 　　部分经卷的天地杆被换下。《赵城金藏》原来有不少经卷上装有天地杆，但因为有些变形，在修复时被换下。同前一个问题一样，在当时如果能采取一些简单的措施，对这些变形的天地杆进行处理，取直后在装回去，修复效果就会更好了。 　　修复期间没有留下任何的文字和资料。这一点非常可惜。前后10多年的修复工作，现在留下的只有一册“金刻赵城藏修理簿”，记录了自1949年7月14日至50年6月、54年3月15日至55年4月26日从书库提取《赵城金藏》经卷400余卷的记录。此工作薄的字迹前后不同，1949年至1950年的笔迹为墨迹，只记录了每次从书库取了几种几卷《赵城藏》经卷，并登记了经名和修裱以后的归库时间。而1954年以后的字迹为钢笔书写，记录更为简单，每次从书库提书仅登记几种几卷，连经书的题名都没有，使得我们现在要想了解一下当时修复的赵城藏的情况而无从下手。国家图书馆收藏的《赵城金藏》一共有4000多卷，其修复过程长达16年，而前前后后没有留下一个字的工作记录，一个字的档案，这对于国内第一个大型的文物修复工程来说，不能说不是一个遗憾。 　　2、敦煌遗书修复（1991年3月至今） 　　国家图书馆收藏敦煌遗书1.6万余号，约占现存总量的四分之一。1989年善本特藏修复中心重新研究敦煌遗书的修复方法，在认真总结前人及国外修复敦煌遗书的经验教训后，邀请敦煌学专家和古籍保护专家进行反复论证，确定了敦煌文献的修复原则。新方法摒弃以往修复中使用的全卷托裱的方式，采用“局部修补”、“最少干预”的原则。1991年3月敦煌遗书修复工作全面展开，目前已完成6千余件。 　　由于敦煌遗书自身的文献价值，从古到今敦煌遗书的修复工作就一直没有停止过。如果按照时间和修复方法划分，大致可以分为三个时期： 　　（1）古人修复的敦煌遗书 　　敦煌遗书中保存着一些唐五代人参与修复的经卷。如在国家图书馆藏新0329号中就留有著名的三界寺僧人道真写下的修复工作日记： 　　长兴五年岁次甲午（934）六月十五日，弟子三界寺比丘道真，乃见当寺藏内经论部祑不全，遂乃启颡虔诚，誓发弘愿，谨于诸家函藏，寻访古怀经文，收入寺中，修补头尾，流传于世，光饰玄门，万代千秋，永充供养。 　　1900年以前修复的敦煌遗书在修复材料和修复技法上具有明显的特征。这一时期修复所选用的修复材料比較单一，只有纸张。采用的补纸有两种：一种是抄写经书时剩余的素纸。另外一种是被废弃了的文书书叶。 　　（2）1900年——1990年修复的敦煌遗书 　　据《敦煌石室经卷总目》记载：1910年由藏经洞移交京师图书馆的较为完整的敦煌遗书共计8679号（有一号多卷的情况）。1922年编纂的《敦煌劫余录》实施一款一号，共编成8738号。1927年写经组将残余的经卷编写成《敦煌石室写经祥目续编》新增1192号。其后又从各地陆续收藏了一批敦煌遗书，其主体部分编为1600余号。在这批入藏的敦煌遗书中，其中部分被人修复过。修复时间应在1900至1954年之间。在修复技法上呈现出多样性。比较有代表性的有以下几种： 　　一类是完全按照中国字画传统装裱法中的手卷装裱法进行装裱的《无上秘要》。唐开元六年（718）写本《无上秘要》。此卷加装的天头、隔水、迎首、拖尾等一应俱全。写经纸上下各镶有仅1毫米宽的局条，手卷端面光亮、平整。拖尾前部右下角，钤“故宫博物院修整组修复”朱文印章一方，此卷的装裱技法堪称精良。熟悉中国传统手卷装裱方法的人都知道，手卷的外观十分讲究。为了达到手卷端面平整、光滑的效果，有两道工序是必不可少的。一是削卷即对芯纸进行切削，这样做的结果必然会使芯纸变窄。二是往卷芯和托纸镶料上刷胶矾水。矾就是硫酸铝，现代研究表明硫酸铝在有水分存在的情况下，可以产生水解反应呈酸性。酸是促进纸张老化变质的最主要的原因。从此卷的外观效果上看,装裱时添加胶矾已属必然。 　　一类是采用不同于传统装裱法中手卷装裱法进行修复的大谷收藏品。大谷收藏品是由文化部于1954年从旅顺博物馆调入国家图书馆的。大谷收藏品的纸张状况基本完好，大多数只有轻微破损。当时人们出于保护这批藏品的良好愿望，对其进行了托裱。观察其装裱形式发现：这批大谷收藏品并未采取中国传统字画装裱法中的卷轴装装裱法进行了装裱。除了在卷尾加装了地杆和轴头，在卷首粘接了包首外，没有添加任何镶料。以新0011《妙法莲花经卷第七》为例：此卷宽25cm，撒金纸天头长21cm。通卷托裱。托纸采用机制纸，纸厚0.06mm。卷首前端裱接了一长20.7厘米的白纸与天头和包首粘接.从包首所用织锦和托纸材料看,此次装裱时间应在1920至1954年间。大谷收藏品的装裱工作，是一次对敦煌遗书进行保护的尝试。这次修复工作虽然没有取得理想的修复效果，但却第一次跳出了传统装裱的方法，证明人们已开始认识到传统修复方法的弊端。是人们寻求、探索新修复方法的体现。十分难得可贵。另外，从加装的直径达2.1厘米的轴杆来看,说明此时的人们已经试着加大轴杆的直径来取代拖尾。当然，大谷收藏品装裱工作存在的问题也是一目了然的。由于在经卷的背面粘接了一层托纸，使人不仅看不到书写在背面的字迹，而且也影响了对经卷纸张的研究。 　　一类是沿用将经卷纸张搓薄、整卷托表的传统手卷装裱方法。在1985年前后，国家图书馆曾经进行过敦煌遗书的修复工作。对个别敦煌卷子进行了尝试性修复。可惜在修复方法上没有创新，仍然沿用将经卷纸张搓薄、整卷托表的传统手卷装裱方法。当时任善本部主任的李致忠先生明确指出此种修复方法不妥，在没有研究出科学的修复方法前应停止修复。许多专家对修复结果也不满意，于是，修复工作停了下来。 　　（3）1991年以后开展的敦煌遗书修复工作 　　1991年后开展的敦煌遗书修复工作采取了科学的修复原则： 　　（一）在指导思想上，严格贯彻“整旧如旧”的方针，尽可能保持遗书原貌。这里所谓的“整旧如旧”，不是企图恢复该遗书没有损坏以前的原貌，“如”古代的“旧”。古代的那个“旧”，不可能再恢复。而是尽可能保持该遗书修复前的原貌。而所谓“尽可能保持该遗书修复前的原貌”，就是在修复工作中仅使该遗书的残破部分得到养护，绝不使遗书其它部分的现有状况产生任何形态上的改变。 　　（二）在修复方法上，坚决摒弃传统的通卷托裱，采取对原卷的保存现状与残破现状作具体分析，区别不同情况，予以不同处理的原则，妥善处理“保护”与“使用”这一对矛盾。做到既充分保证原卷在正常使用的情况下不再损坏，以保障研究者的使用与保管者的管理；又尽量少修，尽量保持我们目前所看到的卷子原状，尽量保留原卷的各种研究信息。 　　（三）在外观效果上，要求修复时附加的裱补纸与原卷必须有明显的区别，从而避免因修复工作而干扰原卷固有的研究信息。 　　（四）在保留处理上，要求修复工作本身是可逆的。即现在的修复不会对原卷形态造成任何不可逆转的变化。将来如果有更好的修复技术出现，便可以清除目前的修复状态，恢复原状。也就是说，现在的修复不会对原卷造成任何损害，如有必要，随时可以改用更为先进的技术，以更好地保护这些遗书。 　　上述修复原则与方法的提出，在世界范围的敦煌遗书修复工作中还是第一次。在国家图书馆善本部图书修整组的努力下，上述原则得到较好的贯彻。 　　（4）敦煌遗书的修复技法 　　针对敦煌遗书的两种形态（卷轴、残片）修复时采用了两种不同的修复方法： 　　①卷轴修复法： 　　卷轴修复法的特点是选用三分之一至二分之一原件厚度的纸张，染成比原件略浅的颜色，然后分层对原件的缺损部位进行修补。首先用喷壶将原件的背面喷湿、展平，沿着破损边缘涂抹浆糊（浆糊的涂抹宽度应控制在两毫米以内）后，粘上第一层皮纸。然后沿着浆糊的印记趁湿将补纸的多余部分撕下。此时要注意补纸与原件之间纤维的搭接距离是否适宜。第一层补纸的作用只是用来填补缺损处，因此，最佳的粘接状况应该只是补纸撕出的纤维搭接在原件上。操作时需要非常细心，多余的纤维要用镊子将其剔除。第二层与第三层补纸的粘接方法与第一层的粘接方法近似。区别在于浆口加宽。后两层主要起加固的作用。将大面积的残破处修复好后，需对卷子的四边进行修整。在修复四边时要注意注重修复卷子的上下两边，卷边即使只有微小的裂口也要进行修补。对卷首和卷尾处的破损要区别对待，有些卷子虽然残破但并无裂口就可不补。因为以后此处有可能与其它卷子缀合。 　　② 残片修复法： 　　敦煌残片的修复方法与敦煌卷子的修复方法基本相同，只是侧重点有些不同。敦煌卷子的修复很注重对上下两边的修整，敦煌残片的修复更注重的是对残片的中央部分的粘接。敦煌残片采用了平面收藏方式。用手工宣纸制作了相同规格的纸袋，将残片按大小分类存放。 　　3、《永乐大典》修复（2002年） 　　《永乐大典》是我国古代最大的“百科全书”，1900年八国联军入侵时损毁殆尽，现存400余册星散于8个国家和地区的30个单位。国家图书馆藏221册，其中60册寄存在台北中央图书馆。这批珍贵古籍存在不同程度的破损，半数以上前人修复过。2002年，国家图书馆启动《永乐大典》修复工程，修复中心起草修复原则、修复细则和修复方案，向社会各界专家学者征求意见。修复人员慎重选择材料，认真组织完成修复，并专门定制了紫檀书柜。 　　《永乐大典》的修复，主要采取以下技法： 　　1、书皮的修复，一般不把用作书皮的丝织品从纸板上揭下来，只把破损处周围掀起1厘米左右，然后用颜色近似的丝织品修补。修复书皮的纸板时，要把纸板分层揭开1厘米左右，把补纸插进，然后在补纸上再粘纸，直至补纸和纸板厚度相同为止。 　　2、书叶的修复，以“掏补”为主，即在不拆掉书皮和纸捻的情况下，把毛笔和补纸伸进书叶中间修补书叶上的破洞。选用的补纸四周用手撕出纸毛，以降低补纸和书叶互相搭接处的厚度。 　　3、由于书叶的修复方法和以往不同，压平的方法也要随之改变。每次修补8－10叶左右的书叶，就要用宣纸夹进书叶之间，用压书板把书夹住，再加重物压平。 　　运用保护理念指导修复工作是此次修复工作的突出特点。为保护《永乐大典》的原始装帧，在不将原书拆散的情况下，修复人员创造性地运用掏补的方法修补书叶，最大限度地保持了《永乐大典》的原貌。 　　修复材料在古籍修复工作中占有重要位置。修复材料是否与原件一致，关系到古籍能否再现神韵。在选择与《永乐大典》原书皮一致的丝织品时，工作人员几乎跑遍了北京所有的布店，采购到与《永乐大典》书皮材料接近的生丝织物。修复用纸选用的是清代旧高丽纸。修复工作完成以后，财政部拨专款为《永乐大典》配置了新装具，完善了《永乐大典》的保存环境。 　　4、《西夏文献》修复（2003年3月—2004年1月） 　　国家图书馆共收藏西夏文献17种120余件。2003年启动修复工程，从调研、论证到修复完成，历时一年。 　　西夏文献的修复突出体现了以下几个特点： 　　邀请西夏学专家史金波先生自始至终参与修复工作，对文献的顺序、缀合和价值保护进行判定和指导。 　　重点组织修复带有文字的裱纸和经文背面的写有文字的小块补纸。将书叶背面的写有文字的补纸先揭开，拍照片以后再粘回原处。这样既达到揭示全部文献资料的目的，又没有改变文献的原貌。对于在封面纸板中揭出的写有文字的纸张，在扫描以后将其复位。保持文献的原始面貌。 　　采用数字化方法指导修复，第一次全面制作了修复档案，对西夏文修复前后状态和修复过程进行了全面记录。对西夏文献的古纸纤维进行了分析和研究。 　　在修复过程中对西夏文献进行跟进整理和研究，出版了《中国国家图书馆藏西夏文献》、《国家图书馆西夏文献中汉文文献考释》、《国家图书馆学刊》西夏研究专号等著作和论文。 　　西夏文献的修复充分体现了文献专家与修复专家，先进技术与传统工艺合，修复与研究的结合，积累了成功的经验。
+--------------------------------------------------------------------------------
+ (https://idp.bl.uk/wp-content/uploads/2023/08/IDPNews33.pdf)
+citeturn132view4 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 12; Source: open({"ref_id":"https://idp.bl.uk/wp-content/uploads/2023/08/IDPNews33.pdf","lineno":null}); Total lines: 1194
+L0@P0: No. 33, Spring 2009 ISSN 1354-5914
+L1@P0: Newsletter of the International Dunhuang Project – IDP: The Silk Road Online
+L2@P0: TO PROMOTE THE STUDY AND PRESERVATION OF THE ARCHAEOLOGICAL LEGACY OF THE EASTERN SILK ROAD
+L3@P0: THROUGH INTERNATIONAL CO-OPERATION
+L4@P0: 1
+L5@P0: IDP NEWS
+L6@P0: Le site internet français de IDP se lance
+L7@P0: IDP France Goes Live
+L8@P0: This project has been funded with support from the European Commission.
+L9@P0: This publication reflects the views only of the author, and the Commission
+L10@P0: cannot be held responsible for any use which may be made of the information
+L11@P0: contained herein.
+L12@P0: Le site internet français de IDP a été lancé officiellement
+L13@P0: le 29 avril 2009 lors d’un lancement presse au Musée Guimet
+L14@P0: à Paris, organisé par la Bibliothèque nationale de France et le
+L15@P0: Musée Guimet. Les présidents des deux institutions ont parlé
+L16@P0: de l’importance des collections de Dunhuang et de leur plaisir
+L17@P0: à voir les collections françaises accessibles sur le site internet
+L18@P0: IDP. Les visiteurs ont pu voir une démonstration rapide du site
+L19@P0: internet avant d’aller voir une exposition spéciale de manuscrits,
+L20@P0: de peintures, et d’archives de Dunhuang.
+L21@P0: Pendant la semaine après le lancement presse, le site internet
+L22@P0: français a reçu plus de 1600 visites uniques, dont 1300 provenaient de toute l’Héxagone.
+L23@P0: The IDP French website was launched officially on April
+L24@P0: 29th 2009 at a press event at the Musée Guimet in Paris, cohosted by the Bibliothèque nationale de France and the Guimet
+L25@P0: Museum. The presidents of both institutions spoke about the
+L26@P0: importance of the Dunhuang collections and their delight at
+L27@P0: seeing the French material now included in the material available on the IDP website. A brief demonstration of the website
+

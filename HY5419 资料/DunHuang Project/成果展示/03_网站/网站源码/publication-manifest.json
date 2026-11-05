@@ -1,0 +1,274 @@
+{
+  "version": "2.9.1",
+  "prepared_date": "2026-11-03",
+  "gephi_nodes": 132,
+  "gephi_edges": 157,
+  "events": 48,
+  "research_sources": 21,
+  "evidence_records": 57,
+  "publication_files": [
+    {
+      "path": "dist/.nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/app.js",
+      "sha256": "1e9f2069f0a0daf372f1957612d1f0ac8a7ab3815c88fcf6c2ab39759ab86de4",
+      "bytes": 38896
+    },
+    {
+      "path": "dist/assets/cave16-manuscripts-1907.jpg",
+      "sha256": "49c2f3452a0bd8e1ad7fd0fb8e514c0e52a3a21cfecf0ff10a63f4e5d92b9842",
+      "bytes": 138419
+    },
+    {
+      "path": "dist/assets/cave17-pelliot-1908.jpg",
+      "sha256": "f9ea194e15a8717a2d3b92dbc1e4d2a0507ea31b859e61bd4b4878dbdd528740",
+      "bytes": 123437
+    },
+    {
+      "path": "dist/assets/diamond-sutra.jpg",
+      "sha256": "cf7d1ada6833723f207c761450b732314344cde8b45a164ba399578859ecad21",
+      "bytes": 982634
+    },
+    {
+      "path": "dist/assets/dunhuang-network-expanded.gexf",
+      "sha256": "a37c79759698788d7628dca4844c2db341ab59258124f977385f8e105481071d",
+      "bytes": 313709
+    },
+    {
+      "path": "dist/assets/dunhuang-network.gexf",
+      "sha256": "edf3f7dd37e31d7f23e500b23d16a438b712574d338e5d0a4bb51baf40714c90",
+      "bytes": 272357
+    },
+    {
+      "path": "dist/assets/favicon.svg",
+      "sha256": "af2ccae30dd8c1dc26ec8cd7c9774d2ea22a063e74715e28129641ce3bde2424",
+      "bytes": 310
+    },
+    {
+      "path": "dist/assets/mogao-exterior-2006.jpg",
+      "sha256": "295670e889cdcc29f5b3c17644269835759ff0470bce1869960279e57e04aebf",
+      "bytes": 397790
+    },
+    {
+      "path": "dist/assets/network-expanded-edges.csv",
+      "sha256": "e5177e655a7622889964db567cf6ae688594d96f44961a8cfeffa06ffe863b77",
+      "bytes": 58438
+    },
+    {
+      "path": "dist/assets/network-expanded-nodes.csv",
+      "sha256": "7899aa1878bf1c3cee3860b8483e1b36bae746f7090e47843a27226399a185a1",
+      "bytes": 39191
+    },
+    {
+      "path": "dist/assets/qgis-map-preview.jpg",
+      "sha256": "4c8235c5c2df6d49d869436f3cceace90a787a72c72ce4e07eb90e0745047508",
+      "bytes": 293677
+    },
+    {
+      "path": "dist/assets/qgis-regional-map.pdf",
+      "sha256": "a06b0feb90bc04f5c0d81d2d77754ee98570f1ab433b4f25b0954b9ed780d477",
+      "bytes": 1501847
+    },
+    {
+      "path": "dist/assets/relationship-supplement-evidence.csv",
+      "sha256": "f67b4768fb6b731e37d11dd9daf62eb5bd334dd7b5e838aa9be5acd402400040",
+      "bytes": 7217
+    },
+    {
+      "path": "dist/assets/world.js",
+      "sha256": "2cca0bf60e4bf895ce4a3747e739fad7ae5c615052d27ba05efd72c4a398217f",
+      "bytes": 260393
+    },
+    {
+      "path": "dist/cave-photographs.css",
+      "sha256": "7ea8839bcccea55f39e4bdc1fd3e36a0ff80a9d962fdbdb53210dd8a7e017fbd",
+      "bytes": 4655
+    },
+    {
+      "path": "dist/cave-photographs.js",
+      "sha256": "35f05e2d73220a466a7c6804a0bea6379c61f7eab7513ad66d2a69e1ff7b9f6e",
+      "bytes": 2652
+    },
+    {
+      "path": "dist/data.js",
+      "sha256": "9a6d8087564ddb9014ac9816d70f0874ef5e133b1b051d1ae8977e7b919bc211",
+      "bytes": 33593
+    },
+    {
+      "path": "dist/discussion-config.js",
+      "sha256": "fb496f68b1f956067aae84619cdda9a765de79102f51a5864e328c4bcfe52adf",
+      "bytes": 288
+    },
+    {
+      "path": "dist/discussion.css",
+      "sha256": "e25dee94fc32910f45af2a0b36f62dc24b518802464b62b5d231e768dadba710",
+      "bytes": 5220
+    },
+    {
+      "path": "dist/discussion.js",
+      "sha256": "258f823f4bf9e86d66f6c0b7f3aabfe46453ad521062967624f4419099058305",
+      "bytes": 16101
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "f68c693fd8d738789c61641c9d5a25ac3a8ec4ce8effc02693a9b194629bbf6a",
+      "bytes": 38723
+    },
+    {
+      "path": "dist/narrative-reading.css",
+      "sha256": "f5f186a82a7e6e020a11021f8af75871b7653dbd751f3759ca150f62aae00e47",
+      "bytes": 4185
+    },
+    {
+      "path": "dist/narrative-reading.js",
+      "sha256": "21cd3f9c875555763b479777ada25228306be5c13d2c9971eb6e7dd2ed913dee",
+      "bytes": 2374
+    },
+    {
+      "path": "dist/network-data.js",
+      "sha256": "3751bbc69441afc0a1751ce9dd1054c0dff862aca389fce3c4c2394da5d04c76",
+      "bytes": 224198
+    },
+    {
+      "path": "dist/network-guide.css",
+      "sha256": "377079e13f9777bc6d2f28b4b08c19805da176c2217f63619c4f1ebac174cac9",
+      "bytes": 10406
+    },
+    {
+      "path": "dist/network-guide.js",
+      "sha256": "bd112e8c8f5c07374b3e371b47583aeab1c06ef2576181b8ef518f94f7cf0b60",
+      "bytes": 20639
+    },
+    {
+      "path": "dist/network-roles.js",
+      "sha256": "185d651a4ab443c5aa70485b16bcf4ee8c5516807ae8017adbca8d4f635d0892",
+      "bytes": 4596
+    },
+    {
+      "path": "dist/network.css",
+      "sha256": "040c0291e9b797a2e1fedefa20e2f228784244b5d7a0a6e7b792396312be0596",
+      "bytes": 9872
+    },
+    {
+      "path": "dist/network.js",
+      "sha256": "2ee427c1166b8cd384862f6b8969e072bb243a895ab2604c386c5278ccc95cd4",
+      "bytes": 33165
+    },
+    {
+      "path": "dist/preservation-data.js",
+      "sha256": "531a551dfc8ee4a4cbb370bb5ae9e6da16bce4ad936e995607afed5d29d5ddd5",
+      "bytes": 8180
+    },
+    {
+      "path": "dist/preservation.css",
+      "sha256": "3e47dc80398c9225e1a68482b5f371094ecea0054d25875aab14c1f629f18c25",
+      "bytes": 5763
+    },
+    {
+      "path": "dist/preservation.js",
+      "sha256": "890b142f9432cfcdc8c527cb821f5184b9f1150c4e9a7e599d5bc9cb67e96d02",
+      "bytes": 5441
+    },
+    {
+      "path": "dist/reader-first.css",
+      "sha256": "cb43e8ead4aab8ad6edc650fcc025d3d04e0cab47859820826a9d6a1c61ce3ce",
+      "bytes": 5813
+    },
+    {
+      "path": "dist/reader-first.js",
+      "sha256": "a7c907cf1418faf6a7283a7da79000fbbf2fd0ecda302f6fa81e7e54702d414b",
+      "bytes": 8315
+    },
+    {
+      "path": "dist/reading-layout.css",
+      "sha256": "4036507303fa71ea68163d0005d7ccb432634d97afcd23569623ad0e9d961780",
+      "bytes": 11282
+    },
+    {
+      "path": "dist/reading-layout.js",
+      "sha256": "a301aa2612e2310689d4ee9978fdb3583f2e29ebb1faacc0a336ce750355cf8b",
+      "bytes": 2269
+    },
+    {
+      "path": "dist/relationship-supplement-data.js",
+      "sha256": "8da0fa3b01b4fbc9aa980160667706e0b6436ef9755182ed6da5ed052e4e44a2",
+      "bytes": 33518
+    },
+    {
+      "path": "dist/relationship-supplement.js",
+      "sha256": "cb81bc8e49a201f64b819bf2bcff0561828ddf81bdc239f284e6b25a19a0a791",
+      "bytes": 924
+    },
+    {
+      "path": "dist/relationships-reading.css",
+      "sha256": "61f82a7a95c5f1295bbbaf5cb2ab9b22388b84739f7eff32b4de09e74c217b0e",
+      "bytes": 2072
+    },
+    {
+      "path": "dist/relationships-reading.js",
+      "sha256": "048364660dd78d9a3b53a4b5e2245af398c497ba73d38258be2c3e390aa0f27a",
+      "bytes": 10284
+    },
+    {
+      "path": "dist/results-showcase.css",
+      "sha256": "2f84450404ab84a6a86a58ca392023e5bda46e8cd1e42f9aada6cfd1268528a0",
+      "bytes": 4290
+    },
+    {
+      "path": "dist/results-showcase.js",
+      "sha256": "0a66a2c8eedddf906e01d77e2c1b10663f98f8236a301bb595897ea55ae2cb76",
+      "bytes": 3515
+    },
+    {
+      "path": "dist/story.css",
+      "sha256": "9f6c25c8caffd837a366f3b13b12a83fff34ad3396f87646abaf3af3ce4162a7",
+      "bytes": 25058
+    },
+    {
+      "path": "dist/story.js",
+      "sha256": "57f272c7bc43e80d6812d4e959347652b76cf2c22e973c8583b03209828807e9",
+      "bytes": 4361
+    },
+    {
+      "path": "dist/style.css",
+      "sha256": "6432128be466330b1774b9e7d89a32442a7e1bc2519d60f03f7660f1046c7add",
+      "bytes": 21561
+    }
+  ],
+  "github_owner": "3380903218-cmd",
+  "github_repository": "dunhuang-in-motion",
+  "pages_url": "https://3380903218-cmd.github.io/dunhuang-in-motion/",
+  "research_base_commit": "54364b6665fa08f67219f5c6bf11caf7cb09db56",
+  "previous_release_commit": "4cf7e05bdc1ec5ede2eaecb7333c1f6adaa7090a",
+  "presentation": "Historical reading with visible QGIS map and full Gephi network, expanded by source-located scholarly contacts within 1900–1910; original export retained",
+  "preservation_sources": 6,
+  "preservation_treatment_examples": 3,
+  "preservation_history_examples": 2,
+  "additional_photographs": 3,
+  "qgis_pdf_sha256": "a06b0feb90bc04f5c0d81d2d77754ee98570f1ab433b4f25b0954b9ed780d477",
+  "original_gephi_nodes": 122,
+  "original_gephi_edges": 136,
+  "added_nodes": 10,
+  "added_edges": 21,
+  "added_activity_records": 6,
+  "added_evidence_records": 8,
+  "discussion": {
+    "enabled": true,
+    "provider": "Supabase",
+    "account_required_for_visitors": false,
+    "api_url": "https://qtuxpxccweapkqeoaata.supabase.co/functions/v1/dunhuang-discussion",
+    "project_id": "qtuxpxccweapkqeoaata",
+    "region": "ap-southeast-1",
+    "quoted_cost_usd_per_month": 0,
+    "public_reading": true,
+    "threaded_replies": true,
+    "message_languages": "unrestricted",
+    "interface_languages": [
+      "en",
+      "zh"
+    ]
+  }
+}

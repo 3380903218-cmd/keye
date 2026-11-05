@@ -1,0 +1,66 @@
+{
+  "sha256": "e6ff622fe74a0ff14205bcac0b4c8ca53b178dcba424cab068e06f8bb9f14720",
+  "baseline_sha256": "ac1931155845d6d7945f9248af46d9d2ceb9642be654ec552ddb70b0b0000748",
+  "comments_addressed": 5,
+  "changed_original_paragraphs": [
+    2,
+    30,
+    40,
+    53
+  ],
+  "insertions": [
+    {
+      "after": 21,
+      "text": "敦煌文献已有较成熟的数字资源。国际敦煌项目（IDP）汇集合作机构的文献图像、相关资料与学习资源，便于查阅分藏各地的收藏 (International Dunhuang Programme, n.d.)。这些资源为我的项目提供了基础，也帮助我把重点放在选定时期的人物、活动与路线的联系上。",
+      "template": 22,
+      "kind": "body"
+    },
+    {
+      "after": 60,
+      "text": "International Dunhuang Programme. (n.d.). About. https://idp.bl.uk/about/",
+      "template": 61,
+      "kind": "reference",
+      "runs": [
+        [
+          "International Dunhuang Programme. (n.d.). ",
+          false
+        ],
+        [
+          "About",
+          true
+        ],
+        [
+          ". https://idp.bl.uk/about/",
+          false
+        ]
+      ]
+    }
+  ],
+  "layout_paragraph_move": {
+    "original_paragraph": 35,
+    "after_original_paragraph": 31,
+    "text_unchanged": true
+  },
+  "body_count": 6784,
+  "body_han_count": 6687,
+  "count_method": "Han characters + English words + numeric groups; excluding headings, figure captions, source lines and bibliography.",
+  "main_count_including_headings_captions_sources": 6997,
+  "media_unchanged": {
+    "word/media/image1.png": "ae2a34b8fea6c96dd52929ed38b4f88c50a6b16f32001248c55a75e1891ca2c5",
+    "word/media/image2.png": "b7db708b97f90f246b5e994360f97ecd4f26ad64cf3411cfe8424ef283c0b9ed"
+  },
+  "drawings_preserved": 2,
+  "field_parts_byte_preserved": [
+    "word/footer1.xml"
+  ],
+  "styles_unchanged": true,
+  "unmodified_paragraph_texts_exactly_preserved": true,
+  "existing_reference_xml_preserved": true,
+  "removed_parts": [
+    "word/comments.xml",
+    "word/commentsExtended.xml",
+    "word/commentsExtensible.xml",
+    "word/commentsIds.xml",
+    "word/people.xml"
+  ]
+}

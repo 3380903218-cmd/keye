@@ -1,0 +1,15 @@
+{
+  "artifact_sha256": "8bb53b12f492126c3223fde9242c8cb913ced566aabfd6721c50e463fc19b2d3",
+  "requested_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_中文稿.docx",
+  "requested_file_byte_identical_to_checked_candidate": true,
+  "backup_exists": true,
+  "backup_sha256": "1f194c317fad506ea2a2bf6b285a65ab59a0a6580afea15cde30fb2b716f80f8",
+  "root_members": [
+    "~$5419_敦煌项目_批判性反思_中文稿.docx",
+    ".DS_Store",
+    "HY5419_敦煌项目_批判性反思_中文稿.docx",
+    "_修订记录"
+  ],
+  "pre_existing_editor_lock": "Preserved, not removed or treated as a task-created artifact.",
+  "reader_facing_documents_added": 0
+}

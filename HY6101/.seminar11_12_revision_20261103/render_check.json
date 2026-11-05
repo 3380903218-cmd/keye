@@ -1,0 +1,26 @@
+{
+  "artifact_sha256": "13c8f8db9821aebbcc0dc033d103d1ee33d43c0f7b27036b5dc82192ddbaa865",
+  "normal_open": "passed with repair disabled",
+  "native_export_receipt_sha256": "7aa549501d41b7393f5606d644976fac837390f58effb0011d80c246c203799a",
+  "native_pdf_sha256": "37b9ceec7f02ddf9f1b96ac4c19366ccfdc6e11d67c7bb33c9b9cf4b235c564a",
+  "pages": 4,
+  "visual_inspection": "All four pages reviewed. Body text, revised claims, five footnotes, title and page numbers are readable; no clipping, overlap, missing glyphs, unintended comment balloons or course-notes citation. Existing font, spacing and title rule retained.",
+  "page_images": [
+    {
+      "path": "page_1.png",
+      "sha256": "2228c9a5b929ee28b07e4d918dc36a64b5104102639fe382a611435bbdae8c0c"
+    },
+    {
+      "path": "page_2.png",
+      "sha256": "e1034b9355c58f768f5447ee585fb95bb5ab99f53a83eb706586c582f16a2b74"
+    },
+    {
+      "path": "page_3.png",
+      "sha256": "8777b141a7c8ce4d404188ec557b74ce76c7b8a95b0c0dd9d46f8ce9c38e8cbf"
+    },
+    {
+      "path": "page_4.png",
+      "sha256": "2c9d3bf28dc8f1eb610a8504aefbb3f304208f84bfc813c9d99d115d91ad3f97"
+    }
+  ]
+}

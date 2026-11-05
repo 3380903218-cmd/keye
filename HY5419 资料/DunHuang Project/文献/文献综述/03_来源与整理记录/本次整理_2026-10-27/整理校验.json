@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-27",
+  "timezone": "Asia/Singapore",
+  "status": "pass",
+  "pdf_folder": "01_待读文献PDF",
+  "pdf_files": 12,
+  "pdf_reading_entries": 13,
+  "web_or_markdown_reading_entries": 4,
+  "pending_full_text": 3,
+  "active_bibliography_entries": 20,
+  "deleted_files": 12,
+  "deleted_bytes": 35213710,
+  "moved_files": 106,
+  "all_moved_files_byte_identical": true,
+  "annotation_count_preserved": 39,
+  "personal_word_notes_unchanged": true,
+  "pdfs": [
+    {
+      "file": "01_L05_潘晟_2025_时代的遮蔽_含批注.pdf",
+      "pages": 10,
+      "annotations": 16,
+      "sha256": "5b50550a961120e6fd9a008da090b0accb997833a08c8d9136c9fc8aba61e47c"
+    },
+    {
+      "file": "02_G13_Wang编_2012_Stein_Colleagues_and_Collections.pdf",
+      "pages": 186,
+      "annotations": 0,
+      "sha256": "c66affc74d268084c1d72cc5efefb59e96d2d9a6a936b906e4c14782a75a5d86"
+    },
+    {
+      "file": "03_G14_王冀青_2020_升允阻止斯坦因敦煌考古.pdf",
+      "pages": 13,
+      "annotations": 0,
+      "sha256": "cee7d9be99b38885df3de882768fa736f1f640840e4c9f79f4a0a8a19b93bf1b"
+    },
+    {
+      "file": "04_L01_Doumy_2025_Wang_Yuanlu_First_Curator.pdf",
+      "pages": 25,
+      "annotations": 0,
+      "sha256": "fd02bd0cf3ed0ec94bade8da6f07c8f82a4f300270e9c6173c202ef031036888"
+    },
+    {
+      "file": "05_L02_Terzi_Whitfield_2024_Reconstructing_a_Medieval_Library.pdf",
+      "pages": 21,
+      "annotations": 0,
+      "sha256": "58537191080642fd374ae7ff9314ba7ddbb5258456423bc4879a0852b7652c5c"
+    },
+    {
+      "file": "06_G07_秦桦林_2018_1909年北京学界公宴伯希和.pdf",
+      "pages": 13,
+      "annotations": 0,
+      "sha256": "63006696dd4ea59646437bc858276ee7c51fcc0e70588505e34f79bc60129ddb"
+    },
+    {
+      "file": "07_L04_徐浩_2024_李盛铎等人窃取敦煌写卷的证据_含批注.pdf",
+      "pages": 20,
+      "annotations": 16,
+      "sha256": "c9c8e3a5a09221917d78a7a760a3fb97affe8ed60a4a2f918ccbf9d0926bf823"
+    },
+    {
+      "file": "08_L07_周思敏张涌泉_2023_早期刊布资料价值_含批注.pdf",
+      "pages": 15,
+      "annotations": 7,
+      "sha256": "f10f1a1f90fee9788c4dba2f4c3852e7f2bcac8fc384b5cd8f7e9878d4156eb5"
+    },
+    {
+      "file": "09_G03_Faust_1997_Centrality_in_affiliation_networks.pdf",
+      "pages": 35,
+      "annotations": 0,
+      "sha256": "199d3ca312189c6968f5ce911de3166b671e90204a73a4011b700204d308567d"
+    },
+    {
+      "file": "10_G04_Edelstein等_2017_Mapping_the_Republic_of_Letters.pdf",
+      "pages": 25,
+      "annotations": 0,
+      "sha256": "8c2fe6c55e4cd6e0647d641e1f78b7c3a85db7e74140f57563c74611bda7752c"
+    },
+    {
+      "file": "11_G02_Ahnert等_2020_The_Network_Turn.pdf",
+      "pages": 128,
+      "annotations": 0,
+      "sha256": "46765c0d0ec0f838fb15d3837784430d3385aa89729ee15ec3fba6d643269b83"
+    },
+    {
+      "file": "12_L08_Wang等_2020_Buddhism_and_Silk_案例选读.pdf",
+      "pages": 18,
+      "annotations": 0,
+      "sha256": "9136ba440284a1cb64060750b3433aade7b04267885a32334daea26e99e6a8f7"
+    }
+  ],
+  "compatibility_links": [
+    {
+      "path": "文献/文献综述/full-text/L02_Terzi_Whitfield_2024.pdf",
+      "target": "文献/文献综述/01_待读文献PDF/05_L02_Terzi_Whitfield_2024_Reconstructing_a_Medieval_Library.pdf"
+    },
+    {
+      "path": "文献/文献综述/full-text/L01_Doumy_2025.pdf",
+      "target": "文献/文献综述/01_待读文献PDF/04_L01_Doumy_2025_Wang_Yuanlu_First_Curator.pdf"
+    },
+    {
+      "path": "文献/文献综述/full-text/L03_Fang_2009_reprint.html",
+      "target": "文献/文献综述/02_阅读说明与网页全文/L03_方广锠_2009_百年前的一桩公案_转载全文.html"
+    },
+    {
+      "path": "路线地图/sources/2026-10-20_实质补采集/R04_Qin_2018.pdf",
+      "target": "文献/文献综述/01_待读文献PDF/06_G07_秦桦林_2018_1909年北京学界公宴伯希和.pdf"
+    }
+  ],
+  "live_local_links_checked": 58,
+  "historical_bundle_status": "Closed snapshots retained for provenance; current locations are governed by the new reading index and migration ledger, rather than the old independent-bundle validators.",
+  "issues": [],
+  "final_entry_sha256": "02944daf96b697266fa3b45f5bceb9c64b6b7b11c557f4652517ecf4b8b71efb",
+  "final_reading_index_sha256": "8475efb5f454180fab46164e9570bd84a5c7f605a5f99c32e6018fd52567e2ee"
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95.8,
+            40.5
+          ],
+          [
+            94.8042114,
+            40.0373163
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_KG001",
+        "关联EventId": "DH003",
+        "ObjectId": "",
+        "网络层": "知识传播",
+        "FromReferencePlaceId": "PL_ANXI_REF",
+        "ToReferencePlaceId": "PL_MOGAO",
+        "时间证据": "1907-09-26派信使（据雇马账目推定）",
+        "ClaimId": "C024",
+        "SourceId": "R01",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (95.8 40.5, 94.8042114 40.0373163)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "购买提议信传送；载体未获存世编号；匿名信使，返信日未强填。",
+        "Label": "Yuanquan / Anxi (regional reference) → Mogao Caves (site reference)",
+        "RouteGroup": "Stein",
+        "SourceURL": "http://iqh.ruc.edu.cn/old/jssxwhsyj/wbydyzygx/zlgxypj/008fc7fe609449428944b45de683c9de.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.39723,
+            39.9075
+          ],
+          [
+            103.83987,
+            36.05701
+          ]
+        ]
+      },
+      "properties": {
+        "MapSegmentId": "MAP_KG002",
+        "关联EventId": "MAP_KE012",
+        "ObjectId": "",
+        "网络层": "知识传播",
+        "FromReferencePlaceId": "PL_BEIJING",
+        "ToReferencePlaceId": "PL_LANZHOU",
+        "时间证据": "1909-10-05发电",
+        "ClaimId": "C021",
+        "SourceId": "R04",
+        "GeometryType": "schematic_flow",
+        "CRS": "EPSG:4326",
+        "WKT": "LINESTRING (116.39723 39.9075, 103.83987 36.05701)",
+        "MapScale": "regional",
+        "EndpointPrecision": "城市／区域／遗址参考端点；非实际道路",
+        "说明": "行政通信目的地域；不代表电缆铺设路线，不是文物运输。实际收讫时刻未知。",
+        "Label": "Beijing (city reference) → Lanzhou (city reference)",
+        "RouteGroup": "Qing_administrative_communication",
+        "SourceURL": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?attachType=PDF&id=11967"
+      }
+    }
+  ]
+}

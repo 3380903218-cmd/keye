@@ -1,0 +1,427 @@
+[
+  {
+    "kind": "crossref",
+    "id": "A01",
+    "url": "https://api.crossref.org/works/10.1016%2F0197-3975%2894%2990015-9",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016%2F0197-3975%2894%2990015-9",
+    "bytes": 15680,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Reading landscape meanings: State constructions and lived experiences in Singapore's Chinatown"
+      ],
+      "author": [
+        {
+          "given": "Brenda S.A.",
+          "family": "Yeoh",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Lily",
+          "family": "Kong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Habitat International"
+      ],
+      "volume": "18",
+      "issue": "4",
+      "page": "17-35",
+      "published": {
+        "date-parts": [
+          [
+            1994,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            1
+          ]
+        ]
+      },
+      "published-online": null,
+      "DOI": "10.1016/0197-3975(94)90015-9",
+      "ISBN": null,
+      "publisher": "Elsevier BV",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A01.json",
+    "sha256": "c7a1a2f31378f06613b2af692e2796357f1e0a57f49018c3c90d97f38cb4834c"
+  },
+  {
+    "kind": "crossref",
+    "id": "A02",
+    "url": "https://api.crossref.org/works/10.1016%2FS0261-5177%2899%2900108-9",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016%2FS0261-5177%2899%2900108-9",
+    "bytes": 13131,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Attracting tourists to Singapore's Chinatown: a case study in conservation and promotion"
+      ],
+      "author": [
+        {
+          "given": "J",
+          "family": "Henderson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Tourism Management"
+      ],
+      "volume": "21",
+      "issue": "5",
+      "page": "525-534",
+      "published": {
+        "date-parts": [
+          [
+            2000,
+            10
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2000,
+            10
+          ]
+        ]
+      },
+      "published-online": null,
+      "DOI": "10.1016/s0261-5177(99)00108-9",
+      "ISBN": null,
+      "publisher": "Elsevier BV",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A02.json",
+    "sha256": "202f0b344dd4b38dfec44e69861d5a9f334f4f9b8e8e11b0edff72d3f558b5d0"
+  },
+  {
+    "kind": "crossref",
+    "id": "A03",
+    "url": "https://api.crossref.org/works/10.1163%2F9789004512986_004",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "kind": "crossref",
+    "id": "A04",
+    "url": "https://api.crossref.org/works/10.1515%2F9789048514373-009",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "kind": "crossref",
+    "id": "A05",
+    "url": "https://api.crossref.org/works/10.4324%2F9780203602263",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "kind": "crossref",
+    "id": "A06",
+    "url": "https://api.crossref.org/works/10.5334%2Fbak",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "kind": "crossref",
+    "id": "A08",
+    "url": "https://api.crossref.org/works/10.1080%2F13683500.2019.1689930",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "kind": "crossref",
+    "id": "A10",
+    "url": "https://api.crossref.org/works/10.1017%2Ftrn.2013.17",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1017%2Ftrn.2013.17",
+    "bytes": 11251,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Between History and Heritage: Post-Colonialism, Globalisation, and the Remaking of Malacca, Penang, and Singapore"
+      ],
+      "author": [
+        {
+          "given": "Daniel P.S.",
+          "family": "Goh",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "TRaNS: Trans-Regional and -National Studies of Southeast Asia"
+      ],
+      "volume": "2",
+      "issue": "1",
+      "page": "79-101",
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            1
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1017/trn.2013.17",
+      "ISBN": null,
+      "publisher": "Cambridge University Press (CUP)",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A10.json",
+    "sha256": "10f66403fa461a13bfaab5601fa3c450f9913acdc00a84f5353f83aaff6ede34"
+  },
+  {
+    "kind": "crossref",
+    "id": "A11",
+    "url": "https://api.crossref.org/works/10.1080%2F0042098002221",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1080%2F0042098002221",
+    "bytes": 12135,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Singapore's Little India: A Tourist Attraction as a Contested Landscape"
+      ],
+      "author": [
+        {
+          "given": "T.C.",
+          "family": "Chang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Geography, National University of Singapore, 10 Kent Ridge Crescent, Singapore 119260,"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Urban Studies"
+      ],
+      "volume": "37",
+      "issue": "2",
+      "page": "343-366",
+      "published": {
+        "date-parts": [
+          [
+            2000,
+            2
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2000,
+            2
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2000,
+            2,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1080/0042098002221",
+      "ISBN": null,
+      "publisher": "SAGE Publications",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A11.json",
+    "sha256": "0e581b1a8d5ba5e0b790e54b3ae260ca002a969ac0680151af8ba88252faddf2"
+  },
+  {
+    "kind": "crossref",
+    "id": "A12",
+    "url": "https://api.crossref.org/works/10.1016%2FS0160-7383%2898%2900103-0",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016%2FS0160-7383%2898%2900103-0",
+    "bytes": 22748,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Rethinking authenticity in tourism experience"
+      ],
+      "author": [
+        {
+          "given": "Ning",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Annals of Tourism Research"
+      ],
+      "volume": "26",
+      "issue": "2",
+      "page": "349-370",
+      "published": {
+        "date-parts": [
+          [
+            1999,
+            4
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1999,
+            4
+          ]
+        ]
+      },
+      "published-online": null,
+      "DOI": "10.1016/s0160-7383(98)00103-0",
+      "ISBN": null,
+      "publisher": "Elsevier BV",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A12.json",
+    "sha256": "127c3eb53535c72285eb21c400ab303fd04651a7866bce2d91508591b644909d"
+  },
+  {
+    "kind": "pdf",
+    "id": "A04_Lim_2011_Singapore_in_Global_History.pdf",
+    "url": "https://uplopen.com/books/1398/files/d3f99330-f072-4273-bf5a-4f6cc5f02762.pdf",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "kind": "pdf",
+    "id": "A06_Poulios_2014_Past_in_the_Present.pdf",
+    "url": "https://discovery.ucl.ac.uk/1465977/1/Poulios.11-3-95-1-10-20140826.pdf",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://discovery.ucl.ac.uk/id/eprint/1465977/1/Poulios.11-3-95-1-10-20140826.pdf",
+    "bytes": 5826457,
+    "content_type": "application/pdf",
+    "pages": 182,
+    "first_page": "THE PAST IN\nTHE PRESENT\nA Living Heritage Approach \n– Meteora, Greece\nIoannis Poulios\nubiquity press\n",
+    "local": "fulltexts/A06_Poulios_2014_Past_in_the_Present.pdf",
+    "sha256": "98c0001e16e398ae9789388a5eea77a1c5bb11384ca32b1931041b41b3e38876"
+  },
+  {
+    "kind": "pdf",
+    "id": "A07_Yeoh_Kong_2012_Singapore_Chinatown.pdf",
+    "url": "https://pncc.pusan.ac.kr/bbs/pncc/12025/648424/download.do",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://pncc.pusan.ac.kr/bbs/pncc/12025/648424/download.do",
+    "bytes": 422345,
+    "content_type": "application/pdf; charset=UTF-8;",
+    "pages": 44,
+    "first_page": " \nLocalities, Vol. 2 117\nSingapores Chinatown: \nNation Building and Heritage Tourism \nin a Multiracial City\nBrenda S. A. Yeoh and Lily Kong\nBrenda S. A. Yeoh\nProfessor, Department of Geography, National University of Singapore\nE-mail: geoysa@nus.edu.sg\nLily Kong\nProfessor, Department of Geography, National University of Singapore\nE-mail: lilykong@nus.edu.sg\nAbstract\nThis paper focuses on the pivotal role played by the state in refashioning the \nChinatown landscape as part of both nation-building and heritage tourism \nprojects, and the ensuing cultural politics. After a brief history of the creation \nof Singapore’s Chinatown, the paper discusses, first, Chinatown’s place in \nSingapore’s post-",
+    "local": "fulltexts/A07_Yeoh_Kong_2012_Singapore_Chinatown.pdf",
+    "sha256": "1db05d4f1116192d08c568aa080f3463e287574698205700a2b945a9e6dfaa89"
+  },
+  {
+    "kind": "pdf",
+    "id": "P06_URA_Chinatown_Historic_District_Trail.pdf",
+    "url": "https://www.roots.gov.sg/-/media/Roots/Files/ura-chinatown-trail/urachinatowntrail17_brochure.pdf",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://www.roots.gov.sg/-/media/Roots/Files/ura-chinatown-trail/urachinatowntrail17_brochure.pdf",
+    "bytes": 5486110,
+    "content_type": "application/pdf",
+    "pages": 6,
+    "first_page": "TO CHINA SQUARE \nCONSERVATION AREA\nTO BLAIR PLAIN \nCONSERVATION AREA\n24\n22\n25\n26\n20\n21\n23\n18\n19\n16\n17\n14\n15\n13\n10\n11\n9\n8\n12\n3\nC\nG\nF\nE\nD\nA\nB\nH\n1\n2\n4\n5\n7\n6\nNE4 DT19\nCHINATOWN\nNE4 DT19\nCHINATOWN\nDT18\nTELOK AYER\nEW15\nTANJONG PAGAR\nEW15\nTANJONG PAGAR\nEW16 NE3 TS17\nOUTRAM PARK\nBUKIT PASOH\nTELOK AYER\nKRETA AYER\nTANJONG PAGAR\nCHINATOWN HISTORIC DISTRICT\nA joint project by\nMRT STATION\nCAR PARK\nWASHROOM\nLEGEND\nD. KRETA AYER PEOPLE’S THEATER\nH. RED DOT DESIGN MUSEUM\nA. PEOPLE’S PARK COMPLEX\nB. CHINATOWN POINT\nF. MAXWELL FOOD CENTRE\nE. BUDDHA TOOTH RELIC TEMPLE\nC. CHINATOWN HERITAGE CENTRE\nG. SINGAPORE CITY GALLERY\nThe Historic District of Chinatown comprises four distinct sub-districts: Telok Ayer, Kre",
+    "local": "fulltexts/P06_URA_Chinatown_Historic_District_Trail.pdf",
+    "sha256": "8204297336366fb9f046873835c4546f1cb384da9fb41c57443587ac621dda5e"
+  },
+  {
+    "kind": "pdf",
+    "id": "P12_SHS_LKYSPP_2017_Intangible_Heritage_Chinatown.pdf",
+    "url": "https://www.singaporeheritage.org/wp-content/uploads/2018/05/LKYSPP-SHS-Cultural-Heritage-in-Chinatown-Final-Report-13-Nov-2017.pdf",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "kind": "pdf",
+    "id": "P14_NHB_2025_ICH_Award_2024.pdf",
+    "url": "https://www.nhb.gov.sg/-/media/nhb/files/media/releases/2025/media-release---celebrating-heritage-practitioners-and-nurturing-youth-stewards-at-the-stewards-of-ich-award-2024.pdf",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

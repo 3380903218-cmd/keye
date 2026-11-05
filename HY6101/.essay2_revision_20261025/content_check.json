@@ -1,0 +1,26 @@
+{
+  "baseline_sha256": "6aadc60f07dccbe6fd2de94644cdf939d1f8ac7370193fbb77df36252bd062c3",
+  "candidate_sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+  "body_han_characters_excluding_headings_punctuation_latin_references": 8077,
+  "body_han_including_titles_and_headings": 8153,
+  "body_paragraphs": 46,
+  "reference_count": 7,
+  "block_count": 62,
+  "markdown_word_block_parity": true,
+  "comments_retained": 2,
+  "comments_resolved": 2,
+  "comment_texts_unchanged": true,
+  "header_footer_styles_fields_relationships_and_other_parts_byte_preserved": true,
+  "body_character_roles_before_rewrite": [
+    "inherited regular paragraph style"
+  ],
+  "all_seven_works_remain_in_comparative_argument": true,
+  "main_line": "以职业认识的变化为主线：发现保管中的判断，修正对合作的期待，理解历史研究的职业形式；由工作对象自然引出什么是档案。",
+  "final_sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+  "checked_at": "2026-10-25T23:52:44.610387+08:00",
+  "revision_decisions": "revision_state.json",
+  "professional_and_archive_meaning_focus_in_title_intro_sections_and_conclusion": true,
+  "personal_question_revision_progression_is_main_argument": true,
+  "occupation_primary_archive_definition_secondary": true,
+  "citations_serve_specific_reasoning_rather_than_author_by_author_summaries": true
+}

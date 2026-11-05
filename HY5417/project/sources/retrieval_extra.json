@@ -1,0 +1,487 @@
+[
+  {
+    "kind": "crossref",
+    "id": "A03",
+    "url": "https://api.crossref.org/works/10.1163%2F9789004512986_004",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1163%2F9789004512986_004",
+    "bytes": 1858,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "The Chineseness of Chinatown in Singapore: Chinese New Year Celebrations in a Multiracial Heritage Site"
+      ],
+      "author": [
+        {
+          "given": "Ying-kit",
+          "family": "Chan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Heritage, Contested Sites, and Borders of Memory in the Asia Pacific"
+      ],
+      "volume": null,
+      "issue": null,
+      "page": "56-79",
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            22
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            22
+          ]
+        ]
+      },
+      "published-online": null,
+      "DOI": "10.1163/9789004512986_004",
+      "ISBN": [
+        "9789004512986",
+        "9789004512979"
+      ],
+      "publisher": "BRILL",
+      "type": "book-chapter"
+    },
+    "local": "sources/crossref_A03.json",
+    "sha256": "4391136ace1efa7da423e326d58d340db73cfe855c40c35361ddbbae9a9c1b27"
+  },
+  {
+    "kind": "crossref",
+    "id": "A04",
+    "url": "https://api.crossref.org/works/10.1515%2F9789048514373-009",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1515%2F9789048514373-009",
+    "bytes": 2480,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "7. The Dynamics of Trans-Regional Business and National Politics: The Impact of Events in China on Fujian-Singapore Tea Trading Networks, 1920-1960"
+      ],
+      "author": [
+        {
+          "given": "Jason",
+          "family": "Lim",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Singapore in Global History"
+      ],
+      "volume": null,
+      "issue": null,
+      "page": "135-150",
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            12,
+            31
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            12,
+            31
+          ]
+        ]
+      },
+      "published-online": null,
+      "DOI": "10.1515/9789048514373-009",
+      "ISBN": [
+        "9789048514373"
+      ],
+      "publisher": "Amsterdam University Press",
+      "type": "book-chapter"
+    },
+    "local": "sources/crossref_A04.json",
+    "sha256": "515c54b4b809dbb667d0013e45ee540a90191f64e5d32935fcd55dd8842381d8"
+  },
+  {
+    "kind": "crossref",
+    "id": "A05",
+    "url": "https://api.crossref.org/works/10.4324%2F9780203602263",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.4324%2F9780203602263",
+    "bytes": 1351,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Uses of Heritage"
+      ],
+      "author": [
+        {
+          "given": "Laurajane",
+          "family": "Smith",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [],
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            11,
+            22
+          ]
+        ]
+      },
+      "published-print": null,
+      "published-online": {
+        "date-parts": [
+          [
+            2006,
+            11,
+            22
+          ]
+        ]
+      },
+      "DOI": "10.4324/9780203602263",
+      "ISBN": [
+        "9780203602263"
+      ],
+      "publisher": "Routledge",
+      "type": "book"
+    },
+    "local": "sources/crossref_A05.json",
+    "sha256": "ab3be723501fc5ed9aebed26ff632b5f4338ecd570d18f86cfe47f742cb603bb"
+  },
+  {
+    "kind": "crossref",
+    "id": "A06",
+    "url": "https://api.crossref.org/works/10.5334%2Fbak",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.5334%2Fbak",
+    "bytes": 1246,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Past in the Present: A Living Heritage Approach - Meteora, Greece"
+      ],
+      "author": null,
+      "editor": null,
+      "container-title": [],
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            8,
+            7
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            8,
+            7
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            8,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.5334/bak",
+      "ISBN": [
+        "9781909188273"
+      ],
+      "publisher": "Ubiquity Press",
+      "type": "monograph"
+    },
+    "local": "sources/crossref_A06.json",
+    "sha256": "aa5aac5f15d512262ff61da9afdaa79bc30b9a931fe0081b7f828b764e5f6c69"
+  },
+  {
+    "kind": "crossref",
+    "id": "A08",
+    "url": "https://api.crossref.org/works/10.1080%2F13683500.2019.1689930",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1080%2F13683500.2019.1689930",
+    "bytes": 4686,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Heritage spaces in a global context: the case of Singapore Chinatown"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1368-9121",
+          "authenticated-orcid": false,
+          "given": "Voon Chin",
+          "family": "Phua",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Sociology, Gettysburg College, Gettysburg, PA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jesse E.",
+          "family": "Shircliff",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sociology, Gettysburg College, Gettysburg, PA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Current Issues in Tourism"
+      ],
+      "volume": "23",
+      "issue": "12",
+      "page": "1449-1453",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            11,
+            13
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            6,
+            17
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            11,
+            13
+          ]
+        ]
+      },
+      "DOI": "10.1080/13683500.2019.1689930",
+      "ISBN": null,
+      "publisher": "Informa UK Limited",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A08.json",
+    "sha256": "81428d20ac72637644f5abce70c2cdf868a9534e844a446514e5f1692dd0b33c"
+  },
+  {
+    "kind": "crossref",
+    "id": "A09",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.geoforum.2020.10.006",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016%2Fj.geoforum.2020.10.006",
+    "bytes": 15203,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "Is Chinatown a place or space? A case study of Chinatown Singapore"
+      ],
+      "author": [
+        {
+          "given": "Jesse Ezra",
+          "family": "Shircliff",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Geoforum"
+      ],
+      "volume": "117",
+      "issue": null,
+      "page": "225-233",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      },
+      "published-online": null,
+      "DOI": "10.1016/j.geoforum.2020.10.006",
+      "ISBN": null,
+      "publisher": "Elsevier BV",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A09.json",
+    "sha256": "ce3246529a0d081b0b819da8a7979dc58a95f66e775c6fd80d4f882ca833476d"
+  },
+  {
+    "kind": "crossref",
+    "id": "A15",
+    "url": "https://api.crossref.org/works/10.1080%2F1369183X.2017.1364155",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1080%2F1369183X.2017.1364155",
+    "bytes": 8363,
+    "content_type": "application/json",
+    "metadata": {
+      "title": [
+        "The ‘new Chinatown’: the racialization of newly arrived Chinese migrants in Singapore"
+      ],
+      "author": [
+        {
+          "given": "Sylvia",
+          "family": "Ang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Independent scholar"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "editor": null,
+      "container-title": [
+        "Journal of Ethnic and Migration Studies"
+      ],
+      "volume": "44",
+      "issue": "7",
+      "page": "1177-1194",
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            9
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            19
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1080/1369183x.2017.1364155",
+      "ISBN": null,
+      "publisher": "Informa UK Limited",
+      "type": "journal-article"
+    },
+    "local": "sources/crossref_A15.json",
+    "sha256": "62c47bc857cedcc87e4e25986599ee04630373d805c298a6f619ed0aed239a56"
+  },
+  {
+    "kind": "pdf",
+    "id": "A04_Lim_2011_Tea_Trade.pdf",
+    "url": "https://www.jstor.org/stable/pdf/j.ctt46mtvv.11.pdf",
+    "retrieved": "2026-09-17",
+    "status": 200,
+    "final_url": "https://www.jstor.org/stable/pdf/j.ctt46mtvv.11.pdf",
+    "bytes": 3038,
+    "content_type": "text/html; charset=utf-8",
+    "error": "Response is not a PDF"
+  },
+  {
+    "kind": "pdf",
+    "id": "P12_SHS_LKYSPP_2017_Intangible_Heritage_Chinatown.pdf",
+    "url": "https://singaporeheritage.org/wp-content/uploads/2018/05/LKYSPP-SHS-Cultural-Heritage-in-Chinatown-Final-Report-13-Nov-2017.pdf",
+    "retrieved": "2026-09-17",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

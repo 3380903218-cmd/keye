@@ -1,0 +1,131 @@
+{
+  "schema_version": "2.0",
+  "delivery_id": "HY6101-essay2-English-translation-20261026",
+  "state": "final",
+  "content_authority": "User-approved Chinese Word, SHA256 44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1; current user request requires faithful, plain and accurate English translation without content changes.",
+  "format_authority": "Preserve approved paragraph order and section structure; Chicago 18 Notes and Bibliography. A4, one-inch margins, Times New Roman 12 pt body with 23 pt line spacing, native 10 pt footnotes, 11 pt hanging bibliography.",
+  "synchronization_direction": "approved Chinese source to English translation only",
+  "submitted_baseline_id": null,
+  "artifacts": [
+    {
+      "artifact_id": "essay2-en-docx",
+      "role": "final",
+      "path": "seminar 11/HY6101_Combined_Essay2_English.docx",
+      "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+      "frozen": false,
+      "required_gates": [
+        {
+          "gate": "content",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "package",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "rendered",
+          "evidence_mode": "file",
+          "extensions": {}
+        },
+        {
+          "gate": "delivery-package",
+          "evidence_mode": "file",
+          "extensions": {}
+        }
+      ],
+      "extensions": {
+        "content_stage": "Completed English translation; not represented as submitted.",
+        "pages": 16,
+        "native_footnotes": 15,
+        "bibliography_entries": 7
+      }
+    }
+  ],
+  "validations": [
+    {
+      "gate": "content",
+      "status": "passed",
+      "artifact_id": "essay2-en-docx",
+      "artifact_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+      "performed_at": "2026-10-26T01:04:46.943122+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_english_20261026/content_check.json",
+        "sha256": "a77272299a898b21d6274f00ede6879e24438147694182ba1f374aaaba982116",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "No outstanding limitation within the user-requested translation and Word delivery scope.",
+      "extensions": {}
+    },
+    {
+      "gate": "package",
+      "status": "passed",
+      "artifact_id": "essay2-en-docx",
+      "artifact_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+      "performed_at": "2026-10-26T01:04:46.943122+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_english_20261026/package_check.json",
+        "sha256": "f4a1de301e74d70a8e92a6f1f6d4cb1a1a5f431e46ab7c53419625be4115fd80",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "No outstanding limitation within the user-requested translation and Word delivery scope.",
+      "extensions": {}
+    },
+    {
+      "gate": "rendered",
+      "status": "passed",
+      "artifact_id": "essay2-en-docx",
+      "artifact_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+      "performed_at": "2026-10-26T01:04:46.943122+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_english_20261026/rendered_check.json",
+        "sha256": "51a1b443977e47331347b8bef422663cdc28f3b144e51b0e25906f99728b49ab",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "No outstanding limitation within the user-requested translation and Word delivery scope.",
+      "extensions": {}
+    },
+    {
+      "gate": "delivery-package",
+      "status": "passed",
+      "artifact_id": "essay2-en-docx",
+      "artifact_sha256": "b4f1fb34aacd10bc49bd526bec080cac2300476d663052d12530603bc572f186",
+      "performed_at": "2026-10-26T01:04:46.943122+08:00",
+      "evidence": {
+        "kind": "file",
+        "path": ".essay2_english_20261026/delivery_package_check.json",
+        "sha256": "e84b1290c03ac659f70b2f175038f66fdd3de04e14e73237f466474a0c2409a0",
+        "extensions": {}
+      },
+      "not_applicable": null,
+      "limitations": "No outstanding limitation within the user-requested translation and Word delivery scope.",
+      "extensions": {}
+    }
+  ],
+  "delivery_members": [
+    "essay2-en-docx"
+  ],
+  "invalidated_checks": [],
+  "unresolved_risks": [],
+  "next_action": "Hand off the English Word at the requested folder.",
+  "extensions": {
+    "source_dependency": {
+      "path": "seminar 11/HY6101_Combined_Essay2_中文版.docx",
+      "sha256": "44898ea0b510f25686fa0322cc8bea22a36f5be1905ced52bec651dfa03a5ad1",
+      "unchanged": true
+    },
+    "approved_source_snapshot": ".essay2_english_20261026/approved_chinese_source.docx",
+    "revision_state": ".essay2_english_20261026/revision_state.json",
+    "bilingual_alignment": ".essay2_english_20261026/paragraph_alignment.json",
+    "translation_body_words": 5131,
+    "chinese_delivery_record_preserved": true
+  }
+}

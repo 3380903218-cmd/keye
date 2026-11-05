@@ -1,0 +1,19 @@
+[
+  {
+    "source_id": "G13_Wang_ed_2012",
+    "url": "https://britishmuseum.iro.bl.uk/bitstreams/5b6d0a33-35cf-46b3-a2e6-0c7cc4f4e964/download",
+    "http_status": 200,
+    "bytes": 2865415,
+    "full_text_status": "present",
+    "local_path": "full-text/G13_Wang_ed_2012.pdf",
+    "pages": 186,
+    "sha256": "c66affc74d268084c1d72cc5efefb59e96d2d9a6a936b906e4c14782a75a5d86"
+  },
+  {
+    "source_id": "G11_Lincoln_2016",
+    "url": "https://journals.ub.uni-heidelberg.de/index.php/dah/article/download/25337/29162",
+    "http_status": 200,
+    "bytes": 4708,
+    "full_text_status": "unavailable"
+  }
+]

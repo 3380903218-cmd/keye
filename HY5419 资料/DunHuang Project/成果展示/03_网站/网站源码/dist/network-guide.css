@@ -1,0 +1,56 @@
+/* Event-centred reading with full names, explicit roles and original directed edges. */
+.relationship-guide{padding:30px;background:var(--paper)}
+.guide-header{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:40px;padding-bottom:25px;border-bottom:1px solid var(--line)}
+.guide-small-title{font-size:12px;letter-spacing:.06em;color:var(--red);line-height:1.6}
+.guide-header h3{font:32px/1.3 var(--serif);margin:12px 0 15px;max-width:800px}
+.guide-lead{font-size:18px;line-height:1.8;max-width:760px;color:#4b5549}
+.guide-selector label{display:block;font-size:13px;margin-bottom:9px;color:#596151}
+.guide-selector select{font:15px/1.6 var(--sans);color:var(--ink);background:#f8f3e9;border:1px solid #cfc4b380;padding:11px 30px 11px 12px;width:100%;min-height:48px;border-radius:6px;white-space:normal}
+.guide-paging{display:flex;justify-content:space-between;gap:15px;margin-top:10px}.guide-paging button{font-size:14px;padding:8px 0;min-height:44px}.guide-paging button:disabled{opacity:.35}
+.guide-reading{display:flex;justify-content:space-between;gap:25px;padding:22px 0 27px;align-items:start;font-size:14px;line-height:1.8;color:#606956}
+.guide-reading p{max-width:650px}.guide-reading>span{white-space:nowrap;font-variant-numeric:tabular-nums;font-size:13px}
+.relation-diagram{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.08fr) minmax(0,1fr);gap:45px;align-items:start}
+.relation-diagram>section{min-width:0;position:relative}
+.relation-diagram h4{display:flex;align-items:center;gap:9px;font-size:15px;line-height:1.5;margin:0 0 16px;min-height:25px;font-weight:600}
+.relation-diagram h4>span{font:14px var(--serif);border:0;background:#e5dac5;border-radius:60% 40% 60% 40%;width:25px;height:25px;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;color:#746b54}
+.relation-cards{display:grid;gap:13px}
+.relation-card{position:relative;width:100%;text-align:left;display:block;border:1px solid #d8c8ae40;border-radius:2px 18px 3px 14px;background:#fcf8ed;padding:17px 20px 18px;min-height:110px;box-shadow:0 1px 2px #8b70560a,0 5px 16px #51432a04;transition:border-color .15s,background .15s,box-shadow .15s;overflow-wrap:anywhere}
+.relation-card:before{content:'';position:absolute;left:0;top:14px;bottom:14px;width:2px;background:linear-gradient(transparent,var(--node-color),transparent);opacity:.22;pointer-events:none}.relation-card:after{content:'';position:absolute;right:-1px;bottom:-1px;width:14px;height:14px;background:linear-gradient(135deg,#d8c5a440 49%,var(--paper) 51%);pointer-events:none}
+.relation-card:hover{background:#f2ecdf;border-color:#cbbda780;box-shadow:0 4px 14px #51432a08}.relation-card.selected{outline:0;border-color:#a66c4d80;background:#efe5d5;box-shadow:inset 0 0 0 1px #a66c4d26}.relation-card:focus-visible{outline:2px solid var(--red);outline-offset:4px}
+.relation-type{font-size:12px;line-height:1.6;color:#65705c;display:flex;align-items:center;gap:7px}.relation-type i{height:7px;width:7px;border-radius:50%;background:var(--node-color);border:0;display:inline-block;flex-shrink:0}
+.relation-card strong{display:block;font-size:18px;font-weight:600;line-height:1.5;margin:8px 0 9px}.relation-role{display:block;font-size:14px;line-height:1.6;color:#825032}
+.relation-direction{position:absolute;top:50%;right:-34px;transform:translateY(-50%);color:#818975;font-size:25px;font-weight:400;pointer-events:none}
+.guide-outputs .relation-direction{right:auto;left:-34px}
+.activity-card{position:relative;border:1px solid #d3c0a22b;border-radius:2px;background:linear-gradient(90deg,#e7d8bd80,#efe5d1 6%,#eee1ca 94%,#e7d8bd80);padding:25px 24px 28px;min-height:235px;margin-top:0;box-shadow:0 5px 18px #51432a08}
+.activity-card:before,.activity-card:after{content:'';position:absolute;left:-7px;right:-7px;height:10px;border:1px solid #c6ad855e;border-radius:10px;background:linear-gradient(180deg,#dfcba8,#f5ead3 48%,#d9c29c);box-shadow:0 1px 3px #7d624e0a;pointer-events:none}.activity-card:before{top:-6px}.activity-card:after{bottom:-6px}
+.guide-lotus{display:block;width:66px;height:27px;color:#ae8c61;opacity:.75;margin:18px auto 4px}
+.activity-card.proposal,.activity-card.promise{border:1px dashed #b9a78a;background:#eee5d5}
+.activity-state{font-size:12px;line-height:1.6;color:#6c6250}.activity-card h5{font:28px/1.4 var(--serif);font-weight:400;margin:18px 0}.activity-date{font-size:16px;line-height:1.8;color:#465441;border-top:1px solid #9d8d6e30;padding-top:16px;margin-top:18px}.activity-place{font-size:14px;line-height:1.8;margin-top:13px;color:#626b58}
+.activity-scope{font-size:13px;line-height:1.8;border-top:1px solid #c8c3b3;margin-top:18px;padding-top:15px;color:#815133}
+.guide-no-record{border:0;border-radius:8px;padding:23px 20px;font-size:15px;line-height:1.9;color:#6e7466;background:#efeadd;min-height:110px}
+.guide-expand{font-size:14px;padding:13px 0;min-height:44px;text-decoration:underline;color:#7c5037;text-align:left;line-height:1.7}
+.guide-card-help{font-size:14px;color:#69745f;margin:25px 0 28px;line-height:1.8}
+.guide-proof{border-top:1px solid var(--line);padding:26px 0 5px;max-width:1020px;scroll-margin-top:115px}
+.guide-proof h4{font-size:19px;line-height:1.6;margin:15px 0 14px;font-weight:600}
+.guide-statement{font-size:18px;line-height:1.8;margin:12px 0 23px;color:#414b3c}.guide-statement>span{color:#855233}
+.guide-claim{font-size:17px;line-height:1.9;max-width:880px;margin:12px 0;color:#475342}
+.guide-limit{font-size:15px;line-height:1.9;color:#646b5c;max-width:880px;margin:12px 0}.guide-limit>b{font-weight:600;display:block;margin-bottom:4px}
+.guide-citation{font-size:13px;line-height:1.9;color:#737866;margin:17px 0;overflow-wrap:anywhere}.guide-citation a{text-decoration:underline;text-underline-offset:4px;color:#865035;display:inline-block;margin-left:12px;min-height:36px;padding:5px 0}
+.guide-extra-proof,.guide-original{font-size:14px;line-height:1.8;border-top:1px solid #d7d1c2;margin-top:15px;max-width:880px}.guide-extra-proof summary,.guide-original summary{cursor:pointer;padding:13px 0;min-height:44px}.guide-original p{font-size:12px;line-height:1.9;color:#777969;margin:8px 0 20px;overflow-wrap:anywhere}
+.guide-support{font-size:13px;line-height:1.8;max-width:880px;margin:15px 0;color:#6e7565}.guide-link{font-size:14px;color:#865035;text-decoration:underline;min-height:44px;padding:10px 0;display:block;text-align:left}
+.guide-arrangement{font-size:13px;line-height:1.9;color:#707967;border-top:1px solid var(--line);margin-top:20px;padding-top:20px;max-width:1020px}
+.guide-back-button{font-size:14px;line-height:1.6;border:1px solid #b9b4a4;padding:10px 12px;margin:14px 0;min-height:44px}
+.network-inspector .net-related-role{font-size:14px;color:#825032;line-height:1.8;margin:12px 0}
+#network[data-network-view=guide] .network-search label{font-size:12px}
+#network[data-network-view=guide] .network-guides{flex:1.5}
+.network-guides button[data-network-guide=all]{border-color:#8c9380}
+.network-guides button:last-child{grid-column:auto}
+.relation-diagram{position:relative}.guide-connectors{position:absolute;left:0;top:0;z-index:0;pointer-events:none;overflow:visible}.relation-diagram>section{z-index:1}.relation-direction{display:none}.activity-layer{font-size:12px;line-height:1.6;color:#6b715a;margin-bottom:8px}
+#network[data-network-view=guide] .network-shell{border-color:#d6cdbd80}
+.relation-diagram{align-items:stretch}.relation-diagram>section{display:flex;flex-direction:column}.relation-diagram h4{min-height:45px;flex-shrink:0}.relation-diagram .relation-cards,.relation-diagram .activity-card{margin-top:auto;margin-bottom:auto}
+.network-presenting #network[data-network-view=guide] .relationship-guide{padding-top:25px}
+@media(max-width:1100px){.guide-header{grid-template-columns:minmax(0,1fr) 265px;gap:25px}.relation-diagram{gap:32px}.relationship-guide{padding:25px}.relation-card{padding:14px}.relation-card strong{font-size:17px}.relation-direction{right:-26px;font-size:22px}.guide-outputs .relation-direction{left:-26px}.activity-card{padding:20px}.activity-card h5{font-size:25px}.relation-diagram h4{font-size:14px}.guide-reading{display:block}.guide-reading>span{display:block;margin-top:10px}.guide-header h3{font-size:29px}}
+@media(max-width:800px){.guide-header{grid-template-columns:1fr;gap:23px}.guide-selector{max-width:none}.guide-paging{justify-content:flex-start;gap:40px}.guide-header h3{font-size:29px}.guide-lead{font-size:17px}.relation-diagram{grid-template-columns:1fr;gap:42px}.relation-card{min-height:100px;padding:15px 20px}.relation-direction{right:17px;top:auto;bottom:-33px;transform:rotate(90deg);font-size:25px}.guide-outputs .relation-direction{right:17px;left:auto;bottom:auto;top:-32px}.relation-cards{gap:29px}.relation-card strong{font-size:18px}.relation-diagram h4{font-size:16px;margin-bottom:15px}.activity-card{min-height:0;max-width:none}.activity-card h5{font-size:27px}.activity-date{font-size:16px}.guide-activity:after{content:'↓';display:block;font-size:27px;color:#818975;position:absolute;bottom:-37px;right:18px}.guide-outputs .relation-direction{display:none}.guide-proof{scroll-margin-top:125px}.guide-card-help{margin-top:25px}.guide-statement{font-size:17px}.guide-claim{font-size:16px}.guide-limit{font-size:15px}.guide-citation{font-size:12px}.guide-header .guide-selector select{font-size:16px}}
+@media(max-width:560px){.relationship-guide{padding:24px 19px}.guide-header h3{font-size:27px}.guide-lead{font-size:17px;line-height:1.85}.guide-small-title{font-size:12px}.guide-reading{font-size:13px;padding:20px 0 25px}.guide-reading>span{font-size:12px}.relation-card strong{font-size:18px}.relation-role{font-size:14px}.relation-type{font-size:12px}.activity-card h5{font-size:26px}.guide-proof h4{font-size:18px}.guide-arrangement{font-size:12px}.guide-support{font-size:12px}.guide-original p{font-size:12px}.network-guides{grid-template-columns:repeat(2,minmax(0,1fr))}.network-guides button:last-child{grid-column:auto}}
+@media(max-width:800px){.guide-connectors,.relation-direction{display:none}.relation-cards{gap:13px}.guide-inputs:after{content:'↓';display:block;font-size:27px;color:#818975;position:absolute;bottom:-37px;right:18px}}
+@media(max-width:800px){.relation-diagram>section{display:block}.relation-diagram h4{min-height:25px}.relation-diagram .relation-cards,.relation-diagram .activity-card{margin-top:0;margin-bottom:0}}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "performed_at": "2026-11-04T23:30:50.414619+08:00",
+  "artifact_sha256": "8a8e6227f221e24426e5ccd73b5f3d9bedae0f693c5fef8d7a4660f4cfb95491",
+  "requested_output_path": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/HY5419_敦煌项目_批判性反思_英文稿.docx",
+  "source_original_unchanged": true,
+  "user_facing_output_exists": true,
+  "only_new_reader_facing_artifact": "English DOCX",
+  "QA_and_backups_location": "/Users/arourouwed/Desktop/NUS/2026-1/HY5419 资料/final essay/_修订记录/2026-11-04_英文翻译",
+  "existing_editor_locks_preserved": true,
+  "english_body_word_count": 4321
+}

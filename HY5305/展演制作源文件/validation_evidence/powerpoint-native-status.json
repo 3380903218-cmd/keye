@@ -1,0 +1,9 @@
+{
+  "application": "Microsoft PowerPoint",
+  "returncode": 1,
+  "stdout": "",
+  "stderr": "/tmp/hy5305-delivery-work/render_powerpoint.applescript:177:205: execution error: “Microsoft PowerPoint”遇到一个错误：AppleEvent已超时。 (-1712)\n",
+  "pdf_created": false,
+  "source_sha256": "9e10049ff29243f1f3f437b438e1f3b9ccf8fcee4c101f6b301f6455badb8889",
+  "source_unchanged": true
+}

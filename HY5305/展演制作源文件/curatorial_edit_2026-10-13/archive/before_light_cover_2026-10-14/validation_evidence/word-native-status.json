@@ -1,0 +1,11 @@
+{
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "",
+  "application": "Microsoft Word",
+  "pdf_created": true,
+  "source_sha256": "808670c13f76939d4b0a38fe39450353d31d2477498d67e2858c0cb46b38454b",
+  "source_unchanged": true,
+  "pages": 5,
+  "pdf_sha256": "310e7c886d04fd21e5bb4168b03f0e3426cf3f088a2e622952e087991f5426b5"
+}
